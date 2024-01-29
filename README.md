@@ -154,3 +154,5 @@
 [39178116](https://news.social-protocols.org/stats?id=39178116) #13 2 points 0 comments -> [__VA_OPT__ Minutiae](https://www.corsix.org/content/va-opt-minutiae)<br><!-- HN:39178116:end --><!-- HN:39179125:start -->
 [39179125](https://news.social-protocols.org/stats?id=39179125) #16 15 points 40 comments -> [How the U.S. Government Could Lower Food Prices for Everyone](https://www.vice.com/en/article/88x783/how-the-us-government-could-lower-food-prices-for-everyone)<br><!-- HN:39179125:end --><!-- HN:39178847:start -->
 [39178847](https://news.social-protocols.org/stats?id=39178847) #27 48 points 4 comments -> [Amazon drops $1.4B deal to buy iRobot after EU veto reports](https://www.theguardian.com/technology/2024/jan/29/amazon-deal-irobot-eu-veto-roomba)<br><!-- HN:39178847:end -->
+<!-- HN:39181217:start -->
+[39181217](https://news.social-protocols.org/stats?id=39181217) #27 5 points 1 comments -> [BeOS, the PC operating system that tried to challenge Windows and Mac](https://www.neowin.net/news/a-quick-look-back-at-beos-the-pc-operating-system-that-tried-to-challenge-windows-and-mac/)<br><!-- HN:39181217:end -->
