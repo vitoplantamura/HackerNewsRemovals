@@ -157,4 +157,5 @@
 * [39181217](https://news.social-protocols.org/stats?id=39181217) #27 5 points 1 comments -> [BeOS, the PC operating system that tried to challenge Windows and Mac](https://www.neowin.net/news/a-quick-look-back-at-beos-the-pc-operating-system-that-tried-to-challenge-windows-and-mac/)<!-- HN:39181217:end -->
 <!-- HN:39181042:start -->
 * [39181042](https://news.social-protocols.org/stats?id=39181042) #11 20 points 7 comments -> [Metal guitar skills linked to intrasexual competition, but not mating success](https://psycnet.apa.org/doiLanding?doi=10.1037%2Febs0000304)<!-- HN:39181042:end --><!-- HN:39181473:start -->
-* [39181473](https://news.social-protocols.org/stats?id=39181473) #16 22 points 41 comments -> [There's No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)<!-- HN:39181473:end -->
+* [39181473](https://news.social-protocols.org/stats?id=39181473) #16 22 points 41 comments -> [There's No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)<!-- HN:39181473:end --><!-- HN:39180537:start -->
+* [39180537](https://news.social-protocols.org/stats?id=39180537) #17 15 points 6 comments -> [Beliefs That Kill Birth Rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)<!-- HN:39180537:end -->
