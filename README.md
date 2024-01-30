@@ -169,4 +169,5 @@
 * [39183799](https://news.social-protocols.org/stats?id=39183799) #4 18 points 1 comments -> [Beliefs that kill birth rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)<!-- HN:39183799:end -->
 #### **Tuesday, January 30, 2024**
 <!-- HN:39184451:start -->
-* [39184451](https://news.social-protocols.org/stats?id=39184451) #5 12 points 4 comments -> [The FAA's Hiring Scandal: A Quick Overview](https://www.tracingwoodgrains.com/p/the-faas-hiring-scandal-a-quick-overview)<!-- HN:39184451:end -->
+* [39184451](https://news.social-protocols.org/stats?id=39184451) #5 12 points 4 comments -> [The FAA's Hiring Scandal: A Quick Overview](https://www.tracingwoodgrains.com/p/the-faas-hiring-scandal-a-quick-overview)<!-- HN:39184451:end --><!-- HN:39184363:start -->
+* [39184363](https://news.social-protocols.org/stats?id=39184363) #22 8 points 3 comments -> [It looks like AI will kill Quantum Computing](https://www.youtube.com/watch?v=Q8A4wEohqT0)<!-- HN:39184363:end -->
