@@ -167,3 +167,6 @@
 * [39182829](https://news.social-protocols.org/stats?id=39182829) #18 6 points 3 comments -> [Show HN: Submit your startup in 150 directories in 5 min](https://quicklist.ing/)<!-- HN:39182829:end --><!-- HN:39183452:start -->
 * [39183452](https://news.social-protocols.org/stats?id=39183452) #25 13 points 0 comments -> [Covid-19: Negligence by Experts](https://blogs.bmj.com/medical-ethics/2024/01/24/negligence-by-experts-in-the-early-response-to-covid-19/)<!-- HN:39183452:end --><!-- HN:39183799:start -->
 * [39183799](https://news.social-protocols.org/stats?id=39183799) #4 18 points 1 comments -> [Beliefs that kill birth rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)<!-- HN:39183799:end -->
+#### **Tuesday, January 30, 2024**
+<!-- HN:39184451:start -->
+* [39184451](https://news.social-protocols.org/stats?id=39184451) #5 12 points 4 comments -> [The FAA's Hiring Scandal: A Quick Overview](https://www.tracingwoodgrains.com/p/the-faas-hiring-scandal-a-quick-overview)<!-- HN:39184451:end -->
