@@ -181,3 +181,6 @@
 * [39193096](https://news.social-protocols.org/stats?id=39193096) #30 11 points 6 comments -> [AI Companies and Advocates Are Becoming More Cult-Like](https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/)<!-- HN:39193096:end --><!-- HN:39193676:start -->
 * [39193676](https://news.social-protocols.org/stats?id=39193676) #30 5 points 0 comments -> [Microsoft Edge is apparently usurping Chrome on people's PCs](https://arstechnica.com/gadgets/2024/01/microsoft-edge-is-apparently-seamlessly-usurping-chrome-on-peoples-pcs/)<!-- HN:39193676:end --><!-- HN:39194269:start -->
 * [39194269](https://news.social-protocols.org/stats?id=39194269) #18 34 points 19 comments -> [Rent has never been less affordable, especially for the middle class](https://www.washingtonpost.com/business/2024/01/25/rent-housing-costs/)<!-- HN:39194269:end -->
+#### **Wednesday, January 31, 2024**
+<!-- HN:39197770:start -->
+* [39197770](https://news.social-protocols.org/stats?id=39197770) #11 7 points 0 comments -> [For 26 Years, Toforest Johnson Has Been on Death Row for Crime He Did Not Commit](https://www.toforestjohnson.com)<!-- HN:39197770:end -->
