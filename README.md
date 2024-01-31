@@ -183,4 +183,5 @@
 * [39194269](https://news.social-protocols.org/stats?id=39194269) #18 34 points 19 comments -> [Rent has never been less affordable, especially for the middle class](https://www.washingtonpost.com/business/2024/01/25/rent-housing-costs/)<!-- HN:39194269:end -->
 #### **Wednesday, January 31, 2024**
 <!-- HN:39197770:start -->
-* [39197770](https://news.social-protocols.org/stats?id=39197770) #11 7 points 0 comments -> [For 26 Years, Toforest Johnson Has Been on Death Row for Crime He Did Not Commit](https://www.toforestjohnson.com)<!-- HN:39197770:end -->
+* [39197770](https://news.social-protocols.org/stats?id=39197770) #11 7 points 0 comments -> [For 26 Years, Toforest Johnson Has Been on Death Row for Crime He Did Not Commit](https://www.toforestjohnson.com)<!-- HN:39197770:end --><!-- HN:39197495:start -->
+* [39197495](https://news.social-protocols.org/stats?id=39197495) #4 7 points 1 comments -> [Here is Why You Must be INSANE to buy an RV These Days](https://www.youtube.com/watch?v=xElhTNS_xn8)<!-- HN:39197495:end -->
