@@ -204,5 +204,3 @@
 * [39209111](https://news.social-protocols.org/stats?id=39209111) #23 19 points 4 comments -> [Sen Wyden Reintroduces Legislation That Would Actually Help Be Kids Safer Online](https://www.techdirt.com/2024/01/31/as-congress-grandstands-nonsense-kid-safety-bills-senator-wyden-reintroduces-legislation-that-would-actually-help-deal-with-kid-exploitation-online/)<!-- HN:39209111:end --><!-- HN:39209642:start -->
 * [39209642](https://news.social-protocols.org/stats?id=39209642) #9 7 points 1 comments -> [Innovating S3 Bucket Retrieval: LangChain Community S3 Loaders with OpenAI API](https://blog.min.io/langchain-openai-s3-loader/)<!-- HN:39209642:end -->
 #### **Thursday, February 1, 2024**
-<!-- HN:39211248:start -->
-* [39211248](https://news.social-protocols.org/stats?id=39211248) #30 11 points 3 comments -> [Activist who led ouster of Harvard pres linked to 'scientific racism' journal](https://www.theguardian.com/world/2024/jan/31/rightwing-activist-christopher-rufo-ties-scientific-racism-journal)<!-- HN:39211248:end -->
