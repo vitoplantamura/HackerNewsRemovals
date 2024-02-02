@@ -235,4 +235,5 @@
 * [39221661](https://news.social-protocols.org/stats?id=39221661) #16 9 points 2 comments -> [Show HN: The Super Programmer – A colorful introduction to engineering](https://keyvan.me/tsp)<!-- HN:39221661:end -->
 #### **Friday, February 2, 2024**
 <!-- HN:39223766:start -->
-* [39223766](https://news.social-protocols.org/stats?id=39223766) #17 94 points 69 comments -> ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)<!-- HN:39223766:end -->
+* [39223766](https://news.social-protocols.org/stats?id=39223766) #17 94 points 69 comments -> ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)<!-- HN:39223766:end --><!-- HN:39224292:start -->
+* [39224292](https://news.social-protocols.org/stats?id=39224292) #26 9 points 2 comments -> [Utah Bans DEI Programs, Joining Other States](https://www.nytimes.com/2024/02/01/us/states-anti-dei-laws-utah.html)<!-- HN:39224292:end -->
