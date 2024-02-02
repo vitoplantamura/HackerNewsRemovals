@@ -235,4 +235,5 @@
 * [39221661](https://news.social-protocols.org/stats?id=39221661) #16 9 points 2 comments -> [Show HN: The Super Programmer – A colorful introduction to engineering](https://keyvan.me/tsp)<!-- HN:39221661:end -->
 #### **Friday, February 2, 2024**
 <!-- HN:39224292:start -->
-* [39224292](https://news.social-protocols.org/stats?id=39224292) #26 9 points 2 comments -> [Utah Bans DEI Programs, Joining Other States](https://www.nytimes.com/2024/02/01/us/states-anti-dei-laws-utah.html)<!-- HN:39224292:end -->
+* [39224292](https://news.social-protocols.org/stats?id=39224292) #26 9 points 2 comments -> [Utah Bans DEI Programs, Joining Other States](https://www.nytimes.com/2024/02/01/us/states-anti-dei-laws-utah.html)<!-- HN:39224292:end --><!-- HN:39225118:start -->
+* [39225118](https://news.social-protocols.org/stats?id=39225118) #30 3 points 2 comments -> [So Many Problems Continue to Plague the EV Industry](https://wattsupwiththat.com/2024/01/30/so-many-problems-continue-to-plague-the-ev-industry/)<!-- HN:39225118:end -->
