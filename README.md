@@ -233,3 +233,6 @@
 * [39221040](https://news.social-protocols.org/stats?id=39221040) #9 9 points 0 comments -> ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2023-6246/)<!-- HN:39221040:end --><!-- HN:39219553:start -->
 * [39219553](https://news.social-protocols.org/stats?id=39219553) #30 -> [Math Built the Modern World](https://worksinprogress.co/issue/how-mathematics-built-the-modern-world/)<!-- HN:39219553:end --><!-- HN:39221661:start -->
 * [39221661](https://news.social-protocols.org/stats?id=39221661) #16 9 points 2 comments -> [Show HN: The Super Programmer – A colorful introduction to engineering](https://keyvan.me/tsp)<!-- HN:39221661:end -->
+#### **Friday, February 2, 2024**
+<!-- HN:39223766:start -->
+* [39223766](https://news.social-protocols.org/stats?id=39223766) #17 94 points 69 comments -> ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)<!-- HN:39223766:end -->
