@@ -289,4 +289,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39200955](https://news.social-protocols.org/stats?id=39200955) #17 10 points 0 comments -> [The Official Raspberry Pi Handbook 2024](https://store.rpipress.cc/products/the-official-raspberry-pi-handbook-2024)<!-- HN:39200955:end --><!-- HN:39235146:start -->
 * [39235146](https://news.social-protocols.org/stats?id=39235146) #22 23 points 2 comments -> [It's the Impunity, Stupid](https://niedermeyer.io/2024/02/02/its-the-impunity-stupid)<!-- HN:39235146:end --><!-- HN:39233802:start -->
 * [39233802](https://news.social-protocols.org/stats?id=39233802) #19 37 points 40 comments -> [Jaron Lanier: Where Will Virtual Reality Take Us?](https://www.newyorker.com/tech/annals-of-technology/where-will-virtual-reality-take-us)<!-- HN:39233802:end -->
-#### **Saturday, February 3, 2024**
+#### **Saturday, February 3, 2024**<!-- HN:39239724:start -->
+* [39239724](https://news.social-protocols.org/stats?id=39239724) #4 4 points 0 comments -> [Farewell, after 20 years: Why we did what we did](https://www.getreligion.org/getreligion/2023/12/29/why-we-did-what-we-did)<!-- HN:39239724:end -->
