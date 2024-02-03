@@ -291,4 +291,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39233802](https://news.social-protocols.org/stats?id=39233802) #19 37 points 40 comments -> [Jaron Lanier: Where Will Virtual Reality Take Us?](https://www.newyorker.com/tech/annals-of-technology/where-will-virtual-reality-take-us)<!-- HN:39233802:end -->
 #### **Saturday, February 3, 2024**
 <!-- HN:39236048:start -->
-* [39236048](https://news.social-protocols.org/stats?id=39236048) #16 2 points 0 comments -> [Simulacra and Simulations](https://web.stanford.edu/class/history34q/readings/Baudrillard/Baudrillard_Simulacra.html)<!-- HN:39236048:end -->
+* [39236048](https://news.social-protocols.org/stats?id=39236048) #16 2 points 0 comments -> [Simulacra and Simulations](https://web.stanford.edu/class/history34q/readings/Baudrillard/Baudrillard_Simulacra.html)<!-- HN:39236048:end --><!-- HN:39235036:start -->
+* [39235036](https://news.social-protocols.org/stats?id=39235036) #28 22 points 13 comments -> [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)<!-- HN:39235036:end -->
