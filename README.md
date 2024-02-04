@@ -295,4 +295,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39239265](https://news.social-protocols.org/stats?id=39239265) #3 403 points 3 comments -> [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)<!-- HN:39239265:end --><!-- HN:39241372:start -->
 * [39241372](https://news.social-protocols.org/stats?id=39241372) #7 95 points 2 comments -> [Over the Edge - Microsoft’s Design Tactics Compromise Free Browser Choice [pdf]](https://research.mozilla.org/files/2024/01/Over-the-Edge-Report-January-2024.pdf)<!-- HN:39241372:end --><!-- HN:39243334:start -->
 * [39243334](https://news.social-protocols.org/stats?id=39243334) #15 5 points 0 comments -> [Zuckerberg Boasts He'll Be AI God King Because We Already Gave Him All Our Data](https://www.vice.com/en/article/xgwp5z/zuckerberg-meta-earnings-call-ai-we-already-gave-him-all-our-data)<!-- HN:39243334:end -->
-#### **Sunday, February 4, 2024**
+#### **Sunday, February 4, 2024**<!-- HN:39245639:start -->
+* [39245639](https://news.social-protocols.org/stats?id=39245639) #2 67 points 34 comments -> [The King of Curcumin: a case study in consequences of large-scale research fraud](https://reeserichardson.blog/2024/01/30/the-king-of-curcumin-a-case-study-in-the-consequences-of-large-scale-research-fraud/)<!-- HN:39245639:end -->
