@@ -296,5 +296,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39241372](https://news.social-protocols.org/stats?id=39241372) #7 95 points 2 comments -> [Over the Edge - Microsoft’s Design Tactics Compromise Free Browser Choice [pdf]](https://research.mozilla.org/files/2024/01/Over-the-Edge-Report-January-2024.pdf)<!-- HN:39241372:end --><!-- HN:39243334:start -->
 * [39243334](https://news.social-protocols.org/stats?id=39243334) #15 5 points 0 comments -> [Zuckerberg Boasts He'll Be AI God King Because We Already Gave Him All Our Data](https://www.vice.com/en/article/xgwp5z/zuckerberg-meta-earnings-call-ai-we-already-gave-him-all-our-data)<!-- HN:39243334:end -->
 #### **Sunday, February 4, 2024**
-<!-- HN:39246761:start -->
-* [39246761](https://news.social-protocols.org/stats?id=39246761) #28 7 points 2 comments -> [Tesla Recalls Almost Every Vehicle Ever Sold in the US](https://uk.pcmag.com/cars-auto/150738/tesla-recalls-almost-every-vehicle-its-sold-in-the-us)<!-- HN:39246761:end -->
