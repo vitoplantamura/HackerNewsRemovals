@@ -312,4 +312,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39187365](https://news.social-protocols.org/stats?id=39187365) #17 6 points 5 comments -> [Japanese government bids sayonara to the 3.5" floppy disk](https://www.theregister.com/2024/01/29/japan_government_floppy_disks/)<!-- HN:39187365:end -->
 #### **Monday, February 5, 2024**
 <!-- HN:39257946:start -->
-* [39257946](https://news.social-protocols.org/stats?id=39257946) #15 5 points 0 comments -> [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)<!-- HN:39257946:end -->
+* [39257946](https://news.social-protocols.org/stats?id=39257946) #15 5 points 0 comments -> [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)<!-- HN:39257946:end --><!-- HN:39187529:start -->
+* [39187529](https://news.social-protocols.org/stats?id=39187529) #15 38 points 40 comments -> [A Reporter's Journey into How the U.S. Funded the Bomb](https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html)<!-- HN:39187529:end -->
