@@ -313,4 +313,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 5, 2024**
 <!-- HN:39257946:start -->
 * [39257946](https://news.social-protocols.org/stats?id=39257946) #15 5 points 0 comments -> [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)<!-- HN:39257946:end --><!-- HN:39187529:start -->
-* [39187529](https://news.social-protocols.org/stats?id=39187529) #15 38 points 40 comments -> [A Reporter's Journey into How the U.S. Funded the Bomb](https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html)<!-- HN:39187529:end -->
+* [39187529](https://news.social-protocols.org/stats?id=39187529) #15 38 points 40 comments -> [A Reporter's Journey into How the U.S. Funded the Bomb](https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html)<!-- HN:39187529:end --><!-- HN:39259093:start -->
+* [39259093](https://news.social-protocols.org/stats?id=39259093) #10 22 points 41 comments -> [The New Work-Life Balance: Don't Have Kids](https://www.bloomberg.com/opinion/articles/2024-02-04/career-demands-meager-leave-policies-drive-down-birth-rate)<!-- HN:39259093:end -->
