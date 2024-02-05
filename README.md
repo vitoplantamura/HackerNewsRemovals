@@ -310,3 +310,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39252456](https://news.social-protocols.org/stats?id=39252456) #25 3 points 1 comments -> [What Web Can Do Today?](https://whatwebcando.today/)<!-- HN:39252456:end --><!-- HN:39252007:start -->
 * [39252007](https://news.social-protocols.org/stats?id=39252007) #28 18 points 1 comments -> [This AI learnt language by seeing the world through a baby's eyes](https://www.nature.com/articles/d41586-024-00288-1)<!-- HN:39252007:end --><!-- HN:39187365:start -->
 * [39187365](https://news.social-protocols.org/stats?id=39187365) #17 6 points 5 comments -> [Japanese government bids sayonara to the 3.5" floppy disk](https://www.theregister.com/2024/01/29/japan_government_floppy_disks/)<!-- HN:39187365:end -->
+#### **Monday, February 5, 2024**
+<!-- HN:39257946:start -->
+* [39257946](https://news.social-protocols.org/stats?id=39257946) #15 5 points 0 comments -> [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)<!-- HN:39257946:end -->
