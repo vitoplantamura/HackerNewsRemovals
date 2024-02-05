@@ -313,4 +313,8 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 5, 2024**
 <!-- HN:39257946:start -->
 * [39257946](https://news.social-protocols.org/stats?id=39257946) #15 5 points 0 comments -> [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)<!-- HN:39257946:end --><!-- HN:39258755:start -->
-* [39258755](https://news.social-protocols.org/stats?id=39258755) #21 6 points 2 comments -> [Inkdrop – Organizing your tech notes made simple](https://www.inkdrop.app)<!-- HN:39258755:end -->
+* [39258755](https://news.social-protocols.org/stats?id=39258755) #21 6 points 2 comments -> [Inkdrop – Organizing your tech notes made simple](https://www.inkdrop.app)<!-- HN:39258755:end --><!-- HN:39187370:start -->
+* [39187370](https://news.social-protocols.org/stats?id=39187370) #8 76 points 38 comments -> [Improving my Emacs experience with completion](https://martinfowler.com/articles/2024-emacs-completion.html)<!-- HN:39187370:end --><!-- HN:39214005:start -->
+* [39214005](https://news.social-protocols.org/stats?id=39214005) #15 26 points 16 comments -> [History of Virtual Reality](https://www.vrs.org.uk/virtual-reality/history.html)<!-- HN:39214005:end --><!-- HN:39174373:start -->
+* [39174373](https://news.social-protocols.org/stats?id=39174373) #19 72 points 9 comments -> [Tindallgrams – Memos by Bill Tindall](https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html)<!-- HN:39174373:end --><!-- HN:39210266:start -->
+* [39210266](https://news.social-protocols.org/stats?id=39210266) #26 20 points 3 comments -> [Abstractions, repetition and discovery (2015)](http://beyond-code.com/blog/abstractions-repetition-discovery)<!-- HN:39210266:end -->
