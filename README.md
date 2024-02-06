@@ -325,3 +325,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39265051](https://news.social-protocols.org/stats?id=39265051) #11 6 points 0 comments -> [Anti-Zionist David Miller Ruled Wrongfully Dismissed from University of Bristol](https://epigram.org.uk/david-miller-was-wrongfully-dismissed-from-the-university-of-bristol-tribunal-rules/)<!-- HN:39265051:end --><!-- HN:39265925:start -->
 * [39265925](https://news.social-protocols.org/stats?id=39265925) #25 15 points 6 comments -> [Google's CEO Responded to Intense Criticism at the Company's All-Hands Meeting](https://www.inc.com/jason-aten/googles-ceo-responded-to-intense-criticism-at-companys-all-hands-meeting-it-didnt-go-well.html)<!-- HN:39265925:end --><!-- HN:39268016:start -->
 * [39268016](https://news.social-protocols.org/stats?id=39268016) #27 25 points 40 comments -> [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)<!-- HN:39268016:end -->
+#### **Tuesday, February 6, 2024**
+<!-- HN:39269742:start -->
+* [39269742](https://news.social-protocols.org/stats?id=39269742) #29 32 points 19 comments -> [The Tragedy of Mathematics in Russia](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)<!-- HN:39269742:end -->
