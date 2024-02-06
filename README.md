@@ -327,4 +327,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39268016](https://news.social-protocols.org/stats?id=39268016) #27 25 points 40 comments -> [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)<!-- HN:39268016:end -->
 #### **Tuesday, February 6, 2024**
 <!-- HN:39269742:start -->
-* [39269742](https://news.social-protocols.org/stats?id=39269742) #29 32 points 19 comments -> [The Tragedy of Mathematics in Russia](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)<!-- HN:39269742:end -->
+* [39269742](https://news.social-protocols.org/stats?id=39269742) #29 32 points 19 comments -> [The Tragedy of Mathematics in Russia](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)<!-- HN:39269742:end --><!-- HN:39271243:start -->
+* [39271243](https://news.social-protocols.org/stats?id=39271243) #14 25 points 15 comments -> [Browsers Are Weird](https://tylersticka.com/journal/browsers-are-weird-right-now/)<!-- HN:39271243:end -->
