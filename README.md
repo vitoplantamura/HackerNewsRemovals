@@ -328,4 +328,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39269742:start -->
 * [39269742](https://news.social-protocols.org/stats?id=39269742) #29 32 points 19 comments -> [The Tragedy of Mathematics in Russia](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)<!-- HN:39269742:end --><!-- HN:39271243:start -->
 * [39271243](https://news.social-protocols.org/stats?id=39271243) #14 25 points 15 comments -> [Browsers Are Weird](https://tylersticka.com/journal/browsers-are-weird-right-now/)<!-- HN:39271243:end --><!-- HN:39272103:start -->
-* [39272103](https://news.social-protocols.org/stats?id=39272103) #1 11 points 5 comments -> [OpenAI's Whisper is another case study in Colonisation](https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/)<!-- HN:39272103:end -->
+* [39272103](https://news.social-protocols.org/stats?id=39272103) #1 11 points 5 comments -> [OpenAI's Whisper is another case study in Colonisation](https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/)<!-- HN:39272103:end --><!-- HN:39272847:start -->
+* [39272847](https://news.social-protocols.org/stats?id=39272847) #11 13 points 2 comments -> [Elon Code Review](https://eloncodereview.com)<!-- HN:39272847:end -->
