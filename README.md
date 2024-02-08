@@ -352,3 +352,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39288635](https://news.social-protocols.org/stats?id=39288635) #23 14 points 4 comments -> [How many people die each year in jails and prisons? No one knows](https://www.latimes.com/california/story/2024-02-02/death-in-custody-interview)<!-- HN:39288635:end --><!-- HN:39290973:start -->
 * [39290973](https://news.social-protocols.org/stats?id=39290973) #21 10 points 0 comments -> [Israel's Ruthless Propaganda Campaign to Dehumanize Palestinians](https://theintercept.com/2024/02/07/gaza-israel-netanyahu-propaganda-lies-palestinians/)<!-- HN:39290973:end --><!-- HN:39295558:start -->
 * [39295558](https://news.social-protocols.org/stats?id=39295558) #16 -> [Taylor Swift is demanding this college student stop tracking her private jet](https://www.msn.com/en-us/news/us/taylor-swift-is-demanding-this-college-student-stop-tracking-her-private-jet/ar-BB1hTNxu)<!-- HN:39295558:end -->
+#### **Thursday, February 8, 2024**
+<!-- HN:39296945:start -->
+* [39296945](https://news.social-protocols.org/stats?id=39296945) #13 2 points 0 comments -> [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)<!-- HN:39296945:end -->
