@@ -364,3 +364,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39306543](https://news.social-protocols.org/stats?id=39306543) #10 9 points 0 comments -> [Reuse of aging fronds in tropical mountain forest tree ferns: Zombie leaves](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4248)<!-- HN:39306543:end --><!-- HN:39307656:start -->
 * [39307656](https://news.social-protocols.org/stats?id=39307656) #23 37 points 24 comments -> [IRS: billions in overdue/unpaid taxes to be collected with new funding](https://apnews.com/article/irs-tax-gap-audits-inflation-reduction-act-e0dcb9bc52cfcdd8fc40caa2c04e8011)<!-- HN:39307656:end --><!-- HN:39273085:start -->
 * [39273085](https://news.social-protocols.org/stats?id=39273085) #26 150 points 95 comments -> [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)<!-- HN:39273085:end -->
+#### **Friday, February 9, 2024**
+<!-- HN:39309269:start -->
+* [39309269](https://news.social-protocols.org/stats?id=39309269) #22 41 points 18 comments -> [You Don't Need React](https://md.jtmn.dev/blog/💻+Programming/PR-007+-+Why+you+don%27t+need+React)<!-- HN:39309269:end -->
