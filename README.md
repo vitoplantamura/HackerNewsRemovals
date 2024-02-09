@@ -365,4 +365,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39307656](https://news.social-protocols.org/stats?id=39307656) #23 37 points 24 comments -> [IRS: billions in overdue/unpaid taxes to be collected with new funding](https://apnews.com/article/irs-tax-gap-audits-inflation-reduction-act-e0dcb9bc52cfcdd8fc40caa2c04e8011)<!-- HN:39307656:end --><!-- HN:39273085:start -->
 * [39273085](https://news.social-protocols.org/stats?id=39273085) #26 150 points 95 comments -> [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)<!-- HN:39273085:end -->
 #### **Friday, February 9, 2024**<!-- HN:39313060:start -->
-* [39313060](https://news.social-protocols.org/stats?id=39313060) #20 15 points 1 comments -> [The world’s most responsible AI model](https://www.goody2.ai/)<!-- HN:39313060:end -->
+* [39313060](https://news.social-protocols.org/stats?id=39313060) #20 15 points 1 comments -> [The world’s most responsible AI model](https://www.goody2.ai/)<!-- HN:39313060:end --><!-- HN:39314776:start -->
+* [39314776](https://news.social-protocols.org/stats?id=39314776) #26 20 points 8 comments -> [VR porn a no go for Apple Vision Pro users as capability blocked by Apple](https://www.notebookcheck.net/VR-porn-a-no-go-for-Apple-Vision-Pro-users-as-capability-blocked-by-Apple.801282.0.html)<!-- HN:39314776:end -->
