@@ -377,4 +377,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39321688:start -->
 * [39321688](https://news.social-protocols.org/stats?id=39321688) #29 4 points 1 comments -> [Moody's downgrades Israel's credit rating due to Gaza war](https://aje.io/hc54vr?update=2695516)<!-- HN:39321688:end --><!-- HN:39323973:start -->
 * [39323973](https://news.social-protocols.org/stats?id=39323973) #8 32 points 2 comments -> [Skiff is shutting down in six months](https://skiff.com/data-migration)<!-- HN:39323973:end --><!-- HN:39301116:start -->
-* [39301116](https://news.social-protocols.org/stats?id=39301116) #10 22 points 40 comments -> [I Stopped Using Passwords. It's Great–and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)<!-- HN:39301116:end -->
+* [39301116](https://news.social-protocols.org/stats?id=39301116) #10 22 points 40 comments -> [I Stopped Using Passwords. It's Great–and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)<!-- HN:39301116:end --><!-- HN:39325265:start -->
+* [39325265](https://news.social-protocols.org/stats?id=39325265) #12 31 points 42 comments -> [Germany's Days as an Industrial Superpower Are Coming to an End](https://www.bloomberg.com/news/features/2024-02-10/why-germany-s-days-as-an-industrial-superpower-are-coming-to-an-end)<!-- HN:39325265:end -->
