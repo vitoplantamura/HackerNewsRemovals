@@ -375,4 +375,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39321109](https://news.social-protocols.org/stats?id=39321109) #12 28 points 18 comments -> [Should I use a pie chart?](https://www.shouldiuseapiechart.com/)<!-- HN:39321109:end -->
 #### **Saturday, February 10, 2024**
 <!-- HN:39321688:start -->
-* [39321688](https://news.social-protocols.org/stats?id=39321688) #29 4 points 1 comments -> [Moody's downgrades Israel's credit rating due to Gaza war](https://aje.io/hc54vr?update=2695516)<!-- HN:39321688:end -->
+* [39321688](https://news.social-protocols.org/stats?id=39321688) #29 4 points 1 comments -> [Moody's downgrades Israel's credit rating due to Gaza war](https://aje.io/hc54vr?update=2695516)<!-- HN:39321688:end --><!-- HN:39323973:start -->
+* [39323973](https://news.social-protocols.org/stats?id=39323973) #8 32 points 2 comments -> [Skiff is shutting down in six months](https://skiff.com/data-migration)<!-- HN:39323973:end -->
