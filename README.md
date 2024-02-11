@@ -387,3 +387,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39325983](https://news.social-protocols.org/stats?id=39325983) #2 114 points 26 comments -> [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)<!-- HN:39325983:end --><!-- HN:39329677:start -->
 * [39329677](https://news.social-protocols.org/stats?id=39329677) #8 59 points 1 comments -> [How much 1 TB of egress costs by cloud provider](https://getdeploying.com/reference/data-egress)<!-- HN:39329677:end --><!-- HN:39329472:start -->
 * [39329472](https://news.social-protocols.org/stats?id=39329472) #29 35 points 1 comments -> [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)<!-- HN:39329472:end -->
+#### **Sunday, February 11, 2024**
+<!-- HN:39331682:start -->
+* [39331682](https://news.social-protocols.org/stats?id=39331682) #30 29 points 12 comments -> ["no reasonable user would expect that their actions would be private from Apple"](https://mastodon.social/@mysk/111907698478635140)<!-- HN:39331682:end -->
