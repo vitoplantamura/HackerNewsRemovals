@@ -389,4 +389,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39329472](https://news.social-protocols.org/stats?id=39329472) #29 35 points 1 comments -> [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)<!-- HN:39329472:end -->
 #### **Sunday, February 11, 2024**
 <!-- HN:39331682:start -->
-* [39331682](https://news.social-protocols.org/stats?id=39331682) #30 29 points 12 comments -> ["no reasonable user would expect that their actions would be private from Apple"](https://mastodon.social/@mysk/111907698478635140)<!-- HN:39331682:end -->
+* [39331682](https://news.social-protocols.org/stats?id=39331682) #30 29 points 12 comments -> ["no reasonable user would expect that their actions would be private from Apple"](https://mastodon.social/@mysk/111907698478635140)<!-- HN:39331682:end --><!-- HN:39286714:start -->
+* [39286714](https://news.social-protocols.org/stats?id=39286714) #12 5 points 0 comments -> [Anti-abortion group's studies retracted before Supreme Court mifepristone case](https://arstechnica.com/science/2024/02/anti-abortion-groups-studies-retracted-before-supreme-court-mifepristone-case/)<!-- HN:39286714:end -->
