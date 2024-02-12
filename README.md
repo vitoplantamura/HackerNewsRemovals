@@ -403,4 +403,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39336571](https://news.social-protocols.org/stats?id=39336571) #11 23 points 42 comments -> [The Loss of Things I Took for Granted](https://slate.com/human-interest/2024/02/literacy-crisis-reading-comprehension-college.html)<!-- HN:39336571:end -->
 #### **Monday, February 12, 2024**
 <!-- HN:39341943:start -->
-* [39341943](https://news.social-protocols.org/stats?id=39341943) #15 6 points 3 comments -> [Georgia police and FBI conduct Swat-style raids on 'Cop City' activists' homes](https://www.theguardian.com/us-news/2024/feb/10/georgia-police-fbi-raids-cop-city-activists-atlanta)<!-- HN:39341943:end -->
+* [39341943](https://news.social-protocols.org/stats?id=39341943) #15 6 points 3 comments -> [Georgia police and FBI conduct Swat-style raids on 'Cop City' activists' homes](https://www.theguardian.com/us-news/2024/feb/10/georgia-police-fbi-raids-cop-city-activists-atlanta)<!-- HN:39341943:end --><!-- HN:39341398:start -->
+* [39341398](https://news.social-protocols.org/stats?id=39341398) #14 60 points 3 comments -> [Crowd Attacks Waymo, Sets It on Fire](https://www.forbes.com/sites/bradtempleton/2024/02/11/crowd-attacks-waymo-sets-it-on-fire/)<!-- HN:39341398:end -->
