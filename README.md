@@ -401,3 +401,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39337305](https://news.social-protocols.org/stats?id=39337305) #27 12 points 4 comments -> [What Would America Look Like If It Lost Wwiii?](https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii)<!-- HN:39337305:end --><!-- HN:39338201:start -->
 * [39338201](https://news.social-protocols.org/stats?id=39338201) #28 4 points 1 comments -> [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)<!-- HN:39338201:end --><!-- HN:39336571:start -->
 * [39336571](https://news.social-protocols.org/stats?id=39336571) #11 23 points 42 comments -> [The Loss of Things I Took for Granted](https://slate.com/human-interest/2024/02/literacy-crisis-reading-comprehension-college.html)<!-- HN:39336571:end -->
+#### **Monday, February 12, 2024**
+<!-- HN:39341943:start -->
+* [39341943](https://news.social-protocols.org/stats?id=39341943) #15 6 points 3 comments -> [Georgia police and FBI conduct Swat-style raids on 'Cop City' activists' homes](https://www.theguardian.com/us-news/2024/feb/10/georgia-police-fbi-raids-cop-city-activists-atlanta)<!-- HN:39341943:end -->
