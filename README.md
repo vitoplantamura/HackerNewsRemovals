@@ -414,4 +414,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 13, 2024**
 <!-- HN:39351556:start -->
 * [39351556](https://news.social-protocols.org/stats?id=39351556) #16 10 points 0 comments -> [The Gemini Update to Let Me Google That for You?](https://letmegeminithatforyou.com/)<!-- HN:39351556:end --><!-- HN:39352584:start -->
-* [39352584](https://news.social-protocols.org/stats?id=39352584) #5 63 points 12 comments -> [France uncovers a Russian disinformation campaign in Europe](https://www.economist.com/europe/2024/02/12/france-uncovers-a-vast-russian-disinformation-campaign-in-europe)<!-- HN:39352584:end -->
+* [39352584](https://news.social-protocols.org/stats?id=39352584) #5 63 points 12 comments -> [France uncovers a Russian disinformation campaign in Europe](https://www.economist.com/europe/2024/02/12/france-uncovers-a-vast-russian-disinformation-campaign-in-europe)<!-- HN:39352584:end --><!-- HN:39352304:start -->
+* [39352304](https://news.social-protocols.org/stats?id=39352304) #13 56 points 16 comments -> [A journalist has his account on X suspended after writing critique of platform](https://www.irishtimes.com/culture/books/2024/02/12/journalist-says-he-finds-it-surreal-to-have-account-on-x-suspended-after-writing-critique-of-platform/)<!-- HN:39352304:end -->
