@@ -413,4 +413,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39351810](https://news.social-protocols.org/stats?id=39351810) #2 15 points 4 comments -> [Shell Is Immediately Closing All of Its California Hydrogen Fueling Stations](https://insideevs.com/news/708156/shell-closes-california-hydrogen-stations/)<!-- HN:39351810:end -->
 #### **Tuesday, February 13, 2024**
 <!-- HN:39351556:start -->
-* [39351556](https://news.social-protocols.org/stats?id=39351556) #16 10 points 0 comments -> [The Gemini Update to Let Me Google That for You?](https://letmegeminithatforyou.com/)<!-- HN:39351556:end -->
+* [39351556](https://news.social-protocols.org/stats?id=39351556) #16 10 points 0 comments -> [The Gemini Update to Let Me Google That for You?](https://letmegeminithatforyou.com/)<!-- HN:39351556:end --><!-- HN:39352584:start -->
+* [39352584](https://news.social-protocols.org/stats?id=39352584) #5 63 points 12 comments -> [France uncovers a Russian disinformation campaign in Europe](https://www.economist.com/europe/2024/02/12/france-uncovers-a-vast-russian-disinformation-campaign-in-europe)<!-- HN:39352584:end -->
