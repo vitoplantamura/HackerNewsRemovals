@@ -411,3 +411,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39346668](https://news.social-protocols.org/stats?id=39346668) #28 19 points 10 comments -> [Bitcoin Breaks $50K for First Time Since Hitting All-Time High in 2021](https://decrypt.co/217033/bitcoin-breaks-50k-first-time-since-2021)<!-- HN:39346668:end --><!-- HN:39347550:start -->
 * [39347550](https://news.social-protocols.org/stats?id=39347550) #14 10 points 1 comments -> [Jeff Bezos will save over $600M in taxes by moving to Miami](https://www.cnbc.com/2024/02/12/jeff-bezos-move-to-miami-will-save-him-over-600-million-in-taxes.html)<!-- HN:39347550:end --><!-- HN:39351810:start -->
 * [39351810](https://news.social-protocols.org/stats?id=39351810) #2 15 points 4 comments -> [Shell Is Immediately Closing All of Its California Hydrogen Fueling Stations](https://insideevs.com/news/708156/shell-closes-california-hydrogen-stations/)<!-- HN:39351810:end -->
+#### **Tuesday, February 13, 2024**
+<!-- HN:39351556:start -->
+* [39351556](https://news.social-protocols.org/stats?id=39351556) #16 10 points 0 comments -> [The Gemini Update to Let Me Google That for You?](https://letmegeminithatforyou.com/)<!-- HN:39351556:end -->
