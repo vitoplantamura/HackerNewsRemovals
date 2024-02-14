@@ -428,4 +428,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39361077](https://news.social-protocols.org/stats?id=39361077) #6 22 points 2 comments -> [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)<!-- HN:39361077:end --><!-- HN:39363706:start -->
 * [39363706](https://news.social-protocols.org/stats?id=39363706) #14 8 points 4 comments -> [A Pursuit of Simplicity](https://quiltro.org/notes/simplicity.html)<!-- HN:39363706:end -->
 #### **Wednesday, February 14, 2024**<!-- HN:39365288:start -->
-* [39365288](https://news.social-protocols.org/stats?id=39365288) #6 157 points 54 comments -> [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)<!-- HN:39365288:end -->
+* [39365288](https://news.social-protocols.org/stats?id=39365288) #6 157 points 54 comments -> [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)<!-- HN:39365288:end --><!-- HN:39365318:start -->
+* [39365318](https://news.social-protocols.org/stats?id=39365318) #25 27 points 41 comments -> [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)<!-- HN:39365318:end -->
