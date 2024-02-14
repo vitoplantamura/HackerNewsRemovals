@@ -428,5 +428,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39361077](https://news.social-protocols.org/stats?id=39361077) #6 22 points 2 comments -> [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)<!-- HN:39361077:end --><!-- HN:39363706:start -->
 * [39363706](https://news.social-protocols.org/stats?id=39363706) #14 8 points 4 comments -> [A Pursuit of Simplicity](https://quiltro.org/notes/simplicity.html)<!-- HN:39363706:end -->
 #### **Wednesday, February 14, 2024**
-<!-- HN:39365132:start -->
-* [39365132](https://news.social-protocols.org/stats?id=39365132) #11 58 points 48 comments -> [Sam Alman Wants $7T](https://www.astralcodexten.com/p/sam-altman-wants-7-trillion)<!-- HN:39365132:end -->
