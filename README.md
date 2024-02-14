@@ -442,4 +442,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39342392](https://news.social-protocols.org/stats?id=39342392) #18 155 points 16 comments -> [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/)<!-- HN:39342392:end --><!-- HN:39342705:start -->
 * [39342705](https://news.social-protocols.org/stats?id=39342705) #22 16 points 1 comments -> [Praying to the God of Valuation (2022)](https://bothsidesofthetable.com/praying-to-the-god-of-valuation-7f6758ba3b16?gi=b5e63e1cadad)<!-- HN:39342705:end --><!-- HN:39369766:start -->
 * [39369766](https://news.social-protocols.org/stats?id=39369766) #8 76 points 2 comments -> [YC's Latest Request for Startups](https://www.ycombinator.com/blog/ycs-latest-request-for-startups/)<!-- HN:39369766:end --><!-- HN:39376494:start -->
-* [39376494](https://news.social-protocols.org/stats?id=39376494) #7 -> [Valve Prism](https://valveprism.com/)<!-- HN:39376494:end -->
+* [39376494](https://news.social-protocols.org/stats?id=39376494) #7 -> [Valve Prism](https://valveprism.com/)<!-- HN:39376494:end --><!-- HN:39376845:start -->
+* [39376845](https://news.social-protocols.org/stats?id=39376845) #12 5 points 1 comments -> [Valve Prism](https://www.valveprism.com/)<!-- HN:39376845:end -->
