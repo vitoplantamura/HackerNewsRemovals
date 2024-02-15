@@ -446,4 +446,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39376845](https://news.social-protocols.org/stats?id=39376845) #12 5 points 1 comments -> [Valve Prism](https://www.valveprism.com/)<!-- HN:39376845:end -->
 #### **Thursday, February 15, 2024**
 <!-- HN:39377577:start -->
-* [39377577](https://news.social-protocols.org/stats?id=39377577) #10 4 points 4 comments -> [Valve Prism: standalone VR headset](https://www.valveprism.com/)<!-- HN:39377577:end -->
+* [39377577](https://news.social-protocols.org/stats?id=39377577) #10 4 points 4 comments -> [Valve Prism: standalone VR headset](https://www.valveprism.com/)<!-- HN:39377577:end --><!-- HN:39377382:start -->
+* [39377382](https://news.social-protocols.org/stats?id=39377382) #18 25 points 40 comments -> [How to copy a file between devices?](https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html)<!-- HN:39377382:end -->
