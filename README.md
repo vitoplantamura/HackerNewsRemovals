@@ -448,4 +448,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39377577:start -->
 * [39377577](https://news.social-protocols.org/stats?id=39377577) #10 4 points 4 comments -> [Valve Prism: standalone VR headset](https://www.valveprism.com/)<!-- HN:39377577:end --><!-- HN:39355549:start -->
 * [39355549](https://news.social-protocols.org/stats?id=39355549) #14 8 points 9 comments -> [Null is not false, part one (2012)](https://ericlippert.com/2012/03/26/null-is-not-false-part-one/)<!-- HN:39355549:end --><!-- HN:39379483:start -->
-* [39379483](https://news.social-protocols.org/stats?id=39379483) #2 30 points 2 comments -> [Free Nginx](https://freenginx.org/)<!-- HN:39379483:end -->
+* [39379483](https://news.social-protocols.org/stats?id=39379483) #2 30 points 2 comments -> [Free Nginx](https://freenginx.org/)<!-- HN:39379483:end --><!-- HN:39355498:start -->
+* [39355498](https://news.social-protocols.org/stats?id=39355498) #16 20 points 1 comments -> [Greybeard's tomb: the lost treasure of language design (2019)](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)<!-- HN:39355498:end -->
