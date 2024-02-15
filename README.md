@@ -444,3 +444,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39369766](https://news.social-protocols.org/stats?id=39369766) #8 76 points 2 comments -> [YC's Latest Request for Startups](https://www.ycombinator.com/blog/ycs-latest-request-for-startups/)<!-- HN:39369766:end --><!-- HN:39376494:start -->
 * [39376494](https://news.social-protocols.org/stats?id=39376494) #7 -> [Valve Prism](https://valveprism.com/)<!-- HN:39376494:end --><!-- HN:39376845:start -->
 * [39376845](https://news.social-protocols.org/stats?id=39376845) #12 5 points 1 comments -> [Valve Prism](https://www.valveprism.com/)<!-- HN:39376845:end -->
+#### **Thursday, February 15, 2024**
+<!-- HN:39377577:start -->
+* [39377577](https://news.social-protocols.org/stats?id=39377577) #10 4 points 4 comments -> [Valve Prism: standalone VR headset](https://www.valveprism.com/)<!-- HN:39377577:end -->
