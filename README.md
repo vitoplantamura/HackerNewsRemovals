@@ -461,4 +461,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39363706](https://news.social-protocols.org/stats?id=39363706) #19 10 points 6 comments -> [A Pursuit of Simplicity](https://quiltro.org/notes/simplicity.html)<!-- HN:39363706:end -->
 #### **Friday, February 16, 2024**
 <!-- HN:39392107:start -->
-* [39392107](https://news.social-protocols.org/stats?id=39392107) #17 19 points 10 comments -> [Foods You Didn't Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)<!-- HN:39392107:end -->
+* [39392107](https://news.social-protocols.org/stats?id=39392107) #17 19 points 10 comments -> [Foods You Didn't Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)<!-- HN:39392107:end --><!-- HN:39343912:start -->
+* [39343912](https://news.social-protocols.org/stats?id=39343912) #6 175 points 101 comments -> [Nextdoor's Heisensubscribe (and Other Dark Patterns)](https://taylor.town/nextdoor)<!-- HN:39343912:end --><!-- HN:39344477:start -->
+* [39344477](https://news.social-protocols.org/stats?id=39344477) #9 25 points 2 comments -> [The largest body of water west of the Mississippi disappeared 130 years ago](https://phys.org/news/2024-02-largest-body-west-mississippi-years.html)<!-- HN:39344477:end --><!-- HN:39343987:start -->
+* [39343987](https://news.social-protocols.org/stats?id=39343987) #23 11 points 2 comments -> [Using a 50-years old technique for solving modern issues (2022)](https://chshersh.com/cps)<!-- HN:39343987:end -->
