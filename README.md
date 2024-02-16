@@ -459,3 +459,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39383466](https://news.social-protocols.org/stats?id=39383466) #12 94 points 3 comments -> [Freenginx.org – open-source Nginx fork](https://freenginx.org/pipermail/nginx/2024-February/000000.html)<!-- HN:39383466:end --><!-- HN:39388505:start -->
 * [39388505](https://news.social-protocols.org/stats?id=39388505) #14 23 points 7 comments -> [Georgia Attorney-General claims that not having a phone makes you a criminal](https://georgiarecorder.com/2024/02/12/georgia-ag-claims-not-having-a-phone-makes-you-a-criminal/)<!-- HN:39388505:end --><!-- HN:39363706:start -->
 * [39363706](https://news.social-protocols.org/stats?id=39363706) #19 10 points 6 comments -> [A Pursuit of Simplicity](https://quiltro.org/notes/simplicity.html)<!-- HN:39363706:end -->
+#### **Friday, February 16, 2024**
+<!-- HN:39392107:start -->
+* [39392107](https://news.social-protocols.org/stats?id=39392107) #17 19 points 10 comments -> [Foods You Didn't Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)<!-- HN:39392107:end -->
