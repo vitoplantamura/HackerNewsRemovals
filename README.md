@@ -476,5 +476,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39404458](https://news.social-protocols.org/stats?id=39404458) #4 7 points 3 comments -> [Same. Leaving Apple Hardware](https://scott-fryxell.github.io/blog/same/)<!-- HN:39404458:end -->
 #### **Saturday, February 17, 2024**
 <!-- HN:39369142:start -->
-* [39369142](https://news.social-protocols.org/stats?id=39369142) #20 7 points 1 comments -> [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)<!-- HN:39369142:end --><!-- HN:39404637:start -->
-* [39404637](https://news.social-protocols.org/stats?id=39404637) #24 41 points 5 comments -> [Amazon and SpaceX are quietly trying to demolish national labor law](https://techcrunch.com/2024/02/16/amazon-and-spacex-are-quietly-trying-to-demolish-national-labor-law/)<!-- HN:39404637:end -->
+* [39369142](https://news.social-protocols.org/stats?id=39369142) #20 7 points 1 comments -> [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)<!-- HN:39369142:end -->
