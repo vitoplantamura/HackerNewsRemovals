@@ -474,3 +474,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39401925](https://news.social-protocols.org/stats?id=39401925) #29 4 points 2 comments -> [Even DeSantis Thinks Florida Book Removals Have Gone Too Far](https://www.thedailybeast.com/even-ron-desantis-thinks-florida-book-removals-have-gone-too-far)<!-- HN:39401925:end --><!-- HN:39402057:start -->
 * [39402057](https://news.social-protocols.org/stats?id=39402057) #9 29 points 1 comments -> [Unreal Engine 5 now has WebGPU support](https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser)<!-- HN:39402057:end --><!-- HN:39404458:start -->
 * [39404458](https://news.social-protocols.org/stats?id=39404458) #4 7 points 3 comments -> [Same. Leaving Apple Hardware](https://scott-fryxell.github.io/blog/same/)<!-- HN:39404458:end -->
+#### **Saturday, February 17, 2024**
+<!-- HN:39369142:start -->
+* [39369142](https://news.social-protocols.org/stats?id=39369142) #20 7 points 1 comments -> [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)<!-- HN:39369142:end -->
