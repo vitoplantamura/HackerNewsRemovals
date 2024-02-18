@@ -493,4 +493,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 18, 2024**
 <!-- HN:39415301:start -->
 * [39415301](https://news.social-protocols.org/stats?id=39415301) #10 21 points 15 comments -> [Palworld fans concerned after Nintendo issues surprise takedown](https://www.gamingbible.com/news/platform/palworld-fans-concerned-after-nintendo-takedown-574758-20240215)<!-- HN:39415301:end --><!-- HN:39416466:start -->
-* [39416466](https://news.social-protocols.org/stats?id=39416466) #7 4 points 0 comments -> [Quantum Country](https://quantum.country/)<!-- HN:39416466:end -->
+* [39416466](https://news.social-protocols.org/stats?id=39416466) #7 4 points 0 comments -> [Quantum Country](https://quantum.country/)<!-- HN:39416466:end --><!-- HN:39416436:start -->
+* [39416436](https://news.social-protocols.org/stats?id=39416436) #17 14 points 11 comments -> [Why You're Still Single (2023)](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)<!-- HN:39416436:end -->
