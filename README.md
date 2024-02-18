@@ -493,4 +493,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 18, 2024**
 <!-- HN:39415301:start -->
 * [39415301](https://news.social-protocols.org/stats?id=39415301) #10 21 points 15 comments -> [Palworld fans concerned after Nintendo issues surprise takedown](https://www.gamingbible.com/news/platform/palworld-fans-concerned-after-nintendo-takedown-574758-20240215)<!-- HN:39415301:end --><!-- HN:39416466:start -->
-* [39416466](https://news.social-protocols.org/stats?id=39416466) #7 4 points 0 comments -> [Quantum Country](https://quantum.country/)<!-- HN:39416466:end -->
+* [39416466](https://news.social-protocols.org/stats?id=39416466) #7 4 points 0 comments -> [Quantum Country](https://quantum.country/)<!-- HN:39416466:end --><!-- HN:39418109:start -->
+* [39418109](https://news.social-protocols.org/stats?id=39418109) #27 6 points 0 comments -> [Lessons Steve Jobs wanted to pass on. Written right before he died](https://twitter.com/FoundersPodcast/status/1758869317410513271)<!-- HN:39418109:end -->
