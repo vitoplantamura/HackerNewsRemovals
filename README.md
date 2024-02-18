@@ -490,3 +490,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39411576](https://news.social-protocols.org/stats?id=39411576) #16 123 points 63 comments -> [Kremlin runs disinformation campaign to undermine Zelensky, documents show](https://www.washingtonpost.com/world/2024/02/16/russian-disinformation-zelensky-zaluzhny/)<!-- HN:39411576:end --><!-- HN:39413430:start -->
 * [39413430](https://news.social-protocols.org/stats?id=39413430) #12 5 points 0 comments -> [Rotten Apple](https://adactio.com/journal/20888)<!-- HN:39413430:end --><!-- HN:39413891:start -->
 * [39413891](https://news.social-protocols.org/stats?id=39413891) #8 -> [Me Getting Banned from Sending PR to Zig for a Year](https://www.1a-insec.net/frag/18-zig-what/)<!-- HN:39413891:end -->
+#### **Sunday, February 18, 2024**
+<!-- HN:39415301:start -->
+* [39415301](https://news.social-protocols.org/stats?id=39415301) #10 21 points 15 comments -> [Palworld fans concerned after Nintendo issues surprise takedown](https://www.gamingbible.com/news/platform/palworld-fans-concerned-after-nintendo-takedown-574758-20240215)<!-- HN:39415301:end -->
