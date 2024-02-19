@@ -509,4 +509,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39423539](https://news.social-protocols.org/stats?id=39423539) #25 21 points 17 comments -> [Frozen embryos are 'children,' Alabama Supreme Court rules](https://www.al.com/news/mobile/2024/02/frozen-embryos-are-children-alabama-supreme-court-rules-in-reviving-couples-wrongful-death-suits.html)<!-- HN:39423539:end -->
 #### **Monday, February 19, 2024**
 <!-- HN:39426330:start -->
-* [39426330](https://news.social-protocols.org/stats?id=39426330) #15 3 points 5 comments -> [SoraApp got 7,500 on the waitlist](https://soraapp.art)<!-- HN:39426330:end -->
+* [39426330](https://news.social-protocols.org/stats?id=39426330) #15 3 points 5 comments -> [SoraApp got 7,500 on the waitlist](https://soraapp.art)<!-- HN:39426330:end --><!-- HN:39425085:start -->
+* [39425085](https://news.social-protocols.org/stats?id=39425085) #20 39 points 68 comments -> [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)<!-- HN:39425085:end -->
