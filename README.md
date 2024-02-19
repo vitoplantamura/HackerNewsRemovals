@@ -510,4 +510,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 19, 2024**
 <!-- HN:39426330:start -->
 * [39426330](https://news.social-protocols.org/stats?id=39426330) #15 3 points 5 comments -> [SoraApp got 7,500 on the waitlist](https://soraapp.art)<!-- HN:39426330:end --><!-- HN:39425085:start -->
-* [39425085](https://news.social-protocols.org/stats?id=39425085) #20 39 points 68 comments -> [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)<!-- HN:39425085:end -->
+* [39425085](https://news.social-protocols.org/stats?id=39425085) #20 39 points 68 comments -> [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)<!-- HN:39425085:end --><!-- HN:39428343:start -->
+* [39428343](https://news.social-protocols.org/stats?id=39428343) #2 72 points 13 comments -> [French telecom company Orange fined €650k for violation of GPL license](https://web.archive.org/web/20240216164701/https://www.legalis.net/actualite/orange-condamne-a-650-000-e-pour-non-respect-de-la-licence-gpl/)<!-- HN:39428343:end -->
