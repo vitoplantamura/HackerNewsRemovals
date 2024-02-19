@@ -507,3 +507,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39421582](https://news.social-protocols.org/stats?id=39421582) #22 8 points 1 comments -> [I Ended Up with Just 0.15% of My Own Startup](https://twitter.com/johnrushx/status/1758876724123619497)<!-- HN:39421582:end --><!-- HN:39420614:start -->
 * [39420614](https://news.social-protocols.org/stats?id=39420614) #11 34 points 41 comments -> [Magic AI Secures $117M to Build an AI Software Engineer](https://www.maginative.com/article/magic-ai-secures-117-million-to-build-an-ai-software-engineer/)<!-- HN:39420614:end --><!-- HN:39423539:start -->
 * [39423539](https://news.social-protocols.org/stats?id=39423539) #25 21 points 17 comments -> [Frozen embryos are 'children,' Alabama Supreme Court rules](https://www.al.com/news/mobile/2024/02/frozen-embryos-are-children-alabama-supreme-court-rules-in-reviving-couples-wrongful-death-suits.html)<!-- HN:39423539:end -->
+#### **Monday, February 19, 2024**
+<!-- HN:39426330:start -->
+* [39426330](https://news.social-protocols.org/stats?id=39426330) #15 3 points 5 comments -> [SoraApp got 7,500 on the waitlist](https://soraapp.art)<!-- HN:39426330:end -->
