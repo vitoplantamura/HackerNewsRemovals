@@ -521,4 +521,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39434991](https://news.social-protocols.org/stats?id=39434991) #19 25 points 1 comments -> [Wyze camera breach let 13,000 strangers look into other people's homes](https://www.zdnet.com/home-and-office/smart-home/wyze-camera-breach-let-13000-strangers-view-other-peoples-homes/)<!-- HN:39434991:end -->
 #### **Tuesday, February 20, 2024**
 <!-- HN:39434803:start -->
-* [39434803](https://news.social-protocols.org/stats?id=39434803) #17 20 points 40 comments -> [The Oxford Comma and the Internet (2013)](http://blog.anguscroll.com/oxford-comma)<!-- HN:39434803:end -->
+* [39434803](https://news.social-protocols.org/stats?id=39434803) #17 20 points 40 comments -> [The Oxford Comma and the Internet (2013)](http://blog.anguscroll.com/oxford-comma)<!-- HN:39434803:end --><!-- HN:39438876:start -->
+* [39438876](https://news.social-protocols.org/stats?id=39438876) #17 7 points 2 comments -> [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)<!-- HN:39438876:end -->
