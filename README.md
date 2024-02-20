@@ -522,4 +522,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 20, 2024**
 <!-- HN:39434803:start -->
 * [39434803](https://news.social-protocols.org/stats?id=39434803) #17 20 points 40 comments -> [The Oxford Comma and the Internet (2013)](http://blog.anguscroll.com/oxford-comma)<!-- HN:39434803:end --><!-- HN:39438876:start -->
-* [39438876](https://news.social-protocols.org/stats?id=39438876) #17 7 points 2 comments -> [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)<!-- HN:39438876:end -->
+* [39438876](https://news.social-protocols.org/stats?id=39438876) #17 7 points 2 comments -> [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)<!-- HN:39438876:end --><!-- HN:39406098:start -->
+* [39406098](https://news.social-protocols.org/stats?id=39406098) #11 96 points 60 comments -> [DiskClick: Ever wanted to hear Old Hard drive sounds](https://deervo.itch.io/diskclick)<!-- HN:39406098:end -->
