@@ -536,4 +536,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, February 21, 2024**
 <!-- HN:39448344:start -->
 * [39448344](https://news.social-protocols.org/stats?id=39448344) #6 19 points 3 comments -> [Gemini Is a Joke](https://twitter.com/paulg/status/1760078920135872716)<!-- HN:39448344:end --><!-- HN:39449789:start -->
-* [39449789](https://news.social-protocols.org/stats?id=39449789) #23 22 points 10 comments -> [Cool website to remove the paywall on any article](https://www.archivebuttons.com/)<!-- HN:39449789:end -->
+* [39449789](https://news.social-protocols.org/stats?id=39449789) #23 22 points 10 comments -> [Cool website to remove the paywall on any article](https://www.archivebuttons.com/)<!-- HN:39449789:end --><!-- HN:39449890:start -->
+* [39449890](https://news.social-protocols.org/stats?id=39449890) #22 9 points 6 comments -> [Google Gemini try to generate image of Caucasians](https://twitter.com/IMAO_/status/1760093853430710557)<!-- HN:39449890:end -->
