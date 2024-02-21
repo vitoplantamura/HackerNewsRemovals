@@ -535,4 +535,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39416783](https://news.social-protocols.org/stats?id=39416783) #26 69 points 51 comments -> [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)<!-- HN:39416783:end -->
 #### **Wednesday, February 21, 2024**
 <!-- HN:39448344:start -->
-* [39448344](https://news.social-protocols.org/stats?id=39448344) #6 19 points 3 comments -> [Gemini Is a Joke](https://twitter.com/paulg/status/1760078920135872716)<!-- HN:39448344:end -->
+* [39448344](https://news.social-protocols.org/stats?id=39448344) #6 19 points 3 comments -> [Gemini Is a Joke](https://twitter.com/paulg/status/1760078920135872716)<!-- HN:39448344:end --><!-- HN:39449789:start -->
+* [39449789](https://news.social-protocols.org/stats?id=39449789) #23 22 points 10 comments -> [Cool website to remove the paywall on any article](https://www.archivebuttons.com/)<!-- HN:39449789:end -->
