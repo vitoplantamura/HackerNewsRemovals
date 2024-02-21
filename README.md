@@ -533,3 +533,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39442870](https://news.social-protocols.org/stats?id=39442870) #12 4 points 1 comments -> [TechJobsForPalestine – Hire engineers or help spread the word](https://manara.tech/tech-jobs-for-palestine)<!-- HN:39442870:end --><!-- HN:39443459:start -->
 * [39443459](https://news.social-protocols.org/stats?id=39443459) #26 15 points 3 comments -> [It's embarrassingly hard to get Gemini to acknowledge that white people exist](https://twitter.com/debarghya_das/status/1759786243519615169)<!-- HN:39443459:end --><!-- HN:39416783:start -->
 * [39416783](https://news.social-protocols.org/stats?id=39416783) #26 69 points 51 comments -> [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)<!-- HN:39416783:end -->
+#### **Wednesday, February 21, 2024**
+<!-- HN:39448344:start -->
+* [39448344](https://news.social-protocols.org/stats?id=39448344) #6 19 points 3 comments -> [Gemini Is a Joke](https://twitter.com/paulg/status/1760078920135872716)<!-- HN:39448344:end -->
