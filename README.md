@@ -549,3 +549,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39455576](https://news.social-protocols.org/stats?id=39455576) #16 12 points 2 comments -> [SheetSavvy AI – Google Sheets: Automate, Generate, Interpret Like Never Before](https://workspace.google.com/marketplace/app/sheet_savvy_ai/533954402261)<!-- HN:39455576:end --><!-- HN:39455131:start -->
 * [39455131](https://news.social-protocols.org/stats?id=39455131) #17 231 points 127 comments -> [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)<!-- HN:39455131:end --><!-- HN:39459310:start -->
 * [39459310](https://news.social-protocols.org/stats?id=39459310) #20 17 points 40 comments -> [Updated user interface for signing in to or signing up for your Google Account](https://workspaceupdates.googleblog.com/2024/02/new-google-sign-in-page.html)<!-- HN:39459310:end -->
+#### **Thursday, February 22, 2024**
+<!-- HN:39462149:start -->
+* [39462149](https://news.social-protocols.org/stats?id=39462149) #7 27 points 40 comments -> [ChatGPT Is Funnier Than You](https://nautil.us/chatgpt-is-funnier-than-you-517984/)<!-- HN:39462149:end -->
