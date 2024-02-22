@@ -553,4 +553,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39462149:start -->
 * [39462149](https://news.social-protocols.org/stats?id=39462149) #7 27 points 40 comments -> [ChatGPT Is Funnier Than You](https://nautil.us/chatgpt-is-funnier-than-you-517984/)<!-- HN:39462149:end --><!-- HN:39463082:start -->
 * [39463082](https://news.social-protocols.org/stats?id=39463082) #5 9 points 0 comments -> [What Is a Vector Database?](https://blog.meilisearch.com/what-is-a-vector-database/)<!-- HN:39463082:end --><!-- HN:39463041:start -->
-* [39463041](https://news.social-protocols.org/stats?id=39463041) #14 6 points 4 comments -> [Show HN: Sapling is a business-ready TypeScript, Express.js, React boilerplate](https://sapling.bumpkin.solutions)<!-- HN:39463041:end -->
+* [39463041](https://news.social-protocols.org/stats?id=39463041) #14 6 points 4 comments -> [Show HN: Sapling is a business-ready TypeScript, Express.js, React boilerplate](https://sapling.bumpkin.solutions)<!-- HN:39463041:end --><!-- HN:39440689:start -->
+* [39440689](https://news.social-protocols.org/stats?id=39440689) #29 26 points 13 comments -> [Walmart is buying Vizio for $2.3B](https://edition.cnn.com/2024/02/20/tech/walmart-vizio-tv/index.html)<!-- HN:39440689:end -->
