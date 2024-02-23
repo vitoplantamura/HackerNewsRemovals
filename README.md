@@ -568,3 +568,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39473716](https://news.social-protocols.org/stats?id=39473716) #21 6 points 0 comments -> [Gemini Has a Problem](https://thezvi.wordpress.com/2024/02/22/gemini-has-a-problem/)<!-- HN:39473716:end --><!-- HN:39474440:start -->
 * [39474440](https://news.social-protocols.org/stats?id=39474440) #8 5 points 1 comments -> [Show HN: Just hit $100k MRR with my undetectable AI](https://www.stealthgpt.ai/)<!-- HN:39474440:end --><!-- HN:39473455:start -->
 * [39473455](https://news.social-protocols.org/stats?id=39473455) #23 8 points 0 comments -> [SQL Reunion: People, Projects, and Politics (1995)](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)<!-- HN:39473455:end -->
+#### **Friday, February 23, 2024**
+<!-- HN:39474847:start -->
+* [39474847](https://news.social-protocols.org/stats?id=39474847) #9 6 points 1 comments -> [Guidelines for playing bluegrass at crypto events](https://github.com/JustinHolmesMusic/.github/blob/main/stage-guidelines.md)<!-- HN:39474847:end -->
