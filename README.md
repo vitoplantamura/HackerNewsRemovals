@@ -571,4 +571,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, February 23, 2024**
 <!-- HN:39474847:start -->
 * [39474847](https://news.social-protocols.org/stats?id=39474847) #9 6 points 1 comments -> [Guidelines for playing bluegrass at crypto events](https://github.com/JustinHolmesMusic/.github/blob/main/stage-guidelines.md)<!-- HN:39474847:end --><!-- HN:39475398:start -->
-* [39475398](https://news.social-protocols.org/stats?id=39475398) #12 15 points 7 comments -> [Hey, looks like Spreadsheet.com is shutting down](https://sheetcast.com//articles/customers-scramble-for-alternatives-as-spreadsheetcom-shuts-down)<!-- HN:39475398:end -->
+* [39475398](https://news.social-protocols.org/stats?id=39475398) #12 15 points 7 comments -> [Hey, looks like Spreadsheet.com is shutting down](https://sheetcast.com//articles/customers-scramble-for-alternatives-as-spreadsheetcom-shuts-down)<!-- HN:39475398:end --><!-- HN:39476491:start -->
+* [39476491](https://news.social-protocols.org/stats?id=39476491) #21 11 points 1 comments -> [Landlords Are Enforcing No-Sex Tenancy Clauses Now](https://www.vice.com/en/article/n7ema8/no-sex-tenancy-clauses-landlords)<!-- HN:39476491:end -->
