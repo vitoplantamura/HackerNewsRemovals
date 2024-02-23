@@ -570,4 +570,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39473455](https://news.social-protocols.org/stats?id=39473455) #23 8 points 0 comments -> [SQL Reunion: People, Projects, and Politics (1995)](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)<!-- HN:39473455:end -->
 #### **Friday, February 23, 2024**
 <!-- HN:39474847:start -->
-* [39474847](https://news.social-protocols.org/stats?id=39474847) #9 6 points 1 comments -> [Guidelines for playing bluegrass at crypto events](https://github.com/JustinHolmesMusic/.github/blob/main/stage-guidelines.md)<!-- HN:39474847:end -->
+* [39474847](https://news.social-protocols.org/stats?id=39474847) #9 6 points 1 comments -> [Guidelines for playing bluegrass at crypto events](https://github.com/JustinHolmesMusic/.github/blob/main/stage-guidelines.md)<!-- HN:39474847:end --><!-- HN:39475398:start -->
+* [39475398](https://news.social-protocols.org/stats?id=39475398) #12 15 points 7 comments -> [Hey, looks like Spreadsheet.com is shutting down](https://sheetcast.com//articles/customers-scramble-for-alternatives-as-spreadsheetcom-shuts-down)<!-- HN:39475398:end -->
