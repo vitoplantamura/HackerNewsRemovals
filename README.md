@@ -602,4 +602,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39487522](https://news.social-protocols.org/stats?id=39487522) #29 6 points 1 comments -> [Covid is more likely to be of zoonotic origin than a product of engineering](https://drive.google.com/file/d/1YhmkYB32RpGsXvQTsX4xZ0Yul1wiwh8Z/view?pli=1)<!-- HN:39487522:end -->
 #### **Saturday, February 24, 2024**
 <!-- HN:39486971:start -->
-* [39486971](https://news.social-protocols.org/stats?id=39486971) #21 11 points 7 comments -> [Global biggest industries by revenue in 2024](https://www.ibisworld.com/global/industry-trends/biggest-industries-by-revenue/)<!-- HN:39486971:end -->
+* [39486971](https://news.social-protocols.org/stats?id=39486971) #21 11 points 7 comments -> [Global biggest industries by revenue in 2024](https://www.ibisworld.com/global/industry-trends/biggest-industries-by-revenue/)<!-- HN:39486971:end --><!-- HN:39487372:start -->
+* [39487372](https://news.social-protocols.org/stats?id=39487372) #18 19 points 41 comments -> [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)<!-- HN:39487372:end -->
