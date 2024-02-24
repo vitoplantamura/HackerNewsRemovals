@@ -600,3 +600,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39487173](https://news.social-protocols.org/stats?id=39487173) #12 7 points 0 comments -> [Women as Worriers Who Exclude](https://www.overcomingbias.com/p/women-as-worriers-who-exclude)<!-- HN:39487173:end --><!-- HN:39485921:start -->
 * [39485921](https://news.social-protocols.org/stats?id=39485921) #30 10 points 5 comments -> [IKV: embedded key-value store, 100x faster than Redis](https://github.com/inlinedio/ikv-store)<!-- HN:39485921:end --><!-- HN:39487522:start -->
 * [39487522](https://news.social-protocols.org/stats?id=39487522) #29 6 points 1 comments -> [Covid is more likely to be of zoonotic origin than a product of engineering](https://drive.google.com/file/d/1YhmkYB32RpGsXvQTsX4xZ0Yul1wiwh8Z/view?pli=1)<!-- HN:39487522:end -->
+#### **Saturday, February 24, 2024**
+<!-- HN:39486971:start -->
+* [39486971](https://news.social-protocols.org/stats?id=39486971) #21 11 points 7 comments -> [Global biggest industries by revenue in 2024](https://www.ibisworld.com/global/industry-trends/biggest-industries-by-revenue/)<!-- HN:39486971:end -->
