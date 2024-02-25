@@ -611,3 +611,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39495079](https://news.social-protocols.org/stats?id=39495079) #6 18 points 15 comments -> [Python Generators Are Underutilized](https://www.slashtmp.io/posts/generators/)<!-- HN:39495079:end --><!-- HN:39494598:start -->
 * [39494598](https://news.social-protocols.org/stats?id=39494598) #7 -> [Bitcoin Is Time](https://dergigi.com/2021/01/14/bitcoin-is-time/)<!-- HN:39494598:end --><!-- HN:39495752:start -->
 * [39495752](https://news.social-protocols.org/stats?id=39495752) #19 14 points 1 comments -> [Intel CPU is faulty and has Core errors. It's not your GPU, its your CPU](https://steamcommunity.com/app/1928980/discussions/0/7221029098493967556/)<!-- HN:39495752:end -->
+#### **Sunday, February 25, 2024**
+<!-- HN:39495654:start -->
+* [39495654](https://news.social-protocols.org/stats?id=39495654) #9 53 points 19 comments -> [Programming, Motherfucker Do you speak it?](http://programming-motherfucker.com/)<!-- HN:39495654:end -->
