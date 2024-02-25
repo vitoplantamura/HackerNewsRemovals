@@ -613,4 +613,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39495752](https://news.social-protocols.org/stats?id=39495752) #19 14 points 1 comments -> [Intel CPU is faulty and has Core errors. It's not your GPU, its your CPU](https://steamcommunity.com/app/1928980/discussions/0/7221029098493967556/)<!-- HN:39495752:end -->
 #### **Sunday, February 25, 2024**
 <!-- HN:39495654:start -->
-* [39495654](https://news.social-protocols.org/stats?id=39495654) #9 53 points 19 comments -> [Programming, Motherfucker Do you speak it?](http://programming-motherfucker.com/)<!-- HN:39495654:end -->
+* [39495654](https://news.social-protocols.org/stats?id=39495654) #9 53 points 19 comments -> [Programming, Motherfucker Do you speak it?](http://programming-motherfucker.com/)<!-- HN:39495654:end --><!-- HN:39495466:start -->
+* [39495466](https://news.social-protocols.org/stats?id=39495466) #15 20 points 1 comments -> [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)<!-- HN:39495466:end -->
