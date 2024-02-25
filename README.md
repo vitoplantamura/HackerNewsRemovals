@@ -614,5 +614,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 25, 2024**
 <!-- HN:39495654:start -->
 * [39495654](https://news.social-protocols.org/stats?id=39495654) #9 53 points 19 comments -> [Programming, Motherfucker Do you speak it?](http://programming-motherfucker.com/)<!-- HN:39495654:end --><!-- HN:39495466:start -->
-* [39495466](https://news.social-protocols.org/stats?id=39495466) #15 20 points 1 comments -> [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)<!-- HN:39495466:end --><!-- HN:39497124:start -->
-* [39497124](https://news.social-protocols.org/stats?id=39497124) #15 11 points 0 comments -> [Career Advice Ryan Holiday Wishes He'd Known Earlier](https://ryanholiday.net/37-pieces-of-career-advice-i-wish-id-known-earlier/)<!-- HN:39497124:end -->
+* [39495466](https://news.social-protocols.org/stats?id=39495466) #15 20 points 1 comments -> [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)<!-- HN:39495466:end -->
