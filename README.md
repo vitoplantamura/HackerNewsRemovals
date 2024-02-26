@@ -635,3 +635,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39504312](https://news.social-protocols.org/stats?id=39504312) #27 26 points 40 comments -> [Florida Passes Sweeping Bill to Keep Young People Off Social Media](https://www.nytimes.com/2024/02/23/business/florida-social-media-youths.html)<!-- HN:39504312:end --><!-- HN:39504766:start -->
 * [39504766](https://news.social-protocols.org/stats?id=39504766) #26 23 points 9 comments -> [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html)<!-- HN:39504766:end --><!-- HN:39506022:start -->
 * [39506022](https://news.social-protocols.org/stats?id=39506022) #30 -> [Gemini: Who negatively impacted society more, Elon Musk or Hitler?](https://gemini.google.com/share/231396168632?hl=en)<!-- HN:39506022:end -->
+#### **Monday, February 26, 2024**
+<!-- HN:39506605:start -->
+* [39506605](https://news.social-protocols.org/stats?id=39506605) #8 54 points 4 comments -> [O'Reilly Auto Part 121G](https://www.oreillyauto.com/flux-500.html?q=121g)<!-- HN:39506605:end -->
