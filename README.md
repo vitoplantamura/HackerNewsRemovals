@@ -638,4 +638,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 26, 2024**
 <!-- HN:39506605:start -->
 * [39506605](https://news.social-protocols.org/stats?id=39506605) #8 54 points 4 comments -> [O'Reilly Auto Part 121G](https://www.oreillyauto.com/flux-500.html?q=121g)<!-- HN:39506605:end --><!-- HN:39506931:start -->
-* [39506931](https://news.social-protocols.org/stats?id=39506931) #30 40 points 14 comments -> [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)<!-- HN:39506931:end -->
+* [39506931](https://news.social-protocols.org/stats?id=39506931) #30 40 points 14 comments -> [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)<!-- HN:39506931:end --><!-- HN:39507267:start -->
+* [39507267](https://news.social-protocols.org/stats?id=39507267) #19 66 points 44 comments -> [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)<!-- HN:39507267:end -->
