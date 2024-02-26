@@ -638,4 +638,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39506605:start -->
 * [39506605](https://news.social-protocols.org/stats?id=39506605) #8 54 points 4 comments -> [O'Reilly Auto Part 121G](https://www.oreillyauto.com/flux-500.html?q=121g)<!-- HN:39506605:end --><!-- HN:39506931:start -->
 * [39506931](https://news.social-protocols.org/stats?id=39506931) #30 40 points 14 comments -> [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)<!-- HN:39506931:end --><!-- HN:39507918:start -->
-* [39507918](https://news.social-protocols.org/stats?id=39507918) #3 6 points 0 comments -> [New search engine just dropped](https://explorer.globe.engineer)<!-- HN:39507918:end -->
+* [39507918](https://news.social-protocols.org/stats?id=39507918) #3 6 points 0 comments -> [New search engine just dropped](https://explorer.globe.engineer)<!-- HN:39507918:end --><!-- HN:39508833:start -->
+* [39508833](https://news.social-protocols.org/stats?id=39508833) #17 30 points 24 comments -> [Losing Trust in Google](https://twitter.com/mjuric/status/1761981816125469064)<!-- HN:39508833:end -->
