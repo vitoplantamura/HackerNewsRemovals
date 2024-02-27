@@ -657,5 +657,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39516312](https://news.social-protocols.org/stats?id=39516312) #23 35 points 0 comments -> [Goodhart's Law](https://xkcd.com/2899/)<!-- HN:39516312:end --><!-- HN:39517958:start -->
 * [39517958](https://news.social-protocols.org/stats?id=39517958) #30 4 points 0 comments -> [Libs of TikTok became a powerful presence in Oklahoma schools](https://www.washingtonpost.com/technology/2024/02/24/libs-tiktok-oklahoma-nonbinary-teen-death/)<!-- HN:39517958:end -->
 #### **Tuesday, February 27, 2024**
-<!-- HN:39518718:start -->
-* [39518718](https://news.social-protocols.org/stats?id=39518718) #14 23 points 40 comments -> [Wendy's Wants to Start Uber-Like Surge Pricing in 2025](https://gizmodo.com/wendys-wants-uber-surge-pricing-in-2025-1851288108)<!-- HN:39518718:end -->
