@@ -656,4 +656,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39516710](https://news.social-protocols.org/stats?id=39516710) #28 9 points 2 comments -> [MSFT offered to sell Bing to Apple in 2018 but search quality got in the way](https://www.cnbc.com/2024/02/24/google-says-microsoft-offered-to-sell-bing-to-apple-in-2018.html)<!-- HN:39516710:end --><!-- HN:39516312:start -->
 * [39516312](https://news.social-protocols.org/stats?id=39516312) #23 35 points 0 comments -> [Goodhart's Law](https://xkcd.com/2899/)<!-- HN:39516312:end --><!-- HN:39517958:start -->
 * [39517958](https://news.social-protocols.org/stats?id=39517958) #30 4 points 0 comments -> [Libs of TikTok became a powerful presence in Oklahoma schools](https://www.washingtonpost.com/technology/2024/02/24/libs-tiktok-oklahoma-nonbinary-teen-death/)<!-- HN:39517958:end -->
-#### **Tuesday, February 27, 2024**
+#### **Tuesday, February 27, 2024**<!-- HN:39518705:start -->
+* [39518705](https://news.social-protocols.org/stats?id=39518705) #14 29 points 43 comments -> [Stock markets are booming but the good times are unlikely to last](https://www.economist.com/finance-and-economics/2024/02/25/stockmarkets-are-booming-but-the-good-times-are-unlikely-to-last)<!-- HN:39518705:end -->
