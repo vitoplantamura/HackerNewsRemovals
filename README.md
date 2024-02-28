@@ -682,4 +682,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39530332:start -->
 * [39530332](https://news.social-protocols.org/stats?id=39530332) #29 24 points 0 comments -> [A Look at Nix and Guix](https://lwn.net/SubscriberLink/962788/f0745ec735f074b0/)<!-- HN:39530332:end --><!-- HN:39533324:start -->
 * [39533324](https://news.social-protocols.org/stats?id=39533324) #30 20 points 20 comments -> [To Lose Weight, Eating Less Is Far More Important Than Exercising More (2015)](https://www.nytimes.com/2015/06/16/upshot/to-lose-weight-eating-less-is-far-more-important-than-exercising-more.html)<!-- HN:39533324:end --><!-- HN:39534579:start -->
-* [39534579](https://news.social-protocols.org/stats?id=39534579) #29 5 points 1 comments -> [Sex, violence, 'Game of Thrones'-style power grabs – the new 'Shōgun' has it all](https://text.npr.org/1233992898)<!-- HN:39534579:end -->
+* [39534579](https://news.social-protocols.org/stats?id=39534579) #29 5 points 1 comments -> [Sex, violence, 'Game of Thrones'-style power grabs – the new 'Shōgun' has it all](https://text.npr.org/1233992898)<!-- HN:39534579:end --><!-- HN:39534937:start -->
+* [39534937](https://news.social-protocols.org/stats?id=39534937) #30 10 points 0 comments -> [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)<!-- HN:39534937:end -->
