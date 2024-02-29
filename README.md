@@ -716,3 +716,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39544489](https://news.social-protocols.org/stats?id=39544489) #21 10 points 0 comments -> [The Gerrymandered Gen-Z Gender Graph](https://ronghosh.substack.com/p/the-gerrymandered-gen-z-gender-graph)<!-- HN:39544489:end --><!-- HN:39544286:start -->
 * [39544286](https://news.social-protocols.org/stats?id=39544286) #21 8 points 1 comments -> [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement)<!-- HN:39544286:end --><!-- HN:39544790:start -->
 * [39544790](https://news.social-protocols.org/stats?id=39544790) #27 3 points 0 comments -> [Speedy SD Express cards have gone nowhere for years, Samsung could change that](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)<!-- HN:39544790:end -->
+#### **Thursday, February 29, 2024**
+<!-- HN:39544865:start -->
+* [39544865](https://news.social-protocols.org/stats?id=39544865) #25 9 points 3 comments -> [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)<!-- HN:39544865:end -->
