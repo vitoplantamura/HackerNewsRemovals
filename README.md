@@ -719,4 +719,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, February 29, 2024**
 <!-- HN:39544865:start -->
 * [39544865](https://news.social-protocols.org/stats?id=39544865) #25 9 points 3 comments -> [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)<!-- HN:39544865:end --><!-- HN:39545228:start -->
-* [39545228](https://news.social-protocols.org/stats?id=39545228) #21 5 points 0 comments -> [Amazon's Big Secret](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)<!-- HN:39545228:end -->
+* [39545228](https://news.social-protocols.org/stats?id=39545228) #21 5 points 0 comments -> [Amazon's Big Secret](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)<!-- HN:39545228:end --><!-- HN:39544769:start -->
+* [39544769](https://news.social-protocols.org/stats?id=39544769) #28 12 points 6 comments -> [The financial value of open source software](https://lemire.me/blog/2014/04/14/the-financial-value-of-open-source-software/)<!-- HN:39544769:end -->
