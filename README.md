@@ -718,4 +718,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39544790](https://news.social-protocols.org/stats?id=39544790) #27 3 points 0 comments -> [Speedy SD Express cards have gone nowhere for years, Samsung could change that](https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/)<!-- HN:39544790:end -->
 #### **Thursday, February 29, 2024**
 <!-- HN:39544865:start -->
-* [39544865](https://news.social-protocols.org/stats?id=39544865) #25 9 points 3 comments -> [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)<!-- HN:39544865:end -->
+* [39544865](https://news.social-protocols.org/stats?id=39544865) #25 9 points 3 comments -> [Electric bikes give more exercise than pedal bikes](https://electrek.co/2024/02/20/why-electric-bikes-give-more-exercise/)<!-- HN:39544865:end --><!-- HN:39545228:start -->
+* [39545228](https://news.social-protocols.org/stats?id=39545228) #21 5 points 0 comments -> [Amazon's Big Secret](https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/)<!-- HN:39545228:end -->
