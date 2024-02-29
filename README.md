@@ -727,4 +727,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39546422](https://news.social-protocols.org/stats?id=39546422) #2 -> [I dont fear god I fear creditcards](https://joshchernoff.github.io/posts/2024/02-28-I-dont-fear-god-I-fear-creditcards.html)<!-- HN:39546422:end --><!-- HN:39546408:start -->
 * [39546408](https://news.social-protocols.org/stats?id=39546408) #14 7 points 0 comments -> [Zed Kills VSCode [video]](https://www.youtube.com/watch?v=Fk08oNi0j1Y)<!-- HN:39546408:end --><!-- HN:39546379:start -->
 * [39546379](https://news.social-protocols.org/stats?id=39546379) #29 4 points 1 comments -> [Your TV Is Too Good for You](https://www.theatlantic.com/technology/archive/2024/02/4k-tv-resolution-lie/677586/)<!-- HN:39546379:end --><!-- HN:39546296:start -->
-* [39546296](https://news.social-protocols.org/stats?id=39546296) #8 9 points 2 comments -> [Mojeek](https://www.mojeek.com/)<!-- HN:39546296:end -->
+* [39546296](https://news.social-protocols.org/stats?id=39546296) #8 9 points 2 comments -> [Mojeek](https://www.mojeek.com/)<!-- HN:39546296:end --><!-- HN:39548622:start -->
+* [39548622](https://news.social-protocols.org/stats?id=39548622) #30 3 points 0 comments -> [Bad therapy is stunting our kids](https://unherd.com/2024/02/bad-therapy-is-stunting-our-kids/)<!-- HN:39548622:end -->
