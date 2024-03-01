@@ -747,3 +747,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39552657](https://news.social-protocols.org/stats?id=39552657) #26 7 points 1 comments -> [Show HN: Pipedream now has 1700 integrated APIs](https://pipedream.com/explore)<!-- HN:39552657:end --><!-- HN:39554805:start -->
 * [39554805](https://news.social-protocols.org/stats?id=39554805) #22 6 points 0 comments -> [From Seattle move in a straight line due East. What country will you hit?](https://threadreaderapp.com/thread/1744059290120245347.html)<!-- HN:39554805:end --><!-- HN:39556161:start -->
 * [39556161](https://news.social-protocols.org/stats?id=39556161) #28 7 points 1 comments -> [Nvidia GeForce RTX 5090 could be up to 70% faster than the 4090](https://www.techradar.com/computing/gpu/nvidia-geforce-rtx-5090-could-be-up-to-70-faster-than-the-4090-but-its-best-chips-might-be-reserved-for-ai)<!-- HN:39556161:end -->
+#### **Friday, March 1, 2024**
+<!-- HN:39556770:start -->
+* [39556770](https://news.social-protocols.org/stats?id=39556770) #20 5 points 0 comments -> [Amazon's top-selling video doorbells have no security](https://9to5mac.com/2024/02/29/amazons-choice-video-doorbells/)<!-- HN:39556770:end -->
