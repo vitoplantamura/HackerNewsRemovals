@@ -778,4 +778,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 2, 2024**
 <!-- HN:39563709:start -->
 * [39563709](https://news.social-protocols.org/stats?id=39563709) #21 20 points 8 comments -> [To my ear, the octave ukulele sounds a little like a cello](https://sites.google.com/view/octaveukes)<!-- HN:39563709:end --><!-- HN:39568190:start -->
-* [39568190](https://news.social-protocols.org/stats?id=39568190) #25 8 points 1 comments -> [U.S. Seeks to Boost Nuclear Power After Decades of Inertia](https://www.nytimes.com/2024/03/01/climate/nuclear-power-legislation-congress.html)<!-- HN:39568190:end -->
+* [39568190](https://news.social-protocols.org/stats?id=39568190) #25 8 points 1 comments -> [U.S. Seeks to Boost Nuclear Power After Decades of Inertia](https://www.nytimes.com/2024/03/01/climate/nuclear-power-legislation-congress.html)<!-- HN:39568190:end --><!-- HN:39566244:start -->
+* [39566244](https://news.social-protocols.org/stats?id=39566244) #29 6 points 0 comments -> [SAAB Supersonic Killer Drone](https://hushkit.net/2024/02/10/we-look-at-a-look-at-the-new-saab-supersonic-killer-drone/)<!-- HN:39566244:end -->
