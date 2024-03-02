@@ -775,3 +775,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39565931](https://news.social-protocols.org/stats?id=39565931) #5 7 points 4 comments -> [Learn and Test DMARC](https://www.dmarctester.com)<!-- HN:39565931:end --><!-- HN:39566804:start -->
 * [39566804](https://news.social-protocols.org/stats?id=39566804) #26 15 points 1 comments -> [Thieves using cellular and Wi-Fi jammers to enter homes for robbery](https://www.usatoday.com/story/tech/columnist/komando/2024/02/29/thieves-using-wifi-jammer/72758559007/)<!-- HN:39566804:end --><!-- HN:39563528:start -->
 * [39563528](https://news.social-protocols.org/stats?id=39563528) #26 -> [The Humbugs of the World (1866)](https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up)<!-- HN:39563528:end -->
+#### **Saturday, March 2, 2024**
+<!-- HN:39563709:start -->
+* [39563709](https://news.social-protocols.org/stats?id=39563709) #21 20 points 8 comments -> [To my ear, the octave ukulele sounds a little like a cello](https://sites.google.com/view/octaveukes)<!-- HN:39563709:end -->
