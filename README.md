@@ -778,4 +778,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 2, 2024**
 <!-- HN:39563709:start -->
 * [39563709](https://news.social-protocols.org/stats?id=39563709) #21 20 points 8 comments -> [To my ear, the octave ukulele sounds a little like a cello](https://sites.google.com/view/octaveukes)<!-- HN:39563709:end --><!-- HN:39566244:start -->
-* [39566244](https://news.social-protocols.org/stats?id=39566244) #29 6 points 0 comments -> [SAAB Supersonic Killer Drone](https://hushkit.net/2024/02/10/we-look-at-a-look-at-the-new-saab-supersonic-killer-drone/)<!-- HN:39566244:end -->
+* [39566244](https://news.social-protocols.org/stats?id=39566244) #29 6 points 0 comments -> [SAAB Supersonic Killer Drone](https://hushkit.net/2024/02/10/we-look-at-a-look-at-the-new-saab-supersonic-killer-drone/)<!-- HN:39566244:end --><!-- HN:39567226:start -->
+* [39567226](https://news.social-protocols.org/stats?id=39567226) #29 26 points 2 comments -> [Google is blocking RCS on rooted Android devices](https://www.theverge.com/2024/3/1/24087418/google-messages-blocking-rcs-on-rooted-android-devices)<!-- HN:39567226:end -->
