@@ -828,3 +828,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39575599](https://news.social-protocols.org/stats?id=39575599) #27 7 points 0 comments -> [White House goes to court, not Congress, to renew warrantless spy powers](https://www.theregister.com/2024/02/29/fisa_section_702_wyden/)<!-- HN:39575599:end --><!-- HN:39576580:start -->
 * [39576580](https://news.social-protocols.org/stats?id=39576580) #21 4 points 0 comments -> [Rule of Thirds](https://en.wikipedia.org/wiki/Rule_of_thirds)<!-- HN:39576580:end --><!-- HN:39575256:start -->
 * [39575256](https://news.social-protocols.org/stats?id=39575256) #27 3 points 0 comments -> [Local Neovim Plugin Development](https://cj.rs/blog/tips/nvim-plugin-development/)<!-- HN:39575256:end -->
+#### **Sunday, March 3, 2024**
+<!-- HN:39576487:start -->
+* [39576487](https://news.social-protocols.org/stats?id=39576487) #16 6 points 0 comments -> [Humanoid Locomotion as Next Token Prediction](https://humanoid-next-token-prediction.github.io/)<!-- HN:39576487:end -->
