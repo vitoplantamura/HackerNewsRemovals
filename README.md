@@ -831,5 +831,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39576487:start -->
 * [39576487](https://news.social-protocols.org/stats?id=39576487) #16 6 points 0 comments -> [Humanoid Locomotion as Next Token Prediction](https://humanoid-next-token-prediction.github.io/)<!-- HN:39576487:end --><!-- HN:39576090:start -->
 * [39576090](https://news.social-protocols.org/stats?id=39576090) #24 4 points 0 comments -> [Eternal Bash History](https://tylercipriani.com/blog/2024/02/25/bash-history/)<!-- HN:39576090:end --><!-- HN:39578221:start -->
-* [39578221](https://news.social-protocols.org/stats?id=39578221) #25 13 points 8 comments -> [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)<!-- HN:39578221:end --><!-- HN:39577695:start -->
-* [39577695](https://news.social-protocols.org/stats?id=39577695) #16 13 points 2 comments -> [The first observation of humpback whale copulation](https://nautil.us/humpback-whales-caught-humping-522330/)<!-- HN:39577695:end -->
+* [39578221](https://news.social-protocols.org/stats?id=39578221) #25 13 points 8 comments -> [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)<!-- HN:39578221:end -->
