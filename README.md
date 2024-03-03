@@ -830,4 +830,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 3, 2024**
 <!-- HN:39576487:start -->
 * [39576487](https://news.social-protocols.org/stats?id=39576487) #16 6 points 0 comments -> [Humanoid Locomotion as Next Token Prediction](https://humanoid-next-token-prediction.github.io/)<!-- HN:39576487:end --><!-- HN:39576090:start -->
-* [39576090](https://news.social-protocols.org/stats?id=39576090) #24 4 points 0 comments -> [Eternal Bash History](https://tylercipriani.com/blog/2024/02/25/bash-history/)<!-- HN:39576090:end -->
+* [39576090](https://news.social-protocols.org/stats?id=39576090) #24 4 points 0 comments -> [Eternal Bash History](https://tylercipriani.com/blog/2024/02/25/bash-history/)<!-- HN:39576090:end --><!-- HN:39578090:start -->
+* [39578090](https://news.social-protocols.org/stats?id=39578090) #4 22 points 1 comments -> [How to convert Node.js stream callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator)<!-- HN:39578090:end -->
