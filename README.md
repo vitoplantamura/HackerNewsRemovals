@@ -853,3 +853,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39584164](https://news.social-protocols.org/stats?id=39584164) #28 9 points 2 comments -> [Swiss vote: 'yes' to higher pensions, 'no' to retiring later](https://www.swissinfo.ch/eng/swiss-politics/swiss-vote-on-higher-pensions-and-retiring-later/73175615)<!-- HN:39584164:end --><!-- HN:39584830:start -->
 * [39584830](https://news.social-protocols.org/stats?id=39584830) #25 7 points 4 comments -> [Cops visit school of 'wrong person's child,' mix up in epic data fail](https://www.theregister.com/2024/03/01/west_midlands_police_data_protection/)<!-- HN:39584830:end --><!-- HN:39585209:start -->
 * [39585209](https://news.social-protocols.org/stats?id=39585209) #6 15 points 0 comments -> [Florida is swamped by disease outbreaks as quackery replaces science](https://www.theguardian.com/us-news/2024/mar/03/florida-measles-outbreak-preventable)<!-- HN:39585209:end -->
+#### **Monday, March 4, 2024**
+<!-- HN:39586045:start -->
+* [39586045](https://news.social-protocols.org/stats?id=39586045) #26 3 points 0 comments -> [Sergey Brin Talk at AGI House Hosting Google Gemini Hackathon [video]](https://twitter.com/kteare/status/1764452659602522216)<!-- HN:39586045:end -->
