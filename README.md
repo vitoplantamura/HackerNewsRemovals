@@ -856,4 +856,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 4, 2024**
 <!-- HN:39586045:start -->
 * [39586045](https://news.social-protocols.org/stats?id=39586045) #26 3 points 0 comments -> [Sergey Brin Talk at AGI House Hosting Google Gemini Hackathon [video]](https://twitter.com/kteare/status/1764452659602522216)<!-- HN:39586045:end --><!-- HN:39585838:start -->
-* [39585838](https://news.social-protocols.org/stats?id=39585838) #22 11 points 2 comments -> [Amazon lobbyists to be barred from European parliament](https://www.ft.com/content/11d20273-71e8-433d-bcac-c66d919a203a)<!-- HN:39585838:end -->
+* [39585838](https://news.social-protocols.org/stats?id=39585838) #22 11 points 2 comments -> [Amazon lobbyists to be barred from European parliament](https://www.ft.com/content/11d20273-71e8-433d-bcac-c66d919a203a)<!-- HN:39585838:end --><!-- HN:39586040:start -->
+* [39586040](https://news.social-protocols.org/stats?id=39586040) #20 9 points 0 comments -> [New Jersey city that limited street parking hasnt had a traffic death in 7 years](https://abc7.com/hoboken-nj-no-traffic-deaths-seven-years/14488015/)<!-- HN:39586040:end -->
