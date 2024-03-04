@@ -857,4 +857,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39586045:start -->
 * [39586045](https://news.social-protocols.org/stats?id=39586045) #26 3 points 0 comments -> [Sergey Brin Talk at AGI House Hosting Google Gemini Hackathon [video]](https://twitter.com/kteare/status/1764452659602522216)<!-- HN:39586045:end --><!-- HN:39586040:start -->
 * [39586040](https://news.social-protocols.org/stats?id=39586040) #20 9 points 0 comments -> [New Jersey city that limited street parking hasnt had a traffic death in 7 years](https://abc7.com/hoboken-nj-no-traffic-deaths-seven-years/14488015/)<!-- HN:39586040:end --><!-- HN:39586114:start -->
-* [39586114](https://news.social-protocols.org/stats?id=39586114) #28 8 points 0 comments -> [Universities Killed the Academic](https://unherd.com/2024/03/how-universities-killed-the-academic/)<!-- HN:39586114:end -->
+* [39586114](https://news.social-protocols.org/stats?id=39586114) #28 8 points 0 comments -> [Universities Killed the Academic](https://unherd.com/2024/03/how-universities-killed-the-academic/)<!-- HN:39586114:end --><!-- HN:39586206:start -->
+* [39586206](https://news.social-protocols.org/stats?id=39586206) #28 8 points 0 comments -> ["This is the Corvette that Windows zip folders bought"](https://twitter.com/davepl1968/status/1764459921616359478)<!-- HN:39586206:end -->
