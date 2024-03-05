@@ -880,3 +880,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39590436](https://news.social-protocols.org/stats?id=39590436) #28 8 points 1 comments -> [Large language models can do jaw-dropping things. But nobody knows why](https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/)<!-- HN:39590436:end --><!-- HN:39587767:start -->
 * [39587767](https://news.social-protocols.org/stats?id=39587767) #28 12 points 0 comments -> [Paged.js: open-source polyfill to produce print-ready PDFs using HTML/CSS](https://pagedjs.org/)<!-- HN:39587767:end --><!-- HN:39591287:start -->
 * [39591287](https://news.social-protocols.org/stats?id=39591287) #17 61 points 59 comments -> ['Your pay is still – not – going up too fast'](https://www.nominalnews.com/p/your-pay-is-still-not-going-up-too-fast)<!-- HN:39591287:end -->
+#### **Tuesday, March 5, 2024**
+<!-- HN:39599736:start -->
+* [39599736](https://news.social-protocols.org/stats?id=39599736) #24 7 points 1 comments -> [Apple Fined $2B in One of Europe's Largest Antitrust Actions](https://www.wsj.com/tech/apple-hit-with-near-2-billion-fine-in-europe-over-music-streaming-apps-74062ff7)<!-- HN:39599736:end -->
