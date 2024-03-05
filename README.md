@@ -883,4 +883,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 5, 2024**
 <!-- HN:39599736:start -->
 * [39599736](https://news.social-protocols.org/stats?id=39599736) #24 7 points 1 comments -> [Apple Fined $2B in One of Europe's Largest Antitrust Actions](https://www.wsj.com/tech/apple-hit-with-near-2-billion-fine-in-europe-over-music-streaming-apps-74062ff7)<!-- HN:39599736:end --><!-- HN:39599312:start -->
-* [39599312](https://news.social-protocols.org/stats?id=39599312) #28 28 points 6 comments -> [Claude 3 Opus suspects it is being tested from benchmark question](https://twitter.com/alexalbert__/status/1764722513014329620)<!-- HN:39599312:end -->
+* [39599312](https://news.social-protocols.org/stats?id=39599312) #28 28 points 6 comments -> [Claude 3 Opus suspects it is being tested from benchmark question](https://twitter.com/alexalbert__/status/1764722513014329620)<!-- HN:39599312:end --><!-- HN:39599150:start -->
+* [39599150](https://news.social-protocols.org/stats?id=39599150) #23 29 points 23 comments -> [A moment of financial clarification (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)<!-- HN:39599150:end -->
