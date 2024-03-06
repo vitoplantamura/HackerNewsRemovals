@@ -901,3 +901,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39608188](https://news.social-protocols.org/stats?id=39608188) #28 5 points 0 comments -> [Virginia Tech Helmet Ratings](https://www.helmet.beam.vt.edu/)<!-- HN:39608188:end --><!-- HN:39608319:start -->
 * [39608319](https://news.social-protocols.org/stats?id=39608319) #26 7 points 1 comments -> [Fighting Monopoly Can Save Journalism](https://washingtonmonthly.com/2024/01/16/how-fighting-monopoly-can-save-journalism/)<!-- HN:39608319:end --><!-- HN:39609400:start -->
 * [39609400](https://news.social-protocols.org/stats?id=39609400) #28 13 points 0 comments -> [Trillions of gallons leak from aging drinking water systems](https://apnews.com/article/water-loss-infrastructure-broken-pipes-poor-neighborhoods-2d747180d294ba62cdbf0906f9305802)<!-- HN:39609400:end -->
+#### **Wednesday, March 6, 2024**
+<!-- HN:39610662:start -->
+* [39610662](https://news.social-protocols.org/stats?id=39610662) #10 6 points 3 comments -> [BYD's EV Dream May Be Legacy Automakers' Nightmare](https://spectrum.ieee.org/byd-ev-china-supercar)<!-- HN:39610662:end -->
