@@ -905,4 +905,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39610662:start -->
 * [39610662](https://news.social-protocols.org/stats?id=39610662) #10 6 points 3 comments -> [BYD's EV Dream May Be Legacy Automakers' Nightmare](https://spectrum.ieee.org/byd-ev-china-supercar)<!-- HN:39610662:end --><!-- HN:39603523:start -->
 * [39603523](https://news.social-protocols.org/stats?id=39603523) #30 24 points 0 comments -> [Lua Unofficial FAQ (UFAQ)](https://www.luafaq.org/)<!-- HN:39603523:end --><!-- HN:39609969:start -->
-* [39609969](https://news.social-protocols.org/stats?id=39609969) #29 16 points 1 comments -> [Swift 5.10 Released](https://www.swift.org/blog/swift-5.10-released/)<!-- HN:39609969:end -->
+* [39609969](https://news.social-protocols.org/stats?id=39609969) #29 16 points 1 comments -> [Swift 5.10 Released](https://www.swift.org/blog/swift-5.10-released/)<!-- HN:39609969:end --><!-- HN:39611220:start -->
+* [39611220](https://news.social-protocols.org/stats?id=39611220) #11 -> [EU Fines Apple $1.8B](https://www.theguardian.com/business/2024/mar/04/eu-fines-apple-18bn-over-app-store-restrictions-on-music-streaming)<!-- HN:39611220:end -->
