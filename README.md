@@ -927,3 +927,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39622401](https://news.social-protocols.org/stats?id=39622401) #26 5 points 2 comments -> [How Apple Sank About $1B a Year Into a Car It Never Built](https://www.bloomberg.com/news/features/2024-03-06/apple-car-s-crash-design-details-tim-cook-s-indecision-failed-tesla-deal)<!-- HN:39622401:end --><!-- HN:39622067:start -->
 * [39622067](https://news.social-protocols.org/stats?id=39622067) #16 5 points 0 comments -> [Belling the Cat](https://read.gov/aesop/003.html)<!-- HN:39622067:end --><!-- HN:39622524:start -->
 * [39622524](https://news.social-protocols.org/stats?id=39622524) #27 9 points 0 comments -> [Rooster Teeth Shut Down by Warner Bros. Discovery](https://deadline.com/2024/03/rooster-teeth-shut-down-warner-bros-discovery-roost-podcast-continue-1235847264/)<!-- HN:39622524:end -->
+#### **Thursday, March 7, 2024**
+<!-- HN:39623563:start -->
+* [39623563](https://news.social-protocols.org/stats?id=39623563) #21 29 points 6 comments -> [Apple Terminated Epic's Developer Account](https://twitter.com/gergelyorosz/status/1765439068966412591)<!-- HN:39623563:end -->
