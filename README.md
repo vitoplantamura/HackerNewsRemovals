@@ -929,4 +929,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39622524](https://news.social-protocols.org/stats?id=39622524) #27 9 points 0 comments -> [Rooster Teeth Shut Down by Warner Bros. Discovery](https://deadline.com/2024/03/rooster-teeth-shut-down-warner-bros-discovery-roost-podcast-continue-1235847264/)<!-- HN:39622524:end -->
 #### **Thursday, March 7, 2024**
 <!-- HN:39623563:start -->
-* [39623563](https://news.social-protocols.org/stats?id=39623563) #21 29 points 6 comments -> [Apple Terminated Epic's Developer Account](https://twitter.com/gergelyorosz/status/1765439068966412591)<!-- HN:39623563:end -->
+* [39623563](https://news.social-protocols.org/stats?id=39623563) #21 29 points 6 comments -> [Apple Terminated Epic's Developer Account](https://twitter.com/gergelyorosz/status/1765439068966412591)<!-- HN:39623563:end --><!-- HN:39622778:start -->
+* [39622778](https://news.social-protocols.org/stats?id=39622778) #28 10 points 8 comments -> [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)<!-- HN:39622778:end -->
