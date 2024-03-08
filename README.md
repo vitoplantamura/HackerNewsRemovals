@@ -952,4 +952,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, March 8, 2024**
 <!-- HN:39636164:start -->
 * [39636164](https://news.social-protocols.org/stats?id=39636164) #30 5 points 0 comments -> [Why React Server Components Are Breaking Builds to Win Tomorrow](https://www.builder.io/blog/why-react-server-components)<!-- HN:39636164:end --><!-- HN:39637494:start -->
-* [39637494](https://news.social-protocols.org/stats?id=39637494) #2 13 points 2 comments -> [Dragon Ball Creator, Akira Toriyama, Has Passed Away](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)<!-- HN:39637494:end -->
+* [39637494](https://news.social-protocols.org/stats?id=39637494) #2 13 points 2 comments -> [Dragon Ball Creator, Akira Toriyama, Has Passed Away](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)<!-- HN:39637494:end --><!-- HN:39638154:start -->
+* [39638154](https://news.social-protocols.org/stats?id=39638154) #26 6 points 0 comments -> [How the Gaza Ministry of Health Fakes Casualty Numbers](https://www.tabletmag.com/sections/news/articles/how-gaza-health-ministry-fakes-casualty-numbers)<!-- HN:39638154:end -->
