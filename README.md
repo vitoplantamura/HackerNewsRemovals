@@ -949,3 +949,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39633069](https://news.social-protocols.org/stats?id=39633069) #30 5 points 0 comments -> [Einstein Problem](https://en.wikipedia.org/wiki/Einstein_problem)<!-- HN:39633069:end --><!-- HN:39633652:start -->
 * [39633652](https://news.social-protocols.org/stats?id=39633652) #27 11 points 5 comments -> [A data-driven case for why TikTok needs to be banned before the 2024 election](https://time.com/6836078/tiktok-sold-banned-2024-election/)<!-- HN:39633652:end --><!-- HN:39635058:start -->
 * [39635058](https://news.social-protocols.org/stats?id=39635058) #29 8 points 1 comments -> [Key OpenAI Executive Played a Pivotal Role in Sam Altman's Ouster](https://www.nytimes.com/2024/03/07/technology/openai-executives-role-in-sam-altman-ouster.html)<!-- HN:39635058:end -->
+#### **Friday, March 8, 2024**
+<!-- HN:39636164:start -->
+* [39636164](https://news.social-protocols.org/stats?id=39636164) #30 5 points 0 comments -> [Why React Server Components Are Breaking Builds to Win Tomorrow](https://www.builder.io/blog/why-react-server-components)<!-- HN:39636164:end -->
