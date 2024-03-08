@@ -951,4 +951,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39635058](https://news.social-protocols.org/stats?id=39635058) #29 8 points 1 comments -> [Key OpenAI Executive Played a Pivotal Role in Sam Altman's Ouster](https://www.nytimes.com/2024/03/07/technology/openai-executives-role-in-sam-altman-ouster.html)<!-- HN:39635058:end -->
 #### **Friday, March 8, 2024**
 <!-- HN:39636164:start -->
-* [39636164](https://news.social-protocols.org/stats?id=39636164) #30 5 points 0 comments -> [Why React Server Components Are Breaking Builds to Win Tomorrow](https://www.builder.io/blog/why-react-server-components)<!-- HN:39636164:end -->
+* [39636164](https://news.social-protocols.org/stats?id=39636164) #30 5 points 0 comments -> [Why React Server Components Are Breaking Builds to Win Tomorrow](https://www.builder.io/blog/why-react-server-components)<!-- HN:39636164:end --><!-- HN:39637494:start -->
+* [39637494](https://news.social-protocols.org/stats?id=39637494) #2 13 points 2 comments -> [Dragon Ball Creator, Akira Toriyama, Has Passed Away](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)<!-- HN:39637494:end -->
