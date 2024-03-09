@@ -984,6 +984,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39647491](https://news.social-protocols.org/stats?id=39647491) #3 17 points 5 comments -> [OpenAI: OpenAI announces new members to board of directors](https://openai.com/blog/openai-announces-new-members-to-board-of-directors)<!-- HN:39647491:end --><!-- HN:39647488:start -->
 * [39647488](https://news.social-protocols.org/stats?id=39647488) #13 44 points 23 comments -> [OpenAI: Review completed andamp; Altman, Brockman to continue to lead OpenAI](https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai)<!-- HN:39647488:end -->
 #### **Saturday, March 9, 2024**
-<!-- HN:39647884:start -->
-* [39647884](https://news.social-protocols.org/stats?id=39647884) #18 6 points 1 comments -> [Gab AI's "unbiased" chatbot is biased](https://twitter.com/frog89348645/status/1764490810744029595)<!-- HN:39647884:end --><!-- HN:39646648:start -->
+<!-- HN:39646648:start -->
 * [39646648](https://news.social-protocols.org/stats?id=39646648) #18 21 points 13 comments -> [BowFlex files for bankruptcy amid declining interest in cardio equipment](https://www.axios.com/2024/03/05/bowflex-bankruptcy-nautilus-schwinn-chapter-11)<!-- HN:39646648:end -->
