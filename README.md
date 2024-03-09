@@ -983,3 +983,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39647468](https://news.social-protocols.org/stats?id=39647468) #17 10 points 6 comments -> [Conservative video giant PragerU is trying to get into schools](https://www.npr.org/2024/03/07/1234491074/prageru-schools-videos-growth)<!-- HN:39647468:end --><!-- HN:39647491:start -->
 * [39647491](https://news.social-protocols.org/stats?id=39647491) #3 17 points 5 comments -> [OpenAI: OpenAI announces new members to board of directors](https://openai.com/blog/openai-announces-new-members-to-board-of-directors)<!-- HN:39647491:end --><!-- HN:39647488:start -->
 * [39647488](https://news.social-protocols.org/stats?id=39647488) #13 44 points 23 comments -> [OpenAI: Review completed andamp; Altman, Brockman to continue to lead OpenAI](https://openai.com/blog/review-completed-altman-brockman-to-continue-to-lead-openai)<!-- HN:39647488:end -->
+#### **Saturday, March 9, 2024**
+<!-- HN:39647884:start -->
+* [39647884](https://news.social-protocols.org/stats?id=39647884) #18 6 points 1 comments -> [Gab AI's "unbiased" chatbot is biased](https://twitter.com/frog89348645/status/1764490810744029595)<!-- HN:39647884:end -->
