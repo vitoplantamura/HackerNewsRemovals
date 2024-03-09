@@ -986,4 +986,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 9, 2024**
 <!-- HN:39646648:start -->
 * [39646648](https://news.social-protocols.org/stats?id=39646648) #18 21 points 13 comments -> [BowFlex files for bankruptcy amid declining interest in cardio equipment](https://www.axios.com/2024/03/05/bowflex-bankruptcy-nautilus-schwinn-chapter-11)<!-- HN:39646648:end --><!-- HN:39647884:start -->
-* [39647884](https://news.social-protocols.org/stats?id=39647884) #17 9 points 0 comments -> [Gab AI's "unbiased" chatbot is biased](https://twitter.com/frog89348645/status/1764490810744029595)<!-- HN:39647884:end -->
+* [39647884](https://news.social-protocols.org/stats?id=39647884) #17 9 points 0 comments -> [Gab AI's "unbiased" chatbot is biased](https://twitter.com/frog89348645/status/1764490810744029595)<!-- HN:39647884:end --><!-- HN:39647725:start -->
+* [39647725](https://news.social-protocols.org/stats?id=39647725) #30 3 points 4 comments -> [OpenAI investigation says it was wrong to fire Sam Altman](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)<!-- HN:39647725:end -->
