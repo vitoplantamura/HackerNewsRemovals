@@ -307,3 +307,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39653633](https://news.social-protocols.org/stats?id=39653633) #27 11 points 0 comments -> [Finland: Hybrid model with greenhouse makes vertical farming business viable](https://www.hortidaily.com/article/9604866/finland-hybrid-model-with-greenhouse-makes-vertical-farming-business-viable/)<!-- HN:39653633:end --><!-- HN:39654656:start -->
 * [39654656](https://news.social-protocols.org/stats?id=39654656) #29 8 points 0 comments -> [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)<!-- HN:39654656:end --><!-- HN:39653813:start -->
 * [39653813](https://news.social-protocols.org/stats?id=39653813) #29 7 points 1 comments -> [Show HN: Print My Drone, catalog of 3D printable drone models](https://printmydrone.com)<!-- HN:39653813:end -->
+#### **Sunday, March 10, 2024**
+<!-- HN:39655587:start -->
+* [39655587](https://news.social-protocols.org/stats?id=39655587) #27 49 points 24 comments -> [mRNA vaccines: let's eradicate herpes, cure cancer, and be sick a whole lot less](https://bessstillman.substack.com/p/mrna-vaccines-lets-be-sick-a-whole)<!-- HN:39655587:end -->
