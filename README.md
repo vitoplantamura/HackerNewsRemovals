@@ -330,4 +330,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 11, 2024**
 <!-- HN:39662437:start -->
 * [39662437](https://news.social-protocols.org/stats?id=39662437) #26 4 points 0 comments -> [Did Exxon Make It Rain Today?](https://www.thenewatlantis.com/publications/did-exxon-make-it-rain-today)<!-- HN:39662437:end --><!-- HN:39663761:start -->
-* [39663761](https://news.social-protocols.org/stats?id=39663761) #12 16 points 12 comments -> [Kate image withdrawn by three news agencies amid 'manipulation' concerns](https://www.bbc.com/news/uk-68526972)<!-- HN:39663761:end -->
+* [39663761](https://news.social-protocols.org/stats?id=39663761) #12 16 points 12 comments -> [Kate image withdrawn by three news agencies amid 'manipulation' concerns](https://www.bbc.com/news/uk-68526972)<!-- HN:39663761:end --><!-- HN:39661223:start -->
+* [39661223](https://news.social-protocols.org/stats?id=39661223) #27 8 points 13 comments -> [The Deep and Enduring History of Universal Basic Income](https://thereader.mitpress.mit.edu/the-deep-and-enduring-history-of-universal-basic-income/)<!-- HN:39661223:end -->
