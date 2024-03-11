@@ -327,3 +327,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39661010](https://news.social-protocols.org/stats?id=39661010) #20 13 points 6 comments -> [A.I. Is Learning What It Means to Be Alive](https://www.nytimes.com/2024/03/10/science/ai-learning-biology.html)<!-- HN:39661010:end --><!-- HN:39662377:start -->
 * [39662377](https://news.social-protocols.org/stats?id=39662377) #19 4 points 0 comments -> [How the Gaza Ministry of Health Fakes Casualty Numbers](https://www.tabletmag.com/sections/news/articles/how-gaza-health-ministry-fakes-casualty-numbers)<!-- HN:39662377:end --><!-- HN:39663219:start -->
 * [39663219](https://news.social-protocols.org/stats?id=39663219) #5 7 points 1 comments -> [The EBF Documentary](https://www.brendangregg.com/blog/2024-03-10/ebpf-documentary.html)<!-- HN:39663219:end -->
+#### **Monday, March 11, 2024**
+<!-- HN:39662437:start -->
+* [39662437](https://news.social-protocols.org/stats?id=39662437) #26 4 points 0 comments -> [Did Exxon Make It Rain Today?](https://www.thenewatlantis.com/publications/did-exxon-make-it-rain-today)<!-- HN:39662437:end -->
