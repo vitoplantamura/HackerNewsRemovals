@@ -376,4 +376,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39673388](https://news.social-protocols.org/stats?id=39673388) #28 4 points 0 comments -> [How to lock away sensitive information on Linux with KDE Vaults](https://www.zdnet.com/article/how-to-lock-away-sensitive-information-on-linux-with-kde-vaults/)<!-- HN:39673388:end -->
 #### **Tuesday, March 12, 2024**
 <!-- HN:39673702:start -->
-* [39673702](https://news.social-protocols.org/stats?id=39673702) #16 8 points 2 comments -> [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)<!-- HN:39673702:end -->
+* [39673702](https://news.social-protocols.org/stats?id=39673702) #16 8 points 2 comments -> [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)<!-- HN:39673702:end --><!-- HN:39673265:start -->
+* [39673265](https://news.social-protocols.org/stats?id=39673265) #7 26 points 24 comments -> [Among the A.I. Doomsayers](https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers)<!-- HN:39673265:end -->
