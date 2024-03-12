@@ -375,8 +375,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39673103](https://news.social-protocols.org/stats?id=39673103) #30 7 points 8 comments -> [A Dutch Quandary Offers a Glimpse of a Deepening Problem for Europe](https://www.nytimes.com/2024/03/11/world/europe/geert-wilders-dutch-election-politics.html)<!-- HN:39673103:end --><!-- HN:39673388:start -->
 * [39673388](https://news.social-protocols.org/stats?id=39673388) #28 4 points 0 comments -> [How to lock away sensitive information on Linux with KDE Vaults](https://www.zdnet.com/article/how-to-lock-away-sensitive-information-on-linux-with-kde-vaults/)<!-- HN:39673388:end -->
 #### **Tuesday, March 12, 2024**
-<!-- HN:39673702:start -->
-* [39673702](https://news.social-protocols.org/stats?id=39673702) #16 8 points 2 comments -> [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)<!-- HN:39673702:end --><!-- HN:39674394:start -->
+<!-- HN:39674394:start -->
 * [39674394](https://news.social-protocols.org/stats?id=39674394) #10 23 points 8 comments -> [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)<!-- HN:39674394:end --><!-- HN:39674162:start -->
 * [39674162](https://news.social-protocols.org/stats?id=39674162) #28 6 points 1 comments -> [Organizing Developer Writing Retreats](https://www.swyx.io/dwr-review)<!-- HN:39674162:end --><!-- HN:39675320:start -->
 * [39675320](https://news.social-protocols.org/stats?id=39675320) #7 28 points 12 comments -> [Rabbit Inc. Faked Their Demo (Again)](https://rentry.co/rabbitscam)<!-- HN:39675320:end --><!-- HN:39633123:start -->
