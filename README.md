@@ -377,4 +377,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 12, 2024**
 <!-- HN:39673702:start -->
 * [39673702](https://news.social-protocols.org/stats?id=39673702) #16 8 points 2 comments -> [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)<!-- HN:39673702:end --><!-- HN:39674394:start -->
-* [39674394](https://news.social-protocols.org/stats?id=39674394) #10 23 points 8 comments -> [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)<!-- HN:39674394:end -->
+* [39674394](https://news.social-protocols.org/stats?id=39674394) #10 23 points 8 comments -> [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)<!-- HN:39674394:end --><!-- HN:39674162:start -->
+* [39674162](https://news.social-protocols.org/stats?id=39674162) #28 6 points 1 comments -> [Organizing Developer Writing Retreats](https://www.swyx.io/dwr-review)<!-- HN:39674162:end -->
