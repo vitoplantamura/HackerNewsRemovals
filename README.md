@@ -399,4 +399,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, March 13, 2024**
 <!-- HN:39686779:start -->
 * [39686779](https://news.social-protocols.org/stats?id=39686779) #29 7 points 0 comments -> [Leaked discussions reveal uncertainty about transgender care](https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care)<!-- HN:39686779:end --><!-- HN:39688802:start -->
-* [39688802](https://news.social-protocols.org/stats?id=39688802) #2 66 points 15 comments -> [Give some new links a chance](https://news.ycombinator.com/newest)<!-- HN:39688802:end -->
+* [39688802](https://news.social-protocols.org/stats?id=39688802) #2 66 points 15 comments -> [Give some new links a chance](https://news.ycombinator.com/newest)<!-- HN:39688802:end --><!-- HN:39688590:start -->
+* [39688590](https://news.social-protocols.org/stats?id=39688590) #12 23 points 12 comments -> [Google's Ban on Election Queries in Gemini AI Sparks Debate](https://www.cryptopolitan.com/googles-ban-election-queries-in-gemini-ai/)<!-- HN:39688590:end -->
