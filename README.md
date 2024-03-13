@@ -398,4 +398,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39684719](https://news.social-protocols.org/stats?id=39684719) #26 21 points 0 comments -> [Discord to open up developer SDK to enable more games and apps inside platform](https://www.engadget.com/discord-will-soon-offer-more-games-and-apps-inside-its-chats-182540566.html)<!-- HN:39684719:end -->
 #### **Wednesday, March 13, 2024**
 <!-- HN:39686779:start -->
-* [39686779](https://news.social-protocols.org/stats?id=39686779) #29 7 points 0 comments -> [Leaked discussions reveal uncertainty about transgender care](https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care)<!-- HN:39686779:end -->
+* [39686779](https://news.social-protocols.org/stats?id=39686779) #29 7 points 0 comments -> [Leaked discussions reveal uncertainty about transgender care](https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care)<!-- HN:39686779:end --><!-- HN:39688802:start -->
+* [39688802](https://news.social-protocols.org/stats?id=39688802) #2 66 points 15 comments -> [Give some new links a chance](https://news.ycombinator.com/newest)<!-- HN:39688802:end -->
