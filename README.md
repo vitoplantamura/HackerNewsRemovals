@@ -441,4 +441,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39697731](https://news.social-protocols.org/stats?id=39697731) #9 16 points 1 comments -> [I like automations for inclusive development](https://blog.lmorchard.com/2024/03/13/github-actions-for-didthis/)<!-- HN:39697731:end -->
 #### **Thursday, March 14, 2024**
 <!-- HN:39698087:start -->
-* [39698087](https://news.social-protocols.org/stats?id=39698087) #29 21 points 24 comments -> [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)<!-- HN:39698087:end -->
+* [39698087](https://news.social-protocols.org/stats?id=39698087) #29 21 points 24 comments -> [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)<!-- HN:39698087:end --><!-- HN:39697521:start -->
+* [39697521](https://news.social-protocols.org/stats?id=39697521) #27 63 points 22 comments -> [March 14, 7:00 a.m. CT: Starship's third flight test](https://twitter.com/SpaceX/status/1768004039680426406)<!-- HN:39697521:end -->
