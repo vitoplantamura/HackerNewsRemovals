@@ -472,5 +472,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39709680](https://news.social-protocols.org/stats?id=39709680) #30 5 points 0 comments -> [Raspberry Pi 5 *can* overclock to 3.14 GHz](https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-can-overclock-314-ghz)<!-- HN:39709680:end -->
 #### **Friday, March 15, 2024**
 <!-- HN:39709974:start -->
-* [39709974](https://news.social-protocols.org/stats?id=39709974) #26 26 points 1 comments -> [Admin of darknet drug market demanding every user pays ransom after taking money](https://twitter.com/DrRebeccaTidy/status/1767670379609248180)<!-- HN:39709974:end --><!-- HN:39711327:start -->
-* [39711327](https://news.social-protocols.org/stats?id=39711327) #28 11 points 1 comments -> [Scientists Discovered a 'Fear Switch' in the Brain, and How to Turn It Off](https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off)<!-- HN:39711327:end -->
+* [39709974](https://news.social-protocols.org/stats?id=39709974) #26 26 points 1 comments -> [Admin of darknet drug market demanding every user pays ransom after taking money](https://twitter.com/DrRebeccaTidy/status/1767670379609248180)<!-- HN:39709974:end -->
