@@ -470,3 +470,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39708365](https://news.social-protocols.org/stats?id=39708365) #30 3 points 1 comments -> [Chroma vs. Qdrant vs. Weaviate Benchmark](https://www.adesso.de/en/news/blog/procedure-for-the-creation-of-vector-databases-benchmark-tests-and-their-results.jsp)<!-- HN:39708365:end --><!-- HN:39706375:start -->
 * [39706375](https://news.social-protocols.org/stats?id=39706375) #30 25 points 6 comments -> [There is no EU cookie banner law](https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law)<!-- HN:39706375:end --><!-- HN:39709680:start -->
 * [39709680](https://news.social-protocols.org/stats?id=39709680) #30 5 points 0 comments -> [Raspberry Pi 5 *can* overclock to 3.14 GHz](https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-can-overclock-314-ghz)<!-- HN:39709680:end -->
+#### **Friday, March 15, 2024**
+<!-- HN:39709974:start -->
+* [39709974](https://news.social-protocols.org/stats?id=39709974) #26 26 points 1 comments -> [Admin of darknet drug market demanding every user pays ransom after taking money](https://twitter.com/DrRebeccaTidy/status/1767670379609248180)<!-- HN:39709974:end -->
