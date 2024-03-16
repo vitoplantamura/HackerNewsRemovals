@@ -515,4 +515,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39721726](https://news.social-protocols.org/stats?id=39721726) #22 -> [Leave car keys 'at front door' to avoid violent confrontations: Toronto Police](https://toronto.citynews.ca/2024/03/14/leave-car-keys-at-front-door-to-avoid-violent-confrontations-with-car-thieves-toronto-police/)<!-- HN:39721726:end -->
 #### **Saturday, March 16, 2024**
 <!-- HN:39721326:start -->
-* [39721326](https://news.social-protocols.org/stats?id=39721326) #2 42 points 2 comments -> [Atopile – build electronic circuit boards from code](https://atopile.io/)<!-- HN:39721326:end -->
+* [39721326](https://news.social-protocols.org/stats?id=39721326) #2 42 points 2 comments -> [Atopile – build electronic circuit boards from code](https://atopile.io/)<!-- HN:39721326:end --><!-- HN:39722013:start -->
+* [39722013](https://news.social-protocols.org/stats?id=39722013) #1 62 points 23 comments -> [Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)<!-- HN:39722013:end -->
