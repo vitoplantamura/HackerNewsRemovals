@@ -516,4 +516,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 16, 2024**
 <!-- HN:39721326:start -->
 * [39721326](https://news.social-protocols.org/stats?id=39721326) #2 42 points 2 comments -> [Atopile – build electronic circuit boards from code](https://atopile.io/)<!-- HN:39721326:end --><!-- HN:39722013:start -->
-* [39722013](https://news.social-protocols.org/stats?id=39722013) #1 62 points 23 comments -> [Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)<!-- HN:39722013:end -->
+* [39722013](https://news.social-protocols.org/stats?id=39722013) #1 62 points 23 comments -> [Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)<!-- HN:39722013:end --><!-- HN:39721794:start -->
+* [39721794](https://news.social-protocols.org/stats?id=39721794) #16 11 points 0 comments -> [Rents are finally falling in Los Angeles. But it's still not enough for many](https://www.latimes.com/california/story/2024-03-12/rents-are-falling-in-los-angeles-see-where-the-rest-of-the-state-stacks-up)<!-- HN:39721794:end -->
