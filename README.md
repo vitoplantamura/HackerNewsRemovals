@@ -513,3 +513,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39721150](https://news.social-protocols.org/stats?id=39721150) #19 4 points 0 comments -> [BitTorrent Is No Longer the 'King' of Upstream Internet Traffic](https://torrentfreak.com/bittorrent-is-no-longer-the-king-of-upstream-internet-traffic-240315/)<!-- HN:39721150:end --><!-- HN:39720777:start -->
 * [39720777](https://news.social-protocols.org/stats?id=39720777) #29 7 points 1 comments -> [Netflix Is Rethinking Employee Freedom, a Core Tenet of Its Vaunted Culture](https://www.wsj.com/business/media/netflix-is-rethinking-employee-freedom-a-core-tenet-of-its-vaunted-culture-a33f78e5)<!-- HN:39720777:end --><!-- HN:39721726:start -->
 * [39721726](https://news.social-protocols.org/stats?id=39721726) #22 -> [Leave car keys 'at front door' to avoid violent confrontations: Toronto Police](https://toronto.citynews.ca/2024/03/14/leave-car-keys-at-front-door-to-avoid-violent-confrontations-with-car-thieves-toronto-police/)<!-- HN:39721726:end -->
+#### **Saturday, March 16, 2024**
+<!-- HN:39721326:start -->
+* [39721326](https://news.social-protocols.org/stats?id=39721326) #2 42 points 2 comments -> [Atopile – build electronic circuit boards from code](https://atopile.io/)<!-- HN:39721326:end -->
