@@ -565,4 +565,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 17, 2024**
 <!-- HN:39729483:start -->
 * [39729483](https://news.social-protocols.org/stats?id=39729483) #21 21 points 19 comments -> [What the Gardasil Testing May Have Missed](https://slate.com/health-and-science/2017/12/flaws-in-the-clinical-trials-for-gardasil-made-it-harder-to-properly-assess-safety.html)<!-- HN:39729483:end --><!-- HN:39730692:start -->
-* [39730692](https://news.social-protocols.org/stats?id=39730692) #2 25 points 6 comments -> [Fentanyl poisoning is the #1 killer for people ages 18-45](https://www.dea.gov/engage/operation-engage-spokane)<!-- HN:39730692:end -->
+* [39730692](https://news.social-protocols.org/stats?id=39730692) #2 25 points 6 comments -> [Fentanyl poisoning is the #1 killer for people ages 18-45](https://www.dea.gov/engage/operation-engage-spokane)<!-- HN:39730692:end --><!-- HN:39730428:start -->
+* [39730428](https://news.social-protocols.org/stats?id=39730428) #18 11 points 2 comments -> [Sophisticated 'burglary tourists' fly from S America to rob wealthy homes – LAPD](https://www.latimes.com/california/story/2024-03-16/los-angeles-police-south-american-crime-tourism)<!-- HN:39730428:end -->
