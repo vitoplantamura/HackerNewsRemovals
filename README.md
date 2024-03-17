@@ -564,4 +564,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39729549](https://news.social-protocols.org/stats?id=39729549) #21 6 points 0 comments -> [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.com/news/technology-68580235)<!-- HN:39729549:end -->
 #### **Sunday, March 17, 2024**
 <!-- HN:39729483:start -->
-* [39729483](https://news.social-protocols.org/stats?id=39729483) #21 21 points 19 comments -> [What the Gardasil Testing May Have Missed](https://slate.com/health-and-science/2017/12/flaws-in-the-clinical-trials-for-gardasil-made-it-harder-to-properly-assess-safety.html)<!-- HN:39729483:end -->
+* [39729483](https://news.social-protocols.org/stats?id=39729483) #21 21 points 19 comments -> [What the Gardasil Testing May Have Missed](https://slate.com/health-and-science/2017/12/flaws-in-the-clinical-trials-for-gardasil-made-it-harder-to-properly-assess-safety.html)<!-- HN:39729483:end --><!-- HN:39730692:start -->
+* [39730692](https://news.social-protocols.org/stats?id=39730692) #2 25 points 6 comments -> [Fentanyl poisoning is the #1 killer for people ages 18-45](https://www.dea.gov/engage/operation-engage-spokane)<!-- HN:39730692:end -->
