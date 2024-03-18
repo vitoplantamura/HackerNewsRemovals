@@ -597,4 +597,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 18, 2024**
 <!-- HN:39738862:start -->
 * [39738862](https://news.social-protocols.org/stats?id=39738862) #23 22 points 40 comments -> [Uber to pay $272M to Australian taxi operators](https://www.smh.com.au/technology/uber-to-pay-272-million-to-australian-taxi-operators-20240318-p5fd4p.html)<!-- HN:39738862:end --><!-- HN:39738759:start -->
-* [39738759](https://news.social-protocols.org/stats?id=39738759) #6 29 points 9 comments -> [MANATEE(lm): Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E?usp=sharing)<!-- HN:39738759:end -->
+* [39738759](https://news.social-protocols.org/stats?id=39738759) #6 29 points 9 comments -> [MANATEE(lm): Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E?usp=sharing)<!-- HN:39738759:end --><!-- HN:39739404:start -->
+* [39739404](https://news.social-protocols.org/stats?id=39739404) #26 4 points 0 comments -> [Porsche's Active Suspension Is Mind-Blowing](https://www.motor1.com/features/712424/porsche-active-ride/)<!-- HN:39739404:end -->
