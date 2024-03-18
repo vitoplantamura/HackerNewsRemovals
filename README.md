@@ -595,8 +595,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39737548](https://news.social-protocols.org/stats?id=39737548) #29 16 points 0 comments -> [Meow.camera – Live street cat feeder cams](https://meow.camera/viewer/)<!-- HN:39737548:end --><!-- HN:39737622:start -->
 * [39737622](https://news.social-protocols.org/stats?id=39737622) #8 13 points 5 comments -> [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)<!-- HN:39737622:end -->
 #### **Monday, March 18, 2024**
-<!-- HN:39738862:start -->
-* [39738862](https://news.social-protocols.org/stats?id=39738862) #23 22 points 40 comments -> [Uber to pay $272M to Australian taxi operators](https://www.smh.com.au/technology/uber-to-pay-272-million-to-australian-taxi-operators-20240318-p5fd4p.html)<!-- HN:39738862:end --><!-- HN:39738759:start -->
+<!-- HN:39738759:start -->
 * [39738759](https://news.social-protocols.org/stats?id=39738759) #6 29 points 9 comments -> [MANATEE(lm): Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E?usp=sharing)<!-- HN:39738759:end --><!-- HN:39739579:start -->
 * [39739579](https://news.social-protocols.org/stats?id=39739579) #1 17 points 8 comments -> [X.ai's Grok-1 Model Is Officially Open-Source and Larger Than Expected](https://synthedia.substack.com/p/xais-grok-1-model-is-officially-open)<!-- HN:39739579:end --><!-- HN:39739647:start -->
 * [39739647](https://news.social-protocols.org/stats?id=39739647) #21 20 points 11 comments -> [American News Lost Its Nerve](https://www.semafor.com/article/03/17/2024/very-few-have-balls-how-american-news-lost-its-nerve)<!-- HN:39739647:end --><!-- HN:39738353:start -->
