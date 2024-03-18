@@ -594,3 +594,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39737662](https://news.social-protocols.org/stats?id=39737662) #25 3 points 0 comments -> [Radicle: An Open-Source, Peer-to-Peer, GitHub Alternative](https://hackaday.com/2024/03/16/radicle-an-open-source-peer-to-peer-github-alternative/)<!-- HN:39737662:end --><!-- HN:39737548:start -->
 * [39737548](https://news.social-protocols.org/stats?id=39737548) #29 16 points 0 comments -> [Meow.camera – Live street cat feeder cams](https://meow.camera/viewer/)<!-- HN:39737548:end --><!-- HN:39737622:start -->
 * [39737622](https://news.social-protocols.org/stats?id=39737622) #8 13 points 5 comments -> [C++ Exit-Time Destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)<!-- HN:39737622:end -->
+#### **Monday, March 18, 2024**
+<!-- HN:39738862:start -->
+* [39738862](https://news.social-protocols.org/stats?id=39738862) #23 22 points 40 comments -> [Uber to pay $272M to Australian taxi operators](https://www.smh.com.au/technology/uber-to-pay-272-million-to-australian-taxi-operators-20240318-p5fd4p.html)<!-- HN:39738862:end -->
