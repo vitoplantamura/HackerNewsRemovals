@@ -640,4 +640,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 19, 2024**
 <!-- HN:39751637:start -->
 * [39751637](https://news.social-protocols.org/stats?id=39751637) #26 5 points 0 comments -> [EV Hacking: This Is How Easy It Is to Sabotage the Power Grid [video]](https://www.youtube.com/watch?v=J_6BZDnSpGE)<!-- HN:39751637:end --><!-- HN:39752343:start -->
-* [39752343](https://news.social-protocols.org/stats?id=39752343) #4 13 points 12 comments -> [America's economy has escaped a hard landing](https://www.economist.com/briefing/2024/03/14/americas-economy-has-escaped-a-hard-landing)<!-- HN:39752343:end -->
+* [39752343](https://news.social-protocols.org/stats?id=39752343) #4 13 points 12 comments -> [America's economy has escaped a hard landing](https://www.economist.com/briefing/2024/03/14/americas-economy-has-escaped-a-hard-landing)<!-- HN:39752343:end --><!-- HN:39752134:start -->
+* [39752134](https://news.social-protocols.org/stats?id=39752134) #22 14 points 3 comments -> [Vehicle Privacy Report](https://vehicleprivacyreport.com/)<!-- HN:39752134:end -->
