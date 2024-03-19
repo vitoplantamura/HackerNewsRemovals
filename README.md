@@ -637,3 +637,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39749465](https://news.social-protocols.org/stats?id=39749465) #9 6 points 5 comments -> [I Stopped Loving Captain Kirk](https://buttondown.email/charliejane/archive/i-stopped-loving-captain-kirk/)<!-- HN:39749465:end --><!-- HN:39749647:start -->
 * [39749647](https://news.social-protocols.org/stats?id=39749647) #18 72 points 39 comments -> [Intermittent fasting linked to a 91% higher risk of cardiovascular death](https://www.eurekalert.org/news-releases/1037544)<!-- HN:39749647:end --><!-- HN:39748603:start -->
 * [39748603](https://news.social-protocols.org/stats?id=39748603) #19 26 points 7 comments -> [Show HN: Next-Gen AI Training: LLM-RLHF-Tuning with PPO and DPO](https://github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO)<!-- HN:39748603:end -->
+#### **Tuesday, March 19, 2024**
+<!-- HN:39751636:start -->
+* [39751636](https://news.social-protocols.org/stats?id=39751636) #6 7 points 0 comments -> [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)<!-- HN:39751636:end -->
