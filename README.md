@@ -639,4 +639,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39748603](https://news.social-protocols.org/stats?id=39748603) #19 26 points 7 comments -> [Show HN: Next-Gen AI Training: LLM-RLHF-Tuning with PPO and DPO](https://github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO)<!-- HN:39748603:end -->
 #### **Tuesday, March 19, 2024**
 <!-- HN:39751637:start -->
-* [39751637](https://news.social-protocols.org/stats?id=39751637) #26 5 points 0 comments -> [EV Hacking: This Is How Easy It Is to Sabotage the Power Grid [video]](https://www.youtube.com/watch?v=J_6BZDnSpGE)<!-- HN:39751637:end -->
+* [39751637](https://news.social-protocols.org/stats?id=39751637) #26 5 points 0 comments -> [EV Hacking: This Is How Easy It Is to Sabotage the Power Grid [video]](https://www.youtube.com/watch?v=J_6BZDnSpGE)<!-- HN:39751637:end --><!-- HN:39752343:start -->
+* [39752343](https://news.social-protocols.org/stats?id=39752343) #4 13 points 12 comments -> [America's economy has escaped a hard landing](https://www.economist.com/briefing/2024/03/14/americas-economy-has-escaped-a-hard-landing)<!-- HN:39752343:end -->
