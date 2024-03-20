@@ -662,3 +662,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39760582](https://news.social-protocols.org/stats?id=39760582) #23 4 points 0 comments -> [They Praised AI at SXSW–and the Audience Started Booing](https://www.honest-broker.com/p/they-praised-ai-at-sxswand-the-audience)<!-- HN:39760582:end --><!-- HN:39760423:start -->
 * [39760423](https://news.social-protocols.org/stats?id=39760423) #26 9 points 1 comments -> [You gotta fight, for your right, to have websites](http://www.circuitbored.com/communicate/viewtopic.php?t=235)<!-- HN:39760423:end --><!-- HN:39760797:start -->
 * [39760797](https://news.social-protocols.org/stats?id=39760797) #22 43 points 6 comments -> [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)<!-- HN:39760797:end -->
+#### **Wednesday, March 20, 2024**
+<!-- HN:39761635:start -->
+* [39761635](https://news.social-protocols.org/stats?id=39761635) #24 14 points 4 comments -> [$300B Crypto Price Crash Accelerates as Traders Brace for a Fed Shock](https://www.forbes.com/sites/digital-assets/2024/03/19/300-billion-crypto-price-crash-suddenly-accelerates-as-bitcoin-ethereum-and-xrp-traders-brace-for-a-fed-shock/)<!-- HN:39761635:end -->
