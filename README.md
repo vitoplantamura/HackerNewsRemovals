@@ -664,4 +664,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39760797](https://news.social-protocols.org/stats?id=39760797) #22 43 points 6 comments -> [A new kind of MD5 collision](https://twitter.com/realhashbreaker/status/1770161965006008570)<!-- HN:39760797:end -->
 #### **Wednesday, March 20, 2024**
 <!-- HN:39761635:start -->
-* [39761635](https://news.social-protocols.org/stats?id=39761635) #24 14 points 4 comments -> [$300B Crypto Price Crash Accelerates as Traders Brace for a Fed Shock](https://www.forbes.com/sites/digital-assets/2024/03/19/300-billion-crypto-price-crash-suddenly-accelerates-as-bitcoin-ethereum-and-xrp-traders-brace-for-a-fed-shock/)<!-- HN:39761635:end -->
+* [39761635](https://news.social-protocols.org/stats?id=39761635) #24 14 points 4 comments -> [$300B Crypto Price Crash Accelerates as Traders Brace for a Fed Shock](https://www.forbes.com/sites/digital-assets/2024/03/19/300-billion-crypto-price-crash-suddenly-accelerates-as-bitcoin-ethereum-and-xrp-traders-brace-for-a-fed-shock/)<!-- HN:39761635:end --><!-- HN:39762022:start -->
+* [39762022](https://news.social-protocols.org/stats?id=39762022) #15 13 points 0 comments -> [Google's Woke AI Wasn't a Mistake. We Know. We Were There](https://www.thefp.com/p/ex-google-employees-woke-gemini-culture-broken)<!-- HN:39762022:end -->
