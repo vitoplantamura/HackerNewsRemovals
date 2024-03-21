@@ -695,4 +695,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39772573:start -->
 * [39772573](https://news.social-protocols.org/stats?id=39772573) #18 28 points 8 comments -> [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)<!-- HN:39772573:end --><!-- HN:39774200:start -->
 * [39774200](https://news.social-protocols.org/stats?id=39774200) #8 6 points 1 comments -> [Things you can learn from Microsoft](https://josvisser.substack.com/p/things-you-can-learn-from-microsoft)<!-- HN:39774200:end --><!-- HN:39773556:start -->
-* [39773556](https://news.social-protocols.org/stats?id=39773556) #27 42 points 12 comments -> [Kids are not okay. New data shows Canadians under-30 'unhappy'](https://globalnews.ca/news/10372813/canada-world-happiness-report-2024/)<!-- HN:39773556:end -->
+* [39773556](https://news.social-protocols.org/stats?id=39773556) #27 42 points 12 comments -> [Kids are not okay. New data shows Canadians under-30 'unhappy'](https://globalnews.ca/news/10372813/canada-world-happiness-report-2024/)<!-- HN:39773556:end --><!-- HN:39774599:start -->
+* [39774599](https://news.social-protocols.org/stats?id=39774599) #13 11 points 5 comments -> [Who will build new search engines for new personal AI agents?](https://interconnected.org/home/2024/03/20/agents)<!-- HN:39774599:end -->
