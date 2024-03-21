@@ -691,3 +691,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39772464](https://news.social-protocols.org/stats?id=39772464) #12 3 points 0 comments -> [You can now get birth control over the counter in NY pharmacies](https://secretnyc.co/over-the-counter-birth-control-ny-pharmacies/)<!-- HN:39772464:end --><!-- HN:39771742:start -->
 * [39771742](https://news.social-protocols.org/stats?id=39771742) #30 67 points 45 comments -> [Blocklist that contain AI generated content for uBlock Origin and uBlacklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)<!-- HN:39771742:end --><!-- HN:39770712:start -->
 * [39770712](https://news.social-protocols.org/stats?id=39770712) #21 180 points 151 comments -> [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)<!-- HN:39770712:end -->
+#### **Thursday, March 21, 2024**
+<!-- HN:39772573:start -->
+* [39772573](https://news.social-protocols.org/stats?id=39772573) #18 28 points 8 comments -> [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)<!-- HN:39772573:end -->
