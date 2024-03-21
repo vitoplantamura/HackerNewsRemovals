@@ -693,4 +693,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39770712](https://news.social-protocols.org/stats?id=39770712) #21 180 points 151 comments -> [Private GitHub repos may have been used for an AI dataset](https://post.lurk.org/@emenel/112111014479288871)<!-- HN:39770712:end -->
 #### **Thursday, March 21, 2024**
 <!-- HN:39772573:start -->
-* [39772573](https://news.social-protocols.org/stats?id=39772573) #18 28 points 8 comments -> [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)<!-- HN:39772573:end -->
+* [39772573](https://news.social-protocols.org/stats?id=39772573) #18 28 points 8 comments -> [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)<!-- HN:39772573:end --><!-- HN:39774200:start -->
+* [39774200](https://news.social-protocols.org/stats?id=39774200) #8 6 points 1 comments -> [Things you can learn from Microsoft](https://josvisser.substack.com/p/things-you-can-learn-from-microsoft)<!-- HN:39774200:end --><!-- HN:39773556:start -->
+* [39773556](https://news.social-protocols.org/stats?id=39773556) #27 42 points 12 comments -> [Kids are not okay. New data shows Canadians under-30 'unhappy'](https://globalnews.ca/news/10372813/canada-world-happiness-report-2024/)<!-- HN:39773556:end -->
