@@ -727,4 +727,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39783803](https://news.social-protocols.org/stats?id=39783803) #21 10 points 9 comments -> [Actual Uses for Near-Term Quantum Computers](https://spectrum.ieee.org/what-are-quantum-computers-used-for)<!-- HN:39783803:end -->
 #### **Friday, March 22, 2024**
 <!-- HN:39785487:start -->
-* [39785487](https://news.social-protocols.org/stats?id=39785487) #14 5 points 5 comments -> [Using Termux on Android for Self Hosting](https://thin.computer/index.php/2024/03/21/using-termux-on-android-for-self-hosting-yes-really/)<!-- HN:39785487:end -->
+* [39785487](https://news.social-protocols.org/stats?id=39785487) #14 5 points 5 comments -> [Using Termux on Android for Self Hosting](https://thin.computer/index.php/2024/03/21/using-termux-on-android-for-self-hosting-yes-really/)<!-- HN:39785487:end --><!-- HN:39785608:start -->
+* [39785608](https://news.social-protocols.org/stats?id=39785608) #14 6 points 0 comments -> [01 Light: a voice interface for your home computer](https://www.openinterpreter.com/01)<!-- HN:39785608:end -->
