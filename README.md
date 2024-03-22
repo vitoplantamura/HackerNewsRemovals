@@ -725,3 +725,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39751801](https://news.social-protocols.org/stats?id=39751801) #12 11 points 2 comments -> [Highrises](https://highrises.hythacg.com)<!-- HN:39751801:end --><!-- HN:39784756:start -->
 * [39784756](https://news.social-protocols.org/stats?id=39784756) #29 13 points 4 comments -> [How Taiwan Became Arrakis](https://deepintothemundane.substack.com/p/how-taiwan-became-arrakis)<!-- HN:39784756:end --><!-- HN:39783803:start -->
 * [39783803](https://news.social-protocols.org/stats?id=39783803) #21 10 points 9 comments -> [Actual Uses for Near-Term Quantum Computers](https://spectrum.ieee.org/what-are-quantum-computers-used-for)<!-- HN:39783803:end -->
+#### **Friday, March 22, 2024**
+<!-- HN:39785487:start -->
+* [39785487](https://news.social-protocols.org/stats?id=39785487) #14 5 points 5 comments -> [Using Termux on Android for Self Hosting](https://thin.computer/index.php/2024/03/21/using-termux-on-android-for-self-hosting-yes-really/)<!-- HN:39785487:end -->
