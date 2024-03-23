@@ -765,3 +765,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39795305](https://news.social-protocols.org/stats?id=39795305) #17 12 points 5 comments -> [Claude thinks it's a tumor, radiologists disagree](https://twitter.com/misha_saul/status/1771019329737462232)<!-- HN:39795305:end --><!-- HN:39795415:start -->
 * [39795415](https://news.social-protocols.org/stats?id=39795415) #26 9 points 3 comments -> [Someone made a device that's just a mechanical finger connected to Zigbee](https://mastodon.social/@whitequark/112128649344539396)<!-- HN:39795415:end --><!-- HN:39761951:start -->
 * [39761951](https://news.social-protocols.org/stats?id=39761951) #16 15 points 2 comments -> [This Was Village Life in Britain 3k Years Ago](https://www.nytimes.com/2024/03/19/science/archaeology-britain-must-farm.html)<!-- HN:39761951:end -->
+#### **Saturday, March 23, 2024**
+<!-- HN:39796058:start -->
+* [39796058](https://news.social-protocols.org/stats?id=39796058) #14 6 points 5 comments -> [Lunduke Banned from YouTube](https://lunduke.locals.com/post/5423131/the-lunduke-journal-has-been-banned-from-youtube)<!-- HN:39796058:end -->
