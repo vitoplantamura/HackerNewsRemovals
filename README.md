@@ -794,4 +794,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39802857](https://news.social-protocols.org/stats?id=39802857) #27 4 points 1 comments -> [Sam Altman may have Siri and Alexa in his sights after OpenAI filed a trademark…](https://www.businessinsider.nl/sam-altman-may-have-siri-and-alexa-in-his-sights-after-openai-filed-a-digital-voice-assistant-trademark-application/)<!-- HN:39802857:end --><!-- HN:39803177:start -->
 * [39803177](https://news.social-protocols.org/stats?id=39803177) #2 15 points 1 comments -> [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/)<!-- HN:39803177:end --><!-- HN:39803168:start -->
 * [39803168](https://news.social-protocols.org/stats?id=39803168) #12 5 points 4 comments -> [Linux VServer: A soft partitioning concept based on Security Contexts (2018)](http://linux-vserver.org/Welcome_to_Linux-VServer.org)<!-- HN:39803168:end -->
-#### **Sunday, March 24, 2024**
+#### **Sunday, March 24, 2024**<!-- HN:39803886:start -->
+* [39803886](https://news.social-protocols.org/stats?id=39803886) #11 18 points 9 comments -> ["Many in Silicon Valley feel the same about him (David Sacks) as you do."](https://twitter.com/paulg/status/1771640321446683060)<!-- HN:39803886:end -->
