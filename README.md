@@ -828,4 +828,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 25, 2024**
 <!-- HN:39810692:start -->
 * [39810692](https://news.social-protocols.org/stats?id=39810692) #24 27 points 40 comments -> [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)<!-- HN:39810692:end --><!-- HN:39811598:start -->
-* [39811598](https://news.social-protocols.org/stats?id=39811598) #3 12 points 8 comments -> [AI ADHD Coach designed to help you start your tasks](https://www.planroadmap.com/)<!-- HN:39811598:end -->
+* [39811598](https://news.social-protocols.org/stats?id=39811598) #3 12 points 8 comments -> [AI ADHD Coach designed to help you start your tasks](https://www.planroadmap.com/)<!-- HN:39811598:end --><!-- HN:39810979:start -->
+* [39810979](https://news.social-protocols.org/stats?id=39810979) #24 8 points 3 comments -> ['Quantum tornado' allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)<!-- HN:39810979:end -->
