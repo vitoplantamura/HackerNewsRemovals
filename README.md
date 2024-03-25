@@ -825,3 +825,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39754943](https://news.social-protocols.org/stats?id=39754943) #30 245 points 121 comments -> [The Super Mario Maker community faces its final boss](https://arstechnica.com/gaming/2024/03/the-super-mario-maker-community-faces-its-final-boss/)<!-- HN:39754943:end --><!-- HN:39809294:start -->
 * [39809294](https://news.social-protocols.org/stats?id=39809294) #16 3 points 0 comments -> [Show HN: Math I'm creating, Space Numbers](https://github.com/abidsikder/space-numbers)<!-- HN:39809294:end --><!-- HN:39811043:start -->
 * [39811043](https://news.social-protocols.org/stats?id=39811043) #14 13 points 1 comments -> [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)<!-- HN:39811043:end -->
+#### **Monday, March 25, 2024**
+<!-- HN:39810692:start -->
+* [39810692](https://news.social-protocols.org/stats?id=39810692) #24 27 points 40 comments -> [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)<!-- HN:39810692:end -->
