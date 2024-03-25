@@ -827,4 +827,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39811043](https://news.social-protocols.org/stats?id=39811043) #14 13 points 1 comments -> [China Has Taken over Gold Price Control from the West](https://www.gainesvillecoins.com/blog/pboc-secretly-bought-record-735-tons-of-gold-2023)<!-- HN:39811043:end -->
 #### **Monday, March 25, 2024**
 <!-- HN:39810692:start -->
-* [39810692](https://news.social-protocols.org/stats?id=39810692) #24 27 points 40 comments -> [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)<!-- HN:39810692:end -->
+* [39810692](https://news.social-protocols.org/stats?id=39810692) #24 27 points 40 comments -> [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)<!-- HN:39810692:end --><!-- HN:39811598:start -->
+* [39811598](https://news.social-protocols.org/stats?id=39811598) #3 12 points 8 comments -> [AI ADHD Coach designed to help you start your tasks](https://www.planroadmap.com/)<!-- HN:39811598:end -->
