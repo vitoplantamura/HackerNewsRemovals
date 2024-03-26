@@ -854,4 +854,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39821606](https://news.social-protocols.org/stats?id=39821606) #17 32 points 3 comments -> [United States Cyber Force: A Defense Imperative](https://www.fdd.org/analysis/2024/03/25/united-states-cyber-force/)<!-- HN:39821606:end -->
 #### **Tuesday, March 26, 2024**
 <!-- HN:39823512:start -->
-* [39823512](https://news.social-protocols.org/stats?id=39823512) #17 10 points 0 comments -> [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)<!-- HN:39823512:end -->
+* [39823512](https://news.social-protocols.org/stats?id=39823512) #17 10 points 0 comments -> [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)<!-- HN:39823512:end --><!-- HN:39824435:start -->
+* [39824435](https://news.social-protocols.org/stats?id=39824435) #3 19 points 6 comments -> [Debian's ROCm Continuous Integration](https://ci.rocm.debian.net/)<!-- HN:39824435:end -->
