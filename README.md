@@ -852,3 +852,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39818136](https://news.social-protocols.org/stats?id=39818136) #18 17 points 20 comments -> ['Is monetary policy even working?'](https://www.ft.com/content/78aecb9f-a2bb-48bb-b868-0e11ef68eddf)<!-- HN:39818136:end --><!-- HN:39819212:start -->
 * [39819212](https://news.social-protocols.org/stats?id=39819212) #21 27 points 4 comments -> [X Corp vs. Center for Countering Digital Hate, Order Granting Motion to Dismiss [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.416212/gov.uscourts.cand.416212.75.0.pdf)<!-- HN:39819212:end --><!-- HN:39821606:start -->
 * [39821606](https://news.social-protocols.org/stats?id=39821606) #17 32 points 3 comments -> [United States Cyber Force: A Defense Imperative](https://www.fdd.org/analysis/2024/03/25/united-states-cyber-force/)<!-- HN:39821606:end -->
+#### **Tuesday, March 26, 2024**
+<!-- HN:39823512:start -->
+* [39823512](https://news.social-protocols.org/stats?id=39823512) #17 10 points 0 comments -> [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)<!-- HN:39823512:end -->
