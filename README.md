@@ -856,4 +856,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39823512:start -->
 * [39823512](https://news.social-protocols.org/stats?id=39823512) #17 10 points 0 comments -> [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)<!-- HN:39823512:end --><!-- HN:39824435:start -->
 * [39824435](https://news.social-protocols.org/stats?id=39824435) #3 19 points 6 comments -> [Debian's ROCm Continuous Integration](https://ci.rocm.debian.net/)<!-- HN:39824435:end --><!-- HN:39824862:start -->
-* [39824862](https://news.social-protocols.org/stats?id=39824862) #29 21 points 29 comments -> [Crypto Had Its Chance](https://joanwestenberg.com/blog/crypto-had-its-chance)<!-- HN:39824862:end -->
+* [39824862](https://news.social-protocols.org/stats?id=39824862) #29 21 points 29 comments -> [Crypto Had Its Chance](https://joanwestenberg.com/blog/crypto-had-its-chance)<!-- HN:39824862:end --><!-- HN:39824812:start -->
+* [39824812](https://news.social-protocols.org/stats?id=39824812) #17 15 points 0 comments -> [Boeing Demands Virgin Galactic Destroy All Data from Failed Partnership](https://gizmodo.com/boeing-virgin-galactic-lawsuit-destroy-data-venture-1851363137)<!-- HN:39824812:end -->
