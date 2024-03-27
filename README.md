@@ -875,3 +875,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39830774](https://news.social-protocols.org/stats?id=39830774) #27 33 points 27 comments -> [Engineering Managers Should Not Exist](https://vrosasv.substack.com/p/engineering-managers-should-not-exist)<!-- HN:39830774:end --><!-- HN:39833424:start -->
 * [39833424](https://news.social-protocols.org/stats?id=39833424) #28 4 points 0 comments -> [A 4-Dimensional Game to Expand Your Brain – 4D Golf [video]](https://www.youtube.com/watch?v=R37cxscXsvw)<!-- HN:39833424:end --><!-- HN:39833832:start -->
 * [39833832](https://news.social-protocols.org/stats?id=39833832) #7 6 points 0 comments -> [Study reports enormous ice loss from Greenland glacier](https://phys.org/news/2024-03-enormous-ice-loss-greenland-glacier.html)<!-- HN:39833832:end -->
+#### **Wednesday, March 27, 2024**
+<!-- HN:39834285:start -->
+* [39834285](https://news.social-protocols.org/stats?id=39834285) #28 3 points 0 comments -> [Swedish landowner can keep 14kg meteorite after court battle with geologists](https://www.theguardian.com/world/2024/mar/21/swedish-landowner-can-keep-14kg-meteorite-after-court-battle-with-geologists)<!-- HN:39834285:end -->
