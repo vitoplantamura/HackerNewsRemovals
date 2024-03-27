@@ -878,4 +878,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, March 27, 2024**
 <!-- HN:39834285:start -->
 * [39834285](https://news.social-protocols.org/stats?id=39834285) #28 3 points 0 comments -> [Swedish landowner can keep 14kg meteorite after court battle with geologists](https://www.theguardian.com/world/2024/mar/21/swedish-landowner-can-keep-14kg-meteorite-after-court-battle-with-geologists)<!-- HN:39834285:end --><!-- HN:39834287:start -->
-* [39834287](https://news.social-protocols.org/stats?id=39834287) #27 7 points 2 comments -> [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)<!-- HN:39834287:end -->
+* [39834287](https://news.social-protocols.org/stats?id=39834287) #27 7 points 2 comments -> [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)<!-- HN:39834287:end --><!-- HN:39834876:start -->
+* [39834876](https://news.social-protocols.org/stats?id=39834876) #25 3 points 1 comments -> [Visa, Mastercard Reach $30B Deal with US Retailers](https://www.bloomberg.com/news/articles/2024-03-26/visa-mastercard-reach-30-billion-swipe-fee-deal-with-merchants)<!-- HN:39834876:end -->
