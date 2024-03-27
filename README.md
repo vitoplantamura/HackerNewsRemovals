@@ -877,4 +877,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39833832](https://news.social-protocols.org/stats?id=39833832) #7 6 points 0 comments -> [Study reports enormous ice loss from Greenland glacier](https://phys.org/news/2024-03-enormous-ice-loss-greenland-glacier.html)<!-- HN:39833832:end -->
 #### **Wednesday, March 27, 2024**
 <!-- HN:39834285:start -->
-* [39834285](https://news.social-protocols.org/stats?id=39834285) #28 3 points 0 comments -> [Swedish landowner can keep 14kg meteorite after court battle with geologists](https://www.theguardian.com/world/2024/mar/21/swedish-landowner-can-keep-14kg-meteorite-after-court-battle-with-geologists)<!-- HN:39834285:end -->
+* [39834285](https://news.social-protocols.org/stats?id=39834285) #28 3 points 0 comments -> [Swedish landowner can keep 14kg meteorite after court battle with geologists](https://www.theguardian.com/world/2024/mar/21/swedish-landowner-can-keep-14kg-meteorite-after-court-battle-with-geologists)<!-- HN:39834285:end --><!-- HN:39834287:start -->
+* [39834287](https://news.social-protocols.org/stats?id=39834287) #27 7 points 2 comments -> [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)<!-- HN:39834287:end -->
