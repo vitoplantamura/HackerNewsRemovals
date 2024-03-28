@@ -913,3 +913,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39843137](https://news.social-protocols.org/stats?id=39843137) #24 10 points 5 comments -> [Show HN: Upload a CSV file, get a Machine Learning model in 1 minute](https://lukasiewicz.tmlc.pl)<!-- HN:39843137:end --><!-- HN:39845756:start -->
 * [39845756](https://news.social-protocols.org/stats?id=39845756) #7 5 points 1 comments -> [Apples4Ceasefire](https://www.apples4ceasefire.com)<!-- HN:39845756:end --><!-- HN:39844219:start -->
 * [39844219](https://news.social-protocols.org/stats?id=39844219) #17 19 points 3 comments -> [Show HN: The 2FA app that notifies you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)<!-- HN:39844219:end -->
+#### **Thursday, March 28, 2024**
+<!-- HN:39846010:start -->
+* [39846010](https://news.social-protocols.org/stats?id=39846010) #25 4 points 0 comments -> [Majority of Americans now use ad blockers](https://www.theregister.com/2024/03/27/america_ad_blocker/)<!-- HN:39846010:end -->
