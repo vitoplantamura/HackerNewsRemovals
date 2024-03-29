@@ -943,4 +943,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39856276](https://news.social-protocols.org/stats?id=39856276) #25 10 points 15 comments -> [One Satellite Signal Rules Modern Life. What If Someone Knocks It Out?](https://www.nytimes.com/2024/03/28/world/asia/as-threats-in-space-mount-us-lags-in-protecting-key-services.html)<!-- HN:39856276:end --><!-- HN:39855761:start -->
 * [39855761](https://news.social-protocols.org/stats?id=39855761) #28 29 points 40 comments -> [How A.I. chatbots become political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx)<!-- HN:39855761:end --><!-- HN:39858030:start -->
 * [39858030](https://news.social-protocols.org/stats?id=39858030) #29 5 points 2 comments -> [Keynes was wrong because he failed to consider class conflict](https://billmitchell.org/blog/?p=61635)<!-- HN:39858030:end -->
-#### **Friday, March 29, 2024**
+#### **Friday, March 29, 2024**<!-- HN:39859047:start -->
+* [39859047](https://news.social-protocols.org/stats?id=39859047) #24 6 points 1 comments -> [Remote Work Isn't the Issue–Lazy Managers Are](https://adage.com/article/opinion/remote-work-isnt-issue-lazy-managers-are/2548771)<!-- HN:39859047:end -->
