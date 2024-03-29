@@ -944,5 +944,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39855761](https://news.social-protocols.org/stats?id=39855761) #28 29 points 40 comments -> [How A.I. chatbots become political](https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx)<!-- HN:39855761:end --><!-- HN:39858030:start -->
 * [39858030](https://news.social-protocols.org/stats?id=39858030) #29 5 points 2 comments -> [Keynes was wrong because he failed to consider class conflict](https://billmitchell.org/blog/?p=61635)<!-- HN:39858030:end -->
 #### **Friday, March 29, 2024**
-<!-- HN:39858144:start -->
-* [39858144](https://news.social-protocols.org/stats?id=39858144) #18 28 points 6 comments -> [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)<!-- HN:39858144:end -->
