@@ -965,3 +965,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39869158](https://news.social-protocols.org/stats?id=39869158) #21 8 points 1 comments -> [Microsoft Building $100B 'Stargate' to Transport OpenAI into the Future](https://gizmodo.com/microsoft-building-stargate-transport-openai-future-1851375210)<!-- HN:39869158:end --><!-- HN:39869321:start -->
 * [39869321](https://news.social-protocols.org/stats?id=39869321) #8 5 points 0 comments -> [OSS-security – backdoor in upstream xz/liblzma leading to SSH server compromise](https://openwall.com/lists/oss-security/2024/03/29/4)<!-- HN:39869321:end --><!-- HN:39868810:start -->
 * [39868810](https://news.social-protocols.org/stats?id=39868810) #21 9 points 1 comments -> [Xz format inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)<!-- HN:39868810:end -->
+#### **Saturday, March 30, 2024**
+<!-- HN:39867650:start -->
+* [39867650](https://news.social-protocols.org/stats?id=39867650) #24 6 points 0 comments -> [How computers work, from the atom up (2011)](https://softwareengineering.stackexchange.com/questions/81624/how-do-computers-work)<!-- HN:39867650:end -->
