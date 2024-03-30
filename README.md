@@ -967,4 +967,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39868810](https://news.social-protocols.org/stats?id=39868810) #21 9 points 1 comments -> [Xz format inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)<!-- HN:39868810:end -->
 #### **Saturday, March 30, 2024**
 <!-- HN:39867650:start -->
-* [39867650](https://news.social-protocols.org/stats?id=39867650) #24 6 points 0 comments -> [How computers work, from the atom up (2011)](https://softwareengineering.stackexchange.com/questions/81624/how-do-computers-work)<!-- HN:39867650:end -->
+* [39867650](https://news.social-protocols.org/stats?id=39867650) #24 6 points 0 comments -> [How computers work, from the atom up (2011)](https://softwareengineering.stackexchange.com/questions/81624/how-do-computers-work)<!-- HN:39867650:end --><!-- HN:39870867:start -->
+* [39870867](https://news.social-protocols.org/stats?id=39870867) #20 6 points 1 comments -> [State of emergency declared in Niagara Region for Solar eclipse](https://globalnews.ca/news/10392024/solar-eclipse-state-of-emergency-niagara-region/)<!-- HN:39870867:end -->
