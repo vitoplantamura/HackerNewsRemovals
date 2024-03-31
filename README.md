@@ -1004,4 +1004,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39878858](https://news.social-protocols.org/stats?id=39878858) #20 14 points 2 comments -> [My Ideal Libre Computer+Phone](https://mpeyton.com/posts/my_ideal_libre_computer_phone/)<!-- HN:39878858:end -->
 #### **Sunday, March 31, 2024**
 <!-- HN:39879426:start -->
-* [39879426](https://news.social-protocols.org/stats?id=39879426) #6 16 points 7 comments -> [Delirium Tremens](https://en.wikipedia.org/wiki/Delirium_tremens)<!-- HN:39879426:end -->
+* [39879426](https://news.social-protocols.org/stats?id=39879426) #6 16 points 7 comments -> [Delirium Tremens](https://en.wikipedia.org/wiki/Delirium_tremens)<!-- HN:39879426:end --><!-- HN:39878761:start -->
+* [39878761](https://news.social-protocols.org/stats?id=39878761) #12 5 points 0 comments -> [Association of Sexual Intercourse with Sudden Cardiac Death in UK Young](https://pubmed.ncbi.nlm.nih.gov/35019956/)<!-- HN:39878761:end -->
