@@ -1002,3 +1002,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39878841](https://news.social-protocols.org/stats?id=39878841) #26 4 points 1 comments -> [See, this is why I retired early from software engineering](https://twitter.com/Devon_Eriksen_/status/1774094415235092494)<!-- HN:39878841:end --><!-- HN:39876555:start -->
 * [39876555](https://news.social-protocols.org/stats?id=39876555) #26 39 points 2 comments -> [AT&T confirms data for 73M customers leaked on hacker forum](https://www.bleepingcomputer.com/news/security/atandt-confirms-data-for-73-million-customers-leaked-on-hacker-forum/)<!-- HN:39876555:end --><!-- HN:39878858:start -->
 * [39878858](https://news.social-protocols.org/stats?id=39878858) #20 14 points 2 comments -> [My Ideal Libre Computer+Phone](https://mpeyton.com/posts/my_ideal_libre_computer_phone/)<!-- HN:39878858:end -->
+#### **Sunday, March 31, 2024**
+<!-- HN:39879426:start -->
+* [39879426](https://news.social-protocols.org/stats?id=39879426) #6 16 points 7 comments -> [Delirium Tremens](https://en.wikipedia.org/wiki/Delirium_tremens)<!-- HN:39879426:end -->
