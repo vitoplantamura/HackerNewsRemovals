@@ -1005,4 +1005,8 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 31, 2024**
 <!-- HN:39879426:start -->
 * [39879426](https://news.social-protocols.org/stats?id=39879426) #6 16 points 7 comments -> [Delirium Tremens](https://en.wikipedia.org/wiki/Delirium_tremens)<!-- HN:39879426:end --><!-- HN:39878761:start -->
-* [39878761](https://news.social-protocols.org/stats?id=39878761) #12 5 points 0 comments -> [Association of Sexual Intercourse with Sudden Cardiac Death in UK Young](https://pubmed.ncbi.nlm.nih.gov/35019956/)<!-- HN:39878761:end -->
+* [39878761](https://news.social-protocols.org/stats?id=39878761) #12 5 points 0 comments -> [Association of Sexual Intercourse with Sudden Cardiac Death in UK Young](https://pubmed.ncbi.nlm.nih.gov/35019956/)<!-- HN:39878761:end --><!-- HN:39827165:start -->
+* [39827165](https://news.social-protocols.org/stats?id=39827165) #13 23 points 1 comments -> [Letters from 1719 reveal familiar worries of London life](https://www.theguardian.com/culture/2024/mar/26/letters-from-1719-reveal-familiar-worries-london-life)<!-- HN:39827165:end --><!-- HN:39827336:start -->
+* [39827336](https://news.social-protocols.org/stats?id=39827336) #14 8 points 4 comments -> [Effects of Sunlight on a Camera PCB](https://toaster.llc/blog/sunshine/index.html)<!-- HN:39827336:end --><!-- HN:39826967:start -->
+* [39826967](https://news.social-protocols.org/stats?id=39826967) #16 27 points 4 comments -> [Silicon Photonics Manufacturing Ramps Up](https://semiengineering.com/silicon-photonics-manufacturing-ramps-up/)<!-- HN:39826967:end --><!-- HN:39828064:start -->
+* [39828064](https://news.social-protocols.org/stats?id=39828064) #30 39 points 7 comments -> [Tunnel Vision: When you dig beyond all purpose, digging becomes the purpose](https://historynewsnetwork.org/article/tunnel-vision)<!-- HN:39828064:end -->
