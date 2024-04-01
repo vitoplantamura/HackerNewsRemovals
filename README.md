@@ -1035,4 +1035,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39889030](https://news.social-protocols.org/stats?id=39889030) #28 14 points 4 comments -> [Undocumented migrants in Texas 26% less likely of homicide than native-born US](https://www.latintimes.com/how-us-media-coverage-contributes-polarization-immigration-debate-across-country-552552)<!-- HN:39889030:end -->
 #### **Monday, April 1, 2024**
 <!-- HN:39889601:start -->
-* [39889601](https://news.social-protocols.org/stats?id=39889601) #2 8 points 1 comments -> [Libera Cat: IRC network rebranding](https://libera.cat/)<!-- HN:39889601:end -->
+* [39889601](https://news.social-protocols.org/stats?id=39889601) #2 8 points 1 comments -> [Libera Cat: IRC network rebranding](https://libera.cat/)<!-- HN:39889601:end --><!-- HN:39888894:start -->
+* [39888894](https://news.social-protocols.org/stats?id=39888894) #29 7 points 0 comments -> [First 9.1 GHz CPU](https://www.youtube.com/watch?v=qr26jxPIDm0)<!-- HN:39888894:end -->
