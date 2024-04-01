@@ -1036,4 +1036,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 1, 2024**
 <!-- HN:39888894:start -->
 * [39888894](https://news.social-protocols.org/stats?id=39888894) #29 7 points 0 comments -> [First 9.1 GHz CPU](https://www.youtube.com/watch?v=qr26jxPIDm0)<!-- HN:39888894:end --><!-- HN:39889668:start -->
-* [39889668](https://news.social-protocols.org/stats?id=39889668) #20 21 points 40 comments -> [Self-driving semi-trucks are coming to America's highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)<!-- HN:39889668:end -->
+* [39889668](https://news.social-protocols.org/stats?id=39889668) #20 21 points 40 comments -> [Self-driving semi-trucks are coming to America's highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)<!-- HN:39889668:end --><!-- HN:39891119:start -->
+* [39891119](https://news.social-protocols.org/stats?id=39891119) #25 5 points 0 comments -> [From Pizzagate to the 2020 Election: Forcing Liars to Pay or Apologize](https://www.nytimes.com/2024/03/31/us/politics/defamation-lawsuits-michael-gottlieb.html)<!-- HN:39891119:end -->
