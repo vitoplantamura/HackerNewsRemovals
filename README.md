@@ -1037,5 +1037,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39889601:start -->
 * [39889601](https://news.social-protocols.org/stats?id=39889601) #2 8 points 1 comments -> [Libera Cat: IRC network rebranding](https://libera.cat/)<!-- HN:39889601:end --><!-- HN:39888894:start -->
 * [39888894](https://news.social-protocols.org/stats?id=39888894) #29 7 points 0 comments -> [First 9.1 GHz CPU](https://www.youtube.com/watch?v=qr26jxPIDm0)<!-- HN:39888894:end --><!-- HN:39889668:start -->
-* [39889668](https://news.social-protocols.org/stats?id=39889668) #20 21 points 40 comments -> [Self-driving semi-trucks are coming to America's highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)<!-- HN:39889668:end --><!-- HN:39890069:start -->
-* [39890069](https://news.social-protocols.org/stats?id=39890069) #13 19 points 6 comments -> [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)<!-- HN:39890069:end -->
+* [39889668](https://news.social-protocols.org/stats?id=39889668) #20 21 points 40 comments -> [Self-driving semi-trucks are coming to America's highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)<!-- HN:39889668:end -->
