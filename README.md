@@ -1036,5 +1036,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 1, 2024**
 <!-- HN:39889601:start -->
 * [39889601](https://news.social-protocols.org/stats?id=39889601) #2 8 points 1 comments -> [Libera Cat: IRC network rebranding](https://libera.cat/)<!-- HN:39889601:end --><!-- HN:39888894:start -->
-* [39888894](https://news.social-protocols.org/stats?id=39888894) #29 7 points 0 comments -> [First 9.1 GHz CPU](https://www.youtube.com/watch?v=qr26jxPIDm0)<!-- HN:39888894:end --><!-- HN:39890242:start -->
-* [39890242](https://news.social-protocols.org/stats?id=39890242) #27 3 points 0 comments -> [Secret backdoor found in xz-utils, a library used in major Linux distros](https://cert.europa.eu/publications/security-advisories/2024-032/)<!-- HN:39890242:end -->
+* [39888894](https://news.social-protocols.org/stats?id=39888894) #29 7 points 0 comments -> [First 9.1 GHz CPU](https://www.youtube.com/watch?v=qr26jxPIDm0)<!-- HN:39888894:end -->
