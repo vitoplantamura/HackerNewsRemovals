@@ -1060,3 +1060,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39897233](https://news.social-protocols.org/stats?id=39897233) #28 6 points 1 comments -> [Good information still pollutes the epistemic ecosystem](https://ronghosh.substack.com/p/good-information-still-pollutes-the)<!-- HN:39897233:end --><!-- HN:39897667:start -->
 * [39897667](https://news.social-protocols.org/stats?id=39897667) #30 13 points 7 comments -> [People liked AI art – when they thought it was made by humans](https://www.sciencenorway.no/art-artificial-intelligence/people-liked-ai-art-when-they-thought-it-was-made-by-humans/2337417)<!-- HN:39897667:end --><!-- HN:39899685:start -->
 * [39899685](https://news.social-protocols.org/stats?id=39899685) #9 13 points 41 comments -> [California is gripped by economic problems, with no easy fix](https://www.economist.com/united-states/2024/03/31/california-is-gripped-by-interlocking-economic-problems-with-no-easy-solution)<!-- HN:39899685:end -->
+#### **Tuesday, April 2, 2024**
+<!-- HN:39899713:start -->
+* [39899713](https://news.social-protocols.org/stats?id=39899713) #30 5 points 1 comments -> [Bad Government Repeal the Patriot Act](https://curiousweekly.com/posts/straightening-out-civil-liberties-missteps/)<!-- HN:39899713:end -->
