@@ -1075,4 +1075,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39906703](https://news.social-protocols.org/stats?id=39906703) #1 -> [The Crimes of SEAL Team 6 (2017)](https://theintercept.com/2017/01/10/the-crimes-of-seal-team-6/)<!-- HN:39906703:end --><!-- HN:39905803:start -->
 * [39905803](https://news.social-protocols.org/stats?id=39905803) #23 22 points 1 comments -> [Python Workers](https://developers.cloudflare.com/workers/languages/python/)<!-- HN:39905803:end --><!-- HN:39908436:start -->
 * [39908436](https://news.social-protocols.org/stats?id=39908436) #25 8 points 1 comments -> [Google to delete search data of millions who used incognito mode](https://text.npr.org/1242019127)<!-- HN:39908436:end --><!-- HN:39903742:start -->
-* [39903742](https://news.social-protocols.org/stats?id=39903742) #28 209 points 136 comments -> [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)<!-- HN:39903742:end -->
+* [39903742](https://news.social-protocols.org/stats?id=39903742) #28 209 points 136 comments -> [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)<!-- HN:39903742:end --><!-- HN:39909070:start -->
+* [39909070](https://news.social-protocols.org/stats?id=39909070) #6 46 points 31 comments -> [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)<!-- HN:39909070:end -->
