@@ -1064,4 +1064,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39899713:start -->
 * [39899713](https://news.social-protocols.org/stats?id=39899713) #30 5 points 1 comments -> [Bad Government Repeal the Patriot Act](https://curiousweekly.com/posts/straightening-out-civil-liberties-missteps/)<!-- HN:39899713:end --><!-- HN:39901745:start -->
 * [39901745](https://news.social-protocols.org/stats?id=39901745) #28 5 points 0 comments -> [Key Safari designer departs Apple to join 'The Browser Company'](https://9to5mac.com/2024/04/01/safari-designer-apple-arc-browser/)<!-- HN:39901745:end --><!-- HN:39901101:start -->
-* [39901101](https://news.social-protocols.org/stats?id=39901101) #14 62 points 16 comments -> [Vision Transformers Are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)<!-- HN:39901101:end -->
+* [39901101](https://news.social-protocols.org/stats?id=39901101) #14 62 points 16 comments -> [Vision Transformers Are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)<!-- HN:39901101:end --><!-- HN:39848508:start -->
+* [39848508](https://news.social-protocols.org/stats?id=39848508) #16 12 points 0 comments -> [Interop 2023: MDN Updates](https://developer.mozilla.org/en-US/blog/interop2023-mdn-doc-updates/)<!-- HN:39848508:end -->
