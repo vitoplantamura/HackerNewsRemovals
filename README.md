@@ -1062,4 +1062,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39899685](https://news.social-protocols.org/stats?id=39899685) #9 13 points 41 comments -> [California is gripped by economic problems, with no easy fix](https://www.economist.com/united-states/2024/03/31/california-is-gripped-by-interlocking-economic-problems-with-no-easy-solution)<!-- HN:39899685:end -->
 #### **Tuesday, April 2, 2024**
 <!-- HN:39899713:start -->
-* [39899713](https://news.social-protocols.org/stats?id=39899713) #30 5 points 1 comments -> [Bad Government Repeal the Patriot Act](https://curiousweekly.com/posts/straightening-out-civil-liberties-missteps/)<!-- HN:39899713:end -->
+* [39899713](https://news.social-protocols.org/stats?id=39899713) #30 5 points 1 comments -> [Bad Government Repeal the Patriot Act](https://curiousweekly.com/posts/straightening-out-civil-liberties-missteps/)<!-- HN:39899713:end --><!-- HN:39901745:start -->
+* [39901745](https://news.social-protocols.org/stats?id=39901745) #28 5 points 0 comments -> [Key Safari designer departs Apple to join 'The Browser Company'](https://9to5mac.com/2024/04/01/safari-designer-apple-arc-browser/)<!-- HN:39901745:end -->
