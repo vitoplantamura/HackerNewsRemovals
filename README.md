@@ -1063,4 +1063,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 2, 2024**
 <!-- HN:39899713:start -->
 * [39899713](https://news.social-protocols.org/stats?id=39899713) #30 5 points 1 comments -> [Bad Government Repeal the Patriot Act](https://curiousweekly.com/posts/straightening-out-civil-liberties-missteps/)<!-- HN:39899713:end --><!-- HN:39901745:start -->
-* [39901745](https://news.social-protocols.org/stats?id=39901745) #28 5 points 0 comments -> [Key Safari designer departs Apple to join 'The Browser Company'](https://9to5mac.com/2024/04/01/safari-designer-apple-arc-browser/)<!-- HN:39901745:end -->
+* [39901745](https://news.social-protocols.org/stats?id=39901745) #28 5 points 0 comments -> [Key Safari designer departs Apple to join 'The Browser Company'](https://9to5mac.com/2024/04/01/safari-designer-apple-arc-browser/)<!-- HN:39901745:end --><!-- HN:39898003:start -->
+* [39898003](https://news.social-protocols.org/stats?id=39898003) #25 30 points 11 comments -> ['If it's Boeing, I'm not going': travelers nervous to fly after plane issues](https://www.wfla.com/news/national/if-its-boeing-im-not-going-some-travelers-nervous-to-fly-after-recent-plane-issues/)<!-- HN:39898003:end -->
