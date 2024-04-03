@@ -1081,4 +1081,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39908676](https://news.social-protocols.org/stats?id=39908676) #29 56 points 8 comments -> [Stop using the Internet Archive as the sole host for preservation projects](https://old.reddit.com/r/DataHoarder/comments/1bswhdj/if_there_is_a_book_on_internet_archive_your/)<!-- HN:39908676:end -->
 #### **Wednesday, April 3, 2024**
 <!-- HN:39911219:start -->
-* [39911219](https://news.social-protocols.org/stats?id=39911219) #14 15 points 3 comments -> [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)<!-- HN:39911219:end -->
+* [39911219](https://news.social-protocols.org/stats?id=39911219) #14 15 points 3 comments -> [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)<!-- HN:39911219:end --><!-- HN:39908487:start -->
+* [39908487](https://news.social-protocols.org/stats?id=39908487) #21 39 points 9 comments -> [The customer has nuclear weapons](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)<!-- HN:39908487:end -->
