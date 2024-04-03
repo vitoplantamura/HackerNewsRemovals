@@ -1079,3 +1079,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39909070](https://news.social-protocols.org/stats?id=39909070) #6 46 points 31 comments -> [GPT Chats with T-Mobile Support to get discounts](https://home.chat4u.io/)<!-- HN:39909070:end --><!-- HN:39909949:start -->
 * [39909949](https://news.social-protocols.org/stats?id=39909949) #17 12 points 6 comments -> [Microsoft posted on the FFMPEG tracker that their issue is 'high priority'](https://trac.ffmpeg.org/ticket/10341#comment:4)<!-- HN:39909949:end --><!-- HN:39908676:start -->
 * [39908676](https://news.social-protocols.org/stats?id=39908676) #29 56 points 8 comments -> [Stop using the Internet Archive as the sole host for preservation projects](https://old.reddit.com/r/DataHoarder/comments/1bswhdj/if_there_is_a_book_on_internet_archive_your/)<!-- HN:39908676:end -->
+#### **Wednesday, April 3, 2024**
+<!-- HN:39911219:start -->
+* [39911219](https://news.social-protocols.org/stats?id=39911219) #14 15 points 3 comments -> [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)<!-- HN:39911219:end -->
