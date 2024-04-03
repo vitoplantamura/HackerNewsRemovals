@@ -1082,4 +1082,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 3, 2024**
 <!-- HN:39911219:start -->
 * [39911219](https://news.social-protocols.org/stats?id=39911219) #14 15 points 3 comments -> [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)<!-- HN:39911219:end --><!-- HN:39908487:start -->
-* [39908487](https://news.social-protocols.org/stats?id=39908487) #21 39 points 9 comments -> [The customer has nuclear weapons](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)<!-- HN:39908487:end -->
+* [39908487](https://news.social-protocols.org/stats?id=39908487) #21 39 points 9 comments -> [The customer has nuclear weapons](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)<!-- HN:39908487:end --><!-- HN:39911742:start -->
+* [39911742](https://news.social-protocols.org/stats?id=39911742) #22 21 points 22 comments -> [Raising the minimum wage? Study using US tax data finds more gain than pain](https://phys.org/news/2024-04-minimum-wage-tax-gain-pain.html)<!-- HN:39911742:end -->
