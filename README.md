@@ -1142,4 +1142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39925088:start -->
 * [39925088](https://news.social-protocols.org/stats?id=39925088) #29 8 points 1 comments -> [California Revealed as Worst US Emitter of Sulfuryl Fluoride](https://www.msn.com/en-us/health/wellness/california-revealed-as-worst-us-emitter-of-under-the-radar-greenhouse-gas/ar-BB1kZVbz)<!-- HN:39925088:end --><!-- HN:39925315:start -->
 * [39925315](https://news.social-protocols.org/stats?id=39925315) #15 22 points 13 comments -> [Andres Freund and the xz backdoor](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)<!-- HN:39925315:end --><!-- HN:39924362:start -->
-* [39924362](https://news.social-protocols.org/stats?id=39924362) #23 20 points 3 comments -> [PHP: The Right Way](https://phptherightway.com/)<!-- HN:39924362:end -->
+* [39924362](https://news.social-protocols.org/stats?id=39924362) #23 20 points 3 comments -> [PHP: The Right Way](https://phptherightway.com/)<!-- HN:39924362:end --><!-- HN:39926172:start -->
+* [39926172](https://news.social-protocols.org/stats?id=39926172) #6 5 points 1 comments -> [Microsoft opens a "high priority" bug ticket in FFmpeg, to leech free labour](https://trac.ffmpeg.org/ticket/10341)<!-- HN:39926172:end -->
