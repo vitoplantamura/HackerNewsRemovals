@@ -1140,4 +1140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39924737](https://news.social-protocols.org/stats?id=39924737) #8 -> [A man says he was denied housing by a Toronto landlord just for being Black](https://nowtoronto.com/news/this-man-says-he-was-denied-housing-by-a-toronto-landlord-just-for-being-black/)<!-- HN:39924737:end -->
 #### **Thursday, April 4, 2024**
 <!-- HN:39925088:start -->
-* [39925088](https://news.social-protocols.org/stats?id=39925088) #29 8 points 1 comments -> [California Revealed as Worst US Emitter of Sulfuryl Fluoride](https://www.msn.com/en-us/health/wellness/california-revealed-as-worst-us-emitter-of-under-the-radar-greenhouse-gas/ar-BB1kZVbz)<!-- HN:39925088:end -->
+* [39925088](https://news.social-protocols.org/stats?id=39925088) #29 8 points 1 comments -> [California Revealed as Worst US Emitter of Sulfuryl Fluoride](https://www.msn.com/en-us/health/wellness/california-revealed-as-worst-us-emitter-of-under-the-radar-greenhouse-gas/ar-BB1kZVbz)<!-- HN:39925088:end --><!-- HN:39925315:start -->
+* [39925315](https://news.social-protocols.org/stats?id=39925315) #15 22 points 13 comments -> [Andres Freund and the xz backdoor](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)<!-- HN:39925315:end -->
