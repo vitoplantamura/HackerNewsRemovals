@@ -1165,4 +1165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:39936064:start -->
 * [39936064](https://news.social-protocols.org/stats?id=39936064) #14 9 points 7 comments -> [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)<!-- HN:39936064:end --><!-- HN:39936759:start -->
 * [39936759](https://news.social-protocols.org/stats?id=39936759) #16 8 points 2 comments -> [How do I deal with not having a 'real job'?](https://kelseypiper.substack.com/p/how-do-i-deal-with-not-having-a-real)<!-- HN:39936759:end --><!-- HN:39937543:start -->
-* [39937543](https://news.social-protocols.org/stats?id=39937543) #11 5 points 7 comments -> [Why You Shouldn't Use SQLite](https://www.hendrik-erz.de/post/why-you-shouldnt-use-sqlite)<!-- HN:39937543:end -->
+* [39937543](https://news.social-protocols.org/stats?id=39937543) #11 5 points 7 comments -> [Why You Shouldn't Use SQLite](https://www.hendrik-erz.de/post/why-you-shouldnt-use-sqlite)<!-- HN:39937543:end --><!-- HN:39934881:start -->
+* [39934881](https://news.social-protocols.org/stats?id=39934881) #25 19 points 3 comments -> [S l o w r o a d s](https://slowroads.io/)<!-- HN:39934881:end -->
