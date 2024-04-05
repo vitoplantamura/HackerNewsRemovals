@@ -1162,8 +1162,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39933342](https://news.social-protocols.org/stats?id=39933342) #24 102 points 20 comments -> [DataStax just bought our startup Langflow](https://medium.com/logspace/langflow-datastax-better-together-1b7462cebc4d)<!-- HN:39933342:end --><!-- HN:39936057:start -->
 * [39936057](https://news.social-protocols.org/stats?id=39936057) #28 7 points 0 comments -> [UK Civil servants request to stop work over arms sales to Israel](https://news.sky.com/story/civil-servants-threaten-to-stop-work-over-arms-sales-to-israel-13107895)<!-- HN:39936057:end -->
 #### **Friday, April 5, 2024**
-<!-- HN:39936064:start -->
-* [39936064](https://news.social-protocols.org/stats?id=39936064) #14 9 points 7 comments -> [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)<!-- HN:39936064:end --><!-- HN:39936759:start -->
+<!-- HN:39936759:start -->
 * [39936759](https://news.social-protocols.org/stats?id=39936759) #16 8 points 2 comments -> [How do I deal with not having a 'real job'?](https://kelseypiper.substack.com/p/how-do-i-deal-with-not-having-a-real)<!-- HN:39936759:end --><!-- HN:39937543:start -->
 * [39937543](https://news.social-protocols.org/stats?id=39937543) #11 5 points 7 comments -> [Why You Shouldn't Use SQLite](https://www.hendrik-erz.de/post/why-you-shouldnt-use-sqlite)<!-- HN:39937543:end --><!-- HN:39938241:start -->
 * [39938241](https://news.social-protocols.org/stats?id=39938241) #15 8 points 1 comments -> [Seattle Is Getting Rid of Gifted Schools in a Bid to Increase Equity](https://reason.com/2024/04/04/seattle-is-getting-rid-of-gifted-schools-in-a-bid-to-increase-equity/)<!-- HN:39938241:end --><!-- HN:39905608:start -->
