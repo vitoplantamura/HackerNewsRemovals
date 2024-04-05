@@ -1163,4 +1163,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39936057](https://news.social-protocols.org/stats?id=39936057) #28 7 points 0 comments -> [UK Civil servants request to stop work over arms sales to Israel](https://news.sky.com/story/civil-servants-threaten-to-stop-work-over-arms-sales-to-israel-13107895)<!-- HN:39936057:end -->
 #### **Friday, April 5, 2024**
 <!-- HN:39936064:start -->
-* [39936064](https://news.social-protocols.org/stats?id=39936064) #14 9 points 7 comments -> [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)<!-- HN:39936064:end -->
+* [39936064](https://news.social-protocols.org/stats?id=39936064) #14 9 points 7 comments -> [The Crescendo Multi-Turn LLM Jailbreak Attack](https://crescendo-the-multiturn-jailbreak.github.io//)<!-- HN:39936064:end --><!-- HN:39936759:start -->
+* [39936759](https://news.social-protocols.org/stats?id=39936759) #16 8 points 2 comments -> [How do I deal with not having a 'real job'?](https://kelseypiper.substack.com/p/how-do-i-deal-with-not-having-a-real)<!-- HN:39936759:end -->
