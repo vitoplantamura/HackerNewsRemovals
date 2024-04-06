@@ -1187,4 +1187,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39947583](https://news.social-protocols.org/stats?id=39947583) #26 4 points 0 comments -> [There Is No Substitute for the Welfare State](https://jacobin.com/2024/03/tim-wu-biden-predistribution-welfare-state-bbb-antitrust/)<!-- HN:39947583:end -->
 #### **Saturday, April 6, 2024**
 <!-- HN:39949051:start -->
-* [39949051](https://news.social-protocols.org/stats?id=39949051) #20 9 points 1 comments -> [Doctors say children have been targeted by Israeli snipers in Gaza](https://www.theguardian.com/world/2024/apr/02/gaza-palestinian-children-killed-idf-israel-war)<!-- HN:39949051:end -->
+* [39949051](https://news.social-protocols.org/stats?id=39949051) #20 9 points 1 comments -> [Doctors say children have been targeted by Israeli snipers in Gaza](https://www.theguardian.com/world/2024/apr/02/gaza-palestinian-children-killed-idf-israel-war)<!-- HN:39949051:end --><!-- HN:39949049:start -->
+* [39949049](https://news.social-protocols.org/stats?id=39949049) #15 7 points 0 comments -> [Israeli inquiry findings on aid worker killings lack credibility](https://www.theguardian.com/world/2024/apr/05/israeli-inquiry-blames-wck-aid-killings-on-grave-errors-by-military-personnel)<!-- HN:39949049:end -->
