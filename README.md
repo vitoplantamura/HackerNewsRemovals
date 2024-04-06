@@ -1185,3 +1185,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39904266](https://news.social-protocols.org/stats?id=39904266) #10 10 points 0 comments -> [The IT Productivity Paradox](https://cs.stanford.edu/people/eroberts/cs201/projects/productivity-paradox/background.html)<!-- HN:39904266:end --><!-- HN:39922327:start -->
 * [39922327](https://news.social-protocols.org/stats?id=39922327) #22 10 points 7 comments -> [Randomization in such studies is arguably a negative in practice](https://statmodeling.stat.columbia.edu/2024/03/31/rand/)<!-- HN:39922327:end --><!-- HN:39947583:start -->
 * [39947583](https://news.social-protocols.org/stats?id=39947583) #26 4 points 0 comments -> [There Is No Substitute for the Welfare State](https://jacobin.com/2024/03/tim-wu-biden-predistribution-welfare-state-bbb-antitrust/)<!-- HN:39947583:end -->
+#### **Saturday, April 6, 2024**
+<!-- HN:39949051:start -->
+* [39949051](https://news.social-protocols.org/stats?id=39949051) #20 9 points 1 comments -> [Doctors say children have been targeted by Israeli snipers in Gaza](https://www.theguardian.com/world/2024/apr/02/gaza-palestinian-children-killed-idf-israel-war)<!-- HN:39949051:end -->
