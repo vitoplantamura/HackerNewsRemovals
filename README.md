@@ -1188,5 +1188,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 6, 2024**
 <!-- HN:39949051:start -->
 * [39949051](https://news.social-protocols.org/stats?id=39949051) #20 9 points 1 comments -> [Doctors say children have been targeted by Israeli snipers in Gaza](https://www.theguardian.com/world/2024/apr/02/gaza-palestinian-children-killed-idf-israel-war)<!-- HN:39949051:end --><!-- HN:39949049:start -->
-* [39949049](https://news.social-protocols.org/stats?id=39949049) #15 7 points 0 comments -> [Israeli inquiry findings on aid worker killings lack credibility](https://www.theguardian.com/world/2024/apr/05/israeli-inquiry-blames-wck-aid-killings-on-grave-errors-by-military-personnel)<!-- HN:39949049:end --><!-- HN:39949071:start -->
-* [39949071](https://news.social-protocols.org/stats?id=39949071) #10 11 points 4 comments -> [Twitter's Grok AI invents and promotes false story about Iran attacking Tel Aviv](https://bsky.app/profile/rvbdrm.com/post/3kpdrnc34vl2l)<!-- HN:39949071:end -->
+* [39949049](https://news.social-protocols.org/stats?id=39949049) #15 7 points 0 comments -> [Israeli inquiry findings on aid worker killings lack credibility](https://www.theguardian.com/world/2024/apr/05/israeli-inquiry-blames-wck-aid-killings-on-grave-errors-by-military-personnel)<!-- HN:39949049:end -->
