@@ -1236,3 +1236,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39964115](https://news.social-protocols.org/stats?id=39964115) #30 10 points 0 comments -> [Boeing 737 engine cover on a Southwest Airlines plane rips off](https://fortune.com/2024/04/07/boeing-737-engine-cover-rips-off-southwest-airlines-denver-houston/)<!-- HN:39964115:end --><!-- HN:39963058:start -->
 * [39963058](https://news.social-protocols.org/stats?id=39963058) #6 24 points 40 comments -> [Why is software quality worse than a decado ago](https://bitheap.tech/why-is-software-quality-worse-than-a-decado-ago/)<!-- HN:39963058:end --><!-- HN:39964850:start -->
 * [39964850](https://news.social-protocols.org/stats?id=39964850) #10 -> [Primes Can Be Predicted](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742238)<!-- HN:39964850:end -->
+#### **Monday, April 8, 2024**
+<!-- HN:39964923:start -->
+* [39964923](https://news.social-protocols.org/stats?id=39964923) #11 25 points 6 comments -> [My son and 27 others have died at skydiving centre. How is it still open?](https://www.thetimes.co.uk/article/skydiving-death-center-california-cm26bkd9k)<!-- HN:39964923:end -->
