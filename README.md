@@ -1238,4 +1238,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39964850](https://news.social-protocols.org/stats?id=39964850) #10 -> [Primes Can Be Predicted](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742238)<!-- HN:39964850:end -->
 #### **Monday, April 8, 2024**
 <!-- HN:39964923:start -->
-* [39964923](https://news.social-protocols.org/stats?id=39964923) #11 25 points 6 comments -> [My son and 27 others have died at skydiving centre. How is it still open?](https://www.thetimes.co.uk/article/skydiving-death-center-california-cm26bkd9k)<!-- HN:39964923:end -->
+* [39964923](https://news.social-protocols.org/stats?id=39964923) #11 25 points 6 comments -> [My son and 27 others have died at skydiving centre. How is it still open?](https://www.thetimes.co.uk/article/skydiving-death-center-california-cm26bkd9k)<!-- HN:39964923:end --><!-- HN:39964406:start -->
+* [39964406](https://news.social-protocols.org/stats?id=39964406) #24 20 points 1 comments -> [Engineers Pinpoint Cause of Voyager 1 Issue, Are Working on Solution](https://blogs.nasa.gov/voyager/2024/04/04/engineers-pinpoint-cause-of-voyager-1-issue-are-working-on-solution/)<!-- HN:39964406:end -->
