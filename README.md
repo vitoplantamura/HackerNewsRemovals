@@ -1272,5 +1272,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 9, 2024**
 <!-- HN:39975168:start -->
 * [39975168](https://news.social-protocols.org/stats?id=39975168) #19 8 points 2 comments -> [Freedesktop/RedHat's CoC team is worse than you thought](https://blog.vaxry.net/articles/2024-fdo-and-redhat2)<!-- HN:39975168:end --><!-- HN:39975766:start -->
-* [39975766](https://news.social-protocols.org/stats?id=39975766) #30 7 points 5 comments -> [AI already uses as much energy as a small country. It's only the beginning](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)<!-- HN:39975766:end --><!-- HN:39975521:start -->
-* [39975521](https://news.social-protocols.org/stats?id=39975521) #26 5 points 0 comments -> [Understanding Memory Safety in the Rust Programming Language](https://coderoasis.com/rust-lang-memory-safety/)<!-- HN:39975521:end -->
+* [39975766](https://news.social-protocols.org/stats?id=39975766) #30 7 points 5 comments -> [AI already uses as much energy as a small country. It's only the beginning](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)<!-- HN:39975766:end -->
