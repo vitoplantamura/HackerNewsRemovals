@@ -1271,4 +1271,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39959612](https://news.social-protocols.org/stats?id=39959612) #15 8 points 2 comments -> [Beyond Foreign Keys](https://lackofimagination.org/2024/04/beyond-foreign-keys/)<!-- HN:39959612:end -->
 #### **Tuesday, April 9, 2024**
 <!-- HN:39975168:start -->
-* [39975168](https://news.social-protocols.org/stats?id=39975168) #19 8 points 2 comments -> [Freedesktop/RedHat's CoC team is worse than you thought](https://blog.vaxry.net/articles/2024-fdo-and-redhat2)<!-- HN:39975168:end -->
+* [39975168](https://news.social-protocols.org/stats?id=39975168) #19 8 points 2 comments -> [Freedesktop/RedHat's CoC team is worse than you thought](https://blog.vaxry.net/articles/2024-fdo-and-redhat2)<!-- HN:39975168:end --><!-- HN:39975635:start -->
+* [39975635](https://news.social-protocols.org/stats?id=39975635) #28 8 points 3 comments -> [Google Workers Revolt over $1.2B Contract with Israel](https://time.com/6964364/exclusive-no-tech-for-apartheid-google-workers-protest-project-nimbus-1-2-billion-contract-with-israel/)<!-- HN:39975635:end -->
