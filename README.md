@@ -1269,3 +1269,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39973189](https://news.social-protocols.org/stats?id=39973189) #10 34 points 1 comments -> [Shorebird 1.0 – Update your Flutter apps instantly over the air](https://shorebird.dev/blogs/1.0/)<!-- HN:39973189:end --><!-- HN:39974194:start -->
 * [39974194](https://news.social-protocols.org/stats?id=39974194) #12 17 points 0 comments -> [The Global Impact of Israeli "Defense" Technologies on Privacy and Human Rights](https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/)<!-- HN:39974194:end --><!-- HN:39959612:start -->
 * [39959612](https://news.social-protocols.org/stats?id=39959612) #15 8 points 2 comments -> [Beyond Foreign Keys](https://lackofimagination.org/2024/04/beyond-foreign-keys/)<!-- HN:39959612:end -->
+#### **Tuesday, April 9, 2024**
+<!-- HN:39975168:start -->
+* [39975168](https://news.social-protocols.org/stats?id=39975168) #19 8 points 2 comments -> [Freedesktop/RedHat's CoC team is worse than you thought](https://blog.vaxry.net/articles/2024-fdo-and-redhat2)<!-- HN:39975168:end -->
