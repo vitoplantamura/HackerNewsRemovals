@@ -1310,4 +1310,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39990303](https://news.social-protocols.org/stats?id=39990303) #12 17 points 22 comments -> [Why is 1 GB equal to 10^9 bytes instead of 2^30?](https://www.tarsnap.com/GB-why.html)<!-- HN:39990303:end --><!-- HN:39967685:start -->
 * [39967685](https://news.social-protocols.org/stats?id=39967685) #23 45 points 47 comments -> [Demystifying the Shadow DOM](https://thetshaped.dev/p/demystifying-the-shadow-dom)<!-- HN:39967685:end --><!-- HN:39989906:start -->
 * [39989906](https://news.social-protocols.org/stats?id=39989906) #11 10 points 9 comments -> [Show HN: QR Builder](https://qr-builder.io)<!-- HN:39989906:end --><!-- HN:39949490:start -->
-* [39949490](https://news.social-protocols.org/stats?id=39949490) #18 3 points 0 comments -> [Dixon Rings](https://en.wikipedia.org/wiki/Dixon_rings)<!-- HN:39949490:end -->
+* [39949490](https://news.social-protocols.org/stats?id=39949490) #18 3 points 0 comments -> [Dixon Rings](https://en.wikipedia.org/wiki/Dixon_rings)<!-- HN:39949490:end --><!-- HN:39992843:start -->
+* [39992843](https://news.social-protocols.org/stats?id=39992843) #12 27 points 3 comments -> [ADHD linked with proclivity to explore while foraging](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.2584)<!-- HN:39992843:end -->
