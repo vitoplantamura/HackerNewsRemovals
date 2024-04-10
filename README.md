@@ -1292,4 +1292,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39982591](https://news.social-protocols.org/stats?id=39982591) #30 9 points 0 comments -> [Go Developer Survey 2024 H1 Results](https://go.dev/blog/survey2024-h1-results)<!-- HN:39982591:end --><!-- HN:39969015:start -->
 * [39969015](https://news.social-protocols.org/stats?id=39969015) #24 23 points 8 comments -> [A frozen lake and several Lamborghinis provide lessons on traction control](https://arstechnica.com/cars/2024/04/a-frozen-lake-and-several-lamborghinis-provide-lessons-on-traction-control/)<!-- HN:39969015:end -->
 #### **Wednesday, April 10, 2024**<!-- HN:39968948:start -->
-* [39968948](https://news.social-protocols.org/stats?id=39968948) #24 9 points 6 comments -> [Reviving a Flip Clock from the 70ies](https://github.com/jank/Bodet)<!-- HN:39968948:end -->
+* [39968948](https://news.social-protocols.org/stats?id=39968948) #24 9 points 6 comments -> [Reviving a Flip Clock from the 70ies](https://github.com/jank/Bodet)<!-- HN:39968948:end --><!-- HN:39986047:start -->
+* [39986047](https://news.social-protocols.org/stats?id=39986047) #16 31 points 2 comments -> [Mixtral 8x22B Model](https://twitter.com/MistralAI/status/1777869263778291896)<!-- HN:39986047:end -->
