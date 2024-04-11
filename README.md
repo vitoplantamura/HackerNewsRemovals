@@ -1317,3 +1317,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39993563](https://news.social-protocols.org/stats?id=39993563) #17 26 points 9 comments -> [Google Photos' enhanced editing tools will no longer require a subscription](https://www.engadget.com/google-photos-enhanced-editing-tools-will-no-longer-require-a-subscription-160015336.html)<!-- HN:39993563:end --><!-- HN:39993418:start -->
 * [39993418](https://news.social-protocols.org/stats?id=39993418) #28 18 points 4 comments -> [The Cybertruck's Battery Pack Is Half Empty, a Teardown Found](https://futurism.com/the-byte/cybertruck-battery-pack-half-empty)<!-- HN:39993418:end --><!-- HN:39994437:start -->
 * [39994437](https://news.social-protocols.org/stats?id=39994437) #18 21 points 15 comments -> [Funkwhale might be the most overlooked Fediverse project](https://raphael.lullis.net/funkwhale/)<!-- HN:39994437:end -->
+#### **Thursday, April 11, 2024**
+<!-- HN:39996433:start -->
+* [39996433](https://news.social-protocols.org/stats?id=39996433) #1 206 points 137 comments -> [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)<!-- HN:39996433:end -->
