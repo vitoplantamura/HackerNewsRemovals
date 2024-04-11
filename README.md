@@ -1319,4 +1319,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [39994437](https://news.social-protocols.org/stats?id=39994437) #18 21 points 15 comments -> [Funkwhale might be the most overlooked Fediverse project](https://raphael.lullis.net/funkwhale/)<!-- HN:39994437:end -->
 #### **Thursday, April 11, 2024**
 <!-- HN:39996433:start -->
-* [39996433](https://news.social-protocols.org/stats?id=39996433) #1 206 points 137 comments -> [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)<!-- HN:39996433:end -->
+* [39996433](https://news.social-protocols.org/stats?id=39996433) #1 206 points 137 comments -> [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)<!-- HN:39996433:end --><!-- HN:39957909:start -->
+* [39957909](https://news.social-protocols.org/stats?id=39957909) #19 85 points 192 comments -> [SFMTA's train system running on floppy disks; city fears 'catastrophic failure'](https://abc7news.com/san-francisco-train-system-has-been-running-on-floppy-disks-but-city-fears-catastrophic-failure-before-upgrade/14624828/)<!-- HN:39957909:end --><!-- HN:39965028:start -->
+* [39965028](https://news.social-protocols.org/stats?id=39965028) #20 52 points 15 comments -> [Architecture decisions in Neon, a serverless Postgres service](https://neon.tech/blog/architecture-decisions-in-neon)<!-- HN:39965028:end -->
