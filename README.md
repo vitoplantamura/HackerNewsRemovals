@@ -1346,3 +1346,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40003996](https://news.social-protocols.org/stats?id=40003996) #15 4 points 1 comments -> [More Companies Are Defaulting over and over Again, S&P Says – Highest Since 2008](https://www.bloomberg.com/news/articles/2024-04-11/more-companies-are-defaulting-over-and-over-again-s-p-says)<!-- HN:40003996:end --><!-- HN:40006939:start -->
 * [40006939](https://news.social-protocols.org/stats?id=40006939) #4 7 points 8 comments -> [Show HN: We created a way for you to review your resume using AI](https://blog.chapteroneai.com/b/resume-reviews-our-first-product)<!-- HN:40006939:end --><!-- HN:40006409:start -->
 * [40006409](https://news.social-protocols.org/stats?id=40006409) #29 -> [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)<!-- HN:40006409:end -->
+#### **Friday, April 12, 2024**
+<!-- HN:40008075:start -->
+* [40008075](https://news.social-protocols.org/stats?id=40008075) #3 11 points 6 comments -> [$10M says we won't see human-superior AGI by the end of 2025](https://garymarcus.substack.com/p/10-million-says-we-wont-see-human)<!-- HN:40008075:end -->
