@@ -1350,4 +1350,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40008075:start -->
 * [40008075](https://news.social-protocols.org/stats?id=40008075) #3 11 points 6 comments -> [$10M says we won't see human-superior AGI by the end of 2025](https://garymarcus.substack.com/p/10-million-says-we-wont-see-human)<!-- HN:40008075:end --><!-- HN:40005907:start -->
 * [40005907](https://news.social-protocols.org/stats?id=40005907) #29 15 points 2 comments -> [Follow Your ADHD Flow](https://adhdftw.com/follow-your-adhd-flow/)<!-- HN:40005907:end --><!-- HN:40008611:start -->
-* [40008611](https://news.social-protocols.org/stats?id=40008611) #27 4 points 1 comments -> [A::B](https://twitter.com/VictorTaelin/status/1777049193489572064)<!-- HN:40008611:end -->
+* [40008611](https://news.social-protocols.org/stats?id=40008611) #27 4 points 1 comments -> [A::B](https://twitter.com/VictorTaelin/status/1777049193489572064)<!-- HN:40008611:end --><!-- HN:40008994:start -->
+* [40008994](https://news.social-protocols.org/stats?id=40008994) #26 3 points 3 comments -> [Ivermectin Trials Were Designed to Fail](https://web.archive.org/web/20240412012819/https://www.zerohedge.com/political/how-ivermectin-trials-were-designed-fail)<!-- HN:40008994:end -->
