@@ -1369,3 +1369,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40017056](https://news.social-protocols.org/stats?id=40017056) #10 5 points 0 comments -> [Proton engine Einstein predicted, created: challenges laws of universe](https://www.ecoticias.com/en/proton-engine-einstein-created/868/)<!-- HN:40017056:end --><!-- HN:40017979:start -->
 * [40017979](https://news.social-protocols.org/stats?id=40017979) #6 4 points 0 comments -> [New student debt relief: average is $25,500 / household income is $312,000 [pdf]](https://static1.squarespace.com/static/55693d60e4b06d83cf793431/t/6617fe110c11c009015f4d8a/1712848401306/Analysis+of+President+Biden%E2%80%99s+New+Plans+for+Student+Loan+Debt+Relief+%E2%80%93+April+2024.pdf)<!-- HN:40017979:end --><!-- HN:40016722:start -->
 * [40016722](https://news.social-protocols.org/stats?id=40016722) #26 5 points 3 comments -> [Show HN: Facelessvideos.ai – An app to create viral TikTok videos with AI](https://www.facelessvideos.ai/)<!-- HN:40016722:end -->
+#### **Saturday, April 13, 2024**
+<!-- HN:40018996:start -->
+* [40018996](https://news.social-protocols.org/stats?id=40018996) #15 12 points 3 comments -> [Google Contract Shows Deal with Israel Defense Ministry](https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war/)<!-- HN:40018996:end -->
