@@ -1371,4 +1371,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40016722](https://news.social-protocols.org/stats?id=40016722) #26 5 points 3 comments -> [Show HN: Facelessvideos.ai – An app to create viral TikTok videos with AI](https://www.facelessvideos.ai/)<!-- HN:40016722:end -->
 #### **Saturday, April 13, 2024**
 <!-- HN:40018996:start -->
-* [40018996](https://news.social-protocols.org/stats?id=40018996) #15 12 points 3 comments -> [Google Contract Shows Deal with Israel Defense Ministry](https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war/)<!-- HN:40018996:end -->
+* [40018996](https://news.social-protocols.org/stats?id=40018996) #15 12 points 3 comments -> [Google Contract Shows Deal with Israel Defense Ministry](https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war/)<!-- HN:40018996:end --><!-- HN:40018199:start -->
+* [40018199](https://news.social-protocols.org/stats?id=40018199) #25 37 points 41 comments -> [YouTube has a new design on desktop and everyone is mad about it](https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/)<!-- HN:40018199:end -->
