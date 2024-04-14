@@ -1404,3 +1404,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40026547](https://news.social-protocols.org/stats?id=40026547) #22 4 points 0 comments -> [Applied to 100 jobs using a resume with the name "Kismma D. Nhuhts"](https://twitter.com/JerryJHLee/status/1778484920593055763)<!-- HN:40026547:end --><!-- HN:40026614:start -->
 * [40026614](https://news.social-protocols.org/stats?id=40026614) #6 3 points 0 comments -> [Mommy](https://github.com/FWDekker/mommy)<!-- HN:40026614:end --><!-- HN:40027260:start -->
 * [40027260](https://news.social-protocols.org/stats?id=40027260) #13 5 points 0 comments -> [Israeli Firms Are Working Overtime to Sell Stolen Palestinian Land to US Jews](https://truthout.org/articles/israeli-firms-are-working-overtime-to-sell-stolen-palestinian-land-to-us-jews/)<!-- HN:40027260:end -->
+#### **Sunday, April 14, 2024**
+<!-- HN:40026782:start -->
+* [40026782](https://news.social-protocols.org/stats?id=40026782) #3 13 points 9 comments -> [Turn entire websites into LLM-ready data](https://www.firecrawl.dev/)<!-- HN:40026782:end -->
