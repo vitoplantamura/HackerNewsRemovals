@@ -1406,4 +1406,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40027260](https://news.social-protocols.org/stats?id=40027260) #13 5 points 0 comments -> [Israeli Firms Are Working Overtime to Sell Stolen Palestinian Land to US Jews](https://truthout.org/articles/israeli-firms-are-working-overtime-to-sell-stolen-palestinian-land-to-us-jews/)<!-- HN:40027260:end -->
 #### **Sunday, April 14, 2024**
 <!-- HN:40026782:start -->
-* [40026782](https://news.social-protocols.org/stats?id=40026782) #3 13 points 9 comments -> [Turn entire websites into LLM-ready data](https://www.firecrawl.dev/)<!-- HN:40026782:end -->
+* [40026782](https://news.social-protocols.org/stats?id=40026782) #3 13 points 9 comments -> [Turn entire websites into LLM-ready data](https://www.firecrawl.dev/)<!-- HN:40026782:end --><!-- HN:40025930:start -->
+* [40025930](https://news.social-protocols.org/stats?id=40025930) #30 24 points 5 comments -> [Adobe's 'Ethical' Firefly AI Was Trained on Midjourney Images](https://www.bloomberg.com/news/articles/2024-04-12/adobe-s-ai-firefly-used-ai-generated-images-from-rivals-for-training)<!-- HN:40025930:end -->
