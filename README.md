@@ -1449,4 +1449,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40034541](https://news.social-protocols.org/stats?id=40034541) #6 7 points 3 comments -> [Computers as IQ Shredders](https://www.josephbronski.com/p/computers-as-iq-shredders)<!-- HN:40034541:end -->
 #### **Monday, April 15, 2024**<!-- HN:40035220:start -->
 * [40035220](https://news.social-protocols.org/stats?id=40035220) #30 6 points 0 comments -> [Climategate (2009)](https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy)<!-- HN:40035220:end --><!-- HN:40035305:start -->
-* [40035305](https://news.social-protocols.org/stats?id=40035305) #19 13 points 2 comments -> [John Carmack reflecting on the firing of Palmer Luckey](https://twitter.com/ID_AA_Carmack/status/1779171248083177500)<!-- HN:40035305:end -->
+* [40035305](https://news.social-protocols.org/stats?id=40035305) #19 13 points 2 comments -> [John Carmack reflecting on the firing of Palmer Luckey](https://twitter.com/ID_AA_Carmack/status/1779171248083177500)<!-- HN:40035305:end --><!-- HN:40036746:start -->
+* [40036746](https://news.social-protocols.org/stats?id=40036746) #22 17 points 13 comments -> [Rant: I'm one year in at a big tech company, and I hate it](https://old.reddit.com/r/cscareerquestions/comments/1c4bzrc/rant_im_one_year_in_at_a_big_tech_company_and_i/)<!-- HN:40036746:end -->
