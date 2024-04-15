@@ -1448,5 +1448,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40034567](https://news.social-protocols.org/stats?id=40034567) #29 8 points 0 comments -> [I did crack my screen once but it was on purpose](https://twitter.com/mitchellh/status/1779617537162178614)<!-- HN:40034567:end --><!-- HN:40034541:start -->
 * [40034541](https://news.social-protocols.org/stats?id=40034541) #6 7 points 3 comments -> [Computers as IQ Shredders](https://www.josephbronski.com/p/computers-as-iq-shredders)<!-- HN:40034541:end -->
 #### **Monday, April 15, 2024**
-<!-- HN:40035225:start -->
-* [40035225](https://news.social-protocols.org/stats?id=40035225) #1 25 points 2 comments -> [Saskatoon Freezing Deaths](https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths)<!-- HN:40035225:end -->
