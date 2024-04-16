@@ -1479,4 +1479,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40044780](https://news.social-protocols.org/stats?id=40044780) #30 15 points 11 comments -> [The IRS's new tax software: Rave reviews, but low turnout](https://www.washingtonpost.com/business/2024/04/15/irs-direct-file-reviews/)<!-- HN:40044780:end -->
 #### **Tuesday, April 16, 2024**
 <!-- HN:40047183:start -->
-* [40047183](https://news.social-protocols.org/stats?id=40047183) #19 14 points 2 comments -> [Israel using AI to identify human targets raising fears that innocents](https://techxplore.com/news/2024-04-israel-ai-human-innocents-caught.html)<!-- HN:40047183:end -->
+* [40047183](https://news.social-protocols.org/stats?id=40047183) #19 14 points 2 comments -> [Israel using AI to identify human targets raising fears that innocents](https://techxplore.com/news/2024-04-israel-ai-human-innocents-caught.html)<!-- HN:40047183:end --><!-- HN:40047071:start -->
+* [40047071](https://news.social-protocols.org/stats?id=40047071) #22 29 points 17 comments -> [Why so many of us were wrong about missile defense](https://www.noahpinion.blog/p/why-so-many-of-us-were-wrong-about)<!-- HN:40047071:end -->
