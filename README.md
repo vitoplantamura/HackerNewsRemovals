@@ -1479,4 +1479,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40044780](https://news.social-protocols.org/stats?id=40044780) #30 15 points 11 comments -> [The IRS's new tax software: Rave reviews, but low turnout](https://www.washingtonpost.com/business/2024/04/15/irs-direct-file-reviews/)<!-- HN:40044780:end -->
 #### **Tuesday, April 16, 2024**
 <!-- HN:40047183:start -->
-* [40047183](https://news.social-protocols.org/stats?id=40047183) #19 14 points 2 comments -> [Israel using AI to identify human targets raising fears that innocents](https://techxplore.com/news/2024-04-israel-ai-human-innocents-caught.html)<!-- HN:40047183:end -->
+* [40047183](https://news.social-protocols.org/stats?id=40047183) #19 14 points 2 comments -> [Israel using AI to identify human targets raising fears that innocents](https://techxplore.com/news/2024-04-israel-ai-human-innocents-caught.html)<!-- HN:40047183:end --><!-- HN:40047102:start -->
+* [40047102](https://news.social-protocols.org/stats?id=40047102) #11 3 points 0 comments -> [Wrong couple get divorced after solicitor 'clicks wrong button'](https://www.theguardian.com/lifeandstyle/2024/apr/15/wrong-couple-divorced-solicitor-clicks-wrong-button)<!-- HN:40047102:end --><!-- HN:40046213:start -->
+* [40046213](https://news.social-protocols.org/stats?id=40046213) #23 12 points 8 comments -> [Debate isn't the best lever to reach the people I want to reach](https://social.polotek.net/@polotek/112050305411206400)<!-- HN:40046213:end -->
