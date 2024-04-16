@@ -1477,3 +1477,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40043711](https://news.social-protocols.org/stats?id=40043711) #30 21 points 8 comments -> [Ketogenic diet may play a role in treating schizophrenia: research (2019)](https://www.psychologytoday.com/us/blog/advancing-psychiatry/201904/chronic-schizophrenia-put-remission-without-medication)<!-- HN:40043711:end --><!-- HN:40046370:start -->
 * [40046370](https://news.social-protocols.org/stats?id=40046370) #20 8 points 2 comments -> [Something for the metalheads: Master Boot Record – Internet Protocol [video]](https://www.youtube.com/watch?v=t6KFfYdNPh8)<!-- HN:40046370:end --><!-- HN:40044780:start -->
 * [40044780](https://news.social-protocols.org/stats?id=40044780) #30 15 points 11 comments -> [The IRS's new tax software: Rave reviews, but low turnout](https://www.washingtonpost.com/business/2024/04/15/irs-direct-file-reviews/)<!-- HN:40044780:end -->
+#### **Tuesday, April 16, 2024**
+<!-- HN:40047183:start -->
+* [40047183](https://news.social-protocols.org/stats?id=40047183) #19 14 points 2 comments -> [Israel using AI to identify human targets raising fears that innocents](https://techxplore.com/news/2024-04-israel-ai-human-innocents-caught.html)<!-- HN:40047183:end -->
