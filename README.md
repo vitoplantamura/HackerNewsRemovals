@@ -1511,4 +1511,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 17, 2024**
 <!-- HN:40056229:start -->
 * [40056229](https://news.social-protocols.org/stats?id=40056229) #24 21 points 5 comments -> [The Americas Act and Its Chances of Becoming Law](https://globalamericans.org/explaining-and-predicting-the-americas-act-and-its-chances-of-becoming-law/)<!-- HN:40056229:end --><!-- HN:40059022:start -->
-* [40059022](https://news.social-protocols.org/stats?id=40059022) #12 49 points 23 comments -> [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)<!-- HN:40059022:end -->
+* [40059022](https://news.social-protocols.org/stats?id=40059022) #12 49 points 23 comments -> [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)<!-- HN:40059022:end --><!-- HN:40028062:start -->
+* [40028062](https://news.social-protocols.org/stats?id=40028062) #10 51 points 9 comments -> [Trimming The Herbs TAS Clear on my Wii U [video]](https://www.youtube.com/watch?v=6VaAvEZ7U60)<!-- HN:40028062:end -->
