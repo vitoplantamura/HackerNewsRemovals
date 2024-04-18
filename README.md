@@ -1530,5 +1530,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40070570](https://news.social-protocols.org/stats?id=40070570) #27 5 points 0 comments -> [Fr. Gregor Johann Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel)<!-- HN:40070570:end -->
 #### **Thursday, April 18, 2024**
 <!-- HN:40071694:start -->
-* [40071694](https://news.social-protocols.org/stats?id=40071694) #14 50 points 3 comments -> [Lambda School and founder banned from all student lending](https://twitter.com/JoshuaOgundu/status/1780668300982415379)<!-- HN:40071694:end --><!-- HN:40072295:start -->
-* [40072295](https://news.social-protocols.org/stats?id=40072295) #19 12 points 0 comments -> [Google fires 28 employees involved in sit-in protest over $1.2B Israel contract](https://nypost.com/2024/04/17/business/google-fires-28-employees-involved-in-sit-in-protest-over-1-2b-israel-contract/)<!-- HN:40072295:end -->
+* [40071694](https://news.social-protocols.org/stats?id=40071694) #14 50 points 3 comments -> [Lambda School and founder banned from all student lending](https://twitter.com/JoshuaOgundu/status/1780668300982415379)<!-- HN:40071694:end -->
