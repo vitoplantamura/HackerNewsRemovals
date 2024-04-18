@@ -1528,3 +1528,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40070669](https://news.social-protocols.org/stats?id=40070669) #29 6 points 0 comments -> [Mickey, Minnie, Donald and Goofy file for union vote at Disneyland](https://www.cnn.com/2024/04/17/business/disneyland-union-vote/index.html)<!-- HN:40070669:end --><!-- HN:40070585:start -->
 * [40070585](https://news.social-protocols.org/stats?id=40070585) #26 6 points 0 comments -> [An herbicide so hazardous that courts have banned it twice](https://www.thenewlede.org/2024/04/an-herbicide-so-hazardous-that-courts-have-banned-it-twice/)<!-- HN:40070585:end --><!-- HN:40070570:start -->
 * [40070570](https://news.social-protocols.org/stats?id=40070570) #27 5 points 0 comments -> [Fr. Gregor Johann Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel)<!-- HN:40070570:end -->
+#### **Thursday, April 18, 2024**
+<!-- HN:40071694:start -->
+* [40071694](https://news.social-protocols.org/stats?id=40071694) #14 50 points 3 comments -> [Lambda School and founder banned from all student lending](https://twitter.com/JoshuaOgundu/status/1780668300982415379)<!-- HN:40071694:end -->
