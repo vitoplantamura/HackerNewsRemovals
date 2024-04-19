@@ -1559,3 +1559,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40081387](https://news.social-protocols.org/stats?id=40081387) #17 -> [United States blocks Palestinian request for full UN membership](https://www.cbc.ca/news/world/un-palestinian-united-states-veto-1.7178152)<!-- HN:40081387:end --><!-- HN:40081342:start -->
 * [40081342](https://news.social-protocols.org/stats?id=40081342) #28 20 points 1 comments -> [Hyundai pauses X ads over pro-Nazi content on the platform](https://www.nbcnews.com/tech/tech-news/hyundai-pauses-x-ads-nazi-content-platform-rcna148414)<!-- HN:40081342:end --><!-- HN:40080910:start -->
 * [40080910](https://news.social-protocols.org/stats?id=40080910) #17 21 points 1 comments -> [Show HN: Tiger – Function Hub for LLM Agents](https://github.com/Upsonic/Tiger)<!-- HN:40080910:end -->
+#### **Friday, April 19, 2024**
+<!-- HN:40082127:start -->
+* [40082127](https://news.social-protocols.org/stats?id=40082127) #24 31 points 41 comments -> [US Air Force says AI-controlled F-16 has been dogfighting with humans](https://www.theregister.com/2024/04/18/darpa_f16_flight/)<!-- HN:40082127:end -->
