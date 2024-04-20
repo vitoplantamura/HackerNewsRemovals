@@ -1582,3 +1582,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40091618](https://news.social-protocols.org/stats?id=40091618) #30 4 points 2 comments -> [The EPA is again allowing summer sales of higher ethanol gasoline blend](https://apnews.com/article/ethanol-e15-epa-gasoline-561fab4d812fde53295394c8168ef697)<!-- HN:40091618:end --><!-- HN:40091427:start -->
 * [40091427](https://news.social-protocols.org/stats?id=40091427) #25 14 points 3 comments -> [I hate Rust (programming language)](https://dorinlazar.ro/240228-i-hate-rust-programming-language/)<!-- HN:40091427:end --><!-- HN:40092747:start -->
 * [40092747](https://news.social-protocols.org/stats?id=40092747) #3 21 points 10 comments -> [Why there will never be another Bitcoin](https://blog.kraken.com/crypto-education/opinion-why-there-will-never-be-another-bitcoin)<!-- HN:40092747:end -->
+#### **Saturday, April 20, 2024**
+<!-- HN:40093178:start -->
+* [40093178](https://news.social-protocols.org/stats?id=40093178) #1 14 points 3 comments -> [Llama 3 is not censored](https://ollama.com/blog/llama-3-is-not-very-censored)<!-- HN:40093178:end -->
