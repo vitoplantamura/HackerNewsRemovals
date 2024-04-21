@@ -1616,4 +1616,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 21, 2024**
 <!-- HN:40101855:start -->
 * [40101855](https://news.social-protocols.org/stats?id=40101855) #4 15 points 0 comments -> [How taboo is that question? (by 507 representative Americans)](https://openpsych.net/paper/77/)<!-- HN:40101855:end --><!-- HN:40102664:start -->
-* [40102664](https://news.social-protocols.org/stats?id=40102664) #14 15 points 10 comments -> [Samsung tells its executives to work a 6-day week to 'inject a sense of crisis'](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)<!-- HN:40102664:end -->
+* [40102664](https://news.social-protocols.org/stats?id=40102664) #14 15 points 10 comments -> [Samsung tells its executives to work a 6-day week to 'inject a sense of crisis'](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)<!-- HN:40102664:end --><!-- HN:40104596:start -->
+* [40104596](https://news.social-protocols.org/stats?id=40104596) #29 25 points 23 comments -> [Why I'm Leaving New York City [video]](https://www.youtube.com/watch?v=lKBfFOLFC38)<!-- HN:40104596:end -->
