@@ -1615,4 +1615,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40100897](https://news.social-protocols.org/stats?id=40100897) #23 15 points 9 comments -> [Boeing and the Dark Age of American Manufacturing](https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/)<!-- HN:40100897:end -->
 #### **Sunday, April 21, 2024**
 <!-- HN:40101855:start -->
-* [40101855](https://news.social-protocols.org/stats?id=40101855) #4 15 points 0 comments -> [How taboo is that question? (by 507 representative Americans)](https://openpsych.net/paper/77/)<!-- HN:40101855:end -->
+* [40101855](https://news.social-protocols.org/stats?id=40101855) #4 15 points 0 comments -> [How taboo is that question? (by 507 representative Americans)](https://openpsych.net/paper/77/)<!-- HN:40101855:end --><!-- HN:40102664:start -->
+* [40102664](https://news.social-protocols.org/stats?id=40102664) #14 15 points 10 comments -> [Samsung tells its executives to work a 6-day week to 'inject a sense of crisis'](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)<!-- HN:40102664:end -->
