@@ -1616,4 +1616,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 21, 2024**
 <!-- HN:40101855:start -->
 * [40101855](https://news.social-protocols.org/stats?id=40101855) #4 15 points 0 comments -> [How taboo is that question? (by 507 representative Americans)](https://openpsych.net/paper/77/)<!-- HN:40101855:end --><!-- HN:40102664:start -->
-* [40102664](https://news.social-protocols.org/stats?id=40102664) #14 15 points 10 comments -> [Samsung tells its executives to work a 6-day week to 'inject a sense of crisis'](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)<!-- HN:40102664:end -->
+* [40102664](https://news.social-protocols.org/stats?id=40102664) #14 15 points 10 comments -> [Samsung tells its executives to work a 6-day week to 'inject a sense of crisis'](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)<!-- HN:40102664:end --><!-- HN:40083527:start -->
+* [40083527](https://news.social-protocols.org/stats?id=40083527) #17 17 points 30 comments -> [Fast food is already automated?](https://www.theatlantic.com/technology/archive/2024/04/kernel-robot-fast-food-automation/678107/)<!-- HN:40083527:end -->
