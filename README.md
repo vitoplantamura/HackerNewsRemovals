@@ -1613,3 +1613,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40101104](https://news.social-protocols.org/stats?id=40101104) #2 28 points 22 comments -> [All web browsers on iOS are just Safari with different design](https://community.brave.com/t/why-is-the-ios-app-updated-so-sparingly/512155)<!-- HN:40101104:end --><!-- HN:40101508:start -->
 * [40101508](https://news.social-protocols.org/stats?id=40101508) #23 3 points 0 comments -> [Tea.xyz causes open source spam problems, again](https://www.web3isgoinggreat.com/?id=teaxyz-causes-open-source-software-spam-problems-again)<!-- HN:40101508:end --><!-- HN:40100897:start -->
 * [40100897](https://news.social-protocols.org/stats?id=40100897) #23 15 points 9 comments -> [Boeing and the Dark Age of American Manufacturing](https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/)<!-- HN:40100897:end -->
+#### **Sunday, April 21, 2024**
+<!-- HN:40101855:start -->
+* [40101855](https://news.social-protocols.org/stats?id=40101855) #4 15 points 0 comments -> [How taboo is that question? (by 507 representative Americans)](https://openpsych.net/paper/77/)<!-- HN:40101855:end -->
