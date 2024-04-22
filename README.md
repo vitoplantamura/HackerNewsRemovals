@@ -1628,3 +1628,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40107252](https://news.social-protocols.org/stats?id=40107252) #7 13 points 5 comments -> [Downgraded my website to GitHub pages; couldn't be happier](https://billwear.github.io/)<!-- HN:40107252:end --><!-- HN:40107548:start -->
 * [40107548](https://news.social-protocols.org/stats?id=40107548) #27 4 points 0 comments -> [The Crusade Against 'Malinformation' Explicitly Targets Inconvenient Truths](https://reason.com/2023/03/22/the-crusade-against-malinformation-explicitly-targets-inconvenient-truths/)<!-- HN:40107548:end --><!-- HN:40107034:start -->
 * [40107034](https://news.social-protocols.org/stats?id=40107034) #22 28 points 53 comments -> [What the Supreme Court case on tent encampments could mean for homeless people](https://www.vox.com/scotus/24123323/grants-pass-scotus-supreme-court-homeless-tent-encampments)<!-- HN:40107034:end -->
+#### **Monday, April 22, 2024**
+<!-- HN:40110452:start -->
+* [40110452](https://news.social-protocols.org/stats?id=40110452) #16 14 points 4 comments -> [Selling Butter at 54% Profit: Leaked Docs Show Loblaws' Exorbitant Markups](https://thedeepdive.ca/selling-butter-at-54-profit-leaked-docs-show-loblaws-exorbitant-markups/)<!-- HN:40110452:end -->
