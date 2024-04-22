@@ -1631,4 +1631,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 22, 2024**
 <!-- HN:40110452:start -->
 * [40110452](https://news.social-protocols.org/stats?id=40110452) #16 14 points 4 comments -> [Selling Butter at 54% Profit: Leaked Docs Show Loblaws' Exorbitant Markups](https://thedeepdive.ca/selling-butter-at-54-profit-leaked-docs-show-loblaws-exorbitant-markups/)<!-- HN:40110452:end --><!-- HN:40109827:start -->
-* [40109827](https://news.social-protocols.org/stats?id=40109827) #28 -> [What is chlormequat in Quaker Oats and Cheerios, and can it impact fertility?](https://www.cbsnews.com/news/chlormequat-chemical-oats-health-fertility/)<!-- HN:40109827:end -->
+* [40109827](https://news.social-protocols.org/stats?id=40109827) #28 -> [What is chlormequat in Quaker Oats and Cheerios, and can it impact fertility?](https://www.cbsnews.com/news/chlormequat-chemical-oats-health-fertility/)<!-- HN:40109827:end --><!-- HN:40110170:start -->
+* [40110170](https://news.social-protocols.org/stats?id=40110170) #29 13 points 1 comments -> [Louisiana's flagship university lets oil firms influence research – for a price](https://www.theguardian.com/us-news/2024/apr/21/louisiana-state-university-oil-firms-influence)<!-- HN:40110170:end -->
