@@ -1669,4 +1669,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40121934:start -->
 * [40121934](https://news.social-protocols.org/stats?id=40121934) #25 15 points 7 comments -> [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)<!-- HN:40121934:end --><!-- HN:40127088:start -->
 * [40127088](https://news.social-protocols.org/stats?id=40127088) #11 12 points 2 comments -> [Why Cats Knock Stuff Over](https://gwern.net/cat-knocking)<!-- HN:40127088:end --><!-- HN:40095121:start -->
-* [40095121](https://news.social-protocols.org/stats?id=40095121) #9 6 points 0 comments -> [Eurisko Lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)<!-- HN:40095121:end -->
+* [40095121](https://news.social-protocols.org/stats?id=40095121) #9 6 points 0 comments -> [Eurisko Lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)<!-- HN:40095121:end --><!-- HN:40127890:start -->
+* [40127890](https://news.social-protocols.org/stats?id=40127890) #9 26 points 20 comments -> [Alienating Tesla Buyers by the Cybertruck-Load](https://ritholtz.com/2024/04/alienating-tesla-buyers/)<!-- HN:40127890:end --><!-- HN:40127857:start -->
+* [40127857](https://news.social-protocols.org/stats?id=40127857) #25 24 points 16 comments -> [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)<!-- HN:40127857:end -->
