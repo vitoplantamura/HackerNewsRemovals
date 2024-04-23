@@ -1665,3 +1665,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40115633](https://news.social-protocols.org/stats?id=40115633) #28 13 points 5 comments -> [Life is a Game that you can learn by learning these rules](https://www.engineeryourexistence.com/p/the-game-of-life)<!-- HN:40115633:end --><!-- HN:40123052:start -->
 * [40123052](https://news.social-protocols.org/stats?id=40123052) #9 8 points 20 comments -> [Apple Hugs: Human Gaussian Splats (CVPR 2024)](https://github.com/apple/ml-hugs)<!-- HN:40123052:end --><!-- HN:40124674:start -->
 * [40124674](https://news.social-protocols.org/stats?id=40124674) #17 9 points 1 comments -> [Israel Tied with Iran Among Top Jailers of Journalists in 2023, Report Finds](https://truthout.org/articles/israel-leads-countries-in-jailing-reporters-since-start-of-genocide-in-palestine/)<!-- HN:40124674:end -->
+#### **Tuesday, April 23, 2024**
+<!-- HN:40121934:start -->
+* [40121934](https://news.social-protocols.org/stats?id=40121934) #25 15 points 7 comments -> [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)<!-- HN:40121934:end -->
