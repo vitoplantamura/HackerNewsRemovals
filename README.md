@@ -1667,4 +1667,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40124674](https://news.social-protocols.org/stats?id=40124674) #17 9 points 1 comments -> [Israel Tied with Iran Among Top Jailers of Journalists in 2023, Report Finds](https://truthout.org/articles/israel-leads-countries-in-jailing-reporters-since-start-of-genocide-in-palestine/)<!-- HN:40124674:end -->
 #### **Tuesday, April 23, 2024**
 <!-- HN:40121934:start -->
-* [40121934](https://news.social-protocols.org/stats?id=40121934) #25 15 points 7 comments -> [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)<!-- HN:40121934:end -->
+* [40121934](https://news.social-protocols.org/stats?id=40121934) #25 15 points 7 comments -> [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)<!-- HN:40121934:end --><!-- HN:40127088:start -->
+* [40127088](https://news.social-protocols.org/stats?id=40127088) #11 12 points 2 comments -> [Why Cats Knock Stuff Over](https://gwern.net/cat-knocking)<!-- HN:40127088:end -->
