@@ -1668,4 +1668,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 23, 2024**
 <!-- HN:40121934:start -->
 * [40121934](https://news.social-protocols.org/stats?id=40121934) #25 15 points 7 comments -> [It's Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)<!-- HN:40121934:end --><!-- HN:40127088:start -->
-* [40127088](https://news.social-protocols.org/stats?id=40127088) #11 12 points 2 comments -> [Why Cats Knock Stuff Over](https://gwern.net/cat-knocking)<!-- HN:40127088:end -->
+* [40127088](https://news.social-protocols.org/stats?id=40127088) #11 12 points 2 comments -> [Why Cats Knock Stuff Over](https://gwern.net/cat-knocking)<!-- HN:40127088:end --><!-- HN:40095121:start -->
+* [40095121](https://news.social-protocols.org/stats?id=40095121) #9 6 points 0 comments -> [Eurisko Lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)<!-- HN:40095121:end -->
