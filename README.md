@@ -1715,4 +1715,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40138073](https://news.social-protocols.org/stats?id=40138073) #22 7 points 6 comments -> [Geoffrey Hinton: Open sourcing AI models akin to open sourcing nuclear weapons](https://twitter.com/ygrowthco/status/1782493076373885336)<!-- HN:40138073:end -->
 #### **Wednesday, April 24, 2024**
 <!-- HN:40138676:start -->
-* [40138676](https://news.social-protocols.org/stats?id=40138676) #7 10 points 0 comments -> [Simple probes can catch sleeper agents](https://www.anthropic.com/research/probes-catch-sleeper-agents)<!-- HN:40138676:end -->
+* [40138676](https://news.social-protocols.org/stats?id=40138676) #7 10 points 0 comments -> [Simple probes can catch sleeper agents](https://www.anthropic.com/research/probes-catch-sleeper-agents)<!-- HN:40138676:end --><!-- HN:40139162:start -->
+* [40139162](https://news.social-protocols.org/stats?id=40139162) #22 9 points 1 comments -> [200 days of horror – Mass graves in Gaza](https://news.un.org/en/story/2024/04/1148876)<!-- HN:40139162:end -->
