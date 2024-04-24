@@ -1713,3 +1713,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40138013](https://news.social-protocols.org/stats?id=40138013) #4 45 points 2 comments -> [FTC Bans Noncompete Agreements That Restrict Job Switching](https://www.wsj.com/politics/policy/ftc-bans-noncompete-clauses-that-restrict-job-switching-984d2187)<!-- HN:40138013:end --><!-- HN:40137671:start -->
 * [40137671](https://news.social-protocols.org/stats?id=40137671) #24 6 points 1 comments -> [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)<!-- HN:40137671:end --><!-- HN:40138073:start -->
 * [40138073](https://news.social-protocols.org/stats?id=40138073) #22 7 points 6 comments -> [Geoffrey Hinton: Open sourcing AI models akin to open sourcing nuclear weapons](https://twitter.com/ygrowthco/status/1782493076373885336)<!-- HN:40138073:end -->
+#### **Wednesday, April 24, 2024**
+<!-- HN:40138676:start -->
+* [40138676](https://news.social-protocols.org/stats?id=40138676) #7 10 points 0 comments -> [Simple probes can catch sleeper agents](https://www.anthropic.com/research/probes-catch-sleeper-agents)<!-- HN:40138676:end -->
