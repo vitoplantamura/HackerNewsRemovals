@@ -1717,4 +1717,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40138676:start -->
 * [40138676](https://news.social-protocols.org/stats?id=40138676) #7 10 points 0 comments -> [Simple probes can catch sleeper agents](https://www.anthropic.com/research/probes-catch-sleeper-agents)<!-- HN:40138676:end --><!-- HN:40139162:start -->
 * [40139162](https://news.social-protocols.org/stats?id=40139162) #22 9 points 1 comments -> [200 days of horror – Mass graves in Gaza](https://news.un.org/en/story/2024/04/1148876)<!-- HN:40139162:end --><!-- HN:40138533:start -->
-* [40138533](https://news.social-protocols.org/stats?id=40138533) #24 16 points 11 comments -> [Canada bet big on immigration. Now it's hitting the brakes](https://www.washingtonpost.com/world/2024/04/23/canada-immigration-international-students/)<!-- HN:40138533:end -->
+* [40138533](https://news.social-protocols.org/stats?id=40138533) #24 16 points 11 comments -> [Canada bet big on immigration. Now it's hitting the brakes](https://www.washingtonpost.com/world/2024/04/23/canada-immigration-international-students/)<!-- HN:40138533:end --><!-- HN:40103416:start -->
+* [40103416](https://news.social-protocols.org/stats?id=40103416) #13 30 points 1 comments -> [Coroutines and Effects](https://without.boats/blog/coroutines-and-effects/)<!-- HN:40103416:end -->
