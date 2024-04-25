@@ -1752,4 +1752,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40150949](https://news.social-protocols.org/stats?id=40150949) #5 8 points 1 comments -> [The Failure of Passive Recruiting: Recruiters](https://mokhtaradam.substack.com/p/the-failure-of-passive-recruiting)<!-- HN:40150949:end -->
 #### **Thursday, April 25, 2024**
 <!-- HN:40149093:start -->
-* [40149093](https://news.social-protocols.org/stats?id=40149093) #25 64 points 40 comments -> [Pixiv Blocks Adult Content, but Only for US and UK Users](https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/)<!-- HN:40149093:end -->
+* [40149093](https://news.social-protocols.org/stats?id=40149093) #25 64 points 40 comments -> [Pixiv Blocks Adult Content, but Only for US and UK Users](https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/)<!-- HN:40149093:end --><!-- HN:40151256:start -->
+* [40151256](https://news.social-protocols.org/stats?id=40151256) #30 3 points 0 comments -> [Why the AI Industry's Thirst for New Data Centers Can't Be Satisfied](https://www.wsj.com/tech/ai/why-the-ai-industrys-thirst-for-new-data-centers-cant-be-satisfied-93c7eff5)<!-- HN:40151256:end -->
