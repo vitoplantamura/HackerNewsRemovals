@@ -1750,3 +1750,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40148628](https://news.social-protocols.org/stats?id=40148628) #15 10 points 7 comments -> [Zap Energy achieves 37M-degree temperatures in a compact fusion device](https://www.zapenergy.com//news/37-million-degree-temperatures-in-a-compact-device)<!-- HN:40148628:end --><!-- HN:40149136:start -->
 * [40149136](https://news.social-protocols.org/stats?id=40149136) #1 341 points 2 comments -> [IBM to Acquire HashiCorp, Inc for $6.4 billion](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)<!-- HN:40149136:end --><!-- HN:40150949:start -->
 * [40150949](https://news.social-protocols.org/stats?id=40150949) #5 8 points 1 comments -> [The Failure of Passive Recruiting: Recruiters](https://mokhtaradam.substack.com/p/the-failure-of-passive-recruiting)<!-- HN:40150949:end -->
+#### **Thursday, April 25, 2024**
+<!-- HN:40149093:start -->
+* [40149093](https://news.social-protocols.org/stats?id=40149093) #25 64 points 40 comments -> [Pixiv Blocks Adult Content, but Only for US and UK Users](https://www.404media.co/pixiv-manga-site-blocks-adult-content-but-only-for-us-and-uk-users/)<!-- HN:40149093:end -->
