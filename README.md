@@ -1773,4 +1773,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40163578](https://news.social-protocols.org/stats?id=40163578) #30 8 points 1 comments -> [U.S. "Know Your Customer" Proposal Will Put an End to Anonymous Cloud Users](https://torrentfreak.com/u-s-know-your-customer-proposal-will-put-an-end-to-anonymous-cloud-users-240425/)<!-- HN:40163578:end -->
 #### **Friday, April 26, 2024**
 <!-- HN:40164367:start -->
-* [40164367](https://news.social-protocols.org/stats?id=40164367) #29 8 points 3 comments -> [Remove the AI bloatware from Logitech's mouse driver](https://robservatory.com/remove-the-ai-bloatware-from-logitechs-mouse-driver/)<!-- HN:40164367:end -->
+* [40164367](https://news.social-protocols.org/stats?id=40164367) #29 8 points 3 comments -> [Remove the AI bloatware from Logitech's mouse driver](https://robservatory.com/remove-the-ai-bloatware-from-logitechs-mouse-driver/)<!-- HN:40164367:end --><!-- HN:40164462:start -->
+* [40164462](https://news.social-protocols.org/stats?id=40164462) #30 -> [In order to better compete at GenAI, Google has fired the Python language team](https://twitter.com/revhowardarson/status/1783581152403767389)<!-- HN:40164462:end -->
