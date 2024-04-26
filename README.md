@@ -1771,3 +1771,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40162930](https://news.social-protocols.org/stats?id=40162930) #12 20 points 42 comments -> [Cease labeling recursion as challenging for students](https://mabelcor.substack.com/p/cease-labeling-recursion-as-challenging)<!-- HN:40162930:end --><!-- HN:40158945:start -->
 * [40158945](https://news.social-protocols.org/stats?id=40158945) #27 20 points 1 comments -> [Llamafile's Progress, Four Months In](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)<!-- HN:40158945:end --><!-- HN:40163578:start -->
 * [40163578](https://news.social-protocols.org/stats?id=40163578) #30 8 points 1 comments -> [U.S. "Know Your Customer" Proposal Will Put an End to Anonymous Cloud Users](https://torrentfreak.com/u-s-know-your-customer-proposal-will-put-an-end-to-anonymous-cloud-users-240425/)<!-- HN:40163578:end -->
+#### **Friday, April 26, 2024**
+<!-- HN:40164367:start -->
+* [40164367](https://news.social-protocols.org/stats?id=40164367) #29 8 points 3 comments -> [Remove the AI bloatware from Logitech's mouse driver](https://robservatory.com/remove-the-ai-bloatware-from-logitechs-mouse-driver/)<!-- HN:40164367:end -->
