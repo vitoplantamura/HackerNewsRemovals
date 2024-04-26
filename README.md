@@ -1774,4 +1774,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, April 26, 2024**
 <!-- HN:40164367:start -->
 * [40164367](https://news.social-protocols.org/stats?id=40164367) #29 8 points 3 comments -> [Remove the AI bloatware from Logitech's mouse driver](https://robservatory.com/remove-the-ai-bloatware-from-logitechs-mouse-driver/)<!-- HN:40164367:end --><!-- HN:40164462:start -->
-* [40164462](https://news.social-protocols.org/stats?id=40164462) #30 -> [In order to better compete at GenAI, Google has fired the Python language team](https://twitter.com/revhowardarson/status/1783581152403767389)<!-- HN:40164462:end -->
+* [40164462](https://news.social-protocols.org/stats?id=40164462) #30 -> [In order to better compete at GenAI, Google has fired the Python language team](https://twitter.com/revhowardarson/status/1783581152403767389)<!-- HN:40164462:end --><!-- HN:40162610:start -->
+* [40162610](https://news.social-protocols.org/stats?id=40162610) #28 13 points 0 comments -> [Show HN: From SERP to LLM-Ready Data Markdown in Seconds with Firesearch](https://docs.firecrawl.dev/articles/search-announcement)<!-- HN:40162610:end -->
