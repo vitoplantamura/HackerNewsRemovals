@@ -1790,3 +1790,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40173965](https://news.social-protocols.org/stats?id=40173965) #30 6 points 0 comments -> [Half of Russia's payments to China made through middlemen](https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/)<!-- HN:40173965:end --><!-- HN:40169992:start -->
 * [40169992](https://news.social-protocols.org/stats?id=40169992) #27 16 points 1 comments -> [Postgres Bloat Minimization](https://supabase.com/blog/postgres-bloat)<!-- HN:40169992:end --><!-- HN:40175158:start -->
 * [40175158](https://news.social-protocols.org/stats?id=40175158) #26 6 points 0 comments -> [Apple's OpenAI Talks Intensify as It Seeks to Add AI Features](https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features)<!-- HN:40175158:end -->
+#### **Saturday, April 27, 2024**
+<!-- HN:40174747:start -->
+* [40174747](https://news.social-protocols.org/stats?id=40174747) #13 14 points 2 comments -> [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)<!-- HN:40174747:end -->
