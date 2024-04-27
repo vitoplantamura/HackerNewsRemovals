@@ -1792,4 +1792,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40175158](https://news.social-protocols.org/stats?id=40175158) #26 6 points 0 comments -> [Apple's OpenAI Talks Intensify as It Seeks to Add AI Features](https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features)<!-- HN:40175158:end -->
 #### **Saturday, April 27, 2024**
 <!-- HN:40174747:start -->
-* [40174747](https://news.social-protocols.org/stats?id=40174747) #13 14 points 2 comments -> [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)<!-- HN:40174747:end -->
+* [40174747](https://news.social-protocols.org/stats?id=40174747) #13 14 points 2 comments -> [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)<!-- HN:40174747:end --><!-- HN:40143800:start -->
+* [40143800](https://news.social-protocols.org/stats?id=40143800) #15 131 points 27 comments -> [Removing Reflections from RAW Photos](https://arxiv.org/abs/2404.14414)<!-- HN:40143800:end -->
