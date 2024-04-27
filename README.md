@@ -1793,4 +1793,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 27, 2024**
 <!-- HN:40174747:start -->
 * [40174747](https://news.social-protocols.org/stats?id=40174747) #13 14 points 2 comments -> [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)<!-- HN:40174747:end --><!-- HN:40143800:start -->
-* [40143800](https://news.social-protocols.org/stats?id=40143800) #15 131 points 27 comments -> [Removing Reflections from RAW Photos](https://arxiv.org/abs/2404.14414)<!-- HN:40143800:end -->
+* [40143800](https://news.social-protocols.org/stats?id=40143800) #15 131 points 27 comments -> [Removing Reflections from RAW Photos](https://arxiv.org/abs/2404.14414)<!-- HN:40143800:end --><!-- HN:40175893:start -->
+* [40175893](https://news.social-protocols.org/stats?id=40175893) #24 4 points 1 comments -> [German ministers quizzed over nuclear phase out 'deception'](https://www.dw.com/en/german-ministers-quizzed-over-nuclear-phase-out-deception/a-68931166)<!-- HN:40175893:end -->
