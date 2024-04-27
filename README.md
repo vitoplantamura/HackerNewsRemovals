@@ -1801,4 +1801,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40176625](https://news.social-protocols.org/stats?id=40176625) #2 10 points 9 comments -> [Show HN: Free AI-Powered Resume and Cover Letter Maker](https://www.bange.io/)<!-- HN:40176625:end --><!-- HN:40177142:start -->
 * [40177142](https://news.social-protocols.org/stats?id=40177142) #1 21 points 6 comments -> [Getting worried about bird flu](https://coredump3.blogspot.com/2024/04/im-getting-worried-about-bird-flu.html)<!-- HN:40177142:end --><!-- HN:40177562:start -->
 * [40177562](https://news.social-protocols.org/stats?id=40177562) #1 3 points 0 comments -> [Rust: Maybe Not for Rapid Iteration](https://dbohdan.com/rust-rapid-iteration)<!-- HN:40177562:end --><!-- HN:40178121:start -->
-* [40178121](https://news.social-protocols.org/stats?id=40178121) #4 -> [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)<!-- HN:40178121:end -->
+* [40178121](https://news.social-protocols.org/stats?id=40178121) #4 -> [I Quit My Job](https://ashlybq.substack.com/p/i-quit-my-job)<!-- HN:40178121:end --><!-- HN:40179002:start -->
+* [40179002](https://news.social-protocols.org/stats?id=40179002) #27 8 points 0 comments -> [A new rails HostedGPT is out. What should come next? [video]](https://www.youtube.com/watch?v=hXpNEz-slkU)<!-- HN:40179002:end -->
