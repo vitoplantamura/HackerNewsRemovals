@@ -1813,3 +1813,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40183125](https://news.social-protocols.org/stats?id=40183125) #8 31 points 9 comments -> [Everything Google's Python team were responsible for](https://simonwillison.net/2024/Apr/27/everything-googles-python-team-were-responsible-for/)<!-- HN:40183125:end --><!-- HN:40151650:start -->
 * [40151650](https://news.social-protocols.org/stats?id=40151650) #13 14 points 0 comments -> [Twilight of the Age of Steam, Part 2: Petroleum and After](https://technicshistory.com/2024/04/25/twilight-of-the-age-of-steam-part-2-petroleum-and-after/)<!-- HN:40151650:end --><!-- HN:40183879:start -->
 * [40183879](https://news.social-protocols.org/stats?id=40183879) #22 3 points 1 comments -> [Daily showers could be harmful for skin health, some experts claim](https://www.foxnews.com/health/daily-showers-could-be-harmful-skin-health-experts-claim)<!-- HN:40183879:end -->
+#### **Sunday, April 28, 2024**
+<!-- HN:40184966:start -->
+* [40184966](https://news.social-protocols.org/stats?id=40184966) #6 10 points 6 comments -> [Tsinghua Uni just released Vidu, a text-to-video model as good as Sora](https://www.maginative.com/article/china-unveils-vidu-a-powerful-text-to-video-generator/)<!-- HN:40184966:end -->
