@@ -1816,4 +1816,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 28, 2024**
 <!-- HN:40184966:start -->
 * [40184966](https://news.social-protocols.org/stats?id=40184966) #6 10 points 6 comments -> [Tsinghua Uni just released Vidu, a text-to-video model as good as Sora](https://www.maginative.com/article/china-unveils-vidu-a-powerful-text-to-video-generator/)<!-- HN:40184966:end --><!-- HN:40185250:start -->
-* [40185250](https://news.social-protocols.org/stats?id=40185250) #18 16 points 11 comments -> [Why I Am Now Relaxed About Releasing Buggy Software](https://mamddoh.wordpress.com/2024/04/28/why-i-am-now-relaxed-about-releasing-buggy-software/)<!-- HN:40185250:end -->
+* [40185250](https://news.social-protocols.org/stats?id=40185250) #18 16 points 11 comments -> [Why I Am Now Relaxed About Releasing Buggy Software](https://mamddoh.wordpress.com/2024/04/28/why-i-am-now-relaxed-about-releasing-buggy-software/)<!-- HN:40185250:end --><!-- HN:40186347:start -->
+* [40186347](https://news.social-protocols.org/stats?id=40186347) #6 6 points 2 comments -> [How AI Is Changing Everything and the World](https://levelupeduc.wordpress.com/2024/04/28/how-ai-is-changing-everything-the-world/)<!-- HN:40186347:end -->
