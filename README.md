@@ -1829,4 +1829,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40192285](https://news.social-protocols.org/stats?id=40192285) #12 5 points 2 comments -> [Want to Use Your iPhone for Many Years? Learn How to Maintain Your Battery](https://pqrmedia.com/2024/04/08/want-to-use-your-iphone-for-many-years-learn-how-to-maintain-your-batterys-health/)<!-- HN:40192285:end -->
 #### **Monday, April 29, 2024**
 <!-- HN:40193189:start -->
-* [40193189](https://news.social-protocols.org/stats?id=40193189) #15 23 points 9 comments -> [Dubai's Planned $32B Mega Airport Project](https://tamernoah.substack.com/p/dubais-planned-32-billion-mega-airport)<!-- HN:40193189:end -->
+* [40193189](https://news.social-protocols.org/stats?id=40193189) #15 23 points 9 comments -> [Dubai's Planned $32B Mega Airport Project](https://tamernoah.substack.com/p/dubais-planned-32-billion-mega-airport)<!-- HN:40193189:end --><!-- HN:40193948:start -->
+* [40193948](https://news.social-protocols.org/stats?id=40193948) #1 22 points 3 comments -> [Businesses Are Getting People Killed](https://darrellowens.substack.com/p/businesses-are-getting-their-customers)<!-- HN:40193948:end -->
