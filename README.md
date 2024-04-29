@@ -1830,4 +1830,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 29, 2024**
 <!-- HN:40193189:start -->
 * [40193189](https://news.social-protocols.org/stats?id=40193189) #15 23 points 9 comments -> [Dubai's Planned $32B Mega Airport Project](https://tamernoah.substack.com/p/dubais-planned-32-billion-mega-airport)<!-- HN:40193189:end --><!-- HN:40193948:start -->
-* [40193948](https://news.social-protocols.org/stats?id=40193948) #3 51 points 19 comments -> [Businesses Are Getting People Killed](https://darrellowens.substack.com/p/businesses-are-getting-their-customers)<!-- HN:40193948:end -->
+* [40193948](https://news.social-protocols.org/stats?id=40193948) #3 51 points 19 comments -> [Businesses Are Getting People Killed](https://darrellowens.substack.com/p/businesses-are-getting-their-customers)<!-- HN:40193948:end --><!-- HN:40189842:start -->
+* [40189842](https://news.social-protocols.org/stats?id=40189842) #19 42 points 32 comments -> [Trial of the effects of kefir on behaviour, sleep and the microbiome in ADHD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10711914/)<!-- HN:40189842:end -->
