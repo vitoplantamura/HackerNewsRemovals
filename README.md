@@ -1827,3 +1827,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40190046](https://news.social-protocols.org/stats?id=40190046) #12 5 points 6 comments -> ["Jewish Mathematics"?](https://mathenchant.wordpress.com/2024/04/17/jewish-mathematics/)<!-- HN:40190046:end --><!-- HN:40191227:start -->
 * [40191227](https://news.social-protocols.org/stats?id=40191227) #27 10 points 1 comments -> [Greens Engaged in Fraud to Deceive Ministers and Push German Nuclear Phase-Out](https://dailysceptic.org/2024/04/27/new-document-release-reveals-greens-engaging-in-fraud-to-deceive-ministers-and-push-german-nuclear-phase-out/)<!-- HN:40191227:end --><!-- HN:40192285:start -->
 * [40192285](https://news.social-protocols.org/stats?id=40192285) #12 5 points 2 comments -> [Want to Use Your iPhone for Many Years? Learn How to Maintain Your Battery](https://pqrmedia.com/2024/04/08/want-to-use-your-iphone-for-many-years-learn-how-to-maintain-your-batterys-health/)<!-- HN:40192285:end -->
+#### **Monday, April 29, 2024**
+<!-- HN:40193189:start -->
+* [40193189](https://news.social-protocols.org/stats?id=40193189) #15 23 points 9 comments -> [Dubai's Planned $32B Mega Airport Project](https://tamernoah.substack.com/p/dubais-planned-32-billion-mega-airport)<!-- HN:40193189:end -->
