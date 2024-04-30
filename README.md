@@ -1856,4 +1856,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40204546](https://news.social-protocols.org/stats?id=40204546) #30 12 points 1 comments -> [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)<!-- HN:40204546:end -->
 #### **Tuesday, April 30, 2024**
 <!-- HN:40203670:start -->
-* [40203670](https://news.social-protocols.org/stats?id=40203670) #30 26 points 18 comments -> [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)<!-- HN:40203670:end -->
+* [40203670](https://news.social-protocols.org/stats?id=40203670) #30 26 points 18 comments -> [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)<!-- HN:40203670:end --><!-- HN:40206215:start -->
+* [40206215](https://news.social-protocols.org/stats?id=40206215) #7 4 points 0 comments -> [The Weeknd Donates 18M Loaves of Bread to Gaza](https://supporthiphop.com/hip-hop-news/the-weeknd-pledges-to-donates-18-million-loaves-of-bread-to-gaza/)<!-- HN:40206215:end -->
