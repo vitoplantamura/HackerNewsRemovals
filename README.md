@@ -1790,8 +1790,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40169992](https://news.social-protocols.org/stats?id=40169992) #27 16 points 1 comments -> [Postgres Bloat Minimization](https://supabase.com/blog/postgres-bloat)<!-- HN:40169992:end --><!-- HN:40175158:start -->
 * [40175158](https://news.social-protocols.org/stats?id=40175158) #26 6 points 0 comments -> [Apple's OpenAI Talks Intensify as It Seeks to Add AI Features](https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features)<!-- HN:40175158:end -->
 #### **Saturday, April 27, 2024**
-<!-- HN:40174747:start -->
-* [40174747](https://news.social-protocols.org/stats?id=40174747) #13 14 points 2 comments -> [The Landscape of Machine Learning on ArXiv](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html)<!-- HN:40174747:end --><!-- HN:40143800:start -->
+<!-- HN:40143800:start -->
 * [40143800](https://news.social-protocols.org/stats?id=40143800) #15 131 points 27 comments -> [Removing Reflections from RAW Photos](https://arxiv.org/abs/2404.14414)<!-- HN:40143800:end --><!-- HN:40175893:start -->
 * [40175893](https://news.social-protocols.org/stats?id=40175893) #24 4 points 1 comments -> [German ministers quizzed over nuclear phase out 'deception'](https://www.dw.com/en/german-ministers-quizzed-over-nuclear-phase-out-deception/a-68931166)<!-- HN:40175893:end --><!-- HN:40175800:start -->
 * [40175800](https://news.social-protocols.org/stats?id=40175800) #22 17 points 6 comments -> [CATL's 1,000-km LFP EV battery super-charges at 1 km/SEC](https://newatlas.com/automotive/catl-shenxing-plus-1000-km-lfp-battery/)<!-- HN:40175800:end --><!-- HN:40169863:start -->
