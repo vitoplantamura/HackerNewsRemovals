@@ -1857,4 +1857,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 30, 2024**
 <!-- HN:40203670:start -->
 * [40203670](https://news.social-protocols.org/stats?id=40203670) #30 26 points 18 comments -> [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)<!-- HN:40203670:end --><!-- HN:40206215:start -->
-* [40206215](https://news.social-protocols.org/stats?id=40206215) #7 4 points 0 comments -> [The Weeknd Donates 18M Loaves of Bread to Gaza](https://supporthiphop.com/hip-hop-news/the-weeknd-pledges-to-donates-18-million-loaves-of-bread-to-gaza/)<!-- HN:40206215:end -->
+* [40206215](https://news.social-protocols.org/stats?id=40206215) #7 4 points 0 comments -> [The Weeknd Donates 18M Loaves of Bread to Gaza](https://supporthiphop.com/hip-hop-news/the-weeknd-pledges-to-donates-18-million-loaves-of-bread-to-gaza/)<!-- HN:40206215:end --><!-- HN:40206008:start -->
+* [40206008](https://news.social-protocols.org/stats?id=40206008) #24 19 points 1 comments -> [Farewell MFJ](https://hackaday.com/2024/04/29/farewell-mfj/)<!-- HN:40206008:end -->
