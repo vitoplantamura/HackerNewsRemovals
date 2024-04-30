@@ -1854,3 +1854,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40202183](https://news.social-protocols.org/stats?id=40202183) #23 120 points 142 comments -> [30% of Children Ages 5-7 Are on TikTok](https://www.honest-broker.com/p/30-of-children-ages-5-7-are-on-tiktok)<!-- HN:40202183:end --><!-- HN:40204087:start -->
 * [40204087](https://news.social-protocols.org/stats?id=40204087) #6 -> [FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data](https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/)<!-- HN:40204087:end --><!-- HN:40204546:start -->
 * [40204546](https://news.social-protocols.org/stats?id=40204546) #30 12 points 1 comments -> [Is the Gnome Foundation Going to Go Bankrupt in 1 Year?](https://lunduke.locals.com/post/5572069/is-the-gnome-foundation-going-to-go-bankrupt-in-1-year)<!-- HN:40204546:end -->
+#### **Tuesday, April 30, 2024**
+<!-- HN:40203670:start -->
+* [40203670](https://news.social-protocols.org/stats?id=40203670) #30 26 points 18 comments -> [Questioning the Conventional Wisdom on Liability and Open Source Software](https://www.lawfaremedia.org/article/questioning-the-conventional-wisdom-on-liability-and-open-source-software)<!-- HN:40203670:end -->
