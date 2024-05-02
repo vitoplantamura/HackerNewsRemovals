@@ -1926,3 +1926,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40228605](https://news.social-protocols.org/stats?id=40228605) #4 11 points 12 comments -> [2markdown – Transform Websites into Markdown](https://2markdown.com/)<!-- HN:40228605:end --><!-- HN:40225674:start -->
 * [40225674](https://news.social-protocols.org/stats?id=40225674) #29 13 points 1 comments -> [Paul Auster, American author of The New York Trilogy, dies aged 77](https://www.theguardian.com/books/2024/may/01/paul-auster-dies-aged-77-death-american-author-new-york-trilogy)<!-- HN:40225674:end --><!-- HN:40230790:start -->
 * [40230790](https://news.social-protocols.org/stats?id=40230790) #9 14 points 2 comments -> [Whistleblower Josh Dean of Boeing Supplier Spirit AeroSystems Has Died](https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/)<!-- HN:40230790:end -->
+#### **Thursday, May 2, 2024**
+<!-- HN:40226094:start -->
+* [40226094](https://news.social-protocols.org/stats?id=40226094) #26 23 points 1 comments -> [Presence of gas on exoplanet 'only produced by life'](https://www.earth.com/news/planet-k2-18-b-studied-again-confirm-presence-dms-gas-only-produced-by-life/)<!-- HN:40226094:end -->
