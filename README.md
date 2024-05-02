@@ -1927,4 +1927,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40225674](https://news.social-protocols.org/stats?id=40225674) #29 13 points 1 comments -> [Paul Auster, American author of The New York Trilogy, dies aged 77](https://www.theguardian.com/books/2024/may/01/paul-auster-dies-aged-77-death-american-author-new-york-trilogy)<!-- HN:40225674:end -->
 #### **Thursday, May 2, 2024**
 <!-- HN:40226094:start -->
-* [40226094](https://news.social-protocols.org/stats?id=40226094) #26 23 points 1 comments -> [Presence of gas on exoplanet 'only produced by life'](https://www.earth.com/news/planet-k2-18-b-studied-again-confirm-presence-dms-gas-only-produced-by-life/)<!-- HN:40226094:end -->
+* [40226094](https://news.social-protocols.org/stats?id=40226094) #26 23 points 1 comments -> [Presence of gas on exoplanet 'only produced by life'](https://www.earth.com/news/planet-k2-18-b-studied-again-confirm-presence-dms-gas-only-produced-by-life/)<!-- HN:40226094:end --><!-- HN:40228963:start -->
+* [40228963](https://news.social-protocols.org/stats?id=40228963) #13 18 points 0 comments -> [Postgres Storage as a Transaction Journal](https://neon.tech/blog/what-you-get-when-you-think-of-postgres-storage-as-a-transaction-journal)<!-- HN:40228963:end -->
