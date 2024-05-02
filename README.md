@@ -1928,4 +1928,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, May 2, 2024**
 <!-- HN:40226094:start -->
 * [40226094](https://news.social-protocols.org/stats?id=40226094) #26 23 points 1 comments -> [Presence of gas on exoplanet 'only produced by life'](https://www.earth.com/news/planet-k2-18-b-studied-again-confirm-presence-dms-gas-only-produced-by-life/)<!-- HN:40226094:end --><!-- HN:40228963:start -->
-* [40228963](https://news.social-protocols.org/stats?id=40228963) #13 18 points 0 comments -> [Postgres Storage as a Transaction Journal](https://neon.tech/blog/what-you-get-when-you-think-of-postgres-storage-as-a-transaction-journal)<!-- HN:40228963:end -->
+* [40228963](https://news.social-protocols.org/stats?id=40228963) #13 18 points 0 comments -> [Postgres Storage as a Transaction Journal](https://neon.tech/blog/what-you-get-when-you-think-of-postgres-storage-as-a-transaction-journal)<!-- HN:40228963:end --><!-- HN:40230861:start -->
+* [40230861](https://news.social-protocols.org/stats?id=40230861) #25 6 points 4 comments -> [Judge in Seattle sentences Changpeng Zhao, crypto mogul, to 4 months in prison](https://www.seattletimes.com/seattle-news/law-justice/judge-in-seattle-sentences-changpeng-zhao-crypto-mogul-to-4-months-in-prison/)<!-- HN:40230861:end -->
