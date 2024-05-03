@@ -1959,7 +1959,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, May 3, 2024**
 <!-- HN:40242303:start -->
 * [40242303](https://news.social-protocols.org/stats?id=40242303) #25 15 points 17 comments -> [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)<!-- HN:40242303:end --><!-- HN:40243106:start -->
-* [40243106](https://news.social-protocols.org/stats?id=40243106) #24 3 points 3 comments -> [Stdx – The Missing Batteries of Rust](https://github.com/brson/stdx)<!-- HN:40243106:end --><!-- HN:40244165:start -->
-* [40244165](https://news.social-protocols.org/stats?id=40244165) #17 35 points 41 comments -> ['I will never go back': Ontario doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)<!-- HN:40244165:end --><!-- HN:40246873:start -->
+* [40243106](https://news.social-protocols.org/stats?id=40243106) #24 3 points 3 comments -> [Stdx – The Missing Batteries of Rust](https://github.com/brson/stdx)<!-- HN:40243106:end --><!-- HN:40246873:start -->
 * [40246873](https://news.social-protocols.org/stats?id=40246873) #10 16 points 6 comments -> [We and our 838 partners use cookies](https://www.euronews.com/)<!-- HN:40246873:end --><!-- HN:40243895:start -->
 * [40243895](https://news.social-protocols.org/stats?id=40243895) #16 27 points 5 comments -> [Thirteen year old singularity bug fixed](https://github.com/tgstation/tgstation/pull/83005)<!-- HN:40243895:end -->
