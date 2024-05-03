@@ -1958,4 +1958,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40241734](https://news.social-protocols.org/stats?id=40241734) #12 200 points 51 comments -> [Second Boeing Whistleblower Dies in Less Than Two Months](https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html)<!-- HN:40241734:end -->
 #### **Friday, May 3, 2024**
 <!-- HN:40242303:start -->
-* [40242303](https://news.social-protocols.org/stats?id=40242303) #25 15 points 17 comments -> [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)<!-- HN:40242303:end -->
+* [40242303](https://news.social-protocols.org/stats?id=40242303) #25 15 points 17 comments -> [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)<!-- HN:40242303:end --><!-- HN:40243106:start -->
+* [40243106](https://news.social-protocols.org/stats?id=40243106) #24 3 points 3 comments -> [Stdx – The Missing Batteries of Rust](https://github.com/brson/stdx)<!-- HN:40243106:end -->
