@@ -1973,4 +1973,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 4, 2024**
 <!-- HN:40252533:start -->
 * [40252533](https://news.social-protocols.org/stats?id=40252533) #27 4 points 0 comments -> [Trivium](https://leahneukirchen.org/trivium/)<!-- HN:40252533:end --><!-- HN:40252481:start -->
-* [40252481](https://news.social-protocols.org/stats?id=40252481) #27 14 points 5 comments -> [Wine 9.8 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.8)<!-- HN:40252481:end -->
+* [40252481](https://news.social-protocols.org/stats?id=40252481) #27 14 points 5 comments -> [Wine 9.8 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.8)<!-- HN:40252481:end --><!-- HN:40253773:start -->
+* [40253773](https://news.social-protocols.org/stats?id=40253773) #6 48 points 21 comments -> [Read the wild email Tesla is sending to suppliers amid Supercharger chaos](https://electrek.co/2024/05/03/read-the-wild-email-tesla-is-sending-to-suppliers-amid-supercharger-chaos/)<!-- HN:40253773:end -->
