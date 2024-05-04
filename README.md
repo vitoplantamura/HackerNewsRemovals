@@ -1970,3 +1970,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40252107](https://news.social-protocols.org/stats?id=40252107) #25 13 points 11 comments -> [Why is Firefox called Firefox?](https://lunduke.locals.com/post/5577706/why-is-firefox-called-firefox)<!-- HN:40252107:end --><!-- HN:40253079:start -->
 * [40253079](https://news.social-protocols.org/stats?id=40253079) #29 12 points 0 comments -> [Snowflake's tech is not worth $50B dollars](https://old.reddit.com/r/wallstreetbets/comments/1cirikp/snowflake_isnt_worth_50_billion_dollars/)<!-- HN:40253079:end --><!-- HN:40253352:start -->
 * [40253352](https://news.social-protocols.org/stats?id=40253352) #4 14 points 4 comments -> [Texas A&M Qatar campus to close by 2028](https://www.qatar.tamu.edu/news-and-events/news/2024/02/09/texas-a-and-m-qatar-campus-to-close-by-2028/)<!-- HN:40253352:end -->
+#### **Saturday, May 4, 2024**
+<!-- HN:40252533:start -->
+* [40252533](https://news.social-protocols.org/stats?id=40252533) #27 4 points 0 comments -> [Trivium](https://leahneukirchen.org/trivium/)<!-- HN:40252533:end -->
