@@ -1972,4 +1972,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40253352](https://news.social-protocols.org/stats?id=40253352) #4 14 points 4 comments -> [Texas A&M Qatar campus to close by 2028](https://www.qatar.tamu.edu/news-and-events/news/2024/02/09/texas-a-and-m-qatar-campus-to-close-by-2028/)<!-- HN:40253352:end -->
 #### **Saturday, May 4, 2024**
 <!-- HN:40252533:start -->
-* [40252533](https://news.social-protocols.org/stats?id=40252533) #27 4 points 0 comments -> [Trivium](https://leahneukirchen.org/trivium/)<!-- HN:40252533:end -->
+* [40252533](https://news.social-protocols.org/stats?id=40252533) #27 4 points 0 comments -> [Trivium](https://leahneukirchen.org/trivium/)<!-- HN:40252533:end --><!-- HN:40252481:start -->
+* [40252481](https://news.social-protocols.org/stats?id=40252481) #27 14 points 5 comments -> [Wine 9.8 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.8)<!-- HN:40252481:end -->
