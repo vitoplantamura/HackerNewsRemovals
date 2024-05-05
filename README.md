@@ -2003,3 +2003,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40260143](https://news.social-protocols.org/stats?id=40260143) #16 20 points 0 comments -> [Near-collapse of the geomagnetic field may have contributed to life on Earth](https://www.nature.com/articles/s43247-024-01360-4)<!-- HN:40260143:end --><!-- HN:40260394:start -->
 * [40260394](https://news.social-protocols.org/stats?id=40260394) #16 9 points 0 comments -> [New mRNA cancer vaccine triggers fierce immune response to fight brain tumor](https://medicalxpress.com/news/2024-05-mrna-cancer-vaccine-triggers-fierce.html)<!-- HN:40260394:end --><!-- HN:40260213:start -->
 * [40260213](https://news.social-protocols.org/stats?id=40260213) #19 33 points 6 comments -> [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Dairy Farm Worker](https://www.nejm.org/doi/full/10.1056/NEJMc2405371)<!-- HN:40260213:end -->
+#### **Sunday, May 5, 2024**
+<!-- HN:40260935:start -->
+* [40260935](https://news.social-protocols.org/stats?id=40260935) #23 16 points 4 comments -> [When a politician sues a blog to unmask its anonymous commenter](https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter)<!-- HN:40260935:end -->
