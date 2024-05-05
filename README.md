@@ -2005,4 +2005,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40260213](https://news.social-protocols.org/stats?id=40260213) #19 33 points 6 comments -> [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Dairy Farm Worker](https://www.nejm.org/doi/full/10.1056/NEJMc2405371)<!-- HN:40260213:end -->
 #### **Sunday, May 5, 2024**
 <!-- HN:40260935:start -->
-* [40260935](https://news.social-protocols.org/stats?id=40260935) #23 16 points 4 comments -> [When a politician sues a blog to unmask its anonymous commenter](https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter)<!-- HN:40260935:end -->
+* [40260935](https://news.social-protocols.org/stats?id=40260935) #23 16 points 4 comments -> [When a politician sues a blog to unmask its anonymous commenter](https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter)<!-- HN:40260935:end --><!-- HN:40259680:start -->
+* [40259680](https://news.social-protocols.org/stats?id=40259680) #23 73 points 65 comments -> [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)<!-- HN:40259680:end -->
