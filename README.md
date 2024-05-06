@@ -2035,4 +2035,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 6, 2024**
 <!-- HN:40270161:start -->
 * [40270161](https://news.social-protocols.org/stats?id=40270161) #14 9 points 4 comments -> [Shibboleth](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests)<!-- HN:40270161:end --><!-- HN:40270029:start -->
-* [40270029](https://news.social-protocols.org/stats?id=40270029) #12 7 points 1 comments -> [Habeck files: German government deception about the nuclear phase-out](https://www.planet-today.com/2024/04/the-secret-habeck-files-how-german.html)<!-- HN:40270029:end -->
+* [40270029](https://news.social-protocols.org/stats?id=40270029) #12 7 points 1 comments -> [Habeck files: German government deception about the nuclear phase-out](https://www.planet-today.com/2024/04/the-secret-habeck-files-how-german.html)<!-- HN:40270029:end --><!-- HN:40270911:start -->
+* [40270911](https://news.social-protocols.org/stats?id=40270911) #10 5 points 3 comments -> [Show HN: CodeCopilot AI – Local Llama3,Optimize Your Dev Workflows,Happy Coding](https://codecopilotai.com)<!-- HN:40270911:end -->
