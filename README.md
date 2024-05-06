@@ -2034,4 +2034,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40269480](https://news.social-protocols.org/stats?id=40269480) #11 70 points 35 comments -> [The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype](https://garymarcus.substack.com/p/the-sam-altman-playbook)<!-- HN:40269480:end -->
 #### **Monday, May 6, 2024**
 <!-- HN:40270161:start -->
-* [40270161](https://news.social-protocols.org/stats?id=40270161) #14 9 points 4 comments -> [Shibboleth](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests)<!-- HN:40270161:end -->
+* [40270161](https://news.social-protocols.org/stats?id=40270161) #14 9 points 4 comments -> [Shibboleth](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests)<!-- HN:40270161:end --><!-- HN:40270029:start -->
+* [40270029](https://news.social-protocols.org/stats?id=40270029) #12 7 points 1 comments -> [Habeck files: German government deception about the nuclear phase-out](https://www.planet-today.com/2024/04/the-secret-habeck-files-how-german.html)<!-- HN:40270029:end -->
