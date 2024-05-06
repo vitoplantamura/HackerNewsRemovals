@@ -2032,3 +2032,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40267473](https://news.social-protocols.org/stats?id=40267473) #21 21 points 0 comments -> [German government: Cyberattacks originate from Russian military intelligence](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2024/05/schutzmassnahmen-cyberangriffe.html)<!-- HN:40267473:end --><!-- HN:40268090:start -->
 * [40268090](https://news.social-protocols.org/stats?id=40268090) #8 7 points 1 comments -> [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://crashoverride.com/blog/c-isnt-a-hangover-rust-isnt-a-hangover-cure)<!-- HN:40268090:end --><!-- HN:40269480:start -->
 * [40269480](https://news.social-protocols.org/stats?id=40269480) #11 70 points 35 comments -> [The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype](https://garymarcus.substack.com/p/the-sam-altman-playbook)<!-- HN:40269480:end -->
+#### **Monday, May 6, 2024**
+<!-- HN:40270161:start -->
+* [40270161](https://news.social-protocols.org/stats?id=40270161) #14 9 points 4 comments -> [Shibboleth](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests)<!-- HN:40270161:end -->
