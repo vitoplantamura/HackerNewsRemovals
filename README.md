@@ -2072,4 +2072,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40285779](https://news.social-protocols.org/stats?id=40285779) #22 15 points 1 comments -> [Apple announces new iPad Pro: OLED display, M4 chip, thinner redesigned chassis](https://9to5mac.com/2024/05/07/apple-announces-new-ipad-pro-oled-display-thinnest-apple-product-ever/)<!-- HN:40285779:end -->
 #### **Wednesday, May 8, 2024**
 <!-- HN:40282641:start -->
-* [40282641](https://news.social-protocols.org/stats?id=40282641) #28 25 points 40 comments -> [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)<!-- HN:40282641:end -->
+* [40282641](https://news.social-protocols.org/stats?id=40282641) #28 25 points 40 comments -> [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)<!-- HN:40282641:end --><!-- HN:40296518:start -->
+* [40296518](https://news.social-protocols.org/stats?id=40296518) #23 33 points 42 comments -> [Are You an Anarchist? The Answer May Surprise You by David Graeber](https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you)<!-- HN:40296518:end -->
