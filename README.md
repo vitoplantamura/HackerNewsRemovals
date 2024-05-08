@@ -2070,3 +2070,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40285832](https://news.social-protocols.org/stats?id=40285832) #29 10 points 0 comments -> [Republicans are pulling out all the stops to reverse EV adoption](https://www.theverge.com/2024/5/6/24150041/ev-epa-clean-air-emissions-lawsuit-republicans-tax-credit)<!-- HN:40285832:end --><!-- HN:40285631:start -->
 * [40285631](https://news.social-protocols.org/stats?id=40285631) #29 17 points 0 comments -> [Ukraine Says It Foiled Russian Plot to Kill Zelensky](https://www.nytimes.com/2024/05/07/world/europe/ukraine-russia-zelensky-plot.html)<!-- HN:40285631:end --><!-- HN:40285779:start -->
 * [40285779](https://news.social-protocols.org/stats?id=40285779) #22 15 points 1 comments -> [Apple announces new iPad Pro: OLED display, M4 chip, thinner redesigned chassis](https://9to5mac.com/2024/05/07/apple-announces-new-ipad-pro-oled-display-thinnest-apple-product-ever/)<!-- HN:40285779:end -->
+#### **Wednesday, May 8, 2024**
+<!-- HN:40282641:start -->
+* [40282641](https://news.social-protocols.org/stats?id=40282641) #28 25 points 40 comments -> [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)<!-- HN:40282641:end -->
