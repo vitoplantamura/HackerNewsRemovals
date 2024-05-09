@@ -2097,3 +2097,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40303476](https://news.social-protocols.org/stats?id=40303476) #16 14 points 2 comments -> [Google Is Staring Down Its First Serious Threats in Years](https://nymag.com/intelligencer/article/google-is-staring-down-its-first-serious-threats-in-years.html)<!-- HN:40303476:end --><!-- HN:40277581:start -->
 * [40277581](https://news.social-protocols.org/stats?id=40277581) #18 11 points 0 comments -> [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)<!-- HN:40277581:end --><!-- HN:40303787:start -->
 * [40303787](https://news.social-protocols.org/stats?id=40303787) #21 6 points 0 comments -> [Trailer Park Residents Are Forming Cooperatives](https://jacobin.com/2024/05/trailer-park-cooperatives-roc-usa/)<!-- HN:40303787:end -->
+#### **Thursday, May 9, 2024**
+<!-- HN:40302792:start -->
+* [40302792](https://news.social-protocols.org/stats?id=40302792) #23 73 points 92 comments -> [Stack Overflow upset over users deleting answers after OpenAI partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)<!-- HN:40302792:end -->
