@@ -292,3 +292,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40312047](https://news.social-protocols.org/stats?id=40312047) #29 6 points 1 comments -> [Does mining for batteries erase the climate benefits of EVs? No, and here's why](https://text.npr.org/1250212212)<!-- HN:40312047:end --><!-- HN:40311147:start -->
 * [40311147](https://news.social-protocols.org/stats?id=40311147) #21 4 points 0 comments -> [Gemma 2B with 10M context length](https://github.com/mustafaaljadery/gemma-2B-10M)<!-- HN:40311147:end --><!-- HN:40313054:start -->
 * [40313054](https://news.social-protocols.org/stats?id=40313054) #30 5 points 1 comments -> [Hospitals Are Refusing to Do Surgeries Unless You Pay in Full First](https://www.wsj.com/health/healthcare/hospitals-pay-before-treatment-patients-c477e2d6)<!-- HN:40313054:end -->
+#### **Friday, May 10, 2024**
+<!-- HN:40312895:start -->
+* [40312895](https://news.social-protocols.org/stats?id=40312895) #12 24 points 41 comments -> [Protobuf Editions are here: don't panic](https://buf.build/blog/protobuf-editions-are-here)<!-- HN:40312895:end -->
