@@ -295,4 +295,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, May 10, 2024**
 <!-- HN:40312895:start -->
 * [40312895](https://news.social-protocols.org/stats?id=40312895) #12 24 points 41 comments -> [Protobuf Editions are here: don't panic](https://buf.build/blog/protobuf-editions-are-here)<!-- HN:40312895:end --><!-- HN:40313976:start -->
-* [40313976](https://news.social-protocols.org/stats?id=40313976) #22 16 points 5 comments -> [Give Me Back My Sunsets! The time Instagram wrongly banned me](https://spyglass.org/wrongly-banned-by-instagram/)<!-- HN:40313976:end -->
+* [40313976](https://news.social-protocols.org/stats?id=40313976) #22 16 points 5 comments -> [Give Me Back My Sunsets! The time Instagram wrongly banned me](https://spyglass.org/wrongly-banned-by-instagram/)<!-- HN:40313976:end --><!-- HN:40314325:start -->
+* [40314325](https://news.social-protocols.org/stats?id=40314325) #23 6 points 0 comments -> [What Is the Point of Xbox?](https://www.eurogamer.net/what-is-the-point-of-xbox)<!-- HN:40314325:end -->
