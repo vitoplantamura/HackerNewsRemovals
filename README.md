@@ -294,4 +294,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40313054](https://news.social-protocols.org/stats?id=40313054) #30 5 points 1 comments -> [Hospitals Are Refusing to Do Surgeries Unless You Pay in Full First](https://www.wsj.com/health/healthcare/hospitals-pay-before-treatment-patients-c477e2d6)<!-- HN:40313054:end -->
 #### **Friday, May 10, 2024**
 <!-- HN:40312895:start -->
-* [40312895](https://news.social-protocols.org/stats?id=40312895) #12 24 points 41 comments -> [Protobuf Editions are here: don't panic](https://buf.build/blog/protobuf-editions-are-here)<!-- HN:40312895:end -->
+* [40312895](https://news.social-protocols.org/stats?id=40312895) #12 24 points 41 comments -> [Protobuf Editions are here: don't panic](https://buf.build/blog/protobuf-editions-are-here)<!-- HN:40312895:end --><!-- HN:40313976:start -->
+* [40313976](https://news.social-protocols.org/stats?id=40313976) #22 16 points 5 comments -> [Give Me Back My Sunsets! The time Instagram wrongly banned me](https://spyglass.org/wrongly-banned-by-instagram/)<!-- HN:40313976:end -->
