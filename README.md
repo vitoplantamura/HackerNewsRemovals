@@ -327,4 +327,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 11, 2024**
 <!-- HN:40324618:start -->
 * [40324618](https://news.social-protocols.org/stats?id=40324618) #26 9 points 6 comments -> [Jump Seating United Pilot Causes Drama at Southwest](https://onemileatatime.com/news/jump-seating-united-pilot-drama-southwest/)<!-- HN:40324618:end --><!-- HN:40324627:start -->
-* [40324627](https://news.social-protocols.org/stats?id=40324627) #12 12 points 1 comments -> [Apple made a terrible mistake: it told the truth](https://creativegood.com/blog/24/apple-tells-the-truth.html)<!-- HN:40324627:end -->
+* [40324627](https://news.social-protocols.org/stats?id=40324627) #12 12 points 1 comments -> [Apple made a terrible mistake: it told the truth](https://creativegood.com/blog/24/apple-tells-the-truth.html)<!-- HN:40324627:end --><!-- HN:40324715:start -->
+* [40324715](https://news.social-protocols.org/stats?id=40324715) #12 4 points 1 comments -> [Google Cloud accidentally deletes UniSuper's online account](https://www.unisuper.com.au/contact-us/outage-update)<!-- HN:40324715:end -->
