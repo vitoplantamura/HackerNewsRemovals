@@ -324,3 +324,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40322531](https://news.social-protocols.org/stats?id=40322531) #30 13 points 1 comments -> [A severe solar storm will hit Earth on this weekend](https://www.nytimes.com/2024/05/10/science/solar-storm-earth.html)<!-- HN:40322531:end --><!-- HN:40323372:start -->
 * [40323372](https://news.social-protocols.org/stats?id=40323372) #10 -> [UK Government AI Saftey Institute Launches Inspect](https://ukgovernmentbeis.github.io/inspect_ai/)<!-- HN:40323372:end --><!-- HN:40324166:start -->
 * [40324166](https://news.social-protocols.org/stats?id=40324166) #15 32 points 4 comments -> [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)<!-- HN:40324166:end -->
+#### **Saturday, May 11, 2024**
+<!-- HN:40324618:start -->
+* [40324618](https://news.social-protocols.org/stats?id=40324618) #26 9 points 6 comments -> [Jump Seating United Pilot Causes Drama at Southwest](https://onemileatatime.com/news/jump-seating-united-pilot-drama-southwest/)<!-- HN:40324618:end -->
