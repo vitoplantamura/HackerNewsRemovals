@@ -326,4 +326,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40324166](https://news.social-protocols.org/stats?id=40324166) #15 32 points 4 comments -> [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)<!-- HN:40324166:end -->
 #### **Saturday, May 11, 2024**
 <!-- HN:40324618:start -->
-* [40324618](https://news.social-protocols.org/stats?id=40324618) #26 9 points 6 comments -> [Jump Seating United Pilot Causes Drama at Southwest](https://onemileatatime.com/news/jump-seating-united-pilot-drama-southwest/)<!-- HN:40324618:end -->
+* [40324618](https://news.social-protocols.org/stats?id=40324618) #26 9 points 6 comments -> [Jump Seating United Pilot Causes Drama at Southwest](https://onemileatatime.com/news/jump-seating-united-pilot-drama-southwest/)<!-- HN:40324618:end --><!-- HN:40324627:start -->
+* [40324627](https://news.social-protocols.org/stats?id=40324627) #12 12 points 1 comments -> [Apple made a terrible mistake: it told the truth](https://creativegood.com/blog/24/apple-tells-the-truth.html)<!-- HN:40324627:end -->
