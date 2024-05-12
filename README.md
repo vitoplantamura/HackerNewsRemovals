@@ -357,4 +357,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, May 12, 2024**
 <!-- HN:40331234:start -->
 * [40331234](https://news.social-protocols.org/stats?id=40331234) #15 6 points 3 comments -> [The Smartest People in the Room Are All Listening to the Same Podcast](https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603)<!-- HN:40331234:end --><!-- HN:40330942:start -->
-* [40330942](https://news.social-protocols.org/stats?id=40330942) #22 19 points 9 comments -> [Is dark matter's main rival theory dead?](https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826)<!-- HN:40330942:end -->
+* [40330942](https://news.social-protocols.org/stats?id=40330942) #22 19 points 9 comments -> [Is dark matter's main rival theory dead?](https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826)<!-- HN:40330942:end --><!-- HN:40331246:start -->
+* [40331246](https://news.social-protocols.org/stats?id=40331246) #25 6 points 1 comments -> [Sydney's tree wars: Greed and harbour views fuel vandalism](https://www.bbc.com/news/world-australia-68871869)<!-- HN:40331246:end -->
