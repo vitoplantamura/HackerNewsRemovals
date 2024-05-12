@@ -354,3 +354,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40330692](https://news.social-protocols.org/stats?id=40330692) #23 5 points 3 comments -> [Astronomers Are on the Hunt for Dyson Spheres](https://www.universetoday.com/166921/astronomers-are-on-the-hunt-for-dyson-spheres/)<!-- HN:40330692:end --><!-- HN:40330912:start -->
 * [40330912](https://news.social-protocols.org/stats?id=40330912) #9 3 points 1 comments -> [Who Is Tim Bombadil?](http://whoistombombadil.blogspot.com/)<!-- HN:40330912:end --><!-- HN:40331074:start -->
 * [40331074](https://news.social-protocols.org/stats?id=40331074) #20 6 points 1 comments -> [Was the Fusion Drive a good idea?](https://eclecticlight.co/2024/04/26/was-the-fusion-drive-a-good-idea/)<!-- HN:40331074:end -->
+#### **Sunday, May 12, 2024**
+<!-- HN:40331234:start -->
+* [40331234](https://news.social-protocols.org/stats?id=40331234) #15 6 points 3 comments -> [The Smartest People in the Room Are All Listening to the Same Podcast](https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603)<!-- HN:40331234:end -->
