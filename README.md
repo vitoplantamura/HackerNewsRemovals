@@ -375,4 +375,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40337597](https://news.social-protocols.org/stats?id=40337597) #15 8 points 0 comments -> [Name and shame: Pro-Israel website ramps up attacks on pro-Palestinian students](https://www.reuters.com/world/name-shame-pro-israel-website-ramps-up-attacks-pro-palestinian-student-2024-05-11/)<!-- HN:40337597:end -->
 #### **Monday, May 13, 2024**
 <!-- HN:40338316:start -->
-* [40338316](https://news.social-protocols.org/stats?id=40338316) #9 9 points 2 comments -> [I Built a AI Job Interview Companion with Real Time Feedback](https://wyspa.app/)<!-- HN:40338316:end -->
+* [40338316](https://news.social-protocols.org/stats?id=40338316) #9 9 points 2 comments -> [I Built a AI Job Interview Companion with Real Time Feedback](https://wyspa.app/)<!-- HN:40338316:end --><!-- HN:40338619:start -->
+* [40338619](https://news.social-protocols.org/stats?id=40338619) #29 63 points 43 comments -> [Scott Galloway: How the US is destroying young people's future [video]](https://www.ted.com/talks/scott_galloway_how_the_us_is_destroying_young_people_s_future)<!-- HN:40338619:end -->
