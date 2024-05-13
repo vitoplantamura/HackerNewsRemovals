@@ -373,3 +373,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40336575](https://news.social-protocols.org/stats?id=40336575) #23 3 points 1 comments -> [The Smartest People in the Room Are All Listening to the Same Podcast](https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603)<!-- HN:40336575:end --><!-- HN:40336282:start -->
 * [40336282](https://news.social-protocols.org/stats?id=40336282) #30 10 points 13 comments -> [Creepy Study Suggests AI Is the Reason We've Never Found Aliens](https://www.sciencealert.com/creepy-study-suggests-ai-is-the-reason-weve-never-found-aliens)<!-- HN:40336282:end --><!-- HN:40337597:start -->
 * [40337597](https://news.social-protocols.org/stats?id=40337597) #15 8 points 0 comments -> [Name and shame: Pro-Israel website ramps up attacks on pro-Palestinian students](https://www.reuters.com/world/name-shame-pro-israel-website-ramps-up-attacks-pro-palestinian-student-2024-05-11/)<!-- HN:40337597:end -->
+#### **Monday, May 13, 2024**
+<!-- HN:40338316:start -->
+* [40338316](https://news.social-protocols.org/stats?id=40338316) #9 9 points 2 comments -> [I Built a AI Job Interview Companion with Real Time Feedback](https://wyspa.app/)<!-- HN:40338316:end -->
