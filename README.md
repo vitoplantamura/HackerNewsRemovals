@@ -376,4 +376,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 13, 2024**
 <!-- HN:40338316:start -->
 * [40338316](https://news.social-protocols.org/stats?id=40338316) #9 9 points 2 comments -> [I Built a AI Job Interview Companion with Real Time Feedback](https://wyspa.app/)<!-- HN:40338316:end --><!-- HN:40338619:start -->
-* [40338619](https://news.social-protocols.org/stats?id=40338619) #29 63 points 43 comments -> [Scott Galloway: How the US is destroying young people's future [video]](https://www.ted.com/talks/scott_galloway_how_the_us_is_destroying_young_people_s_future)<!-- HN:40338619:end -->
+* [40338619](https://news.social-protocols.org/stats?id=40338619) #29 63 points 43 comments -> [Scott Galloway: How the US is destroying young people's future [video]](https://www.ted.com/talks/scott_galloway_how_the_us_is_destroying_young_people_s_future)<!-- HN:40338619:end --><!-- HN:40317196:start -->
+* [40317196](https://news.social-protocols.org/stats?id=40317196) #21 24 points 5 comments -> [Memory Management Every Developer Should Know](https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know)<!-- HN:40317196:end -->
