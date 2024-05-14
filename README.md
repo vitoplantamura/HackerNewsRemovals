@@ -397,4 +397,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, May 14, 2024**
 <!-- HN:40349922:start -->
 * [40349922](https://news.social-protocols.org/stats?id=40349922) #26 18 points 4 comments -> [ChatGPT Has EQ Now](https://nicholascharriere.com/blog/thoughts-openai-spring-release2/)<!-- HN:40349922:end --><!-- HN:40349913:start -->
-* [40349913](https://news.social-protocols.org/stats?id=40349913) #11 10 points 0 comments -> [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)<!-- HN:40349913:end -->
+* [40349913](https://news.social-protocols.org/stats?id=40349913) #11 10 points 0 comments -> [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)<!-- HN:40349913:end --><!-- HN:40349288:start -->
+* [40349288](https://news.social-protocols.org/stats?id=40349288) #25 46 points 12 comments -> [In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus](https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/)<!-- HN:40349288:end -->
