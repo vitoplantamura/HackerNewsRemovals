@@ -394,3 +394,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40348325](https://news.social-protocols.org/stats?id=40348325) #19 15 points 19 comments -> [UK police could get Ghostbusters-style backpack devices to halt ebike getaways](https://www.theguardian.com/uk-news/article/2024/may/13/uk-police-ghostbusters-style-backpack-devices-ebike-getaways)<!-- HN:40348325:end --><!-- HN:40345250:start -->
 * [40345250](https://news.social-protocols.org/stats?id=40345250) #28 56 points 17 comments -> [A list of open source games](https://github.com/bobeff/open-source-games)<!-- HN:40345250:end --><!-- HN:40348829:start -->
 * [40348829](https://news.social-protocols.org/stats?id=40348829) #27 7 points 0 comments -> [NASA Names First Chief Artificial Intelligence Officer](https://www.nasa.gov/news-release/nasa-names-first-chief-artificial-intelligence-officer/)<!-- HN:40348829:end -->
+#### **Tuesday, May 14, 2024**
+<!-- HN:40349922:start -->
+* [40349922](https://news.social-protocols.org/stats?id=40349922) #26 18 points 4 comments -> [ChatGPT Has EQ Now](https://nicholascharriere.com/blog/thoughts-openai-spring-release2/)<!-- HN:40349922:end -->
