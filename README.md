@@ -396,4 +396,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40348829](https://news.social-protocols.org/stats?id=40348829) #27 7 points 0 comments -> [NASA Names First Chief Artificial Intelligence Officer](https://www.nasa.gov/news-release/nasa-names-first-chief-artificial-intelligence-officer/)<!-- HN:40348829:end -->
 #### **Tuesday, May 14, 2024**
 <!-- HN:40349922:start -->
-* [40349922](https://news.social-protocols.org/stats?id=40349922) #26 18 points 4 comments -> [ChatGPT Has EQ Now](https://nicholascharriere.com/blog/thoughts-openai-spring-release2/)<!-- HN:40349922:end -->
+* [40349922](https://news.social-protocols.org/stats?id=40349922) #26 18 points 4 comments -> [ChatGPT Has EQ Now](https://nicholascharriere.com/blog/thoughts-openai-spring-release2/)<!-- HN:40349922:end --><!-- HN:40349913:start -->
+* [40349913](https://news.social-protocols.org/stats?id=40349913) #11 10 points 0 comments -> [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)<!-- HN:40349913:end -->
