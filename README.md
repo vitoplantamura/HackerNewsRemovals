@@ -427,4 +427,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40342438](https://news.social-protocols.org/stats?id=40342438) #22 12 points 3 comments -> [Why everyone is heading back to the Moon](https://www.bloomberg.com/features/2024-moon-race-explained/)<!-- HN:40342438:end -->
 #### **Wednesday, May 15, 2024**
 <!-- HN:40342554:start -->
-* [40342554](https://news.social-protocols.org/stats?id=40342554) #25 5 points 0 comments -> [Permira is taking Squarespace private in $6.6B deal](https://techcrunch.com/2024/05/13/permira-is-taking-squarespace-private-in-6-6-billion-deal/)<!-- HN:40342554:end -->
+* [40342554](https://news.social-protocols.org/stats?id=40342554) #25 5 points 0 comments -> [Permira is taking Squarespace private in $6.6B deal](https://techcrunch.com/2024/05/13/permira-is-taking-squarespace-private-in-6-6-billion-deal/)<!-- HN:40342554:end --><!-- HN:40363213:start -->
+* [40363213](https://news.social-protocols.org/stats?id=40363213) #16 12 points 2 comments -> [New WiFi Vulnerability: The SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)<!-- HN:40363213:end -->
