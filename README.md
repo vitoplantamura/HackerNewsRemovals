@@ -425,3 +425,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40357706](https://news.social-protocols.org/stats?id=40357706) #23 10 points 0 comments -> [We Closed Institutions That Housed Mentally Ill, Made It Harder to Receive Care](https://freddiedeboer.substack.com/p/we-closed-the-institutions-that-housed)<!-- HN:40357706:end --><!-- HN:40357967:start -->
 * [40357967](https://news.social-protocols.org/stats?id=40357967) #29 12 points 1 comments -> [Local iOS/macOS phi-3-mini-4k-instruct](https://apps.apple.com/us/app/micro-llm/id6468129438)<!-- HN:40357967:end --><!-- HN:40342438:start -->
 * [40342438](https://news.social-protocols.org/stats?id=40342438) #22 12 points 3 comments -> [Why everyone is heading back to the Moon](https://www.bloomberg.com/features/2024-moon-race-explained/)<!-- HN:40342438:end -->
+#### **Wednesday, May 15, 2024**
+<!-- HN:40342554:start -->
+* [40342554](https://news.social-protocols.org/stats?id=40342554) #25 5 points 0 comments -> [Permira is taking Squarespace private in $6.6B deal](https://techcrunch.com/2024/05/13/permira-is-taking-squarespace-private-in-6-6-billion-deal/)<!-- HN:40342554:end -->
