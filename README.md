@@ -447,4 +447,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40340161](https://news.social-protocols.org/stats?id=40340161) #20 12 points 0 comments -> [More frequent, focused updates for Android Studio](https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html)<!-- HN:40340161:end -->
 #### **Thursday, May 16, 2024**
 <!-- HN:40373382:start -->
-* [40373382](https://news.social-protocols.org/stats?id=40373382) #15 34 points 2 comments -> [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)<!-- HN:40373382:end -->
+* [40373382](https://news.social-protocols.org/stats?id=40373382) #15 34 points 2 comments -> [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)<!-- HN:40373382:end --><!-- HN:40373830:start -->
+* [40373830](https://news.social-protocols.org/stats?id=40373830) #6 7 points 1 comments -> [SpaceX liens show over $2.5M debt to contractors in Texas](https://www.mysanantonio.com/business/article/spacex-liens-debt-19457091.php)<!-- HN:40373830:end -->
