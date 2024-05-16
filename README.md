@@ -445,3 +445,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40366474](https://news.social-protocols.org/stats?id=40366474) #26 46 points 53 comments -> [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)<!-- HN:40366474:end --><!-- HN:40370816:start -->
 * [40370816](https://news.social-protocols.org/stats?id=40370816) #22 23 points 10 comments -> [I'm leaving OpenAI after 3½ yrs](https://twitter.com/E0M/status/1790814866695143696)<!-- HN:40370816:end --><!-- HN:40340161:start -->
 * [40340161](https://news.social-protocols.org/stats?id=40340161) #20 12 points 0 comments -> [More frequent, focused updates for Android Studio](https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html)<!-- HN:40340161:end -->
+#### **Thursday, May 16, 2024**
+<!-- HN:40373382:start -->
+* [40373382](https://news.social-protocols.org/stats?id=40373382) #15 34 points 2 comments -> [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)<!-- HN:40373382:end -->
