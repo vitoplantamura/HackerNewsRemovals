@@ -452,4 +452,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40374059](https://news.social-protocols.org/stats?id=40374059) #15 20 points 16 comments -> [Weekly 1:1s are a staple of management. I hated it and found it useless](https://twitter.com/adityaag/status/1790798947617013836)<!-- HN:40374059:end --><!-- HN:40374427:start -->
 * [40374427](https://news.social-protocols.org/stats?id=40374427) #4 4 points 2 comments -> [[AMA] I'm 13, I have 2 startups with millions of users](https://shuttleai.app/)<!-- HN:40374427:end --><!-- HN:40374838:start -->
 * [40374838](https://news.social-protocols.org/stats?id=40374838) #4 6 points 0 comments -> [Genocide in Gaza: Analysis of International Law and Its Application to Israel's](https://www.humanrightsnetwork.org/genocide-in-gaza)<!-- HN:40374838:end --><!-- HN:40354045:start -->
-* [40354045](https://news.social-protocols.org/stats?id=40354045) #18 13 points 1 comments -> [OpenLisp](http://christian.jullien.free.fr/)<!-- HN:40354045:end -->
+* [40354045](https://news.social-protocols.org/stats?id=40354045) #18 13 points 1 comments -> [OpenLisp](http://christian.jullien.free.fr/)<!-- HN:40354045:end --><!-- HN:40375297:start -->
+* [40375297](https://news.social-protocols.org/stats?id=40375297) #22 8 points 0 comments -> [.aq](https://en.wikipedia.org/wiki/.aq)<!-- HN:40375297:end -->
