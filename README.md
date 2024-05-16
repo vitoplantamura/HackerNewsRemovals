@@ -448,4 +448,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, May 16, 2024**
 <!-- HN:40373382:start -->
 * [40373382](https://news.social-protocols.org/stats?id=40373382) #15 34 points 2 comments -> [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)<!-- HN:40373382:end --><!-- HN:40373830:start -->
-* [40373830](https://news.social-protocols.org/stats?id=40373830) #6 7 points 1 comments -> [SpaceX liens show over $2.5M debt to contractors in Texas](https://www.mysanantonio.com/business/article/spacex-liens-debt-19457091.php)<!-- HN:40373830:end -->
+* [40373830](https://news.social-protocols.org/stats?id=40373830) #6 7 points 1 comments -> [SpaceX liens show over $2.5M debt to contractors in Texas](https://www.mysanantonio.com/business/article/spacex-liens-debt-19457091.php)<!-- HN:40373830:end --><!-- HN:40374059:start -->
+* [40374059](https://news.social-protocols.org/stats?id=40374059) #15 20 points 16 comments -> [Weekly 1:1s are a staple of management. I hated it and found it useless](https://twitter.com/adityaag/status/1790798947617013836)<!-- HN:40374059:end -->
