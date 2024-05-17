@@ -472,4 +472,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40382246:start -->
 * [40382246](https://news.social-protocols.org/stats?id=40382246) #24 86 points 20 comments -> [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)<!-- HN:40382246:end --><!-- HN:40383885:start -->
 * [40383885](https://news.social-protocols.org/stats?id=40383885) #12 8 points 0 comments -> [Special Characters Attack: Toward Scalable Training Data Extraction from LLMs](https://arxiv.org/abs/2405.05990)<!-- HN:40383885:end --><!-- HN:40386166:start -->
-* [40386166](https://news.social-protocols.org/stats?id=40386166) #4 6 points 0 comments -> [How to Start Google](https://www.paulgraham.com/google.html)<!-- HN:40386166:end -->
+* [40386166](https://news.social-protocols.org/stats?id=40386166) #4 6 points 0 comments -> [How to Start Google](https://www.paulgraham.com/google.html)<!-- HN:40386166:end --><!-- HN:40388621:start -->
+* [40388621](https://news.social-protocols.org/stats?id=40388621) #21 9 points 4 comments -> [Long Beach man started a petition to ban Airbnb in his neighborhood – it worked](https://www.latimes.com/california/story/2024-05-11/a-long-beach-man-started-a-petition-to-ban-airbnb-in-his-neighborhood-and-it-worked)<!-- HN:40388621:end -->
