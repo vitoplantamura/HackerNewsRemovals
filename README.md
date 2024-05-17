@@ -470,4 +470,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40382783](https://news.social-protocols.org/stats?id=40382783) #30 58 points 40 comments -> [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)<!-- HN:40382783:end -->
 #### **Friday, May 17, 2024**
 <!-- HN:40382246:start -->
-* [40382246](https://news.social-protocols.org/stats?id=40382246) #24 86 points 20 comments -> [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)<!-- HN:40382246:end -->
+* [40382246](https://news.social-protocols.org/stats?id=40382246) #24 86 points 20 comments -> [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)<!-- HN:40382246:end --><!-- HN:40383885:start -->
+* [40383885](https://news.social-protocols.org/stats?id=40383885) #12 8 points 0 comments -> [Special Characters Attack: Toward Scalable Training Data Extraction from LLMs](https://arxiv.org/abs/2405.05990)<!-- HN:40383885:end -->
