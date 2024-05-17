@@ -468,3 +468,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40382991](https://news.social-protocols.org/stats?id=40382991) #10 21 points 24 comments -> [How Safe Is SF?](https://howsafeissf.com/)<!-- HN:40382991:end --><!-- HN:40382941:start -->
 * [40382941](https://news.social-protocols.org/stats?id=40382941) #29 28 points 15 comments -> [Show HN: I've built a macOS app for developers to clean their dev machines](https://apps.apple.com/ua/app/cleano/id6469460523?mt=12)<!-- HN:40382941:end --><!-- HN:40382783:start -->
 * [40382783](https://news.social-protocols.org/stats?id=40382783) #30 58 points 40 comments -> [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)<!-- HN:40382783:end -->
+#### **Friday, May 17, 2024**
+<!-- HN:40382246:start -->
+* [40382246](https://news.social-protocols.org/stats?id=40382246) #24 86 points 20 comments -> [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)<!-- HN:40382246:end -->
