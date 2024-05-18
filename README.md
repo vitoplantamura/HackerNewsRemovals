@@ -505,3 +505,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40394291](https://news.social-protocols.org/stats?id=40394291) #27 9 points 4 comments -> [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)<!-- HN:40394291:end --><!-- HN:40389576:start -->
 * [40389576](https://news.social-protocols.org/stats?id=40389576) #21 61 points 161 comments -> [GDPR: Is It Worth It?](https://arxiv.org/abs/2405.10225)<!-- HN:40389576:end --><!-- HN:40394220:start -->
 * [40394220](https://news.social-protocols.org/stats?id=40394220) #23 19 points 2 comments -> [VW and Renault end talks to develop affordable EV](https://www.reuters.com/business/autos-transportation/vw-renault-end-talks-develop-affordable-ev-sources-say-2024-05-17/)<!-- HN:40394220:end -->
+#### **Saturday, May 18, 2024**
+<!-- HN:40395567:start -->
+* [40395567](https://news.social-protocols.org/stats?id=40395567) #3 8 points 2 comments -> [Why OpenAI Is Forced to Enter the Search Business](https://nextword.substack.com/p/why-openai-is-entering-search-market)<!-- HN:40395567:end -->
