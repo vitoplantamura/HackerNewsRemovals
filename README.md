@@ -507,4 +507,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 18, 2024**
 <!-- HN:40395567:start -->
 * [40395567](https://news.social-protocols.org/stats?id=40395567) #3 8 points 2 comments -> [Why OpenAI Is Forced to Enter the Search Business](https://nextword.substack.com/p/why-openai-is-entering-search-market)<!-- HN:40395567:end --><!-- HN:40394778:start -->
-* [40394778](https://news.social-protocols.org/stats?id=40394778) #10 392 points 5 comments -> [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)<!-- HN:40394778:end -->
+* [40394778](https://news.social-protocols.org/stats?id=40394778) #10 392 points 5 comments -> [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)<!-- HN:40394778:end --><!-- HN:40394885:start -->
+* [40394885](https://news.social-protocols.org/stats?id=40394885) #13 47 points 38 comments -> [Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)<!-- HN:40394885:end -->
