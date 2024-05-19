@@ -528,3 +528,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40400775](https://news.social-protocols.org/stats?id=40400775) #27 6 points 1 comments -> [Debian removes KeePassXC browser integration](https://github.com/keepassxreboot/keepassxc/issues/10725)<!-- HN:40400775:end --><!-- HN:40401198:start -->
 * [40401198](https://news.social-protocols.org/stats?id=40401198) #9 11 points 3 comments -> [Woman Stuck in Tesla for 40 Mins During Vehicle Update](https://www.ibtimes.co.uk/woman-stuck-tesla-40-minutes-115-degrees-temperature-during-vehicle-update-1724678)<!-- HN:40401198:end --><!-- HN:40370023:start -->
 * [40370023](https://news.social-protocols.org/stats?id=40370023) #30 15 points 4 comments -> [Racing driverless cars is pushing autonomous technology](https://www.cnn.com/world/driverless-car-race-abu-dhabi-spc/index.html)<!-- HN:40370023:end -->
+#### **Sunday, May 19, 2024**
+<!-- HN:40403115:start -->
+* [40403115](https://news.social-protocols.org/stats?id=40403115) #17 48 points 17 comments -> [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)<!-- HN:40403115:end -->
