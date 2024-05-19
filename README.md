@@ -530,4 +530,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40370023](https://news.social-protocols.org/stats?id=40370023) #30 15 points 4 comments -> [Racing driverless cars is pushing autonomous technology](https://www.cnn.com/world/driverless-car-race-abu-dhabi-spc/index.html)<!-- HN:40370023:end -->
 #### **Sunday, May 19, 2024**
 <!-- HN:40403115:start -->
-* [40403115](https://news.social-protocols.org/stats?id=40403115) #17 48 points 17 comments -> [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)<!-- HN:40403115:end -->
+* [40403115](https://news.social-protocols.org/stats?id=40403115) #17 48 points 17 comments -> [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)<!-- HN:40403115:end --><!-- HN:40404436:start -->
+* [40404436](https://news.social-protocols.org/stats?id=40404436) #18 5 points 0 comments -> [49M Dell customer addresses leaked](https://techcrunch.com/2024/05/10/threat-actor-scraped-49m-dell-customer-addresses-before-the-company-found-out/)<!-- HN:40404436:end -->
