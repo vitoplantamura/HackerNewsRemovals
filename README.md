@@ -531,4 +531,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, May 19, 2024**
 <!-- HN:40403115:start -->
 * [40403115](https://news.social-protocols.org/stats?id=40403115) #17 48 points 17 comments -> [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)<!-- HN:40403115:end --><!-- HN:40404436:start -->
-* [40404436](https://news.social-protocols.org/stats?id=40404436) #18 5 points 0 comments -> [49M Dell customer addresses leaked](https://techcrunch.com/2024/05/10/threat-actor-scraped-49m-dell-customer-addresses-before-the-company-found-out/)<!-- HN:40404436:end -->
+* [40404436](https://news.social-protocols.org/stats?id=40404436) #18 5 points 0 comments -> [49M Dell customer addresses leaked](https://techcrunch.com/2024/05/10/threat-actor-scraped-49m-dell-customer-addresses-before-the-company-found-out/)<!-- HN:40404436:end --><!-- HN:40404883:start -->
+* [40404883](https://news.social-protocols.org/stats?id=40404883) #17 6 points 1 comments -> [Google Cloud accidentally deletes $125B Australian pension fund](https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html)<!-- HN:40404883:end -->
