@@ -558,4 +558,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 20, 2024**
 <!-- HN:40411751:start -->
 * [40411751](https://news.social-protocols.org/stats?id=40411751) #16 32 points 13 comments -> [The President of Iran has died](https://x.com/sentdefender/status/1792387709140402299)<!-- HN:40411751:end --><!-- HN:40397908:start -->
-* [40397908](https://news.social-protocols.org/stats?id=40397908) #27 41 points 40 comments -> [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)<!-- HN:40397908:end -->
+* [40397908](https://news.social-protocols.org/stats?id=40397908) #27 41 points 40 comments -> [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)<!-- HN:40397908:end --><!-- HN:40412522:start -->
+* [40412522](https://news.social-protocols.org/stats?id=40412522) #15 4 points 2 comments -> [After 47 Years, Apple Is Making a Bittersweet Change. It's the End of an Era](https://www.inc.com/jason-aten/after-47-years-apple-is-making-a-bittersweet-change-its-truly-end-of-an-era.html)<!-- HN:40412522:end -->
