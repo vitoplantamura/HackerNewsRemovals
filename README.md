@@ -583,3 +583,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40421598](https://news.social-protocols.org/stats?id=40421598) #7 4 points 1 comments -> [Scarlett Johansson says she was 'shocked, angered' when she heard ChatGPT voice](https://www.nbcnews.com/tech/tech-news/scarlett-johansson-shocked-angered-openai-voice-rcna153180)<!-- HN:40421598:end --><!-- HN:40421932:start -->
 * [40421932](https://news.social-protocols.org/stats?id=40421932) #12 11 points 6 comments -> [Scarlett Johansson has just issued this statement on OpenAI and Sky](https://twitter.com/yashar/status/1792682664845254683)<!-- HN:40421932:end --><!-- HN:40421861:start -->
 * [40421861](https://news.social-protocols.org/stats?id=40421861) #2 76 points 2 comments -> [Scarlett Johansson says she is 'shocked, angered' over new ChatGPT voice](https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her)<!-- HN:40421861:end -->
+#### **Tuesday, May 21, 2024**
+<!-- HN:40421915:start -->
+* [40421915](https://news.social-protocols.org/stats?id=40421915) #16 11 points 4 comments -> [Enthusiast gets Windows XP running on an i486](https://www.tomshardware.com/software/windows/enthusiast-gets-windows-xp-running-on-an-i486)<!-- HN:40421915:end -->
