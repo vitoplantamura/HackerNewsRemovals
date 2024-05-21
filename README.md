@@ -586,4 +586,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, May 21, 2024**
 <!-- HN:40421915:start -->
 * [40421915](https://news.social-protocols.org/stats?id=40421915) #16 11 points 4 comments -> [Enthusiast gets Windows XP running on an i486](https://www.tomshardware.com/software/windows/enthusiast-gets-windows-xp-running-on-an-i486)<!-- HN:40421915:end --><!-- HN:40421936:start -->
-* [40421936](https://news.social-protocols.org/stats?id=40421936) #16 50 points 63 comments -> [SpaceX has grown to 87% of the tonnage to orbit](https://twitter.com/FutureJurvetson/status/1792672666316665198)<!-- HN:40421936:end -->
+* [40421936](https://news.social-protocols.org/stats?id=40421936) #16 50 points 63 comments -> [SpaceX has grown to 87% of the tonnage to orbit](https://twitter.com/FutureJurvetson/status/1792672666316665198)<!-- HN:40421936:end --><!-- HN:40422645:start -->
+* [40422645](https://news.social-protocols.org/stats?id=40422645) #2 7 points 1 comments -> [Async Rust Isn't Bad: You Are](https://n8s.site/async-rust-isnt-bad-you-are)<!-- HN:40422645:end -->
