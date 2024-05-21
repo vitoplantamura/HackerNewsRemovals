@@ -585,4 +585,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40421861](https://news.social-protocols.org/stats?id=40421861) #2 76 points 2 comments -> [Scarlett Johansson says she is 'shocked, angered' over new ChatGPT voice](https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her)<!-- HN:40421861:end -->
 #### **Tuesday, May 21, 2024**
 <!-- HN:40421915:start -->
-* [40421915](https://news.social-protocols.org/stats?id=40421915) #16 11 points 4 comments -> [Enthusiast gets Windows XP running on an i486](https://www.tomshardware.com/software/windows/enthusiast-gets-windows-xp-running-on-an-i486)<!-- HN:40421915:end -->
+* [40421915](https://news.social-protocols.org/stats?id=40421915) #16 11 points 4 comments -> [Enthusiast gets Windows XP running on an i486](https://www.tomshardware.com/software/windows/enthusiast-gets-windows-xp-running-on-an-i486)<!-- HN:40421915:end --><!-- HN:40421936:start -->
+* [40421936](https://news.social-protocols.org/stats?id=40421936) #16 50 points 63 comments -> [SpaceX has grown to 87% of the tonnage to orbit](https://twitter.com/FutureJurvetson/status/1792672666316665198)<!-- HN:40421936:end -->
