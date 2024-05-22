@@ -616,4 +616,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, May 22, 2024**
 <!-- HN:40436564:start -->
 * [40436564](https://news.social-protocols.org/stats?id=40436564) #3 6 points 0 comments -> [Up Phone – The Privacy Phone](https://unplugged.com/)<!-- HN:40436564:end --><!-- HN:40436281:start -->
-* [40436281](https://news.social-protocols.org/stats?id=40436281) #14 4 points 1 comments -> [SimpleWiki – All of Wikipedia Simplified](https://www.thesimplewiki.com)<!-- HN:40436281:end -->
+* [40436281](https://news.social-protocols.org/stats?id=40436281) #14 4 points 1 comments -> [SimpleWiki – All of Wikipedia Simplified](https://www.thesimplewiki.com)<!-- HN:40436281:end --><!-- HN:40438261:start -->
+* [40438261](https://news.social-protocols.org/stats?id=40438261) #24 8 points 9 comments -> [Electric cars more likely to hit pedestrians than petrol vehicles, study finds](https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds)<!-- HN:40438261:end -->
