@@ -616,5 +616,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, May 22, 2024**
 <!-- HN:40436564:start -->
 * [40436564](https://news.social-protocols.org/stats?id=40436564) #3 6 points 0 comments -> [Up Phone – The Privacy Phone](https://unplugged.com/)<!-- HN:40436564:end --><!-- HN:40436281:start -->
-* [40436281](https://news.social-protocols.org/stats?id=40436281) #14 4 points 1 comments -> [SimpleWiki – All of Wikipedia Simplified](https://www.thesimplewiki.com)<!-- HN:40436281:end --><!-- HN:40437379:start -->
-* [40437379](https://news.social-protocols.org/stats?id=40437379) #3 -> ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/)<!-- HN:40437379:end -->
+* [40436281](https://news.social-protocols.org/stats?id=40436281) #14 4 points 1 comments -> [SimpleWiki – All of Wikipedia Simplified](https://www.thesimplewiki.com)<!-- HN:40436281:end -->
