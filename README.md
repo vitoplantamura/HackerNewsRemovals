@@ -615,4 +615,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40434091](https://news.social-protocols.org/stats?id=40434091) #7 45 points 14 comments -> [iTerm2 feature request: disable all AI-related features](https://gitlab.com/gnachman/iterm2/-/issues/11475)<!-- HN:40434091:end -->
 #### **Wednesday, May 22, 2024**
 <!-- HN:40436564:start -->
-* [40436564](https://news.social-protocols.org/stats?id=40436564) #3 6 points 0 comments -> [Up Phone – The Privacy Phone](https://unplugged.com/)<!-- HN:40436564:end -->
+* [40436564](https://news.social-protocols.org/stats?id=40436564) #3 6 points 0 comments -> [Up Phone – The Privacy Phone](https://unplugged.com/)<!-- HN:40436564:end --><!-- HN:40436281:start -->
+* [40436281](https://news.social-protocols.org/stats?id=40436281) #14 4 points 1 comments -> [SimpleWiki – All of Wikipedia Simplified](https://www.thesimplewiki.com)<!-- HN:40436281:end -->
