@@ -632,3 +632,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40445866](https://news.social-protocols.org/stats?id=40445866) #30 32 points 30 comments -> [A landmark multi-year global partnership with News Corp](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)<!-- HN:40445866:end --><!-- HN:40446100:start -->
 * [40446100](https://news.social-protocols.org/stats?id=40446100) #9 80 points 3 comments -> [Nvidia revenue up 262%, thanks to the AI boom](https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450)<!-- HN:40446100:end --><!-- HN:40425161:start -->
 * [40425161](https://news.social-protocols.org/stats?id=40425161) #22 10 points 10 comments -> [The Numeric Tower Fiasco](https://mmapped.blog/posts/23-numeric-tower-fiasco.html)<!-- HN:40425161:end -->
+#### **Thursday, May 23, 2024**
+<!-- HN:40448565:start -->
+* [40448565](https://news.social-protocols.org/stats?id=40448565) #5 13 points 8 comments -> [Waymo vehicle crashes 1 week after federal investigation launched into accidents](https://fronterasdesk.org/content/1880693/waymo-vehicle-crashes-1-week-after-federal-investigation-launched-accidents)<!-- HN:40448565:end -->
