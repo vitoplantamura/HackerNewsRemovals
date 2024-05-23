@@ -636,4 +636,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40448565:start -->
 * [40448565](https://news.social-protocols.org/stats?id=40448565) #5 13 points 8 comments -> [Waymo vehicle crashes 1 week after federal investigation launched into accidents](https://fronterasdesk.org/content/1880693/waymo-vehicle-crashes-1-week-after-federal-investigation-launched-accidents)<!-- HN:40448565:end --><!-- HN:40448767:start -->
 * [40448767](https://news.social-protocols.org/stats?id=40448767) #23 13 points 7 comments -> ['Dumb Money' Loses $13.1B in Latest GameStop Stock Mania](https://www.investors.com/etfs-and-funds/sectors/sp500-dumb-money-loses-billion-in-latest-gamestop-stock-mania/)<!-- HN:40448767:end --><!-- HN:40446584:start -->
-* [40446584](https://news.social-protocols.org/stats?id=40446584) #26 13 points 0 comments -> [Slash Pages](https://slashpages.net)<!-- HN:40446584:end -->
+* [40446584](https://news.social-protocols.org/stats?id=40446584) #26 13 points 0 comments -> [Slash Pages](https://slashpages.net)<!-- HN:40446584:end --><!-- HN:40449087:start -->
+* [40449087](https://news.social-protocols.org/stats?id=40449087) #26 17 points 0 comments -> [Baum-Welch Algorithm](https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm)<!-- HN:40449087:end -->
