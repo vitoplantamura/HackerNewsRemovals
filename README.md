@@ -634,4 +634,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40425161](https://news.social-protocols.org/stats?id=40425161) #22 10 points 10 comments -> [The Numeric Tower Fiasco](https://mmapped.blog/posts/23-numeric-tower-fiasco.html)<!-- HN:40425161:end -->
 #### **Thursday, May 23, 2024**
 <!-- HN:40448565:start -->
-* [40448565](https://news.social-protocols.org/stats?id=40448565) #5 13 points 8 comments -> [Waymo vehicle crashes 1 week after federal investigation launched into accidents](https://fronterasdesk.org/content/1880693/waymo-vehicle-crashes-1-week-after-federal-investigation-launched-accidents)<!-- HN:40448565:end -->
+* [40448565](https://news.social-protocols.org/stats?id=40448565) #5 13 points 8 comments -> [Waymo vehicle crashes 1 week after federal investigation launched into accidents](https://fronterasdesk.org/content/1880693/waymo-vehicle-crashes-1-week-after-federal-investigation-launched-accidents)<!-- HN:40448565:end --><!-- HN:40448767:start -->
+* [40448767](https://news.social-protocols.org/stats?id=40448767) #23 13 points 7 comments -> ['Dumb Money' Loses $13.1B in Latest GameStop Stock Mania](https://www.investors.com/etfs-and-funds/sectors/sp500-dumb-money-loses-billion-in-latest-gamestop-stock-mania/)<!-- HN:40448767:end -->
