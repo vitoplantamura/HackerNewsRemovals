@@ -654,3 +654,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40457612](https://news.social-protocols.org/stats?id=40457612) #27 8 points 1 comments -> [Crypto's 'huge moment' scrambling US politics](https://www.politico.com/news/2024/05/23/crypto-2024-election-impact-00159506)<!-- HN:40457612:end --><!-- HN:40457054:start -->
 * [40457054](https://news.social-protocols.org/stats?id=40457054) #29 68 points 68 comments -> [Daily cannabis use overtakes drinking in US first](https://www.bbc.com/news/articles/c9xxd8w57kjo)<!-- HN:40457054:end --><!-- HN:40426573:start -->
 * [40426573](https://news.social-protocols.org/stats?id=40426573) #30 6 points 1 comments -> [Festival of Britain (1951)](https://en.wikipedia.org/wiki/Festival_of_Britain)<!-- HN:40426573:end -->
+#### **Friday, May 24, 2024**
+<!-- HN:40460960:start -->
+* [40460960](https://news.social-protocols.org/stats?id=40460960) #27 12 points 5 comments -> [Professor Mark Riedl poisons Google's LLM-backed search](https://twitter.com/mark_riedl/status/1793375699967054334)<!-- HN:40460960:end -->
