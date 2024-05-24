@@ -656,4 +656,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40426573](https://news.social-protocols.org/stats?id=40426573) #30 6 points 1 comments -> [Festival of Britain (1951)](https://en.wikipedia.org/wiki/Festival_of_Britain)<!-- HN:40426573:end -->
 #### **Friday, May 24, 2024**
 <!-- HN:40460960:start -->
-* [40460960](https://news.social-protocols.org/stats?id=40460960) #27 12 points 5 comments -> [Professor Mark Riedl poisons Google's LLM-backed search](https://twitter.com/mark_riedl/status/1793375699967054334)<!-- HN:40460960:end -->
+* [40460960](https://news.social-protocols.org/stats?id=40460960) #27 12 points 5 comments -> [Professor Mark Riedl poisons Google's LLM-backed search](https://twitter.com/mark_riedl/status/1793375699967054334)<!-- HN:40460960:end --><!-- HN:40461523:start -->
+* [40461523](https://news.social-protocols.org/stats?id=40461523) #22 6 points 0 comments -> [Biden Admin Working with Social Media Companies to Limit Pro-Palestinian Content](https://www.kenklippenstein.com/p/biden-admin-working-with-social-media)<!-- HN:40461523:end -->
