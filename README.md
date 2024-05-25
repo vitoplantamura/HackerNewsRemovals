@@ -694,4 +694,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 25, 2024**
 <!-- HN:40425068:start -->
 * [40425068](https://news.social-protocols.org/stats?id=40425068) #17 90 points 25 comments -> [Response Filter Denial of Service (RFDoS)](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)<!-- HN:40425068:end --><!-- HN:40471525:start -->
-* [40471525](https://news.social-protocols.org/stats?id=40471525) #27 15 points 0 comments -> [Tests find high levels of PFAS in one-third of dental floss brands](https://www.ehn.org/pfas-floss-2658203711.html)<!-- HN:40471525:end -->
+* [40471525](https://news.social-protocols.org/stats?id=40471525) #27 15 points 0 comments -> [Tests find high levels of PFAS in one-third of dental floss brands](https://www.ehn.org/pfas-floss-2658203711.html)<!-- HN:40471525:end --><!-- HN:40471547:start -->
+* [40471547](https://news.social-protocols.org/stats?id=40471547) #15 31 points 41 comments -> [How private equity rolled Red Lobster](https://www.nbcnews.com/business/consumer/private-equity-rolled-red-lobster-rcna153397)<!-- HN:40471547:end -->
