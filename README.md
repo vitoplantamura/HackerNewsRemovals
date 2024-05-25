@@ -693,4 +693,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40470760](https://news.social-protocols.org/stats?id=40470760) #27 13 points 2 comments -> [Osprey Is Unsafe and Unairworthy](https://taskandpurpose.com/news/osprey-lawsuit-marines-corps-unsafe/)<!-- HN:40470760:end -->
 #### **Saturday, May 25, 2024**
 <!-- HN:40425068:start -->
-* [40425068](https://news.social-protocols.org/stats?id=40425068) #17 90 points 25 comments -> [Response Filter Denial of Service (RFDoS)](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)<!-- HN:40425068:end -->
+* [40425068](https://news.social-protocols.org/stats?id=40425068) #17 90 points 25 comments -> [Response Filter Denial of Service (RFDoS)](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)<!-- HN:40425068:end --><!-- HN:40471525:start -->
+* [40471525](https://news.social-protocols.org/stats?id=40471525) #27 15 points 0 comments -> [Tests find high levels of PFAS in one-third of dental floss brands](https://www.ehn.org/pfas-floss-2658203711.html)<!-- HN:40471525:end -->
