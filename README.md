@@ -716,4 +716,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40476854](https://news.social-protocols.org/stats?id=40476854) #30 14 points 14 comments -> [Microsoft Edge will start blocking screenshots on the job](https://www.pcworld.com/article/2336462/microsoft-edge-will-start-blocking-screenshots-on-the-job.html)<!-- HN:40476854:end -->
 #### **Sunday, May 26, 2024**
 <!-- HN:40458914:start -->
-* [40458914](https://news.social-protocols.org/stats?id=40458914) #19 6 points 3 comments -> [The Great Proxywall 3000](https://pramatias.github.io/proxywall/proxywall_en.html)<!-- HN:40458914:end -->
+* [40458914](https://news.social-protocols.org/stats?id=40458914) #19 6 points 3 comments -> [The Great Proxywall 3000](https://pramatias.github.io/proxywall/proxywall_en.html)<!-- HN:40458914:end --><!-- HN:40447399:start -->
+* [40447399](https://news.social-protocols.org/stats?id=40447399) #10 58 points 16 comments -> [Making my dumb A/C smart with Elixir and Nerves](https://www.milanvit.net/post/making-my-dumb-a-c-smart-with-elixir-and-nerves/)<!-- HN:40447399:end --><!-- HN:40450267:start -->
+* [40450267](https://news.social-protocols.org/stats?id=40450267) #22 206 points 30 comments -> [&udm=14 – the disenshittification Konami code](https://udm14.com/)<!-- HN:40450267:end -->
