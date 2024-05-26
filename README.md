@@ -714,3 +714,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40476950](https://news.social-protocols.org/stats?id=40476950) #26 3 points 0 comments -> [Entanglement with China Erodes Germany's Strategic Autonomy](https://rusi.org/explore-our-research/publications/commentary/how-entanglement-china-erodes-germanys-strategic-autonomy)<!-- HN:40476950:end --><!-- HN:40477307:start -->
 * [40477307](https://news.social-protocols.org/stats?id=40477307) #26 8 points 0 comments -> [Zero-emission 'electric cement' is an 'absolute miracle'](https://www.popsci.com/technology/green-cement-recycling/)<!-- HN:40477307:end --><!-- HN:40476854:start -->
 * [40476854](https://news.social-protocols.org/stats?id=40476854) #30 14 points 14 comments -> [Microsoft Edge will start blocking screenshots on the job](https://www.pcworld.com/article/2336462/microsoft-edge-will-start-blocking-screenshots-on-the-job.html)<!-- HN:40476854:end -->
+#### **Sunday, May 26, 2024**
+<!-- HN:40458914:start -->
+* [40458914](https://news.social-protocols.org/stats?id=40458914) #19 6 points 3 comments -> [The Great Proxywall 3000](https://pramatias.github.io/proxywall/proxywall_en.html)<!-- HN:40458914:end -->
