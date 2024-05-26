@@ -718,4 +718,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40458914:start -->
 * [40458914](https://news.social-protocols.org/stats?id=40458914) #19 6 points 3 comments -> [The Great Proxywall 3000](https://pramatias.github.io/proxywall/proxywall_en.html)<!-- HN:40458914:end --><!-- HN:40447399:start -->
 * [40447399](https://news.social-protocols.org/stats?id=40447399) #10 58 points 16 comments -> [Making my dumb A/C smart with Elixir and Nerves](https://www.milanvit.net/post/making-my-dumb-a-c-smart-with-elixir-and-nerves/)<!-- HN:40447399:end --><!-- HN:40450267:start -->
-* [40450267](https://news.social-protocols.org/stats?id=40450267) #22 206 points 30 comments -> [&udm=14 – the disenshittification Konami code](https://udm14.com/)<!-- HN:40450267:end -->
+* [40450267](https://news.social-protocols.org/stats?id=40450267) #22 206 points 30 comments -> [&udm=14 – the disenshittification Konami code](https://udm14.com/)<!-- HN:40450267:end --><!-- HN:40479370:start -->
+* [40479370](https://news.social-protocols.org/stats?id=40479370) #2 12 points 2 comments -> [Sword Fighting Is Not What You Think](https://www.thearma.org/essays/Swordfighting-Not.html)<!-- HN:40479370:end -->
