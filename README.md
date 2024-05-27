@@ -739,4 +739,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40484676](https://news.social-protocols.org/stats?id=40484676) #10 5 points 2 comments -> [Show HN: Geometry-aware Hashing of GeoJSON objects](https://altayakkus.dev/2024/05/26/geometry-aware-hashing/)<!-- HN:40484676:end -->
 #### **Monday, May 27, 2024**
 <!-- HN:40486168:start -->
-* [40486168](https://news.social-protocols.org/stats?id=40486168) #11 9 points 2 comments -> [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)<!-- HN:40486168:end -->
+* [40486168](https://news.social-protocols.org/stats?id=40486168) #11 9 points 2 comments -> [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)<!-- HN:40486168:end --><!-- HN:40458142:start -->
+* [40458142](https://news.social-protocols.org/stats?id=40458142) #20 52 points 7 comments -> [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)<!-- HN:40458142:end --><!-- HN:40456020:start -->
+* [40456020](https://news.social-protocols.org/stats?id=40456020) #27 7 points 3 comments -> [Tracking Releases and CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)<!-- HN:40456020:end -->
