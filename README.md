@@ -737,3 +737,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40484311](https://news.social-protocols.org/stats?id=40484311) #23 35 points 43 comments -> [Young women fall out of love with dating apps](https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000)<!-- HN:40484311:end --><!-- HN:40484702:start -->
 * [40484702](https://news.social-protocols.org/stats?id=40484702) #17 51 points 21 comments -> [My $2.2k laptop can't drive two screens](https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/)<!-- HN:40484702:end --><!-- HN:40484676:start -->
 * [40484676](https://news.social-protocols.org/stats?id=40484676) #10 5 points 2 comments -> [Show HN: Geometry-aware Hashing of GeoJSON objects](https://altayakkus.dev/2024/05/26/geometry-aware-hashing/)<!-- HN:40484676:end -->
+#### **Monday, May 27, 2024**
+<!-- HN:40486168:start -->
+* [40486168](https://news.social-protocols.org/stats?id=40486168) #11 9 points 2 comments -> [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)<!-- HN:40486168:end -->
