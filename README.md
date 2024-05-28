@@ -759,4 +759,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40474915](https://news.social-protocols.org/stats?id=40474915) #25 19 points 2 comments -> [Goodbye to My London Science Museum's 'Secret Life of the Home' Gallery [video]](https://www.youtube.com/watch?v=Kz5gBkZkKdg)<!-- HN:40474915:end -->
 #### **Tuesday, May 28, 2024**
 <!-- HN:40499137:start -->
-* [40499137](https://news.social-protocols.org/stats?id=40499137) #3 3 points 0 comments -> [Show HN: 100% Free SEO Tools You Will Ever Need](https://guruwebtools.com/en)<!-- HN:40499137:end -->
+* [40499137](https://news.social-protocols.org/stats?id=40499137) #3 3 points 0 comments -> [Show HN: 100% Free SEO Tools You Will Ever Need](https://guruwebtools.com/en)<!-- HN:40499137:end --><!-- HN:40498024:start -->
+* [40498024](https://news.social-protocols.org/stats?id=40498024) #15 113 points 69 comments -> [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)<!-- HN:40498024:end --><!-- HN:40498092:start -->
+* [40498092](https://news.social-protocols.org/stats?id=40498092) #19 121 points 23 comments -> [Gleam 1.2.0 release – Fault tolerant Gleam](https://gleam.run/news/fault-tolerant-gleam/)<!-- HN:40498092:end -->
