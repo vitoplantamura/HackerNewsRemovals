@@ -757,3 +757,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40492648](https://news.social-protocols.org/stats?id=40492648) #27 12 points 0 comments -> [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)<!-- HN:40492648:end --><!-- HN:40492076:start -->
 * [40492076](https://news.social-protocols.org/stats?id=40492076) #16 126 points 2 comments -> [Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)<!-- HN:40492076:end --><!-- HN:40474915:start -->
 * [40474915](https://news.social-protocols.org/stats?id=40474915) #25 19 points 2 comments -> [Goodbye to My London Science Museum's 'Secret Life of the Home' Gallery [video]](https://www.youtube.com/watch?v=Kz5gBkZkKdg)<!-- HN:40474915:end -->
+#### **Tuesday, May 28, 2024**
+<!-- HN:40499137:start -->
+* [40499137](https://news.social-protocols.org/stats?id=40499137) #3 3 points 0 comments -> [Show HN: 100% Free SEO Tools You Will Ever Need](https://guruwebtools.com/en)<!-- HN:40499137:end -->
