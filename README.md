@@ -789,4 +789,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40505884](https://news.social-protocols.org/stats?id=40505884) #19 7 points 1 comments -> [Cargo Was a Mistake](https://planetrenox.pages.dev/w/cargo+was+a+mistake)<!-- HN:40505884:end -->
 #### **Wednesday, May 29, 2024**
 <!-- HN:40506093:start -->
-* [40506093](https://news.social-protocols.org/stats?id=40506093) #12 8 points 2 comments -> [Marc Andreessen wants you to stay in school](https://www.garelick.net/2024/05/28/marc-andreessen-wants-you-to-stay-in-school/)<!-- HN:40506093:end -->
+* [40506093](https://news.social-protocols.org/stats?id=40506093) #12 8 points 2 comments -> [Marc Andreessen wants you to stay in school](https://www.garelick.net/2024/05/28/marc-andreessen-wants-you-to-stay-in-school/)<!-- HN:40506093:end --><!-- HN:40505660:start -->
+* [40505660](https://news.social-protocols.org/stats?id=40505660) #30 -> [Google Cloud accidentally deleted account of $125B pension fund](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)<!-- HN:40505660:end -->
