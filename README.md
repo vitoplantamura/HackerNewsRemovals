@@ -787,3 +787,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40497602](https://news.social-protocols.org/stats?id=40497602) #30 68 points 60 comments -> [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)<!-- HN:40497602:end --><!-- HN:40504467:start -->
 * [40504467](https://news.social-protocols.org/stats?id=40504467) #23 7 points 0 comments -> [The Naughty Words the FAA Removed from the Sky](https://www.beautifulpublicdata.com/trump-naughty-faa-waypoints/)<!-- HN:40504467:end --><!-- HN:40505884:start -->
 * [40505884](https://news.social-protocols.org/stats?id=40505884) #19 7 points 1 comments -> [Cargo Was a Mistake](https://planetrenox.pages.dev/w/cargo+was+a+mistake)<!-- HN:40505884:end -->
+#### **Wednesday, May 29, 2024**
+<!-- HN:40506093:start -->
+* [40506093](https://news.social-protocols.org/stats?id=40506093) #12 8 points 2 comments -> [Marc Andreessen wants you to stay in school](https://www.garelick.net/2024/05/28/marc-andreessen-wants-you-to-stay-in-school/)<!-- HN:40506093:end -->
