@@ -790,4 +790,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, May 29, 2024**
 <!-- HN:40506093:start -->
 * [40506093](https://news.social-protocols.org/stats?id=40506093) #12 8 points 2 comments -> [Marc Andreessen wants you to stay in school](https://www.garelick.net/2024/05/28/marc-andreessen-wants-you-to-stay-in-school/)<!-- HN:40506093:end --><!-- HN:40505660:start -->
-* [40505660](https://news.social-protocols.org/stats?id=40505660) #30 -> [Google Cloud accidentally deleted account of $125B pension fund](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)<!-- HN:40505660:end -->
+* [40505660](https://news.social-protocols.org/stats?id=40505660) #30 -> [Google Cloud accidentally deleted account of $125B pension fund](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)<!-- HN:40505660:end --><!-- HN:40507159:start -->
+* [40507159](https://news.social-protocols.org/stats?id=40507159) #10 12 points 2 comments -> [Rhodes Must Fall: The Legacy of Cecil Rhodes in the University of Oxford](https://globalcapitalism.history.ox.ac.uk/files/case31-rhodesmustfallpdf)<!-- HN:40507159:end -->
