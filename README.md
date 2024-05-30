@@ -812,4 +812,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40516945](https://news.social-protocols.org/stats?id=40516945) #8 -> [They Tried to Fire Sam Altman Because He Sucks](https://www.todayintabs.com/p/tried-fire-sam-altman-sucks)<!-- HN:40516945:end -->
 #### **Thursday, May 30, 2024**
 <!-- HN:40518864:start -->
-* [40518864](https://news.social-protocols.org/stats?id=40518864) #6 7 points 0 comments -> [Went to a neighborhood meeting. After I took this photo they asked me to leave](https://honk.novalis.org/u/novalis/h/q838d6t272wL6LKTWm)<!-- HN:40518864:end -->
+* [40518864](https://news.social-protocols.org/stats?id=40518864) #6 7 points 0 comments -> [Went to a neighborhood meeting. After I took this photo they asked me to leave](https://honk.novalis.org/u/novalis/h/q838d6t272wL6LKTWm)<!-- HN:40518864:end --><!-- HN:40519120:start -->
+* [40519120](https://news.social-protocols.org/stats?id=40519120) #6 28 points 23 comments -> [Aussies want employers to help with cost of living, travel to the office](https://ia.acs.org.au/article/2024/aussies-want-employers-to-help-with-cost-of-living.html)<!-- HN:40519120:end -->
