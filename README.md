@@ -810,3 +810,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40514816](https://news.social-protocols.org/stats?id=40514816) #17 110 points 17 comments -> [Why OpenAI CEO was ousted](https://www.cnbc.com/2024/05/29/former-openai-board-member-explains-why-ceo-sam-altman-was-fired.html)<!-- HN:40514816:end --><!-- HN:40515211:start -->
 * [40515211](https://news.social-protocols.org/stats?id=40515211) #9 19 points 40 comments -> [Outrider: What would happen if a nuclear bomb went off in your backyard](https://outrider.org/nuclear-weapons/interactive/bomb-blast)<!-- HN:40515211:end --><!-- HN:40516945:start -->
 * [40516945](https://news.social-protocols.org/stats?id=40516945) #8 -> [They Tried to Fire Sam Altman Because He Sucks](https://www.todayintabs.com/p/tried-fire-sam-altman-sucks)<!-- HN:40516945:end -->
+#### **Thursday, May 30, 2024**
+<!-- HN:40518864:start -->
+* [40518864](https://news.social-protocols.org/stats?id=40518864) #6 7 points 0 comments -> [Went to a neighborhood meeting. After I took this photo they asked me to leave](https://honk.novalis.org/u/novalis/h/q838d6t272wL6LKTWm)<!-- HN:40518864:end -->
