@@ -852,3 +852,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40529976](https://news.social-protocols.org/stats?id=40529976) #21 4 points 0 comments -> [Are dusty quasars masquerading as Dyson sphere candidates?](https://physicsworld.com/a/are-dusty-quasars-masquerading-as-dyson-sphere-candidates/)<!-- HN:40529976:end --><!-- HN:40529744:start -->
 * [40529744](https://news.social-protocols.org/stats?id=40529744) #23 6 points 1 comments -> [Google will roll out Chrome's new extension spec next week](https://www.theverge.com/2024/5/30/24168057/google-chrome-extension-change-manifest-v3-ad-blockers)<!-- HN:40529744:end --><!-- HN:40530062:start -->
 * [40530062](https://news.social-protocols.org/stats?id=40530062) #28 16 points 4 comments -> [Trump found guilty on all charges related to the hush money case](https://www.nytimes.com/live/2024/05/30/nyregion/trump-trial-verdict)<!-- HN:40530062:end -->
+#### **Friday, May 31, 2024**
+<!-- HN:40529929:start -->
+* [40529929](https://news.social-protocols.org/stats?id=40529929) #29 7 points 2 comments -> [Claude AI Claims Anthropic Is Wrong for Charging a Premium Plan for Claude AI](https://targettrend.com/claude-ai-claims-anthropic-is-wrong-for-charging-a-premium-plan-for-claude-ai/)<!-- HN:40529929:end -->
