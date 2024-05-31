@@ -853,4 +853,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40530062](https://news.social-protocols.org/stats?id=40530062) #28 16 points 4 comments -> [Trump found guilty on all charges related to the hush money case](https://www.nytimes.com/live/2024/05/30/nyregion/trump-trial-verdict)<!-- HN:40530062:end -->
 #### **Friday, May 31, 2024**
 <!-- HN:40529929:start -->
-* [40529929](https://news.social-protocols.org/stats?id=40529929) #29 7 points 2 comments -> [Claude AI Claims Anthropic Is Wrong for Charging a Premium Plan for Claude AI](https://targettrend.com/claude-ai-claims-anthropic-is-wrong-for-charging-a-premium-plan-for-claude-ai/)<!-- HN:40529929:end -->
+* [40529929](https://news.social-protocols.org/stats?id=40529929) #29 7 points 2 comments -> [Claude AI Claims Anthropic Is Wrong for Charging a Premium Plan for Claude AI](https://targettrend.com/claude-ai-claims-anthropic-is-wrong-for-charging-a-premium-plan-for-claude-ai/)<!-- HN:40529929:end --><!-- HN:40527814:start -->
+* [40527814](https://news.social-protocols.org/stats?id=40527814) #15 103 points 64 comments -> [2023 planetary heat uptake from termination shock of inadvertent geoengineering?](https://www.nature.com/articles/s43247-024-01442-3)<!-- HN:40527814:end -->
