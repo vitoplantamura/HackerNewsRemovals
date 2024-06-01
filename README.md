@@ -886,4 +886,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, June 1, 2024**
 <!-- HN:40539997:start -->
 * [40539997](https://news.social-protocols.org/stats?id=40539997) #26 43 points 24 comments -> [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)<!-- HN:40539997:end --><!-- HN:40541074:start -->
-* [40541074](https://news.social-protocols.org/stats?id=40541074) #10 8 points 12 comments -> [What is the worst AWS service? I vote for Amplify](https://blog.astrian.moe/posts/2024-05-shortext-amplify-may-the-worst-service-of-aws)<!-- HN:40541074:end -->
+* [40541074](https://news.social-protocols.org/stats?id=40541074) #10 8 points 12 comments -> [What is the worst AWS service? I vote for Amplify](https://blog.astrian.moe/posts/2024-05-shortext-amplify-may-the-worst-service-of-aws)<!-- HN:40541074:end --><!-- HN:40514033:start -->
+* [40514033](https://news.social-protocols.org/stats?id=40514033) #27 50 points 64 comments -> [Why Linux developers do not fix reported issues or ignore bug reports](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)<!-- HN:40514033:end -->
