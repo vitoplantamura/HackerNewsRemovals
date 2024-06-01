@@ -885,4 +885,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40539963](https://news.social-protocols.org/stats?id=40539963) #22 -> [John Carmack's Review of Bullshit Jobs](https://twitter.com/ID_AA_Carmack/status/1796622337963389412)<!-- HN:40539963:end -->
 #### **Saturday, June 1, 2024**
 <!-- HN:40539997:start -->
-* [40539997](https://news.social-protocols.org/stats?id=40539997) #26 43 points 24 comments -> [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)<!-- HN:40539997:end -->
+* [40539997](https://news.social-protocols.org/stats?id=40539997) #26 43 points 24 comments -> [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)<!-- HN:40539997:end --><!-- HN:40541074:start -->
+* [40541074](https://news.social-protocols.org/stats?id=40541074) #10 8 points 12 comments -> [What is the worst AWS service? I vote for Amplify](https://blog.astrian.moe/posts/2024-05-shortext-amplify-may-the-worst-service-of-aws)<!-- HN:40541074:end -->
