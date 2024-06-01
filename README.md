@@ -883,3 +883,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40538890](https://news.social-protocols.org/stats?id=40538890) #19 23 points 7 comments -> [Google Cloud error erases $135B pension fund](https://www.axios.com/2024/05/30/google-cloud-pension-error)<!-- HN:40538890:end --><!-- HN:40522134:start -->
 * [40522134](https://news.social-protocols.org/stats?id=40522134) #7 28 points 1 comments -> [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)<!-- HN:40522134:end --><!-- HN:40539963:start -->
 * [40539963](https://news.social-protocols.org/stats?id=40539963) #22 -> [John Carmack's Review of Bullshit Jobs](https://twitter.com/ID_AA_Carmack/status/1796622337963389412)<!-- HN:40539963:end -->
+#### **Saturday, June 1, 2024**
+<!-- HN:40539997:start -->
+* [40539997](https://news.social-protocols.org/stats?id=40539997) #26 43 points 24 comments -> [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)<!-- HN:40539997:end -->
