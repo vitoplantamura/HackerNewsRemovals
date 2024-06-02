@@ -912,3 +912,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40534868](https://news.social-protocols.org/stats?id=40534868) #25 677 points 211 comments -> [Snowflake breach: Hacker confirms access through infostealer infection](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)<!-- HN:40534868:end --><!-- HN:40548572:start -->
 * [40548572](https://news.social-protocols.org/stats?id=40548572) #5 19 points 11 comments -> [Shodan – Search Engine for the Internet of Everything](https://www.shodan.io/)<!-- HN:40548572:end --><!-- HN:40548552:start -->
 * [40548552](https://news.social-protocols.org/stats?id=40548552) #11 8 points 0 comments -> [Statistics of the Negro Leagues officially enter the Major League record](https://www.mlb.com/press-release/press-release-statistics-of-the-negro-leagues-officially-enter-the-major-league-record)<!-- HN:40548552:end -->
+#### **Sunday, June 2, 2024**
+<!-- HN:40519976:start -->
+* [40519976](https://news.social-protocols.org/stats?id=40519976) #16 114 points 29 comments -> [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)<!-- HN:40519976:end -->
