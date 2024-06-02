@@ -915,4 +915,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 2, 2024**
 <!-- HN:40519976:start -->
 * [40519976](https://news.social-protocols.org/stats?id=40519976) #16 114 points 29 comments -> [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)<!-- HN:40519976:end --><!-- HN:40550972:start -->
-* [40550972](https://news.social-protocols.org/stats?id=40550972) #7 5 points 2 comments -> [What Are Founders Reading?](https://foundcy.beehiiv.com/)<!-- HN:40550972:end -->
+* [40550972](https://news.social-protocols.org/stats?id=40550972) #7 5 points 2 comments -> [What Are Founders Reading?](https://foundcy.beehiiv.com/)<!-- HN:40550972:end --><!-- HN:40550617:start -->
+* [40550617](https://news.social-protocols.org/stats?id=40550617) #29 18 points 40 comments -> [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)<!-- HN:40550617:end -->
