@@ -914,4 +914,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40548552](https://news.social-protocols.org/stats?id=40548552) #11 8 points 0 comments -> [Statistics of the Negro Leagues officially enter the Major League record](https://www.mlb.com/press-release/press-release-statistics-of-the-negro-leagues-officially-enter-the-major-league-record)<!-- HN:40548552:end -->
 #### **Sunday, June 2, 2024**
 <!-- HN:40519976:start -->
-* [40519976](https://news.social-protocols.org/stats?id=40519976) #16 114 points 29 comments -> [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)<!-- HN:40519976:end -->
+* [40519976](https://news.social-protocols.org/stats?id=40519976) #16 114 points 29 comments -> [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)<!-- HN:40519976:end --><!-- HN:40550972:start -->
+* [40550972](https://news.social-protocols.org/stats?id=40550972) #7 5 points 2 comments -> [What Are Founders Reading?](https://foundcy.beehiiv.com/)<!-- HN:40550972:end -->
