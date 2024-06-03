@@ -928,4 +928,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 3, 2024**
 <!-- HN:40558640:start -->
 * [40558640](https://news.social-protocols.org/stats?id=40558640) #10 10 points 0 comments -> [Tech entrepreneur hosts charity for homeless while evicting tenant](https://www.thestar.com/real-estate/he-was-evicted-and-his-home-was-later-listed-on-airbnb-meanwhile-his-landlord-hosted/article_72c86bde-e162-11ee-b6d0-e3e7190ad965.html)<!-- HN:40558640:end --><!-- HN:40522782:start -->
-* [40522782](https://news.social-protocols.org/stats?id=40522782) #15 79 points 8 comments -> [Mesh Spreadsheet: A data and code editor that feels like a spreadsheet](https://github.com/chrispsn/mesh-spreadsheet)<!-- HN:40522782:end -->
+* [40522782](https://news.social-protocols.org/stats?id=40522782) #15 79 points 8 comments -> [Mesh Spreadsheet: A data and code editor that feels like a spreadsheet](https://github.com/chrispsn/mesh-spreadsheet)<!-- HN:40522782:end --><!-- HN:40551974:start -->
+* [40551974](https://news.social-protocols.org/stats?id=40551974) #16 7 points 2 comments -> [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)<!-- HN:40551974:end -->
