@@ -925,3 +925,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40530671](https://news.social-protocols.org/stats?id=40530671) #6 19 points 42 comments -> [Does anyone need a 1k Hz gaming display?](https://arstechnica.com/gaming/2024/05/does-anyone-really-need-a-1000-hz-gaming-display/)<!-- HN:40530671:end --><!-- HN:40555700:start -->
 * [40555700](https://news.social-protocols.org/stats?id=40555700) #20 3 points 0 comments -> [Jellyfin is suffering from a DDoS attack](https://twitter.com/jellyfin/status/1796700514937192635)<!-- HN:40555700:end --><!-- HN:40552431:start -->
 * [40552431](https://news.social-protocols.org/stats?id=40552431) #24 18 points 2 comments -> [Best DOS GUIs That I've Found (So Far)](https://multiboot-windows.dscloud.me/All_Pages_for_DOS_GUIs/DG00_The_Best_22_DOS_GUIs_Ive_Found.html)<!-- HN:40552431:end -->
+#### **Monday, June 3, 2024**
+<!-- HN:40558640:start -->
+* [40558640](https://news.social-protocols.org/stats?id=40558640) #10 10 points 0 comments -> [Tech entrepreneur hosts charity for homeless while evicting tenant](https://www.thestar.com/real-estate/he-was-evicted-and-his-home-was-later-listed-on-airbnb-meanwhile-his-landlord-hosted/article_72c86bde-e162-11ee-b6d0-e3e7190ad965.html)<!-- HN:40558640:end -->
