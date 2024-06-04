@@ -950,8 +950,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40551590](https://news.social-protocols.org/stats?id=40551590) #21 4 points 0 comments -> [Highlights from "I spent 6 years developing a game in Rust and it just shipped"](https://gamesbymason.com/2024/06/01/wor-ama/)<!-- HN:40551590:end --><!-- HN:40564104:start -->
 * [40564104](https://news.social-protocols.org/stats?id=40564104) #24 48 points 12 comments -> [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)<!-- HN:40564104:end --><!-- HN:40565794:start -->
 * [40565794](https://news.social-protocols.org/stats?id=40565794) #29 5 points 1 comments -> [Deterring a Taiwan Invasion](https://www.chinatalk.media/p/deterring-a-taiwan-invasion)<!-- HN:40565794:end --><!-- HN:40565663:start -->
-* [40565663](https://news.social-protocols.org/stats?id=40565663) #29 19 points 6 comments -> [Valve, a suggestion (about Team Fortress 2) [video]](https://www.youtube.com/watch?v=82B38TaawfE)<!-- HN:40565663:end --><!-- HN:40567312:start -->
-* [40567312](https://news.social-protocols.org/stats?id=40567312) #24 9 points 0 comments -> [Show HN: Keyword Research Tool Without Fuzz](https://helseo.com/)<!-- HN:40567312:end -->
+* [40565663](https://news.social-protocols.org/stats?id=40565663) #29 19 points 6 comments -> [Valve, a suggestion (about Team Fortress 2) [video]](https://www.youtube.com/watch?v=82B38TaawfE)<!-- HN:40565663:end -->
 #### **Tuesday, June 4, 2024**
 <!-- HN:40569551:start -->
 * [40569551](https://news.social-protocols.org/stats?id=40569551) #6 -> [Alan Turing on Abstraction Entrenchment](https://mathematikoihq.notion.site/Alan-Turing-on-abstraction-entrenchment-1d44996b403440c18ac6442f0afef905?pvs=4)<!-- HN:40569551:end --><!-- HN:40569441:start -->
