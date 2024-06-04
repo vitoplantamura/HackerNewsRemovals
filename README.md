@@ -954,4 +954,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40567312](https://news.social-protocols.org/stats?id=40567312) #24 9 points 0 comments -> [Show HN: Keyword Research Tool Without Fuzz](https://helseo.com/)<!-- HN:40567312:end -->
 #### **Tuesday, June 4, 2024**
 <!-- HN:40569551:start -->
-* [40569551](https://news.social-protocols.org/stats?id=40569551) #6 -> [Alan Turing on Abstraction Entrenchment](https://mathematikoihq.notion.site/Alan-Turing-on-abstraction-entrenchment-1d44996b403440c18ac6442f0afef905?pvs=4)<!-- HN:40569551:end -->
+* [40569551](https://news.social-protocols.org/stats?id=40569551) #6 -> [Alan Turing on Abstraction Entrenchment](https://mathematikoihq.notion.site/Alan-Turing-on-abstraction-entrenchment-1d44996b403440c18ac6442f0afef905?pvs=4)<!-- HN:40569551:end --><!-- HN:40569441:start -->
+* [40569441](https://news.social-protocols.org/stats?id=40569441) #28 5 points 0 comments -> [Amiga Emulator: WinUAE 5.3.0](https://www.winuae.net/2024/06/02/winuae-5-3-0/)<!-- HN:40569441:end -->
