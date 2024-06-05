@@ -991,4 +991,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40579278](https://news.social-protocols.org/stats?id=40579278) #30 8 points 0 comments -> [US Job openings fall to new 3-year low](https://www.cnn.com/2024/06/04/economy/job-openings-quits-jolts-april/index.html)<!-- HN:40579278:end -->
 #### **Wednesday, June 5, 2024**
 <!-- HN:40580249:start -->
-* [40580249](https://news.social-protocols.org/stats?id=40580249) #13 8 points 1 comments -> [Show HN: Built an app that personalizes home workouts (as non-tech solo founder)](https://parianlabs.com/)<!-- HN:40580249:end -->
+* [40580249](https://news.social-protocols.org/stats?id=40580249) #13 8 points 1 comments -> [Show HN: Built an app that personalizes home workouts (as non-tech solo founder)](https://parianlabs.com/)<!-- HN:40580249:end --><!-- HN:40579563:start -->
+* [40579563](https://news.social-protocols.org/stats?id=40579563) #22 14 points 1 comments -> [The Positive Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)<!-- HN:40579563:end -->
