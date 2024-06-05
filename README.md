@@ -989,3 +989,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40578937](https://news.social-protocols.org/stats?id=40578937) #25 23 points 3 comments -> [Neovim decision to use Lua is paying off](https://old.reddit.com/r/neovim/comments/1d6jy4h/neovim_decision_to_use_lua_is_truly_paying_off/)<!-- HN:40578937:end --><!-- HN:40579480:start -->
 * [40579480](https://news.social-protocols.org/stats?id=40579480) #28 4 points 0 comments -> [Car Makers _ Selling Our Driving History to Data Brokers and Insurance Companies](https://www.eff.org/deeplinks/2024/06/car-makers-shouldnt-be-selling-our-driving-history-data-brokers-and-insurance)<!-- HN:40579480:end --><!-- HN:40579278:start -->
 * [40579278](https://news.social-protocols.org/stats?id=40579278) #30 8 points 0 comments -> [US Job openings fall to new 3-year low](https://www.cnn.com/2024/06/04/economy/job-openings-quits-jolts-april/index.html)<!-- HN:40579278:end -->
+#### **Wednesday, June 5, 2024**
+<!-- HN:40580249:start -->
+* [40580249](https://news.social-protocols.org/stats?id=40580249) #13 8 points 1 comments -> [Show HN: Built an app that personalizes home workouts (as non-tech solo founder)](https://parianlabs.com/)<!-- HN:40580249:end -->
