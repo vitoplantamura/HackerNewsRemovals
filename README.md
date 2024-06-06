@@ -989,8 +989,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40579480](https://news.social-protocols.org/stats?id=40579480) #28 4 points 0 comments -> [Car Makers _ Selling Our Driving History to Data Brokers and Insurance Companies](https://www.eff.org/deeplinks/2024/06/car-makers-shouldnt-be-selling-our-driving-history-data-brokers-and-insurance)<!-- HN:40579480:end --><!-- HN:40579278:start -->
 * [40579278](https://news.social-protocols.org/stats?id=40579278) #30 8 points 0 comments -> [US Job openings fall to new 3-year low](https://www.cnn.com/2024/06/04/economy/job-openings-quits-jolts-april/index.html)<!-- HN:40579278:end -->
 #### **Wednesday, June 5, 2024**
-<!-- HN:40580249:start -->
-* [40580249](https://news.social-protocols.org/stats?id=40580249) #13 8 points 1 comments -> [Show HN: Built an app that personalizes home workouts (as non-tech solo founder)](https://parianlabs.com/)<!-- HN:40580249:end --><!-- HN:40579563:start -->
+<!-- HN:40579563:start -->
 * [40579563](https://news.social-protocols.org/stats?id=40579563) #22 14 points 1 comments -> [The Positive Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)<!-- HN:40579563:end --><!-- HN:40580597:start -->
 * [40580597](https://news.social-protocols.org/stats?id=40580597) #30 3 points 0 comments -> [New recycling method makes solar cells even more environmentally friendly](https://arstechnica.com/science/2024/06/new-recycling-method-makes-solar-cells-even-more-environmentally-friendly/)<!-- HN:40580597:end --><!-- HN:40556590:start -->
 * [40556590](https://news.social-protocols.org/stats?id=40556590) #28 10 points 0 comments -> [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)<!-- HN:40556590:end --><!-- HN:40580456:start -->
