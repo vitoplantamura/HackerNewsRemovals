@@ -1027,5 +1027,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40589011](https://news.social-protocols.org/stats?id=40589011) #20 28 points 20 comments -> [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)<!-- HN:40589011:end --><!-- HN:40591414:start -->
 * [40591414](https://news.social-protocols.org/stats?id=40591414) #29 6 points 0 comments -> [Professor by Day. Porn Star by Night. Can He Be Both?](https://www.thefp.com/p/94eb374f-0cb9-49ff-97f3-fbc507d2cd0c)<!-- HN:40591414:end -->
 #### **Thursday, June 6, 2024**
-<!-- HN:40592998:start -->
-* [40592998](https://news.social-protocols.org/stats?id=40592998) #6 14 points 3 comments -> [PSA: If you're a fan of ATmega, try AVR Dx](https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try)<!-- HN:40592998:end -->
