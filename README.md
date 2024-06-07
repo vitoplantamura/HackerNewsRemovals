@@ -1063,3 +1063,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40602162](https://news.social-protocols.org/stats?id=40602162) #30 7 points 0 comments -> [You can inherit a dead relative's GOG account–if you have a court order](https://arstechnica.com/gaming/2024/06/gog-will-transfer-your-dead-relatives-game-account-but-only-with-a-court-order/)<!-- HN:40602162:end --><!-- HN:40603156:start -->
 * [40603156](https://news.social-protocols.org/stats?id=40603156) #1 6 points 0 comments -> [Show HN: 3D Website](https://safwur.com)<!-- HN:40603156:end --><!-- HN:40603515:start -->
 * [40603515](https://news.social-protocols.org/stats?id=40603515) #23 12 points 8 comments -> [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)<!-- HN:40603515:end -->
+#### **Friday, June 7, 2024**
+<!-- HN:40603751:start -->
+* [40603751](https://news.social-protocols.org/stats?id=40603751) #1 -> [American business should not empower a criminal, says Reid Hoffman](https://www.economist.com/by-invitation/2024/06/06/american-business-should-not-empower-a-criminal-says-reid-hoffman)<!-- HN:40603751:end -->
