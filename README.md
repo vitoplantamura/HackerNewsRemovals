@@ -1065,4 +1065,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40603515](https://news.social-protocols.org/stats?id=40603515) #23 12 points 8 comments -> [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)<!-- HN:40603515:end -->
 #### **Friday, June 7, 2024**
 <!-- HN:40603751:start -->
-* [40603751](https://news.social-protocols.org/stats?id=40603751) #1 -> [American business should not empower a criminal, says Reid Hoffman](https://www.economist.com/by-invitation/2024/06/06/american-business-should-not-empower-a-criminal-says-reid-hoffman)<!-- HN:40603751:end -->
+* [40603751](https://news.social-protocols.org/stats?id=40603751) #1 -> [American business should not empower a criminal, says Reid Hoffman](https://www.economist.com/by-invitation/2024/06/06/american-business-should-not-empower-a-criminal-says-reid-hoffman)<!-- HN:40603751:end --><!-- HN:40604349:start -->
+* [40604349](https://news.social-protocols.org/stats?id=40604349) #23 13 points 0 comments -> [Florida woman's Apple Watch traces lost luggage to airport worker's home](https://www.washingtonpost.com/travel/2024/06/06/lost-luggage-tracking-apple-watch-florida-airport-worker/)<!-- HN:40604349:end -->
