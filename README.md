@@ -1095,4 +1095,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, June 8, 2024**
 <!-- HN:40613724:start -->
 * [40613724](https://news.social-protocols.org/stats?id=40613724) #17 26 points 40 comments -> [No One Wants a New Car Now. Here's Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)<!-- HN:40613724:end --><!-- HN:40614040:start -->
-* [40614040](https://news.social-protocols.org/stats?id=40614040) #19 4 points 1 comments -> [FBI releases documents on O.J. Simpson](https://www.espn.com/nfl/story/_/id/40298456/fbi-releases-documents-oj-simpson)<!-- HN:40614040:end -->
+* [40614040](https://news.social-protocols.org/stats?id=40614040) #19 4 points 1 comments -> [FBI releases documents on O.J. Simpson](https://www.espn.com/nfl/story/_/id/40298456/fbi-releases-documents-oj-simpson)<!-- HN:40614040:end --><!-- HN:40612139:start -->
+* [40612139](https://news.social-protocols.org/stats?id=40612139) #21 27 points 0 comments -> [Comments on the FTC antitrust investigation of Google](https://danluu.com/ftc-google-antitrust/)<!-- HN:40612139:end -->
