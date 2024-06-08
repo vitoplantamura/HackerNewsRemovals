@@ -1093,8 +1093,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40613603](https://news.social-protocols.org/stats?id=40613603) #15 6 points 0 comments -> [Israel says Hamas weaponized rape. Does the evidence add up?](https://www.thetimes.com/magazines/the-times-magazine/article/israel-hamas-rape-investigation-evidence-october-7-6kzphszsj)<!-- HN:40613603:end --><!-- HN:40613639:start -->
 * [40613639](https://news.social-protocols.org/stats?id=40613639) #9 11 points 0 comments -> [American business should not empower a criminal, says Reid Hoffman](https://www.economist.com/by-invitation/2024/06/06/american-business-should-not-empower-a-criminal-says-reid-hoffman)<!-- HN:40613639:end -->
 #### **Saturday, June 8, 2024**
-<!-- HN:40613724:start -->
-* [40613724](https://news.social-protocols.org/stats?id=40613724) #17 26 points 40 comments -> [No One Wants a New Car Now. Here's Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)<!-- HN:40613724:end --><!-- HN:40614040:start -->
+<!-- HN:40614040:start -->
 * [40614040](https://news.social-protocols.org/stats?id=40614040) #19 4 points 1 comments -> [FBI releases documents on O.J. Simpson](https://www.espn.com/nfl/story/_/id/40298456/fbi-releases-documents-oj-simpson)<!-- HN:40614040:end --><!-- HN:40612139:start -->
 * [40612139](https://news.social-protocols.org/stats?id=40612139) #21 27 points 0 comments -> [Comments on the FTC antitrust investigation of Google](https://danluu.com/ftc-google-antitrust/)<!-- HN:40612139:end --><!-- HN:40614577:start -->
 * [40614577](https://news.social-protocols.org/stats?id=40614577) #10 14 points 0 comments -> [Cloud Performance on a "Toy" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)<!-- HN:40614577:end -->
