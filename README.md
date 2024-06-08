@@ -1094,4 +1094,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40613639](https://news.social-protocols.org/stats?id=40613639) #9 11 points 0 comments -> [American business should not empower a criminal, says Reid Hoffman](https://www.economist.com/by-invitation/2024/06/06/american-business-should-not-empower-a-criminal-says-reid-hoffman)<!-- HN:40613639:end -->
 #### **Saturday, June 8, 2024**
 <!-- HN:40613724:start -->
-* [40613724](https://news.social-protocols.org/stats?id=40613724) #17 26 points 40 comments -> [No One Wants a New Car Now. Here's Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)<!-- HN:40613724:end -->
+* [40613724](https://news.social-protocols.org/stats?id=40613724) #17 26 points 40 comments -> [No One Wants a New Car Now. Here's Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)<!-- HN:40613724:end --><!-- HN:40614040:start -->
+* [40614040](https://news.social-protocols.org/stats?id=40614040) #19 4 points 1 comments -> [FBI releases documents on O.J. Simpson](https://www.espn.com/nfl/story/_/id/40298456/fbi-releases-documents-oj-simpson)<!-- HN:40614040:end -->
