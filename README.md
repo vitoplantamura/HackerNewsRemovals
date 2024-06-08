@@ -1092,3 +1092,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40613255](https://news.social-protocols.org/stats?id=40613255) #29 15 points 2 comments -> [Stanford Follows Harvard, Yale in Reinstating Standardized Tests](https://www.bloomberg.com/news/articles/2024-06-07/stanford-follows-harvard-yale-in-reinstating-standardized-tests)<!-- HN:40613255:end --><!-- HN:40613603:start -->
 * [40613603](https://news.social-protocols.org/stats?id=40613603) #15 6 points 0 comments -> [Israel says Hamas weaponized rape. Does the evidence add up?](https://www.thetimes.com/magazines/the-times-magazine/article/israel-hamas-rape-investigation-evidence-october-7-6kzphszsj)<!-- HN:40613603:end --><!-- HN:40613639:start -->
 * [40613639](https://news.social-protocols.org/stats?id=40613639) #9 11 points 0 comments -> [American business should not empower a criminal, says Reid Hoffman](https://www.economist.com/by-invitation/2024/06/06/american-business-should-not-empower-a-criminal-says-reid-hoffman)<!-- HN:40613639:end -->
+#### **Saturday, June 8, 2024**
+<!-- HN:40613724:start -->
+* [40613724](https://news.social-protocols.org/stats?id=40613724) #17 26 points 40 comments -> [No One Wants a New Car Now. Here's Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)<!-- HN:40613724:end -->
