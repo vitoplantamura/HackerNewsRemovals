@@ -1122,4 +1122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40620122](https://news.social-protocols.org/stats?id=40620122) #7 5 points 2 comments -> [Why do people drop litter?](https://notoriousbfg.com/why-drop-litter/)<!-- HN:40620122:end -->
 #### **Sunday, June 9, 2024**
 <!-- HN:40604504:start -->
-* [40604504](https://news.social-protocols.org/stats?id=40604504) #13 25 points 40 comments -> [Can You Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)<!-- HN:40604504:end -->
+* [40604504](https://news.social-protocols.org/stats?id=40604504) #13 25 points 40 comments -> [Can You Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)<!-- HN:40604504:end --><!-- HN:40620799:start -->
+* [40620799](https://news.social-protocols.org/stats?id=40620799) #22 37 points 41 comments -> [AI Appears to Rapidly Be Approaching Brick Wall Where It Can't Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)<!-- HN:40620799:end -->
