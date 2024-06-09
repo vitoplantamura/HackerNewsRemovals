@@ -1120,3 +1120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40619766](https://news.social-protocols.org/stats?id=40619766) #15 4 points 1 comments -> [SQLite-vss deprecated and its sucessor SQLite-vec](https://github.com/asg017/sqlite-vec)<!-- HN:40619766:end --><!-- HN:40620014:start -->
 * [40620014](https://news.social-protocols.org/stats?id=40620014) #27 50 points 17 comments -> [EU Plans Major Expansion of Mass Surveillance](https://reclaimthenet.org/eu-plans-mass-surveillance-data-collection-device-monitoring-encryption-backdoors)<!-- HN:40620014:end --><!-- HN:40620122:start -->
 * [40620122](https://news.social-protocols.org/stats?id=40620122) #7 5 points 2 comments -> [Why do people drop litter?](https://notoriousbfg.com/why-drop-litter/)<!-- HN:40620122:end -->
+#### **Sunday, June 9, 2024**
+<!-- HN:40604504:start -->
+* [40604504](https://news.social-protocols.org/stats?id=40604504) #13 25 points 40 comments -> [Can You Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)<!-- HN:40604504:end -->
