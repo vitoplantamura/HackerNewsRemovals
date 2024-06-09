@@ -1123,4 +1123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 9, 2024**
 <!-- HN:40604504:start -->
 * [40604504](https://news.social-protocols.org/stats?id=40604504) #13 25 points 40 comments -> [Can You Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)<!-- HN:40604504:end --><!-- HN:40620799:start -->
-* [40620799](https://news.social-protocols.org/stats?id=40620799) #22 37 points 41 comments -> [AI Appears to Rapidly Be Approaching Brick Wall Where It Can't Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)<!-- HN:40620799:end -->
+* [40620799](https://news.social-protocols.org/stats?id=40620799) #22 37 points 41 comments -> [AI Appears to Rapidly Be Approaching Brick Wall Where It Can't Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)<!-- HN:40620799:end --><!-- HN:40621355:start -->
+* [40621355](https://news.social-protocols.org/stats?id=40621355) #26 3 points 1 comments -> [Israel rescues 4 hostages in Gaza, attacks nearby kill at least 93 Palestinians](https://www.theguardian.com/world/article/2024/jun/08/israel-rescues-four-hostages-in-gaza-taken-from-nova-music-festival)<!-- HN:40621355:end -->
