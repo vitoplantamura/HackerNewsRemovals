@@ -1150,4 +1150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40626773](https://news.social-protocols.org/stats?id=40626773) #22 6 points 0 comments -> [That Much-Despised Apple Ad Could Be More Disturbing Than It Looks](https://www.nytimes.com/2024/06/06/magazine/apple-ipad-ad.html)<!-- HN:40626773:end --><!-- HN:40627187:start -->
 * [40627187](https://news.social-protocols.org/stats?id=40627187) #15 9 points 3 comments -> [The Uber-wealthy families who control much of the food system](https://www.abc.net.au/news/2024-06-07/meet-the-mega-rich-families-controlling-the-us-food-system/103874576)<!-- HN:40627187:end --><!-- HN:40627707:start -->
 * [40627707](https://news.social-protocols.org/stats?id=40627707) #6 4 points 0 comments -> [From Long Covid Odds to Lost IQ Points: Ongoing Threats You Don't Know About](https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about)<!-- HN:40627707:end -->
-#### **Monday, June 10, 2024**
+#### **Monday, June 10, 2024**<!-- HN:40629131:start -->
+* [40629131](https://news.social-protocols.org/stats?id=40629131) #7 12 points 3 comments -> [Ken Burns, Faux "Storyteller"](https://albertcory50.substack.com/p/ken-burns-faux-storyteller)<!-- HN:40629131:end -->
