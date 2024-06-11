@@ -1172,3 +1172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40637778](https://news.social-protocols.org/stats?id=40637778) #14 13 points 7 comments -> [MS makes 1984-style monitoring, so how does the Linux community respond?](https://github.com/openrecall/openrecall)<!-- HN:40637778:end --><!-- HN:40616752:start -->
 * [40616752](https://news.social-protocols.org/stats?id=40616752) #21 25 points 22 comments -> [`Bytes`: The Lesser-Known Python Built-In Sequence](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)<!-- HN:40616752:end --><!-- HN:40639429:start -->
 * [40639429](https://news.social-protocols.org/stats?id=40639429) #26 34 points 5 comments -> [Malicious VSCode extensions with installs discovered](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/)<!-- HN:40639429:end -->
+#### **Tuesday, June 11, 2024**
+<!-- HN:40639148:start -->
+* [40639148](https://news.social-protocols.org/stats?id=40639148) #15 23 points 40 comments -> [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)<!-- HN:40639148:end -->
