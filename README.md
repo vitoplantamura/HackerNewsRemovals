@@ -1174,4 +1174,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40639429](https://news.social-protocols.org/stats?id=40639429) #26 34 points 5 comments -> [Malicious VSCode extensions with installs discovered](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/)<!-- HN:40639429:end -->
 #### **Tuesday, June 11, 2024**
 <!-- HN:40639148:start -->
-* [40639148](https://news.social-protocols.org/stats?id=40639148) #15 23 points 40 comments -> [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)<!-- HN:40639148:end -->
+* [40639148](https://news.social-protocols.org/stats?id=40639148) #15 23 points 40 comments -> [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)<!-- HN:40639148:end --><!-- HN:40636502:start -->
+* [40636502](https://news.social-protocols.org/stats?id=40636502) #24 199 points 3 comments -> [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)<!-- HN:40636502:end -->
