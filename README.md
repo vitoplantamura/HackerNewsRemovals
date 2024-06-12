@@ -1196,3 +1196,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40650928](https://news.social-protocols.org/stats?id=40650928) #3 6 points 2 comments -> [Arc Prize Guide](https://arcprize.org/guide)<!-- HN:40650928:end --><!-- HN:40651315:start -->
 * [40651315](https://news.social-protocols.org/stats?id=40651315) #8 6 points 4 comments -> [AGI](https://colab.research.google.com/drive/1XjqcDe9SvUT_wCwfK6pizRF5R_11jpPu?usp=sharing)<!-- HN:40651315:end --><!-- HN:40651141:start -->
 * [40651141](https://news.social-protocols.org/stats?id=40651141) #30 7 points 2 comments -> [How Apple Intelligence Works](https://twitter.com/elonmusk/status/1800272349134279011)<!-- HN:40651141:end -->
+#### **Wednesday, June 12, 2024**
+<!-- HN:40652098:start -->
+* [40652098](https://news.social-protocols.org/stats?id=40652098) #29 -> [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)<!-- HN:40652098:end -->
