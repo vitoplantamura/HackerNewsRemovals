@@ -1200,4 +1200,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40652098:start -->
 * [40652098](https://news.social-protocols.org/stats?id=40652098) #29 -> [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)<!-- HN:40652098:end --><!-- HN:40654020:start -->
 * [40654020](https://news.social-protocols.org/stats?id=40654020) #6 7 points 0 comments -> [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024](https://machinelearning.apple.com/updates/apple-at-cvpr-2024)<!-- HN:40654020:end --><!-- HN:40654289:start -->
-* [40654289](https://news.social-protocols.org/stats?id=40654289) #30 9 points 4 comments -> [Fifth helium leak detected on Starliner](https://spacenews.com/fifth-helium-leak-detected-on-starliner/)<!-- HN:40654289:end -->
+* [40654289](https://news.social-protocols.org/stats?id=40654289) #30 9 points 4 comments -> [Fifth helium leak detected on Starliner](https://spacenews.com/fifth-helium-leak-detected-on-starliner/)<!-- HN:40654289:end --><!-- HN:40654962:start -->
+* [40654962](https://news.social-protocols.org/stats?id=40654962) #7 22 points 41 comments -> [Denmark recalls Korean ramen for being too spicy](https://www.bbc.com/news/articles/cy00gk0kr82o)<!-- HN:40654962:end -->
