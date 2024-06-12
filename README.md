@@ -1198,4 +1198,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40651141](https://news.social-protocols.org/stats?id=40651141) #30 7 points 2 comments -> [How Apple Intelligence Works](https://twitter.com/elonmusk/status/1800272349134279011)<!-- HN:40651141:end -->
 #### **Wednesday, June 12, 2024**
 <!-- HN:40652098:start -->
-* [40652098](https://news.social-protocols.org/stats?id=40652098) #29 -> [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)<!-- HN:40652098:end -->
+* [40652098](https://news.social-protocols.org/stats?id=40652098) #29 -> [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)<!-- HN:40652098:end --><!-- HN:40654020:start -->
+* [40654020](https://news.social-protocols.org/stats?id=40654020) #6 7 points 0 comments -> [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024](https://machinelearning.apple.com/updates/apple-at-cvpr-2024)<!-- HN:40654020:end -->
