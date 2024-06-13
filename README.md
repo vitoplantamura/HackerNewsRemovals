@@ -1228,5 +1228,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, June 13, 2024**
 <!-- HN:40657753:start -->
 * [40657753](https://news.social-protocols.org/stats?id=40657753) #22 36 points 2 comments -> [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)<!-- HN:40657753:end --><!-- HN:40662803:start -->
-* [40662803](https://news.social-protocols.org/stats?id=40662803) #28 27 points 11 comments -> [Boeing Starliner Stuck on Space Station as More Leaks Discovered](https://futurism.com/the-byte/boeing-starliner-stuck-space-station-more-leaks)<!-- HN:40662803:end --><!-- HN:40664072:start -->
-* [40664072](https://news.social-protocols.org/stats?id=40664072) #10 3 points 0 comments -> [#1 – Getting Started – No BS Intro to Developing with LLMs](https://www.gdcorner.com/blog/2024/06/12/NoBSIntroToLLMs-1-GettingStarted.html)<!-- HN:40664072:end -->
+* [40662803](https://news.social-protocols.org/stats?id=40662803) #28 27 points 11 comments -> [Boeing Starliner Stuck on Space Station as More Leaks Discovered](https://futurism.com/the-byte/boeing-starliner-stuck-space-station-more-leaks)<!-- HN:40662803:end -->
