@@ -1229,4 +1229,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40657753:start -->
 * [40657753](https://news.social-protocols.org/stats?id=40657753) #22 36 points 2 comments -> [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)<!-- HN:40657753:end --><!-- HN:40662803:start -->
 * [40662803](https://news.social-protocols.org/stats?id=40662803) #28 27 points 11 comments -> [Boeing Starliner Stuck on Space Station as More Leaks Discovered](https://futurism.com/the-byte/boeing-starliner-stuck-space-station-more-leaks)<!-- HN:40662803:end --><!-- HN:40664279:start -->
-* [40664279](https://news.social-protocols.org/stats?id=40664279) #3 11 points 11 comments -> [Nietzsche's Guide to Greatness](https://www.johnathanbi.com/p/nietzsches-guide-to-greatness-the)<!-- HN:40664279:end -->
+* [40664279](https://news.social-protocols.org/stats?id=40664279) #3 11 points 11 comments -> [Nietzsche's Guide to Greatness](https://www.johnathanbi.com/p/nietzsches-guide-to-greatness-the)<!-- HN:40664279:end --><!-- HN:40660771:start -->
+* [40660771](https://news.social-protocols.org/stats?id=40660771) #30 10 points 0 comments -> [Databricks to Open Source Unity Catalog](https://www.datanami.com/2024/06/12/databricks-to-open-source-unity-catalog/)<!-- HN:40660771:end -->
