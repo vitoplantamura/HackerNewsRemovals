@@ -1249,3 +1249,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40675483](https://news.social-protocols.org/stats?id=40675483) #4 8 points 2 comments -> [Apple can scan your photos or videos to detect whether they contain nudity](https://support.apple.com/en-us/105071)<!-- HN:40675483:end --><!-- HN:40675849:start -->
 * [40675849](https://news.social-protocols.org/stats?id=40675849) #25 4 points 0 comments -> [Book about book bans banned by Florida school board](https://www.theguardian.com/books/article/2024/jun/11/florida-book-bans-book-banned)<!-- HN:40675849:end --><!-- HN:40676021:start -->
 * [40676021](https://news.social-protocols.org/stats?id=40676021) #28 8 points 0 comments -> [The Stanford Internet Observatory is being dismantled](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)<!-- HN:40676021:end -->
+#### **Friday, June 14, 2024**
+<!-- HN:40644562:start -->
+* [40644562](https://news.social-protocols.org/stats?id=40644562) #9 138 points 51 comments -> [Scan HTML faster with SIMD instructions – Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)<!-- HN:40644562:end --><!-- HN:40646528:start -->
+* [40646528](https://news.social-protocols.org/stats?id=40646528) #15 84 points 20 comments -> [Solving Probabilistic Tic-Tac-Toe](https://louisabraham.github.io/articles/probabilistic-tic-tac-toe)<!-- HN:40646528:end -->
