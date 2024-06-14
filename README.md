@@ -1248,4 +1248,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40675483](https://news.social-protocols.org/stats?id=40675483) #4 8 points 2 comments -> [Apple can scan your photos or videos to detect whether they contain nudity](https://support.apple.com/en-us/105071)<!-- HN:40675483:end --><!-- HN:40675849:start -->
 * [40675849](https://news.social-protocols.org/stats?id=40675849) #25 4 points 0 comments -> [Book about book bans banned by Florida school board](https://www.theguardian.com/books/article/2024/jun/11/florida-book-bans-book-banned)<!-- HN:40675849:end --><!-- HN:40676021:start -->
 * [40676021](https://news.social-protocols.org/stats?id=40676021) #28 8 points 0 comments -> [The Stanford Internet Observatory is being dismantled](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)<!-- HN:40676021:end -->
-#### **Friday, June 14, 2024**
+#### **Friday, June 14, 2024**<!-- HN:40674578:start -->
+* [40674578](https://news.social-protocols.org/stats?id=40674578) #30 11 points 1 comments -> ['Noodle Rat' a New Cross-Platform Malware Targets Windows and Linux Systems](https://thesecuritypivot.com/2024/06/13/noodle-rat-a-new-cross-platform-malware-targets-windows-and-linux-systems/)<!-- HN:40674578:end -->
