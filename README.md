@@ -1264,3 +1264,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40684932](https://news.social-protocols.org/stats?id=40684932) #7 2 points 0 comments -> [Apple's PCC: Bold step forward, not without flaws](https://blog.trailofbits.com/2024/06/14/pcc-bold-step-forward-not-without-flaws/)<!-- HN:40684932:end --><!-- HN:40683121:start -->
 * [40683121](https://news.social-protocols.org/stats?id=40683121) #21 81 points 2 comments -> [Boeing and Airbus may have used 'counterfeit' titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)<!-- HN:40683121:end --><!-- HN:40684327:start -->
 * [40684327](https://news.social-protocols.org/stats?id=40684327) #8 24 points 40 comments -> [What Is the Opposite of Oil Drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)<!-- HN:40684327:end -->
+#### **Saturday, June 15, 2024**
+<!-- HN:40686510:start -->
+* [40686510](https://news.social-protocols.org/stats?id=40686510) #8 8 points 0 comments -> ["Debilitating a Generation": Long Covid May Eventually Affect Most Americans](https://www.ineteconomics.org/perspectives/blog/debilitating-a-generation-expert-warns-that-long-covid-may-eventually-affect-most-americans)<!-- HN:40686510:end -->
