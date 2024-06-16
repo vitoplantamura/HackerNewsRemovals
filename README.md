@@ -1279,3 +1279,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40689060](https://news.social-protocols.org/stats?id=40689060) #8 3 points 1 comments -> [If you always use these 6 phrases, you're mentally stronger than most](https://www.cnbc.com/2024/06/14/if-you-always-use-these-phrases-youre-mentally-stronger-than-most.html)<!-- HN:40689060:end --><!-- HN:40690996:start -->
 * [40690996](https://news.social-protocols.org/stats?id=40690996) #26 4 points 0 comments -> [This LED mask hides your face behind a creepy pixelated smile](https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji)<!-- HN:40690996:end --><!-- HN:40693164:start -->
 * [40693164](https://news.social-protocols.org/stats?id=40693164) #5 7 points 0 comments -> [Hiring based on merit, excellence, & intelligence (MEI) elicits muted response](https://twitter.com/paulg/status/1801986079890850008)<!-- HN:40693164:end -->
+#### **Sunday, June 16, 2024**
+<!-- HN:40694432:start -->
+* [40694432](https://news.social-protocols.org/stats?id=40694432) #16 18 points 8 comments -> [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)<!-- HN:40694432:end -->
