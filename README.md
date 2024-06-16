@@ -1282,4 +1282,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 16, 2024**
 <!-- HN:40694432:start -->
 * [40694432](https://news.social-protocols.org/stats?id=40694432) #16 18 points 8 comments -> [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)<!-- HN:40694432:end --><!-- HN:40692970:start -->
-* [40692970](https://news.social-protocols.org/stats?id=40692970) #17 97 points 52 comments -> [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)<!-- HN:40692970:end -->
+* [40692970](https://news.social-protocols.org/stats?id=40692970) #17 97 points 52 comments -> [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)<!-- HN:40692970:end --><!-- HN:40695365:start -->
+* [40695365](https://news.social-protocols.org/stats?id=40695365) #4 9 points 3 comments -> [R.A. Lafferty: "The Greatest Catholic Novelist You Never Heard of" (2018)](https://benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)<!-- HN:40695365:end -->
