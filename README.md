@@ -1281,4 +1281,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40693164](https://news.social-protocols.org/stats?id=40693164) #5 7 points 0 comments -> [Hiring based on merit, excellence, & intelligence (MEI) elicits muted response](https://twitter.com/paulg/status/1801986079890850008)<!-- HN:40693164:end -->
 #### **Sunday, June 16, 2024**
 <!-- HN:40694432:start -->
-* [40694432](https://news.social-protocols.org/stats?id=40694432) #16 18 points 8 comments -> [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)<!-- HN:40694432:end -->
+* [40694432](https://news.social-protocols.org/stats?id=40694432) #16 18 points 8 comments -> [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)<!-- HN:40694432:end --><!-- HN:40692970:start -->
+* [40692970](https://news.social-protocols.org/stats?id=40692970) #17 97 points 52 comments -> [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)<!-- HN:40692970:end -->
