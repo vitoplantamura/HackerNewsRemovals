@@ -1292,3 +1292,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40699858](https://news.social-protocols.org/stats?id=40699858) #11 8 points 5 comments -> [Agile Dating: A Less Painful Way to Date](https://jessicafan.substack.com/p/agile-dating-a-less-painful-way-to)<!-- HN:40699858:end --><!-- HN:40700066:start -->
 * [40700066](https://news.social-protocols.org/stats?id=40700066) #26 8 points 0 comments -> [Sam Bankman-Fried funded a group with racist ties. FTX wants its $5M back](https://www.theguardian.com/technology/article/2024/jun/16/sam-bankman-fried-ftx-eugenics-scientific-racism)<!-- HN:40700066:end --><!-- HN:40700259:start -->
 * [40700259](https://news.social-protocols.org/stats?id=40700259) #28 23 points 0 comments -> [NumPy 2.0 Is Released](https://numpy.org/news/)<!-- HN:40700259:end -->
+#### **Monday, June 17, 2024**
+<!-- HN:40701607:start -->
+* [40701607](https://news.social-protocols.org/stats?id=40701607) #11 8 points 1 comments -> [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)<!-- HN:40701607:end -->
