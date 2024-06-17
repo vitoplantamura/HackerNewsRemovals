@@ -1295,4 +1295,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 17, 2024**
 <!-- HN:40701607:start -->
 * [40701607](https://news.social-protocols.org/stats?id=40701607) #11 8 points 1 comments -> [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)<!-- HN:40701607:end --><!-- HN:40703908:start -->
-* [40703908](https://news.social-protocols.org/stats?id=40703908) #7 33 points 40 comments -> [Cities: Skylines II Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)<!-- HN:40703908:end -->
+* [40703908](https://news.social-protocols.org/stats?id=40703908) #7 33 points 40 comments -> [Cities: Skylines II Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)<!-- HN:40703908:end --><!-- HN:40703316:start -->
+* [40703316](https://news.social-protocols.org/stats?id=40703316) #21 20 points 14 comments -> [New material for solid-state batteries with 100-times higher energy density](https://www.tdk.com/en/news_center/press/20240617_01.html)<!-- HN:40703316:end -->
