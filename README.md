@@ -1294,4 +1294,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40700259](https://news.social-protocols.org/stats?id=40700259) #28 23 points 0 comments -> [NumPy 2.0 Is Released](https://numpy.org/news/)<!-- HN:40700259:end -->
 #### **Monday, June 17, 2024**
 <!-- HN:40701607:start -->
-* [40701607](https://news.social-protocols.org/stats?id=40701607) #11 8 points 1 comments -> [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)<!-- HN:40701607:end -->
+* [40701607](https://news.social-protocols.org/stats?id=40701607) #11 8 points 1 comments -> [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)<!-- HN:40701607:end --><!-- HN:40703908:start -->
+* [40703908](https://news.social-protocols.org/stats?id=40703908) #7 33 points 40 comments -> [Cities: Skylines II Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)<!-- HN:40703908:end -->
