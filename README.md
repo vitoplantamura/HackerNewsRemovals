@@ -1294,5 +1294,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40700259](https://news.social-protocols.org/stats?id=40700259) #28 23 points 0 comments -> [NumPy 2.0 Is Released](https://numpy.org/news/)<!-- HN:40700259:end -->
 #### **Monday, June 17, 2024**
 <!-- HN:40701607:start -->
-* [40701607](https://news.social-protocols.org/stats?id=40701607) #11 8 points 1 comments -> [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)<!-- HN:40701607:end --><!-- HN:40700530:start -->
-* [40700530](https://news.social-protocols.org/stats?id=40700530) #26 42 points 40 comments -> [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)<!-- HN:40700530:end -->
+* [40701607](https://news.social-protocols.org/stats?id=40701607) #11 8 points 1 comments -> [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)<!-- HN:40701607:end -->
