@@ -1308,3 +1308,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40707880](https://news.social-protocols.org/stats?id=40707880) #3 29 points 1 comments -> [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)<!-- HN:40707880:end --><!-- HN:40680737:start -->
 * [40680737](https://news.social-protocols.org/stats?id=40680737) #6 484 points 133 comments -> [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)<!-- HN:40680737:end --><!-- HN:40710301:start -->
 * [40710301](https://news.social-protocols.org/stats?id=40710301) #10 13 points 1 comments -> [At 15, Darlene Stubbs left a polygamous cult, found a new life through running](https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/)<!-- HN:40710301:end -->
+#### **Tuesday, June 18, 2024**
+<!-- HN:40711526:start -->
+* [40711526](https://news.social-protocols.org/stats?id=40711526) #10 20 points 1 comments -> [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)<!-- HN:40711526:end -->
