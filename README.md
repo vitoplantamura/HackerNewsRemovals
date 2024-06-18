@@ -1310,4 +1310,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40710301](https://news.social-protocols.org/stats?id=40710301) #10 13 points 1 comments -> [At 15, Darlene Stubbs left a polygamous cult, found a new life through running](https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/)<!-- HN:40710301:end -->
 #### **Tuesday, June 18, 2024**
 <!-- HN:40711526:start -->
-* [40711526](https://news.social-protocols.org/stats?id=40711526) #10 20 points 1 comments -> [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)<!-- HN:40711526:end -->
+* [40711526](https://news.social-protocols.org/stats?id=40711526) #10 20 points 1 comments -> [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)<!-- HN:40711526:end --><!-- HN:40705841:start -->
+* [40705841](https://news.social-protocols.org/stats?id=40705841) #24 179 points 234 comments -> [React 19 almost made the internet slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)<!-- HN:40705841:end -->
