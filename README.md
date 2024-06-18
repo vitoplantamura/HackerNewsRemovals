@@ -1311,4 +1311,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, June 18, 2024**
 <!-- HN:40711526:start -->
 * [40711526](https://news.social-protocols.org/stats?id=40711526) #10 20 points 1 comments -> [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)<!-- HN:40711526:end --><!-- HN:40705841:start -->
-* [40705841](https://news.social-protocols.org/stats?id=40705841) #24 179 points 234 comments -> [React 19 almost made the internet slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)<!-- HN:40705841:end -->
+* [40705841](https://news.social-protocols.org/stats?id=40705841) #24 179 points 234 comments -> [React 19 almost made the internet slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)<!-- HN:40705841:end --><!-- HN:40712847:start -->
+* [40712847](https://news.social-protocols.org/stats?id=40712847) #18 37 points 15 comments -> [Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market (1998)](https://www.hitachi.com/New/cnews/E/1998/981111B.html)<!-- HN:40712847:end -->
