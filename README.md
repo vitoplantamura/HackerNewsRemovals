@@ -1338,4 +1338,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40723008](https://news.social-protocols.org/stats?id=40723008) #28 5 points 0 comments -> [AridSpy targeting Egypt and Palestinian territories in new espionage campaigns](https://therecord.media/malware-aridspy-egypt-palestine-viper)<!-- HN:40723008:end --><!-- HN:40723113:start -->
 * [40723113](https://news.social-protocols.org/stats?id=40723113) #29 3 points 0 comments -> [California Lawmakers Should Reject Mandatory Internet ID Checks](https://www.eff.org/deeplinks/2024/06/california-lawmakers-should-reject-mandatory-internet-id-checks)<!-- HN:40723113:end --><!-- HN:40723040:start -->
 * [40723040](https://news.social-protocols.org/stats?id=40723040) #25 24 points 11 comments -> [SpaceX's Starlink may be keeping the ozone from healing, research finds](https://futurism.com/the-byte/spacex-starlink-ozone-healing)<!-- HN:40723040:end -->
-#### **Wednesday, June 19, 2024**
+#### **Wednesday, June 19, 2024**<!-- HN:40673402:start -->
+* [40673402](https://news.social-protocols.org/stats?id=40673402) #12 79 points 17 comments -> [Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)<!-- HN:40673402:end -->
