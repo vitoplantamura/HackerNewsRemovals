@@ -1370,8 +1370,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40732556](https://news.social-protocols.org/stats?id=40732556) #11 -> [I Will Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)<!-- HN:40732556:end --><!-- HN:40732802:start -->
 * [40732802](https://news.social-protocols.org/stats?id=40732802) #29 -> [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)<!-- HN:40732802:end --><!-- HN:40732899:start -->
 * [40732899](https://news.social-protocols.org/stats?id=40732899) #27 5 points 1 comments -> [CISA Advisory on Motorola Solutions ALPR Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19)<!-- HN:40732899:end --><!-- HN:40733209:start -->
-* [40733209](https://news.social-protocols.org/stats?id=40733209) #29 3 points 0 comments -> [Blender running on a Nokia N95 (from 2007)](https://twitter.com/pablowasserman/status/1803454530798940630)<!-- HN:40733209:end --><!-- HN:40733066:start -->
-* [40733066](https://news.social-protocols.org/stats?id=40733066) #30 23 points 3 comments -> [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)<!-- HN:40733066:end -->
+* [40733209](https://news.social-protocols.org/stats?id=40733209) #29 3 points 0 comments -> [Blender running on a Nokia N95 (from 2007)](https://twitter.com/pablowasserman/status/1803454530798940630)<!-- HN:40733209:end -->
 #### **Thursday, June 20, 2024**
 <!-- HN:40734171:start -->
 * [40734171](https://news.social-protocols.org/stats?id=40734171) #28 16 points 2 comments -> [Qualcomm AI/Copilot PCs don't live up to the hype](https://semiaccurate.com/2024/06/18/qualcomm-ai-copilot-pcs-dont-live-up-to-the-hype/)<!-- HN:40734171:end --><!-- HN:40716917:start -->
