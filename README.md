@@ -1395,4 +1395,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, June 21, 2024**
 <!-- HN:40744736:start -->
 * [40744736](https://news.social-protocols.org/stats?id=40744736) #27 3 points 1 comments -> [The Chinese EV Dilemma: Subsidized yet Striking](https://www.csis.org/blogs/trustee-china-hand/chinese-ev-dilemma-subsidized-yet-striking)<!-- HN:40744736:end --><!-- HN:40740581:start -->
-* [40740581](https://news.social-protocols.org/stats?id=40740581) #14 36 points 1 comments -> [Using DuckDB as a Unix Tool](https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html)<!-- HN:40740581:end -->
+* [40740581](https://news.social-protocols.org/stats?id=40740581) #14 36 points 1 comments -> [Using DuckDB as a Unix Tool](https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html)<!-- HN:40740581:end --><!-- HN:40744162:start -->
+* [40744162](https://news.social-protocols.org/stats?id=40744162) #7 13 points 9 comments -> [Show HN: Text Status Hosting and Dashboard](https://github.com/madprops/curls)<!-- HN:40744162:end -->
