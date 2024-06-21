@@ -1392,3 +1392,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40741658](https://news.social-protocols.org/stats?id=40741658) #29 7 points 0 comments -> [Lilly Alzheimer's drug gets unanimous backing of FDA panel](https://www.biopharmadive.com/news/donanemab-alzheimers-fda-advisers-panel-vote-lilly/718505/)<!-- HN:40741658:end --><!-- HN:40704662:start -->
 * [40704662](https://news.social-protocols.org/stats?id=40704662) #20 3 points 0 comments -> [Ingroups and Outgroups](https://effectiviology.com/ingroup-outgroup/)<!-- HN:40704662:end --><!-- HN:40742764:start -->
 * [40742764](https://news.social-protocols.org/stats?id=40742764) #23 55 points 19 comments -> [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)<!-- HN:40742764:end -->
+#### **Friday, June 21, 2024**
+<!-- HN:40744736:start -->
+* [40744736](https://news.social-protocols.org/stats?id=40744736) #27 3 points 1 comments -> [The Chinese EV Dilemma: Subsidized yet Striking](https://www.csis.org/blogs/trustee-china-hand/chinese-ev-dilemma-subsidized-yet-striking)<!-- HN:40744736:end -->
