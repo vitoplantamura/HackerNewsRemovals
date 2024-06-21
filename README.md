@@ -1372,8 +1372,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40733209](https://news.social-protocols.org/stats?id=40733209) #29 3 points 0 comments -> [Blender running on a Nokia N95 (from 2007)](https://twitter.com/pablowasserman/status/1803454530798940630)<!-- HN:40733209:end -->
 #### **Thursday, June 20, 2024**
 <!-- HN:40734171:start -->
-* [40734171](https://news.social-protocols.org/stats?id=40734171) #28 16 points 2 comments -> [Qualcomm AI/Copilot PCs don't live up to the hype](https://semiaccurate.com/2024/06/18/qualcomm-ai-copilot-pcs-dont-live-up-to-the-hype/)<!-- HN:40734171:end --><!-- HN:40716917:start -->
-* [40716917](https://news.social-protocols.org/stats?id=40716917) #13 18 points 4 comments -> [The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_Vulture_and_the_Little_Girl)<!-- HN:40716917:end --><!-- HN:40696448:start -->
+* [40734171](https://news.social-protocols.org/stats?id=40734171) #28 16 points 2 comments -> [Qualcomm AI/Copilot PCs don't live up to the hype](https://semiaccurate.com/2024/06/18/qualcomm-ai-copilot-pcs-dont-live-up-to-the-hype/)<!-- HN:40734171:end --><!-- HN:40696448:start -->
 * [40696448](https://news.social-protocols.org/stats?id=40696448) #29 23 points 5 comments -> [Nobody Is Starting from Scratch](https://hiking.org/2018/08/26/nobody-is-starting-from-scratch/)<!-- HN:40696448:end --><!-- HN:40737570:start -->
 * [40737570](https://news.social-protocols.org/stats?id=40737570) #16 7 points 2 comments -> [Battery electric vehicles lose their spark in Europe as hybrids steal the show](https://www.theregister.com/2024/06/20/bev_market_share_eu/)<!-- HN:40737570:end --><!-- HN:40737814:start -->
 * [40737814](https://news.social-protocols.org/stats?id=40737814) #14 18 points 1 comments -> [EU Chat Control Is Motivated by the American Cloud Act](https://twitter.com/AlecMuffett/status/1803734262354518483)<!-- HN:40737814:end --><!-- HN:40736966:start -->
