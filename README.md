@@ -1415,3 +1415,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40751690](https://news.social-protocols.org/stats?id=40751690) #23 12 points 2 comments -> [Kraken Says Hackers Turned to 'Extortion' After Exploiting Bug for $3M](https://www.coindesk.com/business/2024/06/19/kraken-says-hackers-turned-to-extortion-after-exploiting-bug-for-3m/)<!-- HN:40751690:end --><!-- HN:40752518:start -->
 * [40752518](https://news.social-protocols.org/stats?id=40752518) #21 28 points 40 comments -> [Why SMBs Don't Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)<!-- HN:40752518:end --><!-- HN:40713127:start -->
 * [40713127](https://news.social-protocols.org/stats?id=40713127) #29 15 points 9 comments -> [Progress Quest](http://www.progressquest.com/)<!-- HN:40713127:end -->
+#### **Saturday, June 22, 2024**
+<!-- HN:40757496:start -->
+* [40757496](https://news.social-protocols.org/stats?id=40757496) #9 16 points 4 comments -> [I Love You! Yes, You!](https://schizophrenic.io/blog/i-love-you)<!-- HN:40757496:end -->
