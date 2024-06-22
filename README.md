@@ -1418,4 +1418,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, June 22, 2024**
 <!-- HN:40757496:start -->
 * [40757496](https://news.social-protocols.org/stats?id=40757496) #9 16 points 4 comments -> [I Love You! Yes, You!](https://schizophrenic.io/blog/i-love-you)<!-- HN:40757496:end --><!-- HN:40757775:start -->
-* [40757775](https://news.social-protocols.org/stats?id=40757775) #22 19 points 41 comments -> [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)<!-- HN:40757775:end -->
+* [40757775](https://news.social-protocols.org/stats?id=40757775) #22 19 points 41 comments -> [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)<!-- HN:40757775:end --><!-- HN:40758160:start -->
+* [40758160](https://news.social-protocols.org/stats?id=40758160) #17 10 points 4 comments -> [Mr: Apple Intelligence Features Not Coming to EU at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)<!-- HN:40758160:end -->
