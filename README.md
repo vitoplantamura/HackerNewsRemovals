@@ -1432,3 +1432,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40759981](https://news.social-protocols.org/stats?id=40759981) #7 11 points 3 comments -> [The devil is intelligence without love](https://www.ggnotes.com/the-devil-is-intelligence-without-love/)<!-- HN:40759981:end --><!-- HN:40755233:start -->
 * [40755233](https://news.social-protocols.org/stats?id=40755233) #8 7 points 1 comments -> [Record-breaking robot capable of jumping 120 metres](https://www.manchester.ac.uk/discover/news/manchester-engineers-unlock-design-for-record-breaking-robot-that-could-jump-twice-the-height-of-big-ben/)<!-- HN:40755233:end --><!-- HN:40761536:start -->
 * [40761536](https://news.social-protocols.org/stats?id=40761536) #28 3 points 2 comments -> [So long, and thanks for all the fish: Leaving the Nix community](https://discourse.nixos.org/t/so-long-and-thanks-for-all-the-fish/47384)<!-- HN:40761536:end -->
+#### **Sunday, June 23, 2024**
+<!-- HN:40763117:start -->
+* [40763117](https://news.social-protocols.org/stats?id=40763117) #6 15 points 0 comments -> [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)<!-- HN:40763117:end -->
