@@ -1432,4 +1432,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40759981](https://news.social-protocols.org/stats?id=40759981) #7 11 points 3 comments -> [The devil is intelligence without love](https://www.ggnotes.com/the-devil-is-intelligence-without-love/)<!-- HN:40759981:end --><!-- HN:40755233:start -->
 * [40755233](https://news.social-protocols.org/stats?id=40755233) #8 7 points 1 comments -> [Record-breaking robot capable of jumping 120 metres](https://www.manchester.ac.uk/discover/news/manchester-engineers-unlock-design-for-record-breaking-robot-that-could-jump-twice-the-height-of-big-ben/)<!-- HN:40755233:end --><!-- HN:40761536:start -->
 * [40761536](https://news.social-protocols.org/stats?id=40761536) #28 3 points 2 comments -> [So long, and thanks for all the fish: Leaving the Nix community](https://discourse.nixos.org/t/so-long-and-thanks-for-all-the-fish/47384)<!-- HN:40761536:end -->
-#### **Sunday, June 23, 2024**
+#### **Sunday, June 23, 2024**<!-- HN:40762840:start -->
+* [40762840](https://news.social-protocols.org/stats?id=40762840) #11 68 points 27 comments -> [Costco Broke into a Surprising New Market: Modular Housing](https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing)<!-- HN:40762840:end -->
