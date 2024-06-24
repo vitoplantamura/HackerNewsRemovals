@@ -1456,3 +1456,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40770049](https://news.social-protocols.org/stats?id=40770049) #14 5 points 0 comments -> [Renga 1.26 – An XMPP client for HaikuOS](https://pulkomandy.tk/projects/renga)<!-- HN:40770049:end --><!-- HN:40769378:start -->
 * [40769378](https://news.social-protocols.org/stats?id=40769378) #26 8 points 1 comments -> [Show HN: Tsellm: Interactive SQLite shell with LLM support](https://github.com/Florents-Tselai/tsellm)<!-- HN:40769378:end --><!-- HN:40770624:start -->
 * [40770624](https://news.social-protocols.org/stats?id=40770624) #26 9 points 1 comments -> [The pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)<!-- HN:40770624:end -->
+#### **Monday, June 24, 2024**
+<!-- HN:40769993:start -->
+* [40769993](https://news.social-protocols.org/stats?id=40769993) #21 12 points 0 comments -> [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)<!-- HN:40769993:end -->
