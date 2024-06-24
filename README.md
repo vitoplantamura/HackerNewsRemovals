@@ -1459,4 +1459,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 24, 2024**
 <!-- HN:40769993:start -->
 * [40769993](https://news.social-protocols.org/stats?id=40769993) #21 12 points 0 comments -> [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)<!-- HN:40769993:end --><!-- HN:40741141:start -->
-* [40741141](https://news.social-protocols.org/stats?id=40741141) #26 43 points 52 comments -> [C can be memory safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)<!-- HN:40741141:end -->
+* [40741141](https://news.social-protocols.org/stats?id=40741141) #26 43 points 52 comments -> [C can be memory safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)<!-- HN:40741141:end --><!-- HN:40771514:start -->
+* [40771514](https://news.social-protocols.org/stats?id=40771514) #6 22 points 15 comments -> [How to Do The Jhanas](https://nadia.xyz/jhanas)<!-- HN:40771514:end -->
