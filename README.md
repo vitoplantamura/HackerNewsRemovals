@@ -1458,4 +1458,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40770624](https://news.social-protocols.org/stats?id=40770624) #26 9 points 1 comments -> [The pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)<!-- HN:40770624:end -->
 #### **Monday, June 24, 2024**
 <!-- HN:40769993:start -->
-* [40769993](https://news.social-protocols.org/stats?id=40769993) #21 12 points 0 comments -> [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)<!-- HN:40769993:end -->
+* [40769993](https://news.social-protocols.org/stats?id=40769993) #21 12 points 0 comments -> [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)<!-- HN:40769993:end --><!-- HN:40741141:start -->
+* [40741141](https://news.social-protocols.org/stats?id=40741141) #26 43 points 52 comments -> [C can be memory safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)<!-- HN:40741141:end -->
