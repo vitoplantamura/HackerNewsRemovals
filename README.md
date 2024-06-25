@@ -1501,4 +1501,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, June 25, 2024**
 <!-- HN:40782362:start -->
 * [40782362](https://news.social-protocols.org/stats?id=40782362) #19 27 points 34 comments -> [Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants](https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/)<!-- HN:40782362:end --><!-- HN:40782447:start -->
-* [40782447](https://news.social-protocols.org/stats?id=40782447) #18 4 points 0 comments -> [Guide to Web3 company building: start here](https://a16zcrypto.substack.com/p/your-guide-to-web3-company-building)<!-- HN:40782447:end -->
+* [40782447](https://news.social-protocols.org/stats?id=40782447) #18 4 points 0 comments -> [Guide to Web3 company building: start here](https://a16zcrypto.substack.com/p/your-guide-to-web3-company-building)<!-- HN:40782447:end --><!-- HN:40783158:start -->
+* [40783158](https://news.social-protocols.org/stats?id=40783158) #17 29 points 17 comments -> [Denver gave homeless people $1k/mth. Year later, nearly half had housing](https://www.businessinsider.com/denver-basic-income-reduces-homelessness-food-insecurity-housing-ubi-gbi-2024-6)<!-- HN:40783158:end -->
