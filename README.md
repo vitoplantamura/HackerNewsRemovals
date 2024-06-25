@@ -1498,3 +1498,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40780904](https://news.social-protocols.org/stats?id=40780904) #13 39 points 4 comments -> [Layoffs in tech sector reach nearly 100k year to date](https://seekingalpha.com/news/4118529-layoffs-in-tech-sector-reach-near-100000-year-to-date)<!-- HN:40780904:end --><!-- HN:40781557:start -->
 * [40781557](https://news.social-protocols.org/stats?id=40781557) #3 3 points 0 comments -> [What Killed the 68000?](https://thechipletter.substack.com/p/what-killed-the-68000)<!-- HN:40781557:end --><!-- HN:40781736:start -->
 * [40781736](https://news.social-protocols.org/stats?id=40781736) #14 5 points 0 comments -> [Uber CEO sells $70.4M of stock ahead of Tesla's robotaxi unveil](https://twitter.com/Barchart/status/1805097414123991158)<!-- HN:40781736:end -->
+#### **Tuesday, June 25, 2024**
+<!-- HN:40782362:start -->
+* [40782362](https://news.social-protocols.org/stats?id=40782362) #19 27 points 34 comments -> [Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants](https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/)<!-- HN:40782362:end -->
