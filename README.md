@@ -1501,4 +1501,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, June 25, 2024**
 <!-- HN:40782362:start -->
 * [40782362](https://news.social-protocols.org/stats?id=40782362) #19 27 points 34 comments -> [Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants](https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/)<!-- HN:40782362:end --><!-- HN:40782447:start -->
-* [40782447](https://news.social-protocols.org/stats?id=40782447) #18 4 points 0 comments -> [Guide to Web3 company building: start here](https://a16zcrypto.substack.com/p/your-guide-to-web3-company-building)<!-- HN:40782447:end -->
+* [40782447](https://news.social-protocols.org/stats?id=40782447) #18 4 points 0 comments -> [Guide to Web3 company building: start here](https://a16zcrypto.substack.com/p/your-guide-to-web3-company-building)<!-- HN:40782447:end --><!-- HN:40783150:start -->
+* [40783150](https://news.social-protocols.org/stats?id=40783150) #29 11 points 4 comments -> [The Fed Has Avoided a Recession. But Some Have Been Left Behind](https://www.barrons.com/articles/federal-reserve-distribution-of-wealth-recession-21d8c48e)<!-- HN:40783150:end -->
