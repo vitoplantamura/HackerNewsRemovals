@@ -1534,4 +1534,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40794697](https://news.social-protocols.org/stats?id=40794697) #16 9 points 1 comments -> [Man flies to Florida to attack another player over online gaming dispute](https://apnews.com/article/online-gaming-attack-florida-1b7220a68fe4001bc7913acf07189875)<!-- HN:40794697:end -->
 #### **Wednesday, June 26, 2024**
 <!-- HN:40790931:start -->
-* [40790931](https://news.social-protocols.org/stats?id=40790931) #29 15 points 0 comments -> [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)<!-- HN:40790931:end -->
+* [40790931](https://news.social-protocols.org/stats?id=40790931) #29 15 points 0 comments -> [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)<!-- HN:40790931:end --><!-- HN:40770153:start -->
+* [40770153](https://news.social-protocols.org/stats?id=40770153) #23 8 points 2 comments -> [Continuous Pitch Wind Instruments](https://glissonic.com/)<!-- HN:40770153:end -->
