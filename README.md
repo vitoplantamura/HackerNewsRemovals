@@ -1536,4 +1536,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40790931:start -->
 * [40790931](https://news.social-protocols.org/stats?id=40790931) #29 15 points 0 comments -> [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)<!-- HN:40790931:end --><!-- HN:40770153:start -->
 * [40770153](https://news.social-protocols.org/stats?id=40770153) #23 8 points 2 comments -> [Continuous Pitch Wind Instruments](https://glissonic.com/)<!-- HN:40770153:end --><!-- HN:40751673:start -->
-* [40751673](https://news.social-protocols.org/stats?id=40751673) #8 6 points 0 comments -> [The Weird World of Insuring Celebrity Body Parts](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/celebrity-body-parts-insurance-taylor-swift-j-lo-1235926124/)<!-- HN:40751673:end -->
+* [40751673](https://news.social-protocols.org/stats?id=40751673) #8 6 points 0 comments -> [The Weird World of Insuring Celebrity Body Parts](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/celebrity-body-parts-insurance-taylor-swift-j-lo-1235926124/)<!-- HN:40751673:end --><!-- HN:40794523:start -->
+* [40794523](https://news.social-protocols.org/stats?id=40794523) #27 14 points 2 comments -> [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)<!-- HN:40794523:end -->
