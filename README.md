@@ -1532,3 +1532,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40793964](https://news.social-protocols.org/stats?id=40793964) #5 6 points 0 comments -> [How to Have Attitude of Gratitude](https://selfmasterytimes.substack.com/p/how-to-have-attitude-of-gratitude)<!-- HN:40793964:end --><!-- HN:40793516:start -->
 * [40793516](https://news.social-protocols.org/stats?id=40793516) #27 11 points 1 comments -> [AP launches a sister organization seeking grants to support local, state news](https://apnews.com/article/reporters-local-ap-foundations-c2c3fced7b46e7f0a6e0ebe6773fde4a)<!-- HN:40793516:end --><!-- HN:40794697:start -->
 * [40794697](https://news.social-protocols.org/stats?id=40794697) #16 9 points 1 comments -> [Man flies to Florida to attack another player over online gaming dispute](https://apnews.com/article/online-gaming-attack-florida-1b7220a68fe4001bc7913acf07189875)<!-- HN:40794697:end -->
+#### **Wednesday, June 26, 2024**
+<!-- HN:40790931:start -->
+* [40790931](https://news.social-protocols.org/stats?id=40790931) #29 15 points 0 comments -> [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)<!-- HN:40790931:end -->
