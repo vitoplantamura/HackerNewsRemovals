@@ -1560,4 +1560,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, June 27, 2024**
 <!-- HN:40805658:start -->
 * [40805658](https://news.social-protocols.org/stats?id=40805658) #13 21 points 0 comments -> [Took part in Apache ceremonies. schools expelled them for satanic activities](https://www.theguardian.com/us-news/ng-interactive/2024/jun/24/apache-students-school-reservation)<!-- HN:40805658:end --><!-- HN:40804645:start -->
-* [40804645](https://news.social-protocols.org/stats?id=40804645) #27 105 points 68 comments -> [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)<!-- HN:40804645:end -->
+* [40804645](https://news.social-protocols.org/stats?id=40804645) #27 105 points 68 comments -> [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)<!-- HN:40804645:end --><!-- HN:40805147:start -->
+* [40805147](https://news.social-protocols.org/stats?id=40805147) #28 19 points 2 comments -> [Super Mario 64 ported to the GBA [video]](https://www.youtube.com/watch?v=c8QWjQ5RLQw)<!-- HN:40805147:end -->
