@@ -1557,3 +1557,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40800986](https://news.social-protocols.org/stats?id=40800986) #8 7 points 0 comments -> [Illuminate with Precision: The Importance of Shadowless Surgical Lights](https://sdexpmedical.com/illuminate-with-precision-the-importance-of-shadowless-surgical-lights/)<!-- HN:40800986:end --><!-- HN:40802393:start -->
 * [40802393](https://news.social-protocols.org/stats?id=40802393) #4 11 points 1 comments -> [uBlock Origin has blocklisted PolyfillIO in it's badware list](https://github.com/uBlockOrigin/uAssets/pull/24255)<!-- HN:40802393:end --><!-- HN:40802686:start -->
 * [40802686](https://news.social-protocols.org/stats?id=40802686) #2 43 points 2 comments -> [The Living Computers Museum Isn't](http://oldvcr.blogspot.com/2024/06/the-living-computers-museum-finally-isnt.html)<!-- HN:40802686:end -->
+#### **Thursday, June 27, 2024**
+<!-- HN:40805658:start -->
+* [40805658](https://news.social-protocols.org/stats?id=40805658) #13 21 points 0 comments -> [Took part in Apache ceremonies. schools expelled them for satanic activities](https://www.theguardian.com/us-news/ng-interactive/2024/jun/24/apache-students-school-reservation)<!-- HN:40805658:end --><!-- HN:40804645:start -->
+* [40804645](https://news.social-protocols.org/stats?id=40804645) #27 105 points 68 comments -> [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)<!-- HN:40804645:end -->
