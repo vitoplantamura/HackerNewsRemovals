@@ -1587,4 +1587,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40812118](https://news.social-protocols.org/stats?id=40812118) #21 116 points 1 comments -> [Identity Verification Used by X, TikTok, and Uber Exposed Driver's Licenses](https://gizmodo.com/identity-verification-firm-used-by-x-tiktok-and-uber-1851562934)<!-- HN:40812118:end -->
 #### **Friday, June 28, 2024**
 <!-- HN:40816352:start -->
-* [40816352](https://news.social-protocols.org/stats?id=40816352) #28 24 points 26 comments -> [Oklahoma orders schools to teach Bible 'immediately'](https://www.bbc.com/news/articles/cjk35vv2ryjo)<!-- HN:40816352:end -->
+* [40816352](https://news.social-protocols.org/stats?id=40816352) #28 24 points 26 comments -> [Oklahoma orders schools to teach Bible 'immediately'](https://www.bbc.com/news/articles/cjk35vv2ryjo)<!-- HN:40816352:end --><!-- HN:40816755:start -->
+* [40816755](https://news.social-protocols.org/stats?id=40816755) #8 8 points 1 comments -> [Gwern comments on Ilya Sutskever depature from OpenAI, among other topics](https://old.reddit.com/r/mlscaling/comments/1djoqjh/ilya_sutskever_launches_safe_superintelligence_a/l9uogp9/)<!-- HN:40816755:end -->
