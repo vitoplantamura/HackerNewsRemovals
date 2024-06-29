@@ -1629,3 +1629,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40825429](https://news.social-protocols.org/stats?id=40825429) #26 64 points 20 comments -> [Windows: Insecure by Design](https://www.theregister.com/2024/06/28/windows_insecure_by_design/)<!-- HN:40825429:end --><!-- HN:40825705:start -->
 * [40825705](https://news.social-protocols.org/stats?id=40825705) #21 4 points 0 comments -> [Supreme Court makes it harder to charge Capitol riot defendants with obstruction](https://apnews.com/article/supreme-court-capitol-riot-obstruction-2cdba47baa5cea8177d651de751760a6)<!-- HN:40825705:end --><!-- HN:40825774:start -->
 * [40825774](https://news.social-protocols.org/stats?id=40825774) #8 21 points 3 comments -> [you should probably have a kid](https://benexdict.io/p/you-should-probably-have-a-kid)<!-- HN:40825774:end -->
+#### **Saturday, June 29, 2024**
+<!-- HN:40826588:start -->
+* [40826588](https://news.social-protocols.org/stats?id=40826588) #9 9 points 6 comments -> [Microsoft says that it's okay to steal web content it because it's 'freeware.'](https://www.windowscentral.com/software-apps/ever-put-content-on-the-web-microsoft-says-that-its-okay-for-them-to-steal-it-because-its-freeware)<!-- HN:40826588:end -->
