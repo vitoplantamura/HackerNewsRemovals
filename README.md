@@ -1631,4 +1631,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40825774](https://news.social-protocols.org/stats?id=40825774) #8 21 points 3 comments -> [you should probably have a kid](https://benexdict.io/p/you-should-probably-have-a-kid)<!-- HN:40825774:end -->
 #### **Saturday, June 29, 2024**
 <!-- HN:40826588:start -->
-* [40826588](https://news.social-protocols.org/stats?id=40826588) #9 9 points 6 comments -> [Microsoft says that it's okay to steal web content it because it's 'freeware.'](https://www.windowscentral.com/software-apps/ever-put-content-on-the-web-microsoft-says-that-its-okay-for-them-to-steal-it-because-its-freeware)<!-- HN:40826588:end -->
+* [40826588](https://news.social-protocols.org/stats?id=40826588) #9 9 points 6 comments -> [Microsoft says that it's okay to steal web content it because it's 'freeware.'](https://www.windowscentral.com/software-apps/ever-put-content-on-the-web-microsoft-says-that-its-okay-for-them-to-steal-it-because-its-freeware)<!-- HN:40826588:end --><!-- HN:40826163:start -->
+* [40826163](https://news.social-protocols.org/stats?id=40826163) #15 5 points 0 comments -> [NIST and Gates Foundation to Develop Breathalyzers for Malaria and Tuberculosis](https://www.nist.gov/news-events/news/2024/06/nist-partners-gates-foundation-develop-breathalyzers-malaria-and)<!-- HN:40826163:end -->
