@@ -1665,3 +1665,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40833610](https://news.social-protocols.org/stats?id=40833610) #24 11 points 4 comments -> [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)<!-- HN:40833610:end --><!-- HN:40832648:start -->
 * [40832648](https://news.social-protocols.org/stats?id=40832648) #30 3 points 1 comments -> [A New Atlantis](https://model-thinking.com/p/a-new-atlantis)<!-- HN:40832648:end --><!-- HN:40833975:start -->
 * [40833975](https://news.social-protocols.org/stats?id=40833975) #23 3 points 0 comments -> [Lego made bricks out of meteorite dust and they're on display at select stores](https://www.engadget.com/lego-made-bricks-out-of-meteorite-dust-and-theyre-on-display-at-select-stores-161440194.html)<!-- HN:40833975:end -->
+#### **Sunday, June 30, 2024**
+<!-- HN:40834342:start -->
+* [40834342](https://news.social-protocols.org/stats?id=40834342) #5 6 points 0 comments -> [DeSantis' Ban on Cultivated Meat: Food Freedom Battered in the State of Florida](https://floridianpress.com/2024/06/desantis-ban-on-cultivated-meat-food-freedom-battered-in-the-free-state-of-florida/)<!-- HN:40834342:end -->
