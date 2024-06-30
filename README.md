@@ -1668,4 +1668,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 30, 2024**
 <!-- HN:40834342:start -->
 * [40834342](https://news.social-protocols.org/stats?id=40834342) #5 6 points 0 comments -> [DeSantis' Ban on Cultivated Meat: Food Freedom Battered in the State of Florida](https://floridianpress.com/2024/06/desantis-ban-on-cultivated-meat-food-freedom-battered-in-the-free-state-of-florida/)<!-- HN:40834342:end --><!-- HN:40834957:start -->
-* [40834957](https://news.social-protocols.org/stats?id=40834957) #3 9 points 1 comments -> [Tractor Supply Company Statement](https://ir.tractorsupply.com/newsroom/news-releases/news-releases-details/2024/Tractor-Supply-Company-Statement/default.aspx)<!-- HN:40834957:end -->
+* [40834957](https://news.social-protocols.org/stats?id=40834957) #3 9 points 1 comments -> [Tractor Supply Company Statement](https://ir.tractorsupply.com/newsroom/news-releases/news-releases-details/2024/Tractor-Supply-Company-Statement/default.aspx)<!-- HN:40834957:end --><!-- HN:40835512:start -->
+* [40835512](https://news.social-protocols.org/stats?id=40835512) #15 4 points 0 comments -> [Major cartoon characters entering the public domain between 2024 and 2034](https://www.diversetechgeek.com/10-major-cartoon-characters-public-domain-2024-2034/)<!-- HN:40835512:end -->
