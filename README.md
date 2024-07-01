@@ -1686,5 +1686,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 1, 2024**
 <!-- HN:40841531:start -->
 * [40841531](https://news.social-protocols.org/stats?id=40841531) #13 22 points 41 comments -> [Delivery Drivers Got Higher Wages. Now They're Getting Fewer Orders](https://www.wsj.com/business/hospitality/delivery-drivers-got-higher-wages-now-theyre-getting-fewer-orders-d2e416c0)<!-- HN:40841531:end --><!-- HN:40801710:start -->
-* [40801710](https://news.social-protocols.org/stats?id=40801710) #23 12 points 13 comments -> [Y292B Bug](https://dpolakovic.space/blogs/y292b)<!-- HN:40801710:end --><!-- HN:40820369:start -->
-* [40820369](https://news.social-protocols.org/stats?id=40820369) #29 38 points 41 comments -> [Our great database migration](https://shepherdinsurance.com/blog/the-great-database-migration)<!-- HN:40820369:end -->
+* [40801710](https://news.social-protocols.org/stats?id=40801710) #23 12 points 13 comments -> [Y292B Bug](https://dpolakovic.space/blogs/y292b)<!-- HN:40801710:end -->
