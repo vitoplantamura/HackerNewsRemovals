@@ -1685,4 +1685,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40840762](https://news.social-protocols.org/stats?id=40840762) #24 19 points 9 comments -> [The Lives of Others (2006 film)](https://en.wikipedia.org/wiki/The_Lives_of_Others)<!-- HN:40840762:end -->
 #### **Monday, July 1, 2024**
 <!-- HN:40841531:start -->
-* [40841531](https://news.social-protocols.org/stats?id=40841531) #13 22 points 41 comments -> [Delivery Drivers Got Higher Wages. Now They're Getting Fewer Orders](https://www.wsj.com/business/hospitality/delivery-drivers-got-higher-wages-now-theyre-getting-fewer-orders-d2e416c0)<!-- HN:40841531:end -->
+* [40841531](https://news.social-protocols.org/stats?id=40841531) #13 22 points 41 comments -> [Delivery Drivers Got Higher Wages. Now They're Getting Fewer Orders](https://www.wsj.com/business/hospitality/delivery-drivers-got-higher-wages-now-theyre-getting-fewer-orders-d2e416c0)<!-- HN:40841531:end --><!-- HN:40801710:start -->
+* [40801710](https://news.social-protocols.org/stats?id=40801710) #23 12 points 13 comments -> [Y292B Bug](https://dpolakovic.space/blogs/y292b)<!-- HN:40801710:end -->
