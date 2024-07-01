@@ -1683,3 +1683,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40839106](https://news.social-protocols.org/stats?id=40839106) #6 7 points 0 comments -> [The tech entrepreneur behind a pro-Israel hate network](https://www.theguardian.com/world/article/2024/jun/29/daniel-linden-shirion-collective-pro-israel-palestine-hate)<!-- HN:40839106:end --><!-- HN:40839504:start -->
 * [40839504](https://news.social-protocols.org/stats?id=40839504) #3 7 points 0 comments -> [We Created a Fake Delivery Company](https://blog.kashevko.com/we-created-a-fake-delivery-company-3/)<!-- HN:40839504:end --><!-- HN:40840762:start -->
 * [40840762](https://news.social-protocols.org/stats?id=40840762) #24 19 points 9 comments -> [The Lives of Others (2006 film)](https://en.wikipedia.org/wiki/The_Lives_of_Others)<!-- HN:40840762:end -->
+#### **Monday, July 1, 2024**
+<!-- HN:40841531:start -->
+* [40841531](https://news.social-protocols.org/stats?id=40841531) #13 22 points 41 comments -> [Delivery Drivers Got Higher Wages. Now They're Getting Fewer Orders](https://www.wsj.com/business/hospitality/delivery-drivers-got-higher-wages-now-theyre-getting-fewer-orders-d2e416c0)<!-- HN:40841531:end -->
