@@ -1718,3 +1718,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40849922](https://news.social-protocols.org/stats?id=40849922) #23 7 points 0 comments -> [What Does #1 on Hacker News Get You](https://dotenvx.com/blog/2024/06/30/what-does-number-one-on-hacker-news-get-you.html)<!-- HN:40849922:end --><!-- HN:40851863:start -->
 * [40851863](https://news.social-protocols.org/stats?id=40851863) #5 9 points 0 comments -> ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-6387/)<!-- HN:40851863:end --><!-- HN:40850947:start -->
 * [40850947](https://news.social-protocols.org/stats?id=40850947) #18 15 points 3 comments -> [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)<!-- HN:40850947:end -->
+#### **Tuesday, July 2, 2024**
+<!-- HN:40852546:start -->
+* [40852546](https://news.social-protocols.org/stats?id=40852546) #7 5 points 4 comments -> [Show HN: Dillusion Browser](https://github.com/thegoodduck/Dillusion)<!-- HN:40852546:end -->
