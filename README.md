@@ -1722,4 +1722,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40852546:start -->
 * [40852546](https://news.social-protocols.org/stats?id=40852546) #7 5 points 4 comments -> [Show HN: Dillusion Browser](https://github.com/thegoodduck/Dillusion)<!-- HN:40852546:end --><!-- HN:40811329:start -->
 * [40811329](https://news.social-protocols.org/stats?id=40811329) #15 7 points 4 comments -> [Novel prompting approach for Alice in Wonderland problem](https://medium.com/@aadityaubhat/llms-cant-reason-or-can-they-3df5e6af5616)<!-- HN:40811329:end --><!-- HN:40851530:start -->
-* [40851530](https://news.social-protocols.org/stats?id=40851530) #21 63 points 44 comments -> [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)<!-- HN:40851530:end -->
+* [40851530](https://news.social-protocols.org/stats?id=40851530) #21 63 points 44 comments -> [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)<!-- HN:40851530:end --><!-- HN:40794832:start -->
+* [40794832](https://news.social-protocols.org/stats?id=40794832) #27 18 points 2 comments -> [A Quantum Leap in Factoring](https://cacm.acm.org/news/a-quantum-leap-in-factoring/)<!-- HN:40794832:end -->
