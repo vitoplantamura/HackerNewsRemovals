@@ -1720,4 +1720,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40850947](https://news.social-protocols.org/stats?id=40850947) #18 15 points 3 comments -> [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)<!-- HN:40850947:end -->
 #### **Tuesday, July 2, 2024**
 <!-- HN:40852546:start -->
-* [40852546](https://news.social-protocols.org/stats?id=40852546) #7 5 points 4 comments -> [Show HN: Dillusion Browser](https://github.com/thegoodduck/Dillusion)<!-- HN:40852546:end -->
+* [40852546](https://news.social-protocols.org/stats?id=40852546) #7 5 points 4 comments -> [Show HN: Dillusion Browser](https://github.com/thegoodduck/Dillusion)<!-- HN:40852546:end --><!-- HN:40811329:start -->
+* [40811329](https://news.social-protocols.org/stats?id=40811329) #15 7 points 4 comments -> [Novel prompting approach for Alice in Wonderland problem](https://medium.com/@aadityaubhat/llms-cant-reason-or-can-they-3df5e6af5616)<!-- HN:40811329:end -->
