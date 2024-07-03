@@ -1756,3 +1756,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40858844](https://news.social-protocols.org/stats?id=40858844) #25 18 points 4 comments -> [The Submarine (2005)](https://paulgraham.com/submarine.html)<!-- HN:40858844:end --><!-- HN:40844391:start -->
 * [40844391](https://news.social-protocols.org/stats?id=40844391) #12 12 points 3 comments -> [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)<!-- HN:40844391:end --><!-- HN:40860883:start -->
 * [40860883](https://news.social-protocols.org/stats?id=40860883) #21 8 points 1 comments -> [Tech doesn't make our lives easier. It makes them faster](https://www.asomo.co/p/tech-doesnt-make-our-lives-easier)<!-- HN:40860883:end -->
+#### **Wednesday, July 3, 2024**
+<!-- HN:40861913:start -->
+* [40861913](https://news.social-protocols.org/stats?id=40861913) #16 18 points 9 comments -> [Neuroscientists must not be afraid to study religion](https://www.nature.com/articles/d41586-024-02153-7)<!-- HN:40861913:end -->
