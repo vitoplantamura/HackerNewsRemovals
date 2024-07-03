@@ -1758,4 +1758,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40860883](https://news.social-protocols.org/stats?id=40860883) #21 8 points 1 comments -> [Tech doesn't make our lives easier. It makes them faster](https://www.asomo.co/p/tech-doesnt-make-our-lives-easier)<!-- HN:40860883:end -->
 #### **Wednesday, July 3, 2024**
 <!-- HN:40861913:start -->
-* [40861913](https://news.social-protocols.org/stats?id=40861913) #16 18 points 9 comments -> [Neuroscientists must not be afraid to study religion](https://www.nature.com/articles/d41586-024-02153-7)<!-- HN:40861913:end -->
+* [40861913](https://news.social-protocols.org/stats?id=40861913) #16 18 points 9 comments -> [Neuroscientists must not be afraid to study religion](https://www.nature.com/articles/d41586-024-02153-7)<!-- HN:40861913:end --><!-- HN:40859102:start -->
+* [40859102](https://news.social-protocols.org/stats?id=40859102) #30 21 points 1 comments -> [Immich Progress Update [July 2024]](https://immich.app/blog/2024/update-july-2024/)<!-- HN:40859102:end -->
