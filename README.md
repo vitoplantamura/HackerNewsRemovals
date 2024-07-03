@@ -1759,4 +1759,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 3, 2024**
 <!-- HN:40861913:start -->
 * [40861913](https://news.social-protocols.org/stats?id=40861913) #16 18 points 9 comments -> [Neuroscientists must not be afraid to study religion](https://www.nature.com/articles/d41586-024-02153-7)<!-- HN:40861913:end --><!-- HN:40859102:start -->
-* [40859102](https://news.social-protocols.org/stats?id=40859102) #30 21 points 1 comments -> [Immich Progress Update [July 2024]](https://immich.app/blog/2024/update-july-2024/)<!-- HN:40859102:end -->
+* [40859102](https://news.social-protocols.org/stats?id=40859102) #30 21 points 1 comments -> [Immich Progress Update [July 2024]](https://immich.app/blog/2024/update-july-2024/)<!-- HN:40859102:end --><!-- HN:40862363:start -->
+* [40862363](https://news.social-protocols.org/stats?id=40862363) #28 5 points 1 comments -> [GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity](https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip)<!-- HN:40862363:end -->
