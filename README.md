@@ -1789,5 +1789,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40870388](https://news.social-protocols.org/stats?id=40870388) #30 13 points 1 comments -> ["Everything's frozen": Ransomware locks credit union users out of bank accounts](https://arstechnica.com/tech-policy/2024/07/everythings-frozen-ransomware-locks-credit-union-users-out-of-bank-accounts/)<!-- HN:40870388:end -->
 #### **Thursday, July 4, 2024**
 <!-- HN:40871143:start -->
-* [40871143](https://news.social-protocols.org/stats?id=40871143) #19 21 points 23 comments -> [Federal judge partially blocks U.S. ban on noncompetes](https://www.npr.org/2024/07/03/nx-s1-5020525/noncompete-ban-block-ftc-competition-ryan-texas)<!-- HN:40871143:end --><!-- HN:40869706:start -->
-* [40869706](https://news.social-protocols.org/stats?id=40869706) #29 22 points 0 comments -> [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)<!-- HN:40869706:end -->
+* [40871143](https://news.social-protocols.org/stats?id=40871143) #19 21 points 23 comments -> [Federal judge partially blocks U.S. ban on noncompetes](https://www.npr.org/2024/07/03/nx-s1-5020525/noncompete-ban-block-ftc-competition-ryan-texas)<!-- HN:40871143:end -->
