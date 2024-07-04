@@ -1789,4 +1789,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40870388](https://news.social-protocols.org/stats?id=40870388) #30 13 points 1 comments -> ["Everything's frozen": Ransomware locks credit union users out of bank accounts](https://arstechnica.com/tech-policy/2024/07/everythings-frozen-ransomware-locks-credit-union-users-out-of-bank-accounts/)<!-- HN:40870388:end -->
 #### **Thursday, July 4, 2024**
 <!-- HN:40871143:start -->
-* [40871143](https://news.social-protocols.org/stats?id=40871143) #19 21 points 23 comments -> [Federal judge partially blocks U.S. ban on noncompetes](https://www.npr.org/2024/07/03/nx-s1-5020525/noncompete-ban-block-ftc-competition-ryan-texas)<!-- HN:40871143:end -->
+* [40871143](https://news.social-protocols.org/stats?id=40871143) #19 21 points 23 comments -> [Federal judge partially blocks U.S. ban on noncompetes](https://www.npr.org/2024/07/03/nx-s1-5020525/noncompete-ban-block-ftc-competition-ryan-texas)<!-- HN:40871143:end --><!-- HN:40871333:start -->
+* [40871333](https://news.social-protocols.org/stats?id=40871333) #27 8 points 1 comments -> [I was served an Ad that featured an AI Photo of myself on Snapchat](https://old.reddit.com/r/privacy/comments/1dtnjvn/i_was_served_an_ad_that_featured_an_ai_photo_of/)<!-- HN:40871333:end -->
