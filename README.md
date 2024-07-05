@@ -1817,4 +1817,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 5, 2024**
 <!-- HN:40879255:start -->
 * [40879255](https://news.social-protocols.org/stats?id=40879255) #9 5 points 0 comments -> [You May Not Know Who Jeff Zients Is, but He Might Be Running the Country](https://thinkspot.com/discourse/6muDMm/post/david-reavill/you-may-not-know-who-jeff-zients-is-but-he-might-be-running-the-country/LZtN6y6)<!-- HN:40879255:end --><!-- HN:40856212:start -->
-* [40856212](https://news.social-protocols.org/stats?id=40856212) #18 3 points 0 comments -> [The Rubik's Cube Turns 50](https://www.nytimes.com/2024/07/01/science/rubiks-cube-puzzles.html)<!-- HN:40856212:end -->
+* [40856212](https://news.social-protocols.org/stats?id=40856212) #18 3 points 0 comments -> [The Rubik's Cube Turns 50](https://www.nytimes.com/2024/07/01/science/rubiks-cube-puzzles.html)<!-- HN:40856212:end --><!-- HN:40878909:start -->
+* [40878909](https://news.social-protocols.org/stats?id=40878909) #27 4 points 0 comments -> [Upgrading my Chumby 8 kernel part 12: UART woes](https://www.downtowndougbrown.com/2024/07/upgrading-my-chumby-8-kernel-part-12-uart-woes/)<!-- HN:40878909:end -->
