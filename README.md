@@ -1814,3 +1814,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40877673](https://news.social-protocols.org/stats?id=40877673) #29 7 points 0 comments -> [Rare form of eye stroke that causes blindness now linked to Ozempic and Wegovy](https://www.cnn.com/2024/07/03/health/ozempic-wegovy-blindness-rare-risk/index.html)<!-- HN:40877673:end --><!-- HN:40877346:start -->
 * [40877346](https://news.social-protocols.org/stats?id=40877346) #20 27 points 4 comments -> [Thousands ofAmericans got caught in fintech and lost access to bank accounts](https://www.cnbc.com/2024/07/02/synapse-fintech-fdic-false-promise.html)<!-- HN:40877346:end --><!-- HN:40878278:start -->
 * [40878278](https://news.social-protocols.org/stats?id=40878278) #29 3 points 0 comments -> [Linux Looking to Make 5-Level Paging Support Unconditional for x86_64 Builds](https://www.phoronix.com/news/Linux-Unconditional-5-Level-x86)<!-- HN:40878278:end -->
+#### **Friday, July 5, 2024**
+<!-- HN:40878538:start -->
+* [40878538](https://news.social-protocols.org/stats?id=40878538) #7 55 points 20 comments -> [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)<!-- HN:40878538:end -->
