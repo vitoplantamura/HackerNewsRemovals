@@ -1817,4 +1817,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 5, 2024**
 <!-- HN:40878538:start -->
 * [40878538](https://news.social-protocols.org/stats?id=40878538) #7 55 points 20 comments -> [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)<!-- HN:40878538:end --><!-- HN:40879255:start -->
-* [40879255](https://news.social-protocols.org/stats?id=40879255) #9 5 points 0 comments -> [You May Not Know Who Jeff Zients Is, but He Might Be Running the Country](https://thinkspot.com/discourse/6muDMm/post/david-reavill/you-may-not-know-who-jeff-zients-is-but-he-might-be-running-the-country/LZtN6y6)<!-- HN:40879255:end -->
+* [40879255](https://news.social-protocols.org/stats?id=40879255) #9 5 points 0 comments -> [You May Not Know Who Jeff Zients Is, but He Might Be Running the Country](https://thinkspot.com/discourse/6muDMm/post/david-reavill/you-may-not-know-who-jeff-zients-is-but-he-might-be-running-the-country/LZtN6y6)<!-- HN:40879255:end --><!-- HN:40856212:start -->
+* [40856212](https://news.social-protocols.org/stats?id=40856212) #18 3 points 0 comments -> [The Rubik's Cube Turns 50](https://www.nytimes.com/2024/07/01/science/rubiks-cube-puzzles.html)<!-- HN:40856212:end -->
