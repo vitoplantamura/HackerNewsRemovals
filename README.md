@@ -1816,4 +1816,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40878278](https://news.social-protocols.org/stats?id=40878278) #29 3 points 0 comments -> [Linux Looking to Make 5-Level Paging Support Unconditional for x86_64 Builds](https://www.phoronix.com/news/Linux-Unconditional-5-Level-x86)<!-- HN:40878278:end -->
 #### **Friday, July 5, 2024**
 <!-- HN:40878538:start -->
-* [40878538](https://news.social-protocols.org/stats?id=40878538) #7 55 points 20 comments -> [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)<!-- HN:40878538:end -->
+* [40878538](https://news.social-protocols.org/stats?id=40878538) #7 55 points 20 comments -> [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)<!-- HN:40878538:end --><!-- HN:40879255:start -->
+* [40879255](https://news.social-protocols.org/stats?id=40879255) #9 5 points 0 comments -> [You May Not Know Who Jeff Zients Is, but He Might Be Running the Country](https://thinkspot.com/discourse/6muDMm/post/david-reavill/you-may-not-know-who-jeff-zients-is-but-he-might-be-running-the-country/LZtN6y6)<!-- HN:40879255:end -->
