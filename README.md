@@ -1846,3 +1846,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40885961](https://news.social-protocols.org/stats?id=40885961) #8 21 points 38 comments -> [What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)<!-- HN:40885961:end --><!-- HN:40886603:start -->
 * [40886603](https://news.social-protocols.org/stats?id=40886603) #28 7 points 1 comments -> [120k dead and counting A new estimate from Meduza and Mediazona](https://meduza.io/en/feature/2024/07/05/a-new-estimate-from-meduza-and-mediazona-shows-the-rate-of-russian-military-deaths-in-ukraine-is-only-growing)<!-- HN:40886603:end --><!-- HN:40885397:start -->
 * [40885397](https://news.social-protocols.org/stats?id=40885397) #11 104 points 128 comments -> [Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)<!-- HN:40885397:end -->
+#### **Saturday, July 6, 2024**
+<!-- HN:40843123:start -->
+* [40843123](https://news.social-protocols.org/stats?id=40843123) #4 22 points 19 comments -> [About Passkey – the password-free tech Apple is betting on](https://www.fastcompany.com/91146873/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank)<!-- HN:40843123:end -->
