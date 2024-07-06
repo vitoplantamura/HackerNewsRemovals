@@ -1848,4 +1848,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40885397](https://news.social-protocols.org/stats?id=40885397) #11 104 points 128 comments -> [Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)<!-- HN:40885397:end -->
 #### **Saturday, July 6, 2024**
 <!-- HN:40843123:start -->
-* [40843123](https://news.social-protocols.org/stats?id=40843123) #4 22 points 19 comments -> [About Passkey – the password-free tech Apple is betting on](https://www.fastcompany.com/91146873/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank)<!-- HN:40843123:end -->
+* [40843123](https://news.social-protocols.org/stats?id=40843123) #4 22 points 19 comments -> [About Passkey – the password-free tech Apple is betting on](https://www.fastcompany.com/91146873/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank)<!-- HN:40843123:end --><!-- HN:40889705:start -->
+* [40889705](https://news.social-protocols.org/stats?id=40889705) #1 -> [Doctors Are Not Trained to Think Critically](https://www.madintheuk.com/2024/06/doctors-not-trained-to-think-critically/)<!-- HN:40889705:end -->
