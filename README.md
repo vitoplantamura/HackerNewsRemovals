@@ -1870,3 +1870,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40893074](https://news.social-protocols.org/stats?id=40893074) #3 9 points 0 comments -> [Top GitHub repositories which everyone should look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)<!-- HN:40893074:end --><!-- HN:40893447:start -->
 * [40893447](https://news.social-protocols.org/stats?id=40893447) #2 8 points 3 comments -> [Microsoft Is Dead: The Cliffs Notes (2007)](https://paulgraham.com/cliffsnotes.html)<!-- HN:40893447:end --><!-- HN:40893894:start -->
 * [40893894](https://news.social-protocols.org/stats?id=40893894) #24 4 points 0 comments -> [The Nintendo Switch Is Bringing Out the Big Guns Against Piracy](https://www.inverse.com/gaming/nintendo-switch-lawsuits-pirates-modded-hardware-switchpirates)<!-- HN:40893894:end -->
+#### **Sunday, July 7, 2024**
+<!-- HN:40892358:start -->
+* [40892358](https://news.social-protocols.org/stats?id=40892358) #5 10 points 1 comments -> [How to Catch a Lab Leak](https://www.statecraft.pub/p/how-to-catch-a-lab-leak)<!-- HN:40892358:end -->
