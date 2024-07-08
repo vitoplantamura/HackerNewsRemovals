@@ -1901,4 +1901,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40900731](https://news.social-protocols.org/stats?id=40900731) #29 6 points 2 comments -> [Wall Street bearish investors are out of favor–but evidence is they're right](https://fortune.com/2024/07/07/stock-market-valuation-outlook-spx-historial-earnings/)<!-- HN:40900731:end -->
 #### **Monday, July 8, 2024**
 <!-- HN:40901400:start -->
-* [40901400](https://news.social-protocols.org/stats?id=40901400) #20 12 points 3 comments -> [First study to measure toxic metals in tampons shows arsenic and lead](https://publichealth.berkeley.edu/news-media/research-highlights/first-study-to-measure-toxic-metals-in-tampons-shows-arsenic-and-lead)<!-- HN:40901400:end -->
+* [40901400](https://news.social-protocols.org/stats?id=40901400) #20 12 points 3 comments -> [First study to measure toxic metals in tampons shows arsenic and lead](https://publichealth.berkeley.edu/news-media/research-highlights/first-study-to-measure-toxic-metals-in-tampons-shows-arsenic-and-lead)<!-- HN:40901400:end --><!-- HN:40902003:start -->
+* [40902003](https://news.social-protocols.org/stats?id=40902003) #21 5 points 0 comments -> [Counting the dead in Gaza: difficult but essential](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)<!-- HN:40902003:end -->
