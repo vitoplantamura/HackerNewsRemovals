@@ -1902,4 +1902,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 8, 2024**
 <!-- HN:40901400:start -->
 * [40901400](https://news.social-protocols.org/stats?id=40901400) #20 12 points 3 comments -> [First study to measure toxic metals in tampons shows arsenic and lead](https://publichealth.berkeley.edu/news-media/research-highlights/first-study-to-measure-toxic-metals-in-tampons-shows-arsenic-and-lead)<!-- HN:40901400:end --><!-- HN:40902003:start -->
-* [40902003](https://news.social-protocols.org/stats?id=40902003) #21 5 points 0 comments -> [Counting the dead in Gaza: difficult but essential](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)<!-- HN:40902003:end -->
+* [40902003](https://news.social-protocols.org/stats?id=40902003) #21 5 points 0 comments -> [Counting the dead in Gaza: difficult but essential](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)<!-- HN:40902003:end --><!-- HN:40901954:start -->
+* [40901954](https://news.social-protocols.org/stats?id=40901954) #27 9 points 10 comments -> [1/3 of women &lt; 44 have no children and the trend is rising. What is causing it?](https://twitter.com/MichaelAArouet/status/1809941867011719389)<!-- HN:40901954:end -->
