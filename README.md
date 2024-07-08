@@ -1899,3 +1899,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40899673](https://news.social-protocols.org/stats?id=40899673) #23 8 points 2 comments -> [Show HN: Imageprompt.io – AI-powered and human-curated artworks, logos, photos](https://imageprompt.io/)<!-- HN:40899673:end --><!-- HN:40898793:start -->
 * [40898793](https://news.social-protocols.org/stats?id=40898793) #27 28 points 7 comments -> [Falsehoods Programmers Believe About Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)<!-- HN:40898793:end --><!-- HN:40900731:start -->
 * [40900731](https://news.social-protocols.org/stats?id=40900731) #29 6 points 2 comments -> [Wall Street bearish investors are out of favor–but evidence is they're right](https://fortune.com/2024/07/07/stock-market-valuation-outlook-spx-historial-earnings/)<!-- HN:40900731:end -->
+#### **Monday, July 8, 2024**
+<!-- HN:40901400:start -->
+* [40901400](https://news.social-protocols.org/stats?id=40901400) #20 12 points 3 comments -> [First study to measure toxic metals in tampons shows arsenic and lead](https://publichealth.berkeley.edu/news-media/research-highlights/first-study-to-measure-toxic-metals-in-tampons-shows-arsenic-and-lead)<!-- HN:40901400:end -->
