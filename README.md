@@ -1870,8 +1870,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40893894](https://news.social-protocols.org/stats?id=40893894) #24 4 points 0 comments -> [The Nintendo Switch Is Bringing Out the Big Guns Against Piracy](https://www.inverse.com/gaming/nintendo-switch-lawsuits-pirates-modded-hardware-switchpirates)<!-- HN:40893894:end -->
 #### **Sunday, July 7, 2024**
 <!-- HN:40892358:start -->
-* [40892358](https://news.social-protocols.org/stats?id=40892358) #5 10 points 1 comments -> [How to Catch a Lab Leak](https://www.statecraft.pub/p/how-to-catch-a-lab-leak)<!-- HN:40892358:end --><!-- HN:40894216:start -->
-* [40894216](https://news.social-protocols.org/stats?id=40894216) #11 9 points 2 comments -> [Read Hacker News on Kindle (2022)](https://ktool.io/hacker-news-to-kindle)<!-- HN:40894216:end --><!-- HN:40859813:start -->
+* [40892358](https://news.social-protocols.org/stats?id=40892358) #5 10 points 1 comments -> [How to Catch a Lab Leak](https://www.statecraft.pub/p/how-to-catch-a-lab-leak)<!-- HN:40892358:end --><!-- HN:40859813:start -->
 * [40859813](https://news.social-protocols.org/stats?id=40859813) #24 24 points 2 comments -> [How to prevent stagnation while building products alone](https://www.idiotlamborghini.com/articles/how_to_prevent_stagnation_while_building_products_alone)<!-- HN:40859813:end --><!-- HN:40865073:start -->
 * [40865073](https://news.social-protocols.org/stats?id=40865073) #24 10 points 1 comments -> [The Fake Oilman Who Conned People Out of Millions](https://www.newyorker.com/news/letter-from-the-south/the-fake-oilman)<!-- HN:40865073:end --><!-- HN:40895484:start -->
 * [40895484](https://news.social-protocols.org/stats?id=40895484) #2 12 points 7 comments -> [We built the extension that blocks ads, trackers and third-party cookies](https://ultrablock.org/about/)<!-- HN:40895484:end --><!-- HN:40896854:start -->
