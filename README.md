@@ -1915,4 +1915,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40909418](https://news.social-protocols.org/stats?id=40909418) #25 8 points 0 comments -> [The Lancet: Counting the Dead in Gaza](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)<!-- HN:40909418:end -->
 #### **Tuesday, July 9, 2024**
 <!-- HN:40909554:start -->
-* [40909554](https://news.social-protocols.org/stats?id=40909554) #29 35 points 18 comments -> [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)<!-- HN:40909554:end -->
+* [40909554](https://news.social-protocols.org/stats?id=40909554) #29 35 points 18 comments -> [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)<!-- HN:40909554:end --><!-- HN:40910799:start -->
+* [40910799](https://news.social-protocols.org/stats?id=40910799) #21 13 points 4 comments -> [The nasty neighbor effect in humans](https://www.science.org/doi/10.1126/sciadv.adm7968)<!-- HN:40910799:end -->
