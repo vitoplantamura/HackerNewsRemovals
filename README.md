@@ -1916,4 +1916,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, July 9, 2024**
 <!-- HN:40909554:start -->
 * [40909554](https://news.social-protocols.org/stats?id=40909554) #29 35 points 18 comments -> [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)<!-- HN:40909554:end --><!-- HN:40910799:start -->
-* [40910799](https://news.social-protocols.org/stats?id=40910799) #21 13 points 4 comments -> [The nasty neighbor effect in humans](https://www.science.org/doi/10.1126/sciadv.adm7968)<!-- HN:40910799:end -->
+* [40910799](https://news.social-protocols.org/stats?id=40910799) #21 13 points 4 comments -> [The nasty neighbor effect in humans](https://www.science.org/doi/10.1126/sciadv.adm7968)<!-- HN:40910799:end --><!-- HN:40911627:start -->
+* [40911627](https://news.social-protocols.org/stats?id=40911627) #19 12 points 8 comments -> [Keyboards Influenced by Touchscreens (2011)](https://eagain.net/blog/2011/04/30/keyboards.html)<!-- HN:40911627:end -->
