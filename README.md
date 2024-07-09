@@ -1913,3 +1913,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40904247](https://news.social-protocols.org/stats?id=40904247) #24 15 points 3 comments -> [Portugal over 90% renewable electricity in May and June](https://twitter.com/johnrhanger/status/1810256550562332837)<!-- HN:40904247:end --><!-- HN:40907899:start -->
 * [40907899](https://news.social-protocols.org/stats?id=40907899) #10 5 points 3 comments -> [The EU Goes Too Far](https://stratechery.com/2024/the-e-u-goes-too-far/)<!-- HN:40907899:end --><!-- HN:40909418:start -->
 * [40909418](https://news.social-protocols.org/stats?id=40909418) #25 8 points 0 comments -> [The Lancet: Counting the Dead in Gaza](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)<!-- HN:40909418:end -->
+#### **Tuesday, July 9, 2024**
+<!-- HN:40909554:start -->
+* [40909554](https://news.social-protocols.org/stats?id=40909554) #29 35 points 18 comments -> [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)<!-- HN:40909554:end -->
