@@ -1951,3 +1951,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40921335](https://news.social-protocols.org/stats?id=40921335) #3 9 points 6 comments -> [Show HN: Save your cells for future aging therapies](https://ambrogia.bio)<!-- HN:40921335:end --><!-- HN:40921290:start -->
 * [40921290](https://news.social-protocols.org/stats?id=40921290) #19 17 points 8 comments -> [Apple approves Epic Games Store app for iOS](https://arstechnica.com/gadgets/2024/07/report-apple-approves-epic-games-store-on-ios-in-europe/)<!-- HN:40921290:end --><!-- HN:40918553:start -->
 * [40918553](https://news.social-protocols.org/stats?id=40918553) #25 21 points 40 comments -> [The Impact of the Kaspersky Ban](https://www.bitsight.com/blog/impact-kaspersky-ban)<!-- HN:40918553:end -->
+#### **Wednesday, July 10, 2024**
+<!-- HN:40898118:start -->
+* [40898118](https://news.social-protocols.org/stats?id=40898118) #6 50 points 12 comments -> [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)<!-- HN:40898118:end -->
