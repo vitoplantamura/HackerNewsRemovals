@@ -1954,4 +1954,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 10, 2024**
 <!-- HN:40898118:start -->
 * [40898118](https://news.social-protocols.org/stats?id=40898118) #6 50 points 12 comments -> [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)<!-- HN:40898118:end --><!-- HN:40923005:start -->
-* [40923005](https://news.social-protocols.org/stats?id=40923005) #20 5 points 0 comments -> [Hackvists release two gigabytes of Heritage Foundation data](https://cyberscoop.com/hackvists-release-two-gigabytes-of-heritage-foundation-data/)<!-- HN:40923005:end -->
+* [40923005](https://news.social-protocols.org/stats?id=40923005) #20 5 points 0 comments -> [Hackvists release two gigabytes of Heritage Foundation data](https://cyberscoop.com/hackvists-release-two-gigabytes-of-heritage-foundation-data/)<!-- HN:40923005:end --><!-- HN:40921336:start -->
+* [40921336](https://news.social-protocols.org/stats?id=40921336) #10 87 points 22 comments -> [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)<!-- HN:40921336:end -->
