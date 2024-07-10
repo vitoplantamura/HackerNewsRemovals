@@ -1953,4 +1953,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40918553](https://news.social-protocols.org/stats?id=40918553) #25 21 points 40 comments -> [The Impact of the Kaspersky Ban](https://www.bitsight.com/blog/impact-kaspersky-ban)<!-- HN:40918553:end -->
 #### **Wednesday, July 10, 2024**
 <!-- HN:40898118:start -->
-* [40898118](https://news.social-protocols.org/stats?id=40898118) #6 50 points 12 comments -> [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)<!-- HN:40898118:end -->
+* [40898118](https://news.social-protocols.org/stats?id=40898118) #6 50 points 12 comments -> [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)<!-- HN:40898118:end --><!-- HN:40923005:start -->
+* [40923005](https://news.social-protocols.org/stats?id=40923005) #20 5 points 0 comments -> [Hackvists release two gigabytes of Heritage Foundation data](https://cyberscoop.com/hackvists-release-two-gigabytes-of-heritage-foundation-data/)<!-- HN:40923005:end -->
