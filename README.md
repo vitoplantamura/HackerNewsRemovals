@@ -1952,7 +1952,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40921290](https://news.social-protocols.org/stats?id=40921290) #19 17 points 8 comments -> [Apple approves Epic Games Store app for iOS](https://arstechnica.com/gadgets/2024/07/report-apple-approves-epic-games-store-on-ios-in-europe/)<!-- HN:40921290:end --><!-- HN:40918553:start -->
 * [40918553](https://news.social-protocols.org/stats?id=40918553) #25 21 points 40 comments -> [The Impact of the Kaspersky Ban](https://www.bitsight.com/blog/impact-kaspersky-ban)<!-- HN:40918553:end -->
 #### **Wednesday, July 10, 2024**
-<!-- HN:40898118:start -->
-* [40898118](https://news.social-protocols.org/stats?id=40898118) #6 50 points 12 comments -> [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)<!-- HN:40898118:end --><!-- HN:40923005:start -->
+<!-- HN:40923005:start -->
 * [40923005](https://news.social-protocols.org/stats?id=40923005) #20 5 points 0 comments -> [Hackvists release two gigabytes of Heritage Foundation data](https://cyberscoop.com/hackvists-release-two-gigabytes-of-heritage-foundation-data/)<!-- HN:40923005:end --><!-- HN:40921336:start -->
 * [40921336](https://news.social-protocols.org/stats?id=40921336) #10 87 points 22 comments -> [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)<!-- HN:40921336:end -->
