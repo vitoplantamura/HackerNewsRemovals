@@ -1954,4 +1954,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 10, 2024**
 <!-- HN:40923005:start -->
 * [40923005](https://news.social-protocols.org/stats?id=40923005) #20 5 points 0 comments -> [Hackvists release two gigabytes of Heritage Foundation data](https://cyberscoop.com/hackvists-release-two-gigabytes-of-heritage-foundation-data/)<!-- HN:40923005:end --><!-- HN:40921336:start -->
-* [40921336](https://news.social-protocols.org/stats?id=40921336) #10 87 points 22 comments -> [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)<!-- HN:40921336:end -->
+* [40921336](https://news.social-protocols.org/stats?id=40921336) #10 87 points 22 comments -> [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)<!-- HN:40921336:end --><!-- HN:40922548:start -->
+* [40922548](https://news.social-protocols.org/stats?id=40922548) #10 31 points 13 comments -> [Enhancing the New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)<!-- HN:40922548:end -->
