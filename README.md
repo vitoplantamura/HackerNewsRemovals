@@ -1977,4 +1977,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, July 11, 2024**
 <!-- HN:40932996:start -->
 * [40932996](https://news.social-protocols.org/stats?id=40932996) #12 18 points 9 comments -> [Lix 2.90 "Vanilla Ice Cream"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)<!-- HN:40932996:end --><!-- HN:40907481:start -->
-* [40907481](https://news.social-protocols.org/stats?id=40907481) #17 9 points 4 comments -> [You're Out of Here: A History of Umpire Ejections](https://sabr.org/journal/article/youre-out-of-here-a-history-of-umpire-ejections/)<!-- HN:40907481:end -->
+* [40907481](https://news.social-protocols.org/stats?id=40907481) #17 9 points 4 comments -> [You're Out of Here: A History of Umpire Ejections](https://sabr.org/journal/article/youre-out-of-here-a-history-of-umpire-ejections/)<!-- HN:40907481:end --><!-- HN:40933434:start -->
+* [40933434](https://news.social-protocols.org/stats?id=40933434) #12 7 points 0 comments -> [Brian Lunduke: "macOS Sucks" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)<!-- HN:40933434:end -->
