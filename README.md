@@ -1974,3 +1974,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40883672](https://news.social-protocols.org/stats?id=40883672) #11 80 points 33 comments -> [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)<!-- HN:40883672:end --><!-- HN:40931986:start -->
 * [40931986](https://news.social-protocols.org/stats?id=40931986) #4 5 points 1 comments -> [Redbox will shut down, corporate parent is being liquidated](https://www.lowpass.cc/p/redbox-shutting-down)<!-- HN:40931986:end --><!-- HN:40932420:start -->
 * [40932420](https://news.social-protocols.org/stats?id=40932420) #2 9 points 2 comments -> [Eliza chat with an OpenAI compatible API](https://elizallm.com)<!-- HN:40932420:end -->
+#### **Thursday, July 11, 2024**
+<!-- HN:40932996:start -->
+* [40932996](https://news.social-protocols.org/stats?id=40932996) #12 18 points 9 comments -> [Lix 2.90 "Vanilla Ice Cream"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)<!-- HN:40932996:end --><!-- HN:40907481:start -->
+* [40907481](https://news.social-protocols.org/stats?id=40907481) #17 9 points 4 comments -> [You're Out of Here: A History of Umpire Ejections](https://sabr.org/journal/article/youre-out-of-here-a-history-of-umpire-ejections/)<!-- HN:40907481:end -->
