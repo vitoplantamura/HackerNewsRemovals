@@ -2008,4 +2008,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 12, 2024**
 <!-- HN:40941626:start -->
 * [40941626](https://news.social-protocols.org/stats?id=40941626) #5 6 points 2 comments -> [Show HN: macOS desktop app for turning websites into glanceable widgets](https://github.com/devin-liu/glanceables)<!-- HN:40941626:end --><!-- HN:40941966:start -->
-* [40941966](https://news.social-protocols.org/stats?id=40941966) #16 6 points 2 comments -> [Red meat is not a health risk. New study slams years of shoddy research (2022)](https://bigthink.com/health/red-meat-cancer-not-health-risk/)<!-- HN:40941966:end -->
+* [40941966](https://news.social-protocols.org/stats?id=40941966) #16 6 points 2 comments -> [Red meat is not a health risk. New study slams years of shoddy research (2022)](https://bigthink.com/health/red-meat-cancer-not-health-risk/)<!-- HN:40941966:end --><!-- HN:40941899:start -->
+* [40941899](https://news.social-protocols.org/stats?id=40941899) #26 3 points 0 comments -> [Federal Ban on Home-Distilling Exceeds Congress' Enumerated Powers](https://reason.com/volokh/2024/07/11/court-holds-federal-ban-on-home-distilling-exceeds-congress-enumerated-powers/)<!-- HN:40941899:end -->
