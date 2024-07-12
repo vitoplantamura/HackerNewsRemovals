@@ -2007,5 +2007,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40940243](https://news.social-protocols.org/stats?id=40940243) #24 17 points 3 comments -> [Nike Slashed Its Sustainability Team](https://www.propublica.org/article/nike-layoffs-sustainability-climate-change)<!-- HN:40940243:end -->
 #### **Friday, July 12, 2024**
 <!-- HN:40941626:start -->
-* [40941626](https://news.social-protocols.org/stats?id=40941626) #5 6 points 2 comments -> [Show HN: macOS desktop app for turning websites into glanceable widgets](https://github.com/devin-liu/glanceables)<!-- HN:40941626:end --><!-- HN:40941499:start -->
-* [40941499](https://news.social-protocols.org/stats?id=40941499) #21 12 points 6 comments -> [First "Miss AI" contest sparks ire for unrealistic beauty standards](https://arstechnica.com/information-technology/2024/07/first-miss-ai-contest-sparks-ire-for-pushing-unrealistic-beauty-standards/)<!-- HN:40941499:end -->
+* [40941626](https://news.social-protocols.org/stats?id=40941626) #5 6 points 2 comments -> [Show HN: macOS desktop app for turning websites into glanceable widgets](https://github.com/devin-liu/glanceables)<!-- HN:40941626:end -->
