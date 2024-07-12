@@ -2005,3 +2005,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40941115](https://news.social-protocols.org/stats?id=40941115) #26 17 points 12 comments -> [Sonnet 3.5: Please write an asteroids game](https://claude.site/artifacts/a0d4590f-5a5e-40ac-8a27-1c4db47df938)<!-- HN:40941115:end --><!-- HN:40939020:start -->
 * [40939020](https://news.social-protocols.org/stats?id=40939020) #23 7 points 1 comments -> [Internet Phone Book](https://internetphonebook.net)<!-- HN:40939020:end --><!-- HN:40940243:start -->
 * [40940243](https://news.social-protocols.org/stats?id=40940243) #24 17 points 3 comments -> [Nike Slashed Its Sustainability Team](https://www.propublica.org/article/nike-layoffs-sustainability-climate-change)<!-- HN:40940243:end -->
+#### **Friday, July 12, 2024**
+<!-- HN:40941626:start -->
+* [40941626](https://news.social-protocols.org/stats?id=40941626) #5 6 points 2 comments -> [Show HN: macOS desktop app for turning websites into glanceable widgets](https://github.com/devin-liu/glanceables)<!-- HN:40941626:end -->
