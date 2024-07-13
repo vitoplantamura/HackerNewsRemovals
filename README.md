@@ -2036,4 +2036,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40949349](https://news.social-protocols.org/stats?id=40949349) #30 11 points 0 comments -> [International Committee of the Red Cross rules of engagement for civilian hacker](https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross_rules_of_engagement_for_civilian_hackers)<!-- HN:40949349:end -->
 #### **Saturday, July 13, 2024**
 <!-- HN:40950312:start -->
-* [40950312](https://news.social-protocols.org/stats?id=40950312) #13 7 points 2 comments -> [Yet Another Way Corporations Outrank People](https://win-vector.com/2024/07/12/yet-another-way-corporations-outrank-people/)<!-- HN:40950312:end -->
+* [40950312](https://news.social-protocols.org/stats?id=40950312) #13 7 points 2 comments -> [Yet Another Way Corporations Outrank People](https://win-vector.com/2024/07/12/yet-another-way-corporations-outrank-people/)<!-- HN:40950312:end --><!-- HN:40950484:start -->
+* [40950484](https://news.social-protocols.org/stats?id=40950484) #4 31 points 29 comments -> [The End of the Affair? Not for Eric Schmidt](https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html)<!-- HN:40950484:end -->
