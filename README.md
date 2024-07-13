@@ -2037,4 +2037,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 13, 2024**
 <!-- HN:40950312:start -->
 * [40950312](https://news.social-protocols.org/stats?id=40950312) #13 7 points 2 comments -> [Yet Another Way Corporations Outrank People](https://win-vector.com/2024/07/12/yet-another-way-corporations-outrank-people/)<!-- HN:40950312:end --><!-- HN:40950484:start -->
-* [40950484](https://news.social-protocols.org/stats?id=40950484) #4 31 points 29 comments -> [The End of the Affair? Not for Eric Schmidt](https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html)<!-- HN:40950484:end -->
+* [40950484](https://news.social-protocols.org/stats?id=40950484) #4 31 points 29 comments -> [The End of the Affair? Not for Eric Schmidt](https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html)<!-- HN:40950484:end --><!-- HN:40901138:start -->
+* [40901138](https://news.social-protocols.org/stats?id=40901138) #9 46 points 6 comments -> [Final Fantasy 7: An Oral History (2017)](https://www.polygon.com/a/final-fantasy-7)<!-- HN:40901138:end -->
