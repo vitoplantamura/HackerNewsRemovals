@@ -2066,3 +2066,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40925212](https://news.social-protocols.org/stats?id=40925212) #7 8 points 12 comments -> [Intel's lunar lake laptops won't let you upgrade your RAM. Here's why thats fine](https://www.pcworld.com/article/2373541/intels-lunar-lake-laptops-wont-let-you-upgrade-your-ram-heres-why-thats-fine.html)<!-- HN:40925212:end --><!-- HN:40956192:start -->
 * [40956192](https://news.social-protocols.org/stats?id=40956192) #29 89 points 48 comments -> [A Motherfucking Website](https://motherfuckingwebsite.com/)<!-- HN:40956192:end --><!-- HN:40957691:start -->
 * [40957691](https://news.social-protocols.org/stats?id=40957691) #10 8 points 0 comments -> [Former US President injured after Pennsylvania shooting](https://www.smh.com.au/world/north-america/trump-rally-shooting-live-updates-former-us-president-injured-after-pennsylvania-shooting-20240714-p5jtgi.html)<!-- HN:40957691:end -->
+#### **Sunday, July 14, 2024**
+<!-- HN:40957628:start -->
+* [40957628](https://news.social-protocols.org/stats?id=40957628) #21 8 points 1 comments -> [Ditto: Build Your Community on Nostr](https://soapbox.pub/blog/announcing-ditto/)<!-- HN:40957628:end -->
