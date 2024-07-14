@@ -2069,4 +2069,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 14, 2024**
 <!-- HN:40957628:start -->
 * [40957628](https://news.social-protocols.org/stats?id=40957628) #21 8 points 1 comments -> [Ditto: Build Your Community on Nostr](https://soapbox.pub/blog/announcing-ditto/)<!-- HN:40957628:end --><!-- HN:40958219:start -->
-* [40958219](https://news.social-protocols.org/stats?id=40958219) #19 5 points 0 comments -> [Ziklag, the Secret Organization of Wealthy Christians](https://www.propublica.org/article/inside-ziklag-secret-christian-charity-2024-election)<!-- HN:40958219:end -->
+* [40958219](https://news.social-protocols.org/stats?id=40958219) #19 5 points 0 comments -> [Ziklag, the Secret Organization of Wealthy Christians](https://www.propublica.org/article/inside-ziklag-secret-christian-charity-2024-election)<!-- HN:40958219:end --><!-- HN:40957026:start -->
+* [40957026](https://news.social-protocols.org/stats?id=40957026) #27 66 points 18 comments -> [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)<!-- HN:40957026:end -->
