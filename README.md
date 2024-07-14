@@ -2068,4 +2068,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40957691](https://news.social-protocols.org/stats?id=40957691) #10 8 points 0 comments -> [Former US President injured after Pennsylvania shooting](https://www.smh.com.au/world/north-america/trump-rally-shooting-live-updates-former-us-president-injured-after-pennsylvania-shooting-20240714-p5jtgi.html)<!-- HN:40957691:end -->
 #### **Sunday, July 14, 2024**
 <!-- HN:40957628:start -->
-* [40957628](https://news.social-protocols.org/stats?id=40957628) #21 8 points 1 comments -> [Ditto: Build Your Community on Nostr](https://soapbox.pub/blog/announcing-ditto/)<!-- HN:40957628:end -->
+* [40957628](https://news.social-protocols.org/stats?id=40957628) #21 8 points 1 comments -> [Ditto: Build Your Community on Nostr](https://soapbox.pub/blog/announcing-ditto/)<!-- HN:40957628:end --><!-- HN:40958219:start -->
+* [40958219](https://news.social-protocols.org/stats?id=40958219) #19 5 points 0 comments -> [Ziklag, the Secret Organization of Wealthy Christians](https://www.propublica.org/article/inside-ziklag-secret-christian-charity-2024-election)<!-- HN:40958219:end -->
