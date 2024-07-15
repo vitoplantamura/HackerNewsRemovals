@@ -2102,4 +2102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40963384](https://news.social-protocols.org/stats?id=40963384) #28 6 points 0 comments -> [Wine 9.13 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.13)<!-- HN:40963384:end -->
 #### **Monday, July 15, 2024**
 <!-- HN:40962737:start -->
-* [40962737](https://news.social-protocols.org/stats?id=40962737) #29 5 points 0 comments -> [Show HN: Sodap: Simple Online Directory Access Protocol](https://codeberg.org/reesericci/sodap)<!-- HN:40962737:end -->
+* [40962737](https://news.social-protocols.org/stats?id=40962737) #29 5 points 0 comments -> [Show HN: Sodap: Simple Online Directory Access Protocol](https://codeberg.org/reesericci/sodap)<!-- HN:40962737:end --><!-- HN:40962705:start -->
+* [40962705](https://news.social-protocols.org/stats?id=40962705) #23 6 points 0 comments -> [Playing the Open Source Game (2021)](https://kristoff.it/blog/the-open-source-game/)<!-- HN:40962705:end --><!-- HN:40962921:start -->
+* [40962921](https://news.social-protocols.org/stats?id=40962921) #27 55 points 18 comments -> [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)<!-- HN:40962921:end -->
