@@ -2100,3 +2100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40962663](https://news.social-protocols.org/stats?id=40962663) #6 31 points 0 comments -> [Book Review: The Family That Couldn't Sleep](https://www.astralcodexten.com/p/your-book-review-the-family-that)<!-- HN:40962663:end --><!-- HN:40963871:start -->
 * [40963871](https://news.social-protocols.org/stats?id=40963871) #30 4 points 0 comments -> [Lemon64.com and Lemonamiga.com Hacked](https://www.lemon64.com/)<!-- HN:40963871:end --><!-- HN:40963384:start -->
 * [40963384](https://news.social-protocols.org/stats?id=40963384) #28 6 points 0 comments -> [Wine 9.13 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.13)<!-- HN:40963384:end -->
+#### **Monday, July 15, 2024**
+<!-- HN:40962737:start -->
+* [40962737](https://news.social-protocols.org/stats?id=40962737) #29 5 points 0 comments -> [Show HN: Sodap: Simple Online Directory Access Protocol](https://codeberg.org/reesericci/sodap)<!-- HN:40962737:end -->
