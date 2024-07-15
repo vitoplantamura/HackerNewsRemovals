@@ -2102,4 +2102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40962737:start -->
 * [40962737](https://news.social-protocols.org/stats?id=40962737) #29 5 points 0 comments -> [Show HN: Sodap: Simple Online Directory Access Protocol](https://codeberg.org/reesericci/sodap)<!-- HN:40962737:end --><!-- HN:40962705:start -->
 * [40962705](https://news.social-protocols.org/stats?id=40962705) #23 6 points 0 comments -> [Playing the Open Source Game (2021)](https://kristoff.it/blog/the-open-source-game/)<!-- HN:40962705:end --><!-- HN:40961385:start -->
-* [40961385](https://news.social-protocols.org/stats?id=40961385) #29 123 points 78 comments -> [Show HN: I generated 70k audiobooks with OpenAI Text-to-Speech](https://listenly.io/gutenberg)<!-- HN:40961385:end -->
+* [40961385](https://news.social-protocols.org/stats?id=40961385) #29 123 points 78 comments -> [Show HN: I generated 70k audiobooks with OpenAI Text-to-Speech](https://listenly.io/gutenberg)<!-- HN:40961385:end --><!-- HN:40962774:start -->
+* [40962774](https://news.social-protocols.org/stats?id=40962774) #15 12 points 0 comments -> [Can ChatGPT do data science?](https://austinhenley.com/blog/chatgptdatascience.html)<!-- HN:40962774:end -->
