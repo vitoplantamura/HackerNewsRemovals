@@ -2132,4 +2132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40971631](https://news.social-protocols.org/stats?id=40971631) #4 37 points 7 comments -> [Show HN: Mutable.ai Codebase chat that uses a Wiki for RAG](https://wiki.mutable.ai/Dao-AILab/flash-attention)<!-- HN:40971631:end -->
 #### **Tuesday, July 16, 2024**
 <!-- HN:40928390:start -->
-* [40928390](https://news.social-protocols.org/stats?id=40928390) #20 4 points 0 comments -> [Implementing a Single-Threaded Blocking Bare Bones TCP/IP Server](https://shivangsnewsletter.com/p/distributed-programming-part-2)<!-- HN:40928390:end -->
+* [40928390](https://news.social-protocols.org/stats?id=40928390) #20 4 points 0 comments -> [Implementing a Single-Threaded Blocking Bare Bones TCP/IP Server](https://shivangsnewsletter.com/p/distributed-programming-part-2)<!-- HN:40928390:end --><!-- HN:40925999:start -->
+* [40925999](https://news.social-protocols.org/stats?id=40925999) #13 173 points 165 comments -> [Samsung's abandoned NX cameras can be brought online with a $20 LTE stick](https://arstechnica.com/gadgets/2024/07/samsungs-abandoned-nx-cameras-can-be-brought-online-with-a-20-lte-stick/)<!-- HN:40925999:end -->
