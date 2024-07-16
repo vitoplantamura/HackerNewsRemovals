@@ -2130,3 +2130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40972070](https://news.social-protocols.org/stats?id=40972070) #20 26 points 9 comments -> [The Hidden Ties Between Google's Project Nimbus and Israel's Military](https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/)<!-- HN:40972070:end --><!-- HN:40953563:start -->
 * [40953563](https://news.social-protocols.org/stats?id=40953563) #3 158 points 30 comments -> [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)<!-- HN:40953563:end --><!-- HN:40971631:start -->
 * [40971631](https://news.social-protocols.org/stats?id=40971631) #4 37 points 7 comments -> [Show HN: Mutable.ai Codebase chat that uses a Wiki for RAG](https://wiki.mutable.ai/Dao-AILab/flash-attention)<!-- HN:40971631:end -->
+#### **Tuesday, July 16, 2024**
+<!-- HN:40928390:start -->
+* [40928390](https://news.social-protocols.org/stats?id=40928390) #20 4 points 0 comments -> [Implementing a Single-Threaded Blocking Bare Bones TCP/IP Server](https://shivangsnewsletter.com/p/distributed-programming-part-2)<!-- HN:40928390:end -->
