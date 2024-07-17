@@ -2159,4 +2159,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40944606](https://news.social-protocols.org/stats?id=40944606) #16 12 points 1 comments -> [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)<!-- HN:40944606:end -->
 #### **Wednesday, July 17, 2024**
 <!-- HN:40980588:start -->
-* [40980588](https://news.social-protocols.org/stats?id=40980588) #10 12 points 2 comments -> [The Neurodivergent Engineer's Strategy for Success](https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success)<!-- HN:40980588:end -->
+* [40980588](https://news.social-protocols.org/stats?id=40980588) #10 12 points 2 comments -> [The Neurodivergent Engineer's Strategy for Success](https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success)<!-- HN:40980588:end --><!-- HN:40940886:start -->
+* [40940886](https://news.social-protocols.org/stats?id=40940886) #23 4 points 3 comments -> [Behind Victorian Bars](https://www.historytoday.com/archive/feature/behind-victorian-bars)<!-- HN:40940886:end -->
