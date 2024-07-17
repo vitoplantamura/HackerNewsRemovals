@@ -2158,8 +2158,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40980448](https://news.social-protocols.org/stats?id=40980448) #23 7 points 0 comments -> [Musk, frustrated with California laws, says SpaceX, X will move HQs to Texas](https://www.reuters.com/technology/musk-says-spacex-will-move-headquarters-texas-california-2024-07-16/)<!-- HN:40980448:end --><!-- HN:40944606:start -->
 * [40944606](https://news.social-protocols.org/stats?id=40944606) #16 12 points 1 comments -> [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)<!-- HN:40944606:end -->
 #### **Wednesday, July 17, 2024**
-<!-- HN:40980588:start -->
-* [40980588](https://news.social-protocols.org/stats?id=40980588) #10 12 points 2 comments -> [The Neurodivergent Engineer's Strategy for Success](https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success)<!-- HN:40980588:end --><!-- HN:40940886:start -->
+<!-- HN:40940886:start -->
 * [40940886](https://news.social-protocols.org/stats?id=40940886) #23 4 points 3 comments -> [Behind Victorian Bars](https://www.historytoday.com/archive/feature/behind-victorian-bars)<!-- HN:40940886:end --><!-- HN:40981942:start -->
 * [40981942](https://news.social-protocols.org/stats?id=40981942) #12 6 points 0 comments -> [Open Source takes center stage at United Nations](https://opensource.net/open-source-takes-center-stage-at-united-nations/)<!-- HN:40981942:end --><!-- HN:40977453:start -->
 * [40977453](https://news.social-protocols.org/stats?id=40977453) #28 120 points 73 comments -> [Show HN: I quit my job and made an automatic time tracker](https://taimapp.io)<!-- HN:40977453:end -->
