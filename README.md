@@ -2161,4 +2161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40980588:start -->
 * [40980588](https://news.social-protocols.org/stats?id=40980588) #10 12 points 2 comments -> [The Neurodivergent Engineer's Strategy for Success](https://spectrum.ieee.org/neurodivergent-engineer-strategy-for-success)<!-- HN:40980588:end --><!-- HN:40940886:start -->
 * [40940886](https://news.social-protocols.org/stats?id=40940886) #23 4 points 3 comments -> [Behind Victorian Bars](https://www.historytoday.com/archive/feature/behind-victorian-bars)<!-- HN:40940886:end --><!-- HN:40981942:start -->
-* [40981942](https://news.social-protocols.org/stats?id=40981942) #12 6 points 0 comments -> [Open Source takes center stage at United Nations](https://opensource.net/open-source-takes-center-stage-at-united-nations/)<!-- HN:40981942:end -->
+* [40981942](https://news.social-protocols.org/stats?id=40981942) #12 6 points 0 comments -> [Open Source takes center stage at United Nations](https://opensource.net/open-source-takes-center-stage-at-united-nations/)<!-- HN:40981942:end --><!-- HN:40977453:start -->
+* [40977453](https://news.social-protocols.org/stats?id=40977453) #28 120 points 73 comments -> [Show HN: I quit my job and made an automatic time tracker](https://taimapp.io)<!-- HN:40977453:end -->
