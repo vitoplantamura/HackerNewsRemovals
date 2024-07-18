@@ -2184,4 +2184,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:40947450:start -->
 * [40947450](https://news.social-protocols.org/stats?id=40947450) #14 82 points 42 comments -> [Rye Language](https://ryelang.org)<!-- HN:40947450:end --><!-- HN:40948450:start -->
 * [40948450](https://news.social-protocols.org/stats?id=40948450) #23 34 points 2 comments -> [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)<!-- HN:40948450:end --><!-- HN:40944510:start -->
-* [40944510](https://news.social-protocols.org/stats?id=40944510) #25 11 points 6 comments -> [CheerpX is x86 virtualization to run executables and OS client-side](https://labs.leaningtech.com/cheerpx)<!-- HN:40944510:end -->
+* [40944510](https://news.social-protocols.org/stats?id=40944510) #25 11 points 6 comments -> [CheerpX is x86 virtualization to run executables and OS client-side](https://labs.leaningtech.com/cheerpx)<!-- HN:40944510:end --><!-- HN:40988917:start -->
+* [40988917](https://news.social-protocols.org/stats?id=40988917) #28 36 points 21 comments -> [Htmx: Simplicity in an Age of Complicated Solutions](https://www.erikheemskerk.nl/htmx-simplicity/)<!-- HN:40988917:end -->
