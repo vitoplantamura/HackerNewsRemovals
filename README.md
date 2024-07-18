@@ -2180,3 +2180,8 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40986705](https://news.social-protocols.org/stats?id=40986705) #22 20 points 13 comments -> [Many US solar factories are lagging. Except those China owns](https://www.reuters.com/business/energy/many-us-solar-factories-are-lagging-except-those-china-owns-2024-07-17/)<!-- HN:40986705:end --><!-- HN:40988752:start -->
 * [40988752](https://news.social-protocols.org/stats?id=40988752) #25 9 points 1 comments -> [The MAGA Plan to End Free Weather Reports](https://www.theatlantic.com/science/archive/2024/07/noaa-project-2025-weather/678987/)<!-- HN:40988752:end --><!-- HN:40989988:start -->
 * [40989988](https://news.social-protocols.org/stats?id=40989988) #30 6 points 1 comments -> [Getting a Home Depot Employee Fired Is Cancel Culture](https://reason.com/2024/07/17/getting-a-home-depot-employee-fired-for-calling-for-trumps-assassination-is-still-cancel-culture/)<!-- HN:40989988:end -->
+#### **Thursday, July 18, 2024**
+<!-- HN:40947450:start -->
+* [40947450](https://news.social-protocols.org/stats?id=40947450) #14 82 points 42 comments -> [Rye Language](https://ryelang.org)<!-- HN:40947450:end --><!-- HN:40948450:start -->
+* [40948450](https://news.social-protocols.org/stats?id=40948450) #23 34 points 2 comments -> [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)<!-- HN:40948450:end --><!-- HN:40944510:start -->
+* [40944510](https://news.social-protocols.org/stats?id=40944510) #25 11 points 6 comments -> [CheerpX is x86 virtualization to run executables and OS client-side](https://labs.leaningtech.com/cheerpx)<!-- HN:40944510:end -->
