@@ -2200,3 +2200,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40999017](https://news.social-protocols.org/stats?id=40999017) #15 5 points 2 comments -> [Strategizing Your Preparation for Machine Learning Interviews](https://mlengineerinsights.substack.com/p/strategizing-your-preparation-for)<!-- HN:40999017:end --><!-- HN:41000065:start -->
 * [41000065](https://news.social-protocols.org/stats?id=41000065) #24 6 points 13 comments -> [More Americans are searching online about moving to Canada. But will they?](https://montreal.ctvnews.ca/more-americans-are-searching-online-about-moving-to-canada-but-will-they-come-here-1.6967953)<!-- HN:41000065:end --><!-- HN:40997919:start -->
 * [40997919](https://news.social-protocols.org/stats?id=40997919) #28 12 points 10 comments -> [The Semmelweis myth and why it's not true (2018)](https://digitaltonto.com/2018/the-semmelweis-myth-and-why-its-not-really-true/)<!-- HN:40997919:end -->
+#### **Friday, July 19, 2024**
+<!-- HN:40996429:start -->
+* [40996429](https://news.social-protocols.org/stats?id=40996429) #29 77 points 1 comments -> [SpreadsheetLLM – Microsoft's new AI system](https://www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/)<!-- HN:40996429:end -->
