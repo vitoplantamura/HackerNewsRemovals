@@ -2241,4 +2241,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 20, 2024**
 <!-- HN:40968215:start -->
 * [40968215](https://news.social-protocols.org/stats?id=40968215) #16 121 points 48 comments -> [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/)<!-- HN:40968215:end --><!-- HN:40967935:start -->
-* [40967935](https://news.social-protocols.org/stats?id=40967935) #26 31 points 5 comments -> [Artificial neural network approach to finding the key length of Vigenère cipher](https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la)<!-- HN:40967935:end -->
+* [40967935](https://news.social-protocols.org/stats?id=40967935) #26 31 points 5 comments -> [Artificial neural network approach to finding the key length of Vigenère cipher](https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la)<!-- HN:40967935:end --><!-- HN:41012531:start -->
+* [41012531](https://news.social-protocols.org/stats?id=41012531) #23 18 points 12 comments -> [I don't buy 538's new election model](https://www.natesilver.net/p/why-i-dont-buy-538s-new-election)<!-- HN:41012531:end -->
