@@ -2238,3 +2238,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41010425](https://news.social-protocols.org/stats?id=41010425) #23 3 points 0 comments -> [Show HN: I built an app to generate me windows blue screen of death](https://app.tivateonline.com/uiconcept/)<!-- HN:41010425:end --><!-- HN:41011114:start -->
 * [41011114](https://news.social-protocols.org/stats?id=41011114) #21 34 points 4 comments -> [2024 CrowdStrike incident: The largest IT outage in history](https://en.wikipedia.org/wiki/2024_CrowdStrike_incident)<!-- HN:41011114:end --><!-- HN:41011058:start -->
 * [41011058](https://news.social-protocols.org/stats?id=41011058) #5 36 points 16 comments -> [Continuously shorting IT stocks overnight and buying back at market open](https://blog.abctaylor.com/continuously-shorting-it-stocks-overnight-and-buying-back-at-market-open/)<!-- HN:41011058:end -->
+#### **Saturday, July 20, 2024**
+<!-- HN:40968215:start -->
+* [40968215](https://news.social-protocols.org/stats?id=40968215) #16 121 points 48 comments -> [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/)<!-- HN:40968215:end --><!-- HN:40967935:start -->
+* [40967935](https://news.social-protocols.org/stats?id=40967935) #26 31 points 5 comments -> [Artificial neural network approach to finding the key length of Vigenère cipher](https://www.tandfonline.com/doi/full/10.1080/01611194.2024.2351117?src=exp-la)<!-- HN:40967935:end -->
