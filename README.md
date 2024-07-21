@@ -2264,4 +2264,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41019013](https://news.social-protocols.org/stats?id=41019013) #21 46 points 13 comments -> [Bangladesh police given 'shoot-on-sight' orders amid national curfew](https://www.theguardian.com/world/article/2024/jul/20/bangladesh-police-given-shoot-on-sight-orders-amid-national-curfew)<!-- HN:41019013:end -->
 #### **Sunday, July 21, 2024**
 <!-- HN:41021172:start -->
-* [41021172](https://news.social-protocols.org/stats?id=41021172) #12 15 points 1 comments -> [Bangladesh's internet blackout immobilizes its booming tech industry](https://restofworld.org/2024/bangladesh-curfew-internet-shutdown/)<!-- HN:41021172:end -->
+* [41021172](https://news.social-protocols.org/stats?id=41021172) #12 15 points 1 comments -> [Bangladesh's internet blackout immobilizes its booming tech industry](https://restofworld.org/2024/bangladesh-curfew-internet-shutdown/)<!-- HN:41021172:end --><!-- HN:41021364:start -->
+* [41021364](https://news.social-protocols.org/stats?id=41021364) #23 24 points 7 comments -> [Sonny Piers was removed from the GNOME Foundation board](https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201)<!-- HN:41021364:end -->
