@@ -2262,3 +2262,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41020598](https://news.social-protocols.org/stats?id=41020598) #22 4 points 0 comments -> [These are the 10 worst U.S. states for quality of life](https://www.cnbc.com/2024/07/13/10-states-worst-quality-of-life-america.html)<!-- HN:41020598:end --><!-- HN:41019354:start -->
 * [41019354](https://news.social-protocols.org/stats?id=41019354) #17 17 points 8 comments -> [The first currency in history: Kingdom of Lydia minted gold, silver coins](https://www.egypttoday.com/Article/4/113533/The-first-currency-in-history-Kingdom-of-Lydia-minted-gold)<!-- HN:41019354:end --><!-- HN:41019013:start -->
 * [41019013](https://news.social-protocols.org/stats?id=41019013) #21 46 points 13 comments -> [Bangladesh police given 'shoot-on-sight' orders amid national curfew](https://www.theguardian.com/world/article/2024/jul/20/bangladesh-police-given-shoot-on-sight-orders-amid-national-curfew)<!-- HN:41019013:end -->
+#### **Sunday, July 21, 2024**
+<!-- HN:41021172:start -->
+* [41021172](https://news.social-protocols.org/stats?id=41021172) #12 15 points 1 comments -> [Bangladesh's internet blackout immobilizes its booming tech industry](https://restofworld.org/2024/bangladesh-curfew-internet-shutdown/)<!-- HN:41021172:end -->
