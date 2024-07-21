@@ -2265,4 +2265,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 21, 2024**
 <!-- HN:41021172:start -->
 * [41021172](https://news.social-protocols.org/stats?id=41021172) #12 15 points 1 comments -> [Bangladesh's internet blackout immobilizes its booming tech industry](https://restofworld.org/2024/bangladesh-curfew-internet-shutdown/)<!-- HN:41021172:end --><!-- HN:41020638:start -->
-* [41020638](https://news.social-protocols.org/stats?id=41020638) #27 69 points 51 comments -> ['Google says I'm a dead physicist': is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)<!-- HN:41020638:end -->
+* [41020638](https://news.social-protocols.org/stats?id=41020638) #27 69 points 51 comments -> ['Google says I'm a dead physicist': is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)<!-- HN:41020638:end --><!-- HN:41022400:start -->
+* [41022400](https://news.social-protocols.org/stats?id=41022400) #23 36 points 40 comments -> [Why You Should Not Use Tcl (1994)](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)<!-- HN:41022400:end -->
