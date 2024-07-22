@@ -2283,4 +2283,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41026379](https://news.social-protocols.org/stats?id=41026379) #30 4 points 1 comments -> [Broken by Design: Systemd](https://ewontfix.com/14/)<!-- HN:41026379:end -->
 #### **Monday, July 22, 2024**
 <!-- HN:41027749:start -->
-* [41027749](https://news.social-protocols.org/stats?id=41027749) #16 23 points 10 comments -> [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)<!-- HN:41027749:end -->
+* [41027749](https://news.social-protocols.org/stats?id=41027749) #16 23 points 10 comments -> [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)<!-- HN:41027749:end --><!-- HN:41029742:start -->
+* [41029742](https://news.social-protocols.org/stats?id=41029742) #2 4 points 0 comments -> [The New Pornographers: It's a TikTok world, creative and sprawling and strange](https://bittersoutherner.com/the-new-pornographers-roxane-gay-tik-tok)<!-- HN:41029742:end -->
