@@ -2281,3 +2281,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41027588](https://news.social-protocols.org/stats?id=41027588) #8 -> [1968 Democratic National Convention](https://en.wikipedia.org/wiki/1968_Democratic_National_Convention)<!-- HN:41027588:end --><!-- HN:41027854:start -->
 * [41027854](https://news.social-protocols.org/stats?id=41027854) #9 23 points 12 comments -> [Windows 3.1 saves Southwest Airlines during CrowdStrike outage](https://www.tomshardware.com/software/windows/windows-31-saves-the-day-during-crowdstrike-outage)<!-- HN:41027854:end --><!-- HN:41026379:start -->
 * [41026379](https://news.social-protocols.org/stats?id=41026379) #30 4 points 1 comments -> [Broken by Design: Systemd](https://ewontfix.com/14/)<!-- HN:41026379:end -->
+#### **Monday, July 22, 2024**
+<!-- HN:41027749:start -->
+* [41027749](https://news.social-protocols.org/stats?id=41027749) #16 23 points 10 comments -> [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)<!-- HN:41027749:end -->
