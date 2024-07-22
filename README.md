@@ -2285,4 +2285,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41027749:start -->
 * [41027749](https://news.social-protocols.org/stats?id=41027749) #16 23 points 10 comments -> [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)<!-- HN:41027749:end --><!-- HN:41029742:start -->
 * [41029742](https://news.social-protocols.org/stats?id=41029742) #2 4 points 0 comments -> [The New Pornographers: It's a TikTok world, creative and sprawling and strange](https://bittersoutherner.com/the-new-pornographers-roxane-gay-tik-tok)<!-- HN:41029742:end --><!-- HN:41029320:start -->
-* [41029320](https://news.social-protocols.org/stats?id=41029320) #9 11 points 3 comments -> [Show HN: Shade/Bs – Modern Web UIs Without Node.js](https://ui.masoftware.net/)<!-- HN:41029320:end -->
+* [41029320](https://news.social-protocols.org/stats?id=41029320) #9 11 points 3 comments -> [Show HN: Shade/Bs – Modern Web UIs Without Node.js](https://ui.masoftware.net/)<!-- HN:41029320:end --><!-- HN:41028407:start -->
+* [41028407](https://news.social-protocols.org/stats?id=41028407) #18 77 points 55 comments -> [I Left Google](https://fogknife.com/2024-07-21-why-i-left-google.html)<!-- HN:41028407:end -->
