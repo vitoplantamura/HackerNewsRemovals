@@ -2308,3 +2308,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41039075](https://news.social-protocols.org/stats?id=41039075) #30 5 points 0 comments -> [Hugo Awards Disqualification Statement](https://locusmag.com/2024/07/hugo-awards-disqualification-statement/)<!-- HN:41039075:end --><!-- HN:41040047:start -->
 * [41040047](https://news.social-protocols.org/stats?id=41040047) #8 10 points 4 comments -> [July 2024 Update on Instability Reports on Intel Core Processors](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617116)<!-- HN:41040047:end --><!-- HN:41040576:start -->
 * [41040576](https://news.social-protocols.org/stats?id=41040576) #30 11 points 0 comments -> [EU threatens to fine Meta for saying Facebook is 'free'](https://www.theverge.com/2024/7/22/24203479/eu-meta-facebook-pay-or-consent-warning-consumer-protection-cooperation-cpc)<!-- HN:41040576:end -->
+#### **Tuesday, July 23, 2024**
+<!-- HN:41040966:start -->
+* [41040966](https://news.social-protocols.org/stats?id=41040966) #20 26 points 17 comments -> [Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue](https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/)<!-- HN:41040966:end -->
