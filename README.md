@@ -2310,4 +2310,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41040576](https://news.social-protocols.org/stats?id=41040576) #30 11 points 0 comments -> [EU threatens to fine Meta for saying Facebook is 'free'](https://www.theverge.com/2024/7/22/24203479/eu-meta-facebook-pay-or-consent-warning-consumer-protection-cooperation-cpc)<!-- HN:41040576:end -->
 #### **Tuesday, July 23, 2024**
 <!-- HN:41040966:start -->
-* [41040966](https://news.social-protocols.org/stats?id=41040966) #20 26 points 17 comments -> [Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue](https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/)<!-- HN:41040966:end -->
+* [41040966](https://news.social-protocols.org/stats?id=41040966) #20 26 points 17 comments -> [Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue](https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/)<!-- HN:41040966:end --><!-- HN:41041661:start -->
+* [41041661](https://news.social-protocols.org/stats?id=41041661) #30 5 points 1 comments -> [Electrical World (Engineering Publication, circa 1904)](https://archive.org/details/electricalworld43newy)<!-- HN:41041661:end -->
