@@ -2332,4 +2332,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 24, 2024**
 <!-- HN:41053675:start -->
 * [41053675](https://news.social-protocols.org/stats?id=41053675) #16 7 points 0 comments -> [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)<!-- HN:41053675:end --><!-- HN:41055631:start -->
-* [41055631](https://news.social-protocols.org/stats?id=41055631) #17 59 points 47 comments -> [77% of Employees Report AI Has Increased Workloads and Hampered Productivity](https://www.forbes.com/sites/bryanrobinson/2024/07/23/employees-report-ai-increased-workload/)<!-- HN:41055631:end -->
+* [41055631](https://news.social-protocols.org/stats?id=41055631) #17 59 points 47 comments -> [77% of Employees Report AI Has Increased Workloads and Hampered Productivity](https://www.forbes.com/sites/bryanrobinson/2024/07/23/employees-report-ai-increased-workload/)<!-- HN:41055631:end --><!-- HN:41055911:start -->
+* [41055911](https://news.social-protocols.org/stats?id=41055911) #17 5 points 1 comments -> [The Ternary Computing Manifesto](https://homepage.divms.uiowa.edu/~jones/ternary/)<!-- HN:41055911:end -->
