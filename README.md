@@ -2331,4 +2331,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40995344](https://news.social-protocols.org/stats?id=40995344) #19 155 points 77 comments -> [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)<!-- HN:40995344:end -->
 #### **Wednesday, July 24, 2024**
 <!-- HN:41053675:start -->
-* [41053675](https://news.social-protocols.org/stats?id=41053675) #16 7 points 0 comments -> [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)<!-- HN:41053675:end -->
+* [41053675](https://news.social-protocols.org/stats?id=41053675) #16 7 points 0 comments -> [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)<!-- HN:41053675:end --><!-- HN:41055631:start -->
+* [41055631](https://news.social-protocols.org/stats?id=41055631) #17 59 points 47 comments -> [77% of Employees Report AI Has Increased Workloads and Hampered Productivity](https://www.forbes.com/sites/bryanrobinson/2024/07/23/employees-report-ai-increased-workload/)<!-- HN:41055631:end -->
