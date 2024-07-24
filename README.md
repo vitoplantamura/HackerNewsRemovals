@@ -2331,4 +2331,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [40995344](https://news.social-protocols.org/stats?id=40995344) #19 155 points 77 comments -> [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)<!-- HN:40995344:end -->
 #### **Wednesday, July 24, 2024**
 <!-- HN:41053675:start -->
-* [41053675](https://news.social-protocols.org/stats?id=41053675) #16 7 points 0 comments -> [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)<!-- HN:41053675:end -->
+* [41053675](https://news.social-protocols.org/stats?id=41053675) #16 7 points 0 comments -> [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)<!-- HN:41053675:end --><!-- HN:41015400:start -->
+* [41015400](https://news.social-protocols.org/stats?id=41015400) #28 30 points 40 comments -> [When Smart Ships Divide by Zer0 – Stranding the USS Yorktown (2018)](https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2)<!-- HN:41015400:end -->
