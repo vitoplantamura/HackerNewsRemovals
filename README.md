@@ -2329,3 +2329,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41050278](https://news.social-protocols.org/stats?id=41050278) #11 18 points 11 comments -> [Tesla Q2 2024 Update [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q2-2024-Update.pdf)<!-- HN:41050278:end --><!-- HN:41049656:start -->
 * [41049656](https://news.social-protocols.org/stats?id=41049656) #16 8 points 0 comments -> [OpenBSD IPv6 Home Internet Gateway with AT&T Fibre](https://jgoguen.ca/posts/2024/07/20/openbsd-ipv6-home-internet-gateway-with-att-fibre/)<!-- HN:41049656:end --><!-- HN:40995344:start -->
 * [40995344](https://news.social-protocols.org/stats?id=40995344) #19 155 points 77 comments -> [Give Me the Green Light Part 1: Hacking Traffic Control Systems](https://www.redthreatsec.com/blog/greenlightspart1)<!-- HN:40995344:end -->
+#### **Wednesday, July 24, 2024**
+<!-- HN:41053675:start -->
+* [41053675](https://news.social-protocols.org/stats?id=41053675) #16 7 points 0 comments -> [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)<!-- HN:41053675:end -->
