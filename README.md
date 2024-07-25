@@ -2351,4 +2351,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, July 25, 2024**
 <!-- HN:41063675:start -->
 * [41063675](https://news.social-protocols.org/stats?id=41063675) #21 5 points 1 comments -> [Rent Going Up? One Company's Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)<!-- HN:41063675:end --><!-- HN:41063267:start -->
-* [41063267](https://news.social-protocols.org/stats?id=41063267) #7 10 points 0 comments -> [America's War on Theater](https://lareviewofbooks.org/article/americas-war-on-theater/)<!-- HN:41063267:end -->
+* [41063267](https://news.social-protocols.org/stats?id=41063267) #7 10 points 0 comments -> [America's War on Theater](https://lareviewofbooks.org/article/americas-war-on-theater/)<!-- HN:41063267:end --><!-- HN:41063097:start -->
+* [41063097](https://news.social-protocols.org/stats?id=41063097) #13 38 points 14 comments -> [OpenAI is set to lose $5B this year](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/)<!-- HN:41063097:end -->
