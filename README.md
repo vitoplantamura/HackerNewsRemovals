@@ -2348,3 +2348,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41062640](https://news.social-protocols.org/stats?id=41062640) #18 16 points 2 comments -> [X: Certain users are whitelisted and allowed to say slurs](https://twitter.com/yzy_is_who/status/1816177350486417478)<!-- HN:41062640:end --><!-- HN:41063162:start -->
 * [41063162](https://news.social-protocols.org/stats?id=41063162) #8 57 points 12 comments -> [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)<!-- HN:41063162:end --><!-- HN:41063279:start -->
 * [41063279](https://news.social-protocols.org/stats?id=41063279) #8 11 points 1 comments -> [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)<!-- HN:41063279:end -->
+#### **Thursday, July 25, 2024**
+<!-- HN:41063675:start -->
+* [41063675](https://news.social-protocols.org/stats?id=41063675) #21 5 points 1 comments -> [Rent Going Up? One Company's Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)<!-- HN:41063675:end -->
