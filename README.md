@@ -2350,4 +2350,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41063279](https://news.social-protocols.org/stats?id=41063279) #8 11 points 1 comments -> [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)<!-- HN:41063279:end -->
 #### **Thursday, July 25, 2024**
 <!-- HN:41063675:start -->
-* [41063675](https://news.social-protocols.org/stats?id=41063675) #21 5 points 1 comments -> [Rent Going Up? One Company's Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)<!-- HN:41063675:end -->
+* [41063675](https://news.social-protocols.org/stats?id=41063675) #21 5 points 1 comments -> [Rent Going Up? One Company's Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)<!-- HN:41063675:end --><!-- HN:41063267:start -->
+* [41063267](https://news.social-protocols.org/stats?id=41063267) #7 10 points 0 comments -> [America's War on Theater](https://lareviewofbooks.org/article/americas-war-on-theater/)<!-- HN:41063267:end -->
