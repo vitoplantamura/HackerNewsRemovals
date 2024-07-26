@@ -2380,4 +2380,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 26, 2024**
 <!-- HN:41073493:start -->
 * [41073493](https://news.social-protocols.org/stats?id=41073493) #22 9 points 5 comments -> [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)<!-- HN:41073493:end --><!-- HN:41074693:start -->
-* [41074693](https://news.social-protocols.org/stats?id=41074693) #30 6 points 1 comments -> [Marvell Teralynx 10 51.2T Switch in Volume Production with SONiC Support](https://www.servethehome.com/marvell-teralynx-10-51-2t-switch-in-volume-production-with-sonic-support/)<!-- HN:41074693:end -->
+* [41074693](https://news.social-protocols.org/stats?id=41074693) #30 6 points 1 comments -> [Marvell Teralynx 10 51.2T Switch in Volume Production with SONiC Support](https://www.servethehome.com/marvell-teralynx-10-51-2t-switch-in-volume-production-with-sonic-support/)<!-- HN:41074693:end --><!-- HN:41075126:start -->
+* [41075126](https://news.social-protocols.org/stats?id=41075126) #23 4 points 1 comments -> [Giant phallus-shaped iceberg floating in Conception Bay](https://www.livescience.com/planet-earth/giant-phallus-shaped-iceberg-floating-in-conception-bay-surprises-residents-of-dildo-canada)<!-- HN:41075126:end -->
