@@ -2379,4 +2379,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41073998](https://news.social-protocols.org/stats?id=41073998) #16 4 points 0 comments -> [Size Matters? Dissatisfaction and Gun Ownership in America](https://journals.sagepub.com/doi/10.1177/15579883241255830)<!-- HN:41073998:end -->
 #### **Friday, July 26, 2024**
 <!-- HN:41073493:start -->
-* [41073493](https://news.social-protocols.org/stats?id=41073493) #22 9 points 5 comments -> [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)<!-- HN:41073493:end -->
+* [41073493](https://news.social-protocols.org/stats?id=41073493) #22 9 points 5 comments -> [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)<!-- HN:41073493:end --><!-- HN:41074693:start -->
+* [41074693](https://news.social-protocols.org/stats?id=41074693) #30 6 points 1 comments -> [Marvell Teralynx 10 51.2T Switch in Volume Production with SONiC Support](https://www.servethehome.com/marvell-teralynx-10-51-2t-switch-in-volume-production-with-sonic-support/)<!-- HN:41074693:end -->
