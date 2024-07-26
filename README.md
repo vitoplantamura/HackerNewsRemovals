@@ -2377,3 +2377,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41073637](https://news.social-protocols.org/stats?id=41073637) #20 22 points 40 comments -> [How the American war on porn could change the way you use the internet](https://www.bbc.com/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet)<!-- HN:41073637:end --><!-- HN:41073686:start -->
 * [41073686](https://news.social-protocols.org/stats?id=41073686) #28 18 points 9 comments -> [The Decline of Mobile Development](https://www.donnfelker.com/the-decline-of-mobile-development/)<!-- HN:41073686:end --><!-- HN:41073998:start -->
 * [41073998](https://news.social-protocols.org/stats?id=41073998) #16 4 points 0 comments -> [Size Matters? Dissatisfaction and Gun Ownership in America](https://journals.sagepub.com/doi/10.1177/15579883241255830)<!-- HN:41073998:end -->
+#### **Friday, July 26, 2024**
+<!-- HN:41073493:start -->
+* [41073493](https://news.social-protocols.org/stats?id=41073493) #22 9 points 5 comments -> [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)<!-- HN:41073493:end -->
