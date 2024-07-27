@@ -2428,4 +2428,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41088860](https://news.social-protocols.org/stats?id=41088860) #3 6 points 0 comments -> [The "Perfect Score" Script](https://www.kaggle.com/code/olegtrott/the-perfect-score-script)<!-- HN:41088860:end --><!-- HN:41080700:start -->
 * [41080700](https://news.social-protocols.org/stats?id=41080700) #15 3 points 0 comments -> [Tierra Digital Evolution Software](https://tomray.me/tierra/)<!-- HN:41080700:end --><!-- HN:41080078:start -->
 * [41080078](https://news.social-protocols.org/stats?id=41080078) #18 6 points 0 comments -> [Why You Shouldn't Write a DAW (2023) [video]](https://www.youtube.com/watch?v=GMlnh6_9aTc)<!-- HN:41080078:end --><!-- HN:41089826:start -->
-* [41089826](https://news.social-protocols.org/stats?id=41089826) #4 14 points 2 comments -> [Contra Zuckerberg on 'Open Source AI'](https://far.in.net/zuckerberg)<!-- HN:41089826:end -->
+* [41089826](https://news.social-protocols.org/stats?id=41089826) #4 14 points 2 comments -> [Contra Zuckerberg on 'Open Source AI'](https://far.in.net/zuckerberg)<!-- HN:41089826:end --><!-- HN:41039578:start -->
+* [41039578](https://news.social-protocols.org/stats?id=41039578) #10 13 points 1 comments -> [100x Coding with Claude](https://0xksure.medium.com/100x-coding-with-claude-28cc413ca061)<!-- HN:41039578:end -->
