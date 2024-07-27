@@ -2399,3 +2399,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41076234](https://news.social-protocols.org/stats?id=41076234) #26 16 points 1 comments -> [Stimulation of hair regrowth using 2-deoxy-D-ribose](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1370833/full)<!-- HN:41076234:end --><!-- HN:41079264:start -->
 * [41079264](https://news.social-protocols.org/stats?id=41079264) #12 22 points 5 comments -> [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)<!-- HN:41079264:end --><!-- HN:41079027:start -->
 * [41079027](https://news.social-protocols.org/stats?id=41079027) #16 18 points 42 comments -> [So how do you 'accurately' speak English in ancient Rome?](https://text.npr.org/nx-s1-5049970)<!-- HN:41079027:end -->
+#### **Saturday, July 27, 2024**
+<!-- HN:41035641:start -->
+* [41035641](https://news.social-protocols.org/stats?id=41035641) #8 15 points 0 comments -> [The Rich History of Ham Radio Culture](https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/)<!-- HN:41035641:end --><!-- HN:41035211:start -->
+* [41035211](https://news.social-protocols.org/stats?id=41035211) #29 122 points 48 comments -> [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)<!-- HN:41035211:end -->
