@@ -2429,3 +2429,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41080700](https://news.social-protocols.org/stats?id=41080700) #15 3 points 0 comments -> [Tierra Digital Evolution Software](https://tomray.me/tierra/)<!-- HN:41080700:end --><!-- HN:41080078:start -->
 * [41080078](https://news.social-protocols.org/stats?id=41080078) #18 6 points 0 comments -> [Why You Shouldn't Write a DAW (2023) [video]](https://www.youtube.com/watch?v=GMlnh6_9aTc)<!-- HN:41080078:end --><!-- HN:41089826:start -->
 * [41089826](https://news.social-protocols.org/stats?id=41089826) #4 14 points 2 comments -> [Contra Zuckerberg on 'Open Source AI'](https://far.in.net/zuckerberg)<!-- HN:41089826:end -->
+#### **Sunday, July 28, 2024**
+<!-- HN:41039578:start -->
+* [41039578](https://news.social-protocols.org/stats?id=41039578) #30 -> [100x Coding with Claude](https://0xksure.medium.com/100x-coding-with-claude-28cc413ca061)<!-- HN:41039578:end -->
