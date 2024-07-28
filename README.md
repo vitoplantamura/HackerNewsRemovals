@@ -2432,4 +2432,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 28, 2024**
 <!-- HN:41039578:start -->
 * [41039578](https://news.social-protocols.org/stats?id=41039578) #30 -> [100x Coding with Claude](https://0xksure.medium.com/100x-coding-with-claude-28cc413ca061)<!-- HN:41039578:end --><!-- HN:41036663:start -->
-* [41036663](https://news.social-protocols.org/stats?id=41036663) #28 119 points 142 comments -> [Why Adventure Games Suck (1989)](https://grumpygamer.com/why_adventure_games_suck)<!-- HN:41036663:end -->
+* [41036663](https://news.social-protocols.org/stats?id=41036663) #28 119 points 142 comments -> [Why Adventure Games Suck (1989)](https://grumpygamer.com/why_adventure_games_suck)<!-- HN:41036663:end --><!-- HN:41090134:start -->
+* [41090134](https://news.social-protocols.org/stats?id=41090134) #23 10 points 5 comments -> [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)<!-- HN:41090134:end -->
