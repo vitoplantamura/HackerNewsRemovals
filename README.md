@@ -2430,8 +2430,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 28, 2024**
 <!-- HN:41039578:start -->
 * [41039578](https://news.social-protocols.org/stats?id=41039578) #30 -> [100x Coding with Claude](https://0xksure.medium.com/100x-coding-with-claude-28cc413ca061)<!-- HN:41039578:end --><!-- HN:41036663:start -->
-* [41036663](https://news.social-protocols.org/stats?id=41036663) #28 119 points 142 comments -> [Why Adventure Games Suck (1989)](https://grumpygamer.com/why_adventure_games_suck)<!-- HN:41036663:end --><!-- HN:41090134:start -->
-* [41090134](https://news.social-protocols.org/stats?id=41090134) #23 10 points 5 comments -> [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)<!-- HN:41090134:end --><!-- HN:41090222:start -->
+* [41036663](https://news.social-protocols.org/stats?id=41036663) #28 119 points 142 comments -> [Why Adventure Games Suck (1989)](https://grumpygamer.com/why_adventure_games_suck)<!-- HN:41036663:end --><!-- HN:41090222:start -->
 * [41090222](https://news.social-protocols.org/stats?id=41090222) #24 134 points 54 comments -> [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)<!-- HN:41090222:end --><!-- HN:41091687:start -->
 * [41091687](https://news.social-protocols.org/stats?id=41091687) #13 11 points 0 comments -> [Terminator: What's in a Name? (2015)](https://gnometerminator.blogspot.com/2015/09/whats-in-name.html)<!-- HN:41091687:end --><!-- HN:41067476:start -->
 * [41067476](https://news.social-protocols.org/stats?id=41067476) #14 13 points 0 comments -> [A Journey with the Photographic Mind](https://photographylife.com/photographic-mind)<!-- HN:41067476:end --><!-- HN:41060621:start -->
