@@ -20,11 +20,18 @@ namespace HN
 {
     class Program
     {
+        private const bool _testMode = false;
+        private const bool _printfOfFileOnCommit = true; // set this to false if running as a Linux or Windows service.
+
         private const int _totalNum = 90;
         private const int _observedNum = 30;
         private const int _sleepInterval = 60;
         private const int _poolHtmlInterval = 60;
         private const string _filePath = @"README.md";
+        private const int _autoArchiveNumOfDays = 7;
+        private const string _autoArchiveFilenameStart = @"OLD/ARCHIVE-";
+        private const string _autoArchiveFilenameEnd = @".md";
+        private const int _autoArchiveInterval = 60 * 60;
 
         private const string _tagStart = "<!-- HN:";
         private const string _tagEnd0 = ":start -->";
@@ -37,6 +44,7 @@ namespace HN
         private static bool _commitPending = false;
         private static string _poolHtml = null;
         private static DateTime _poolHtmlLastTime = DateTime.MinValue;
+        private static DateTime _autoArchiveLastTime = DateTime.MinValue;
 
         private class HNFatalError : Exception
         {
@@ -74,9 +82,16 @@ namespace HN
                     foreach (var storyId in toDeleteIds)
                         MarkdownDelete(storyId);
 
-                    if (_commitPending)
+                    if (AutoArchive())
                     {
-                        Console.WriteLine(File.ReadAllText(_filePath)); // **IMPORTANT** remove this line if running as a Linux or Windows service.
+                        _alreadyAdded = MarkdownGetAll();
+                        _commitPending = true;
+                    }
+
+                    if (_commitPending && !_testMode)
+                    {
+                        if (_printfOfFileOnCommit)
+                            Console.WriteLine(File.ReadAllText(_filePath));
 
                         Func<string, bool> git =
                             (string a) =>
@@ -89,10 +104,11 @@ namespace HN
                                 return process.ExitCode == 0;
                             };
 
-                        bool res0 = git("commit -a -m \"Update " + DateTime.UtcNow.ToString() + "\"");
-                        bool res1 = git("push");
+                        bool res0 = git("add .");
+                        bool res1 = git("commit -a -m \"Update " + DateTime.UtcNow.ToString() + "\"");
+                        bool res2 = git("push");
 
-                        if (res0 && res1)
+                        if (res0 && res1 && res2)
                             _commitPending = false;
                     }
 
@@ -136,11 +152,11 @@ namespace HN
             return await GetJson<JObject>("https://hacker-news.firebaseio.com/v0/item/" + id.ToString() + ".json");
         }
 
-        private static T CannotFail<U, T>(U arg0, Func<U, T> f)
+        private static T CannotFail<T>(Func<T> f)
         {
             try
             {
-                return f(arg0);
+                return f();
             }
             catch (Exception e)
             {
@@ -153,10 +169,9 @@ namespace HN
 
         private static Tuple<int, int, int>[] MarkdownGetAll()
         {
-            return CannotFail(_filePath,
-                path =>
+            return CannotFail(() =>
                 {
-                    string file = File.ReadAllText(path);
+                    string file = File.ReadAllText(_filePath);
 
                     var ret = new List<Tuple<int, int, int>>();
 
@@ -196,15 +211,14 @@ namespace HN
                 });
         }
 
-        private static void MarkdownAdd(int id, string md)
+        private static void MarkdownAdd(int id, string text)
         {
-            md =
+            text =
                 _tagStart + id.ToString() + _tagEnd0 +
-                Environment.NewLine + "* " + md +
+                Environment.NewLine + "* " + text +
                 _tagStart + id.ToString() + _tagEnd1;
 
-            CannotFail(md,
-                text =>
+            CannotFail(() =>
                 {
                     string file = File.ReadAllText(_filePath).TrimEnd(' ', '\r', '\n');
 
@@ -220,10 +234,9 @@ namespace HN
             _commitPending = true;
         }
 
-        private static void MarkdownDelete(int id_)
+        private static void MarkdownDelete(int id)
         {
-            CannotFail(id_,
-                id =>
+            CannotFail(() =>
                 {
                     string file = File.ReadAllText(_filePath);
 
@@ -317,6 +330,86 @@ namespace HN
                         moreData + "-> [" + sanitize(title) + "](" + sanitize(url) + ")");
                 }
             }
+        }
+
+        private static bool AutoArchive()
+        {
+            return CannotFail(() =>
+            {
+                if (DateTime.UtcNow - _autoArchiveLastTime > new TimeSpan(0, 0, _autoArchiveInterval))
+                    _autoArchiveLastTime = DateTime.UtcNow;
+                else
+                    return false;
+
+                string file = File.ReadAllText(_filePath);
+
+                DateTime pos = DateTime.UtcNow - new TimeSpan(_autoArchiveNumOfDays, 0, 0, 0, 0, 0);
+                DateTime first = DateTime.MinValue;
+                DateTime last = pos;
+
+                int notFoundNum = 0;
+                const int notFoundMax = 30;
+                while (true)
+                {
+                    if (file.IndexOf("#### " + "**" + pos.ToLongDateString() + "**") < 0)
+                    {
+                        if (++notFoundNum > notFoundMax)
+                            break;
+                    }
+                    else
+                    {
+                        notFoundNum = 0;
+                        first = pos;
+                    }
+                    pos -= new TimeSpan(1, 0, 0, 0, 0, 0);
+                }
+
+                if (first == DateTime.MinValue)
+                    return false;
+
+                bool fileModified = false;
+
+                pos = first;
+                while (true)
+                {
+                    int textBegin = file.IndexOf("#### " + "**" + pos.ToLongDateString() + "**");
+                    int textEnd = -1;
+
+                    if (textBegin >= 0)
+                    {
+                        DateTime pos2 = pos;
+                        while (true)
+                        {
+                            pos2 += new TimeSpan(1, 0, 0, 0, 0, 0);
+                            if (pos2 > DateTime.UtcNow)
+                                break;
+
+                            textEnd = file.IndexOf("#### " + "**" + pos2.ToLongDateString() + "**");
+                            if (textEnd >= 0)
+                                break;
+                        }
+                    }
+
+                    if (textBegin >= 0 && textEnd >= 0 && textEnd > textBegin)
+                    {
+                        string portion = file.Substring(textBegin, textEnd - textBegin);
+                        file = file.Substring(0, textBegin) + file.Substring(textEnd);
+                        fileModified = true;
+
+                        File.AppendAllText(
+                            _autoArchiveFilenameStart + pos.Year.ToString() + "-" + pos.Month.ToString("D2") + _autoArchiveFilenameEnd,
+                            portion.Replace("https://news.social-protocols.org/stats?id=", "https://news.ycombinator.com/item?id="));
+                    }
+
+                    pos += new TimeSpan(1, 0, 0, 0, 0, 0);
+                    if (pos > last)
+                        break;
+                }
+
+                if (fileModified)
+                    File.WriteAllText(_filePath, file);
+                return fileModified;
+            });
         }
     }
 }
