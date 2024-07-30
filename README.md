@@ -2493,3 +2493,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41104334](https://news.social-protocols.org/stats?id=41104334) #30 3 points 0 comments -> [How top data teams are structured](https://medium.com/@mikldd/how-top-data-teams-are-structured-48d46a64b990)<!-- HN:41104334:end --><!-- HN:41103581:start -->
 * [41103581](https://news.social-protocols.org/stats?id=41103581) #24 3 points 0 comments -> [Ora2PG now supports oracle_fdw to increase data migration speed](https://migops.com/)<!-- HN:41103581:end --><!-- HN:41104395:start -->
 * [41104395](https://news.social-protocols.org/stats?id=41104395) #11 22 points 5 comments -> [PasteBar – Limitless, Free Clipboard Manager for Mac and Windows. Open Source](https://github.com/PasteBar/PasteBarApp)<!-- HN:41104395:end -->
+#### **Tuesday, July 30, 2024**
+<!-- HN:41061963:start -->
+* [41061963](https://news.social-protocols.org/stats?id=41061963) #8 97 points 35 comments -> [Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)<!-- HN:41061963:end --><!-- HN:41056912:start -->
+* [41056912](https://news.social-protocols.org/stats?id=41056912) #15 85 points 26 comments -> [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)<!-- HN:41056912:end -->
