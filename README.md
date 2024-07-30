@@ -2496,4 +2496,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, July 30, 2024**
 <!-- HN:41061963:start -->
 * [41061963](https://news.social-protocols.org/stats?id=41061963) #8 97 points 35 comments -> [Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)<!-- HN:41061963:end --><!-- HN:41056912:start -->
-* [41056912](https://news.social-protocols.org/stats?id=41056912) #15 85 points 26 comments -> [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)<!-- HN:41056912:end -->
+* [41056912](https://news.social-protocols.org/stats?id=41056912) #15 85 points 26 comments -> [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)<!-- HN:41056912:end --><!-- HN:41104913:start -->
+* [41104913](https://news.social-protocols.org/stats?id=41104913) #25 45 points 19 comments -> [Delta to Seek Damages from CrowdStrike](https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html)<!-- HN:41104913:end -->
