@@ -208,4 +208,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 31, 2024**
 <!-- HN:41114468:start -->
 * [41114468](https://news.social-protocols.org/stats?id=41114468) #28 6 points 0 comments -> [Check Maybe Div by Zero for Gleam](https://hexdocs.pm/check_maybe_div_by_zero/)<!-- HN:41114468:end --><!-- HN:41115776:start -->
-* [41115776](https://news.social-protocols.org/stats?id=41115776) #17 -> [X suspends 'White Dudes for Harris' account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)<!-- HN:41115776:end -->
+* [41115776](https://news.social-protocols.org/stats?id=41115776) #17 -> [X suspends 'White Dudes for Harris' account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)<!-- HN:41115776:end --><!-- HN:41068016:start -->
+* [41068016](https://news.social-protocols.org/stats?id=41068016) #27 26 points 6 comments -> [Zuo: A Tiny Racket for Scripting](https://github.com/racket/zuo)<!-- HN:41068016:end -->
