@@ -207,4 +207,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41112273](https://news.social-protocols.org/stats?id=41112273) #20 10 points 3 comments -> [Logitech has an idea for a "forever mouse" that requires a subscription](https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/)<!-- HN:41112273:end -->
 #### **Wednesday, July 31, 2024**
 <!-- HN:41114468:start -->
-* [41114468](https://news.social-protocols.org/stats?id=41114468) #28 6 points 0 comments -> [Check Maybe Div by Zero for Gleam](https://hexdocs.pm/check_maybe_div_by_zero/)<!-- HN:41114468:end -->
+* [41114468](https://news.social-protocols.org/stats?id=41114468) #28 6 points 0 comments -> [Check Maybe Div by Zero for Gleam](https://hexdocs.pm/check_maybe_div_by_zero/)<!-- HN:41114468:end --><!-- HN:41115776:start -->
+* [41115776](https://news.social-protocols.org/stats?id=41115776) #17 -> [X suspends 'White Dudes for Harris' account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)<!-- HN:41115776:end -->
