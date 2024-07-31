@@ -210,4 +210,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41114468](https://news.social-protocols.org/stats?id=41114468) #28 6 points 0 comments -> [Check Maybe Div by Zero for Gleam](https://hexdocs.pm/check_maybe_div_by_zero/)<!-- HN:41114468:end --><!-- HN:41115776:start -->
 * [41115776](https://news.social-protocols.org/stats?id=41115776) #17 -> [X suspends 'White Dudes for Harris' account after fundraiser](https://www.washingtonpost.com/technology/2024/07/30/white-dudes-harris-suspended-x-twitter/)<!-- HN:41115776:end --><!-- HN:41068016:start -->
 * [41068016](https://news.social-protocols.org/stats?id=41068016) #27 26 points 6 comments -> [Zuo: A Tiny Racket for Scripting](https://github.com/racket/zuo)<!-- HN:41068016:end --><!-- HN:41116617:start -->
-* [41116617](https://news.social-protocols.org/stats?id=41116617) #5 9 points 5 comments -> [Jio Cloud](https://www.jio.com/business/services/jio-cloud)<!-- HN:41116617:end -->
+* [41116617](https://news.social-protocols.org/stats?id=41116617) #5 9 points 5 comments -> [Jio Cloud](https://www.jio.com/business/services/jio-cloud)<!-- HN:41116617:end --><!-- HN:41115911:start -->
+* [41115911](https://news.social-protocols.org/stats?id=41115911) #27 36 points 20 comments -> [Nobody Cares](https://a16z.com/nobody-cares/)<!-- HN:41115911:end -->
