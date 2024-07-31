@@ -212,4 +212,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41068016](https://news.social-protocols.org/stats?id=41068016) #27 26 points 6 comments -> [Zuo: A Tiny Racket for Scripting](https://github.com/racket/zuo)<!-- HN:41068016:end --><!-- HN:41116617:start -->
 * [41116617](https://news.social-protocols.org/stats?id=41116617) #5 9 points 5 comments -> [Jio Cloud](https://www.jio.com/business/services/jio-cloud)<!-- HN:41116617:end --><!-- HN:41115911:start -->
 * [41115911](https://news.social-protocols.org/stats?id=41115911) #27 36 points 20 comments -> [Nobody Cares](https://a16z.com/nobody-cares/)<!-- HN:41115911:end --><!-- HN:41116885:start -->
-* [41116885](https://news.social-protocols.org/stats?id=41116885) #23 12 points 7 comments -> [Fedora Asahi Remix](https://bentsukun.ch/posts/fedora-asahi/)<!-- HN:41116885:end -->
+* [41116885](https://news.social-protocols.org/stats?id=41116885) #23 12 points 7 comments -> [Fedora Asahi Remix](https://bentsukun.ch/posts/fedora-asahi/)<!-- HN:41116885:end --><!-- HN:41118281:start -->
+* [41118281](https://news.social-protocols.org/stats?id=41118281) #20 12 points 6 comments -> [Australia starts world-first peanut allergy treatment for babies](https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo)<!-- HN:41118281:end -->
