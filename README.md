@@ -205,3 +205,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41110933](https://news.social-protocols.org/stats?id=41110933) #14 52 points 5 comments -> [ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(](https://evanp.me/2024/07/26/health-update/)<!-- HN:41110933:end --><!-- HN:41112105:start -->
 * [41112105](https://news.social-protocols.org/stats?id=41112105) #9 4 points 1 comments -> [Show HN: Browser Based RDP and SSH](https://www.tsncglobal.com/2024/07/apache-guacamole-installation-in-docker.html)<!-- HN:41112105:end --><!-- HN:41112273:start -->
 * [41112273](https://news.social-protocols.org/stats?id=41112273) #20 10 points 3 comments -> [Logitech has an idea for a "forever mouse" that requires a subscription](https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/)<!-- HN:41112273:end -->
+#### **Wednesday, July 31, 2024**
+<!-- HN:41114468:start -->
+* [41114468](https://news.social-protocols.org/stats?id=41114468) #28 6 points 0 comments -> [Check Maybe Div by Zero for Gleam](https://hexdocs.pm/check_maybe_div_by_zero/)<!-- HN:41114468:end -->
