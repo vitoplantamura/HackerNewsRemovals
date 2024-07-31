@@ -43,25 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, July 24, 2024**
-<!-- HN:41053675:start -->
-* [41053675](https://news.social-protocols.org/stats?id=41053675) #16 7 points 0 comments -> [Is x throttling kamala harris account?](https://www.forbes.com/sites/antoniopequenoiv/2024/07/23/is-x-throttling-kamala-harris-account-key-democrat-claims-time-sensitive-censorship-issue/)<!-- HN:41053675:end --><!-- HN:41055631:start -->
-* [41055631](https://news.social-protocols.org/stats?id=41055631) #17 59 points 47 comments -> [77% of Employees Report AI Has Increased Workloads and Hampered Productivity](https://www.forbes.com/sites/bryanrobinson/2024/07/23/employees-report-ai-increased-workload/)<!-- HN:41055631:end --><!-- HN:41055911:start -->
-* [41055911](https://news.social-protocols.org/stats?id=41055911) #17 5 points 1 comments -> [The Ternary Computing Manifesto](https://homepage.divms.uiowa.edu/~jones/ternary/)<!-- HN:41055911:end --><!-- HN:41054059:start -->
-* [41054059](https://news.social-protocols.org/stats?id=41054059) #16 28 points 3 comments -> [Pinned Places](https://without.boats/blog/pinned-places/)<!-- HN:41054059:end --><!-- HN:41055733:start -->
-* [41055733](https://news.social-protocols.org/stats?id=41055733) #26 24 points 4 comments -> [Proton Wallet – a safer way to hold Bitcoin](https://proton.me/blog/proton-wallet-launch)<!-- HN:41055733:end --><!-- HN:41052934:start -->
-* [41052934](https://news.social-protocols.org/stats?id=41052934) #16 149 points 79 comments -> [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)<!-- HN:41052934:end --><!-- HN:41056673:start -->
-* [41056673](https://news.social-protocols.org/stats?id=41056673) #15 9 points 8 comments -> [Creator of Zig asked "how to open a file in C++" in SO 15 years ago](https://twitter.com/Deor/status/1815561281820127598)<!-- HN:41056673:end --><!-- HN:41057541:start -->
-* [41057541](https://news.social-protocols.org/stats?id=41057541) #16 3 points 0 comments -> [Patrick McKenzie – How a Discord Server Saved 1000s of Lives [video]](https://www.youtube.com/watch?v=18zpjpPNWRw)<!-- HN:41057541:end --><!-- HN:41057827:start -->
-* [41057827](https://news.social-protocols.org/stats?id=41057827) #9 36 points 10 comments -> [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)<!-- HN:41057827:end --><!-- HN:41060985:start -->
-* [41060985](https://news.social-protocols.org/stats?id=41060985) #24 83 points 26 comments -> [CrowdStrike Timeline Mystery](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)<!-- HN:41060985:end --><!-- HN:41057289:start -->
-* [41057289](https://news.social-protocols.org/stats?id=41057289) #26 130 points 3 comments -> [Crash course in deep learning for computer graphics](https://gpuopen.com/learn/deep_learning_crash_course/)<!-- HN:41057289:end --><!-- HN:41061688:start -->
-* [41061688](https://news.social-protocols.org/stats?id=41061688) #29 11 points 2 comments -> [AMD delays Ryzen 9000 launch to August "out of an abundance of caution"](https://arstechnica.com/gadgets/2024/07/quality-issue-pushes-amds-ryzen-9000-cpu-launch-from-july-to-august/)<!-- HN:41061688:end --><!-- HN:41062539:start -->
-* [41062539](https://news.social-protocols.org/stats?id=41062539) #21 9 points 3 comments -> [Half-Life Door Sound [video]](https://www.youtube.com/watch?v=i0k_lZ13nUA)<!-- HN:41062539:end --><!-- HN:41059957:start -->
-* [41059957](https://news.social-protocols.org/stats?id=41059957) #23 9 points 7 comments -> [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com)<!-- HN:41059957:end --><!-- HN:41062640:start -->
-* [41062640](https://news.social-protocols.org/stats?id=41062640) #18 16 points 2 comments -> [X: Certain users are whitelisted and allowed to say slurs](https://twitter.com/yzy_is_who/status/1816177350486417478)<!-- HN:41062640:end --><!-- HN:41063162:start -->
-* [41063162](https://news.social-protocols.org/stats?id=41063162) #8 57 points 12 comments -> [X suspends account that leaked info about protected user TOS bypass](https://twitter.com/tippitytoptweet/status/1816232864243147112)<!-- HN:41063162:end --><!-- HN:41063279:start -->
-* [41063279](https://news.social-protocols.org/stats?id=41063279) #8 11 points 1 comments -> [Switzerland mandates government agencies use open-source software](https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software)<!-- HN:41063279:end -->
 #### **Thursday, July 25, 2024**
 <!-- HN:41063675:start -->
 * [41063675](https://news.social-protocols.org/stats?id=41063675) #21 5 points 1 comments -> [Rent Going Up? One Company's Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)<!-- HN:41063675:end --><!-- HN:41063097:start -->
