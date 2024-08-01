@@ -201,5 +201,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 1, 2024**
 <!-- HN:41123989:start -->
 * [41123989](https://news.social-protocols.org/stats?id=41123989) #28 20 points 11 comments -> [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)<!-- HN:41123989:end --><!-- HN:41124007:start -->
-* [41124007](https://news.social-protocols.org/stats?id=41124007) #7 12 points 1 comments -> [Files](https://www.files.gallery/)<!-- HN:41124007:end --><!-- HN:41123945:start -->
-* [41123945](https://news.social-protocols.org/stats?id=41123945) #25 49 points 40 comments -> [How Middlemen Are Gaming the H-1B Program](https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/)<!-- HN:41123945:end -->
+* [41124007](https://news.social-protocols.org/stats?id=41124007) #7 12 points 1 comments -> [Files](https://www.files.gallery/)<!-- HN:41124007:end -->
