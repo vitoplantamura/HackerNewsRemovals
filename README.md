@@ -201,4 +201,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 1, 2024**
 <!-- HN:41123989:start -->
 * [41123989](https://news.social-protocols.org/stats?id=41123989) #28 20 points 11 comments -> [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)<!-- HN:41123989:end --><!-- HN:41124007:start -->
-* [41124007](https://news.social-protocols.org/stats?id=41124007) #7 12 points 1 comments -> [Files](https://www.files.gallery/)<!-- HN:41124007:end -->
+* [41124007](https://news.social-protocols.org/stats?id=41124007) #7 12 points 1 comments -> [Files](https://www.files.gallery/)<!-- HN:41124007:end --><!-- HN:41073907:start -->
+* [41073907](https://news.social-protocols.org/stats?id=41073907) #21 39 points 18 comments -> [Is the nervous system a democracy? (2016)](https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/)<!-- HN:41073907:end --><!-- HN:41076021:start -->
+* [41076021](https://news.social-protocols.org/stats?id=41076021) #28 129 points 59 comments -> [Where does the name "algebraic data type" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)<!-- HN:41076021:end -->
