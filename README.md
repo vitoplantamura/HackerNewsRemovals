@@ -228,4 +228,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41122986](https://news.social-protocols.org/stats?id=41122986) #7 81 points 24 comments -> [An affordable, portable and focused device for music, writing and coding](https://tulip.computer/)<!-- HN:41122986:end -->
 #### **Thursday, August 1, 2024**
 <!-- HN:41123989:start -->
-* [41123989](https://news.social-protocols.org/stats?id=41123989) #28 20 points 11 comments -> [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)<!-- HN:41123989:end -->
+* [41123989](https://news.social-protocols.org/stats?id=41123989) #28 20 points 11 comments -> [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)<!-- HN:41123989:end --><!-- HN:41124007:start -->
+* [41124007](https://news.social-protocols.org/stats?id=41124007) #7 12 points 1 comments -> [Files](https://www.files.gallery/)<!-- HN:41124007:end -->
