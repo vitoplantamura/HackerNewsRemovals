@@ -226,3 +226,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41122792](https://news.social-protocols.org/stats?id=41122792) #4 33 points 11 comments -> [Heavy metal analysis of dark chocolate and cocoa products in the USA](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)<!-- HN:41122792:end --><!-- HN:41123449:start -->
 * [41123449](https://news.social-protocols.org/stats?id=41123449) #14 29 points 10 comments -> [This Month in Ladybird: July 2024](https://mailchi.mp/ladybird/july-2024)<!-- HN:41123449:end --><!-- HN:41122986:start -->
 * [41122986](https://news.social-protocols.org/stats?id=41122986) #7 81 points 24 comments -> [An affordable, portable and focused device for music, writing and coding](https://tulip.computer/)<!-- HN:41122986:end -->
+#### **Thursday, August 1, 2024**
+<!-- HN:41123989:start -->
+* [41123989](https://news.social-protocols.org/stats?id=41123989) #28 20 points 11 comments -> [Two new dementia risks identified by major report](https://www.bbc.com/news/articles/c84jdxd4x1ro)<!-- HN:41123989:end -->
