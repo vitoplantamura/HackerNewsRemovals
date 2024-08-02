@@ -202,4 +202,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 2, 2024**
 <!-- HN:41093197:start -->
 * [41093197](https://news.social-protocols.org/stats?id=41093197) #18 158 points 81 comments -> [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)<!-- HN:41093197:end --><!-- HN:41136099:start -->
-* [41136099](https://news.social-protocols.org/stats?id=41136099) #29 3 points 1 comments -> [US progressives push for Nvidia antitrust investigation](https://www.reuters.com/technology/us-progressives-push-nvidia-antitrust-investigation-2024-08-01/)<!-- HN:41136099:end -->
+* [41136099](https://news.social-protocols.org/stats?id=41136099) #29 3 points 1 comments -> [US progressives push for Nvidia antitrust investigation](https://www.reuters.com/technology/us-progressives-push-nvidia-antitrust-investigation-2024-08-01/)<!-- HN:41136099:end --><!-- HN:41136905:start -->
+* [41136905](https://news.social-protocols.org/stats?id=41136905) #26 8 points 0 comments -> [List of vintage Japanese pixel/dot art software](https://blog.gingerbeardman.com/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/)<!-- HN:41136905:end -->
