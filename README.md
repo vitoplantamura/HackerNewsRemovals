@@ -201,4 +201,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41132822](https://news.social-protocols.org/stats?id=41132822) #22 56 points 32 comments -> [Pharma CIO cancels AI enhanced Office 365 deal as "it doesn't add value"](https://hardforum.com/threads/pharma-cio-cancels-ai-enhanced-office-365-deal-as-it-doesnt-add-value.2036205/)<!-- HN:41132822:end -->
 #### **Friday, August 2, 2024**
 <!-- HN:41093197:start -->
-* [41093197](https://news.social-protocols.org/stats?id=41093197) #18 158 points 81 comments -> [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)<!-- HN:41093197:end -->
+* [41093197](https://news.social-protocols.org/stats?id=41093197) #18 158 points 81 comments -> [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)<!-- HN:41093197:end --><!-- HN:41136099:start -->
+* [41136099](https://news.social-protocols.org/stats?id=41136099) #29 3 points 1 comments -> [US progressives push for Nvidia antitrust investigation](https://www.reuters.com/technology/us-progressives-push-nvidia-antitrust-investigation-2024-08-01/)<!-- HN:41136099:end -->
