@@ -199,3 +199,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41130342](https://news.social-protocols.org/stats?id=41130342) #28 35 points 18 comments -> [Intel Faces Potential Class-Action Lawsuit over Chip Bug Controversy](https://uk.pcmag.com/processors/153676/intel-faces-potential-class-action-lawsuit-over-chip-bug-controversy)<!-- HN:41130342:end --><!-- HN:41131030:start -->
 * [41131030](https://news.social-protocols.org/stats?id=41131030) #30 3 points 0 comments -> [Blind Man's Bluff: The Untold Story of American Submarine Espionage](https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff:_The_Untold_Story_of_American_Submarine_Espionage)<!-- HN:41131030:end --><!-- HN:41132822:start -->
 * [41132822](https://news.social-protocols.org/stats?id=41132822) #22 56 points 32 comments -> [Pharma CIO cancels AI enhanced Office 365 deal as "it doesn't add value"](https://hardforum.com/threads/pharma-cio-cancels-ai-enhanced-office-365-deal-as-it-doesnt-add-value.2036205/)<!-- HN:41132822:end -->
+#### **Friday, August 2, 2024**
+<!-- HN:41093197:start -->
+* [41093197](https://news.social-protocols.org/stats?id=41093197) #18 158 points 81 comments -> [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)<!-- HN:41093197:end -->
