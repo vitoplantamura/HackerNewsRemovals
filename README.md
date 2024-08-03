@@ -212,5 +212,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41140263](https://news.social-protocols.org/stats?id=41140263) #5 29 points 7 comments -> [Does the success of LLM support Wittgenstein's position that "meaning is use"?](https://philosophy.stackexchange.com/questions/112021/does-the-success-of-ai-large-language-models-support-wittgensteins-position-t)<!-- HN:41140263:end --><!-- HN:41142365:start -->
 * [41142365](https://news.social-protocols.org/stats?id=41142365) #29 7 points 3 comments -> [Why are religious teens happier than their secular peers?](https://www.bostonglobe.com/2024/06/06/opinion/religious-teens-mental-health/)<!-- HN:41142365:end -->
 #### **Saturday, August 3, 2024**
-<!-- HN:41142775:start -->
-* [41142775](https://news.social-protocols.org/stats?id=41142775) #17 51 points 3 comments -> [ROM hacking site shutting down after almost 20 years](https://arstechnica.com/gaming/2024/08/rom-hackings-premier-site-is-going-read-only-after-internal-struggle/)<!-- HN:41142775:end -->
