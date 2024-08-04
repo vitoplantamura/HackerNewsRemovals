@@ -174,4 +174,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41149220](https://news.social-protocols.org/stats?id=41149220) #19 15 points 5 comments -> [Intel is a Victim of its Own Arrogance](https://innovationnation.blog/p/intel-is-a-victim-of-its-own-arrogance)<!-- HN:41149220:end -->
 #### **Sunday, August 4, 2024**
 <!-- HN:41149906:start -->
-* [41149906](https://news.social-protocols.org/stats?id=41149906) #11 27 points 13 comments -> [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)<!-- HN:41149906:end -->
+* [41149906](https://news.social-protocols.org/stats?id=41149906) #11 27 points 13 comments -> [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)<!-- HN:41149906:end --><!-- HN:41147830:start -->
+* [41147830](https://news.social-protocols.org/stats?id=41147830) #21 51 points 6 comments -> [Show HN: Plain Vanilla – a tutorial website for vanilla web development](https://plainvanillaweb.com/)<!-- HN:41147830:end -->
