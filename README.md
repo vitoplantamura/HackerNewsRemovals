@@ -172,3 +172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41148961](https://news.social-protocols.org/stats?id=41148961) #27 5 points 1 comments -> [Why America fell behind in drones, and how to catch up again](https://www.noahpinion.blog/p/why-america-fell-behind-in-drones)<!-- HN:41148961:end --><!-- HN:41144072:start -->
 * [41144072](https://news.social-protocols.org/stats?id=41144072) #19 61 points 26 comments -> [Back dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)<!-- HN:41144072:end --><!-- HN:41149220:start -->
 * [41149220](https://news.social-protocols.org/stats?id=41149220) #19 15 points 5 comments -> [Intel is a Victim of its Own Arrogance](https://innovationnation.blog/p/intel-is-a-victim-of-its-own-arrogance)<!-- HN:41149220:end -->
+#### **Sunday, August 4, 2024**
+<!-- HN:41149906:start -->
+* [41149906](https://news.social-protocols.org/stats?id=41149906) #11 27 points 13 comments -> [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)<!-- HN:41149906:end -->
