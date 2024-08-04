@@ -175,4 +175,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 4, 2024**
 <!-- HN:41149906:start -->
 * [41149906](https://news.social-protocols.org/stats?id=41149906) #11 27 points 13 comments -> [What are the odds, II: the Venezuelan presidential election](https://terrytao.wordpress.com/2024/08/02/what-are-the-odds-ii-the-venezuelan-presidential-election/)<!-- HN:41149906:end --><!-- HN:41147830:start -->
-* [41147830](https://news.social-protocols.org/stats?id=41147830) #21 51 points 6 comments -> [Show HN: Plain Vanilla – a tutorial website for vanilla web development](https://plainvanillaweb.com/)<!-- HN:41147830:end -->
+* [41147830](https://news.social-protocols.org/stats?id=41147830) #21 51 points 6 comments -> [Show HN: Plain Vanilla – a tutorial website for vanilla web development](https://plainvanillaweb.com/)<!-- HN:41147830:end --><!-- HN:41150372:start -->
+* [41150372](https://news.social-protocols.org/stats?id=41150372) #28 14 points 1 comments -> [Automating away the boring parts of my job with Gemini 1.5 Pro and long context](https://medium.com/@webpaige/automating-away-the-boring-parts-of-my-job-with-gemini-1-5-pro-long-context-windows-6d5a1d9a6f38)<!-- HN:41150372:end -->
