@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41155587](https://news.social-protocols.org/stats?id=41155587) #22 8 points 7 comments -> [Rich, western countries face a stark choice: 6-day workweeks or more immigration](https://fortune.com/2024/08/04/rich-western-countries-face-a-stark-choice-6-day-workweeks-or-more-immigration-top-economist-warns/)<!-- HN:41155587:end -->
 #### **Monday, August 5, 2024**
 <!-- HN:41157140:start -->
-* [41157140](https://news.social-protocols.org/stats?id=41157140) #11 5 points 0 comments -> [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)<!-- HN:41157140:end -->
+* [41157140](https://news.social-protocols.org/stats?id=41157140) #11 5 points 0 comments -> [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)<!-- HN:41157140:end --><!-- HN:41154560:start -->
+* [41154560](https://news.social-protocols.org/stats?id=41154560) #17 194 points 66 comments -> [Praise My GitHub Profile](https://praise-me.fly.dev/)<!-- HN:41154560:end -->
