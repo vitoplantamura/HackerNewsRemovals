@@ -149,3 +149,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41154219](https://news.social-protocols.org/stats?id=41154219) #7 6 points 1 comments -> [People High on Dark Triad Personality Traits Employ Distinct Defense Mechanisms](https://www.robkhenderson.com/p/people-with-dark-triad-personality)<!-- HN:41154219:end --><!-- HN:41153980:start -->
 * [41153980](https://news.social-protocols.org/stats?id=41153980) #28 9 points 12 comments -> [Wasted Education: How We Fail Our Graduates in STEM [video]](https://www.youtube.com/watch?v=ZTWaSPzAgBA)<!-- HN:41153980:end --><!-- HN:41155587:start -->
 * [41155587](https://news.social-protocols.org/stats?id=41155587) #22 8 points 7 comments -> [Rich, western countries face a stark choice: 6-day workweeks or more immigration](https://fortune.com/2024/08/04/rich-western-countries-face-a-stark-choice-6-day-workweeks-or-more-immigration-top-economist-warns/)<!-- HN:41155587:end -->
+#### **Monday, August 5, 2024**
+<!-- HN:41157140:start -->
+* [41157140](https://news.social-protocols.org/stats?id=41157140) #11 5 points 0 comments -> [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)<!-- HN:41157140:end -->
