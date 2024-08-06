@@ -157,4 +157,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41164878](https://news.social-protocols.org/stats?id=41164878) #29 9 points 0 comments -> [A Republican State A.G. Fights to Keep Exonerated Prisoners Behind Bars](https://www.nytimes.com/2024/08/05/us/missouri-andrew-bailey-exonerated.html)<!-- HN:41164878:end --><!-- HN:41165409:start -->
 * [41165409](https://news.social-protocols.org/stats?id=41165409) #5 11 points 2 comments -> [The Anatomy of Brainwashing](https://www.science.org/doi/10.1126/science.adp1705)<!-- HN:41165409:end --><!-- HN:41165536:start -->
 * [41165536](https://news.social-protocols.org/stats?id=41165536) #23 3 points 0 comments -> [Moral Implications of Being a Moderately Successful Computer Scientist and Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)<!-- HN:41165536:end -->
-#### **Tuesday, August 6, 2024**
+#### **Tuesday, August 6, 2024**<!-- HN:41167891:start -->
+* [41167891](https://news.social-protocols.org/stats?id=41167891) #11 6 points 0 comments -> [How the Regime Captured Wikipedia](https://www.piratewires.com/p/how-the-regime-captured-wikipedia)<!-- HN:41167891:end --><!-- HN:41166844:start -->
+* [41166844](https://news.social-protocols.org/stats?id=41166844) #27 39 points 55 comments -> [Why is it so hard for the U.S. to build quality transit?](https://www.fastcompany.com/91166562/us-transit-exceptionalism)<!-- HN:41166844:end -->
