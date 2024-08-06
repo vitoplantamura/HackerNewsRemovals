@@ -160,4 +160,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 6, 2024**<!-- HN:41167891:start -->
 * [41167891](https://news.social-protocols.org/stats?id=41167891) #11 6 points 0 comments -> [How the Regime Captured Wikipedia](https://www.piratewires.com/p/how-the-regime-captured-wikipedia)<!-- HN:41167891:end --><!-- HN:41166844:start -->
 * [41166844](https://news.social-protocols.org/stats?id=41166844) #27 39 points 55 comments -> [Why is it so hard for the U.S. to build quality transit?](https://www.fastcompany.com/91166562/us-transit-exceptionalism)<!-- HN:41166844:end --><!-- HN:41167645:start -->
-* [41167645](https://news.social-protocols.org/stats?id=41167645) #10 24 points 40 comments -> [Don't use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)<!-- HN:41167645:end -->
+* [41167645](https://news.social-protocols.org/stats?id=41167645) #10 24 points 40 comments -> [Don't use Vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)<!-- HN:41167645:end --><!-- HN:41167624:start -->
+* [41167624](https://news.social-protocols.org/stats?id=41167624) #17 9 points 5 comments -> [A simply utility script which allows you to analyze your Python file](https://github.com/mraza007/python-file-analyzer)<!-- HN:41167624:end -->
