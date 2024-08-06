@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, July 30, 2024**
-<!-- HN:41061963:start -->
-* [41061963](https://news.social-protocols.org/stats?id=41061963) #8 97 points 35 comments -> [Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)<!-- HN:41061963:end --><!-- HN:41056912:start -->
-* [41056912](https://news.social-protocols.org/stats?id=41056912) #15 85 points 26 comments -> [Notes on Taylor and Maclaurin Series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)<!-- HN:41056912:end --><!-- HN:41104913:start -->
-* [41104913](https://news.social-protocols.org/stats?id=41104913) #25 45 points 19 comments -> [Delta to Seek Damages from CrowdStrike](https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html)<!-- HN:41104913:end --><!-- HN:41105018:start -->
-* [41105018](https://news.social-protocols.org/stats?id=41105018) #28 6 points 0 comments -> [Email explained from first principles (2021)](https://explained-from-first-principles.com/email/)<!-- HN:41105018:end --><!-- HN:41108479:start -->
-* [41108479](https://news.social-protocols.org/stats?id=41108479) #21 7 points 1 comments -> [PGP: The software that changed Internet Privacy and Cryptography](https://www.youtube.com/watch?v=0kcDBe6AkQE)<!-- HN:41108479:end --><!-- HN:41063489:start -->
-* [41063489](https://news.social-protocols.org/stats?id=41063489) #20 80 points 48 comments -> [Hackers Exploited a PC Driving SIM to Pull Off Disney Data Breach](https://www.thedrive.com/news/culture/hackers-exploited-a-pc-driving-sim-to-pull-off-massive-disney-data-breach)<!-- HN:41063489:end --><!-- HN:41109295:start -->
-* [41109295](https://news.social-protocols.org/stats?id=41109295) #22 14 points 1 comments -> [Marcus Hutchins - Why Microsoft Is to Blame for the CrowdStrike Outage](https://www.youtube.com/watch?v=EGttFWntctU)<!-- HN:41109295:end --><!-- HN:41108841:start -->
-* [41108841](https://news.social-protocols.org/stats?id=41108841) #14 36 points 41 comments -> [Please Stop Reinventing JSX](https://gist.github.com/kevmo314/7bbf5d5868b973b53898d12b977b15b7)<!-- HN:41108841:end --><!-- HN:41110859:start -->
-* [41110859](https://news.social-protocols.org/stats?id=41110859) #14 8 points 4 comments -> [The Little Tech Agenda](https://a16z.com/the-little-tech-agenda/)<!-- HN:41110859:end --><!-- HN:41110195:start -->
-* [41110195](https://news.social-protocols.org/stats?id=41110195) #26 56 points 46 comments -> [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)<!-- HN:41110195:end --><!-- HN:41110933:start -->
-* [41110933](https://news.social-protocols.org/stats?id=41110933) #14 52 points 5 comments -> [ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:(](https://evanp.me/2024/07/26/health-update/)<!-- HN:41110933:end --><!-- HN:41112105:start -->
-* [41112105](https://news.social-protocols.org/stats?id=41112105) #9 4 points 1 comments -> [Show HN: Browser Based RDP and SSH](https://www.tsncglobal.com/2024/07/apache-guacamole-installation-in-docker.html)<!-- HN:41112105:end --><!-- HN:41112273:start -->
-* [41112273](https://news.social-protocols.org/stats?id=41112273) #20 10 points 3 comments -> [Logitech has an idea for a "forever mouse" that requires a subscription](https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/)<!-- HN:41112273:end -->
 #### **Wednesday, July 31, 2024**
 <!-- HN:41114468:start -->
 * [41114468](https://news.social-protocols.org/stats?id=41114468) #28 6 points 0 comments -> [Check Maybe Div by Zero for Gleam](https://hexdocs.pm/check_maybe_div_by_zero/)<!-- HN:41114468:end --><!-- HN:41115776:start -->
