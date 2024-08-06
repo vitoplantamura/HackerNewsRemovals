@@ -158,5 +158,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41165409](https://news.social-protocols.org/stats?id=41165409) #5 11 points 2 comments -> [The Anatomy of Brainwashing](https://www.science.org/doi/10.1126/science.adp1705)<!-- HN:41165409:end --><!-- HN:41165536:start -->
 * [41165536](https://news.social-protocols.org/stats?id=41165536) #23 3 points 0 comments -> [Moral Implications of Being a Moderately Successful Computer Scientist and Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)<!-- HN:41165536:end -->
 #### **Tuesday, August 6, 2024**
-<!-- HN:41167359:start -->
-* [41167359](https://news.social-protocols.org/stats?id=41167359) #5 8 points 0 comments -> [Creativity secrets from armed robbers, fraudsters and other criminals](https://denisecullen.com.au/creativity-secrets-from-armed-robbers-fraudsters-and-other-criminals/)<!-- HN:41167359:end -->
