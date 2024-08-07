@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41173486](https://news.social-protocols.org/stats?id=41173486) #23 388 points 113 comments -> [Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown](https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/)<!-- HN:41173486:end -->
 #### **Wednesday, August 7, 2024**
 <!-- HN:41174559:start -->
-* [41174559](https://news.social-protocols.org/stats?id=41174559) #16 65 points 43 comments -> [AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)<!-- HN:41174559:end -->
+* [41174559](https://news.social-protocols.org/stats?id=41174559) #16 65 points 43 comments -> [AI agents but they're working in big tech](https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures)<!-- HN:41174559:end --><!-- HN:41176466:start -->
+* [41176466](https://news.social-protocols.org/stats?id=41176466) #14 23 points 14 comments -> [Why is 'Left Stick to Sprint' so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)<!-- HN:41176466:end -->
