@@ -159,4 +159,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41185930](https://news.social-protocols.org/stats?id=41185930) #24 40 points 41 comments -> [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)<!-- HN:41185930:end -->
 #### **Thursday, August 8, 2024**<!-- HN:41186212:start -->
 * [41186212](https://news.social-protocols.org/stats?id=41186212) #27 20 points 40 comments -> [Terraforming Mars may be easier than scientists thought](https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought)<!-- HN:41186212:end --><!-- HN:41187445:start -->
-* [41187445](https://news.social-protocols.org/stats?id=41187445) #28 10 points 0 comments -> [Holodomor](https://en.wikipedia.org/wiki/Holodomor)<!-- HN:41187445:end -->
+* [41187445](https://news.social-protocols.org/stats?id=41187445) #28 10 points 0 comments -> [Holodomor](https://en.wikipedia.org/wiki/Holodomor)<!-- HN:41187445:end --><!-- HN:41144685:start -->
+* [41144685](https://news.social-protocols.org/stats?id=41144685) #17 97 points 9 comments -> [R5N - Obfuscated mesh routing on hostile networks.](https://lsd.gnunet.org/lsd0004/draft-schanzen-r5n.html)<!-- HN:41144685:end -->
