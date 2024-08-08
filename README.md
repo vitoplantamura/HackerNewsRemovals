@@ -160,4 +160,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 8, 2024**<!-- HN:41186212:start -->
 * [41186212](https://news.social-protocols.org/stats?id=41186212) #27 20 points 40 comments -> [Terraforming Mars may be easier than scientists thought](https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought)<!-- HN:41186212:end --><!-- HN:41187445:start -->
 * [41187445](https://news.social-protocols.org/stats?id=41187445) #28 10 points 0 comments -> [Holodomor](https://en.wikipedia.org/wiki/Holodomor)<!-- HN:41187445:end --><!-- HN:41144685:start -->
-* [41144685](https://news.social-protocols.org/stats?id=41144685) #17 97 points 9 comments -> [R5N - Obfuscated mesh routing on hostile networks.](https://lsd.gnunet.org/lsd0004/draft-schanzen-r5n.html)<!-- HN:41144685:end -->
+* [41144685](https://news.social-protocols.org/stats?id=41144685) #17 97 points 9 comments -> [R5N - Obfuscated mesh routing on hostile networks.](https://lsd.gnunet.org/lsd0004/draft-schanzen-r5n.html)<!-- HN:41144685:end --><!-- HN:41145204:start -->
+* [41145204](https://news.social-protocols.org/stats?id=41145204) #17 16 points 4 comments -> [Ancient Stars (and a Thought on SETI)](https://www.centauri-dreams.org/2024/08/02/on-ancient-stars-and-a-thought-on-seti/)<!-- HN:41145204:end -->
