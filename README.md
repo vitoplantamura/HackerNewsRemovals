@@ -180,5 +180,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41181057](https://news.social-protocols.org/stats?id=41181057) #23 29 points 5 comments -> [Basic ReAct webapp using FastHTML and LangGraph](https://github.com/jank/curiosity)<!-- HN:41181057:end --><!-- HN:41185930:start -->
 * [41185930](https://news.social-protocols.org/stats?id=41185930) #24 40 points 41 comments -> [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)<!-- HN:41185930:end -->
 #### **Thursday, August 8, 2024**
-<!-- HN:41186432:start -->
-* [41186432](https://news.social-protocols.org/stats?id=41186432) #11 17 points 1 comments -> [Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity](https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents)<!-- HN:41186432:end -->
