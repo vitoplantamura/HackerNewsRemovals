@@ -179,3 +179,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41185052](https://news.social-protocols.org/stats?id=41185052) #26 14 points 0 comments -> [macOS 15 Sequoia makes you jump through more hoops to disable Gatekeeper](https://arstechnica.com/gadgets/2024/08/macos-15-sequoia-makes-you-jump-through-more-hoops-to-disable-gatekeeper-app-checks/)<!-- HN:41185052:end --><!-- HN:41181057:start -->
 * [41181057](https://news.social-protocols.org/stats?id=41181057) #23 29 points 5 comments -> [Basic ReAct webapp using FastHTML and LangGraph](https://github.com/jank/curiosity)<!-- HN:41181057:end --><!-- HN:41185930:start -->
 * [41185930](https://news.social-protocols.org/stats?id=41185930) #24 40 points 41 comments -> [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)<!-- HN:41185930:end -->
+#### **Thursday, August 8, 2024**
+<!-- HN:41186432:start -->
+* [41186432](https://news.social-protocols.org/stats?id=41186432) #11 17 points 1 comments -> [Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity](https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents)<!-- HN:41186432:end -->
