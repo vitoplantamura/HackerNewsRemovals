@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41185052](https://news.social-protocols.org/stats?id=41185052) #26 14 points 0 comments -> [macOS 15 Sequoia makes you jump through more hoops to disable Gatekeeper](https://arstechnica.com/gadgets/2024/08/macos-15-sequoia-makes-you-jump-through-more-hoops-to-disable-gatekeeper-app-checks/)<!-- HN:41185052:end --><!-- HN:41181057:start -->
 * [41181057](https://news.social-protocols.org/stats?id=41181057) #23 29 points 5 comments -> [Basic ReAct webapp using FastHTML and LangGraph](https://github.com/jank/curiosity)<!-- HN:41181057:end --><!-- HN:41185930:start -->
 * [41185930](https://news.social-protocols.org/stats?id=41185930) #24 40 points 41 comments -> [The Well-Off People Who Can't Spend Money](https://www.theatlantic.com/ideas/archive/2024/08/spending-money-finance-anxiety-tightwads/679373/)<!-- HN:41185930:end -->
-#### **Thursday, August 8, 2024**
+#### **Thursday, August 8, 2024**<!-- HN:41186212:start -->
+* [41186212](https://news.social-protocols.org/stats?id=41186212) #27 20 points 40 comments -> [Terraforming Mars may be easier than scientists thought](https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought)<!-- HN:41186212:end -->
