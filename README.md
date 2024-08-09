@@ -162,3 +162,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41195375](https://news.social-protocols.org/stats?id=41195375) #7 14 points 19 comments -> [New doctoral thesis proposes Buckminster Fuller was a 'charlatan'](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)<!-- HN:41195375:end --><!-- HN:41195823:start -->
 * [41195823](https://news.social-protocols.org/stats?id=41195823) #7 5 points 0 comments -> [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)<!-- HN:41195823:end --><!-- HN:41196669:start -->
 * [41196669](https://news.social-protocols.org/stats?id=41196669) #27 4 points 3 comments -> [The Outrageous Rise of Neotoddlerism](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)<!-- HN:41196669:end -->
+#### **Friday, August 9, 2024**
+<!-- HN:41150451:start -->
+* [41150451](https://news.social-protocols.org/stats?id=41150451) #19 36 points 42 comments -> ["Grip Car"](https://teenage.engineering/products/grip-car)<!-- HN:41150451:end -->
