@@ -168,4 +168,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41146766](https://news.social-protocols.org/stats?id=41146766) #5 26 points 3 comments -> [Rise of the New York Tech Scene](https://newsletter.rhizomerd.com/p/rise-of-the-new-york-tech-scene)<!-- HN:41146766:end --><!-- HN:41147452:start -->
 * [41147452](https://news.social-protocols.org/stats?id=41147452) #13 34 points 13 comments -> [Harmonic Function Theory](https://www.axler.net/HFT.html)<!-- HN:41147452:end --><!-- HN:41199006:start -->
 * [41199006](https://news.social-protocols.org/stats?id=41199006) #2 11 points 9 comments -> [AI Pastor: Your Guide to Spiritual Growth](https://ai-pastor.com)<!-- HN:41199006:end --><!-- HN:41199363:start -->
-* [41199363](https://news.social-protocols.org/stats?id=41199363) #8 4 points 1 comments -> [A powerful tool for converting speech into text](https://app.trintai.com/)<!-- HN:41199363:end -->
+* [41199363](https://news.social-protocols.org/stats?id=41199363) #8 4 points 1 comments -> [A powerful tool for converting speech into text](https://app.trintai.com/)<!-- HN:41199363:end --><!-- HN:41199109:start -->
+* [41199109](https://news.social-protocols.org/stats?id=41199109) #11 21 points 19 comments -> [I built a second brain tool for college students](https://ainotebook.app/)<!-- HN:41199109:end -->
