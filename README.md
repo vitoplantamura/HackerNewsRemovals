@@ -164,4 +164,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41196669](https://news.social-protocols.org/stats?id=41196669) #27 4 points 3 comments -> [The Outrageous Rise of Neotoddlerism](https://www.gurwinder.blog/p/the-outrageous-rise-of-neotoddlerism)<!-- HN:41196669:end -->
 #### **Friday, August 9, 2024**
 <!-- HN:41150451:start -->
-* [41150451](https://news.social-protocols.org/stats?id=41150451) #19 36 points 42 comments -> ["Grip Car"](https://teenage.engineering/products/grip-car)<!-- HN:41150451:end -->
+* [41150451](https://news.social-protocols.org/stats?id=41150451) #19 36 points 42 comments -> ["Grip Car"](https://teenage.engineering/products/grip-car)<!-- HN:41150451:end --><!-- HN:41146766:start -->
+* [41146766](https://news.social-protocols.org/stats?id=41146766) #5 26 points 3 comments -> [Rise of the New York Tech Scene](https://newsletter.rhizomerd.com/p/rise-of-the-new-york-tech-scene)<!-- HN:41146766:end --><!-- HN:41147452:start -->
+* [41147452](https://news.social-protocols.org/stats?id=41147452) #13 34 points 13 comments -> [Harmonic Function Theory](https://www.axler.net/HFT.html)<!-- HN:41147452:end -->
