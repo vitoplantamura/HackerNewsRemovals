@@ -187,4 +187,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41205656](https://news.social-protocols.org/stats?id=41205656) #30 6 points 0 comments -> [Warner Bros. Discovery pretty much wiped the Cartoon Network website](https://www.theverge.com/2024/8/9/24216846/warner-bros-discovery-cartoon-network-website-wiped-max)<!-- HN:41205656:end -->
 #### **Saturday, August 10, 2024**
 <!-- HN:41206384:start -->
-* [41206384](https://news.social-protocols.org/stats?id=41206384) #23 7 points 1 comments -> [Flaw in AMD Chips Allows Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)<!-- HN:41206384:end -->
+* [41206384](https://news.social-protocols.org/stats?id=41206384) #23 7 points 1 comments -> [Flaw in AMD Chips Allows Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)<!-- HN:41206384:end --><!-- HN:41154895:start -->
+* [41154895](https://news.social-protocols.org/stats?id=41154895) #10 182 points 27 comments -> [Jerk](https://ivanish.ca/jerk/)<!-- HN:41154895:end --><!-- HN:41159075:start -->
+* [41159075](https://news.social-protocols.org/stats?id=41159075) #24 96 points 24 comments -> [Harder Drive: Hard drives we didn't want or need (2022) [pdf]](http://tom7.org/papers/murphy2022harder.pdf)<!-- HN:41159075:end --><!-- HN:41161672:start -->
+* [41161672](https://news.social-protocols.org/stats?id=41161672) #25 15 points 7 comments -> [Show HN: PlatePlanner – Design Beautiful Platemaps](https://plateplanner.nitro.bio/)<!-- HN:41161672:end -->
