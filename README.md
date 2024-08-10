@@ -203,3 +203,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41205799](https://news.social-protocols.org/stats?id=41205799) #30 6 points 0 comments -> [Virginia Mandates Paper Ballots, Tracking, Proof of Residency for 2024 Election](https://www.thecentersquare.com/virginia/article_d7053154-54f3-11ef-bbfd-938cffe3feff.html)<!-- HN:41205799:end --><!-- HN:41205745:start -->
 * [41205745](https://news.social-protocols.org/stats?id=41205745) #26 6 points 0 comments -> [Lawyer bought HarrisWalz.com years ago. Now, he's sold it](https://www.cbc.ca/radio/asithappens/harris-walz-domaine-1.7288782)<!-- HN:41205745:end --><!-- HN:41205656:start -->
 * [41205656](https://news.social-protocols.org/stats?id=41205656) #30 6 points 0 comments -> [Warner Bros. Discovery pretty much wiped the Cartoon Network website](https://www.theverge.com/2024/8/9/24216846/warner-bros-discovery-cartoon-network-website-wiped-max)<!-- HN:41205656:end -->
+#### **Saturday, August 10, 2024**
+<!-- HN:41206384:start -->
+* [41206384](https://news.social-protocols.org/stats?id=41206384) #23 7 points 1 comments -> [Flaw in AMD Chips Allows Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)<!-- HN:41206384:end -->
