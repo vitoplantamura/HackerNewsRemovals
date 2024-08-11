@@ -195,4 +195,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 11, 2024**
 <!-- HN:41214540:start -->
 * [41214540](https://news.social-protocols.org/stats?id=41214540) #27 6 points 1 comments -> [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)<!-- HN:41214540:end --><!-- HN:41208671:start -->
-* [41208671](https://news.social-protocols.org/stats?id=41208671) #6 4 points 0 comments -> [Two ancient North American structures crumble as tribes see impending doom](https://nypost.com/2024/08/09/world-news/ancient-pyramids-collapse-in-mexico-in-what-tribe-calls-bad-omen/)<!-- HN:41208671:end -->
+* [41208671](https://news.social-protocols.org/stats?id=41208671) #6 4 points 0 comments -> [Two ancient North American structures crumble as tribes see impending doom](https://nypost.com/2024/08/09/world-news/ancient-pyramids-collapse-in-mexico-in-what-tribe-calls-bad-omen/)<!-- HN:41208671:end --><!-- HN:41180356:start -->
+* [41180356](https://news.social-protocols.org/stats?id=41180356) #18 100 points 17 comments -> [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)<!-- HN:41180356:end -->
