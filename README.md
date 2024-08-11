@@ -194,4 +194,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41211215](https://news.social-protocols.org/stats?id=41211215) #25 31 points 41 comments -> [Waymo got a ticket and there was confusion about who or what was being ticketed](https://twitter.com/antoniogm/status/1822141923538161776)<!-- HN:41211215:end -->
 #### **Sunday, August 11, 2024**
 <!-- HN:41214540:start -->
-* [41214540](https://news.social-protocols.org/stats?id=41214540) #27 6 points 1 comments -> [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)<!-- HN:41214540:end -->
+* [41214540](https://news.social-protocols.org/stats?id=41214540) #27 6 points 1 comments -> [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)<!-- HN:41214540:end --><!-- HN:41208671:start -->
+* [41208671](https://news.social-protocols.org/stats?id=41208671) #6 4 points 0 comments -> [Two ancient North American structures crumble as tribes see impending doom](https://nypost.com/2024/08/09/world-news/ancient-pyramids-collapse-in-mexico-in-what-tribe-calls-bad-omen/)<!-- HN:41208671:end -->
