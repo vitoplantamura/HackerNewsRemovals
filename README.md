@@ -192,3 +192,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41210994](https://news.social-protocols.org/stats?id=41210994) #29 -> [Millions of years for plants to recover from global warming](https://www.sciencedaily.com/releases/2024/08/240809135943.htm)<!-- HN:41210994:end --><!-- HN:41211147:start -->
 * [41211147](https://news.social-protocols.org/stats?id=41211147) #14 19 points 2 comments -> [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)<!-- HN:41211147:end --><!-- HN:41211215:start -->
 * [41211215](https://news.social-protocols.org/stats?id=41211215) #25 31 points 41 comments -> [Waymo got a ticket and there was confusion about who or what was being ticketed](https://twitter.com/antoniogm/status/1822141923538161776)<!-- HN:41211215:end -->
+#### **Sunday, August 11, 2024**
+<!-- HN:41214540:start -->
+* [41214540](https://news.social-protocols.org/stats?id=41214540) #27 6 points 1 comments -> [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)<!-- HN:41214540:end -->
