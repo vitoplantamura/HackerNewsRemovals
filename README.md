@@ -187,4 +187,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 12, 2024**
 <!-- HN:41182376:start -->
 * [41182376](https://news.social-protocols.org/stats?id=41182376) #11 15 points 10 comments -> [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)<!-- HN:41182376:end --><!-- HN:41217229:start -->
-* [41217229](https://news.social-protocols.org/stats?id=41217229) #30 27 points 40 comments -> [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)<!-- HN:41217229:end -->
+* [41217229](https://news.social-protocols.org/stats?id=41217229) #30 27 points 40 comments -> [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)<!-- HN:41217229:end --><!-- HN:41220233:start -->
+* [41220233](https://news.social-protocols.org/stats?id=41220233) #14 -> [AMD's processors have been shipping with a dangerous security bug](https://www.interest.co.nz/technology/129141/researchers-suggest-throw-away-your-computer-if-sinkclose-flaw-amd-processors)<!-- HN:41220233:end -->
