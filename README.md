@@ -206,3 +206,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41218844](https://news.social-protocols.org/stats?id=41218844) #24 9 points 0 comments -> [The coming religious war in Europe and how it may be averted](https://subhashkak.medium.com/the-coming-religious-war-in-europe-and-how-it-may-be-avoided-52029359b30d)<!-- HN:41218844:end --><!-- HN:41218706:start -->
 * [41218706](https://news.social-protocols.org/stats?id=41218706) #27 40 points 15 comments -> [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)<!-- HN:41218706:end --><!-- HN:41219325:start -->
 * [41219325](https://news.social-protocols.org/stats?id=41219325) #17 13 points 2 comments -> [UK police commissioner threatens to extradite,jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)<!-- HN:41219325:end -->
+#### **Monday, August 12, 2024**
+<!-- HN:41182376:start -->
+* [41182376](https://news.social-protocols.org/stats?id=41182376) #11 15 points 10 comments -> [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)<!-- HN:41182376:end -->
