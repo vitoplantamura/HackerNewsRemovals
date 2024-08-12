@@ -186,4 +186,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41219325](https://news.social-protocols.org/stats?id=41219325) #17 13 points 2 comments -> [UK police commissioner threatens to extradite,jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)<!-- HN:41219325:end -->
 #### **Monday, August 12, 2024**
 <!-- HN:41182376:start -->
-* [41182376](https://news.social-protocols.org/stats?id=41182376) #11 15 points 10 comments -> [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)<!-- HN:41182376:end -->
+* [41182376](https://news.social-protocols.org/stats?id=41182376) #11 15 points 10 comments -> [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)<!-- HN:41182376:end --><!-- HN:41217229:start -->
+* [41217229](https://news.social-protocols.org/stats?id=41217229) #30 27 points 40 comments -> [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)<!-- HN:41217229:end -->
