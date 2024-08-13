@@ -185,4 +185,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 13, 2024**
 <!-- HN:41188496:start -->
 * [41188496](https://news.social-protocols.org/stats?id=41188496) #14 5 points 1 comments -> [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)<!-- HN:41188496:end --><!-- HN:41182895:start -->
-* [41182895](https://news.social-protocols.org/stats?id=41182895) #27 136 points 125 comments -> [Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)<!-- HN:41182895:end -->
+* [41182895](https://news.social-protocols.org/stats?id=41182895) #27 136 points 125 comments -> [Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)<!-- HN:41182895:end --><!-- HN:41232054:start -->
+* [41232054](https://news.social-protocols.org/stats?id=41232054) #26 8 points 0 comments -> [Auto-Generated Transcript of Musk-Trump Twitter Space](https://gist.githubusercontent.com/bubbaprog/1eb29610374ff9f458a37a648a4004e1/raw/212ad823d62f7c2948749b976f7a0fa7cda046d9/gistfile1.txt)<!-- HN:41232054:end -->
