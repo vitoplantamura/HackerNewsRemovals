@@ -182,3 +182,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41225795](https://news.social-protocols.org/stats?id=41225795) #20 10 points 1 comments -> [Apple's requirements are about to hit creators and fans on Patreon](https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon)<!-- HN:41225795:end --><!-- HN:41224905:start -->
 * [41224905](https://news.social-protocols.org/stats?id=41224905) #17 14 points 6 comments -> [Genie: Best AI Software Engineer](https://cosine.sh/genie)<!-- HN:41224905:end --><!-- HN:41224749:start -->
 * [41224749](https://news.social-protocols.org/stats?id=41224749) #5 166 points 62 comments -> [Postgres.new](https://postgres.new/)<!-- HN:41224749:end -->
+#### **Tuesday, August 13, 2024**
+<!-- HN:41188496:start -->
+* [41188496](https://news.social-protocols.org/stats?id=41188496) #14 5 points 1 comments -> [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)<!-- HN:41188496:end -->
