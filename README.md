@@ -184,4 +184,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41224749](https://news.social-protocols.org/stats?id=41224749) #5 166 points 62 comments -> [Postgres.new](https://postgres.new/)<!-- HN:41224749:end -->
 #### **Tuesday, August 13, 2024**
 <!-- HN:41188496:start -->
-* [41188496](https://news.social-protocols.org/stats?id=41188496) #14 5 points 1 comments -> [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)<!-- HN:41188496:end -->
+* [41188496](https://news.social-protocols.org/stats?id=41188496) #14 5 points 1 comments -> [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)<!-- HN:41188496:end --><!-- HN:41182895:start -->
+* [41182895](https://news.social-protocols.org/stats?id=41182895) #27 136 points 125 comments -> [Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)<!-- HN:41182895:end -->
