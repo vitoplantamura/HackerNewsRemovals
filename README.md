@@ -184,5 +184,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41224749](https://news.social-protocols.org/stats?id=41224749) #5 166 points 62 comments -> [Postgres.new](https://postgres.new/)<!-- HN:41224749:end -->
 #### **Tuesday, August 13, 2024**
 <!-- HN:41188496:start -->
-* [41188496](https://news.social-protocols.org/stats?id=41188496) #14 5 points 1 comments -> [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)<!-- HN:41188496:end --><!-- HN:41230696:start -->
-* [41230696](https://news.social-protocols.org/stats?id=41230696) #11 8 points 0 comments -> [Dr. Mengele, USA Style: Lessons from Human Rights Abuses Post-World War II [pdf]](https://cosmosandtaxis.org/wp-content/uploads/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)<!-- HN:41230696:end -->
+* [41188496](https://news.social-protocols.org/stats?id=41188496) #14 5 points 1 comments -> [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)<!-- HN:41188496:end -->
