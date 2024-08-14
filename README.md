@@ -174,4 +174,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41212380](https://news.social-protocols.org/stats?id=41212380) #24 17 points 3 comments -> [Go structs are copied on assignment](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)<!-- HN:41212380:end -->
 #### **Wednesday, August 14, 2024**
 <!-- HN:41242280:start -->
-* [41242280](https://news.social-protocols.org/stats?id=41242280) #9 18 points 9 comments -> [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)<!-- HN:41242280:end -->
+* [41242280](https://news.social-protocols.org/stats?id=41242280) #9 18 points 9 comments -> [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)<!-- HN:41242280:end --><!-- HN:41220532:start -->
+* [41220532](https://news.social-protocols.org/stats?id=41220532) #21 25 points 1 comments -> [CVBasic v0.6.0: The retro Z80 BASIC compiler now targets 6502](https://github.com/nanochess/CVBasic)<!-- HN:41220532:end -->
