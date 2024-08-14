@@ -172,3 +172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41231145](https://news.social-protocols.org/stats?id=41231145) #17 201 points 44 comments -> [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)<!-- HN:41231145:end --><!-- HN:41236649:start -->
 * [41236649](https://news.social-protocols.org/stats?id=41236649) #28 15 points 0 comments -> [WHO to scrap weak PFAS drinking water guidelines after alleged corruption](https://www.theguardian.com/us-news/article/2024/aug/13/world-health-organization-pfas-drinking-water-health-guidelines)<!-- HN:41236649:end --><!-- HN:41212380:start -->
 * [41212380](https://news.social-protocols.org/stats?id=41212380) #24 17 points 3 comments -> [Go structs are copied on assignment](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)<!-- HN:41212380:end -->
+#### **Wednesday, August 14, 2024**
+<!-- HN:41242280:start -->
+* [41242280](https://news.social-protocols.org/stats?id=41242280) #9 18 points 9 comments -> [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)<!-- HN:41242280:end -->
