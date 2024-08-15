@@ -191,4 +191,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41251412](https://news.social-protocols.org/stats?id=41251412) #19 398 points 170 comments -> [GitHub Is Down](https://github.com/)<!-- HN:41251412:end -->
 #### **Thursday, August 15, 2024**
 <!-- HN:41231723:start -->
-* [41231723](https://news.social-protocols.org/stats?id=41231723) #18 3 points 0 comments -> [Mastering Dynamic Programming: A Comprehensive Guide](https://cosmicmeta.io/2024/08/12/mastering-dynamic-programming-a-comprehensive-guide/)<!-- HN:41231723:end -->
+* [41231723](https://news.social-protocols.org/stats?id=41231723) #18 3 points 0 comments -> [Mastering Dynamic Programming: A Comprehensive Guide](https://cosmicmeta.io/2024/08/12/mastering-dynamic-programming-a-comprehensive-guide/)<!-- HN:41231723:end --><!-- HN:41252355:start -->
+* [41252355](https://news.social-protocols.org/stats?id=41252355) #2 34 points 7 comments -> [Repulsive Shells [video]](https://www.youtube.com/watch?v=skEnUjpNN5w)<!-- HN:41252355:end -->
