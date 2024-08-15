@@ -192,4 +192,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41231723:start -->
 * [41231723](https://news.social-protocols.org/stats?id=41231723) #18 3 points 0 comments -> [Mastering Dynamic Programming: A Comprehensive Guide](https://cosmicmeta.io/2024/08/12/mastering-dynamic-programming-a-comprehensive-guide/)<!-- HN:41231723:end --><!-- HN:41252355:start -->
 * [41252355](https://news.social-protocols.org/stats?id=41252355) #2 34 points 7 comments -> [Repulsive Shells [video]](https://www.youtube.com/watch?v=skEnUjpNN5w)<!-- HN:41252355:end --><!-- HN:41252582:start -->
-* [41252582](https://news.social-protocols.org/stats?id=41252582) #15 10 points 8 comments -> [Poker Pros, Crypto Kings, and Tech Titans: Nate Silver's Guide to "The River"](https://www.vanityfair.com/news/story/nate-silver-on-the-edge)<!-- HN:41252582:end -->
+* [41252582](https://news.social-protocols.org/stats?id=41252582) #15 10 points 8 comments -> [Poker Pros, Crypto Kings, and Tech Titans: Nate Silver's Guide to "The River"](https://www.vanityfair.com/news/story/nate-silver-on-the-edge)<!-- HN:41252582:end --><!-- HN:41252922:start -->
+* [41252922](https://news.social-protocols.org/stats?id=41252922) #4 7 points 0 comments -> [Zrok: An open source sharing solution built on OpenZiti (zero trust networking)](https://zrok.io/)<!-- HN:41252922:end -->
