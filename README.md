@@ -189,3 +189,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41250749](https://news.social-protocols.org/stats?id=41250749) #15 47 points 9 comments -> [WHO Declares Mpox Global Health Emergency](https://www.bbc.com/news/articles/cvg35w27gzno)<!-- HN:41250749:end --><!-- HN:41229555:start -->
 * [41229555](https://news.social-protocols.org/stats?id=41229555) #7 11 points 0 comments -> [Script-kidding the Bitcoin blockchain [video]](https://media.ccc.de/v/cosin2024-56240-script-kidding-the-bitco)<!-- HN:41229555:end --><!-- HN:41251412:start -->
 * [41251412](https://news.social-protocols.org/stats?id=41251412) #19 398 points 170 comments -> [GitHub Is Down](https://github.com/)<!-- HN:41251412:end -->
+#### **Thursday, August 15, 2024**
+<!-- HN:41231723:start -->
+* [41231723](https://news.social-protocols.org/stats?id=41231723) #18 3 points 0 comments -> [Mastering Dynamic Programming: A Comprehensive Guide](https://cosmicmeta.io/2024/08/12/mastering-dynamic-programming-a-comprehensive-guide/)<!-- HN:41231723:end -->
