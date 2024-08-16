@@ -181,3 +181,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41258628](https://news.social-protocols.org/stats?id=41258628) #30 9 points 1 comments -> [GEN One: Innovations from the Paul G. Allen Collection](https://www.christies.com/en/stories/gen-one-innovations-from-the-paul-g-allen-collection-1f0df60a726e4dcbabef3a91a57ef7ee)<!-- HN:41258628:end --><!-- HN:41227839:start -->
 * [41227839](https://news.social-protocols.org/stats?id=41227839) #28 5 points 0 comments -> [Sebastian Marset built an empire as a kingpin and professional soccer player](https://www.washingtonpost.com/world/interactive/2024/sebastian-marset-soccer-football-cocaine-trafficking/)<!-- HN:41227839:end --><!-- HN:41259425:start -->
 * [41259425](https://news.social-protocols.org/stats?id=41259425) #17 15 points 8 comments -> [FoodAnalyze: Instant Food Label Analysis – Free for 24 Hours](https://foodanalyze.com/)<!-- HN:41259425:end -->
+#### **Friday, August 16, 2024**
+<!-- HN:41232682:start -->
+* [41232682](https://news.social-protocols.org/stats?id=41232682) #19 21 points 10 comments -> [Take selfies with public traffic cameras](https://trafficcamphotobooth.com/)<!-- HN:41232682:end -->
