@@ -183,4 +183,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41259425](https://news.social-protocols.org/stats?id=41259425) #17 15 points 8 comments -> [FoodAnalyze: Instant Food Label Analysis – Free for 24 Hours](https://foodanalyze.com/)<!-- HN:41259425:end -->
 #### **Friday, August 16, 2024**
 <!-- HN:41232682:start -->
-* [41232682](https://news.social-protocols.org/stats?id=41232682) #19 21 points 10 comments -> [Take selfies with public traffic cameras](https://trafficcamphotobooth.com/)<!-- HN:41232682:end -->
+* [41232682](https://news.social-protocols.org/stats?id=41232682) #19 21 points 10 comments -> [Take selfies with public traffic cameras](https://trafficcamphotobooth.com/)<!-- HN:41232682:end --><!-- HN:41262878:start -->
+* [41262878](https://news.social-protocols.org/stats?id=41262878) #11 11 points 2 comments -> [Cartoon Network's Website Was Deleted. That Should Scare You All](https://slate.com/technology/2024/08/david-zaslav-warner-bros-discovery-culture-deleting-movies-tv-shows.html)<!-- HN:41262878:end -->
