@@ -210,4 +210,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41270043](https://news.social-protocols.org/stats?id=41270043) #26 73 points 34 comments -> [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)<!-- HN:41270043:end -->
 #### **Saturday, August 17, 2024**
 <!-- HN:41271223:start -->
-* [41271223](https://news.social-protocols.org/stats?id=41271223) #4 6 points 0 comments -> [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)<!-- HN:41271223:end -->
+* [41271223](https://news.social-protocols.org/stats?id=41271223) #4 6 points 0 comments -> [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)<!-- HN:41271223:end --><!-- HN:41270277:start -->
+* [41270277](https://news.social-protocols.org/stats?id=41270277) #27 4 points 0 comments -> [Should I Close Source My Company? Replying to Supabase](https://orth.uk/close-source/)<!-- HN:41270277:end -->
