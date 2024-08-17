@@ -208,3 +208,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41270536](https://news.social-protocols.org/stats?id=41270536) #28 9 points 2 comments -> [Dubai Court Declares Crypto Salary Legal](https://www.econotimes.com/Dubai-Court-Declares-Crypto-Salary-Legal-Ushering-in-a-Revolutionary-Shift-for-UAE-Workers-1684321)<!-- HN:41270536:end --><!-- HN:41241373:start -->
 * [41241373](https://news.social-protocols.org/stats?id=41241373) #21 27 points 40 comments -> [Nitric Is Terraform for Developers](https://medium.com/@rsiva_nitric/nitric-is-terraform-for-developers-9cd6cd7f0e76)<!-- HN:41241373:end --><!-- HN:41270043:start -->
 * [41270043](https://news.social-protocols.org/stats?id=41270043) #26 73 points 34 comments -> [PyTorch is dead. Long live Jax](https://neel04.github.io/my-website/blog/pytorch_rant/)<!-- HN:41270043:end -->
+#### **Saturday, August 17, 2024**
+<!-- HN:41271223:start -->
+* [41271223](https://news.social-protocols.org/stats?id=41271223) #4 6 points 0 comments -> [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)<!-- HN:41271223:end -->
