@@ -189,4 +189,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41271223:start -->
 * [41271223](https://news.social-protocols.org/stats?id=41271223) #4 6 points 0 comments -> [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)<!-- HN:41271223:end --><!-- HN:41270277:start -->
 * [41270277](https://news.social-protocols.org/stats?id=41270277) #27 4 points 0 comments -> [Should I Close Source My Company? Replying to Supabase](https://orth.uk/close-source/)<!-- HN:41270277:end --><!-- HN:41270245:start -->
-* [41270245](https://news.social-protocols.org/stats?id=41270245) #27 6 points 1 comments -> [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)<!-- HN:41270245:end -->
+* [41270245](https://news.social-protocols.org/stats?id=41270245) #27 6 points 1 comments -> [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)<!-- HN:41270245:end --><!-- HN:41271458:start -->
+* [41271458](https://news.social-protocols.org/stats?id=41271458) #12 11 points 2 comments -> [Show HN: an AI copilot for Next.js developers](https://useglass.ai)<!-- HN:41271458:end -->
