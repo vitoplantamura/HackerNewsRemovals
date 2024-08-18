@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, August 11, 2024**
-<!-- HN:41214540:start -->
-* [41214540](https://news.social-protocols.org/stats?id=41214540) #27 6 points 1 comments -> [Why I bet on DSPy](https://blog.isaacbmiller.com/posts/dspy)<!-- HN:41214540:end --><!-- HN:41208671:start -->
-* [41208671](https://news.social-protocols.org/stats?id=41208671) #6 4 points 0 comments -> [Two ancient North American structures crumble as tribes see impending doom](https://nypost.com/2024/08/09/world-news/ancient-pyramids-collapse-in-mexico-in-what-tribe-calls-bad-omen/)<!-- HN:41208671:end --><!-- HN:41180356:start -->
-* [41180356](https://news.social-protocols.org/stats?id=41180356) #18 100 points 17 comments -> [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)<!-- HN:41180356:end --><!-- HN:41215685:start -->
-* [41215685](https://news.social-protocols.org/stats?id=41215685) #5 40 points 10 comments -> [The Authoritarian Playbook](https://protectdemocracy.org/work/the-authoritarian-playbook/)<!-- HN:41215685:end --><!-- HN:41215927:start -->
-* [41215927](https://news.social-protocols.org/stats?id=41215927) #19 49 points 38 comments -> [X's likelihood of prevailing in boycott suit is higher than I thought](https://shaungallagher.pressbin.com/blog/group-boycotts.html)<!-- HN:41215927:end --><!-- HN:41216399:start -->
-* [41216399](https://news.social-protocols.org/stats?id=41216399) #8 6 points 18 comments -> [The Coffee Machine Hiring Test](https://manuel.darcemont.fr/posts/coffee-machine-test/)<!-- HN:41216399:end --><!-- HN:41218675:start -->
-* [41218675](https://news.social-protocols.org/stats?id=41218675) #6 15 points 0 comments -> [UK police commish threatens to extradite, jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)<!-- HN:41218675:end --><!-- HN:41186735:start -->
-* [41186735](https://news.social-protocols.org/stats?id=41186735) #18 11 points 2 comments -> [Study finds organizations have a significant gap in security on macOS endpoints](https://9to5mac.com/2024/08/05/new-study-finds-organizations-have-a-significant-gap-in-security-on-macos-systems/)<!-- HN:41186735:end --><!-- HN:41218721:start -->
-* [41218721](https://news.social-protocols.org/stats?id=41218721) #18 14 points 4 comments -> [Instagram Is Over](https://www.theatlantic.com/technology/archive/2022/11/instagram-tiktok-twitter-social-media-competition/672305/)<!-- HN:41218721:end --><!-- HN:41218844:start -->
-* [41218844](https://news.social-protocols.org/stats?id=41218844) #24 9 points 0 comments -> [The coming religious war in Europe and how it may be averted](https://subhashkak.medium.com/the-coming-religious-war-in-europe-and-how-it-may-be-avoided-52029359b30d)<!-- HN:41218844:end --><!-- HN:41218706:start -->
-* [41218706](https://news.social-protocols.org/stats?id=41218706) #27 40 points 15 comments -> [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)<!-- HN:41218706:end --><!-- HN:41219325:start -->
-* [41219325](https://news.social-protocols.org/stats?id=41219325) #17 13 points 2 comments -> [UK police commissioner threatens to extradite,jail US citizens over online posts](https://www.foxnews.com/media/uk-police-commissioner-threatens-extradite-jail-us-citizens-over-social-media-posts-we-come-afte)<!-- HN:41219325:end -->
 #### **Monday, August 12, 2024**
 <!-- HN:41182376:start -->
 * [41182376](https://news.social-protocols.org/stats?id=41182376) #11 15 points 10 comments -> [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)<!-- HN:41182376:end --><!-- HN:41217229:start -->
