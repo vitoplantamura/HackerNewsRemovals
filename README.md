@@ -192,4 +192,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41261481:start -->
 * [41261481](https://news.social-protocols.org/stats?id=41261481) #17 18 points 5 comments -> [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)<!-- HN:41261481:end --><!-- HN:41281259:start -->
 * [41281259](https://news.social-protocols.org/stats?id=41281259) #26 6 points 1 comments -> [Male UK university students are 'less macho' when sharing flats with women](https://www.theguardian.com/education/article/2024/aug/18/male-uk-university-students-are-less-macho-when-sharing-flats-with-women)<!-- HN:41281259:end --><!-- HN:41237204:start -->
-* [41237204](https://news.social-protocols.org/stats?id=41237204) #13 46 points 7 comments -> [SWE-Bench Verified](https://openai.com/index/introducing-swe-bench-verified/)<!-- HN:41237204:end -->
+* [41237204](https://news.social-protocols.org/stats?id=41237204) #13 46 points 7 comments -> [SWE-Bench Verified](https://openai.com/index/introducing-swe-bench-verified/)<!-- HN:41237204:end --><!-- HN:41242095:start -->
+* [41242095](https://news.social-protocols.org/stats?id=41242095) #21 95 points 6 comments -> [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)<!-- HN:41242095:end -->
