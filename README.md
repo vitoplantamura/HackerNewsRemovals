@@ -188,3 +188,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41277058](https://news.social-protocols.org/stats?id=41277058) #10 90 points 37 comments -> [Releasing everyone's SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)<!-- HN:41277058:end --><!-- HN:41277593:start -->
 * [41277593](https://news.social-protocols.org/stats?id=41277593) #5 51 points 19 comments -> [AI Seinfeld was the peak of AI-generated content. It will never happen again](https://minimaxir.com/2024/08/ai-seinfeld/)<!-- HN:41277593:end --><!-- HN:41278226:start -->
 * [41278226](https://news.social-protocols.org/stats?id=41278226) #4 7 points 0 comments -> [Eric Schmidt's AI prophecy: The next two years will shock you](https://www.exponentialview.co/p/eric-schmidts-ai-prophecy)<!-- HN:41278226:end -->
+#### **Sunday, August 18, 2024**
+<!-- HN:41261481:start -->
+* [41261481](https://news.social-protocols.org/stats?id=41261481) #17 18 points 5 comments -> [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)<!-- HN:41261481:end -->
