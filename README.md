@@ -190,4 +190,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41278226](https://news.social-protocols.org/stats?id=41278226) #4 7 points 0 comments -> [Eric Schmidt's AI prophecy: The next two years will shock you](https://www.exponentialview.co/p/eric-schmidts-ai-prophecy)<!-- HN:41278226:end -->
 #### **Sunday, August 18, 2024**
 <!-- HN:41261481:start -->
-* [41261481](https://news.social-protocols.org/stats?id=41261481) #17 18 points 5 comments -> [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)<!-- HN:41261481:end -->
+* [41261481](https://news.social-protocols.org/stats?id=41261481) #17 18 points 5 comments -> [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)<!-- HN:41261481:end --><!-- HN:41281259:start -->
+* [41281259](https://news.social-protocols.org/stats?id=41281259) #26 6 points 1 comments -> [Male UK university students are 'less macho' when sharing flats with women](https://www.theguardian.com/education/article/2024/aug/18/male-uk-university-students-are-less-macho-when-sharing-flats-with-women)<!-- HN:41281259:end -->
