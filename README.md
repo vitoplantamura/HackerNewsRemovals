@@ -187,4 +187,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 19, 2024**
 <!-- HN:41247991:start -->
 * [41247991](https://news.social-protocols.org/stats?id=41247991) #6 31 points 6 comments -> [Animate.css: Seamless CSS Animations Across All Browsers](https://github.com/animate-css/animate.css)<!-- HN:41247991:end --><!-- HN:41287014:start -->
-* [41287014](https://news.social-protocols.org/stats?id=41287014) #17 150 points 90 comments -> [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)<!-- HN:41287014:end -->
+* [41287014](https://news.social-protocols.org/stats?id=41287014) #17 150 points 90 comments -> [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)<!-- HN:41287014:end --><!-- HN:41287955:start -->
+* [41287955](https://news.social-protocols.org/stats?id=41287955) #17 7 points 1 comments -> [The Broligarchs Are Trying to Have Their Way](https://www.theatlantic.com/ideas/archive/2024/08/tech-bro-male-billionaire-anti-democratic/679267/)<!-- HN:41287955:end -->
