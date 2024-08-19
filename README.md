@@ -184,3 +184,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41282981](https://news.social-protocols.org/stats?id=41282981) #19 17 points 9 comments -> [Show HN: Proxmox VE Helper Scripts: Make managing your homelab a breeze](https://proxmox-helper-scripts.vercel.app)<!-- HN:41282981:end --><!-- HN:41284604:start -->
 * [41284604](https://news.social-protocols.org/stats?id=41284604) #6 11 points 12 comments -> [Stop Using Git Ignore](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)<!-- HN:41284604:end --><!-- HN:41284549:start -->
 * [41284549](https://news.social-protocols.org/stats?id=41284549) #25 97 points 68 comments -> [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)<!-- HN:41284549:end -->
+#### **Monday, August 19, 2024**
+<!-- HN:41247991:start -->
+* [41247991](https://news.social-protocols.org/stats?id=41247991) #6 31 points 6 comments -> [Animate.css: Seamless CSS Animations Across All Browsers](https://github.com/animate-css/animate.css)<!-- HN:41247991:end -->
