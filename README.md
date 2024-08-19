@@ -188,4 +188,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41247991:start -->
 * [41247991](https://news.social-protocols.org/stats?id=41247991) #6 31 points 6 comments -> [Animate.css: Seamless CSS Animations Across All Browsers](https://github.com/animate-css/animate.css)<!-- HN:41247991:end --><!-- HN:41287014:start -->
 * [41287014](https://news.social-protocols.org/stats?id=41287014) #17 150 points 90 comments -> [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)<!-- HN:41287014:end --><!-- HN:41288958:start -->
-* [41288958](https://news.social-protocols.org/stats?id=41288958) #27 4 points 0 comments -> [2GB Raspberry Pi 5 on sale now at $50](https://www.raspberrypi.com/news/2gb-raspberry-pi-5-on-sale-now-at-50/)<!-- HN:41288958:end -->
+* [41288958](https://news.social-protocols.org/stats?id=41288958) #27 4 points 0 comments -> [2GB Raspberry Pi 5 on sale now at $50](https://www.raspberrypi.com/news/2gb-raspberry-pi-5-on-sale-now-at-50/)<!-- HN:41288958:end --><!-- HN:41288510:start -->
+* [41288510](https://news.social-protocols.org/stats?id=41288510) #4 4 points 1 comments -> [The Guide to Build a Profitable Flippa Clone App](https://www.trioangle.com/blog/build-flippa-clone-app/)<!-- HN:41288510:end -->
