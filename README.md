@@ -186,4 +186,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41284549](https://news.social-protocols.org/stats?id=41284549) #25 97 points 68 comments -> [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)<!-- HN:41284549:end -->
 #### **Monday, August 19, 2024**
 <!-- HN:41247991:start -->
-* [41247991](https://news.social-protocols.org/stats?id=41247991) #6 31 points 6 comments -> [Animate.css: Seamless CSS Animations Across All Browsers](https://github.com/animate-css/animate.css)<!-- HN:41247991:end -->
+* [41247991](https://news.social-protocols.org/stats?id=41247991) #6 31 points 6 comments -> [Animate.css: Seamless CSS Animations Across All Browsers](https://github.com/animate-css/animate.css)<!-- HN:41247991:end --><!-- HN:41287014:start -->
+* [41287014](https://news.social-protocols.org/stats?id=41287014) #17 150 points 90 comments -> [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)<!-- HN:41287014:end -->
