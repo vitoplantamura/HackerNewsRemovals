@@ -195,4 +195,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41294579](https://news.social-protocols.org/stats?id=41294579) #15 17 points 9 comments -> [Millennials Are Becoming Boomers](https://awealthofcommonsense.com/2024/08/millennials-are-becoming-boomers/)<!-- HN:41294579:end -->
 #### **Tuesday, August 20, 2024**
 <!-- HN:41295206:start -->
-* [41295206](https://news.social-protocols.org/stats?id=41295206) #26 5 points 2 comments -> [2024 Olympics game U.S. medals by colleges](https://www.chart2char.com/expo/post/?channelHandle=sportsmeter&post=2024%20Olympic%20Game%20U.S.%20Medalists)<!-- HN:41295206:end -->
+* [41295206](https://news.social-protocols.org/stats?id=41295206) #26 5 points 2 comments -> [2024 Olympics game U.S. medals by colleges](https://www.chart2char.com/expo/post/?channelHandle=sportsmeter&post=2024%20Olympic%20Game%20U.S.%20Medalists)<!-- HN:41295206:end --><!-- HN:41296366:start -->
+* [41296366](https://news.social-protocols.org/stats?id=41296366) #6 10 points 10 comments -> [Show HN: I Made an AI Song Generator](https://song.do)<!-- HN:41296366:end -->
