@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 13, 2024**
-<!-- HN:41188496:start -->
-* [41188496](https://news.social-protocols.org/stats?id=41188496) #14 5 points 1 comments -> [Just Say It, Henry](https://www.lrb.co.uk/the-paper/v46/n16/colin-burrow/just-say-it-henry)<!-- HN:41188496:end --><!-- HN:41182895:start -->
-* [41182895](https://news.social-protocols.org/stats?id=41182895) #27 136 points 125 comments -> [Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?](https://www.smithsonianmag.com/history/poetry-was-an-official-olympic-event-for-nearly-40-years-what-happened-180984838/)<!-- HN:41182895:end --><!-- HN:41232054:start -->
-* [41232054](https://news.social-protocols.org/stats?id=41232054) #26 8 points 0 comments -> [Auto-Generated Transcript of Musk-Trump Twitter Space](https://gist.githubusercontent.com/bubbaprog/1eb29610374ff9f458a37a648a4004e1/raw/212ad823d62f7c2948749b976f7a0fa7cda046d9/gistfile1.txt)<!-- HN:41232054:end --><!-- HN:41232133:start -->
-* [41232133](https://news.social-protocols.org/stats?id=41232133) #10 11 points 4 comments -> [Texas builds clean power – but it isn't a climate champion](https://ketanjoshi.co/2024/08/12/texas-builds-clean-power-but-it-isnt-a-climate-champion/)<!-- HN:41232133:end --><!-- HN:41232317:start -->
-* [41232317](https://news.social-protocols.org/stats?id=41232317) #11 6 points 2 comments -> [Show HN: I manually curated 130 modern AI Agents and platforms](https://aiagentsdirectory.com/)<!-- HN:41232317:end --><!-- HN:41234180:start -->
-* [41234180](https://news.social-protocols.org/stats?id=41234180) #24 37 points 41 comments -> [Core Python developer suspended for three months](https://www.theregister.com/2024/08/09/core_python_developer_suspended_coc/)<!-- HN:41234180:end --><!-- HN:41228579:start -->
-* [41228579](https://news.social-protocols.org/stats?id=41228579) #30 71 points 10 comments -> [TP-Link GPL Code Center](https://www.tp-link.com/us/support/gpl-code/)<!-- HN:41228579:end --><!-- HN:41231731:start -->
-* [41231731](https://news.social-protocols.org/stats?id=41231731) #22 310 points 252 comments -> [Brands should avoid the term 'AI'. It's turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)<!-- HN:41231731:end --><!-- HN:41234382:start -->
-* [41234382](https://news.social-protocols.org/stats?id=41234382) #19 5 points 0 comments -> [Rethinking the Nature of Light](https://chatgpt.com/share/9296f553-d36d-4c02-b73d-31b1058afe60)<!-- HN:41234382:end --><!-- HN:41231145:start -->
-* [41231145](https://news.social-protocols.org/stats?id=41231145) #17 201 points 44 comments -> [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)<!-- HN:41231145:end --><!-- HN:41236649:start -->
-* [41236649](https://news.social-protocols.org/stats?id=41236649) #28 15 points 0 comments -> [WHO to scrap weak PFAS drinking water guidelines after alleged corruption](https://www.theguardian.com/us-news/article/2024/aug/13/world-health-organization-pfas-drinking-water-health-guidelines)<!-- HN:41236649:end --><!-- HN:41212380:start -->
-* [41212380](https://news.social-protocols.org/stats?id=41212380) #24 17 points 3 comments -> [Go structs are copied on assignment](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)<!-- HN:41212380:end -->
 #### **Wednesday, August 14, 2024**
 <!-- HN:41242280:start -->
 * [41242280](https://news.social-protocols.org/stats?id=41242280) #9 18 points 9 comments -> [Japan's Leader, Fumio Kishida, Will Step Down](https://www.nytimes.com/2024/08/13/world/asia/fumio-kishida-japan-prime-minister.html)<!-- HN:41242280:end --><!-- HN:41220532:start -->
