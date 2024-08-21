@@ -182,4 +182,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41301612](https://news.social-protocols.org/stats?id=41301612) #26 30 points 19 comments -> [The AI photo editing era is here, and it's every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)<!-- HN:41301612:end -->
 #### **Wednesday, August 21, 2024**
 <!-- HN:41305166:start -->
-* [41305166](https://news.social-protocols.org/stats?id=41305166) #3 9 points 4 comments -> [Uncensored AI: a fine tune of Llama 405B – no more PC nonsense](https://www.aiuncensored.info/uncensored)<!-- HN:41305166:end -->
+* [41305166](https://news.social-protocols.org/stats?id=41305166) #3 9 points 4 comments -> [Uncensored AI: a fine tune of Llama 405B – no more PC nonsense](https://www.aiuncensored.info/uncensored)<!-- HN:41305166:end --><!-- HN:41305936:start -->
+* [41305936](https://news.social-protocols.org/stats?id=41305936) #4 6 points 2 comments -> [High school shuts down its library because of book-banning state law](https://www.lgbtqnation.com/2024/08/high-school-shuts-down-its-library-because-of-book-banning-state-law/)<!-- HN:41305936:end -->
