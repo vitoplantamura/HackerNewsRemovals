@@ -180,3 +180,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41301858](https://news.social-protocols.org/stats?id=41301858) #21 7 points 2 comments -> [Harris has the right idea on housing](https://www.noahpinion.blog/p/harris-has-the-right-idea-on-housing)<!-- HN:41301858:end --><!-- HN:41302140:start -->
 * [41302140](https://news.social-protocols.org/stats?id=41302140) #25 3 points 0 comments -> [Republicans ask Supreme Court to block 40k Arizonans from voting in November](https://www.yahoo.com/news/republicans-ask-supreme-court-block-100050322.html)<!-- HN:41302140:end --><!-- HN:41301612:start -->
 * [41301612](https://news.social-protocols.org/stats?id=41301612) #26 30 points 19 comments -> [The AI photo editing era is here, and it's every person for themselves](https://www.theverge.com/2024/8/19/24221884/google-photos-magic-editor-ai-reimagine)<!-- HN:41301612:end -->
+#### **Wednesday, August 21, 2024**
+<!-- HN:41305166:start -->
+* [41305166](https://news.social-protocols.org/stats?id=41305166) #3 9 points 4 comments -> [Uncensored AI: a fine tune of Llama 405B – no more PC nonsense](https://www.aiuncensored.info/uncensored)<!-- HN:41305166:end -->
