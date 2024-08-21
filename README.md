@@ -183,4 +183,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, August 21, 2024**
 <!-- HN:41305166:start -->
 * [41305166](https://news.social-protocols.org/stats?id=41305166) #3 9 points 4 comments -> [Uncensored AI: a fine tune of Llama 405B – no more PC nonsense](https://www.aiuncensored.info/uncensored)<!-- HN:41305166:end --><!-- HN:41305936:start -->
-* [41305936](https://news.social-protocols.org/stats?id=41305936) #4 6 points 2 comments -> [High school shuts down its library because of book-banning state law](https://www.lgbtqnation.com/2024/08/high-school-shuts-down-its-library-because-of-book-banning-state-law/)<!-- HN:41305936:end -->
+* [41305936](https://news.social-protocols.org/stats?id=41305936) #4 6 points 2 comments -> [High school shuts down its library because of book-banning state law](https://www.lgbtqnation.com/2024/08/high-school-shuts-down-its-library-because-of-book-banning-state-law/)<!-- HN:41305936:end --><!-- HN:41256266:start -->
+* [41256266](https://news.social-protocols.org/stats?id=41256266) #4 24 points 3 comments -> [3D Cellular Automata](https://williamyang98.github.io/3D-Cellular-Automata/)<!-- HN:41256266:end -->
