@@ -159,8 +159,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41313619](https://news.social-protocols.org/stats?id=41313619) #25 5 points 4 comments -> [.less: Crafting .less Docker Containers That Will Blow Your Mind](https://pointlesscode.dev/)<!-- HN:41313619:end --><!-- HN:41314453:start -->
 * [41314453](https://news.social-protocols.org/stats?id=41314453) #20 22 points 41 comments -> [New anti-speeding system coming to Australia is dangerous](https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous)<!-- HN:41314453:end -->
 #### **Thursday, August 22, 2024**
-<!-- HN:41316067:start -->
-* [41316067](https://news.social-protocols.org/stats?id=41316067) #27 20 points 5 comments -> [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)<!-- HN:41316067:end --><!-- HN:41267412:start -->
+<!-- HN:41267412:start -->
 * [41267412](https://news.social-protocols.org/stats?id=41267412) #2 85 points 30 comments -> [Py5, a Python version of Processing for your creative coding projects](http://py5coding.org/index.html)<!-- HN:41267412:end --><!-- HN:41271783:start -->
 * [41271783](https://news.social-protocols.org/stats?id=41271783) #3 35 points 12 comments -> [Ren'Py](https://github.com/renpy/renpy)<!-- HN:41271783:end --><!-- HN:41263876:start -->
 * [41263876](https://news.social-protocols.org/stats?id=41263876) #7 154 points 28 comments -> [Better Living Through Algorithms (2023)](https://clarkesworldmagazine.com/kritzer_05_23/)<!-- HN:41263876:end --><!-- HN:41268126:start -->
