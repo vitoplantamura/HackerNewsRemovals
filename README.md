@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41311461](https://news.social-protocols.org/stats?id=41311461) #29 53 points 14 comments -> [Russia: Citizens must turn off home surveillance because Ukrainians are coming](https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/)<!-- HN:41311461:end --><!-- HN:41313619:start -->
 * [41313619](https://news.social-protocols.org/stats?id=41313619) #25 5 points 4 comments -> [.less: Crafting .less Docker Containers That Will Blow Your Mind](https://pointlesscode.dev/)<!-- HN:41313619:end --><!-- HN:41314453:start -->
 * [41314453](https://news.social-protocols.org/stats?id=41314453) #20 22 points 41 comments -> [New anti-speeding system coming to Australia is dangerous](https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous)<!-- HN:41314453:end -->
+#### **Thursday, August 22, 2024**
+<!-- HN:41316067:start -->
+* [41316067](https://news.social-protocols.org/stats?id=41316067) #27 20 points 5 comments -> [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)<!-- HN:41316067:end -->
