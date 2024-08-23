@@ -188,3 +188,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41323925](https://news.social-protocols.org/stats?id=41323925) #25 7 points 0 comments -> [Problem with Rescuing Stranded Astronauts: Spacesuits Aren't Compatible](https://futurism.com/stranded-astronauts-spacex-boeing-spacesuits-incompatible)<!-- HN:41323925:end --><!-- HN:41324271:start -->
 * [41324271](https://news.social-protocols.org/stats?id=41324271) #30 3 points 0 comments -> [More than 8 in 10 recruiters say they post 'Ghost jobs'](https://fortune.com/2024/08/19/recruiters-posting-ghost-jobs-problem-job-seekers/)<!-- HN:41324271:end --><!-- HN:41325199:start -->
 * [41325199](https://news.social-protocols.org/stats?id=41325199) #30 5 points 0 comments -> [Starlink Now Being Deployed on U.S. Navy Warships](https://www.twz.com/sea/starlink-now-being-deployed-on-u-s-navy-warships)<!-- HN:41325199:end -->
+#### **Friday, August 23, 2024**
+<!-- HN:41322392:start -->
+* [41322392](https://news.social-protocols.org/stats?id=41322392) #27 7 points 2 comments -> [Tornado (2021)](https://fiftytwo.in/story/tornado/)<!-- HN:41322392:end -->
