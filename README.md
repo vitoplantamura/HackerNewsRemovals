@@ -145,8 +145,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41324271](https://news.social-protocols.org/stats?id=41324271) #30 3 points 0 comments -> [More than 8 in 10 recruiters say they post 'Ghost jobs'](https://fortune.com/2024/08/19/recruiters-posting-ghost-jobs-problem-job-seekers/)<!-- HN:41324271:end --><!-- HN:41325199:start -->
 * [41325199](https://news.social-protocols.org/stats?id=41325199) #30 5 points 0 comments -> [Starlink Now Being Deployed on U.S. Navy Warships](https://www.twz.com/sea/starlink-now-being-deployed-on-u-s-navy-warships)<!-- HN:41325199:end -->
 #### **Friday, August 23, 2024**
-<!-- HN:41322392:start -->
-* [41322392](https://news.social-protocols.org/stats?id=41322392) #27 7 points 2 comments -> [Tornado (2021)](https://fiftytwo.in/story/tornado/)<!-- HN:41322392:end --><!-- HN:41282181:start -->
+<!-- HN:41282181:start -->
 * [41282181](https://news.social-protocols.org/stats?id=41282181) #3 280 points 60 comments -> [Notris: A Tetris clone for the PlayStation 1](https://github.com/jbreckmckye/notris)<!-- HN:41282181:end --><!-- HN:41276809:start -->
 * [41276809](https://news.social-protocols.org/stats?id=41276809) #7 80 points 35 comments -> [Batteryless OP-1](https://shred.zone/cilla/page/503/batteryless-op-1.html)<!-- HN:41276809:end --><!-- HN:41282419:start -->
 * [41282419](https://news.social-protocols.org/stats?id=41282419) #13 12 points 2 comments -> [Rare yet Impactful – Orthographic Projection in Films and Animations](https://www.cined.com/rare-yet-impactful-orthographic-projection-in-films-and-animations/)<!-- HN:41282419:end --><!-- HN:41326244:start -->
