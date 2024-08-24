@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 17, 2024**
-<!-- HN:41271223:start -->
-* [41271223](https://news.social-protocols.org/stats?id=41271223) #4 6 points 0 comments -> [Flux better than Stable Diffusion](https://github.com/black-forest-labs/flux)<!-- HN:41271223:end --><!-- HN:41270277:start -->
-* [41270277](https://news.social-protocols.org/stats?id=41270277) #27 4 points 0 comments -> [Should I Close Source My Company? Replying to Supabase](https://orth.uk/close-source/)<!-- HN:41270277:end --><!-- HN:41270245:start -->
-* [41270245](https://news.social-protocols.org/stats?id=41270245) #27 6 points 1 comments -> [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)<!-- HN:41270245:end --><!-- HN:41271458:start -->
-* [41271458](https://news.social-protocols.org/stats?id=41271458) #12 11 points 2 comments -> [Show HN: an AI copilot for Next.js developers](https://useglass.ai)<!-- HN:41271458:end --><!-- HN:41237811:start -->
-* [41237811](https://news.social-protocols.org/stats?id=41237811) #29 20 points 30 comments -> [Do Art Scenes Lead to Gentrification? (2018)](https://www.bloomberg.com/news/articles/2018-03-22/artists-aren-t-to-blame-for-gentrification-after-all)<!-- HN:41237811:end --><!-- HN:41247322:start -->
-* [41247322](https://news.social-protocols.org/stats?id=41247322) #7 9 points 0 comments -> [The use of mare's milk for yogurt ice cream and synbiotic ice cream production](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304692)<!-- HN:41247322:end --><!-- HN:41273148:start -->
-* [41273148](https://news.social-protocols.org/stats?id=41273148) #13 37 points 12 comments -> [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)<!-- HN:41273148:end --><!-- HN:41274098:start -->
-* [41274098](https://news.social-protocols.org/stats?id=41274098) #23 17 points 8 comments -> [You Can Gaslight Yourself into Loving Someone](https://gist.github.com/Wilsontomass/de0d9b4d331eda0880c601c8890c1143)<!-- HN:41274098:end --><!-- HN:41276494:start -->
-* [41276494](https://news.social-protocols.org/stats?id=41276494) #30 4 points 0 comments -> [Germany records 1.4 GW of new solar in July](https://www.pv-magazine.com/2024/08/16/germany-records-1-4-gw-of-new-solar-in-july/)<!-- HN:41276494:end --><!-- HN:41275695:start -->
-* [41275695](https://news.social-protocols.org/stats?id=41275695) #30 37 points 40 comments -> [AI stole my job and my work, and the boss didn't know – or care](https://www.theregister.com/2024/08/15/robot_took_my_job/)<!-- HN:41275695:end --><!-- HN:41275114:start -->
-* [41275114](https://news.social-protocols.org/stats?id=41275114) #20 40 points 6 comments -> [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)<!-- HN:41275114:end --><!-- HN:41275766:start -->
-* [41275766](https://news.social-protocols.org/stats?id=41275766) #22 25 points 13 comments -> [The Living Computer Museum auction listing](https://onlineonly.christies.com/s/firsts-history-computing-paul-g-allen-collection/lots/3726)<!-- HN:41275766:end --><!-- HN:41277040:start -->
-* [41277040](https://news.social-protocols.org/stats?id=41277040) #9 35 points 9 comments -> [Sergey Brin: "Irate Call from Steve Jobs" (2005)](https://twitter.com/TechEmails/status/1610099684345024512)<!-- HN:41277040:end --><!-- HN:41277058:start -->
-* [41277058](https://news.social-protocols.org/stats?id=41277058) #10 90 points 37 comments -> [Releasing everyone's SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)<!-- HN:41277058:end --><!-- HN:41277593:start -->
-* [41277593](https://news.social-protocols.org/stats?id=41277593) #5 51 points 19 comments -> [AI Seinfeld was the peak of AI-generated content. It will never happen again](https://minimaxir.com/2024/08/ai-seinfeld/)<!-- HN:41277593:end --><!-- HN:41278226:start -->
-* [41278226](https://news.social-protocols.org/stats?id=41278226) #4 7 points 0 comments -> [Eric Schmidt's AI prophecy: The next two years will shock you](https://www.exponentialview.co/p/eric-schmidts-ai-prophecy)<!-- HN:41278226:end -->
 #### **Sunday, August 18, 2024**
 <!-- HN:41261481:start -->
 * [41261481](https://news.social-protocols.org/stats?id=41261481) #17 18 points 5 comments -> [Symmetric Power Transformers](https://manifestai.com/articles/symmetric-power-transformers/)<!-- HN:41261481:end --><!-- HN:41281259:start -->
