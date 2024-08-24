@@ -159,3 +159,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41332273](https://news.social-protocols.org/stats?id=41332273) #22 4 points 0 comments -> [Kansas judge dismisses machine gun case after SCOTUS gun rights ruling](https://www.cjonline.com/story/news/politics/courts/2024/08/22/kansas-judge-dismisses-machine-gun-case-after-scotus-gun-rights-ruling/74903536007/)<!-- HN:41332273:end --><!-- HN:41333347:start -->
 * [41333347](https://news.social-protocols.org/stats?id=41333347) #1 -> [Israeli society's dehumanization of Palestinians is now absolute](https://www.972mag.com/dehumanization-moral-abyss-israelis/)<!-- HN:41333347:end --><!-- HN:41332605:start -->
 * [41332605](https://news.social-protocols.org/stats?id=41332605) #14 16 points 5 comments -> [The AI Arms Race Isn't Inevitable](https://www.palladiummag.com/2024/08/23/the-ai-arms-race-isnt-inevitable/)<!-- HN:41332605:end -->
+#### **Saturday, August 24, 2024**
+<!-- HN:41334954:start -->
+* [41334954](https://news.social-protocols.org/stats?id=41334954) #29 8 points 2 comments -> [MIT's first freshman class since affirmative-action ban is less diverse](https://www.bbc.com/news/articles/c8rxvd2z6ldo)<!-- HN:41334954:end -->
