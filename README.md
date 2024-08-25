@@ -174,3 +174,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41341508](https://news.social-protocols.org/stats?id=41341508) #30 5 points 0 comments -> [CEO of Telegram, Pavel Durov, Arrested](https://twitter.com/xakpc/status/1827446852121231700)<!-- HN:41341508:end --><!-- HN:41306555:start -->
 * [41306555](https://news.social-protocols.org/stats?id=41306555) #27 5 points 2 comments -> [Exploring Impact of Code in Pre-Training](https://arxiv.org/abs/2408.10914)<!-- HN:41306555:end --><!-- HN:41341427:start -->
 * [41341427](https://news.social-protocols.org/stats?id=41341427) #23 55 points 2 comments -> [Founder and CEO of Telegram Pavel Durov Arrested in France at the Airport](https://twitter.com/igorsushko/status/1827448480693948673)<!-- HN:41341427:end -->
+#### **Sunday, August 25, 2024**
+<!-- HN:41339885:start -->
+* [41339885](https://news.social-protocols.org/stats?id=41339885) #21 192 points 2 comments -> [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)<!-- HN:41339885:end -->
