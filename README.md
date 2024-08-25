@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41341427](https://news.social-protocols.org/stats?id=41341427) #23 55 points 2 comments -> [Founder and CEO of Telegram Pavel Durov Arrested in France at the Airport](https://twitter.com/igorsushko/status/1827448480693948673)<!-- HN:41341427:end -->
 #### **Sunday, August 25, 2024**
 <!-- HN:41339885:start -->
-* [41339885](https://news.social-protocols.org/stats?id=41339885) #21 192 points 2 comments -> [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)<!-- HN:41339885:end -->
+* [41339885](https://news.social-protocols.org/stats?id=41339885) #21 192 points 2 comments -> [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)<!-- HN:41339885:end --><!-- HN:41343308:start -->
+* [41343308](https://news.social-protocols.org/stats?id=41343308) #4 10 points 3 comments -> [Le fondateur et PDG de la messagerie Telegram interpellé en France](https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html)<!-- HN:41343308:end -->
