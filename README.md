@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41351844](https://news.social-protocols.org/stats?id=41351844) #26 35 points 28 comments -> [San Francisco officials weigh in on departure of X headquarters: 'Good riddance'](https://nypost.com/2024/08/25/us-news/san-francisco-officials-weigh-in-on-departure-of-musks-x-good-riddance/)<!-- HN:41351844:end -->
 #### **Monday, August 26, 2024**
 <!-- HN:41353390:start -->
-* [41353390](https://news.social-protocols.org/stats?id=41353390) #17 9 points 3 comments -> [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)<!-- HN:41353390:end -->
+* [41353390](https://news.social-protocols.org/stats?id=41353390) #17 9 points 3 comments -> [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)<!-- HN:41353390:end --><!-- HN:41354083:start -->
+* [41354083](https://news.social-protocols.org/stats?id=41354083) #13 10 points 4 comments -> [Sam Altman doesn't care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)<!-- HN:41354083:end -->
