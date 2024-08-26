@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41324086](https://news.social-protocols.org/stats?id=41324086) #14 7 points 1 comments -> [Lessons in Mannerism at the Palazzo Del Te](https://daily.jstor.org/lessons-in-mannerism-at-the-palazzo-del-te/)<!-- HN:41324086:end --><!-- HN:41350992:start -->
 * [41350992](https://news.social-protocols.org/stats?id=41350992) #12 5 points 1 comments -> [Fermi Resonance and the Quantum Mechanical Basis of Global Warming](https://iopscience.iop.org/article/10.3847/PSJ/ad226d)<!-- HN:41350992:end --><!-- HN:41351844:start -->
 * [41351844](https://news.social-protocols.org/stats?id=41351844) #26 35 points 28 comments -> [San Francisco officials weigh in on departure of X headquarters: 'Good riddance'](https://nypost.com/2024/08/25/us-news/san-francisco-officials-weigh-in-on-departure-of-musks-x-good-riddance/)<!-- HN:41351844:end -->
+#### **Monday, August 26, 2024**
+<!-- HN:41353390:start -->
+* [41353390](https://news.social-protocols.org/stats?id=41353390) #17 9 points 3 comments -> [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)<!-- HN:41353390:end -->
