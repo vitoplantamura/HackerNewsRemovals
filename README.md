@@ -147,4 +147,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 26, 2024**
 <!-- HN:41353390:start -->
 * [41353390](https://news.social-protocols.org/stats?id=41353390) #17 9 points 3 comments -> [Yes, Crypto Is All a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)<!-- HN:41353390:end --><!-- HN:41354083:start -->
-* [41354083](https://news.social-protocols.org/stats?id=41354083) #8 13 points 6 comments -> [Sam Altman doesn't care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)<!-- HN:41354083:end -->
+* [41354083](https://news.social-protocols.org/stats?id=41354083) #8 13 points 6 comments -> [Sam Altman doesn't care about you](https://disconnect.blog/sam-altman-doesnt-care-about-you/)<!-- HN:41354083:end --><!-- HN:41353155:start -->
+* [41353155](https://news.social-protocols.org/stats?id=41353155) #9 133 points 56 comments -> [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)<!-- HN:41353155:end --><!-- HN:41354830:start -->
+* [41354830](https://news.social-protocols.org/stats?id=41354830) #11 11 points 5 comments -> [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)<!-- HN:41354830:end -->
