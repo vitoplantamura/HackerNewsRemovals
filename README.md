@@ -163,4 +163,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 27, 2024**
 <!-- HN:41347119:start -->
 * [41347119](https://news.social-protocols.org/stats?id=41347119) #24 33 points 40 comments -> [What it's like to work on cold cases](https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html)<!-- HN:41347119:end --><!-- HN:41364114:start -->
-* [41364114](https://news.social-protocols.org/stats?id=41364114) #3 9 points 8 comments -> [Show HN: I built a site that tracks short-lived flight deals](https://flight-price-alert.com/)<!-- HN:41364114:end -->
+* [41364114](https://news.social-protocols.org/stats?id=41364114) #3 9 points 8 comments -> [Show HN: I built a site that tracks short-lived flight deals](https://flight-price-alert.com/)<!-- HN:41364114:end --><!-- HN:41310822:start -->
+* [41310822](https://news.social-protocols.org/stats?id=41310822) #23 62 points 11 comments -> [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)<!-- HN:41310822:end -->
