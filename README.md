@@ -181,4 +181,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41362854](https://news.social-protocols.org/stats?id=41362854) #23 3 points 0 comments -> [Surprise Hardware Bug in RP2350 Leads to Unexpected Pulldown Behavior](https://www.hackster.io/news/a-surprise-hardware-bug-in-raspberry-pi-s-rp2350-leads-to-unexpected-pull-down-behavior-76b51ec22ede)<!-- HN:41362854:end -->
 #### **Tuesday, August 27, 2024**
 <!-- HN:41347119:start -->
-* [41347119](https://news.social-protocols.org/stats?id=41347119) #24 33 points 40 comments -> [What it's like to work on cold cases](https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html)<!-- HN:41347119:end -->
+* [41347119](https://news.social-protocols.org/stats?id=41347119) #24 33 points 40 comments -> [What it's like to work on cold cases](https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html)<!-- HN:41347119:end --><!-- HN:41363449:start -->
+* [41363449](https://news.social-protocols.org/stats?id=41363449) #29 12 points 2 comments -> [Mark Zuckerberg Says White House Was 'Wrong' to Pressure Facebook on Covid](https://www.wsj.com/tech/mark-zuckerberg-neutral-politics-letter-election-2024-02b86372)<!-- HN:41363449:end -->
