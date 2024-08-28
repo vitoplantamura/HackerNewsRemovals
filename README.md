@@ -165,4 +165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41374219](https://news.social-protocols.org/stats?id=41374219) #4 7 points 2 comments -> [Is iMessage really an encrypted messaging app? (2021)](https://warnerchad.medium.com/is-apple-imessage-end-to-end-encrypted-it-depends-8bcdcbd8c89b)<!-- HN:41374219:end -->
 #### **Wednesday, August 28, 2024**
 <!-- HN:41374276:start -->
-* [41374276](https://news.social-protocols.org/stats?id=41374276) #27 34 points 40 comments -> [After a decade of free Alexa, Amazon now wants you to pay](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/)<!-- HN:41374276:end -->
+* [41374276](https://news.social-protocols.org/stats?id=41374276) #27 34 points 40 comments -> [After a decade of free Alexa, Amazon now wants you to pay](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/)<!-- HN:41374276:end --><!-- HN:41375219:start -->
+* [41375219](https://news.social-protocols.org/stats?id=41375219) #6 8 points 9 comments -> [Obsolete Command-Line Tools of Linux](https://linuxexpert.org/obsolete-command-line-tools-of-linux/)<!-- HN:41375219:end -->
