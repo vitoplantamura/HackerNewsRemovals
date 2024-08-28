@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, August 21, 2024**
-<!-- HN:41305166:start -->
-* [41305166](https://news.social-protocols.org/stats?id=41305166) #3 9 points 4 comments -> [Uncensored AI: a fine tune of Llama 405B – no more PC nonsense](https://www.aiuncensored.info/uncensored)<!-- HN:41305166:end --><!-- HN:41305936:start -->
-* [41305936](https://news.social-protocols.org/stats?id=41305936) #4 6 points 2 comments -> [High school shuts down its library because of book-banning state law](https://www.lgbtqnation.com/2024/08/high-school-shuts-down-its-library-because-of-book-banning-state-law/)<!-- HN:41305936:end --><!-- HN:41256266:start -->
-* [41256266](https://news.social-protocols.org/stats?id=41256266) #4 24 points 3 comments -> [3D Cellular Automata](https://williamyang98.github.io/3D-Cellular-Automata/)<!-- HN:41256266:end --><!-- HN:41306664:start -->
-* [41306664](https://news.social-protocols.org/stats?id=41306664) #26 10 points 2 comments -> [The Decay of Boeing](https://brief.bismarckanalysis.com/p/the-decay-of-boeing)<!-- HN:41306664:end --><!-- HN:41306978:start -->
-* [41306978](https://news.social-protocols.org/stats?id=41306978) #21 45 points 40 comments -> [Sonos CEO says the old app can't be rereleased](https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be)<!-- HN:41306978:end --><!-- HN:41309022:start -->
-* [41309022](https://news.social-protocols.org/stats?id=41309022) #17 4 points 0 comments -> [Worse Is Better](https://en.wikipedia.org/wiki/Worse_is_better)<!-- HN:41309022:end --><!-- HN:41306332:start -->
-* [41306332](https://news.social-protocols.org/stats?id=41306332) #18 35 points 10 comments -> [How I started blogging (2024)](https://roarepally.com/blog/why-I-blog)<!-- HN:41306332:end --><!-- HN:41311553:start -->
-* [41311553](https://news.social-protocols.org/stats?id=41311553) #4 11 points 6 comments -> [MIT undergraduate admissions in the wake of the 2023 Supreme Court ruling](https://news.mit.edu/2024/qa-undergraduate-admissions-in-wake-of-supreme-court-ruling-0821)<!-- HN:41311553:end --><!-- HN:41308038:start -->
-* [41308038](https://news.social-protocols.org/stats?id=41308038) #20 56 points 40 comments -> [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)<!-- HN:41308038:end --><!-- HN:41311461:start -->
-* [41311461](https://news.social-protocols.org/stats?id=41311461) #29 53 points 14 comments -> [Russia: Citizens must turn off home surveillance because Ukrainians are coming](https://www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/)<!-- HN:41311461:end --><!-- HN:41313619:start -->
-* [41313619](https://news.social-protocols.org/stats?id=41313619) #25 5 points 4 comments -> [.less: Crafting .less Docker Containers That Will Blow Your Mind](https://pointlesscode.dev/)<!-- HN:41313619:end --><!-- HN:41314453:start -->
-* [41314453](https://news.social-protocols.org/stats?id=41314453) #20 22 points 41 comments -> [New anti-speeding system coming to Australia is dangerous](https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous)<!-- HN:41314453:end -->
 #### **Thursday, August 22, 2024**
 <!-- HN:41267412:start -->
 * [41267412](https://news.social-protocols.org/stats?id=41267412) #2 85 points 30 comments -> [Py5, a Python version of Processing for your creative coding projects](http://py5coding.org/index.html)<!-- HN:41267412:end --><!-- HN:41271783:start -->
