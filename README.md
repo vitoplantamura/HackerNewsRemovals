@@ -147,8 +147,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41337941](https://news.social-protocols.org/stats?id=41337941) #27 13 points 2 comments -> [PHP-Parser: A Native PHP Parser for Parsing and Analyzing PHP Code](https://github.com/nikic/PHP-Parser)<!-- HN:41337941:end --><!-- HN:41362854:start -->
 * [41362854](https://news.social-protocols.org/stats?id=41362854) #23 3 points 0 comments -> [Surprise Hardware Bug in RP2350 Leads to Unexpected Pulldown Behavior](https://www.hackster.io/news/a-surprise-hardware-bug-in-raspberry-pi-s-rp2350-leads-to-unexpected-pull-down-behavior-76b51ec22ede)<!-- HN:41362854:end -->
 #### **Tuesday, August 27, 2024**
-<!-- HN:41347119:start -->
-* [41347119](https://news.social-protocols.org/stats?id=41347119) #24 33 points 40 comments -> [What it's like to work on cold cases](https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html)<!-- HN:41347119:end --><!-- HN:41364114:start -->
+<!-- HN:41364114:start -->
 * [41364114](https://news.social-protocols.org/stats?id=41364114) #3 9 points 8 comments -> [Show HN: I built a site that tracks short-lived flight deals](https://flight-price-alert.com/)<!-- HN:41364114:end --><!-- HN:41310822:start -->
 * [41310822](https://news.social-protocols.org/stats?id=41310822) #23 62 points 11 comments -> [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)<!-- HN:41310822:end --><!-- HN:41363637:start -->
 * [41363637](https://news.social-protocols.org/stats?id=41363637) #22 25 points 17 comments -> [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)<!-- HN:41363637:end --><!-- HN:41364764:start -->
