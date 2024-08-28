@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41374276:start -->
 * [41374276](https://news.social-protocols.org/stats?id=41374276) #27 34 points 40 comments -> [After a decade of free Alexa, Amazon now wants you to pay](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/)<!-- HN:41374276:end --><!-- HN:41375219:start -->
 * [41375219](https://news.social-protocols.org/stats?id=41375219) #6 8 points 9 comments -> [Obsolete Command-Line Tools of Linux](https://linuxexpert.org/obsolete-command-line-tools-of-linux/)<!-- HN:41375219:end --><!-- HN:41326461:start -->
-* [41326461](https://news.social-protocols.org/stats?id=41326461) #16 26 points 3 comments -> [Slime mold simulation in Rust using WASM and WebGPU](https://github.com/plul/slime-mold-simulation)<!-- HN:41326461:end -->
+* [41326461](https://news.social-protocols.org/stats?id=41326461) #16 26 points 3 comments -> [Slime mold simulation in Rust using WASM and WebGPU](https://github.com/plul/slime-mold-simulation)<!-- HN:41326461:end --><!-- HN:41376990:start -->
+* [41376990](https://news.social-protocols.org/stats?id=41376990) #21 8 points 3 comments -> [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<!-- HN:41376990:end -->
