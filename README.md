@@ -149,3 +149,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41381994](https://news.social-protocols.org/stats?id=41381994) #1 32 points 9 comments -> [UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest](https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/)<!-- HN:41381994:end --><!-- HN:41383244:start -->
 * [41383244](https://news.social-protocols.org/stats?id=41383244) #16 28 points 40 comments -> [I Hate the Term "Modern"](https://www.paritybit.ca/blog/why-i-hate-the-term-modern/)<!-- HN:41383244:end --><!-- HN:41385154:start -->
 * [41385154](https://news.social-protocols.org/stats?id=41385154) #13 8 points 0 comments -> [Silicon Valley's Online Ideologues Are in Model Collapse](https://www.reimaginingliberty.com/silicon-valleys-very-online-ideologues-are-in-model-collapse/)<!-- HN:41385154:end -->
+#### **Thursday, August 29, 2024**
+<!-- HN:41385637:start -->
+* [41385637](https://news.social-protocols.org/stats?id=41385637) #1 116 points 3 comments -> [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)<!-- HN:41385637:end -->
