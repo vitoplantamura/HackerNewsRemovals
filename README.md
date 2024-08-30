@@ -150,4 +150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 30, 2024**
 <!-- HN:41349554:start -->
 * [41349554](https://news.social-protocols.org/stats?id=41349554) #12 43 points 4 comments -> [Build an Infinite Canvas](https://infinitecanvas.cc/)<!-- HN:41349554:end --><!-- HN:41348869:start -->
-* [41348869](https://news.social-protocols.org/stats?id=41348869) #19 5 points 0 comments -> [Colorful Ribbon Diagrams Became the Face of Proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)<!-- HN:41348869:end -->
+* [41348869](https://news.social-protocols.org/stats?id=41348869) #19 5 points 0 comments -> [Colorful Ribbon Diagrams Became the Face of Proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)<!-- HN:41348869:end --><!-- HN:41398480:start -->
+* [41398480](https://news.social-protocols.org/stats?id=41398480) #6 5 points 1 comments -> [Grandma trapped in elevator for six days survived by rationing groceries](https://www.guinnessworldrecords.com/news/2024/1/grandma-trapped-in-elevator-for-six-days-survived-by-rationing-groceries-763381)<!-- HN:41398480:end -->
