@@ -147,3 +147,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41393462](https://news.social-protocols.org/stats?id=41393462) #22 22 points 6 comments -> [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)<!-- HN:41393462:end --><!-- HN:41344245:start -->
 * [41344245](https://news.social-protocols.org/stats?id=41344245) #16 132 points 50 comments -> [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)<!-- HN:41344245:end --><!-- HN:41342078:start -->
 * [41342078](https://news.social-protocols.org/stats?id=41342078) #22 62 points 16 comments -> [Shufflecake: Plausible deniability for hidden filesystems on Linux (2023)](https://eprint.iacr.org/2023/1529)<!-- HN:41342078:end -->
+#### **Friday, August 30, 2024**
+<!-- HN:41349554:start -->
+* [41349554](https://news.social-protocols.org/stats?id=41349554) #12 43 points 4 comments -> [Build an Infinite Canvas](https://infinitecanvas.cc/)<!-- HN:41349554:end --><!-- HN:41348869:start -->
+* [41348869](https://news.social-protocols.org/stats?id=41348869) #19 5 points 0 comments -> [Colorful Ribbon Diagrams Became the Face of Proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)<!-- HN:41348869:end -->
