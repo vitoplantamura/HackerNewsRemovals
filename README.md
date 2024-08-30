@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 23, 2024**
-<!-- HN:41282181:start -->
-* [41282181](https://news.social-protocols.org/stats?id=41282181) #3 280 points 60 comments -> [Notris: A Tetris clone for the PlayStation 1](https://github.com/jbreckmckye/notris)<!-- HN:41282181:end --><!-- HN:41276809:start -->
-* [41276809](https://news.social-protocols.org/stats?id=41276809) #7 80 points 35 comments -> [Batteryless OP-1](https://shred.zone/cilla/page/503/batteryless-op-1.html)<!-- HN:41276809:end --><!-- HN:41282419:start -->
-* [41282419](https://news.social-protocols.org/stats?id=41282419) #13 12 points 2 comments -> [Rare yet Impactful – Orthographic Projection in Films and Animations](https://www.cined.com/rare-yet-impactful-orthographic-projection-in-films-and-animations/)<!-- HN:41282419:end --><!-- HN:41326244:start -->
-* [41326244](https://news.social-protocols.org/stats?id=41326244) #18 6 points 3 comments -> [ShipFast alternative, Next.js SaaS Boilerplate and Starter Kit](https://play.nextjstemplates.com/)<!-- HN:41326244:end --><!-- HN:41329283:start -->
-* [41329283](https://news.social-protocols.org/stats?id=41329283) #7 7 points 2 comments -> [Men don't hug their kids](https://papanotes.com/men-dont-hug-their-kids)<!-- HN:41329283:end --><!-- HN:41329433:start -->
-* [41329433](https://news.social-protocols.org/stats?id=41329433) #27 6 points 1 comments -> [Putin's Media Coverage Suffers in Aftermath of Ukrainian Counteroffensive](https://newsletters.filterlabs.ai/putins-media-coverage-suffers-in-aftermath-of-ukrainian-counteroffensive/)<!-- HN:41329433:end --><!-- HN:41331987:start -->
-* [41331987](https://news.social-protocols.org/stats?id=41331987) #17 22 points 42 comments -> [As cars and trucks get bigger and taller, lawmakers look to protect pedestrians](https://www.npr.org/2024/08/23/nx-s1-5084276/pedestrian-protection-bill-bigger-cars-trucks)<!-- HN:41331987:end --><!-- HN:41332192:start -->
-* [41332192](https://news.social-protocols.org/stats?id=41332192) #22 10 points 2 comments -> [Stanford Reverses Cognitive Decline in Alzheimer's with Brain Metabolism Drug](https://scitechdaily.com/stanford-reverses-cognitive-decline-in-alzheimers-with-brain-metabolism-drug/)<!-- HN:41332192:end --><!-- HN:41332576:start -->
-* [41332576](https://news.social-protocols.org/stats?id=41332576) #23 7 points 0 comments -> [AI could be a game changer for people with disabilities](https://www.technologyreview.com/2024/08/23/1096607/ai-people-with-disabilities-accessibility/)<!-- HN:41332576:end --><!-- HN:41332273:start -->
-* [41332273](https://news.social-protocols.org/stats?id=41332273) #22 4 points 0 comments -> [Kansas judge dismisses machine gun case after SCOTUS gun rights ruling](https://www.cjonline.com/story/news/politics/courts/2024/08/22/kansas-judge-dismisses-machine-gun-case-after-scotus-gun-rights-ruling/74903536007/)<!-- HN:41332273:end --><!-- HN:41333347:start -->
-* [41333347](https://news.social-protocols.org/stats?id=41333347) #1 -> [Israeli society's dehumanization of Palestinians is now absolute](https://www.972mag.com/dehumanization-moral-abyss-israelis/)<!-- HN:41333347:end --><!-- HN:41332605:start -->
-* [41332605](https://news.social-protocols.org/stats?id=41332605) #14 16 points 5 comments -> [The AI Arms Race Isn't Inevitable](https://www.palladiummag.com/2024/08/23/the-ai-arms-race-isnt-inevitable/)<!-- HN:41332605:end -->
 #### **Saturday, August 24, 2024**
 <!-- HN:41334954:start -->
 * [41334954](https://news.social-protocols.org/stats?id=41334954) #29 8 points 2 comments -> [MIT's first freshman class since affirmative-action ban is less diverse](https://www.bbc.com/news/articles/c8rxvd2z6ldo)<!-- HN:41334954:end --><!-- HN:41332338:start -->
