@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41396710](https://news.social-protocols.org/stats?id=41396710) #16 10 points 1 comments -> [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)<!-- HN:41396710:end --><!-- HN:41403466:start -->
 * [41403466](https://news.social-protocols.org/stats?id=41403466) #19 19 points 16 comments -> [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)<!-- HN:41403466:end --><!-- HN:41404897:start -->
 * [41404897](https://news.social-protocols.org/stats?id=41404897) #5 17 points 6 comments -> [John Rawls and the Death of Western Marxism](https://josephheath.substack.com/p/john-rawls-and-the-death-of-western)<!-- HN:41404897:end -->
+#### **Saturday, August 31, 2024**
+<!-- HN:41358432:start -->
+* [41358432](https://news.social-protocols.org/stats?id=41358432) #2 27 points 7 comments -> [Dinosaur Footprints on Either Side of the Atlantic Are Matching Sets](https://gizmodo.com/dinosaur-footprints-on-either-side-of-the-atlantic-are-matching-sets-2000490979)<!-- HN:41358432:end -->
