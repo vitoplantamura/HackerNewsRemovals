@@ -159,3 +159,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41377073](https://news.social-protocols.org/stats?id=41377073) #26 -> [Karpathy on Software 2.0 (2017)](https://karpathy.medium.com/software-2-0-a64152b37c35)<!-- HN:41377073:end --><!-- HN:41411504:start -->
 * [41411504](https://news.social-protocols.org/stats?id=41411504) #24 4 points 0 comments -> [Hillbilly Lament](https://andrewpwheeler.com/2024/08/26/hillbilly-lament/)<!-- HN:41411504:end --><!-- HN:41411339:start -->
 * [41411339](https://news.social-protocols.org/stats?id=41411339) #9 34 points 40 comments -> [Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)<!-- HN:41411339:end -->
+#### **Sunday, September 1, 2024**
+<!-- HN:41412129:start -->
+* [41412129](https://news.social-protocols.org/stats?id=41412129) #17 6 points 2 comments -> [California Is Now Hitting Farmers Up to $10K Fines per Day](https://franknez.com/california-is-now-hitting-farmers-up-to-10k-fines-per-day/)<!-- HN:41412129:end -->
