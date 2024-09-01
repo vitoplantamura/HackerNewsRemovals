@@ -162,4 +162,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, September 1, 2024**
 <!-- HN:41412129:start -->
 * [41412129](https://news.social-protocols.org/stats?id=41412129) #17 6 points 2 comments -> [California Is Now Hitting Farmers Up to $10K Fines per Day](https://franknez.com/california-is-now-hitting-farmers-up-to-10k-fines-per-day/)<!-- HN:41412129:end --><!-- HN:41412356:start -->
-* [41412356](https://news.social-protocols.org/stats?id=41412356) #17 7 points 3 comments -> [Why So Many People Are Going "No Contact" with Their Parents](https://www.newyorker.com/culture/annals-of-inquiry/why-so-many-people-are-going-no-contact-with-their-parents)<!-- HN:41412356:end -->
+* [41412356](https://news.social-protocols.org/stats?id=41412356) #17 7 points 3 comments -> [Why So Many People Are Going "No Contact" with Their Parents](https://www.newyorker.com/culture/annals-of-inquiry/why-so-many-people-are-going-no-contact-with-their-parents)<!-- HN:41412356:end --><!-- HN:41366614:start -->
+* [41366614](https://news.social-protocols.org/stats?id=41366614) #4 52 points 17 comments -> [My first experience with Gleam Language](https://pliutau.com/my-first-experience-with-gleam-lang/)<!-- HN:41366614:end --><!-- HN:41368657:start -->
+* [41368657](https://news.social-protocols.org/stats?id=41368657) #8 91 points 8 comments -> [Compilation of JavaScript to WASM, Part 2: Ahead-of-Time vs. JIT](https://cfallin.org/blog/2024/08/27/aot-js/)<!-- HN:41368657:end --><!-- HN:41369065:start -->
+* [41369065](https://news.social-protocols.org/stats?id=41369065) #23 139 points 37 comments -> [Building Bubbletea Programs](https://leg100.github.io/en/posts/building-bubbletea-programs/)<!-- HN:41369065:end -->
