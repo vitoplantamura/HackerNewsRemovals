@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41411339](https://news.social-protocols.org/stats?id=41411339) #9 34 points 40 comments -> [Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)<!-- HN:41411339:end -->
 #### **Sunday, September 1, 2024**
 <!-- HN:41412129:start -->
-* [41412129](https://news.social-protocols.org/stats?id=41412129) #17 6 points 2 comments -> [California Is Now Hitting Farmers Up to $10K Fines per Day](https://franknez.com/california-is-now-hitting-farmers-up-to-10k-fines-per-day/)<!-- HN:41412129:end -->
+* [41412129](https://news.social-protocols.org/stats?id=41412129) #17 6 points 2 comments -> [California Is Now Hitting Farmers Up to $10K Fines per Day](https://franknez.com/california-is-now-hitting-farmers-up-to-10k-fines-per-day/)<!-- HN:41412129:end --><!-- HN:41412356:start -->
+* [41412356](https://news.social-protocols.org/stats?id=41412356) #17 7 points 3 comments -> [Why So Many People Are Going "No Contact" with Their Parents](https://www.newyorker.com/culture/annals-of-inquiry/why-so-many-people-are-going-no-contact-with-their-parents)<!-- HN:41412356:end -->
