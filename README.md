@@ -143,5 +143,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41417657](https://news.social-protocols.org/stats?id=41417657) #11 12 points 4 comments -> [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)<!-- HN:41417657:end --><!-- HN:41418394:start -->
 * [41418394](https://news.social-protocols.org/stats?id=41418394) #6 6 points 5 comments -> [Show HN: 789-Zip – A native macOS app for 7-Zip](https://github.com/AkshayKalose/789-Zip)<!-- HN:41418394:end -->
 #### **Monday, September 2, 2024**
-<!-- HN:41422475:start -->
-* [41422475](https://news.social-protocols.org/stats?id=41422475) #21 22 points 10 comments -> [Texas Is Arming Mexico's Gunmen](https://www.texasobserver.org/texas-mexico-guns-border-crime/)<!-- HN:41422475:end -->
