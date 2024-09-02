@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41417657](https://news.social-protocols.org/stats?id=41417657) #11 12 points 4 comments -> [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)<!-- HN:41417657:end --><!-- HN:41418394:start -->
 * [41418394](https://news.social-protocols.org/stats?id=41418394) #6 6 points 5 comments -> [Show HN: 789-Zip – A native macOS app for 7-Zip](https://github.com/AkshayKalose/789-Zip)<!-- HN:41418394:end -->
 #### **Monday, September 2, 2024**<!-- HN:41396279:start -->
-* [41396279](https://news.social-protocols.org/stats?id=41396279) #14 19 points 6 comments -> [The Imperial Origins of Big Data](https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/)<!-- HN:41396279:end -->
+* [41396279](https://news.social-protocols.org/stats?id=41396279) #14 19 points 6 comments -> [The Imperial Origins of Big Data](https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/)<!-- HN:41396279:end --><!-- HN:41423518:start -->
+* [41423518](https://news.social-protocols.org/stats?id=41423518) #16 26 points 40 comments -> [Starlink Defies Order to Block X in Brazil](https://www.nytimes.com/2024/09/01/world/americas/elon-musk-brazil-starlink-x.html)<!-- HN:41423518:end -->
