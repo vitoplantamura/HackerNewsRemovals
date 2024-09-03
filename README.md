@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41426904](https://news.social-protocols.org/stats?id=41426904) #17 10 points 0 comments -> [Congress Should Make Universities Pay for Handing Out Useless Degrees](https://thefederalist.com/2024/09/02/congress-should-make-universities-pay-for-handing-out-useless-degrees/)<!-- HN:41426904:end --><!-- HN:41427392:start -->
 * [41427392](https://news.social-protocols.org/stats?id=41427392) #30 7 points 2 comments -> [When Heat Turns Deadly](https://www.abc.net.au/news/2024-09-02/deadly-heat-limits-tested-in-world-first-human-experiment/104242788)<!-- HN:41427392:end --><!-- HN:41427648:start -->
 * [41427648](https://news.social-protocols.org/stats?id=41427648) #22 10 points 11 comments -> [Ketogenic Diet Shows Promise Treating Serious Mental Illness in Stanford Study](https://www.metabolicmind.org/news/ketogenic-diet-shows-promise-in-treating-serious-mental-illness-in-stanford-medicine-study)<!-- HN:41427648:end -->
+#### **Tuesday, September 3, 2024**
+<!-- HN:41429778:start -->
+* [41429778](https://news.social-protocols.org/stats?id=41429778) #12 7 points 0 comments -> [Stelo Glucose Biosensor – No Prescription, Buy Now](https://www.stelo.com/en-us/buy-stelo-monthly-subscription)<!-- HN:41429778:end -->
