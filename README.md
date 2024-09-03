@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 3, 2024**
 <!-- HN:41429778:start -->
 * [41429778](https://news.social-protocols.org/stats?id=41429778) #12 7 points 0 comments -> [Stelo Glucose Biosensor – No Prescription, Buy Now](https://www.stelo.com/en-us/buy-stelo-monthly-subscription)<!-- HN:41429778:end --><!-- HN:41430325:start -->
-* [41430325](https://news.social-protocols.org/stats?id=41430325) #8 49 points 20 comments -> [FB partner admits phone microphones listen to people talk to serve better ads](https://inshort.geartape.com/facebook-partner-admits-smartphone-microphones-listen-to-people-talk-to-serve-better-ads/)<!-- HN:41430325:end -->
+* [41430325](https://news.social-protocols.org/stats?id=41430325) #8 49 points 20 comments -> [FB partner admits phone microphones listen to people talk to serve better ads](https://inshort.geartape.com/facebook-partner-admits-smartphone-microphones-listen-to-people-talk-to-serve-better-ads/)<!-- HN:41430325:end --><!-- HN:41431758:start -->
+* [41431758](https://news.social-protocols.org/stats?id=41431758) #11 19 points 3 comments -> [Extremist settlers rapidly seizing West Bank land](https://www.bbc.com/news/articles/c207j6wy332o)<!-- HN:41431758:end -->
