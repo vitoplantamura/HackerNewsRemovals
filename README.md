@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 27, 2024**
-<!-- HN:41364114:start -->
-* [41364114](https://news.social-protocols.org/stats?id=41364114) #3 9 points 8 comments -> [Show HN: I built a site that tracks short-lived flight deals](https://flight-price-alert.com/)<!-- HN:41364114:end --><!-- HN:41310822:start -->
-* [41310822](https://news.social-protocols.org/stats?id=41310822) #23 62 points 11 comments -> [Compressing data with sample points and polynomial interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)<!-- HN:41310822:end --><!-- HN:41363637:start -->
-* [41363637](https://news.social-protocols.org/stats?id=41363637) #22 25 points 17 comments -> [From 14 years old till 29, my experience with desktop Linux](https://blog.myli.page/from-14-years-old-till-29-my-experience-with-desktop-linux-b798d07bcd00)<!-- HN:41363637:end --><!-- HN:41364764:start -->
-* [41364764](https://news.social-protocols.org/stats?id=41364764) #21 18 points 14 comments -> [Cellar Door: a quest to find the most beautiful word in English](https://www.cellar-door.co.uk/)<!-- HN:41364764:end --><!-- HN:41365972:start -->
-* [41365972](https://news.social-protocols.org/stats?id=41365972) #22 5 points 0 comments -> [Keep Pavel Durov Locked Up](https://blog.thc.org/keep-pavel-durov-locked-up)<!-- HN:41365972:end --><!-- HN:41365598:start -->
-* [41365598](https://news.social-protocols.org/stats?id=41365598) #28 53 points 25 comments -> [2023 state of the climate Entering uncharted territory](https://academic.oup.com/bioscience/article/73/12/841/7319571)<!-- HN:41365598:end --><!-- HN:41366628:start -->
-* [41366628](https://news.social-protocols.org/stats?id=41366628) #28 13 points 5 comments -> [75% of founders in the Y Combinator S24 cohort are working on AI startups](https://sherwood.news/tech/three-quarters-of-founders-in-the-latest-y-combinator-cohort-are-working-on/)<!-- HN:41366628:end --><!-- HN:41366758:start -->
-* [41366758](https://news.social-protocols.org/stats?id=41366758) #26 8 points 0 comments -> [Reasons not to be used by Facebook [2011-2019]](https://stallman.org/facebook.html)<!-- HN:41366758:end --><!-- HN:41366871:start -->
-* [41366871](https://news.social-protocols.org/stats?id=41366871) #30 24 points 27 comments -> [Black Myth: Wukong Devs Told Streamers to Avoid Politics in Their Playthroughs](https://www.wired.com/story/black-myth-wukong-streaming-controversy/)<!-- HN:41366871:end --><!-- HN:41367126:start -->
-* [41367126](https://news.social-protocols.org/stats?id=41367126) #28 3 points 1 comments -> [The Bewildering Politics of Telegram](https://www.politico.com/news/2024/08/26/telegram-app-politics-00176386)<!-- HN:41367126:end --><!-- HN:41367749:start -->
-* [41367749](https://news.social-protocols.org/stats?id=41367749) #2 18 points 11 comments -> [The Real Exponential Curve for LLMs](https://fume.substack.com/p/inference-is-free-and-instant)<!-- HN:41367749:end --><!-- HN:41368677:start -->
-* [41368677](https://news.social-protocols.org/stats?id=41368677) #22 10 points 6 comments -> [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)<!-- HN:41368677:end --><!-- HN:41370147:start -->
-* [41370147](https://news.social-protocols.org/stats?id=41370147) #24 -> [Show HN: I Built DollarAI.Store – A Collection of 350 AI Tools](https://app.dollarai.store)<!-- HN:41370147:end --><!-- HN:41374219:start -->
-* [41374219](https://news.social-protocols.org/stats?id=41374219) #4 7 points 2 comments -> [Is iMessage really an encrypted messaging app? (2021)](https://warnerchad.medium.com/is-apple-imessage-end-to-end-encrypted-it-depends-8bcdcbd8c89b)<!-- HN:41374219:end -->
 #### **Wednesday, August 28, 2024**
 <!-- HN:41374276:start -->
 * [41374276](https://news.social-protocols.org/stats?id=41374276) #27 34 points 40 comments -> [After a decade of free Alexa, Amazon now wants you to pay](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/)<!-- HN:41374276:end --><!-- HN:41375219:start -->
