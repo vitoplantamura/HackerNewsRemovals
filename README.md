@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41427648](https://news.social-protocols.org/stats?id=41427648) #22 10 points 11 comments -> [Ketogenic Diet Shows Promise Treating Serious Mental Illness in Stanford Study](https://www.metabolicmind.org/news/ketogenic-diet-shows-promise-in-treating-serious-mental-illness-in-stanford-medicine-study)<!-- HN:41427648:end -->
 #### **Tuesday, September 3, 2024**
 <!-- HN:41429778:start -->
-* [41429778](https://news.social-protocols.org/stats?id=41429778) #12 7 points 0 comments -> [Stelo Glucose Biosensor – No Prescription, Buy Now](https://www.stelo.com/en-us/buy-stelo-monthly-subscription)<!-- HN:41429778:end -->
+* [41429778](https://news.social-protocols.org/stats?id=41429778) #12 7 points 0 comments -> [Stelo Glucose Biosensor – No Prescription, Buy Now](https://www.stelo.com/en-us/buy-stelo-monthly-subscription)<!-- HN:41429778:end --><!-- HN:41430325:start -->
+* [41430325](https://news.social-protocols.org/stats?id=41430325) #8 49 points 20 comments -> [FB partner admits phone microphones listen to people talk to serve better ads](https://inshort.geartape.com/facebook-partner-admits-smartphone-microphones-listen-to-people-talk-to-serve-better-ads/)<!-- HN:41430325:end -->
