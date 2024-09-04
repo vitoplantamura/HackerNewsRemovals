@@ -159,4 +159,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 4, 2024**
 <!-- HN:41439993:start -->
 * [41439993](https://news.social-protocols.org/stats?id=41439993) #11 10 points 1 comments -> [Hacking sales as an introvert](https://shwin.co/blog/hacking-sales-as-an-introvert)<!-- HN:41439993:end --><!-- HN:41440662:start -->
-* [41440662](https://news.social-protocols.org/stats?id=41440662) #29 17 points 6 comments -> [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)<!-- HN:41440662:end -->
+* [41440662](https://news.social-protocols.org/stats?id=41440662) #29 17 points 6 comments -> [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)<!-- HN:41440662:end --><!-- HN:41439854:start -->
+* [41439854](https://news.social-protocols.org/stats?id=41439854) #12 7 points 1 comments -> [What's That Charge? Identify mysterious card statement charges](https://www.whatsthatcharge.com/)<!-- HN:41439854:end -->
