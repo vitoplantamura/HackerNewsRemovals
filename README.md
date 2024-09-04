@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41440340](https://news.social-protocols.org/stats?id=41440340) #29 8 points 0 comments -> [Starlink Backtracks and Will Comply with Judge's Order to Block X in Brazil](https://www.usnews.com/news/business/articles/2024-09-03/musks-starlink-backtracks-and-will-comply-with-judges-order-to-block-x-in-brazil)<!-- HN:41440340:end -->
 #### **Wednesday, September 4, 2024**
 <!-- HN:41439993:start -->
-* [41439993](https://news.social-protocols.org/stats?id=41439993) #11 10 points 1 comments -> [Hacking sales as an introvert](https://shwin.co/blog/hacking-sales-as-an-introvert)<!-- HN:41439993:end -->
+* [41439993](https://news.social-protocols.org/stats?id=41439993) #11 10 points 1 comments -> [Hacking sales as an introvert](https://shwin.co/blog/hacking-sales-as-an-introvert)<!-- HN:41439993:end --><!-- HN:41440662:start -->
+* [41440662](https://news.social-protocols.org/stats?id=41440662) #29 17 points 6 comments -> [In a first, Phoenix hits 100 straight days of 100-degree heat](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/)<!-- HN:41440662:end -->
