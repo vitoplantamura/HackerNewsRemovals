@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, August 28, 2024**
-<!-- HN:41374276:start -->
-* [41374276](https://news.social-protocols.org/stats?id=41374276) #27 34 points 40 comments -> [After a decade of free Alexa, Amazon now wants you to pay](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/)<!-- HN:41374276:end --><!-- HN:41375219:start -->
-* [41375219](https://news.social-protocols.org/stats?id=41375219) #6 8 points 9 comments -> [Obsolete Command-Line Tools of Linux](https://linuxexpert.org/obsolete-command-line-tools-of-linux/)<!-- HN:41375219:end --><!-- HN:41326461:start -->
-* [41326461](https://news.social-protocols.org/stats?id=41326461) #16 26 points 3 comments -> [Slime mold simulation in Rust using WASM and WebGPU](https://github.com/plul/slime-mold-simulation)<!-- HN:41326461:end --><!-- HN:41376990:start -->
-* [41376990](https://news.social-protocols.org/stats?id=41376990) #21 8 points 3 comments -> [LinkedIn_AIHawk: AI job assistant. Automate applications and Resume Generation](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<!-- HN:41376990:end --><!-- HN:41377058:start -->
-* [41377058](https://news.social-protocols.org/stats?id=41377058) #19 14 points 1 comments -> ['Order from Amazon': How tech giants are storing mass data for Israel's war](https://www.972mag.com/cloud-israeli-army-gaza-amazon-google-microsoft/)<!-- HN:41377058:end --><!-- HN:41374849:start -->
-* [41374849](https://news.social-protocols.org/stats?id=41374849) #29 -> [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)<!-- HN:41374849:end --><!-- HN:41377924:start -->
-* [41377924](https://news.social-protocols.org/stats?id=41377924) #25 10 points 4 comments -> [Why Htmx is far superior to React and NextJS](https://henriqueleite42.com/why-htmx-is-far-superior-to-react-and-nextjs)<!-- HN:41377924:end --><!-- HN:41380031:start -->
-* [41380031](https://news.social-protocols.org/stats?id=41380031) #23 11 points 41 comments -> [Unrealized Gain Tax–A Coming Sea Change in FY2025 Budget Proposal?](https://www.forbes.com/sites/andrewleahey/2024/04/30/unrealized-gain-tax-a-coming-sea-change-in-fy2025-budget-proposal/)<!-- HN:41380031:end --><!-- HN:41380977:start -->
-* [41380977](https://news.social-protocols.org/stats?id=41380977) #2 6 points 2 comments -> [Is marriage associated with happiness for men or for women? Or both? Or neither?](https://statmodeling.stat.columbia.edu/2024/08/27/marriage-happiness/)<!-- HN:41380977:end --><!-- HN:41381816:start -->
-* [41381816](https://news.social-protocols.org/stats?id=41381816) #16 8 points 5 comments -> [Man Is First to Be Charged in New York with Wearing a Mask in Public](https://www.nytimes.com/2024/08/27/nyregion/face-mask-ban-charges-nyc.html)<!-- HN:41381816:end --><!-- HN:41381487:start -->
-* [41381487](https://news.social-protocols.org/stats?id=41381487) #5 5 points 1 comments -> [Fly.io (Still) Consistently Unreliable](https://community.fly.io/t/reliability-its-not-great/11253)<!-- HN:41381487:end --><!-- HN:41381994:start -->
-* [41381994](https://news.social-protocols.org/stats?id=41381994) #1 32 points 9 comments -> [UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest](https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/)<!-- HN:41381994:end --><!-- HN:41383244:start -->
-* [41383244](https://news.social-protocols.org/stats?id=41383244) #16 28 points 40 comments -> [I Hate the Term "Modern"](https://www.paritybit.ca/blog/why-i-hate-the-term-modern/)<!-- HN:41383244:end --><!-- HN:41385154:start -->
-* [41385154](https://news.social-protocols.org/stats?id=41385154) #13 8 points 0 comments -> [Silicon Valley's Online Ideologues Are in Model Collapse](https://www.reimaginingliberty.com/silicon-valleys-very-online-ideologues-are-in-model-collapse/)<!-- HN:41385154:end -->
 #### **Thursday, August 29, 2024**
 <!-- HN:41385637:start -->
 * [41385637](https://news.social-protocols.org/stats?id=41385637) #1 116 points 3 comments -> [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)<!-- HN:41385637:end --><!-- HN:41327394:start -->
