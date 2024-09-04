@@ -172,3 +172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41416644](https://news.social-protocols.org/stats?id=41416644) #18 27 points 6 comments -> [Show HN: Ten AI demo apps to build your next AI project faster](https://nextjsaitemplates.com)<!-- HN:41416644:end --><!-- HN:41438672:start -->
 * [41438672](https://news.social-protocols.org/stats?id=41438672) #27 52 points 9 comments -> [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)<!-- HN:41438672:end --><!-- HN:41440340:start -->
 * [41440340](https://news.social-protocols.org/stats?id=41440340) #29 8 points 0 comments -> [Starlink Backtracks and Will Comply with Judge's Order to Block X in Brazil](https://www.usnews.com/news/business/articles/2024-09-03/musks-starlink-backtracks-and-will-comply-with-judges-order-to-block-x-in-brazil)<!-- HN:41440340:end -->
+#### **Wednesday, September 4, 2024**
+<!-- HN:41439993:start -->
+* [41439993](https://news.social-protocols.org/stats?id=41439993) #11 10 points 1 comments -> [Hacking sales as an introvert](https://shwin.co/blog/hacking-sales-as-an-introvert)<!-- HN:41439993:end -->
