@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, August 29, 2024**
-<!-- HN:41385637:start -->
-* [41385637](https://news.social-protocols.org/stats?id=41385637) #1 116 points 3 comments -> [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)<!-- HN:41385637:end --><!-- HN:41327394:start -->
-* [41327394](https://news.social-protocols.org/stats?id=41327394) #9 316 points 104 comments -> [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)<!-- HN:41327394:end --><!-- HN:41337268:start -->
-* [41337268](https://news.social-protocols.org/stats?id=41337268) #15 161 points 92 comments -> ["Everything" is a filename search engine for Windows](https://www.voidtools.com/en-us/support/everything/)<!-- HN:41337268:end --><!-- HN:41357188:start -->
-* [41357188](https://news.social-protocols.org/stats?id=41357188) #15 5 points 1 comments -> [An SSR Performance Showdown](https://blog.platformatic.dev/an-ssr-performance-showdown)<!-- HN:41357188:end --><!-- HN:41386848:start -->
-* [41386848](https://news.social-protocols.org/stats?id=41386848) #6 9 points 35 comments -> [Show HN: Are You Smarter Than a 5th Grader?](https://areusmarterthanafifthgrader.com)<!-- HN:41386848:end --><!-- HN:41388557:start -->
-* [41388557](https://news.social-protocols.org/stats?id=41388557) #30 14 points 6 comments -> [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)<!-- HN:41388557:end --><!-- HN:41389787:start -->
-* [41389787](https://news.social-protocols.org/stats?id=41389787) #11 6 points 0 comments -> [OpenTofu is not so open](https://github.com/opentofu/registry/pull/824)<!-- HN:41389787:end --><!-- HN:41393462:start -->
-* [41393462](https://news.social-protocols.org/stats?id=41393462) #22 22 points 6 comments -> [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)<!-- HN:41393462:end --><!-- HN:41344245:start -->
-* [41344245](https://news.social-protocols.org/stats?id=41344245) #16 132 points 50 comments -> [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)<!-- HN:41344245:end --><!-- HN:41342078:start -->
-* [41342078](https://news.social-protocols.org/stats?id=41342078) #22 62 points 16 comments -> [Shufflecake: Plausible deniability for hidden filesystems on Linux (2023)](https://eprint.iacr.org/2023/1529)<!-- HN:41342078:end -->
 #### **Friday, August 30, 2024**
 <!-- HN:41349554:start -->
 * [41349554](https://news.social-protocols.org/stats?id=41349554) #12 43 points 4 comments -> [Build an Infinite Canvas](https://infinitecanvas.cc/)<!-- HN:41349554:end --><!-- HN:41348869:start -->

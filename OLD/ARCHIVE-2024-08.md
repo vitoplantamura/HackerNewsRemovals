@@ -578,3 +578,15 @@
 * [41381994](https://news.ycombinator.com/item?id=41381994) #1 32 points 9 comments -> [UAE Freezes $20B Jet Deal with France After Telegram CEO Arrest](https://thedailyguardian.com/uae-freezes-20-billion-jet-deal-with-france-after-telegram-ceo-arrest/)<!-- HN:41381994:end --><!-- HN:41383244:start -->
 * [41383244](https://news.ycombinator.com/item?id=41383244) #16 28 points 40 comments -> [I Hate the Term "Modern"](https://www.paritybit.ca/blog/why-i-hate-the-term-modern/)<!-- HN:41383244:end --><!-- HN:41385154:start -->
 * [41385154](https://news.ycombinator.com/item?id=41385154) #13 8 points 0 comments -> [Silicon Valley's Online Ideologues Are in Model Collapse](https://www.reimaginingliberty.com/silicon-valleys-very-online-ideologues-are-in-model-collapse/)<!-- HN:41385154:end -->
+#### **Thursday, August 29, 2024**
+<!-- HN:41385637:start -->
+* [41385637](https://news.ycombinator.com/item?id=41385637) #1 116 points 3 comments -> [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)<!-- HN:41385637:end --><!-- HN:41327394:start -->
+* [41327394](https://news.ycombinator.com/item?id=41327394) #9 316 points 104 comments -> [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)<!-- HN:41327394:end --><!-- HN:41337268:start -->
+* [41337268](https://news.ycombinator.com/item?id=41337268) #15 161 points 92 comments -> ["Everything" is a filename search engine for Windows](https://www.voidtools.com/en-us/support/everything/)<!-- HN:41337268:end --><!-- HN:41357188:start -->
+* [41357188](https://news.ycombinator.com/item?id=41357188) #15 5 points 1 comments -> [An SSR Performance Showdown](https://blog.platformatic.dev/an-ssr-performance-showdown)<!-- HN:41357188:end --><!-- HN:41386848:start -->
+* [41386848](https://news.ycombinator.com/item?id=41386848) #6 9 points 35 comments -> [Show HN: Are You Smarter Than a 5th Grader?](https://areusmarterthanafifthgrader.com)<!-- HN:41386848:end --><!-- HN:41388557:start -->
+* [41388557](https://news.ycombinator.com/item?id=41388557) #30 14 points 6 comments -> [Show HN: A directory to find open source AI projects easier](https://www.aiexh.com/en)<!-- HN:41388557:end --><!-- HN:41389787:start -->
+* [41389787](https://news.ycombinator.com/item?id=41389787) #11 6 points 0 comments -> [OpenTofu is not so open](https://github.com/opentofu/registry/pull/824)<!-- HN:41389787:end --><!-- HN:41393462:start -->
+* [41393462](https://news.ycombinator.com/item?id=41393462) #22 22 points 6 comments -> [Rust Is Bad for Servers](https://kerkour.com/rust-is-bad-for-servers)<!-- HN:41393462:end --><!-- HN:41344245:start -->
+* [41344245](https://news.ycombinator.com/item?id=41344245) #16 132 points 50 comments -> [All Texts in Brooklyn](https://brooklyn.alltexts.nyc/)<!-- HN:41344245:end --><!-- HN:41342078:start -->
+* [41342078](https://news.ycombinator.com/item?id=41342078) #22 62 points 16 comments -> [Shufflecake: Plausible deniability for hidden filesystems on Linux (2023)](https://eprint.iacr.org/2023/1529)<!-- HN:41342078:end -->
