@@ -170,3 +170,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41448842](https://news.social-protocols.org/stats?id=41448842) #22 78 points 5 comments -> [Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://nitter.poast.org/PublishersWkly/status/1831357570365497379#m)<!-- HN:41448842:end --><!-- HN:41449229:start -->
 * [41449229](https://news.social-protocols.org/stats?id=41449229) #7 192 points 3 comments -> [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)<!-- HN:41449229:end --><!-- HN:41450660:start -->
 * [41450660](https://news.social-protocols.org/stats?id=41450660) #25 42 points 15 comments -> [Layman's Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)<!-- HN:41450660:end -->
+#### **Thursday, September 5, 2024**
+<!-- HN:41452414:start -->
+* [41452414](https://news.social-protocols.org/stats?id=41452414) #19 5 points 1 comments -> [The Houthis now rule the Red Sea, America has silently admitted defeat](https://unherd.com/2024/09/why-the-houthis-now-rule-the-red-sea/)<!-- HN:41452414:end -->
