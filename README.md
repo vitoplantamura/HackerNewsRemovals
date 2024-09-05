@@ -172,4 +172,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41450660](https://news.social-protocols.org/stats?id=41450660) #25 42 points 15 comments -> [Layman's Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)<!-- HN:41450660:end -->
 #### **Thursday, September 5, 2024**
 <!-- HN:41452414:start -->
-* [41452414](https://news.social-protocols.org/stats?id=41452414) #19 5 points 1 comments -> [The Houthis now rule the Red Sea, America has silently admitted defeat](https://unherd.com/2024/09/why-the-houthis-now-rule-the-red-sea/)<!-- HN:41452414:end -->
+* [41452414](https://news.social-protocols.org/stats?id=41452414) #19 5 points 1 comments -> [The Houthis now rule the Red Sea, America has silently admitted defeat](https://unherd.com/2024/09/why-the-houthis-now-rule-the-red-sea/)<!-- HN:41452414:end --><!-- HN:41451143:start -->
+* [41451143](https://news.social-protocols.org/stats?id=41451143) #17 15 points 0 comments -> [What Is an Atomic Clock? (2019)](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)<!-- HN:41451143:end -->
