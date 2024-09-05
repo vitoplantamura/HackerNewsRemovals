@@ -173,4 +173,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 5, 2024**
 <!-- HN:41452414:start -->
 * [41452414](https://news.social-protocols.org/stats?id=41452414) #19 5 points 1 comments -> [The Houthis now rule the Red Sea, America has silently admitted defeat](https://unherd.com/2024/09/why-the-houthis-now-rule-the-red-sea/)<!-- HN:41452414:end --><!-- HN:41451143:start -->
-* [41451143](https://news.social-protocols.org/stats?id=41451143) #17 15 points 0 comments -> [What Is an Atomic Clock? (2019)](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)<!-- HN:41451143:end -->
+* [41451143](https://news.social-protocols.org/stats?id=41451143) #17 15 points 0 comments -> [What Is an Atomic Clock? (2019)](https://www.nasa.gov/missions/tech-demonstration/deep-space-atomic-clock/what-is-an-atomic-clock/)<!-- HN:41451143:end --><!-- HN:41452720:start -->
+* [41452720](https://news.social-protocols.org/stats?id=41452720) #8 3 points 1 comments -> [K-Pop Redefined](https://www.bloomberg.com/graphics/2024-kpop-redefine-global-music-industry/)<!-- HN:41452720:end -->
