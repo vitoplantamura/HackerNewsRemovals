@@ -185,4 +185,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 6, 2024**<!-- HN:41420783:start -->
 * [41420783](https://news.social-protocols.org/stats?id=41420783) #4 449 points 91 comments -> [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)<!-- HN:41420783:end --><!-- HN:41423385:start -->
 * [41423385](https://news.social-protocols.org/stats?id=41423385) #2 190 points 57 comments -> [People can read their manager's mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)<!-- HN:41423385:end --><!-- HN:41437175:start -->
-* [41437175](https://news.social-protocols.org/stats?id=41437175) #14 5 points 0 comments -> [DIY Geiger Counter and Tasmota ESP8266](https://github.com/arendst/Tasmota/discussions/18449)<!-- HN:41437175:end -->
+* [41437175](https://news.social-protocols.org/stats?id=41437175) #14 5 points 0 comments -> [DIY Geiger Counter and Tasmota ESP8266](https://github.com/arendst/Tasmota/discussions/18449)<!-- HN:41437175:end --><!-- HN:41465044:start -->
+* [41465044](https://news.social-protocols.org/stats?id=41465044) #3 5 points 1 comments -> [The "Need for Chaos" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)<!-- HN:41465044:end -->
