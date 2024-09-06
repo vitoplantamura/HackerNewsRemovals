@@ -184,5 +184,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41457896](https://news.social-protocols.org/stats?id=41457896) #30 15 points 2 comments -> [A Manifesto for Radical Simplicity](https://joshaustin.tech/blog/a-manifesto-for-radical-simplicity/)<!-- HN:41457896:end --><!-- HN:41460984:start -->
 * [41460984](https://news.social-protocols.org/stats?id=41460984) #26 10 points 40 comments -> [First-in-Nation Bill Requiring Cars to Warn Speeding Drivers Goes to CA Governor](https://sd11.senate.ca.gov/news/senator-wieners-first-nation-bill-require-cars-warn-speeding-drivers-heads-governor)<!-- HN:41460984:end -->
 #### **Friday, September 6, 2024**
-<!-- HN:41420783:start -->
-* [41420783](https://news.social-protocols.org/stats?id=41420783) #3 424 points 87 comments -> [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)<!-- HN:41420783:end -->
