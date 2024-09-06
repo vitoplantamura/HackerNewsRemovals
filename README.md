@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 30, 2024**
-<!-- HN:41349554:start -->
-* [41349554](https://news.social-protocols.org/stats?id=41349554) #12 43 points 4 comments -> [Build an Infinite Canvas](https://infinitecanvas.cc/)<!-- HN:41349554:end --><!-- HN:41348869:start -->
-* [41348869](https://news.social-protocols.org/stats?id=41348869) #19 5 points 0 comments -> [Colorful Ribbon Diagrams Became the Face of Proteins](https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/)<!-- HN:41348869:end --><!-- HN:41398480:start -->
-* [41398480](https://news.social-protocols.org/stats?id=41398480) #6 5 points 1 comments -> [Grandma trapped in elevator for six days survived by rationing groceries](https://www.guinnessworldrecords.com/news/2024/1/grandma-trapped-in-elevator-for-six-days-survived-by-rationing-groceries-763381)<!-- HN:41398480:end --><!-- HN:41399249:start -->
-* [41399249](https://news.social-protocols.org/stats?id=41399249) #13 7 points 8 comments -> [Bay Watch: Northern California is an energy catastrophe waiting to happen](https://newsletter.doomberg.com/p/bay-watch)<!-- HN:41399249:end --><!-- HN:41400570:start -->
-* [41400570](https://news.social-protocols.org/stats?id=41400570) #21 5 points 0 comments -> [Web Kid Anand is a typical high schooler–except for his megahot site. (1999)](https://money.cnn.com/magazines/fsb/fsb_archive/1999/12/01/271048/index.htm)<!-- HN:41400570:end --><!-- HN:41400523:start -->
-* [41400523](https://news.social-protocols.org/stats?id=41400523) #29 5 points 1 comments -> [AI cameras spot toddlers not wearing seat belts](https://www.bbc.com/news/articles/c5y3pdp099zo)<!-- HN:41400523:end --><!-- HN:41395921:start -->
-* [41395921](https://news.social-protocols.org/stats?id=41395921) #27 262 points 71 comments -> [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)<!-- HN:41395921:end --><!-- HN:41400152:start -->
-* [41400152](https://news.social-protocols.org/stats?id=41400152) #17 4 points 0 comments -> [Understanding the Postgres Hackers Mailing List](https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list)<!-- HN:41400152:end --><!-- HN:41396710:start -->
-* [41396710](https://news.social-protocols.org/stats?id=41396710) #16 10 points 1 comments -> [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)<!-- HN:41396710:end --><!-- HN:41403466:start -->
-* [41403466](https://news.social-protocols.org/stats?id=41403466) #19 19 points 16 comments -> [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)<!-- HN:41403466:end --><!-- HN:41404897:start -->
-* [41404897](https://news.social-protocols.org/stats?id=41404897) #5 17 points 6 comments -> [John Rawls and the Death of Western Marxism](https://josephheath.substack.com/p/john-rawls-and-the-death-of-western)<!-- HN:41404897:end -->
 #### **Saturday, August 31, 2024**
 <!-- HN:41358432:start -->
 * [41358432](https://news.social-protocols.org/stats?id=41358432) #2 27 points 7 comments -> [Dinosaur Footprints on Either Side of the Atlantic Are Matching Sets](https://gizmodo.com/dinosaur-footprints-on-either-side-of-the-atlantic-are-matching-sets-2000490979)<!-- HN:41358432:end --><!-- HN:41357409:start -->
