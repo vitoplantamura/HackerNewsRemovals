@@ -187,4 +187,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, September 7, 2024**
 <!-- HN:41431463:start -->
 * [41431463](https://news.social-protocols.org/stats?id=41431463) #23 41 points 6 comments -> [Handling complexity without abstraction: Algebraic Bricklaying C](https://github.com/gritzko/librdx/blob/master/ABC.md)<!-- HN:41431463:end --><!-- HN:41471713:start -->
-* [41471713](https://news.social-protocols.org/stats?id=41471713) #12 15 points 2 comments -> [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)<!-- HN:41471713:end -->
+* [41471713](https://news.social-protocols.org/stats?id=41471713) #12 15 points 2 comments -> [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)<!-- HN:41471713:end --><!-- HN:41470491:start -->
+* [41470491](https://news.social-protocols.org/stats?id=41470491) #28 43 points 26 comments -> [Boost your development environment with Ubuntu Multipass](https://letsdebug.it/post/21-ubuntu-multipass/)<!-- HN:41470491:end -->
