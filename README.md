@@ -184,3 +184,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41426828](https://news.social-protocols.org/stats?id=41426828) #21 126 points 85 comments -> [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)<!-- HN:41426828:end --><!-- HN:41424533:start -->
 * [41424533](https://news.social-protocols.org/stats?id=41424533) #24 43 points 9 comments -> [Hawking Archive made available to historians and researchers](https://www.cam.ac.uk/stories/hawking-archive-for-all)<!-- HN:41424533:end --><!-- HN:41469660:start -->
 * [41469660](https://news.social-protocols.org/stats?id=41469660) #10 12 points 3 comments -> [Where Did the Serial Killers from the 80s Go? They're Online, and in Plain Sight](https://substack.com/@benedictslaney/p-148558589)<!-- HN:41469660:end -->
+#### **Saturday, September 7, 2024**
+<!-- HN:41431463:start -->
+* [41431463](https://news.social-protocols.org/stats?id=41431463) #23 41 points 6 comments -> [Handling complexity without abstraction: Algebraic Bricklaying C](https://github.com/gritzko/librdx/blob/master/ABC.md)<!-- HN:41431463:end -->
