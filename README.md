@@ -186,4 +186,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, September 8, 2024**
 <!-- HN:41478785:start -->
 * [41478785](https://news.social-protocols.org/stats?id=41478785) #3 38 points 24 comments -> [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)<!-- HN:41478785:end --><!-- HN:41479594:start -->
-* [41479594](https://news.social-protocols.org/stats?id=41479594) #29 10 points 4 comments -> [Man jailed indefinitely for refusing to decrypt hard drives loses appeal (2011)](https://arstechnica.com/tech-policy/2017/03/man-jailed-indefinitely-for-refusing-to-decrypt-hard-drives-loses-appeal/)<!-- HN:41479594:end -->
+* [41479594](https://news.social-protocols.org/stats?id=41479594) #29 10 points 4 comments -> [Man jailed indefinitely for refusing to decrypt hard drives loses appeal (2011)](https://arstechnica.com/tech-policy/2017/03/man-jailed-indefinitely-for-refusing-to-decrypt-hard-drives-loses-appeal/)<!-- HN:41479594:end --><!-- HN:41478195:start -->
+* [41478195](https://news.social-protocols.org/stats?id=41478195) #23 31 points 13 comments -> [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)<!-- HN:41478195:end -->
