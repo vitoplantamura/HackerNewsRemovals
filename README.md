@@ -183,3 +183,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41476507](https://news.social-protocols.org/stats?id=41476507) #14 11 points 4 comments -> [Nonstandard Analysis (1972)](https://sci-hub.se/https://www.jstor.org/stable/24927363)<!-- HN:41476507:end --><!-- HN:41475872:start -->
 * [41475872](https://news.social-protocols.org/stats?id=41475872) #26 23 points 15 comments -> [Alternatives to Google Products – Updated](https://peq42.com/blog/alternatives-to-google-products/)<!-- HN:41475872:end --><!-- HN:41475869:start -->
 * [41475869](https://news.social-protocols.org/stats?id=41475869) #28 7 points 7 comments -> [First water car is already a reality: 1000km of autonomy and the end of gasoline](https://www.eldiario24.com/en/water-car-end-gasoline/114/)<!-- HN:41475869:end -->
+#### **Sunday, September 8, 2024**
+<!-- HN:41478785:start -->
+* [41478785](https://news.social-protocols.org/stats?id=41478785) #3 38 points 24 comments -> [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)<!-- HN:41478785:end -->
