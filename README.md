@@ -185,4 +185,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41475869](https://news.social-protocols.org/stats?id=41475869) #28 7 points 7 comments -> [First water car is already a reality: 1000km of autonomy and the end of gasoline](https://www.eldiario24.com/en/water-car-end-gasoline/114/)<!-- HN:41475869:end -->
 #### **Sunday, September 8, 2024**
 <!-- HN:41478785:start -->
-* [41478785](https://news.social-protocols.org/stats?id=41478785) #3 38 points 24 comments -> [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)<!-- HN:41478785:end -->
+* [41478785](https://news.social-protocols.org/stats?id=41478785) #3 38 points 24 comments -> [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)<!-- HN:41478785:end --><!-- HN:41479829:start -->
+* [41479829](https://news.social-protocols.org/stats?id=41479829) #22 4 points 1 comments -> [Australia 'wasting' record amounts of renewable energy](https://www.abc.net.au/news/2024-09-08/renewable-energy-wasted-as-australia-greens/104321770)<!-- HN:41479829:end -->
