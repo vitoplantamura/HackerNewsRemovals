@@ -184,4 +184,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41440620:start -->
 * [41440620](https://news.social-protocols.org/stats?id=41440620) #14 22 points 5 comments -> [16th Century Irish Hipsters](http://irisharchaeology.ie/2013/08/16th-century-irish-hipsters/)<!-- HN:41440620:end --><!-- HN:41443012:start -->
 * [41443012](https://news.social-protocols.org/stats?id=41443012) #19 121 points 32 comments -> [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)<!-- HN:41443012:end --><!-- HN:41438744:start -->
-* [41438744](https://news.social-protocols.org/stats?id=41438744) #27 38 points 28 comments -> [Deadline looms: Google Workspace mandates OAuth by September 30](https://www.theregister.com/2024/09/03/google_workspace_third_party_apps/)<!-- HN:41438744:end -->
+* [41438744](https://news.social-protocols.org/stats?id=41438744) #27 38 points 28 comments -> [Deadline looms: Google Workspace mandates OAuth by September 30](https://www.theregister.com/2024/09/03/google_workspace_third_party_apps/)<!-- HN:41438744:end --><!-- HN:41484633:start -->
+* [41484633](https://news.social-protocols.org/stats?id=41484633) #17 11 points 5 comments -> [⓿ dependencies!](https://0dependencies.dev/)<!-- HN:41484633:end -->
