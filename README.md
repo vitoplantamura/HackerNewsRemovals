@@ -169,3 +169,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41489497](https://news.social-protocols.org/stats?id=41489497) #21 7 points 0 comments -> [Great Barrier Reef already been dealt its death blow](https://www.rnz.co.nz/news/national/527469/great-barrier-reef-already-been-dealt-its-death-blow-scientist)<!-- HN:41489497:end --><!-- HN:41490125:start -->
 * [41490125](https://news.social-protocols.org/stats?id=41490125) #29 8 points 4 comments -> [Americans Voted Their Way into a Housing Crisis](https://www.bloomberg.com/news/articles/2024-09-08/an-american-affordable-housing-crisis-built-by-local-democracy)<!-- HN:41490125:end --><!-- HN:41493976:start -->
 * [41493976](https://news.social-protocols.org/stats?id=41493976) #8 64 points 7 comments -> [James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)<!-- HN:41493976:end -->
+#### **Tuesday, September 10, 2024**
+<!-- HN:41452780:start -->
+* [41452780](https://news.social-protocols.org/stats?id=41452780) #29 118 points 27 comments -> [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)<!-- HN:41452780:end -->
