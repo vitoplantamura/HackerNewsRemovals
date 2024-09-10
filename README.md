@@ -172,4 +172,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 10, 2024**
 <!-- HN:41452780:start -->
 * [41452780](https://news.social-protocols.org/stats?id=41452780) #29 118 points 27 comments -> [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)<!-- HN:41452780:end --><!-- HN:41498640:start -->
-* [41498640](https://news.social-protocols.org/stats?id=41498640) #5 10 points 3 comments -> [Huawei Unveils $2,800 Trifold Mate XT Just Hours After Apple Launches iPhone 16](https://www.bloomberg.com/news/articles/2024-09-10/huawei-trifold-phone-versus-iphone-16-specs-price-release-date)<!-- HN:41498640:end -->
+* [41498640](https://news.social-protocols.org/stats?id=41498640) #5 10 points 3 comments -> [Huawei Unveils $2,800 Trifold Mate XT Just Hours After Apple Launches iPhone 16](https://www.bloomberg.com/news/articles/2024-09-10/huawei-trifold-phone-versus-iphone-16-specs-price-release-date)<!-- HN:41498640:end --><!-- HN:41478771:start -->
+* [41478771](https://news.social-protocols.org/stats?id=41478771) #9 24 points 4 comments -> [2016 was first year on record for zero roof fall fatalities in coal mining in US](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/)<!-- HN:41478771:end -->
