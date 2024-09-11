@@ -164,3 +164,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41500861](https://news.social-protocols.org/stats?id=41500861) #25 8 points 8 comments -> [Show HN: I built a cheaper ChatGPT alternative that runs on your desktop](https://www.trynyro.com)<!-- HN:41500861:end --><!-- HN:41504881:start -->
 * [41504881](https://news.social-protocols.org/stats?id=41504881) #17 26 points 40 comments -> [The US finally takes aim at truck bloat](https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design)<!-- HN:41504881:end --><!-- HN:41459722:start -->
 * [41459722](https://news.social-protocols.org/stats?id=41459722) #16 23 points 8 comments -> [DJI Neo review – a drone that can do everything, and land in your hand](https://www.digitalcameraworld.com/reviews/dji-neo-review)<!-- HN:41459722:end -->
+#### **Wednesday, September 11, 2024**
+<!-- HN:41508158:start -->
+* [41508158](https://news.social-protocols.org/stats?id=41508158) #9 61 points 39 comments -> [Facebook uses Australian adults public photos/posts to train AI, without opt-out](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)<!-- HN:41508158:end -->
