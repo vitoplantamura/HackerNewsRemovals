@@ -167,4 +167,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 11, 2024**
 <!-- HN:41508158:start -->
 * [41508158](https://news.social-protocols.org/stats?id=41508158) #9 61 points 39 comments -> [Facebook uses Australian adults public photos/posts to train AI, without opt-out](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170)<!-- HN:41508158:end --><!-- HN:41508244:start -->
-* [41508244](https://news.social-protocols.org/stats?id=41508244) #8 29 points 40 comments -> [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)<!-- HN:41508244:end -->
+* [41508244](https://news.social-protocols.org/stats?id=41508244) #8 29 points 40 comments -> [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)<!-- HN:41508244:end --><!-- HN:41510008:start -->
+* [41510008](https://news.social-protocols.org/stats?id=41510008) #4 6 points 14 comments -> [UK Shops can refuse to take cash even though it's legal tender (2023)](https://fullfact.org/online/legal-tender-cash-in-shops/)<!-- HN:41510008:end -->
