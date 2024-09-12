@@ -153,3 +153,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41511672](https://news.social-protocols.org/stats?id=41511672) #29 48 points 9 comments -> [Device Tree Patches Posted for Review to Boot Linux on Apple A7 to A11 Devices](https://www.phoronix.com/news/Linux-DT-Patches-A7-To-A11)<!-- HN:41511672:end --><!-- HN:41513293:start -->
 * [41513293](https://news.social-protocols.org/stats?id=41513293) #28 10 points 0 comments -> [Senators Believe AI Summaries May Be an Antitrust Violation](https://gizmodo.com/senators-call-on-ftc-to-investigate-ai-summaries-as-an-antitrust-violation-2000497441)<!-- HN:41513293:end --><!-- HN:41513775:start -->
 * [41513775](https://news.social-protocols.org/stats?id=41513775) #16 27 points 43 comments -> [Swiss BMW Driver Slammed with $116,000 Tailgating Fine Because He's Rich](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)<!-- HN:41513775:end -->
+#### **Thursday, September 12, 2024**
+<!-- HN:41516419:start -->
+* [41516419](https://news.social-protocols.org/stats?id=41516419) #4 24 points 11 comments -> [Antibiotics damage the colonic mucus barrier in a microbiota-independent manner](https://www.science.org/doi/10.1126/sciadv.adp4119)<!-- HN:41516419:end -->
