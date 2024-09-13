@@ -150,4 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41524441](https://news.social-protocols.org/stats?id=41524441) #22 4 points 1 comments -> [Why sunlight in your eyes makes you healthier](https://jdnoc.com/light/)<!-- HN:41524441:end -->
 #### **Friday, September 13, 2024**
 <!-- HN:41526518:start -->
-* [41526518](https://news.social-protocols.org/stats?id=41526518) #11 5 points 0 comments -> [Why Do Students Remember Everything on Television and Forget Everything I Say?](https://www.aft.org/ae/summer2021/willingham)<!-- HN:41526518:end -->
+* [41526518](https://news.social-protocols.org/stats?id=41526518) #11 5 points 0 comments -> [Why Do Students Remember Everything on Television and Forget Everything I Say?](https://www.aft.org/ae/summer2021/willingham)<!-- HN:41526518:end --><!-- HN:41475975:start -->
+* [41475975](https://news.social-protocols.org/stats?id=41475975) #21 191 points 29 comments -> [DEF Con 32 – AMD Sinkclose Universal Ring-2 Privilege Escalation (Not Redacted) [pdf]](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation.pdf)<!-- HN:41475975:end --><!-- HN:41479487:start -->
+* [41479487](https://news.social-protocols.org/stats?id=41479487) #23 72 points 2 comments -> [Show HN: Goroutine Monitor Powered by eBPF](https://github.com/keisku/gmon)<!-- HN:41479487:end -->
