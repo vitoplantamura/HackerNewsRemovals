@@ -173,3 +173,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41524932](https://news.social-protocols.org/stats?id=41524932) #15 43 points 40 comments -> [USPS' long-awaited new mail truck makes its debut to rave reviews from carriers](https://apnews.com/article/postal-service-next-generation-delivery-vehicle-a2ebbfc7afec0eea2e036eef93bee4d9)<!-- HN:41524932:end --><!-- HN:41525331:start -->
 * [41525331](https://news.social-protocols.org/stats?id=41525331) #5 3 points 2 comments -> [OpenAI O1](https://openaio1.info)<!-- HN:41525331:end --><!-- HN:41524441:start -->
 * [41524441](https://news.social-protocols.org/stats?id=41524441) #22 4 points 1 comments -> [Why sunlight in your eyes makes you healthier](https://jdnoc.com/light/)<!-- HN:41524441:end -->
+#### **Friday, September 13, 2024**
+<!-- HN:41526518:start -->
+* [41526518](https://news.social-protocols.org/stats?id=41526518) #11 5 points 0 comments -> [Why Do Students Remember Everything on Television and Forget Everything I Say?](https://www.aft.org/ae/summer2021/willingham)<!-- HN:41526518:end -->
