@@ -149,7 +149,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41533784](https://news.social-protocols.org/stats?id=41533784) #15 10 points 41 comments -> [Older Americans Are About to Lose a Lot of Weight](https://www.theatlantic.com/health/archive/2024/02/ozempic-weight-loss-older-americans-boomers/677371/)<!-- HN:41533784:end --><!-- HN:41534396:start -->
 * [41534396](https://news.social-protocols.org/stats?id=41534396) #21 8 points 2 comments -> [Richard Powers on What We Do to the Earth and What It Does to Us](https://www.newyorker.com/magazine/2024/09/16/richard-powers-profile)<!-- HN:41534396:end -->
 #### **Saturday, September 14, 2024**
-<!-- HN:41535003:start -->
-* [41535003](https://news.social-protocols.org/stats?id=41535003) #16 10 points 0 comments -> [OpenAI O1](https://openai.com/o1/)<!-- HN:41535003:end --><!-- HN:41536041:start -->
+<!-- HN:41536041:start -->
 * [41536041](https://news.social-protocols.org/stats?id=41536041) #22 15 points 29 comments -> [Tesla Cybertruck sales surge 61% in July, outsells direct rivals](https://www.teslarati.com/tesla-cybertruck-sales-61-percent-july-outsells-all-rivals-sp-global-mobility/)<!-- HN:41536041:end --><!-- HN:41486107:start -->
 * [41486107](https://news.social-protocols.org/stats?id=41486107) #29 53 points 8 comments -> [Build Simple Fuzzer (2020)](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)<!-- HN:41486107:end -->
