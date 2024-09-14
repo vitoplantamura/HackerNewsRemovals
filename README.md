@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, September 14, 2024**
 <!-- HN:41535003:start -->
 * [41535003](https://news.social-protocols.org/stats?id=41535003) #16 10 points 0 comments -> [OpenAI O1](https://openai.com/o1/)<!-- HN:41535003:end --><!-- HN:41536041:start -->
-* [41536041](https://news.social-protocols.org/stats?id=41536041) #22 15 points 29 comments -> [Tesla Cybertruck sales surge 61% in July, outsells direct rivals](https://www.teslarati.com/tesla-cybertruck-sales-61-percent-july-outsells-all-rivals-sp-global-mobility/)<!-- HN:41536041:end -->
+* [41536041](https://news.social-protocols.org/stats?id=41536041) #22 15 points 29 comments -> [Tesla Cybertruck sales surge 61% in July, outsells direct rivals](https://www.teslarati.com/tesla-cybertruck-sales-61-percent-july-outsells-all-rivals-sp-global-mobility/)<!-- HN:41536041:end --><!-- HN:41486107:start -->
+* [41486107](https://news.social-protocols.org/stats?id=41486107) #29 53 points 8 comments -> [Build Simple Fuzzer (2020)](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)<!-- HN:41486107:end -->
