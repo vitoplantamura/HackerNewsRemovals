@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, September 8, 2024**
-<!-- HN:41478785:start -->
-* [41478785](https://news.social-protocols.org/stats?id=41478785) #3 38 points 24 comments -> [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)<!-- HN:41478785:end --><!-- HN:41479594:start -->
-* [41479594](https://news.social-protocols.org/stats?id=41479594) #29 10 points 4 comments -> [Man jailed indefinitely for refusing to decrypt hard drives loses appeal (2011)](https://arstechnica.com/tech-policy/2017/03/man-jailed-indefinitely-for-refusing-to-decrypt-hard-drives-loses-appeal/)<!-- HN:41479594:end --><!-- HN:41478195:start -->
-* [41478195](https://news.social-protocols.org/stats?id=41478195) #23 31 points 13 comments -> [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)<!-- HN:41478195:end --><!-- HN:41480267:start -->
-* [41480267](https://news.social-protocols.org/stats?id=41480267) #21 5 points 2 comments -> [Twitter Runs on Hate – But Its Users Don't Reflect Real Life](https://www.theamericansaga.com/p/never-forget-twitter-isnt-real-life)<!-- HN:41480267:end --><!-- HN:41479261:start -->
-* [41479261](https://news.social-protocols.org/stats?id=41479261) #23 81 points 14 comments -> [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)<!-- HN:41479261:end --><!-- HN:41481058:start -->
-* [41481058](https://news.social-protocols.org/stats?id=41481058) #23 12 points 40 comments -> [UK electric car drivers should be charged per mile, say campaigners](https://www.theguardian.com/politics/article/2024/sep/03/uk-electric-car-drivers-per-mile-vehicle-taxes-campaign-for-better-transport)<!-- HN:41481058:end --><!-- HN:41483178:start -->
-* [41483178](https://news.social-protocols.org/stats?id=41483178) #16 10 points 5 comments -> [The $12,000 Harvard Class Celebrities Are Fighting to Get Into](https://www.bloomberg.com/news/features/2024-07-22/the-12-000-harvard-business-class-celebrities-are-fighting-to-get-into)<!-- HN:41483178:end --><!-- HN:41483439:start -->
-* [41483439](https://news.social-protocols.org/stats?id=41483439) #28 10 points 7 comments -> [YouTube restricts teenager access to fitness videos](https://www.euronews.com/health/2024/09/07/youtube-will-begin-limiting-access-to-fitness-videos-for-european-teens-heres-why)<!-- HN:41483439:end --><!-- HN:41455022:start -->
-* [41455022](https://news.social-protocols.org/stats?id=41455022) #5 58 points 0 comments -> [Creating a Git Commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)<!-- HN:41455022:end -->
 #### **Monday, September 9, 2024**
 <!-- HN:41440620:start -->
 * [41440620](https://news.social-protocols.org/stats?id=41440620) #14 22 points 5 comments -> [16th Century Irish Hipsters](http://irisharchaeology.ie/2013/08/16th-century-irish-hipsters/)<!-- HN:41440620:end --><!-- HN:41443012:start -->
