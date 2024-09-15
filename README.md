@@ -154,4 +154,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41541678](https://news.social-protocols.org/stats?id=41541678) #30 3 points 2 comments -> [Accha FM – World's First 100% AI Generated Audio Entertainment Super App](https://acchafm.com/)<!-- HN:41541678:end -->
 #### **Sunday, September 15, 2024**
 <!-- HN:41543382:start -->
-* [41543382](https://news.social-protocols.org/stats?id=41543382) #24 24 points 40 comments -> [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)<!-- HN:41543382:end -->
+* [41543382](https://news.social-protocols.org/stats?id=41543382) #24 24 points 40 comments -> [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)<!-- HN:41543382:end --><!-- HN:41545541:start -->
+* [41545541](https://news.social-protocols.org/stats?id=41545541) #24 6 points 0 comments -> [Show HN: I made a game testing your prompting skills](https://app4.hc11.org/49499641/en/)<!-- HN:41545541:end -->
