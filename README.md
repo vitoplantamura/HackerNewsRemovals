@@ -152,3 +152,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41539553](https://news.social-protocols.org/stats?id=41539553) #17 15 points 3 comments -> [Thomas Piketty: 'The Draghi report is a step in the right direction'](https://www.lemonde.fr/en/opinion/article/2024/09/14/thomas-piketty-the-draghi-report-is-a-step-in-the-right-direction_6725996_23.html)<!-- HN:41539553:end --><!-- HN:41541481:start -->
 * [41541481](https://news.social-protocols.org/stats?id=41541481) #7 5 points 6 comments -> [Sweden to pay refugees up to 341,00 USD to return](https://www.dn.se/sverige/regeringen-hojer-atervandringsbidraget-kraftigt/)<!-- HN:41541481:end --><!-- HN:41541678:start -->
 * [41541678](https://news.social-protocols.org/stats?id=41541678) #30 3 points 2 comments -> [Accha FM – World's First 100% AI Generated Audio Entertainment Super App](https://acchafm.com/)<!-- HN:41541678:end -->
+#### **Sunday, September 15, 2024**
+<!-- HN:41543382:start -->
+* [41543382](https://news.social-protocols.org/stats?id=41543382) #24 24 points 40 comments -> [A cartoon butt clenching a bar of soap has invaded my online ads](https://arstechnica.com/culture/2024/09/a-cartoon-butt-clenching-a-bar-of-soap-has-invaded-my-online-ads/)<!-- HN:41543382:end -->
