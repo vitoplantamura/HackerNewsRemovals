@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, September 16, 2024**
 <!-- HN:41505528:start -->
 * [41505528](https://news.social-protocols.org/stats?id=41505528) #20 150 points 92 comments -> [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)<!-- HN:41505528:end --><!-- HN:41553840:start -->
-* [41553840](https://news.social-protocols.org/stats?id=41553840) #5 9 points 4 comments -> [Startups Shouldn't Start with Figma](https://www.brainbuildai.com/blog/startups-not-start-with-figma)<!-- HN:41553840:end -->
+* [41553840](https://news.social-protocols.org/stats?id=41553840) #5 9 points 4 comments -> [Startups Shouldn't Start with Figma](https://www.brainbuildai.com/blog/startups-not-start-with-figma)<!-- HN:41553840:end --><!-- HN:41554285:start -->
+* [41554285](https://news.social-protocols.org/stats?id=41554285) #23 9 points 0 comments -> [Thierry Breton Has Resigned](https://twitter.com/thierrybreton/status/1835565206639972734)<!-- HN:41554285:end -->
