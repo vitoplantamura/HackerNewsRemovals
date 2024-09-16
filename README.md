@@ -150,3 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41548016](https://news.social-protocols.org/stats?id=41548016) #13 -> [Our New Religion Isn't Enough](https://www.freyaindia.co.uk/p/our-new-religion-isnt-enough)<!-- HN:41548016:end --><!-- HN:41548997:start -->
 * [41548997](https://news.social-protocols.org/stats?id=41548997) #1 74 points 3 comments -> [Terence Tao: creative strategies, this aspect of LLM tools is still weak](https://mathstodon.xyz/@tao/113142753409304792)<!-- HN:41548997:end --><!-- HN:41550406:start -->
 * [41550406](https://news.social-protocols.org/stats?id=41550406) #10 3 points 2 comments -> [The Unfortunate Physics of Male Urination (2016)](https://priceonomics.com/why-cant-we-build-a-splash-proof-toilet/)<!-- HN:41550406:end -->
+#### **Monday, September 16, 2024**
+<!-- HN:41505528:start -->
+* [41505528](https://news.social-protocols.org/stats?id=41505528) #20 150 points 92 comments -> [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)<!-- HN:41505528:end -->
