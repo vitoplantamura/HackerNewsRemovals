@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41550406](https://news.social-protocols.org/stats?id=41550406) #10 3 points 2 comments -> [The Unfortunate Physics of Male Urination (2016)](https://priceonomics.com/why-cant-we-build-a-splash-proof-toilet/)<!-- HN:41550406:end -->
 #### **Monday, September 16, 2024**
 <!-- HN:41505528:start -->
-* [41505528](https://news.social-protocols.org/stats?id=41505528) #20 150 points 92 comments -> [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)<!-- HN:41505528:end -->
+* [41505528](https://news.social-protocols.org/stats?id=41505528) #20 150 points 92 comments -> [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)<!-- HN:41505528:end --><!-- HN:41553840:start -->
+* [41553840](https://news.social-protocols.org/stats?id=41553840) #5 9 points 4 comments -> [Startups Shouldn't Start with Figma](https://www.brainbuildai.com/blog/startups-not-start-with-figma)<!-- HN:41553840:end -->
