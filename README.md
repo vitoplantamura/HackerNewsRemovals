@@ -43,25 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, September 9, 2024**
-<!-- HN:41440620:start -->
-* [41440620](https://news.social-protocols.org/stats?id=41440620) #14 22 points 5 comments -> [16th Century Irish Hipsters](http://irisharchaeology.ie/2013/08/16th-century-irish-hipsters/)<!-- HN:41440620:end --><!-- HN:41443012:start -->
-* [41443012](https://news.social-protocols.org/stats?id=41443012) #19 121 points 32 comments -> [LibrePythonista allows running IPython code in a LibreOffice spreadsheet](https://github.com/Amourspirit/python_libre_pythonista_ext)<!-- HN:41443012:end --><!-- HN:41438744:start -->
-* [41438744](https://news.social-protocols.org/stats?id=41438744) #27 38 points 28 comments -> [Deadline looms: Google Workspace mandates OAuth by September 30](https://www.theregister.com/2024/09/03/google_workspace_third_party_apps/)<!-- HN:41438744:end --><!-- HN:41484633:start -->
-* [41484633](https://news.social-protocols.org/stats?id=41484633) #17 11 points 5 comments -> [⓿ dependencies!](https://0dependencies.dev/)<!-- HN:41484633:end --><!-- HN:41485447:start -->
-* [41485447](https://news.social-protocols.org/stats?id=41485447) #29 21 points 6 comments -> [The PermaTab Web Browser](https://lee-phillips.org/permatab/)<!-- HN:41485447:end --><!-- HN:41487044:start -->
-* [41487044](https://news.social-protocols.org/stats?id=41487044) #3 10 points 4 comments -> [Show HN: What do your GitHub starred repos say about you?](https://starlens.aisprint.dev/)<!-- HN:41487044:end --><!-- HN:41486935:start -->
-* [41486935](https://news.social-protocols.org/stats?id=41486935) #9 30 points 40 comments -> [Support for U.S. TikTok ban continues to decline](https://www.pewresearch.org/short-reads/2024/09/05/support-for-a-us-tiktok-ban-continues-to-decline-and-half-of-adults-doubt-it-will-happen/)<!-- HN:41486935:end --><!-- HN:41485967:start -->
-* [41485967](https://news.social-protocols.org/stats?id=41485967) #15 118 points 118 comments -> [Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)<!-- HN:41485967:end --><!-- HN:41484914:start -->
-* [41484914](https://news.social-protocols.org/stats?id=41484914) #29 33 points 6 comments -> [JPEG XL: Industry-leading image compression and fidelity](https://jpegxl.info)<!-- HN:41484914:end --><!-- HN:41487930:start -->
-* [41487930](https://news.social-protocols.org/stats?id=41487930) #17 -> [Police pressured him to confess to a murder that never happened](https://www.cnn.com/2024/09/05/us/fontana-pressured-murder-confession/index.html)<!-- HN:41487930:end --><!-- HN:41488189:start -->
-* [41488189](https://news.social-protocols.org/stats?id=41488189) #8 10 points 4 comments -> [Are greedy companies to blame for grocery inflation? We looked at the data](https://www.npr.org/2024/09/09/nx-s1-5103935/grocery-prices-inflation-corporate-greedflation)<!-- HN:41488189:end --><!-- HN:41482679:start -->
-* [41482679](https://news.social-protocols.org/stats?id=41482679) #27 175 points 116 comments -> [Htmx, Raku and Pico CSS](https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/)<!-- HN:41482679:end --><!-- HN:41488116:start -->
-* [41488116](https://news.social-protocols.org/stats?id=41488116) #2 72 points 40 comments -> [America's best-paid CEOs have the worst-paid employees](https://pluralistic.net/2024/09/09/low-wage-100/)<!-- HN:41488116:end --><!-- HN:41488929:start -->
-* [41488929](https://news.social-protocols.org/stats?id=41488929) #5 54 points 25 comments -> [Gitea blocks PR from community, charging $$ for open-source contributions](https://github.com/go-gitea/gitea/pull/24257)<!-- HN:41488929:end --><!-- HN:41489497:start -->
-* [41489497](https://news.social-protocols.org/stats?id=41489497) #21 7 points 0 comments -> [Great Barrier Reef already been dealt its death blow](https://www.rnz.co.nz/news/national/527469/great-barrier-reef-already-been-dealt-its-death-blow-scientist)<!-- HN:41489497:end --><!-- HN:41490125:start -->
-* [41490125](https://news.social-protocols.org/stats?id=41490125) #29 8 points 4 comments -> [Americans Voted Their Way into a Housing Crisis](https://www.bloomberg.com/news/articles/2024-09-08/an-american-affordable-housing-crisis-built-by-local-democracy)<!-- HN:41490125:end --><!-- HN:41493976:start -->
-* [41493976](https://news.social-protocols.org/stats?id=41493976) #8 64 points 7 comments -> [James Earl Jones, voice of Darth Vader, dies aged 93](https://www.bbc.co.uk/news/articles/ce81rkg87w8o)<!-- HN:41493976:end -->
 #### **Tuesday, September 10, 2024**
 <!-- HN:41452780:start -->
 * [41452780](https://news.social-protocols.org/stats?id=41452780) #29 118 points 27 comments -> [Paper types ranked by likelihood of paper cuts](https://phys.org/news/2024-08-paper-likelihood.html)<!-- HN:41452780:end --><!-- HN:41498640:start -->
