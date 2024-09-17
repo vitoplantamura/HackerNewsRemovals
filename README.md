@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41562543:start -->
 * [41562543](https://news.social-protocols.org/stats?id=41562543) #12 14 points 5 comments -> [Firefox no longer works after upgrading to macOS Sequoia](https://old.reddit.com/r/mac/comments/1fif1gr/firefox_no_longer_works_after_upgrading_to_macos/)<!-- HN:41562543:end --><!-- HN:41560225:start -->
 * [41560225](https://news.social-protocols.org/stats?id=41560225) #23 18 points 10 comments -> [Show HN: Microtonal Piano](https://osolmaz.github.io/microtonal-piano/)<!-- HN:41560225:end --><!-- HN:41563076:start -->
-* [41563076](https://news.social-protocols.org/stats?id=41563076) #8 5 points 0 comments -> [OpenAI O1 Blog](https://openaio1.blog/)<!-- HN:41563076:end -->
+* [41563076](https://news.social-protocols.org/stats?id=41563076) #8 5 points 0 comments -> [OpenAI O1 Blog](https://openaio1.blog/)<!-- HN:41563076:end --><!-- HN:41562111:start -->
+* [41562111](https://news.social-protocols.org/stats?id=41562111) #25 9 points 0 comments -> [Open Source Form Back End](https://github.com/FormBee/FormBee)<!-- HN:41562111:end -->
