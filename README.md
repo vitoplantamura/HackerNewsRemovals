@@ -159,4 +159,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41559870](https://news.social-protocols.org/stats?id=41559870) #30 12 points 2 comments -> [CATL launches ultra-high-energy-density EV bus battery that lasts ~1M miles](https://electrek.co/2024/09/16/catl-launches-new-ev-battery-lasts-nearly-1-million-miles/)<!-- HN:41559870:end -->
 #### **Tuesday, September 17, 2024**
 <!-- HN:41562543:start -->
-* [41562543](https://news.social-protocols.org/stats?id=41562543) #12 14 points 5 comments -> [Firefox no longer works after upgrading to macOS Sequoia](https://old.reddit.com/r/mac/comments/1fif1gr/firefox_no_longer_works_after_upgrading_to_macos/)<!-- HN:41562543:end -->
+* [41562543](https://news.social-protocols.org/stats?id=41562543) #12 14 points 5 comments -> [Firefox no longer works after upgrading to macOS Sequoia](https://old.reddit.com/r/mac/comments/1fif1gr/firefox_no_longer_works_after_upgrading_to_macos/)<!-- HN:41562543:end --><!-- HN:41562553:start -->
+* [41562553](https://news.social-protocols.org/stats?id=41562553) #26 3 points 0 comments -> [FreeBSD 13.4-Release Now Available](https://lists.freebsd.org/archives/freebsd-announce/2024-September/000159.html)<!-- HN:41562553:end -->
