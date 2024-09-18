@@ -159,3 +159,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41568019](https://news.social-protocols.org/stats?id=41568019) #2 83 points 57 comments -> [Exploding pagers injure hundreds in attack targeting Hezbollah members](https://www.cnn.com/2024/09/17/middleeast/lebanon-hezbollah-pagers-explosions-intl/index.html)<!-- HN:41568019:end --><!-- HN:41570732:start -->
 * [41570732](https://news.social-protocols.org/stats?id=41570732) #15 13 points 1 comments -> [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)<!-- HN:41570732:end --><!-- HN:41567573:start -->
 * [41567573](https://news.social-protocols.org/stats?id=41567573) #15 677 points 3 comments -> [Dozens of Hezbollah members said to be seriously injured  as devices explode](https://www.timesofisrael.com/liveblog_entry/dozens-of-hezbollah-members-said-serious-injured-in-beirut-as-devices-explode-in-alleged-israeli-op/)<!-- HN:41567573:end -->
+#### **Wednesday, September 18, 2024**
+<!-- HN:41573256:start -->
+* [41573256](https://news.social-protocols.org/stats?id=41573256) #24 21 points 40 comments -> [A Word about Systemd](https://skarnet.org/software/systemd.html)<!-- HN:41573256:end -->
