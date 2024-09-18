@@ -163,5 +163,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41573256:start -->
 * [41573256](https://news.social-protocols.org/stats?id=41573256) #24 21 points 40 comments -> [A Word about Systemd](https://skarnet.org/software/systemd.html)<!-- HN:41573256:end --><!-- HN:41524517:start -->
 * [41524517](https://news.social-protocols.org/stats?id=41524517) #8 34 points 9 comments -> [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)<!-- HN:41524517:end --><!-- HN:41552132:start -->
-* [41552132](https://news.social-protocols.org/stats?id=41552132) #12 5 points 1 comments -> [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)<!-- HN:41552132:end --><!-- HN:41576012:start -->
-* [41576012](https://news.social-protocols.org/stats?id=41576012) #26 18 points 4 comments -> [In unprecedented move, Ohio is funding construction of private religious schools](https://www.propublica.org/article/ohio-taxpayer-money-funding-private-religious-schools)<!-- HN:41576012:end -->
+* [41552132](https://news.social-protocols.org/stats?id=41552132) #12 5 points 1 comments -> [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)<!-- HN:41552132:end -->
