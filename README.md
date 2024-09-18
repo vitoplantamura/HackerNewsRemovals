@@ -160,7 +160,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41570732](https://news.social-protocols.org/stats?id=41570732) #15 13 points 1 comments -> [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)<!-- HN:41570732:end --><!-- HN:41567573:start -->
 * [41567573](https://news.social-protocols.org/stats?id=41567573) #15 677 points 3 comments -> [Dozens of Hezbollah members said to be seriously injured  as devices explode](https://www.timesofisrael.com/liveblog_entry/dozens-of-hezbollah-members-said-serious-injured-in-beirut-as-devices-explode-in-alleged-israeli-op/)<!-- HN:41567573:end -->
 #### **Wednesday, September 18, 2024**
-<!-- HN:41573256:start -->
-* [41573256](https://news.social-protocols.org/stats?id=41573256) #24 21 points 40 comments -> [A Word about Systemd](https://skarnet.org/software/systemd.html)<!-- HN:41573256:end --><!-- HN:41524517:start -->
+<!-- HN:41524517:start -->
 * [41524517](https://news.social-protocols.org/stats?id=41524517) #8 34 points 9 comments -> [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)<!-- HN:41524517:end --><!-- HN:41552132:start -->
 * [41552132](https://news.social-protocols.org/stats?id=41552132) #12 5 points 1 comments -> [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)<!-- HN:41552132:end -->
