@@ -162,4 +162,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 18, 2024**
 <!-- HN:41524517:start -->
 * [41524517](https://news.social-protocols.org/stats?id=41524517) #8 34 points 9 comments -> [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)<!-- HN:41524517:end --><!-- HN:41552132:start -->
-* [41552132](https://news.social-protocols.org/stats?id=41552132) #12 5 points 1 comments -> [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)<!-- HN:41552132:end -->
+* [41552132](https://news.social-protocols.org/stats?id=41552132) #12 5 points 1 comments -> [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)<!-- HN:41552132:end --><!-- HN:41577717:start -->
+* [41577717](https://news.social-protocols.org/stats?id=41577717) #4 8 points 11 comments -> [Show HN: Free AI tailored workout generator](https://www.workoutgenerator.fit)<!-- HN:41577717:end -->
