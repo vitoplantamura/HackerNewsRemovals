@@ -162,4 +162,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 18, 2024**
 <!-- HN:41573256:start -->
 * [41573256](https://news.social-protocols.org/stats?id=41573256) #24 21 points 40 comments -> [A Word about Systemd](https://skarnet.org/software/systemd.html)<!-- HN:41573256:end --><!-- HN:41524517:start -->
-* [41524517](https://news.social-protocols.org/stats?id=41524517) #8 34 points 9 comments -> [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)<!-- HN:41524517:end -->
+* [41524517](https://news.social-protocols.org/stats?id=41524517) #8 34 points 9 comments -> [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)<!-- HN:41524517:end --><!-- HN:41552132:start -->
+* [41552132](https://news.social-protocols.org/stats?id=41552132) #12 5 points 1 comments -> [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)<!-- HN:41552132:end -->
