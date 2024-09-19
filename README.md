@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41585624](https://news.social-protocols.org/stats?id=41585624) #6 5 points 1 comments -> [Seventh Day Adventists, fighting onanism, and selling veganism to America](https://josepheverettwil.substack.com/p/the-shady-story-behind-why-we-think)<!-- HN:41585624:end -->
 #### **Thursday, September 19, 2024**
 <!-- HN:41538009:start -->
-* [41538009](https://news.social-protocols.org/stats?id=41538009) #11 13 points 5 comments -> [Are You Qualified to Use Null in SQL?](https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html)<!-- HN:41538009:end -->
+* [41538009](https://news.social-protocols.org/stats?id=41538009) #11 13 points 5 comments -> [Are You Qualified to Use Null in SQL?](https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html)<!-- HN:41538009:end --><!-- HN:41587900:start -->
+* [41587900](https://news.social-protocols.org/stats?id=41587900) #11 10 points 26 comments -> [Strange Design Decision: An Oven with French Doors](https://www.core77.com/posts/133639/Strange-Design-Decision-An-Oven-with-French-Doors)<!-- HN:41587900:end -->
