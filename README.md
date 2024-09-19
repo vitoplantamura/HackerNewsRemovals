@@ -155,3 +155,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41582958](https://news.social-protocols.org/stats?id=41582958) #13 6 points 0 comments -> [The San Francisco Freedom Club](https://www.sffc.party)<!-- HN:41582958:end --><!-- HN:41583294:start -->
 * [41583294](https://news.social-protocols.org/stats?id=41583294) #30 13 points 1 comments -> [Walkie-talkie explosions rock Lebanon a day after pager attacks](https://apnews.com/live/lebanon-syria-pagers-hezbollah-updates)<!-- HN:41583294:end --><!-- HN:41585624:start -->
 * [41585624](https://news.social-protocols.org/stats?id=41585624) #6 5 points 1 comments -> [Seventh Day Adventists, fighting onanism, and selling veganism to America](https://josepheverettwil.substack.com/p/the-shady-story-behind-why-we-think)<!-- HN:41585624:end -->
+#### **Thursday, September 19, 2024**
+<!-- HN:41538009:start -->
+* [41538009](https://news.social-protocols.org/stats?id=41538009) #11 13 points 5 comments -> [Are You Qualified to Use Null in SQL?](https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html)<!-- HN:41538009:end -->
