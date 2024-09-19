@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 19, 2024**
 <!-- HN:41538009:start -->
 * [41538009](https://news.social-protocols.org/stats?id=41538009) #11 13 points 5 comments -> [Are You Qualified to Use Null in SQL?](https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html)<!-- HN:41538009:end --><!-- HN:41587900:start -->
-* [41587900](https://news.social-protocols.org/stats?id=41587900) #11 10 points 26 comments -> [Strange Design Decision: An Oven with French Doors](https://www.core77.com/posts/133639/Strange-Design-Decision-An-Oven-with-French-Doors)<!-- HN:41587900:end -->
+* [41587900](https://news.social-protocols.org/stats?id=41587900) #11 10 points 26 comments -> [Strange Design Decision: An Oven with French Doors](https://www.core77.com/posts/133639/Strange-Design-Decision-An-Oven-with-French-Doors)<!-- HN:41587900:end --><!-- HN:41587214:start -->
+* [41587214](https://news.social-protocols.org/stats?id=41587214) #4 275 points 215 comments -> [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)<!-- HN:41587214:end -->
