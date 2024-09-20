@@ -108,8 +108,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41559870](https://news.social-protocols.org/stats?id=41559870) #30 12 points 2 comments -> [CATL launches ultra-high-energy-density EV bus battery that lasts ~1M miles](https://electrek.co/2024/09/16/catl-launches-new-ev-battery-lasts-nearly-1-million-miles/)<!-- HN:41559870:end -->
 #### **Tuesday, September 17, 2024**
 <!-- HN:41562543:start -->
-* [41562543](https://news.social-protocols.org/stats?id=41562543) #12 14 points 5 comments -> [Firefox no longer works after upgrading to macOS Sequoia](https://old.reddit.com/r/mac/comments/1fif1gr/firefox_no_longer_works_after_upgrading_to_macos/)<!-- HN:41562543:end --><!-- HN:41560225:start -->
-* [41560225](https://news.social-protocols.org/stats?id=41560225) #23 18 points 10 comments -> [Show HN: Microtonal Piano](https://osolmaz.github.io/microtonal-piano/)<!-- HN:41560225:end --><!-- HN:41563076:start -->
+* [41562543](https://news.social-protocols.org/stats?id=41562543) #12 14 points 5 comments -> [Firefox no longer works after upgrading to macOS Sequoia](https://old.reddit.com/r/mac/comments/1fif1gr/firefox_no_longer_works_after_upgrading_to_macos/)<!-- HN:41562543:end --><!-- HN:41563076:start -->
 * [41563076](https://news.social-protocols.org/stats?id=41563076) #8 5 points 0 comments -> [OpenAI O1 Blog](https://openaio1.blog/)<!-- HN:41563076:end --><!-- HN:41562111:start -->
 * [41562111](https://news.social-protocols.org/stats?id=41562111) #25 9 points 0 comments -> [Open Source Form Back End](https://github.com/FormBee/FormBee)<!-- HN:41562111:end --><!-- HN:41563205:start -->
 * [41563205](https://news.social-protocols.org/stats?id=41563205) #5 20 points 44 comments -> [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)<!-- HN:41563205:end --><!-- HN:41564611:start -->
