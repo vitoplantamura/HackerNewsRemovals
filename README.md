@@ -181,4 +181,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 20, 2024**
 <!-- HN:41540542:start -->
 * [41540542](https://news.social-protocols.org/stats?id=41540542) #12 170 points 104 comments -> [MicroPython on Flipper Zero](https://lab.flipper.net/apps/upython)<!-- HN:41540542:end --><!-- HN:41548551:start -->
-* [41548551](https://news.social-protocols.org/stats?id=41548551) #21 5 points 0 comments -> [Sculpture commemorates 16th century drowning that inspired Shakespeare](https://www.theguardian.com/artanddesign/2024/sep/15/river-stour-sculpture-commemorates-16th-century-drowning-that-inspired-shakespeare)<!-- HN:41548551:end -->
+* [41548551](https://news.social-protocols.org/stats?id=41548551) #21 5 points 0 comments -> [Sculpture commemorates 16th century drowning that inspired Shakespeare](https://www.theguardian.com/artanddesign/2024/sep/15/river-stour-sculpture-commemorates-16th-century-drowning-that-inspired-shakespeare)<!-- HN:41548551:end --><!-- HN:41598274:start -->
+* [41598274](https://news.social-protocols.org/stats?id=41598274) #21 15 points 5 comments -> [How Stripe Built One of Silicon Valley’s Best Engineering Teams](https://review.firstround.com/how-stripe-built-one-of-silicon-valleys-best-engineering-teams/)<!-- HN:41598274:end -->
