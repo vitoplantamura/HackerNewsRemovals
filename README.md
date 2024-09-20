@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, September 13, 2024**
-<!-- HN:41475975:start -->
-* [41475975](https://news.social-protocols.org/stats?id=41475975) #21 191 points 29 comments -> [DEF Con 32 – AMD Sinkclose Universal Ring-2 Privilege Escalation (Not Redacted) [pdf]](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation.pdf)<!-- HN:41475975:end --><!-- HN:41479487:start -->
-* [41479487](https://news.social-protocols.org/stats?id=41479487) #23 72 points 2 comments -> [Show HN: Goroutine Monitor Powered by eBPF](https://github.com/keisku/gmon)<!-- HN:41479487:end --><!-- HN:41523070:start -->
-* [41523070](https://news.social-protocols.org/stats?id=41523070) #19 1577 points 1186 comments -> [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)<!-- HN:41523070:end --><!-- HN:41481514:start -->
-* [41481514](https://news.social-protocols.org/stats?id=41481514) #4 208 points 169 comments -> [Swimmable Cities](https://www.swimmablecities.org)<!-- HN:41481514:end --><!-- HN:41531209:start -->
-* [41531209](https://news.social-protocols.org/stats?id=41531209) #23 10 points 1 comments -> [Florida officials investigate voters who signed abortion ballot initiative](https://www.theguardian.com/us-news/2024/sep/13/florida-abortion-petition-investigation)<!-- HN:41531209:end --><!-- HN:41488821:start -->
-* [41488821](https://news.social-protocols.org/stats?id=41488821) #30 36 points 11 comments -> [Two Useful Prompts to Explore Intent and Behaviour](https://adrianhoward.com/posts/two-prompts-to-explore-intent-and-behaviour/)<!-- HN:41488821:end --><!-- HN:41531558:start -->
-* [41531558](https://news.social-protocols.org/stats?id=41531558) #3 7 points 0 comments -> [Funded by YC (Your Cents)](https://www.fundedbyyc.com/)<!-- HN:41531558:end --><!-- HN:41490813:start -->
-* [41490813](https://news.social-protocols.org/stats?id=41490813) #16 12 points 8 comments -> [The Roman siege of Masada lasted just a few weeks, not several years](https://phys.org/news/2024-09-roman-siege-masada-weeks-years.html)<!-- HN:41490813:end --><!-- HN:41531689:start -->
-* [41531689](https://news.social-protocols.org/stats?id=41531689) #28 6 points 0 comments -> [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)<!-- HN:41531689:end --><!-- HN:41532564:start -->
-* [41532564](https://news.social-protocols.org/stats?id=41532564) #11 8 points 1 comments -> [Affirmative Action Was Banned. What Happened Next Was Confusing](https://www.nytimes.com/2024/09/13/us/affirmative-action-ban-campus-diversity.html)<!-- HN:41532564:end --><!-- HN:41532605:start -->
-* [41532605](https://news.social-protocols.org/stats?id=41532605) #8 -> [Americans Clicked Ads to Get Free Cash. Their Health Insurance Changed Instead](https://www.wsj.com/health/healthcare/social-media-ads-health-insurance-scams-37d1ecfa)<!-- HN:41532605:end --><!-- HN:41533359:start -->
-* [41533359](https://news.social-protocols.org/stats?id=41533359) #5 9 points 14 comments -> [Why freedom of speech is a wicked problem](https://no-kill-switch.ghost.io/why-freedom-of-speech-is-a-wicked-problem/)<!-- HN:41533359:end --><!-- HN:41533784:start -->
-* [41533784](https://news.social-protocols.org/stats?id=41533784) #15 10 points 41 comments -> [Older Americans Are About to Lose a Lot of Weight](https://www.theatlantic.com/health/archive/2024/02/ozempic-weight-loss-older-americans-boomers/677371/)<!-- HN:41533784:end --><!-- HN:41534396:start -->
-* [41534396](https://news.social-protocols.org/stats?id=41534396) #21 8 points 2 comments -> [Richard Powers on What We Do to the Earth and What It Does to Us](https://www.newyorker.com/magazine/2024/09/16/richard-powers-profile)<!-- HN:41534396:end -->
 #### **Saturday, September 14, 2024**
 <!-- HN:41536041:start -->
 * [41536041](https://news.social-protocols.org/stats?id=41536041) #22 15 points 29 comments -> [Tesla Cybertruck sales surge 61% in July, outsells direct rivals](https://www.teslarati.com/tesla-cybertruck-sales-61-percent-july-outsells-all-rivals-sp-global-mobility/)<!-- HN:41536041:end --><!-- HN:41486107:start -->
