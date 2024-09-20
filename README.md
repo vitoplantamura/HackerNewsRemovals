@@ -178,3 +178,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41591991](https://news.social-protocols.org/stats?id=41591991) #26 6 points 0 comments -> [The "R" in MTTR: Repair or Recover? What's the Difference?](https://www.causely.io/blog/mttr-meaning/)<!-- HN:41591991:end --><!-- HN:41595042:start -->
 * [41595042](https://news.social-protocols.org/stats?id=41595042) #29 3 points 0 comments -> [Homeless people often choose the street over a bed – find out why](https://missionlocal.org/2024/09/sf-homeless-shelters-street-bed-navigation-centers/)<!-- HN:41595042:end --><!-- HN:41594523:start -->
 * [41594523](https://news.social-protocols.org/stats?id=41594523) #27 10 points 0 comments -> [There is no antimimetics division V2](https://qntm.org/publ)<!-- HN:41594523:end -->
+#### **Friday, September 20, 2024**
+<!-- HN:41540542:start -->
+* [41540542](https://news.social-protocols.org/stats?id=41540542) #12 170 points 104 comments -> [MicroPython on Flipper Zero](https://lab.flipper.net/apps/upython)<!-- HN:41540542:end --><!-- HN:41548551:start -->
+* [41548551](https://news.social-protocols.org/stats?id=41548551) #21 5 points 0 comments -> [Sculpture commemorates 16th century drowning that inspired Shakespeare](https://www.theguardian.com/artanddesign/2024/sep/15/river-stour-sculpture-commemorates-16th-century-drowning-that-inspired-shakespeare)<!-- HN:41548551:end -->
