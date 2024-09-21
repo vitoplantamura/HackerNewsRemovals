@@ -182,3 +182,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41603920](https://news.social-protocols.org/stats?id=41603920) #23 13 points 4 comments -> [Re-opened Three Mile Island will power AI data centers under new deal](https://arstechnica.com/ai/2024/09/re-opened-three-mile-island-will-power-ai-data-centers-under-new-deal/)<!-- HN:41603920:end --><!-- HN:41605202:start -->
 * [41605202](https://news.social-protocols.org/stats?id=41605202) #24 6 points 1 comments -> [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/arts-culture/books/graveyard-of-the-pacific-review-broken-by-the-waves-883b6c3a)<!-- HN:41605202:end --><!-- HN:41550404:start -->
 * [41550404](https://news.social-protocols.org/stats?id=41550404) #30 14 points 5 comments -> [Ultrasonic Chips Could Cut Interference in the IoT](https://spectrum.ieee.org/topological-acoustics)<!-- HN:41550404:end -->
+#### **Saturday, September 21, 2024**
+<!-- HN:41552849:start -->
+* [41552849](https://news.social-protocols.org/stats?id=41552849) #8 17 points 4 comments -> [A picture of Earth through time](https://blog.google/products/earth/a-picture-of-earth-through-time/)<!-- HN:41552849:end -->
