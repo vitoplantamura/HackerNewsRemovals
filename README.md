@@ -184,4 +184,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41550404](https://news.social-protocols.org/stats?id=41550404) #30 14 points 5 comments -> [Ultrasonic Chips Could Cut Interference in the IoT](https://spectrum.ieee.org/topological-acoustics)<!-- HN:41550404:end -->
 #### **Saturday, September 21, 2024**
 <!-- HN:41552849:start -->
-* [41552849](https://news.social-protocols.org/stats?id=41552849) #8 17 points 4 comments -> [A picture of Earth through time](https://blog.google/products/earth/a-picture-of-earth-through-time/)<!-- HN:41552849:end -->
+* [41552849](https://news.social-protocols.org/stats?id=41552849) #8 17 points 4 comments -> [A picture of Earth through time](https://blog.google/products/earth/a-picture-of-earth-through-time/)<!-- HN:41552849:end --><!-- HN:41607920:start -->
+* [41607920](https://news.social-protocols.org/stats?id=41607920) #13 31 points 41 comments -> [Hollywood Can't Ditch Its Teslas Fast Enough:"They're Destroying Their Leases.."](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tesla-robotaxi-warner-bros-reveal-hollywood-rejection-elon-musk-1236007945/)<!-- HN:41607920:end -->
