@@ -184,4 +184,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41550404](https://news.social-protocols.org/stats?id=41550404) #30 14 points 5 comments -> [Ultrasonic Chips Could Cut Interference in the IoT](https://spectrum.ieee.org/topological-acoustics)<!-- HN:41550404:end -->
 #### **Saturday, September 21, 2024**
 <!-- HN:41552849:start -->
-* [41552849](https://news.social-protocols.org/stats?id=41552849) #8 17 points 4 comments -> [A picture of Earth through time](https://blog.google/products/earth/a-picture-of-earth-through-time/)<!-- HN:41552849:end -->
+* [41552849](https://news.social-protocols.org/stats?id=41552849) #8 17 points 4 comments -> [A picture of Earth through time](https://blog.google/products/earth/a-picture-of-earth-through-time/)<!-- HN:41552849:end --><!-- HN:41607569:start -->
+* [41607569](https://news.social-protocols.org/stats?id=41607569) #19 41 points 27 comments -> [Ruby on Rails continues to thrive](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)<!-- HN:41607569:end -->
