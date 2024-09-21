@@ -185,4 +185,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, September 21, 2024**
 <!-- HN:41552849:start -->
 * [41552849](https://news.social-protocols.org/stats?id=41552849) #8 17 points 4 comments -> [A picture of Earth through time](https://blog.google/products/earth/a-picture-of-earth-through-time/)<!-- HN:41552849:end --><!-- HN:41607569:start -->
-* [41607569](https://news.social-protocols.org/stats?id=41607569) #19 41 points 27 comments -> [Ruby on Rails continues to thrive](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)<!-- HN:41607569:end -->
+* [41607569](https://news.social-protocols.org/stats?id=41607569) #19 41 points 27 comments -> [Ruby on Rails continues to thrive](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)<!-- HN:41607569:end --><!-- HN:41606530:start -->
+* [41606530](https://news.social-protocols.org/stats?id=41606530) #22 187 points 115 comments -> [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)<!-- HN:41606530:end -->
