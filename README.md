@@ -174,3 +174,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41569284](https://news.social-protocols.org/stats?id=41569284) #30 13 points 5 comments -> [Gibbons move with rhythm and intention. Dare we say style?](https://www.nytimes.com/2024/09/14/science/gibbons-dancing-apes.html)<!-- HN:41569284:end --><!-- HN:41612584:start -->
 * [41612584](https://news.social-protocols.org/stats?id=41612584) #13 5 points 1 comments -> [The Pain of Travelling While Palestinian](https://www.newyorker.com/culture/the-weekend-essay/the-pain-of-travelling-while-palestinian)<!-- HN:41612584:end --><!-- HN:41613025:start -->
 * [41613025](https://news.social-protocols.org/stats?id=41613025) #30 16 points 10 comments -> [Why I'm Leaving Meta](https://medium.com/@peravi8126/why-im-leaving-meta-c3ab43491204)<!-- HN:41613025:end -->
+#### **Sunday, September 22, 2024**
+<!-- HN:41567862:start -->
+* [41567862](https://news.social-protocols.org/stats?id=41567862) #14 24 points 3 comments -> [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)<!-- HN:41567862:end -->
