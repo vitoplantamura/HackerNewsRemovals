@@ -176,4 +176,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41613025](https://news.social-protocols.org/stats?id=41613025) #30 16 points 10 comments -> [Why I'm Leaving Meta](https://medium.com/@peravi8126/why-im-leaving-meta-c3ab43491204)<!-- HN:41613025:end -->
 #### **Sunday, September 22, 2024**
 <!-- HN:41567862:start -->
-* [41567862](https://news.social-protocols.org/stats?id=41567862) #14 24 points 3 comments -> [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)<!-- HN:41567862:end -->
+* [41567862](https://news.social-protocols.org/stats?id=41567862) #14 24 points 3 comments -> [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)<!-- HN:41567862:end --><!-- HN:41616612:start -->
+* [41616612](https://news.social-protocols.org/stats?id=41616612) #2 16 points 12 comments -> [Hacker Leaks 3.3B Emails and Yes Every Single One Is Unique](https://hackerdose.com/privacy/massive-3-3-billion-emails-leaked/)<!-- HN:41616612:end -->
