@@ -177,4 +177,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, September 22, 2024**
 <!-- HN:41567862:start -->
 * [41567862](https://news.social-protocols.org/stats?id=41567862) #14 24 points 3 comments -> [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)<!-- HN:41567862:end --><!-- HN:41616612:start -->
-* [41616612](https://news.social-protocols.org/stats?id=41616612) #2 16 points 12 comments -> [Hacker Leaks 3.3B Emails and Yes Every Single One Is Unique](https://hackerdose.com/privacy/massive-3-3-billion-emails-leaked/)<!-- HN:41616612:end -->
+* [41616612](https://news.social-protocols.org/stats?id=41616612) #2 16 points 12 comments -> [Hacker Leaks 3.3B Emails and Yes Every Single One Is Unique](https://hackerdose.com/privacy/massive-3-3-billion-emails-leaked/)<!-- HN:41616612:end --><!-- HN:41616463:start -->
+* [41616463](https://news.social-protocols.org/stats?id=41616463) #1 32 points 10 comments -> [Surviving Threads: Why Are People Drawn to the World's Most Harrowing Film?](https://thequietus.com/opinion-and-essays/black-sky-thinking/threads-tv-film-review-anniversary/)<!-- HN:41616463:end -->
