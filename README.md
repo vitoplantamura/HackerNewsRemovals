@@ -154,3 +154,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41616799](https://news.social-protocols.org/stats?id=41616799) #22 4 points 1 comments -> [A 23-person Lego team built a 1:1 scale working McLaren P1 using 342,817 pieces](https://www.lego.com/en-us/aboutus/news/2024/september/lego-technic-ultimate-challenge)<!-- HN:41616799:end --><!-- HN:41616540:start -->
 * [41616540](https://news.social-protocols.org/stats?id=41616540) #26 42 points 23 comments -> [Bruce Schneier: Israel's Pager Attacks Have Changed the World](https://www.nytimes.com/2024/09/22/opinion/israel-pager-attacks-supply-chain.html)<!-- HN:41616540:end --><!-- HN:41615563:start -->
 * [41615563](https://news.social-protocols.org/stats?id=41615563) #21 8 points 3 comments -> [Open Source Icon Sets](https://icon-sets.iconify.design/)<!-- HN:41615563:end -->
+#### **Monday, September 23, 2024**
+<!-- HN:41621672:start -->
+* [41621672](https://news.social-protocols.org/stats?id=41621672) #12 24 points 9 comments -> [Man dies after being knocked down by woman on scooter](https://abc7.com/post/man-dies-after-being-knocked-down-woman-scooter-koreatown-police-investigating-hit-run/15337382/)<!-- HN:41621672:end -->
