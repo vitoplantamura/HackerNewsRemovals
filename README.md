@@ -167,3 +167,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41630976](https://news.social-protocols.org/stats?id=41630976) #9 6 points 2 comments -> [Show HN: Who Should Be the President?](https://ileantoward.com/)<!-- HN:41630976:end --><!-- HN:41629811:start -->
 * [41629811](https://news.social-protocols.org/stats?id=41629811) #29 95 points 262 comments -> [Anime is eating the world](https://a16z.com/anime-is-eating-the-world/)<!-- HN:41629811:end --><!-- HN:41631464:start -->
 * [41631464](https://news.social-protocols.org/stats?id=41631464) #22 6 points 0 comments -> [Israeli military shuts down Al Jazeera bureau in West Bank raid](https://www.theguardian.com/world/2024/sep/22/al-jazeera-office-west-bank-raid-israeli-forces-media)<!-- HN:41631464:end -->
+#### **Tuesday, September 24, 2024**
+<!-- HN:41631995:start -->
+* [41631995](https://news.social-protocols.org/stats?id=41631995) #18 6 points 2 comments -> ["Traffic Violence": The Grifters Go After Cars](https://albertcory50.substack.com/p/traffic-violence-the-grifters-go)<!-- HN:41631995:end -->
