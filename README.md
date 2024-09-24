@@ -170,4 +170,8 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 24, 2024**
 <!-- HN:41631995:start -->
 * [41631995](https://news.social-protocols.org/stats?id=41631995) #18 6 points 2 comments -> ["Traffic Violence": The Grifters Go After Cars](https://albertcory50.substack.com/p/traffic-violence-the-grifters-go)<!-- HN:41631995:end --><!-- HN:41632606:start -->
-* [41632606](https://news.social-protocols.org/stats?id=41632606) #6 5 points 2 comments -> [Bootstrapped to 10K Users: Is B2B the Only Way to Monetize?](https://www.jobsolv.com/)<!-- HN:41632606:end -->
+* [41632606](https://news.social-protocols.org/stats?id=41632606) #6 5 points 2 comments -> [Bootstrapped to 10K Users: Is B2B the Only Way to Monetize?](https://www.jobsolv.com/)<!-- HN:41632606:end --><!-- HN:41579268:start -->
+* [41579268](https://news.social-protocols.org/stats?id=41579268) #12 347 points 36 comments -> [GPU Puzzles](https://github.com/srush/GPU-Puzzles)<!-- HN:41579268:end --><!-- HN:41587350:start -->
+* [41587350](https://news.social-protocols.org/stats?id=41587350) #19 5 points 0 comments -> [Retrowin32: Redoing Syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)<!-- HN:41587350:end --><!-- HN:41582756:start -->
+* [41582756](https://news.social-protocols.org/stats?id=41582756) #22 42 points 45 comments -> [The Death of LCDs, Means New Life for Chips](https://timculpan.substack.com/p/the-death-of-lcds-means-new-life)<!-- HN:41582756:end --><!-- HN:41585509:start -->
+* [41585509](https://news.social-protocols.org/stats?id=41585509) #24 35 points 4 comments -> [The Many Lives of James Lovelock by Jonathan Watts – Man of Many Myths](https://www.theguardian.com/books/article/2024/sep/14/the-many-lives-of-james-lovelock-by-jonathan-watts-man-of-many-myths)<!-- HN:41585509:end -->
