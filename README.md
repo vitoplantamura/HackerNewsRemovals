@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, September 17, 2024**
-<!-- HN:41562543:start -->
-* [41562543](https://news.social-protocols.org/stats?id=41562543) #12 14 points 5 comments -> [Firefox no longer works after upgrading to macOS Sequoia](https://old.reddit.com/r/mac/comments/1fif1gr/firefox_no_longer_works_after_upgrading_to_macos/)<!-- HN:41562543:end --><!-- HN:41563076:start -->
-* [41563076](https://news.social-protocols.org/stats?id=41563076) #8 5 points 0 comments -> [OpenAI O1 Blog](https://openaio1.blog/)<!-- HN:41563076:end --><!-- HN:41562111:start -->
-* [41562111](https://news.social-protocols.org/stats?id=41562111) #25 9 points 0 comments -> [Open Source Form Back End](https://github.com/FormBee/FormBee)<!-- HN:41562111:end --><!-- HN:41563205:start -->
-* [41563205](https://news.social-protocols.org/stats?id=41563205) #5 20 points 44 comments -> [The reason why music is getting worse](https://www.openculture.com/2024/09/the-real-reason-why-music-is-getting-worse-rick-beato-explains.html)<!-- HN:41563205:end --><!-- HN:41564611:start -->
-* [41564611](https://news.social-protocols.org/stats?id=41564611) #2 70 points 32 comments -> [We have mathematically proven that transformers can solve any problem](https://twitter.com/denny_zhou/status/1835761801453306089)<!-- HN:41564611:end --><!-- HN:41517455:start -->
-* [41517455](https://news.social-protocols.org/stats?id=41517455) #6 26 points 9 comments -> [ChessDream, a place for chess players to improve](https://chessdream.vercel.app)<!-- HN:41517455:end --><!-- HN:41562481:start -->
-* [41562481](https://news.social-protocols.org/stats?id=41562481) #19 151 points 62 comments -> [Intel foundry business to make custom chip for Amazon, chipmaker's shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)<!-- HN:41562481:end --><!-- HN:41567615:start -->
-* [41567615](https://news.social-protocols.org/stats?id=41567615) #26 7 points 0 comments -> [Java 23 General-Availability Release](https://jdk.java.net/23/)<!-- HN:41567615:end --><!-- HN:41568052:start -->
-* [41568052](https://news.social-protocols.org/stats?id=41568052) #19 7 points 0 comments -> [Hezbollah Operatives' Pagers Explode in Attack Across Lebanon](https://www.wsj.com/world/middle-east/hundreds-of-hezbollah-operatives-pagers-explode-in-apparent-attack-across-lebanon-cf31cad4)<!-- HN:41568052:end --><!-- HN:41567980:start -->
-* [41567980](https://news.social-protocols.org/stats?id=41567980) #29 4 points 0 comments -> [Caution Earth to Capture a New Moon for 53 Days: Meet Asteroid 2024 PT5](https://www.youtube.com/watch?v=HnXtPQY5Yxw)<!-- HN:41567980:end --><!-- HN:41567939:start -->
-* [41567939](https://news.social-protocols.org/stats?id=41567939) #30 20 points 1 comments -> [Hezbollah members reportedly injured by exploding pagers](https://www.bbc.com/news/articles/cd7xnelvpepo)<!-- HN:41567939:end --><!-- HN:41568731:start -->
-* [41568731](https://news.social-protocols.org/stats?id=41568731) #25 3 points 1 comments -> [Mastodeck – Mastodon for Power Users](https://mastodeck.com/)<!-- HN:41568731:end --><!-- HN:41568019:start -->
-* [41568019](https://news.social-protocols.org/stats?id=41568019) #2 83 points 57 comments -> [Exploding pagers injure hundreds in attack targeting Hezbollah members](https://www.cnn.com/2024/09/17/middleeast/lebanon-hezbollah-pagers-explosions-intl/index.html)<!-- HN:41568019:end --><!-- HN:41570732:start -->
-* [41570732](https://news.social-protocols.org/stats?id=41570732) #15 13 points 1 comments -> [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)<!-- HN:41570732:end --><!-- HN:41567573:start -->
-* [41567573](https://news.social-protocols.org/stats?id=41567573) #15 677 points 3 comments -> [Dozens of Hezbollah members said to be seriously injured  as devices explode](https://www.timesofisrael.com/liveblog_entry/dozens-of-hezbollah-members-said-serious-injured-in-beirut-as-devices-explode-in-alleged-israeli-op/)<!-- HN:41567573:end -->
 #### **Wednesday, September 18, 2024**
 <!-- HN:41524517:start -->
 * [41524517](https://news.social-protocols.org/stats?id=41524517) #8 34 points 9 comments -> [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)<!-- HN:41524517:end --><!-- HN:41552132:start -->
