@@ -169,4 +169,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41631464](https://news.social-protocols.org/stats?id=41631464) #22 6 points 0 comments -> [Israeli military shuts down Al Jazeera bureau in West Bank raid](https://www.theguardian.com/world/2024/sep/22/al-jazeera-office-west-bank-raid-israeli-forces-media)<!-- HN:41631464:end -->
 #### **Tuesday, September 24, 2024**
 <!-- HN:41631995:start -->
-* [41631995](https://news.social-protocols.org/stats?id=41631995) #18 6 points 2 comments -> ["Traffic Violence": The Grifters Go After Cars](https://albertcory50.substack.com/p/traffic-violence-the-grifters-go)<!-- HN:41631995:end -->
+* [41631995](https://news.social-protocols.org/stats?id=41631995) #18 6 points 2 comments -> ["Traffic Violence": The Grifters Go After Cars](https://albertcory50.substack.com/p/traffic-violence-the-grifters-go)<!-- HN:41631995:end --><!-- HN:41632606:start -->
+* [41632606](https://news.social-protocols.org/stats?id=41632606) #6 5 points 2 comments -> [Bootstrapped to 10K Users: Is B2B the Only Way to Monetize?](https://www.jobsolv.com/)<!-- HN:41632606:end -->
