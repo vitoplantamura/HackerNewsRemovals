@@ -179,4 +179,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41640458](https://news.social-protocols.org/stats?id=41640458) #9 30 points 1 comments -> [Star FTX Witness Caroline Ellison Sentenced to Two Years in Prison](https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84)<!-- HN:41640458:end --><!-- HN:41640313:start -->
 * [41640313](https://news.social-protocols.org/stats?id=41640313) #18 24 points 1 comments -> [Caroline Ellison sentenced to 24 months in prison for FTX fraud](https://www.bloomberg.com/news/live-blog/2024-09-24/caroline-ellison-sentencing)<!-- HN:41640313:end --><!-- HN:41641560:start -->
 * [41641560](https://news.social-protocols.org/stats?id=41641560) #16 18 points 8 comments -> [The White Collar Apocalypse Is Nigh](https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh/)<!-- HN:41641560:end -->
-#### **Wednesday, September 25, 2024**
+#### **Wednesday, September 25, 2024**<!-- HN:41641495:start -->
+* [41641495](https://news.social-protocols.org/stats?id=41641495) #22 11 points 2 comments -> [Ethernet in 17 lines of Spade [video]](https://www.youtube.com/watch?v=0a8P0NLYPWA)<!-- HN:41641495:end --><!-- HN:41640941:start -->
+* [41640941](https://news.social-protocols.org/stats?id=41640941) #29 62 points 23 comments -> [$1B Solar and Battery Storage Project Breaks Ground in Utah](https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/)<!-- HN:41640941:end -->
