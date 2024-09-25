@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, September 18, 2024**
-<!-- HN:41524517:start -->
-* [41524517](https://news.social-protocols.org/stats?id=41524517) #8 34 points 9 comments -> [Ribbit: A portable, compact and extensible R4RS Scheme implementation](https://github.com/udem-dlteam/ribbit)<!-- HN:41524517:end --><!-- HN:41552132:start -->
-* [41552132](https://news.social-protocols.org/stats?id=41552132) #12 5 points 1 comments -> [The Illusion of a Pagan West](https://unherd.com/2024/09/the-illusion-of-a-pagan-west/)<!-- HN:41552132:end --><!-- HN:41577717:start -->
-* [41577717](https://news.social-protocols.org/stats?id=41577717) #4 8 points 11 comments -> [Show HN: Free AI tailored workout generator](https://www.workoutgenerator.fit)<!-- HN:41577717:end --><!-- HN:41578117:start -->
-* [41578117](https://news.social-protocols.org/stats?id=41578117) #3 24 points 22 comments -> [Tax the Rich – European Citizens' Initiative](https://www.tax-the-rich.eu)<!-- HN:41578117:end --><!-- HN:41529435:start -->
-* [41529435](https://news.social-protocols.org/stats?id=41529435) #3 86 points 19 comments -> [Haxe lang – build cross-platform application with fast cross-compiler](https://haxe.org)<!-- HN:41529435:end --><!-- HN:41528598:start -->
-* [41528598](https://news.social-protocols.org/stats?id=41528598) #23 67 points 4 comments -> [Scrolling Text Display](http://www.technoblogy.com/show?4WX8)<!-- HN:41528598:end --><!-- HN:41579730:start -->
-* [41579730](https://news.social-protocols.org/stats?id=41579730) #19 5 points 0 comments -> [U.S. Shrugs as World War III Approaches](https://www.wsj.com/opinion/u-s-shrugs-as-world-war-iii-approaches-devastating-bipartisan-report-716bda71)<!-- HN:41579730:end --><!-- HN:41580375:start -->
-* [41580375](https://news.social-protocols.org/stats?id=41580375) #19 7 points 0 comments -> [Israel detonates Hezbollah walkie-talkies in second wave after pager attack](https://www.axios.com/2024/09/18/israel-detonates-hezbollah-walkie-talkies-second-wave-after-pager-attack)<!-- HN:41580375:end --><!-- HN:41580214:start -->
-* [41580214](https://news.social-protocols.org/stats?id=41580214) #19 30 points 7 comments -> [Walkie talkies explode across Lebanon a day after pager explosions](https://www.dailymail.co.uk/news/article-13864883/Lebanon-explosions-Hezbollah-communications-devices-detonate-country-pager-bomb.html)<!-- HN:41580214:end --><!-- HN:41583139:start -->
-* [41583139](https://news.social-protocols.org/stats?id=41583139) #27 7 points 1 comments -> [How Wikipedia Became a Propaganda Site](https://www.thefp.com/p/how-wikipedia-became-propaganda-site)<!-- HN:41583139:end --><!-- HN:41582958:start -->
-* [41582958](https://news.social-protocols.org/stats?id=41582958) #13 6 points 0 comments -> [The San Francisco Freedom Club](https://www.sffc.party)<!-- HN:41582958:end --><!-- HN:41583294:start -->
-* [41583294](https://news.social-protocols.org/stats?id=41583294) #30 13 points 1 comments -> [Walkie-talkie explosions rock Lebanon a day after pager attacks](https://apnews.com/live/lebanon-syria-pagers-hezbollah-updates)<!-- HN:41583294:end --><!-- HN:41585624:start -->
-* [41585624](https://news.social-protocols.org/stats?id=41585624) #6 5 points 1 comments -> [Seventh Day Adventists, fighting onanism, and selling veganism to America](https://josepheverettwil.substack.com/p/the-shady-story-behind-why-we-think)<!-- HN:41585624:end -->
 #### **Thursday, September 19, 2024**
 <!-- HN:41538009:start -->
 * [41538009](https://news.social-protocols.org/stats?id=41538009) #11 13 points 5 comments -> [Are You Qualified to Use Null in SQL?](https://agentm.github.io/project-m36/posts/2024-07-16-are-you-qualified-to-use-null.html)<!-- HN:41538009:end --><!-- HN:41587900:start -->
