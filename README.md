@@ -180,5 +180,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41640313](https://news.social-protocols.org/stats?id=41640313) #18 24 points 1 comments -> [Caroline Ellison sentenced to 24 months in prison for FTX fraud](https://www.bloomberg.com/news/live-blog/2024-09-24/caroline-ellison-sentencing)<!-- HN:41640313:end --><!-- HN:41641560:start -->
 * [41641560](https://news.social-protocols.org/stats?id=41641560) #16 18 points 8 comments -> [The White Collar Apocalypse Is Nigh](https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh/)<!-- HN:41641560:end -->
 #### **Wednesday, September 25, 2024**
-<!-- HN:41642161:start -->
-* [41642161](https://news.social-protocols.org/stats?id=41642161) #24 25 points 4 comments -> [Want to Build a Perfect 21st Century Town? Ban Cars](https://www.outsideonline.com/culture/essays-culture/culdesac-arizona/)<!-- HN:41642161:end -->
