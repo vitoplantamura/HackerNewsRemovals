@@ -169,3 +169,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41648112](https://news.social-protocols.org/stats?id=41648112) #27 8 points 1 comments -> [VitePress: Vite and Vue powered static site generator](https://github.com/vuejs/vitepress)<!-- HN:41648112:end --><!-- HN:41651001:start -->
 * [41651001](https://news.social-protocols.org/stats?id=41651001) #11 5 points 2 comments -> [Cozystack has officially been included in the CNCF Landscape](https://blog.aenix.io/cozystack-has-officially-been-included-in-the-cncf-landscape-07cc60c9e0eb)<!-- HN:41651001:end --><!-- HN:41651596:start -->
 * [41651596](https://news.social-protocols.org/stats?id=41651596) #18 19 points 40 comments -> [The Daily Scrum: Does It Have to Be Daily?](https://rethinkingsoftware.substack.com/p/the-daily-scrum)<!-- HN:41651596:end -->
+#### **Thursday, September 26, 2024**
+<!-- HN:41653592:start -->
+* [41653592](https://news.social-protocols.org/stats?id=41653592) #18 8 points 0 comments -> [OpenAI Discusses Giving Altman 7% Stake in For-Profit Shift](https://www.bloomberg.com/news/articles/2024-09-25/openai-cto-mira-murati-says-she-will-leave-the-company)<!-- HN:41653592:end -->
