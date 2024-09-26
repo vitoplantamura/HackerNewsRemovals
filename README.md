@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41651596](https://news.social-protocols.org/stats?id=41651596) #18 19 points 40 comments -> [The Daily Scrum: Does It Have to Be Daily?](https://rethinkingsoftware.substack.com/p/the-daily-scrum)<!-- HN:41651596:end -->
 #### **Thursday, September 26, 2024**
 <!-- HN:41653592:start -->
-* [41653592](https://news.social-protocols.org/stats?id=41653592) #18 8 points 0 comments -> [OpenAI Discusses Giving Altman 7% Stake in For-Profit Shift](https://www.bloomberg.com/news/articles/2024-09-25/openai-cto-mira-murati-says-she-will-leave-the-company)<!-- HN:41653592:end -->
+* [41653592](https://news.social-protocols.org/stats?id=41653592) #18 8 points 0 comments -> [OpenAI Discusses Giving Altman 7% Stake in For-Profit Shift](https://www.bloomberg.com/news/articles/2024-09-25/openai-cto-mira-murati-says-she-will-leave-the-company)<!-- HN:41653592:end --><!-- HN:41653748:start -->
+* [41653748](https://news.social-protocols.org/stats?id=41653748) #15 12 points 0 comments -> [NYC Mayor Eric Adams Is Indicted](https://www.cnn.com/2024/09/25/us/new-york-city-mayor-eric-adams-indicted/index.html)<!-- HN:41653748:end -->
