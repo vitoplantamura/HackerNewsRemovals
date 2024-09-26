@@ -173,4 +173,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41653748:start -->
 * [41653748](https://news.social-protocols.org/stats?id=41653748) #15 12 points 0 comments -> [NYC Mayor Eric Adams Is Indicted](https://www.cnn.com/2024/09/25/us/new-york-city-mayor-eric-adams-indicted/index.html)<!-- HN:41653748:end --><!-- HN:41653641:start -->
 * [41653641](https://news.social-protocols.org/stats?id=41653641) #15 4 points 3 comments -> [Ugly Wallpapers – Early 2000s style](https://wallpapers.branding5.com/)<!-- HN:41653641:end --><!-- HN:41643651:start -->
-* [41643651](https://news.social-protocols.org/stats?id=41643651) #12 286 points 142 comments -> [SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)<!-- HN:41643651:end -->
+* [41643651](https://news.social-protocols.org/stats?id=41643651) #12 286 points 142 comments -> [SQL Tips and Tricks](https://github.com/ben-n93/SQL-tips-and-tricks)<!-- HN:41643651:end --><!-- HN:41654570:start -->
+* [41654570](https://news.social-protocols.org/stats?id=41654570) #5 13 points 1 comments -> [FreeBSD](https://www.freebsd.org/status/report-2024-04-2024-06/)<!-- HN:41654570:end -->
