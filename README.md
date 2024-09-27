@@ -191,3 +191,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41663051](https://news.social-protocols.org/stats?id=41663051) #13 50 points 7 comments -> [Twitter banned me after publishing the JD Vance Dossier](https://www.kenklippenstein.com/p/twitter-banned-me)<!-- HN:41663051:end --><!-- HN:41662501:start -->
 * [41662501](https://news.social-protocols.org/stats?id=41662501) #18 54 points 16 comments -> [Instagram deleting archived stories, turning old videos into photos](https://twitter.com/IndoPopBase/status/1838858807801155618)<!-- HN:41662501:end --><!-- HN:41664723:start -->
 * [41664723](https://news.social-protocols.org/stats?id=41664723) #29 5 points 2 comments -> [I can't stand Google scanning my emails anymore](https://www.forbes.com/sites/daveywinder/2020/02/28/google-confirms-new-ai-tool-scans-300-billion-gmail-attachments-every-week/)<!-- HN:41664723:end -->
+#### **Friday, September 27, 2024**
+<!-- HN:41664750:start -->
+* [41664750](https://news.social-protocols.org/stats?id=41664750) #3 15 points 1 comments -> [When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)<!-- HN:41664750:end -->
