@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41663051](https://news.social-protocols.org/stats?id=41663051) #13 50 points 7 comments -> [Twitter banned me after publishing the JD Vance Dossier](https://www.kenklippenstein.com/p/twitter-banned-me)<!-- HN:41663051:end --><!-- HN:41662501:start -->
 * [41662501](https://news.social-protocols.org/stats?id=41662501) #18 54 points 16 comments -> [Instagram deleting archived stories, turning old videos into photos](https://twitter.com/IndoPopBase/status/1838858807801155618)<!-- HN:41662501:end --><!-- HN:41664723:start -->
 * [41664723](https://news.social-protocols.org/stats?id=41664723) #29 5 points 2 comments -> [I can't stand Google scanning my emails anymore](https://www.forbes.com/sites/daveywinder/2020/02/28/google-confirms-new-ai-tool-scans-300-billion-gmail-attachments-every-week/)<!-- HN:41664723:end -->
-#### **Friday, September 27, 2024**
+#### **Friday, September 27, 2024**<!-- HN:41665045:start -->
+* [41665045](https://news.social-protocols.org/stats?id=41665045) #18 35 points 54 comments -> [Sam Altman denied that there are plans for him to receive a giant equity stake](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html)<!-- HN:41665045:end -->
