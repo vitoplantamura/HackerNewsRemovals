@@ -176,4 +176,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41636093:start -->
 * [41636093](https://news.social-protocols.org/stats?id=41636093) #21 3 points 8 comments -> [I built an AI tool to track my hair loss, here's what I learned](https://www.myhair.ai/)<!-- HN:41636093:end --><!-- HN:41677669:start -->
 * [41677669](https://news.social-protocols.org/stats?id=41677669) #2 -> [A small area of solar panels plus storage cannot power the world](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)<!-- HN:41677669:end --><!-- HN:41678259:start -->
-* [41678259](https://news.social-protocols.org/stats?id=41678259) #29 8 points 1 comments -> [I locked myself in my apartment for 4 years to build this humanoid](https://twitter.com/lethic1/status/1839909404973642137)<!-- HN:41678259:end -->
+* [41678259](https://news.social-protocols.org/stats?id=41678259) #29 8 points 1 comments -> [I locked myself in my apartment for 4 years to build this humanoid](https://twitter.com/lethic1/status/1839909404973642137)<!-- HN:41678259:end --><!-- HN:41678392:start -->
+* [41678392](https://news.social-protocols.org/stats?id=41678392) #7 8 points 13 comments -> [C is not Turing-complete (2018)](https://memo.barrucadu.co.uk/c-is-not-turing-complete.html)<!-- HN:41678392:end -->
