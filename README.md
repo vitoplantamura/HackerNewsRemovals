@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 21, 2024**
-<!-- HN:41552849:start -->
-* [41552849](https://news.social-protocols.org/stats?id=41552849) #8 17 points 4 comments -> [A picture of Earth through time](https://blog.google/products/earth/a-picture-of-earth-through-time/)<!-- HN:41552849:end --><!-- HN:41607569:start -->
-* [41607569](https://news.social-protocols.org/stats?id=41607569) #19 41 points 27 comments -> [Ruby on Rails continues to thrive](https://blogyet.com/blog_posts/why-ruby-on-rails-will-never-die-a-veteran-coder-s-perspective)<!-- HN:41607569:end --><!-- HN:41606530:start -->
-* [41606530](https://news.social-protocols.org/stats?id=41606530) #22 187 points 115 comments -> [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)<!-- HN:41606530:end --><!-- HN:41607166:start -->
-* [41607166](https://news.social-protocols.org/stats?id=41607166) #28 103 points 60 comments -> [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)<!-- HN:41607166:end --><!-- HN:41609758:start -->
-* [41609758](https://news.social-protocols.org/stats?id=41609758) #17 5 points 1 comments -> [Glacier National Park replacing signs that predicted glaciers would gone by 2020](https://www.cnn.com/2020/01/08/us/glaciers-national-park-2020-trnd/index.html)<!-- HN:41609758:end --><!-- HN:41569284:start -->
-* [41569284](https://news.social-protocols.org/stats?id=41569284) #30 13 points 5 comments -> [Gibbons move with rhythm and intention. Dare we say style?](https://www.nytimes.com/2024/09/14/science/gibbons-dancing-apes.html)<!-- HN:41569284:end --><!-- HN:41612584:start -->
-* [41612584](https://news.social-protocols.org/stats?id=41612584) #13 5 points 1 comments -> [The Pain of Travelling While Palestinian](https://www.newyorker.com/culture/the-weekend-essay/the-pain-of-travelling-while-palestinian)<!-- HN:41612584:end --><!-- HN:41613025:start -->
-* [41613025](https://news.social-protocols.org/stats?id=41613025) #30 16 points 10 comments -> [Why I'm Leaving Meta](https://medium.com/@peravi8126/why-im-leaving-meta-c3ab43491204)<!-- HN:41613025:end -->
 #### **Sunday, September 22, 2024**
 <!-- HN:41567862:start -->
 * [41567862](https://news.social-protocols.org/stats?id=41567862) #14 24 points 3 comments -> [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)<!-- HN:41567862:end --><!-- HN:41616612:start -->
