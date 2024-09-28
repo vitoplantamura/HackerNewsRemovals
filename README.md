@@ -182,3 +182,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41675713](https://news.social-protocols.org/stats?id=41675713) #14 4 points 2 comments -> [Tell HN: AI Safety projects in need of volunteers](https://www.aisafety.com/projects)<!-- HN:41675713:end --><!-- HN:41675671:start -->
 * [41675671](https://news.social-protocols.org/stats?id=41675671) #30 32 points 40 comments -> [WP Engine Reprieve](https://wordpress.org/news/2024/09/wp-engine-reprieve/)<!-- HN:41675671:end --><!-- HN:41635730:start -->
 * [41635730](https://news.social-protocols.org/stats?id=41635730) #18 11 points 0 comments -> [How we threw 10 quantum bit designs in the trash](https://vidnova.com/how-we-threw-10-quantum-bits-in-the-trash/)<!-- HN:41635730:end -->
+#### **Saturday, September 28, 2024**
+<!-- HN:41636093:start -->
+* [41636093](https://news.social-protocols.org/stats?id=41636093) #21 3 points 8 comments -> [I built an AI tool to track my hair loss, here's what I learned](https://www.myhair.ai/)<!-- HN:41636093:end -->
