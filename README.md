@@ -196,4 +196,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41682926](https://news.social-protocols.org/stats?id=41682926) #7 3 points 2 comments -> [Show HN: An all in one content editor for email, push and SMS](https://www.blocfree.com)<!-- HN:41682926:end -->
 #### **Sunday, September 29, 2024**
 <!-- HN:41683014:start -->
-* [41683014](https://news.social-protocols.org/stats?id=41683014) #16 12 points 0 comments -> [Surprising sounds could cause riskier decision-making](https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making)<!-- HN:41683014:end -->
+* [41683014](https://news.social-protocols.org/stats?id=41683014) #16 12 points 0 comments -> [Surprising sounds could cause riskier decision-making](https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making)<!-- HN:41683014:end --><!-- HN:41632681:start -->
+* [41632681](https://news.social-protocols.org/stats?id=41632681) #14 119 points 70 comments -> [The human heart shows signs of ageing after just a month in space](https://www.nature.com/articles/d41586-024-03105-x)<!-- HN:41632681:end --><!-- HN:41634141:start -->
+* [41634141](https://news.social-protocols.org/stats?id=41634141) #21 75 points 81 comments -> [New Laser Could Cram GPS Alternative into a Shoebox](https://spectrum.ieee.org/alternative-for-gps)<!-- HN:41634141:end -->
