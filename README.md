@@ -185,8 +185,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41681113](https://news.social-protocols.org/stats?id=41681113) #27 8 points 6 comments -> [Eric Adams Staffer Left FBI Interview to Delete Encrypted Chat Apps](https://theintercept.com/2024/09/27/eric-adams-indictment-encrypted-messaging-apps/)<!-- HN:41681113:end --><!-- HN:41682034:start -->
 * [41682034](https://news.social-protocols.org/stats?id=41682034) #19 4 points 0 comments -> [SpaceX launches Crew-9 with two people to bring back Boeing crew](https://www.nasaspaceflight.com/2024/09/crew-9-launch/)<!-- HN:41682034:end -->
 #### **Sunday, September 29, 2024**
-<!-- HN:41683014:start -->
-* [41683014](https://news.social-protocols.org/stats?id=41683014) #16 12 points 0 comments -> [Surprising sounds could cause riskier decision-making](https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making)<!-- HN:41683014:end --><!-- HN:41632681:start -->
+<!-- HN:41632681:start -->
 * [41632681](https://news.social-protocols.org/stats?id=41632681) #14 119 points 70 comments -> [The human heart shows signs of ageing after just a month in space](https://www.nature.com/articles/d41586-024-03105-x)<!-- HN:41632681:end --><!-- HN:41634141:start -->
 * [41634141](https://news.social-protocols.org/stats?id=41634141) #21 75 points 81 comments -> [New Laser Could Cram GPS Alternative into a Shoebox](https://spectrum.ieee.org/alternative-for-gps)<!-- HN:41634141:end --><!-- HN:41683580:start -->
 * [41683580](https://news.social-protocols.org/stats?id=41683580) #30 18 points 12 comments -> [Jeremy Clarkson Says All Modern Cars 'Are Shit'](https://jalopnik.com/jeremy-clarkson-says-all-modern-cars-are-sh-t-1851659364)<!-- HN:41683580:end --><!-- HN:41683217:start -->
