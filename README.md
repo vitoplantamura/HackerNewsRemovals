@@ -192,8 +192,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41680127](https://news.social-protocols.org/stats?id=41680127) #24 21 points 42 comments -> [As Florida Storms Worsen, Some in Tampa Bay Wonder: Is Living There Worth It?](https://www.nytimes.com/2024/09/28/us/hurricane-helene-tampa-bay-florida-worries.html)<!-- HN:41680127:end --><!-- HN:41681393:start -->
 * [41681393](https://news.social-protocols.org/stats?id=41681393) #16 4 points 0 comments -> [Iframely GDPR Considerations](https://iframely.com/docs/gdpr)<!-- HN:41681393:end --><!-- HN:41681113:start -->
 * [41681113](https://news.social-protocols.org/stats?id=41681113) #27 8 points 6 comments -> [Eric Adams Staffer Left FBI Interview to Delete Encrypted Chat Apps](https://theintercept.com/2024/09/27/eric-adams-indictment-encrypted-messaging-apps/)<!-- HN:41681113:end --><!-- HN:41682034:start -->
-* [41682034](https://news.social-protocols.org/stats?id=41682034) #19 4 points 0 comments -> [SpaceX launches Crew-9 with two people to bring back Boeing crew](https://www.nasaspaceflight.com/2024/09/crew-9-launch/)<!-- HN:41682034:end --><!-- HN:41682926:start -->
-* [41682926](https://news.social-protocols.org/stats?id=41682926) #7 3 points 2 comments -> [Show HN: An all in one content editor for email, push and SMS](https://www.blocfree.com)<!-- HN:41682926:end -->
+* [41682034](https://news.social-protocols.org/stats?id=41682034) #19 4 points 0 comments -> [SpaceX launches Crew-9 with two people to bring back Boeing crew](https://www.nasaspaceflight.com/2024/09/crew-9-launch/)<!-- HN:41682034:end -->
 #### **Sunday, September 29, 2024**
 <!-- HN:41683014:start -->
 * [41683014](https://news.social-protocols.org/stats?id=41683014) #16 12 points 0 comments -> [Surprising sounds could cause riskier decision-making](https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making)<!-- HN:41683014:end --><!-- HN:41632681:start -->
