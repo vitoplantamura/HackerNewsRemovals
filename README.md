@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, September 22, 2024**
-<!-- HN:41567862:start -->
-* [41567862](https://news.social-protocols.org/stats?id=41567862) #14 24 points 3 comments -> [A Simple Spaced Repetition Algo (In Ugly SQL)](https://taylor.town/flashcasts-srs-algo)<!-- HN:41567862:end --><!-- HN:41616612:start -->
-* [41616612](https://news.social-protocols.org/stats?id=41616612) #2 16 points 12 comments -> [Hacker Leaks 3.3B Emails and Yes Every Single One Is Unique](https://hackerdose.com/privacy/massive-3-3-billion-emails-leaked/)<!-- HN:41616612:end --><!-- HN:41616706:start -->
-* [41616706](https://news.social-protocols.org/stats?id=41616706) #7 9 points 1 comments -> [Fukuppy](https://en.wikipedia.org/wiki/Fukuppy)<!-- HN:41616706:end --><!-- HN:41609694:start -->
-* [41609694](https://news.social-protocols.org/stats?id=41609694) #20 102 points 31 comments -> [Social Initiation](https://socialcommunication.truman.edu/attitudes-emotions/social-initiation/)<!-- HN:41609694:end --><!-- HN:41616799:start -->
-* [41616799](https://news.social-protocols.org/stats?id=41616799) #22 4 points 1 comments -> [A 23-person Lego team built a 1:1 scale working McLaren P1 using 342,817 pieces](https://www.lego.com/en-us/aboutus/news/2024/september/lego-technic-ultimate-challenge)<!-- HN:41616799:end --><!-- HN:41616540:start -->
-* [41616540](https://news.social-protocols.org/stats?id=41616540) #26 42 points 23 comments -> [Bruce Schneier: Israel's Pager Attacks Have Changed the World](https://www.nytimes.com/2024/09/22/opinion/israel-pager-attacks-supply-chain.html)<!-- HN:41616540:end --><!-- HN:41615563:start -->
-* [41615563](https://news.social-protocols.org/stats?id=41615563) #21 8 points 3 comments -> [Open Source Icon Sets](https://icon-sets.iconify.design/)<!-- HN:41615563:end -->
 #### **Monday, September 23, 2024**
 <!-- HN:41621672:start -->
 * [41621672](https://news.social-protocols.org/stats?id=41621672) #12 24 points 9 comments -> [Man dies after being knocked down by woman on scooter](https://abc7.com/post/man-dies-after-being-knocked-down-woman-scooter-koreatown-police-investigating-hit-run/15337382/)<!-- HN:41621672:end --><!-- HN:41621631:start -->
