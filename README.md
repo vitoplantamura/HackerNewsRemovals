@@ -172,4 +172,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, September 30, 2024**<!-- HN:41695630:start -->
 * [41695630](https://news.social-protocols.org/stats?id=41695630) #2 38 points 31 comments -> [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)<!-- HN:41695630:end --><!-- HN:41695327:start -->
 * [41695327](https://news.social-protocols.org/stats?id=41695327) #12 14 points 0 comments -> [Exxon Mobil's 'Advanced' Technique for Recycling Plastic? Burning It](https://www.yahoo.com/news/exxon-mobil-says-advanced-recycling-100018708.html)<!-- HN:41695327:end --><!-- HN:41694563:start -->
-* [41694563](https://news.social-protocols.org/stats?id=41694563) #19 77 points 8 comments -> [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)<!-- HN:41694563:end -->
+* [41694563](https://news.social-protocols.org/stats?id=41694563) #19 77 points 8 comments -> [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)<!-- HN:41694563:end --><!-- HN:41692679:start -->
+* [41692679](https://news.social-protocols.org/stats?id=41692679) #21 48 points 9 comments -> [Doom in the iPhone Photos App (Barely)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)<!-- HN:41692679:end -->
