@@ -170,4 +170,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41689865](https://news.social-protocols.org/stats?id=41689865) #9 10 points 4 comments -> [Stop Using Generative AI for Hero Images](https://leejo.github.io/2024/09/29/holding_out_for_the_heros_to_fuck_off/)<!-- HN:41689865:end --><!-- HN:41689714:start -->
 * [41689714](https://news.social-protocols.org/stats?id=41689714) #26 33 points 10 comments -> [Ted Kaczynski's Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)<!-- HN:41689714:end -->
 #### **Monday, September 30, 2024**<!-- HN:41695630:start -->
-* [41695630](https://news.social-protocols.org/stats?id=41695630) #2 38 points 31 comments -> [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)<!-- HN:41695630:end -->
+* [41695630](https://news.social-protocols.org/stats?id=41695630) #2 38 points 31 comments -> [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)<!-- HN:41695630:end --><!-- HN:41695327:start -->
+* [41695327](https://news.social-protocols.org/stats?id=41695327) #12 14 points 0 comments -> [Exxon Mobil's 'Advanced' Technique for Recycling Plastic? Burning It](https://www.yahoo.com/news/exxon-mobil-says-advanced-recycling-100018708.html)<!-- HN:41695327:end -->
