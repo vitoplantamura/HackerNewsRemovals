@@ -171,5 +171,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41689714](https://news.social-protocols.org/stats?id=41689714) #26 33 points 10 comments -> [Ted Kaczynski's Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)<!-- HN:41689714:end --><!-- HN:41691018:start -->
 * [41691018](https://news.social-protocols.org/stats?id=41691018) #14 15 points 3 comments -> [Radarr: Automate Movie Downloads and Management via Usenet and Torrents](https://github.com/Radarr/Radarr)<!-- HN:41691018:end -->
 #### **Monday, September 30, 2024**
-<!-- HN:41690804:start -->
-* [41690804](https://news.social-protocols.org/stats?id=41690804) #18 40 points 28 comments -> [Open-Source Flipper Zero Firmware: Unlock Your Device's Full Potential](https://github.com/flipperdevices/flipperzero-firmware)<!-- HN:41690804:end -->
