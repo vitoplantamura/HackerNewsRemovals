@@ -194,3 +194,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41702388](https://news.social-protocols.org/stats?id=41702388) #30 7 points 0 comments -> [Georgia BioLab plant fire sparks evacuations after plume releases chlorine](https://www.washingtonpost.com/nation/2024/09/30/conyers-ga-chemical-plant-fire/)<!-- HN:41702388:end --><!-- HN:41702610:start -->
 * [41702610](https://news.social-protocols.org/stats?id=41702610) #22 6 points 0 comments -> [Germany to Enforce DMA Regulations for All Microsoft Products and Services](https://www.thurrott.com/microsoft/310470/germany-to-enforce-dma-regulations-for-all-microsoft-products-and-services)<!-- HN:41702610:end --><!-- HN:41703109:start -->
 * [41703109](https://news.social-protocols.org/stats?id=41703109) #1 8 points 0 comments -> [Minitel: The Online World France Built Before the Web](https://spectrum.ieee.org/minitel-the-online-world-france-built-before-the-web)<!-- HN:41703109:end -->
+#### **Tuesday, October 1, 2024**
+<!-- HN:41703304:start -->
+* [41703304](https://news.social-protocols.org/stats?id=41703304) #15 5 points 1 comments -> [Apple TV+ Pivoting Movie Strategy Amid Disappointing Performance](https://www.macrumors.com/2024/09/30/report-apple-tv-pivoting-movie-strategy/)<!-- HN:41703304:end -->
