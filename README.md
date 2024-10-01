@@ -170,4 +170,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41703109](https://news.social-protocols.org/stats?id=41703109) #1 8 points 0 comments -> [Minitel: The Online World France Built Before the Web](https://spectrum.ieee.org/minitel-the-online-world-france-built-before-the-web)<!-- HN:41703109:end -->
 #### **Tuesday, October 1, 2024**
 <!-- HN:41703304:start -->
-* [41703304](https://news.social-protocols.org/stats?id=41703304) #15 5 points 1 comments -> [Apple TV+ Pivoting Movie Strategy Amid Disappointing Performance](https://www.macrumors.com/2024/09/30/report-apple-tv-pivoting-movie-strategy/)<!-- HN:41703304:end -->
+* [41703304](https://news.social-protocols.org/stats?id=41703304) #15 5 points 1 comments -> [Apple TV+ Pivoting Movie Strategy Amid Disappointing Performance](https://www.macrumors.com/2024/09/30/report-apple-tv-pivoting-movie-strategy/)<!-- HN:41703304:end --><!-- HN:41666707:start -->
+* [41666707](https://news.social-protocols.org/stats?id=41666707) #19 4 points 0 comments -> [A Guide to Destructuring in JavaScript](https://piccalil.li/blog/a-guide-to-destructuring-in-javascript/)<!-- HN:41666707:end -->
