@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 2, 2024**
 <!-- HN:41714056:start -->
 * [41714056](https://news.social-protocols.org/stats?id=41714056) #25 31 points 40 comments -> [What happens if someone votes by absentee/mail-in and dies before Election Day?](https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024))<!-- HN:41714056:end --><!-- HN:41711835:start -->
-* [41711835](https://news.social-protocols.org/stats?id=41711835) #28 61 points 40 comments -> [Show HN: Web Scraping with Your Web Browser: Why Not?](https://8chananon.github.io/tut/scraping1.html)<!-- HN:41711835:end -->
+* [41711835](https://news.social-protocols.org/stats?id=41711835) #28 61 points 40 comments -> [Show HN: Web Scraping with Your Web Browser: Why Not?](https://8chananon.github.io/tut/scraping1.html)<!-- HN:41711835:end --><!-- HN:41716102:start -->
+* [41716102](https://news.social-protocols.org/stats?id=41716102) #8 18 points 14 comments -> [The Nobel Prize in Economics Is Fake](https://www.chibus.com/perspectives/2024/2/13/the-nobel-prize-in-economics-is-fake)<!-- HN:41716102:end -->
