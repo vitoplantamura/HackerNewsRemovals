@@ -165,4 +165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41671061](https://news.social-protocols.org/stats?id=41671061) #11 28 points 40 comments -> [The Death of the Minivan](https://www.theatlantic.com/technology/archive/2024/09/minivan-suv-family-car/679919/)<!-- HN:41671061:end -->
 #### **Wednesday, October 2, 2024**
 <!-- HN:41714056:start -->
-* [41714056](https://news.social-protocols.org/stats?id=41714056) #25 31 points 40 comments -> [What happens if someone votes by absentee/mail-in and dies before Election Day?](https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024))<!-- HN:41714056:end -->
+* [41714056](https://news.social-protocols.org/stats?id=41714056) #25 31 points 40 comments -> [What happens if someone votes by absentee/mail-in and dies before Election Day?](https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024))<!-- HN:41714056:end --><!-- HN:41711835:start -->
+* [41711835](https://news.social-protocols.org/stats?id=41711835) #28 61 points 40 comments -> [Show HN: Web Scraping with Your Web Browser: Why Not?](https://8chananon.github.io/tut/scraping1.html)<!-- HN:41711835:end -->
