@@ -184,3 +184,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41695549](https://news.social-protocols.org/stats?id=41695549) #22 43 points 6 comments -> [Show HN: Pipet – CLI tool for scraping and extracting data online, with pipes](https://github.com/bjesus/pipet)<!-- HN:41695549:end --><!-- HN:41724957:start -->
 * [41724957](https://news.social-protocols.org/stats?id=41724957) #26 3 points 0 comments -> [Meta smart glasses can be used to dox anyone in seconds, study finds](https://arstechnica.com/tech-policy/2024/10/harvard-students-make-auto-doxxing-smart-glasses-to-show-need-for-privacy-regs/)<!-- HN:41724957:end --><!-- HN:41725558:start -->
 * [41725558](https://news.social-protocols.org/stats?id=41725558) #4 10 points 22 comments -> [Show HN: End-to-End Encrypted Dead Man's Switch](https://www.cipherwill.com/)<!-- HN:41725558:end -->
+#### **Thursday, October 3, 2024**
+<!-- HN:41726056:start -->
+* [41726056](https://news.social-protocols.org/stats?id=41726056) #22 4 points 0 comments -> [Nvidia stunned the world with a ChatGPT rival that's as good as GPT-4o](https://bgr.com/tech/nvidia-stunned-the-world-with-a-chatgpt-rival-thats-as-good-as-gpt-4o/)<!-- HN:41726056:end -->
