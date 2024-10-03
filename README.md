@@ -165,4 +165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 3, 2024**
 <!-- HN:41726056:start -->
 * [41726056](https://news.social-protocols.org/stats?id=41726056) #22 4 points 0 comments -> [Nvidia stunned the world with a ChatGPT rival that's as good as GPT-4o](https://bgr.com/tech/nvidia-stunned-the-world-with-a-chatgpt-rival-thats-as-good-as-gpt-4o/)<!-- HN:41726056:end --><!-- HN:41695158:start -->
-* [41695158](https://news.social-protocols.org/stats?id=41695158) #20 4 points 0 comments -> [What Can a Coffee Machine Teach You About Python's Functions?](https://www.thepythoncodingstack.com/p/coffee-machine-python-function-analogy)<!-- HN:41695158:end -->
+* [41695158](https://news.social-protocols.org/stats?id=41695158) #20 4 points 0 comments -> [What Can a Coffee Machine Teach You About Python's Functions?](https://www.thepythoncodingstack.com/p/coffee-machine-python-function-analogy)<!-- HN:41695158:end --><!-- HN:41725584:start -->
+* [41725584](https://news.social-protocols.org/stats?id=41725584) #7 7 points 0 comments -> [Code in Database vs. Code in Application](https://brandur.org/fragments/code-database-vs-app)<!-- HN:41725584:end -->
