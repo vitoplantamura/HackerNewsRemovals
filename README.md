@@ -174,4 +174,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41734889](https://news.social-protocols.org/stats?id=41734889) #27 5 points 1 comments -> [Opinion letter about Robert Roberson, about to be executed in Texas](https://shakenbaby.science/roberson.html)<!-- HN:41734889:end -->
 #### **Friday, October 4, 2024**
 <!-- HN:41702532:start -->
-* [41702532](https://news.social-protocols.org/stats?id=41702532) #11 12 points 0 comments -> [Who's Allowed to Know Things?](https://deadsimpletech.com/blog/epistemology)<!-- HN:41702532:end -->
+* [41702532](https://news.social-protocols.org/stats?id=41702532) #11 12 points 0 comments -> [Who's Allowed to Know Things?](https://deadsimpletech.com/blog/epistemology)<!-- HN:41702532:end --><!-- HN:41694154:start -->
+* [41694154](https://news.social-protocols.org/stats?id=41694154) #8 63 points 27 comments -> [Tengine: Open-source web server, originated by Taobao, based on Nginx](https://tengine.taobao.org/)<!-- HN:41694154:end -->
