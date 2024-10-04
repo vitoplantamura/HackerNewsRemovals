@@ -172,3 +172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41689833](https://news.social-protocols.org/stats?id=41689833) #26 13 points 1 comments -> [Earth's ambipolar electrostatic field and its role in ion escape to space](https://www.nature.com/articles/s41586-024-07480-3.epdf?sharing_token=I_iijIlqb3HMon5ISI-xBdRgN0jAjWel9jnR3ZoTv0Nyrlc02oJzExWUuDgAFVXFWQm-5tl5ZQFVbDbaRGPu8BS5_R9K9Au1gs-SKWxRrjMbJ2eV5VK-jFk3v5NbIHray3_BN5_uObULF-IXEID0EETe47O4K1uAgQiM7aC8d4E%3D)<!-- HN:41689833:end --><!-- HN:41681796:start -->
 * [41681796](https://news.social-protocols.org/stats?id=41681796) #27 4 points 0 comments -> [A haze of inspiration](https://blog.gingerbeardman.com/2024/09/28/a-haze-of-inspiration/)<!-- HN:41681796:end --><!-- HN:41734889:start -->
 * [41734889](https://news.social-protocols.org/stats?id=41734889) #27 5 points 1 comments -> [Opinion letter about Robert Roberson, about to be executed in Texas](https://shakenbaby.science/roberson.html)<!-- HN:41734889:end -->
+#### **Friday, October 4, 2024**
+<!-- HN:41702532:start -->
+* [41702532](https://news.social-protocols.org/stats?id=41702532) #11 12 points 0 comments -> [Who's Allowed to Know Things?](https://deadsimpletech.com/blog/epistemology)<!-- HN:41702532:end -->
