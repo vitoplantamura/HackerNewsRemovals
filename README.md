@@ -177,4 +177,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41697443](https://news.social-protocols.org/stats?id=41697443) #16 45 points 18 comments -> [Safety Goggles for Alchemists](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)<!-- HN:41697443:end --><!-- HN:41701864:start -->
 * [41701864](https://news.social-protocols.org/stats?id=41701864) #29 89 points 17 comments -> [Manuscripts reveal the details of everyday life on the Silk Road](https://www.historytoday.com/archive/feature/secrets-silk-road)<!-- HN:41701864:end --><!-- HN:41745636:start -->
 * [41745636](https://news.social-protocols.org/stats?id=41745636) #20 5 points 1 comments -> [If You Meet ET in Space, Kill Him](https://nautil.us/if-you-meet-et-in-space-kill-him-917243/)<!-- HN:41745636:end -->
-#### **Saturday, October 5, 2024**
+#### **Saturday, October 5, 2024**<!-- HN:41717208:start -->
+* [41717208](https://news.social-protocols.org/stats?id=41717208) #23 5 points 4 comments -> [Confessions of a Hinge Power User](https://www.wired.com/story/confessions-of-a-hinge-power-user/)<!-- HN:41717208:end -->
