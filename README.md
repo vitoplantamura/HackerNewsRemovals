@@ -177,3 +177,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41697443](https://news.social-protocols.org/stats?id=41697443) #16 45 points 18 comments -> [Safety Goggles for Alchemists](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)<!-- HN:41697443:end --><!-- HN:41701864:start -->
 * [41701864](https://news.social-protocols.org/stats?id=41701864) #29 89 points 17 comments -> [Manuscripts reveal the details of everyday life on the Silk Road](https://www.historytoday.com/archive/feature/secrets-silk-road)<!-- HN:41701864:end --><!-- HN:41745636:start -->
 * [41745636](https://news.social-protocols.org/stats?id=41745636) #20 5 points 1 comments -> [If You Meet ET in Space, Kill Him](https://nautil.us/if-you-meet-et-in-space-kill-him-917243/)<!-- HN:41745636:end -->
+#### **Saturday, October 5, 2024**
+<!-- HN:41746856:start -->
+* [41746856](https://news.social-protocols.org/stats?id=41746856) #22 18 points 5 comments -> [The racist AI deepfake that fooled and divided a community](https://www.bbc.com/news/articles/ckg9k5dv1zdo)<!-- HN:41746856:end -->
