@@ -170,4 +170,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, October 6, 2024**
 <!-- HN:41753639:start -->
 * [41753639](https://news.social-protocols.org/stats?id=41753639) #7 2 points 0 comments -> [Literary Theory and Criticism](https://literariness.org/2019/03/04/critical-theory/)<!-- HN:41753639:end --><!-- HN:41752465:start -->
-* [41752465](https://news.social-protocols.org/stats?id=41752465) #5 52 points 2 comments -> [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)<!-- HN:41752465:end -->
+* [41752465](https://news.social-protocols.org/stats?id=41752465) #5 52 points 2 comments -> [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)<!-- HN:41752465:end --><!-- HN:41712763:start -->
+* [41712763](https://news.social-protocols.org/stats?id=41712763) #13 8 points 7 comments -> [USB-C PD for an industrial Cisco IR829 router](https://eloydegen.com/blog/posts/cisco-ir829-power/)<!-- HN:41712763:end -->
