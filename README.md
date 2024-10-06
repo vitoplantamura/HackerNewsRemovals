@@ -183,3 +183,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41749352](https://news.social-protocols.org/stats?id=41749352) #2 43 points 23 comments -> [New HBO Documentary Claims Bitcoin Creator Satoshi Nakamoto Is Len Sassaman](https://www.blockhead.co/2024/10/05/new-bitcoin-documentary-to-sheds-more-light-on-satoshi-nakamotos-identity/)<!-- HN:41749352:end --><!-- HN:41750447:start -->
 * [41750447](https://news.social-protocols.org/stats?id=41750447) #20 19 points 7 comments -> [Matt Mullenweg trying to change /r/Wordpress to /r/WordPress](https://old.reddit.com/r/Wordpress/comments/1fwnybm/lets_capitalize_the_p/)<!-- HN:41750447:end --><!-- HN:41751776:start -->
 * [41751776](https://news.social-protocols.org/stats?id=41751776) #22 33 points 14 comments -> [Automattic turns to weaponizing responsible disclosure against WP Engine](https://twitter.com/automattic/status/1842612123488473341)<!-- HN:41751776:end -->
+#### **Sunday, October 6, 2024**
+<!-- HN:41753639:start -->
+* [41753639](https://news.social-protocols.org/stats?id=41753639) #7 2 points 0 comments -> [Literary Theory and Criticism](https://literariness.org/2019/03/04/critical-theory/)<!-- HN:41753639:end -->
