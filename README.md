@@ -164,4 +164,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, October 7, 2024**
 <!-- HN:41761797:start -->
 * [41761797](https://news.social-protocols.org/stats?id=41761797) #5 7 points 3 comments -> [Proven Risks of Refillable Soap Dispensers](https://www.gojo.com/en/Newsroom/Blog/2023/Proven-Risks-of-Refillable-Soap-Dispensers)<!-- HN:41761797:end --><!-- HN:41762500:start -->
-* [41762500](https://news.social-protocols.org/stats?id=41762500) #21 22 points 4 comments -> [Scarlet Rot: a biological exploration of Elden Ring's decaying disease](https://jgeekstudies.org/2024/10/06/scarlet-rot-a-biological-exploration-of-elden-rings-decaying-disease/)<!-- HN:41762500:end -->
+* [41762500](https://news.social-protocols.org/stats?id=41762500) #21 22 points 4 comments -> [Scarlet Rot: a biological exploration of Elden Ring's decaying disease](https://jgeekstudies.org/2024/10/06/scarlet-rot-a-biological-exploration-of-elden-rings-decaying-disease/)<!-- HN:41762500:end --><!-- HN:41749649:start -->
+* [41749649](https://news.social-protocols.org/stats?id=41749649) #13 99 points 26 comments -> [Adobe Cuts Perpetual License for Elements Down to Just Three Years](https://petapixel.com/2024/10/01/adobe-cuts-perpetual-license-for-elements-down-to-just-three-years/)<!-- HN:41749649:end -->
