@@ -152,3 +152,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41768259](https://news.social-protocols.org/stats?id=41768259) #28 4 points 1 comments -> [AI will use a lot of energy. That's good for the climate](https://climate.benjames.io/ai-go-brrr/)<!-- HN:41768259:end --><!-- HN:41768752:start -->
 * [41768752](https://news.social-protocols.org/stats?id=41768752) #5 44 points 6 comments -> [Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)<!-- HN:41768752:end --><!-- HN:41767279:start -->
 * [41767279](https://news.social-protocols.org/stats?id=41767279) #26 13 points 16 comments -> [Hot Take: Don'T provide incident resolution estimates](https://firehydrant.com/blog/hot-take-dont-provide-incident-resolution-estimates/)<!-- HN:41767279:end -->
+#### **Tuesday, October 8, 2024**
+<!-- HN:41772683:start -->
+* [41772683](https://news.social-protocols.org/stats?id=41772683) #2 7 points 0 comments -> [I immersed myself in furry culture. You don't understand them](https://www.michigandaily.com/statement/i-immersed-myself-in-furry-culture-you-dont-understand-them/)<!-- HN:41772683:end -->
