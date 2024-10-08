@@ -154,5 +154,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41767279](https://news.social-protocols.org/stats?id=41767279) #26 13 points 16 comments -> [Hot Take: Don'T provide incident resolution estimates](https://firehydrant.com/blog/hot-take-dont-provide-incident-resolution-estimates/)<!-- HN:41767279:end -->
 #### **Tuesday, October 8, 2024**
 <!-- HN:41772683:start -->
-* [41772683](https://news.social-protocols.org/stats?id=41772683) #2 7 points 0 comments -> [I immersed myself in furry culture. You don't understand them](https://www.michigandaily.com/statement/i-immersed-myself-in-furry-culture-you-dont-understand-them/)<!-- HN:41772683:end --><!-- HN:41772662:start -->
-* [41772662](https://news.social-protocols.org/stats?id=41772662) #2 10 points 2 comments -> [Satyagraha: The Highest Practise of Democracy and Freedom](https://journals.sagepub.com/doi/full/10.1177/0049085721993160)<!-- HN:41772662:end -->
+* [41772683](https://news.social-protocols.org/stats?id=41772683) #2 7 points 0 comments -> [I immersed myself in furry culture. You don't understand them](https://www.michigandaily.com/statement/i-immersed-myself-in-furry-culture-you-dont-understand-them/)<!-- HN:41772683:end -->
