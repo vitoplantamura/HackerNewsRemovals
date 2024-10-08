@@ -154,4 +154,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, October 8, 2024**
 <!-- HN:41772683:start -->
 * [41772683](https://news.social-protocols.org/stats?id=41772683) #2 7 points 0 comments -> [I immersed myself in furry culture. You don't understand them](https://www.michigandaily.com/statement/i-immersed-myself-in-furry-culture-you-dont-understand-them/)<!-- HN:41772683:end --><!-- HN:41772662:start -->
-* [41772662](https://news.social-protocols.org/stats?id=41772662) #28 12 points 2 comments -> [Satyagraha: The Highest Practise of Democracy and Freedom](https://journals.sagepub.com/doi/full/10.1177/0049085721993160)<!-- HN:41772662:end -->
+* [41772662](https://news.social-protocols.org/stats?id=41772662) #28 12 points 2 comments -> [Satyagraha: The Highest Practise of Democracy and Freedom](https://journals.sagepub.com/doi/full/10.1177/0049085721993160)<!-- HN:41772662:end --><!-- HN:41727005:start -->
+* [41727005](https://news.social-protocols.org/stats?id=41727005) #17 81 points 58 comments -> [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)<!-- HN:41727005:end -->
