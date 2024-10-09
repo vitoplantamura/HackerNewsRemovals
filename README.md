@@ -160,5 +160,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41779984](https://news.social-protocols.org/stats?id=41779984) #30 14 points 2 comments -> [Caveman Debugging in the Modern Age](https://theapache64.github.io/posts/caveman-debugging-using-live-templates/)<!-- HN:41779984:end -->
 #### **Wednesday, October 9, 2024**
 <!-- HN:41783609:start -->
-* [41783609](https://news.social-protocols.org/stats?id=41783609) #20 10 points 8 comments -> [Bitcoin creator is Peter Todd, HBO film says](https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/)<!-- HN:41783609:end --><!-- HN:41782315:start -->
-* [41782315](https://news.social-protocols.org/stats?id=41782315) #25 25 points 6 comments -> [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)<!-- HN:41782315:end -->
+* [41783609](https://news.social-protocols.org/stats?id=41783609) #20 10 points 8 comments -> [Bitcoin creator is Peter Todd, HBO film says](https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/)<!-- HN:41783609:end -->
