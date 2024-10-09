@@ -160,4 +160,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41779984](https://news.social-protocols.org/stats?id=41779984) #30 14 points 2 comments -> [Caveman Debugging in the Modern Age](https://theapache64.github.io/posts/caveman-debugging-using-live-templates/)<!-- HN:41779984:end -->
 #### **Wednesday, October 9, 2024**
 <!-- HN:41783609:start -->
-* [41783609](https://news.social-protocols.org/stats?id=41783609) #20 10 points 8 comments -> [Bitcoin creator is Peter Todd, HBO film says](https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/)<!-- HN:41783609:end -->
+* [41783609](https://news.social-protocols.org/stats?id=41783609) #20 10 points 8 comments -> [Bitcoin creator is Peter Todd, HBO film says](https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/)<!-- HN:41783609:end --><!-- HN:41783787:start -->
+* [41783787](https://news.social-protocols.org/stats?id=41783787) #2 98 points 65 comments -> [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)<!-- HN:41783787:end -->
