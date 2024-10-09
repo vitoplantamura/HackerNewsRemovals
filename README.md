@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 9, 2024**
 <!-- HN:41783609:start -->
 * [41783609](https://news.social-protocols.org/stats?id=41783609) #20 10 points 8 comments -> [Bitcoin creator is Peter Todd, HBO film says](https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/)<!-- HN:41783609:end --><!-- HN:41783787:start -->
-* [41783787](https://news.social-protocols.org/stats?id=41783787) #2 98 points 65 comments -> [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)<!-- HN:41783787:end -->
+* [41783787](https://news.social-protocols.org/stats?id=41783787) #2 98 points 65 comments -> [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)<!-- HN:41783787:end --><!-- HN:41784138:start -->
+* [41784138](https://news.social-protocols.org/stats?id=41784138) #7 7 points 4 comments -> [DOJ's proposals risk hurting consumers, businesses, and developers](https://blog.google/outreach-initiatives/public-policy/doj-search-remedies-framework/)<!-- HN:41784138:end -->
