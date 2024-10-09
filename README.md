@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41782415](https://news.social-protocols.org/stats?id=41782415) #24 8 points 1 comments -> [VA congressional candidate creates AI chatbot as debate stand-in for incumbent](https://www.reuters.com/world/us/virginia-congressional-candidate-creates-ai-chatbot-debate-stand-in-incumbent-2024-10-08/)<!-- HN:41782415:end --><!-- HN:41781570:start -->
 * [41781570](https://news.social-protocols.org/stats?id=41781570) #26 23 points 3 comments -> [Boeing at Risk of Junk Rating with S&P Amid Strike](https://www.bloomberg.com/news/articles/2024-10-08/boeing-at-risk-of-junk-credit-rating-with-s-p-as-strike-goes-on)<!-- HN:41781570:end --><!-- HN:41779984:start -->
 * [41779984](https://news.social-protocols.org/stats?id=41779984) #30 14 points 2 comments -> [Caveman Debugging in the Modern Age](https://theapache64.github.io/posts/caveman-debugging-using-live-templates/)<!-- HN:41779984:end -->
+#### **Wednesday, October 9, 2024**
+<!-- HN:41783609:start -->
+* [41783609](https://news.social-protocols.org/stats?id=41783609) #20 10 points 8 comments -> [Bitcoin creator is Peter Todd, HBO film says](https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/)<!-- HN:41783609:end -->
