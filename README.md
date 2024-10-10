@@ -159,4 +159,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41792880](https://news.social-protocols.org/stats?id=41792880) #1 41 points 2 comments -> [Internet Archive Hacked (Probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)<!-- HN:41792880:end -->
 #### **Thursday, October 10, 2024**
 <!-- HN:41765009:start -->
-* [41765009](https://news.social-protocols.org/stats?id=41765009) #28 19 points 6 comments -> [Is Android Unicode Yet?](https://shkspr.mobi/blog/2024/10/is-android-unicode-yet/)<!-- HN:41765009:end -->
+* [41765009](https://news.social-protocols.org/stats?id=41765009) #28 19 points 6 comments -> [Is Android Unicode Yet?](https://shkspr.mobi/blog/2024/10/is-android-unicode-yet/)<!-- HN:41765009:end --><!-- HN:41794150:start -->
+* [41794150](https://news.social-protocols.org/stats?id=41794150) #9 15 points 17 comments -> [The Case for Web Components: A Simpler, Framework-Free Future for the Web](https://blog.lnear.dev/the-case-for-web-components/)<!-- HN:41794150:end -->
