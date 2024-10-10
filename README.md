@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41765009:start -->
 * [41765009](https://news.social-protocols.org/stats?id=41765009) #28 19 points 6 comments -> [Is Android Unicode Yet?](https://shkspr.mobi/blog/2024/10/is-android-unicode-yet/)<!-- HN:41765009:end --><!-- HN:41794150:start -->
 * [41794150](https://news.social-protocols.org/stats?id=41794150) #9 15 points 17 comments -> [The Case for Web Components: A Simpler, Framework-Free Future for the Web](https://blog.lnear.dev/the-case-for-web-components/)<!-- HN:41794150:end --><!-- HN:41742779:start -->
-* [41742779](https://news.social-protocols.org/stats?id=41742779) #27 27 points 2 comments -> [Working Set Size Estimation (2018)](https://www.brendangregg.com/wss.html)<!-- HN:41742779:end -->
+* [41742779](https://news.social-protocols.org/stats?id=41742779) #27 27 points 2 comments -> [Working Set Size Estimation (2018)](https://www.brendangregg.com/wss.html)<!-- HN:41742779:end --><!-- HN:41794912:start -->
+* [41794912](https://news.social-protocols.org/stats?id=41794912) #26 28 points 40 comments -> [Electric vehicle safety via crash test](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)<!-- HN:41794912:end -->
