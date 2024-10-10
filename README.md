@@ -178,3 +178,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41790762](https://news.social-protocols.org/stats?id=41790762) #25 6 points 0 comments -> [Free Software Foundation to serve on "artificial intelligence" safety consortium](https://www.fsf.org/news/fsf-serves-on-nist)<!-- HN:41790762:end --><!-- HN:41791658:start -->
 * [41791658](https://news.social-protocols.org/stats?id=41791658) #11 4 points 1 comments -> [Are these 18 things all that's killing you?](https://domofutu.substack.com/p/these-18-things)<!-- HN:41791658:end --><!-- HN:41792880:start -->
 * [41792880](https://news.social-protocols.org/stats?id=41792880) #1 41 points 2 comments -> [Internet Archive Hacked (Probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)<!-- HN:41792880:end -->
+#### **Thursday, October 10, 2024**
+<!-- HN:41765009:start -->
+* [41765009](https://news.social-protocols.org/stats?id=41765009) #28 19 points 6 comments -> [Is Android Unicode Yet?](https://shkspr.mobi/blog/2024/10/is-android-unicode-yet/)<!-- HN:41765009:end -->
