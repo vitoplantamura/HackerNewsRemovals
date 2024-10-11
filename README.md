@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 11, 2024**<!-- HN:41805515:start -->
 * [41805515](https://news.social-protocols.org/stats?id=41805515) #13 10 points 10 comments -> [Tesla's Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)<!-- HN:41805515:end --><!-- HN:41805628:start -->
 * [41805628](https://news.social-protocols.org/stats?id=41805628) #1 -> [UFO announcement 'could happen within weeks' as expert says 'we found it'](https://www.irishstar.com/news/us-news/ufo-announcement-aliens-extraterrestrials-nasa-33865539)<!-- HN:41805628:end --><!-- HN:41805941:start -->
-* [41805941](https://news.social-protocols.org/stats?id=41805941) #9 8 points 8 comments -> [The digits of pi are not random](https://github.com/seccode/pi)<!-- HN:41805941:end -->
+* [41805941](https://news.social-protocols.org/stats?id=41805941) #9 8 points 8 comments -> [The digits of pi are not random](https://github.com/seccode/pi)<!-- HN:41805941:end --><!-- HN:41766126:start -->
+* [41766126](https://news.social-protocols.org/stats?id=41766126) #10 16 points 1 comments -> [Show HN: Daily puzzle game where you build a bridge of your own words (SolidJS)](https://bridj.link/)<!-- HN:41766126:end -->
