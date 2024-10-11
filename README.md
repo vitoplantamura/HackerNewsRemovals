@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41797724](https://news.social-protocols.org/stats?id=41797724) #12 8 points 0 comments -> [A utopian strand of economic thought is making a surprising comeback](https://www.vox.com/the-highlight/24065976/economists-post-scarcity-abundance-industrial-revolution-socialism-capitalism)<!-- HN:41797724:end --><!-- HN:41799011:start -->
 * [41799011](https://news.social-protocols.org/stats?id=41799011) #5 12 points 5 comments -> [AAA Gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)<!-- HN:41799011:end --><!-- HN:41801795:start -->
 * [41801795](https://news.social-protocols.org/stats?id=41801795) #25 24 points 13 comments -> [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)<!-- HN:41801795:end -->
-#### **Friday, October 11, 2024**
+#### **Friday, October 11, 2024**<!-- HN:41805515:start -->
+* [41805515](https://news.social-protocols.org/stats?id=41805515) #13 10 points 10 comments -> [Tesla's Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)<!-- HN:41805515:end -->
