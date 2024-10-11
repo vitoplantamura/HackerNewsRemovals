@@ -146,5 +146,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41799011](https://news.social-protocols.org/stats?id=41799011) #5 12 points 5 comments -> [AAA Gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)<!-- HN:41799011:end --><!-- HN:41801795:start -->
 * [41801795](https://news.social-protocols.org/stats?id=41801795) #25 24 points 13 comments -> [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)<!-- HN:41801795:end -->
 #### **Friday, October 11, 2024**
-<!-- HN:41804460:start -->
-* [41804460](https://news.social-protocols.org/stats?id=41804460) #14 31 points 42 comments -> [Is Population Density the Reason Americans Can't Discuss Politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)<!-- HN:41804460:end -->
