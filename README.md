@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 5, 2024**<!-- HN:41717208:start -->
-* [41717208](https://news.social-protocols.org/stats?id=41717208) #23 5 points 4 comments -> [Confessions of a Hinge Power User](https://www.wired.com/story/confessions-of-a-hinge-power-user/)<!-- HN:41717208:end --><!-- HN:41709525:start -->
-* [41709525](https://news.social-protocols.org/stats?id=41709525) #15 9 points 3 comments -> [The mullet is alive and well in AFL](https://www.abc.net.au/news/2024-05-23/afl-mullet-count-data-analysis/103850072)<!-- HN:41709525:end --><!-- HN:41747863:start -->
-* [41747863](https://news.social-protocols.org/stats?id=41747863) #28 106 points 19 comments -> [Apple releases Depth Pro, an AI model that rewrites the rules of 3D vision](https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/)<!-- HN:41747863:end --><!-- HN:41749352:start -->
-* [41749352](https://news.social-protocols.org/stats?id=41749352) #2 43 points 23 comments -> [New HBO Documentary Claims Bitcoin Creator Satoshi Nakamoto Is Len Sassaman](https://www.blockhead.co/2024/10/05/new-bitcoin-documentary-to-sheds-more-light-on-satoshi-nakamotos-identity/)<!-- HN:41749352:end --><!-- HN:41750447:start -->
-* [41750447](https://news.social-protocols.org/stats?id=41750447) #20 19 points 7 comments -> [Matt Mullenweg trying to change /r/Wordpress to /r/WordPress](https://old.reddit.com/r/Wordpress/comments/1fwnybm/lets_capitalize_the_p/)<!-- HN:41750447:end --><!-- HN:41751776:start -->
-* [41751776](https://news.social-protocols.org/stats?id=41751776) #22 33 points 14 comments -> [Automattic turns to weaponizing responsible disclosure against WP Engine](https://twitter.com/automattic/status/1842612123488473341)<!-- HN:41751776:end -->
 #### **Sunday, October 6, 2024**
 <!-- HN:41753639:start -->
 * [41753639](https://news.social-protocols.org/stats?id=41753639) #7 2 points 0 comments -> [Literary Theory and Criticism](https://literariness.org/2019/03/04/critical-theory/)<!-- HN:41753639:end --><!-- HN:41752465:start -->
