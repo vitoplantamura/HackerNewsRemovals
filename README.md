@@ -160,3 +160,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41809911](https://news.social-protocols.org/stats?id=41809911) #21 15 points 17 comments -> [Apple's naming conventions are a mess](https://medium.com/@spacedawwwg/apples-naming-conventions-are-a-mess-here-s-what-i-would-do-f8ba364ce37a)<!-- HN:41809911:end --><!-- HN:41810627:start -->
 * [41810627](https://news.social-protocols.org/stats?id=41810627) #18 27 points 17 comments -> ['Nearly unusable': Calif. police majorly push back on Tesla cop cars](https://www.sfgate.com/bayarea/article/california-switch-electric-cars-cops-19816671.php)<!-- HN:41810627:end --><!-- HN:41812358:start -->
 * [41812358](https://news.social-protocols.org/stats?id=41812358) #4 9 points 2 comments -> [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)<!-- HN:41812358:end -->
+#### **Saturday, October 12, 2024**
+<!-- HN:41764369:start -->
+* [41764369](https://news.social-protocols.org/stats?id=41764369) #9 13 points 2 comments -> [A roadmap for VirtIO Video on ChromeOS: part 3](https://www.collabora.com/news-and-blog/blog/2024/06/06/a-roadmap-for-virtio-video-on-chromeos-part-3/)<!-- HN:41764369:end --><!-- HN:41754942:start -->
+* [41754942](https://news.social-protocols.org/stats?id=41754942) #15 9 points 1 comments -> [Scaling Laws of Optimization](https://francisbach.com/scaling-laws-of-optimization/)<!-- HN:41754942:end -->
