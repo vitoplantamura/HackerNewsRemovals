@@ -166,5 +166,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41823155](https://news.social-protocols.org/stats?id=41823155) #6 7 points 7 comments -> [New vulnerability in sha256](https://github.com/seccode/Sha256)<!-- HN:41823155:end -->
 #### **Sunday, October 13, 2024**
 <!-- HN:41823437:start -->
-* [41823437](https://news.social-protocols.org/stats?id=41823437) #6 49 points 14 comments -> [Columbus' DNA suggests he was a Sephardic Jew from the western Mediterranean](https://www.abc.es/cultura/adn-colon-apunta-judio-sefardi-mediterraneo-occidental-20241012233342-nt.html)<!-- HN:41823437:end --><!-- HN:41823822:start -->
-* [41823822](https://news.social-protocols.org/stats?id=41823822) #19 26 points 13 comments -> [Apple study proves LLM-based AI models are flawed because they cannot reason](https://appleinsider.com/articles/24/10/12/apples-study-proves-that-llm-based-ai-models-are-flawed-because-they-cannot-reason)<!-- HN:41823822:end -->
+* [41823437](https://news.social-protocols.org/stats?id=41823437) #6 49 points 14 comments -> [Columbus' DNA suggests he was a Sephardic Jew from the western Mediterranean](https://www.abc.es/cultura/adn-colon-apunta-judio-sefardi-mediterraneo-occidental-20241012233342-nt.html)<!-- HN:41823437:end -->
