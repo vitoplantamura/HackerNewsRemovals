@@ -167,4 +167,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, October 13, 2024**
 <!-- HN:41823437:start -->
 * [41823437](https://news.social-protocols.org/stats?id=41823437) #6 49 points 14 comments -> [Columbus' DNA suggests he was a Sephardic Jew from the western Mediterranean](https://www.abc.es/cultura/adn-colon-apunta-judio-sefardi-mediterraneo-occidental-20241012233342-nt.html)<!-- HN:41823437:end --><!-- HN:41822910:start -->
-* [41822910](https://news.social-protocols.org/stats?id=41822910) #5 64 points 2 comments -> [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)<!-- HN:41822910:end -->
+* [41822910](https://news.social-protocols.org/stats?id=41822910) #5 64 points 2 comments -> [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)<!-- HN:41822910:end --><!-- HN:41824784:start -->
+* [41824784](https://news.social-protocols.org/stats?id=41824784) #3 20 points 5 comments -> [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)<!-- HN:41824784:end -->
