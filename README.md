@@ -182,3 +182,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41821193](https://news.social-protocols.org/stats?id=41821193) #27 31 points 40 comments -> [Nvidia Stock Rises. AMD's New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)<!-- HN:41821193:end --><!-- HN:41823175:start -->
 * [41823175](https://news.social-protocols.org/stats?id=41823175) #8 25 points 3 comments -> [Every time Matt Mullenweg has lied, misrepresented or behaved questionably](https://bullenweg.com/)<!-- HN:41823175:end --><!-- HN:41823155:start -->
 * [41823155](https://news.social-protocols.org/stats?id=41823155) #6 7 points 7 comments -> [New vulnerability in sha256](https://github.com/seccode/Sha256)<!-- HN:41823155:end -->
+#### **Sunday, October 13, 2024**
+<!-- HN:41823437:start -->
+* [41823437](https://news.social-protocols.org/stats?id=41823437) #6 49 points 14 comments -> [Columbus' DNA suggests he was a Sephardic Jew from the western Mediterranean](https://www.abc.es/cultura/adn-colon-apunta-judio-sefardi-mediterraneo-occidental-20241012233342-nt.html)<!-- HN:41823437:end -->
