@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, October 6, 2024**
-<!-- HN:41753639:start -->
-* [41753639](https://news.social-protocols.org/stats?id=41753639) #7 2 points 0 comments -> [Literary Theory and Criticism](https://literariness.org/2019/03/04/critical-theory/)<!-- HN:41753639:end --><!-- HN:41752465:start -->
-* [41752465](https://news.social-protocols.org/stats?id=41752465) #5 52 points 2 comments -> [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)<!-- HN:41752465:end --><!-- HN:41712763:start -->
-* [41712763](https://news.social-protocols.org/stats?id=41712763) #13 8 points 7 comments -> [USB-C PD for an industrial Cisco IR829 router](https://eloydegen.com/blog/posts/cisco-ir829-power/)<!-- HN:41712763:end --><!-- HN:41754314:start -->
-* [41754314](https://news.social-protocols.org/stats?id=41754314) #13 61 points 36 comments -> ["Extreme" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)<!-- HN:41754314:end --><!-- HN:41750630:start -->
-* [41750630](https://news.social-protocols.org/stats?id=41750630) #16 190 points 129 comments -> [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)<!-- HN:41750630:end --><!-- HN:41728185:start -->
-* [41728185](https://news.social-protocols.org/stats?id=41728185) #19 82 points 24 comments -> [IPU6 camera support in Fedora 41](https://hansdegoede.dreamwidth.org/28841.html)<!-- HN:41728185:end --><!-- HN:41754074:start -->
-* [41754074](https://news.social-protocols.org/stats?id=41754074) #27 160 points 146 comments -> [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)<!-- HN:41754074:end --><!-- HN:41754657:start -->
-* [41754657](https://news.social-protocols.org/stats?id=41754657) #29 8 points 0 comments -> [Speeding up the Rust compiler without changing its code](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)<!-- HN:41754657:end --><!-- HN:41756088:start -->
-* [41756088](https://news.social-protocols.org/stats?id=41756088) #9 3 points 0 comments -> [Open Letter from American Medical Professionals Who Served in Gaza](https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)<!-- HN:41756088:end --><!-- HN:41756336:start -->
-* [41756336](https://news.social-protocols.org/stats?id=41756336) #15 12 points 1 comments -> [Satoshi Nakamoto identity revealed? HBO claims it](https://twitter.com/WatcherGuru/status/1841901176562094484)<!-- HN:41756336:end --><!-- HN:41756747:start -->
-* [41756747](https://news.social-protocols.org/stats?id=41756747) #25 6 points 5 comments -> [Mars is now a political football](https://old.reddit.com/r/EnoughMuskSpam/comments/1fnvt8n/elon_musk_wont_go_to_mars_if_kamala_harris/)<!-- HN:41756747:end --><!-- HN:41756220:start -->
-* [41756220](https://news.social-protocols.org/stats?id=41756220) #8 25 points 41 comments -> [200GB Free Cloud for Your Files](https://blog.tomaszdunia.pl/darmowa-chmura-200gb-eng/)<!-- HN:41756220:end --><!-- HN:41756284:start -->
-* [41756284](https://news.social-protocols.org/stats?id=41756284) #21 25 points 2 comments -> [Pocketbase v0.23.0-RC Prerelease](https://github.com/pocketbase/pocketbase/releases/tag/v0.23.0-rc)<!-- HN:41756284:end --><!-- HN:41723315:start -->
-* [41723315](https://news.social-protocols.org/stats?id=41723315) #18 21 points 7 comments -> [Identification of officer from Sir John franklin's Northwest Passage expedition](https://www.sciencedirect.com/science/article/pii/S2352409X24003766)<!-- HN:41723315:end --><!-- HN:41758101:start -->
-* [41758101](https://news.social-protocols.org/stats?id=41758101) #24 4 points 1 comments -> [CJ Hopkins Acquital Overturned – The New Normal Germany](https://consentfactory.org/2024/10/05/fear-and-loathing-in-new-normal-germany/)<!-- HN:41758101:end --><!-- HN:41758572:start -->
-* [41758572](https://news.social-protocols.org/stats?id=41758572) #11 6 points 2 comments -> [Harvard students hack Meta glasses to compile dossiers on strangers in real time [video]](https://www.youtube.com/watch?v=zKVXNVnPCrQ)<!-- HN:41758572:end -->
 #### **Monday, October 7, 2024**
 <!-- HN:41761797:start -->
 * [41761797](https://news.social-protocols.org/stats?id=41761797) #5 7 points 3 comments -> [Proven Risks of Refillable Soap Dispensers](https://www.gojo.com/en/Newsroom/Blog/2023/Proven-Risks-of-Refillable-Soap-Dispensers)<!-- HN:41761797:end --><!-- HN:41762500:start -->
