@@ -177,4 +177,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41807713:start -->
 * [41807713](https://news.social-protocols.org/stats?id=41807713) #23 17 points 5 comments -> [Lessons from USAF Brutalism](https://dmsnell.blog/2017/10/15/lessons-from-usaf-brutalism/)<!-- HN:41807713:end --><!-- HN:41833928:start -->
 * [41833928](https://news.social-protocols.org/stats?id=41833928) #23 14 points 20 comments -> [We Are in Need of Renaissance People](https://victorhanson.com/we-are-in-need-of-renaissance-people/)<!-- HN:41833928:end --><!-- HN:41834585:start -->
-* [41834585](https://news.social-protocols.org/stats?id=41834585) #2 6 points 3 comments -> [I'm a feminist and I think it's harder to be a man than a woman](https://celestemdavis.substack.com/p/hard-to-be-a-man)<!-- HN:41834585:end -->
+* [41834585](https://news.social-protocols.org/stats?id=41834585) #2 6 points 3 comments -> [I'm a feminist and I think it's harder to be a man than a woman](https://celestemdavis.substack.com/p/hard-to-be-a-man)<!-- HN:41834585:end --><!-- HN:41833820:start -->
+* [41833820](https://news.social-protocols.org/stats?id=41833820) #23 18 points 5 comments -> [Word-like HTML inline edit with design mode](https://til.secretgeek.net/google/chrome_design_mode.html)<!-- HN:41833820:end -->
