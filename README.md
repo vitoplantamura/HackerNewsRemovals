@@ -191,4 +191,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41840746](https://news.social-protocols.org/stats?id=41840746) #14 5 points 0 comments -> [You can track changes someone makes to their Instagram account](https://github.com/ibnaleem/instatracker)<!-- HN:41840746:end --><!-- HN:41839270:start -->
 * [41839270](https://news.social-protocols.org/stats?id=41839270) #30 6 points 0 comments -> [Reading Marx's Capital with David Harvey](https://davidharvey.org/)<!-- HN:41839270:end --><!-- HN:41840450:start -->
 * [41840450](https://news.social-protocols.org/stats?id=41840450) #1 87 points 1 comments -> [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)<!-- HN:41840450:end --><!-- HN:41842463:start -->
-* [41842463](https://news.social-protocols.org/stats?id=41842463) #21 7 points 6 comments -> [Mullenweg : Response to DHH](https://ma.tt/)<!-- HN:41842463:end -->
+* [41842463](https://news.social-protocols.org/stats?id=41842463) #21 7 points 6 comments -> [Mullenweg : Response to DHH](https://ma.tt/)<!-- HN:41842463:end --><!-- HN:41841835:start -->
+* [41841835](https://news.social-protocols.org/stats?id=41841835) #6 31 points 4 comments -> [I don't want your AI](https://martinantos.com/I-don%27t-want-your-AI/)<!-- HN:41841835:end -->
