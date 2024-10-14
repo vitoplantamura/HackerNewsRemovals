@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, October 7, 2024**
-<!-- HN:41761797:start -->
-* [41761797](https://news.social-protocols.org/stats?id=41761797) #5 7 points 3 comments -> [Proven Risks of Refillable Soap Dispensers](https://www.gojo.com/en/Newsroom/Blog/2023/Proven-Risks-of-Refillable-Soap-Dispensers)<!-- HN:41761797:end --><!-- HN:41762500:start -->
-* [41762500](https://news.social-protocols.org/stats?id=41762500) #21 22 points 4 comments -> [Scarlet Rot: a biological exploration of Elden Ring's decaying disease](https://jgeekstudies.org/2024/10/06/scarlet-rot-a-biological-exploration-of-elden-rings-decaying-disease/)<!-- HN:41762500:end --><!-- HN:41761511:start -->
-* [41761511](https://news.social-protocols.org/stats?id=41761511) #23 69 points 10 comments -> [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)<!-- HN:41761511:end --><!-- HN:41761900:start -->
-* [41761900](https://news.social-protocols.org/stats?id=41761900) #30 11 points 5 comments -> [Future Halo Titles to Use Unreal Engine](https://www.halowaypoint.com/news/a-new-dawn)<!-- HN:41761900:end --><!-- HN:41762397:start -->
-* [41762397](https://news.social-protocols.org/stats?id=41762397) #22 94 points 50 comments -> [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)<!-- HN:41762397:end --><!-- HN:41758644:start -->
-* [41758644](https://news.social-protocols.org/stats?id=41758644) #18 138 points 42 comments -> [Popular Science Magazine Archives, May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)<!-- HN:41758644:end --><!-- HN:41749288:start -->
-* [41749288](https://news.social-protocols.org/stats?id=41749288) #30 60 points 15 comments -> [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)<!-- HN:41749288:end --><!-- HN:41760421:start -->
-* [41760421](https://news.social-protocols.org/stats?id=41760421) #30 232 points 294 comments -> [Rust needs a web framework](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)<!-- HN:41760421:end --><!-- HN:41767383:start -->
-* [41767383](https://news.social-protocols.org/stats?id=41767383) #24 5 points 0 comments -> [Why trolls, extremists, and others spread conspiracy theories they don't believe](https://theconversation.com/some-online-conspiracy-spreaders-dont-even-believe-the-lies-theyre-spewing-237730)<!-- HN:41767383:end --><!-- HN:41768259:start -->
-* [41768259](https://news.social-protocols.org/stats?id=41768259) #28 4 points 1 comments -> [AI will use a lot of energy. That's good for the climate](https://climate.benjames.io/ai-go-brrr/)<!-- HN:41768259:end --><!-- HN:41768752:start -->
-* [41768752](https://news.social-protocols.org/stats?id=41768752) #5 44 points 6 comments -> [Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)<!-- HN:41768752:end --><!-- HN:41767279:start -->
-* [41767279](https://news.social-protocols.org/stats?id=41767279) #26 13 points 16 comments -> [Hot Take: Don'T provide incident resolution estimates](https://firehydrant.com/blog/hot-take-dont-provide-incident-resolution-estimates/)<!-- HN:41767279:end -->
 #### **Tuesday, October 8, 2024**
 <!-- HN:41772683:start -->
 * [41772683](https://news.social-protocols.org/stats?id=41772683) #2 7 points 0 comments -> [I immersed myself in furry culture. You don't understand them](https://www.michigandaily.com/statement/i-immersed-myself-in-furry-culture-you-dont-understand-them/)<!-- HN:41772683:end --><!-- HN:41772662:start -->
