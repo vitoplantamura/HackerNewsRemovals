@@ -187,3 +187,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41831932](https://news.social-protocols.org/stats?id=41831932) #15 7 points 0 comments -> [Black Voters Drift from Democrats, Imperiling Harris's Bid, Poll Shows](https://www.nytimes.com/2024/10/12/us/politics/poll-black-voters-harris-trump.html)<!-- HN:41831932:end --><!-- HN:41830421:start -->
 * [41830421](https://news.social-protocols.org/stats?id=41830421) #23 6 points 7 comments -> [HHKB and Realforce – Mechanical Programming and Gaming Keyboards](https://hhkeyboard.us/)<!-- HN:41830421:end --><!-- HN:41831794:start -->
 * [41831794](https://news.social-protocols.org/stats?id=41831794) #2 25 points 2 comments -> [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)<!-- HN:41831794:end -->
+#### **Monday, October 14, 2024**
+<!-- HN:41807713:start -->
+* [41807713](https://news.social-protocols.org/stats?id=41807713) #23 17 points 5 comments -> [Lessons from USAF Brutalism](https://dmsnell.blog/2017/10/15/lessons-from-usaf-brutalism/)<!-- HN:41807713:end -->
