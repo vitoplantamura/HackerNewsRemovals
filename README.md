@@ -175,4 +175,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41831794](https://news.social-protocols.org/stats?id=41831794) #2 25 points 2 comments -> [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)<!-- HN:41831794:end -->
 #### **Monday, October 14, 2024**
 <!-- HN:41807713:start -->
-* [41807713](https://news.social-protocols.org/stats?id=41807713) #23 17 points 5 comments -> [Lessons from USAF Brutalism](https://dmsnell.blog/2017/10/15/lessons-from-usaf-brutalism/)<!-- HN:41807713:end -->
+* [41807713](https://news.social-protocols.org/stats?id=41807713) #23 17 points 5 comments -> [Lessons from USAF Brutalism](https://dmsnell.blog/2017/10/15/lessons-from-usaf-brutalism/)<!-- HN:41807713:end --><!-- HN:41833928:start -->
+* [41833928](https://news.social-protocols.org/stats?id=41833928) #23 14 points 20 comments -> [We Are in Need of Renaissance People](https://victorhanson.com/we-are-in-need-of-renaissance-people/)<!-- HN:41833928:end -->
