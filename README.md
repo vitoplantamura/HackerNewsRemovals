@@ -168,4 +168,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, October 15, 2024**
 <!-- HN:41845075:start -->
 * [41845075](https://news.social-protocols.org/stats?id=41845075) #25 5 points 0 comments -> [Riots and the far right: the global network behind the violence](https://news.sky.com/story/riots-and-the-far-right-the-global-network-behind-the-violence-13232023)<!-- HN:41845075:end --><!-- HN:41846876:start -->
-* [41846876](https://news.social-protocols.org/stats?id=41846876) #19 13 points 0 comments -> [The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)<!-- HN:41846876:end -->
+* [41846876](https://news.social-protocols.org/stats?id=41846876) #19 13 points 0 comments -> [The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)<!-- HN:41846876:end --><!-- HN:41807954:start -->
+* [41807954](https://news.social-protocols.org/stats?id=41807954) #8 37 points 17 comments -> ['Islands' of regularity discovered in the famously chaotic three-body problem](https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html)<!-- HN:41807954:end -->
