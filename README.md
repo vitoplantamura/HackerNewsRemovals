@@ -165,3 +165,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41840450](https://news.social-protocols.org/stats?id=41840450) #1 87 points 1 comments -> [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)<!-- HN:41840450:end --><!-- HN:41842463:start -->
 * [41842463](https://news.social-protocols.org/stats?id=41842463) #21 7 points 6 comments -> [Mullenweg : Response to DHH](https://ma.tt/)<!-- HN:41842463:end --><!-- HN:41841835:start -->
 * [41841835](https://news.social-protocols.org/stats?id=41841835) #6 31 points 4 comments -> [I don't want your AI](https://martinantos.com/I-don%27t-want-your-AI/)<!-- HN:41841835:end -->
+#### **Tuesday, October 15, 2024**
+<!-- HN:41845075:start -->
+* [41845075](https://news.social-protocols.org/stats?id=41845075) #25 5 points 0 comments -> [Riots and the far right: the global network behind the violence](https://news.sky.com/story/riots-and-the-far-right-the-global-network-behind-the-violence-13232023)<!-- HN:41845075:end -->
