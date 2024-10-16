@@ -156,5 +156,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41850573](https://news.social-protocols.org/stats?id=41850573) #16 33 points 40 comments -> [Fable Is Winding Down](https://www.fable.app/blog/fable-is-winding-down)<!-- HN:41850573:end --><!-- HN:41852556:start -->
 * [41852556](https://news.social-protocols.org/stats?id=41852556) #29 27 points 40 comments -> [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)<!-- HN:41852556:end -->
 #### **Wednesday, October 16, 2024**
-<!-- HN:41854749:start -->
-* [41854749](https://news.social-protocols.org/stats?id=41854749) #27 25 points 40 comments -> [How the Richest People Can Access Billions Without Selling Their Stock](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)<!-- HN:41854749:end -->
