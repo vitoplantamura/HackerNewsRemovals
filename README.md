@@ -156,4 +156,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41850573](https://news.social-protocols.org/stats?id=41850573) #16 33 points 40 comments -> [Fable Is Winding Down](https://www.fable.app/blog/fable-is-winding-down)<!-- HN:41850573:end --><!-- HN:41852556:start -->
 * [41852556](https://news.social-protocols.org/stats?id=41852556) #29 27 points 40 comments -> [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)<!-- HN:41852556:end -->
 #### **Wednesday, October 16, 2024**<!-- HN:41855952:start -->
-* [41855952](https://news.social-protocols.org/stats?id=41855952) #12 13 points 0 comments -> [Www.onedollarhomepage.com](https://www.onedollarhomepage.com/)<!-- HN:41855952:end -->
+* [41855952](https://news.social-protocols.org/stats?id=41855952) #12 13 points 0 comments -> [Www.onedollarhomepage.com](https://www.onedollarhomepage.com/)<!-- HN:41855952:end --><!-- HN:41857194:start -->
+* [41857194](https://news.social-protocols.org/stats?id=41857194) #25 9 points 4 comments -> [European Road Safety Orgs Are Terrified of the Cybertruck](https://gizmodo.com/european-road-safety-orgs-are-terrified-of-the-cybertruck-2000512122)<!-- HN:41857194:end -->
