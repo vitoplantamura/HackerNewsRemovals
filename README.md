@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 16, 2024**<!-- HN:41855952:start -->
 * [41855952](https://news.social-protocols.org/stats?id=41855952) #12 13 points 0 comments -> [Www.onedollarhomepage.com](https://www.onedollarhomepage.com/)<!-- HN:41855952:end --><!-- HN:41857194:start -->
 * [41857194](https://news.social-protocols.org/stats?id=41857194) #25 9 points 4 comments -> [European Road Safety Orgs Are Terrified of the Cybertruck](https://gizmodo.com/european-road-safety-orgs-are-terrified-of-the-cybertruck-2000512122)<!-- HN:41857194:end --><!-- HN:41857290:start -->
-* [41857290](https://news.social-protocols.org/stats?id=41857290) #14 74 points 43 comments -> [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)<!-- HN:41857290:end -->
+* [41857290](https://news.social-protocols.org/stats?id=41857290) #14 74 points 43 comments -> [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)<!-- HN:41857290:end --><!-- HN:41857932:start -->
+* [41857932](https://news.social-protocols.org/stats?id=41857932) #15 17 points 4 comments -> [Israel's bulky pager fooled Hezbollah](https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/HEZBOLLAH-PAGERS/mopawkkwjpa/)<!-- HN:41857932:end -->
