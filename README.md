@@ -155,3 +155,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41861838](https://news.social-protocols.org/stats?id=41861838) #10 19 points 0 comments -> [The Sound of the Dialup, Pictured](https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)<!-- HN:41861838:end --><!-- HN:41845322:start -->
 * [41845322](https://news.social-protocols.org/stats?id=41845322) #11 8 points 0 comments -> [10B Integers Walk into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964)<!-- HN:41845322:end --><!-- HN:41864794:start -->
 * [41864794](https://news.social-protocols.org/stats?id=41864794) #25 4 points 0 comments -> [Ollama can run any GGUF Model on Hugging Face Hub now](https://huggingface.co/docs/hub/en/ollama)<!-- HN:41864794:end -->
+#### **Thursday, October 17, 2024**
+<!-- HN:41866521:start -->
+* [41866521](https://news.social-protocols.org/stats?id=41866521) #25 9 points 6 comments -> [Critical default credentials in Kubernetes allows SSH root access](https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/)<!-- HN:41866521:end -->
