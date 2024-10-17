@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41864794](https://news.social-protocols.org/stats?id=41864794) #25 4 points 0 comments -> [Ollama can run any GGUF Model on Hugging Face Hub now](https://huggingface.co/docs/hub/en/ollama)<!-- HN:41864794:end -->
 #### **Thursday, October 17, 2024**
 <!-- HN:41866521:start -->
-* [41866521](https://news.social-protocols.org/stats?id=41866521) #25 9 points 6 comments -> [Critical default credentials in Kubernetes allows SSH root access](https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/)<!-- HN:41866521:end -->
+* [41866521](https://news.social-protocols.org/stats?id=41866521) #25 9 points 6 comments -> [Critical default credentials in Kubernetes allows SSH root access](https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/)<!-- HN:41866521:end --><!-- HN:41867861:start -->
+* [41867861](https://news.social-protocols.org/stats?id=41867861) #16 28 points 40 comments -> [EV battery prices to fall by nearly 50 pct and near ICE parity by 2026](https://thedriven.io/2024/10/16/ev-battery-prices-to-fall-by-nearly-50-pct-and-near-ice-parity-by-2026-says-goldman-sachs/)<!-- HN:41867861:end -->
