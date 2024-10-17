@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, October 10, 2024**
-<!-- HN:41765009:start -->
-* [41765009](https://news.social-protocols.org/stats?id=41765009) #28 19 points 6 comments -> [Is Android Unicode Yet?](https://shkspr.mobi/blog/2024/10/is-android-unicode-yet/)<!-- HN:41765009:end --><!-- HN:41794150:start -->
-* [41794150](https://news.social-protocols.org/stats?id=41794150) #9 15 points 17 comments -> [The Case for Web Components: A Simpler, Framework-Free Future for the Web](https://blog.lnear.dev/the-case-for-web-components/)<!-- HN:41794150:end --><!-- HN:41742779:start -->
-* [41742779](https://news.social-protocols.org/stats?id=41742779) #27 27 points 2 comments -> [Working Set Size Estimation (2018)](https://www.brendangregg.com/wss.html)<!-- HN:41742779:end --><!-- HN:41797081:start -->
-* [41797081](https://news.social-protocols.org/stats?id=41797081) #22 5 points 3 comments -> [The Internet Archive is under attack](https://www.theverge.com/2024/10/9/24266135/nintendo-original-alarm-clock-alarmo-prototypes)<!-- HN:41797081:end --><!-- HN:41797084:start -->
-* [41797084](https://news.social-protocols.org/stats?id=41797084) #2 58 points 28 comments -> [All We Have in This World Is Ourselves](https://rxjourney.com.ng/all-we-really-have-in-this-world-is-ourselves)<!-- HN:41797084:end --><!-- HN:41792803:start -->
-* [41792803](https://news.social-protocols.org/stats?id=41792803) #18 45 points 36 comments -> [Upgrading Homebrew and avoiding the "failed to verify attestation" error](https://til.simonwillison.net/homebrew/no-verify-attestations)<!-- HN:41792803:end --><!-- HN:41797048:start -->
-* [41797048](https://news.social-protocols.org/stats?id=41797048) #28 7 points 6 comments -> [BBC Weather app bug suggests hurricane winds in UK](https://www.bbc.co.uk/news/articles/c0kjrp2rngzo)<!-- HN:41797048:end --><!-- HN:41763034:start -->
-* [41763034](https://news.social-protocols.org/stats?id=41763034) #22 13 points 1 comments -> [What the (2021)](https://articles.foletta.org/post/2021-04-19-what-the/)<!-- HN:41763034:end --><!-- HN:41797724:start -->
-* [41797724](https://news.social-protocols.org/stats?id=41797724) #12 8 points 0 comments -> [A utopian strand of economic thought is making a surprising comeback](https://www.vox.com/the-highlight/24065976/economists-post-scarcity-abundance-industrial-revolution-socialism-capitalism)<!-- HN:41797724:end --><!-- HN:41799011:start -->
-* [41799011](https://news.social-protocols.org/stats?id=41799011) #5 12 points 5 comments -> [AAA Gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)<!-- HN:41799011:end --><!-- HN:41801795:start -->
-* [41801795](https://news.social-protocols.org/stats?id=41801795) #25 24 points 13 comments -> [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)<!-- HN:41801795:end -->
 #### **Friday, October 11, 2024**<!-- HN:41805515:start -->
 * [41805515](https://news.social-protocols.org/stats?id=41805515) #13 10 points 10 comments -> [Tesla's Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)<!-- HN:41805515:end --><!-- HN:41805628:start -->
 * [41805628](https://news.social-protocols.org/stats?id=41805628) #1 -> [UFO announcement 'could happen within weeks' as expert says 'we found it'](https://www.irishstar.com/news/us-news/ufo-announcement-aliens-extraterrestrials-nasa-33865539)<!-- HN:41805628:end --><!-- HN:41805941:start -->
