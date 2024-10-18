@@ -147,3 +147,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41870912](https://news.social-protocols.org/stats?id=41870912) #12 10 points 2 comments -> [How Software Companies Die](https://gist.githubusercontent.com/eliot-akira/6eaecda619d0fafd1d74/raw/4dcb405f0f604c240e3eabb5ecf88d143cf99582/how-software-companies-die)<!-- HN:41870912:end --><!-- HN:41871918:start -->
 * [41871918](https://news.social-protocols.org/stats?id=41871918) #7 6 points 0 comments -> [UK police raid home, seize devices of Electronic Intifada's Asa Winstanley](https://electronicintifada.net/blogs/ali-abunimah/uk-police-raid-home-seize-devices-eis-asa-winstanley)<!-- HN:41871918:end --><!-- HN:41870685:start -->
 * [41870685](https://news.social-protocols.org/stats?id=41870685) #22 10 points 7 comments -> [Show HN: MusicAny – I Build an AI Music Generator with Music Genre Knowledge](https://musicany.com)<!-- HN:41870685:end -->
+#### **Friday, October 18, 2024**
+<!-- HN:41874813:start -->
+* [41874813](https://news.social-protocols.org/stats?id=41874813) #14 27 points 7 comments -> [The Border Crisis Won't Be Solved at the Border](https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/)<!-- HN:41874813:end -->
