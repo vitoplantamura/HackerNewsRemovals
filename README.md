@@ -149,3 +149,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41883419](https://news.social-protocols.org/stats?id=41883419) #29 5 points 4 comments -> [how come a company founded over 100 years ago has the fastest site](https://twitter.com/KennethCassel/status/1847034096062710087)<!-- HN:41883419:end --><!-- HN:41883648:start -->
 * [41883648](https://news.social-protocols.org/stats?id=41883648) #27 7 points 1 comments -> [Meta Spirit LM: Open multimodal language model that freely mixes text and speech](https://twitter.com/AIatMeta/status/1847383580269510670)<!-- HN:41883648:end --><!-- HN:41883372:start -->
 * [41883372](https://news.social-protocols.org/stats?id=41883372) #16 8 points 1 comments -> [University administrators appear unconcerned that COVID is increasingly rampant](https://ricochet.media/justice/healthcare/university-administrators-appear-unconcerned-that-covid-is-increasingly-rampant-on-ontario-campuses/)<!-- HN:41883372:end -->
+#### **Saturday, October 19, 2024**
+<!-- HN:41886658:start -->
+* [41886658](https://news.social-protocols.org/stats?id=41886658) #6 21 points 27 comments -> [Saudi Arabian Neom project 'uses one fifth of steel'](https://www.agbi.com/giga-projects/2024/10/neom-uses-one-fifth-of-worlds-steel/)<!-- HN:41886658:end -->
