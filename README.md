@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41883372](https://news.social-protocols.org/stats?id=41883372) #16 8 points 1 comments -> [University administrators appear unconcerned that COVID is increasingly rampant](https://ricochet.media/justice/healthcare/university-administrators-appear-unconcerned-that-covid-is-increasingly-rampant-on-ontario-campuses/)<!-- HN:41883372:end -->
 #### **Saturday, October 19, 2024**
 <!-- HN:41886658:start -->
-* [41886658](https://news.social-protocols.org/stats?id=41886658) #6 21 points 27 comments -> [Saudi Arabian Neom project 'uses one fifth of steel'](https://www.agbi.com/giga-projects/2024/10/neom-uses-one-fifth-of-worlds-steel/)<!-- HN:41886658:end -->
+* [41886658](https://news.social-protocols.org/stats?id=41886658) #6 21 points 27 comments -> [Saudi Arabian Neom project 'uses one fifth of steel'](https://www.agbi.com/giga-projects/2024/10/neom-uses-one-fifth-of-worlds-steel/)<!-- HN:41886658:end --><!-- HN:41858172:start -->
+* [41858172](https://news.social-protocols.org/stats?id=41858172) #17 22 points 3 comments -> [Understanding Pam and Creating a Custom Module in Python – Inside Out Insights](https://text.tchncs.de/ioi/in-todays-interconnected-world-user-authentication-plays-a-critical-role-in)<!-- HN:41858172:end -->
