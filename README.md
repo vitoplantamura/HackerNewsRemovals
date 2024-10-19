@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, October 19, 2024**
 <!-- HN:41886658:start -->
 * [41886658](https://news.social-protocols.org/stats?id=41886658) #6 21 points 27 comments -> [Saudi Arabian Neom project 'uses one fifth of steel'](https://www.agbi.com/giga-projects/2024/10/neom-uses-one-fifth-of-worlds-steel/)<!-- HN:41886658:end --><!-- HN:41858172:start -->
-* [41858172](https://news.social-protocols.org/stats?id=41858172) #17 22 points 3 comments -> [Understanding Pam and Creating a Custom Module in Python – Inside Out Insights](https://text.tchncs.de/ioi/in-todays-interconnected-world-user-authentication-plays-a-critical-role-in)<!-- HN:41858172:end -->
+* [41858172](https://news.social-protocols.org/stats?id=41858172) #17 22 points 3 comments -> [Understanding Pam and Creating a Custom Module in Python – Inside Out Insights](https://text.tchncs.de/ioi/in-todays-interconnected-world-user-authentication-plays-a-critical-role-in)<!-- HN:41858172:end --><!-- HN:41886047:start -->
+* [41886047](https://news.social-protocols.org/stats?id=41886047) #11 7 points 1 comments -> [Implementing Brainfuck in APL](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)<!-- HN:41886047:end -->
