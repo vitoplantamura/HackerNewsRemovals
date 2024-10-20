@@ -138,5 +138,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41888804](https://news.social-protocols.org/stats?id=41888804) #1 9 points 1 comments -> [Why Use React for Game Development?](https://jslegenddev.substack.com/p/why-use-react-for-game-development)<!-- HN:41888804:end --><!-- HN:41859806:start -->
 * [41859806](https://news.social-protocols.org/stats?id=41859806) #16 13 points 16 comments -> [Gang of Raccoons Mobs Woman in Casper Hotel Parking Lot](https://cowboystatedaily.com/2024/10/14/gang-of-raccoons-mobs-woman-in-casper-hotel-parking-lot/)<!-- HN:41859806:end -->
 #### **Sunday, October 20, 2024**
-<!-- HN:41892637:start -->
-* [41892637](https://news.social-protocols.org/stats?id=41892637) #1 10 points 0 comments -> [Microsoft is basically discontinuing Windows. What will happen, then?](https://azhdarchid.com/microsoft-is-basically-discontinuing-windows-what-will-happen-then/)<!-- HN:41892637:end -->
