@@ -150,5 +150,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41897805](https://news.social-protocols.org/stats?id=41897805) #28 8 points 1 comments -> [Don Norman: 'Apple has fallen prey to the most disastrous part of design '](https://english.elpais.com/culture/2024-10-20/don-norman-apple-has-fallen-prey-to-the-most-disastrous-part-of-design-which-thinks-its-about-making-something-beautiful-and-elegant.html)<!-- HN:41897805:end --><!-- HN:41898040:start -->
 * [41898040](https://news.social-protocols.org/stats?id=41898040) #14 7 points 2 comments -> [It's time to leave Bitwarden (2023)](https://blog.notesnook.com/its-time-to-leave-bitwarden/)<!-- HN:41898040:end -->
 #### **Monday, October 21, 2024**
-<!-- HN:41899085:start -->
-* [41899085](https://news.social-protocols.org/stats?id=41899085) #27 14 points 6 comments -> [Cuba Can't Keep the Lights On](https://www.wsj.com/opinion/cuba-cant-keep-the-lights-on-electricity-grid-blackouts-27b4ebe5)<!-- HN:41899085:end -->
