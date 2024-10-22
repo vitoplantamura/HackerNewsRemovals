@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, October 15, 2024**
-<!-- HN:41845075:start -->
-* [41845075](https://news.social-protocols.org/stats?id=41845075) #25 5 points 0 comments -> [Riots and the far right: the global network behind the violence](https://news.sky.com/story/riots-and-the-far-right-the-global-network-behind-the-violence-13232023)<!-- HN:41845075:end --><!-- HN:41807954:start -->
-* [41807954](https://news.social-protocols.org/stats?id=41807954) #8 37 points 17 comments -> ['Islands' of regularity discovered in the famously chaotic three-body problem](https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html)<!-- HN:41807954:end --><!-- HN:41845624:start -->
-* [41845624](https://news.social-protocols.org/stats?id=41845624) #18 23 points 11 comments -> [India's Renewable Energy Capacity Hits 200 GW Milestone, Accounts for 46.3%](https://www.ndtvprofit.com/business/india-renewable-energy-hits-200-gw-milestone-46-percent-total-power)<!-- HN:41845624:end --><!-- HN:41848053:start -->
-* [41848053](https://news.social-protocols.org/stats?id=41848053) #9 8 points 3 comments -> [Looking for help for Bloxtor: A Free Open-Source Web App Framework](https://github.com/a19836/bloxtor)<!-- HN:41848053:end --><!-- HN:41845705:start -->
-* [41845705](https://news.social-protocols.org/stats?id=41845705) #21 28 points 43 comments -> [The American economy has left other rich countries in the dust](https://www.economist.com/special-report/2024/10/14/the-american-economy-has-left-other-rich-countries-in-the-dust)<!-- HN:41845705:end --><!-- HN:41848935:start -->
-* [41848935](https://news.social-protocols.org/stats?id=41848935) #11 5 points 0 comments -> [Announcing Our Updated Responsible Scaling Policy](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy)<!-- HN:41848935:end --><!-- HN:41850573:start -->
-* [41850573](https://news.social-protocols.org/stats?id=41850573) #16 33 points 40 comments -> [Fable Is Winding Down](https://www.fable.app/blog/fable-is-winding-down)<!-- HN:41850573:end --><!-- HN:41852556:start -->
-* [41852556](https://news.social-protocols.org/stats?id=41852556) #29 27 points 40 comments -> [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)<!-- HN:41852556:end -->
 #### **Wednesday, October 16, 2024**<!-- HN:41855952:start -->
 * [41855952](https://news.social-protocols.org/stats?id=41855952) #12 13 points 0 comments -> [Www.onedollarhomepage.com](https://www.onedollarhomepage.com/)<!-- HN:41855952:end --><!-- HN:41857194:start -->
 * [41857194](https://news.social-protocols.org/stats?id=41857194) #25 9 points 4 comments -> [European Road Safety Orgs Are Terrified of the Cybertruck](https://gizmodo.com/european-road-safety-orgs-are-terrified-of-the-cybertruck-2000512122)<!-- HN:41857194:end --><!-- HN:41857290:start -->
