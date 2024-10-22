@@ -156,3 +156,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41906485](https://news.social-protocols.org/stats?id=41906485) #18 13 points 0 comments -> [Harassment campaign targets open source developer, Wikipedia page deleted](https://www.redditmedia.com/r/selfhosted/comments/1g1425m/paperlessngx_bashing_on_mayan_edms_forum/)<!-- HN:41906485:end --><!-- HN:41908272:start -->
 * [41908272](https://news.social-protocols.org/stats?id=41908272) #18 7 points 1 comments -> [Meta's Israel Policy Chief Tried to Suppress Pro-Palestine Instagram Posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)<!-- HN:41908272:end --><!-- HN:41909130:start -->
 * [41909130](https://news.social-protocols.org/stats?id=41909130) #16 8 points 1 comments -> [Behind Many Powerful Women on Wall Street: A Doting 'Househusband'](https://www.wsj.com/lifestyle/careers/successful-professional-women-house-husband-1339832a)<!-- HN:41909130:end -->
+#### **Tuesday, October 22, 2024**
+<!-- HN:41909463:start -->
+* [41909463](https://news.social-protocols.org/stats?id=41909463) #26 14 points 10 comments -> [Disney Plus and Hulu won't let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)<!-- HN:41909463:end -->
