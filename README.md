@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41909130](https://news.social-protocols.org/stats?id=41909130) #16 8 points 1 comments -> [Behind Many Powerful Women on Wall Street: A Doting 'Househusband'](https://www.wsj.com/lifestyle/careers/successful-professional-women-house-husband-1339832a)<!-- HN:41909130:end -->
 #### **Tuesday, October 22, 2024**
 <!-- HN:41909463:start -->
-* [41909463](https://news.social-protocols.org/stats?id=41909463) #26 14 points 10 comments -> [Disney Plus and Hulu won't let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)<!-- HN:41909463:end -->
+* [41909463](https://news.social-protocols.org/stats?id=41909463) #26 14 points 10 comments -> [Disney Plus and Hulu won't let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)<!-- HN:41909463:end --><!-- HN:41884485:start -->
+* [41884485](https://news.social-protocols.org/stats?id=41884485) #20 13 points 19 comments -> [Our Boundless Love for Big Sur May Be Killing It](https://www.nytimes.com/2024/10/18/travel/big-sur-tourism-california.html)<!-- HN:41884485:end -->
