@@ -150,3 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41919317](https://news.social-protocols.org/stats?id=41919317) #15 -> [Trump: 'I Need the Kind of Generals That Hitler Had'](https://www.theatlantic.com/politics/archive/2024/10/trump-military-generals-hitler/680327/)<!-- HN:41919317:end --><!-- HN:41919357:start -->
 * [41919357](https://news.social-protocols.org/stats?id=41919357) #22 9 points 3 comments -> [1 Dead from E.Coli Outbreak Linked to McDonald's Quarter Pounders](https://www.cnn.com/2024/10/22/health/mcdonalds-cdc-ecoli-outbreak/index.html)<!-- HN:41919357:end --><!-- HN:41876741:start -->
 * [41876741](https://news.social-protocols.org/stats?id=41876741) #27 233 points 114 comments -> [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)<!-- HN:41876741:end -->
+#### **Wednesday, October 23, 2024**
+<!-- HN:41919900:start -->
+* [41919900](https://news.social-protocols.org/stats?id=41919900) #5 16 points 11 comments -> [California Businesses Stop Hiring](https://www.hoover.org/research/californias-businesses-stop-hiring)<!-- HN:41919900:end -->
