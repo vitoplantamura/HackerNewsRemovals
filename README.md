@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 23, 2024**
 <!-- HN:41919900:start -->
 * [41919900](https://news.social-protocols.org/stats?id=41919900) #5 16 points 11 comments -> [California Businesses Stop Hiring](https://www.hoover.org/research/californias-businesses-stop-hiring)<!-- HN:41919900:end --><!-- HN:41920294:start -->
-* [41920294](https://news.social-protocols.org/stats?id=41920294) #2 47 points 1 comments -> [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)<!-- HN:41920294:end -->
+* [41920294](https://news.social-protocols.org/stats?id=41920294) #2 47 points 1 comments -> [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)<!-- HN:41920294:end --><!-- HN:41922480:start -->
+* [41922480](https://news.social-protocols.org/stats?id=41922480) #2 7 points 2 comments -> [Show HN: Stable Diffusion 3.5 – Advanced AI Image Generator](https://stablediffusion35.org)<!-- HN:41922480:end -->
