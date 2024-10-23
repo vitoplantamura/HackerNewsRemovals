@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41876741](https://news.social-protocols.org/stats?id=41876741) #27 233 points 114 comments -> [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)<!-- HN:41876741:end -->
 #### **Wednesday, October 23, 2024**
 <!-- HN:41919900:start -->
-* [41919900](https://news.social-protocols.org/stats?id=41919900) #5 16 points 11 comments -> [California Businesses Stop Hiring](https://www.hoover.org/research/californias-businesses-stop-hiring)<!-- HN:41919900:end -->
+* [41919900](https://news.social-protocols.org/stats?id=41919900) #5 16 points 11 comments -> [California Businesses Stop Hiring](https://www.hoover.org/research/californias-businesses-stop-hiring)<!-- HN:41919900:end --><!-- HN:41920294:start -->
+* [41920294](https://news.social-protocols.org/stats?id=41920294) #2 47 points 1 comments -> [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)<!-- HN:41920294:end -->
