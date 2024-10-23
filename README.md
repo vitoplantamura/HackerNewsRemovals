@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, October 16, 2024**<!-- HN:41855952:start -->
-* [41855952](https://news.social-protocols.org/stats?id=41855952) #12 13 points 0 comments -> [Www.onedollarhomepage.com](https://www.onedollarhomepage.com/)<!-- HN:41855952:end --><!-- HN:41857194:start -->
-* [41857194](https://news.social-protocols.org/stats?id=41857194) #25 9 points 4 comments -> [European Road Safety Orgs Are Terrified of the Cybertruck](https://gizmodo.com/european-road-safety-orgs-are-terrified-of-the-cybertruck-2000512122)<!-- HN:41857194:end --><!-- HN:41857290:start -->
-* [41857290](https://news.social-protocols.org/stats?id=41857290) #14 74 points 43 comments -> [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)<!-- HN:41857290:end --><!-- HN:41857503:start -->
-* [41857503](https://news.social-protocols.org/stats?id=41857503) #17 30 points 42 comments -> [Commission concludes that X should not be designated under the DMA](https://ec.europa.eu/commission/presscorner/detail/en/mex_24_5324)<!-- HN:41857503:end --><!-- HN:41858307:start -->
-* [41858307](https://news.social-protocols.org/stats?id=41858307) #12 14 points 10 comments -> [Intel spends more on R&D than Nvidia and AMD combined](https://www.tomshardware.com/tech-industry/intel-spends-more-on-r-and-d-than-nvidia-and-amd-combined-yet-continues-to-lag-in-market-cap-nvidia-spends-almost-2x-more-than-amd)<!-- HN:41858307:end --><!-- HN:41858854:start -->
-* [41858854](https://news.social-protocols.org/stats?id=41858854) #9 -> [Show HN: Engine – AI-powered IDE in the browser](https://app.enginelabs.ai/)<!-- HN:41858854:end --><!-- HN:41860835:start -->
-* [41860835](https://news.social-protocols.org/stats?id=41860835) #6 10 points 0 comments -> [The open future of networking hardware for AI](https://engineering.fb.com/2024/10/15/data-infrastructure/open-future-networking-hardware-ai-ocp-2024-meta/)<!-- HN:41860835:end --><!-- HN:41860855:start -->
-* [41860855](https://news.social-protocols.org/stats?id=41860855) #22 5 points 2 comments -> [The University of Michigan Doubled Down on DEI What Went Wrong?](https://www.nytimes.com/2024/10/16/magazine/dei-university-michigan.html)<!-- HN:41860855:end --><!-- HN:41862360:start -->
-* [41862360](https://news.social-protocols.org/stats?id=41862360) #27 3 points 0 comments -> [Forgejo v9.0 Is Available](https://forgejo.org/2024-10-release-v9-0/)<!-- HN:41862360:end --><!-- HN:41861838:start -->
-* [41861838](https://news.social-protocols.org/stats?id=41861838) #10 19 points 0 comments -> [The Sound of the Dialup, Pictured](https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)<!-- HN:41861838:end --><!-- HN:41845322:start -->
-* [41845322](https://news.social-protocols.org/stats?id=41845322) #11 8 points 0 comments -> [10B Integers Walk into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964)<!-- HN:41845322:end --><!-- HN:41864794:start -->
-* [41864794](https://news.social-protocols.org/stats?id=41864794) #25 4 points 0 comments -> [Ollama can run any GGUF Model on Hugging Face Hub now](https://huggingface.co/docs/hub/en/ollama)<!-- HN:41864794:end -->
 #### **Thursday, October 17, 2024**
 <!-- HN:41866521:start -->
 * [41866521](https://news.social-protocols.org/stats?id=41866521) #25 9 points 6 comments -> [Critical default credentials in Kubernetes allows SSH root access](https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/)<!-- HN:41866521:end --><!-- HN:41867861:start -->
