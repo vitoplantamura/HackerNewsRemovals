@@ -152,5 +152,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 23, 2024**
 <!-- HN:41919900:start -->
 * [41919900](https://news.social-protocols.org/stats?id=41919900) #5 16 points 11 comments -> [California Businesses Stop Hiring](https://www.hoover.org/research/californias-businesses-stop-hiring)<!-- HN:41919900:end --><!-- HN:41920294:start -->
-* [41920294](https://news.social-protocols.org/stats?id=41920294) #2 47 points 1 comments -> [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)<!-- HN:41920294:end --><!-- HN:41921866:start -->
-* [41921866](https://news.social-protocols.org/stats?id=41921866) #29 3 points 0 comments -> [Sorry, but the ROI on enterprise AI is abysmal](https://www.theregister.com/2024/10/22/genai_roi_appen/)<!-- HN:41921866:end -->
+* [41920294](https://news.social-protocols.org/stats?id=41920294) #2 47 points 1 comments -> [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)<!-- HN:41920294:end -->
