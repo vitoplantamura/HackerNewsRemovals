@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41927942](https://news.social-protocols.org/stats?id=41927942) #13 5 points 0 comments -> [The greenhouse gas footprint of liquefied natural gas (LNG) exported from the US](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ese3.1934)<!-- HN:41927942:end -->
 #### **Thursday, October 24, 2024**
 <!-- HN:41930586:start -->
-* [41930586](https://news.social-protocols.org/stats?id=41930586) #23 70 points 9 comments -> [Apple ripped a valuable hearing loss feature from the AirPods line](https://mattiebee.io/55828/it-sure-looks-like-apple-ripped-a-valuable-hearing-loss-feature-from-the-airpods-line)<!-- HN:41930586:end -->
+* [41930586](https://news.social-protocols.org/stats?id=41930586) #23 70 points 9 comments -> [Apple ripped a valuable hearing loss feature from the AirPods line](https://mattiebee.io/55828/it-sure-looks-like-apple-ripped-a-valuable-hearing-loss-feature-from-the-airpods-line)<!-- HN:41930586:end --><!-- HN:41930517:start -->
+* [41930517](https://news.social-protocols.org/stats?id=41930517) #28 21 points 41 comments -> [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)<!-- HN:41930517:end -->
