@@ -164,3 +164,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41927286](https://news.social-protocols.org/stats?id=41927286) #9 24 points 17 comments -> [Show HN: Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/)<!-- HN:41927286:end --><!-- HN:41928708:start -->
 * [41928708](https://news.social-protocols.org/stats?id=41928708) #13 8 points 0 comments -> [Bail Bond Insurers Are Lobbying to Keep People in Jail](https://jacobin.com/2024/10/bail-bonds-lobbyists-insurers-reform/)<!-- HN:41928708:end --><!-- HN:41927942:start -->
 * [41927942](https://news.social-protocols.org/stats?id=41927942) #13 5 points 0 comments -> [The greenhouse gas footprint of liquefied natural gas (LNG) exported from the US](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ese3.1934)<!-- HN:41927942:end -->
+#### **Thursday, October 24, 2024**
+<!-- HN:41930586:start -->
+* [41930586](https://news.social-protocols.org/stats?id=41930586) #23 70 points 9 comments -> [Apple ripped a valuable hearing loss feature from the AirPods line](https://mattiebee.io/55828/it-sure-looks-like-apple-ripped-a-valuable-hearing-loss-feature-from-the-airpods-line)<!-- HN:41930586:end -->
