@@ -164,3 +164,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41939158](https://news.social-protocols.org/stats?id=41939158) #5 16 points 15 comments -> [Ultra fast key value store (in C btw)](https://freshql.ai/blog_fast_storage.html)<!-- HN:41939158:end --><!-- HN:41939138:start -->
 * [41939138](https://news.social-protocols.org/stats?id=41939138) #27 7 points 0 comments -> [Kazan Declaration [pdf]](http://static.kremlin.ru/media/events/files/en/RosOySvLzGaJtmx2wYFv0lN4NSPZploG.pdf)<!-- HN:41939138:end --><!-- HN:41939142:start -->
 * [41939142](https://news.social-protocols.org/stats?id=41939142) #26 28 points 3 comments -> [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)<!-- HN:41939142:end -->
+#### **Friday, October 25, 2024**
+<!-- HN:41943063:start -->
+* [41943063](https://news.social-protocols.org/stats?id=41943063) #12 18 points 5 comments -> [A Modern CSS Reset (2024 update)](https://www.joshwcomeau.com/css/custom-css-reset/)<!-- HN:41943063:end -->
