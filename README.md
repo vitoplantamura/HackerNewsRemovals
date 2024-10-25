@@ -164,8 +164,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41939158](https://news.social-protocols.org/stats?id=41939158) #5 16 points 15 comments -> [Ultra fast key value store (in C btw)](https://freshql.ai/blog_fast_storage.html)<!-- HN:41939158:end --><!-- HN:41939138:start -->
 * [41939138](https://news.social-protocols.org/stats?id=41939138) #27 7 points 0 comments -> [Kazan Declaration [pdf]](http://static.kremlin.ru/media/events/files/en/RosOySvLzGaJtmx2wYFv0lN4NSPZploG.pdf)<!-- HN:41939138:end -->
 #### **Friday, October 25, 2024**
-<!-- HN:41943063:start -->
-* [41943063](https://news.social-protocols.org/stats?id=41943063) #12 18 points 5 comments -> [A Modern CSS Reset (2024 update)](https://www.joshwcomeau.com/css/custom-css-reset/)<!-- HN:41943063:end --><!-- HN:41944002:start -->
+<!-- HN:41944002:start -->
 * [41944002](https://news.social-protocols.org/stats?id=41944002) #18 25 points 1 comments -> [U.S. Study on Puberty Blockers Goes Unpublished Because of Politics, Doctor Says](https://www.nytimes.com/2024/10/23/science/puberty-blockers-olson-kennedy.html)<!-- HN:41944002:end --><!-- HN:41943756:start -->
 * [41943756](https://news.social-protocols.org/stats?id=41943756) #8 31 points 29 comments -> [Show HN: I made a Bluesky video downloader that can download videos from Bluesky](https://blueskyvideodownloader.org/)<!-- HN:41943756:end --><!-- HN:41945213:start -->
 * [41945213](https://news.social-protocols.org/stats?id=41945213) #21 9 points 0 comments -> [Wikipedia's Pro-Hamas Editors Hijacked the Israel-Palestine Narrative](https://www.piratewires.com/p/how-wikipedia-s-pro-hamas-editors-hijacked-the-israel-palestine-narrative)<!-- HN:41945213:end --><!-- HN:41944836:start -->
