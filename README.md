@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41939142](https://news.social-protocols.org/stats?id=41939142) #26 28 points 3 comments -> [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)<!-- HN:41939142:end -->
 #### **Friday, October 25, 2024**
 <!-- HN:41943063:start -->
-* [41943063](https://news.social-protocols.org/stats?id=41943063) #12 18 points 5 comments -> [A Modern CSS Reset (2024 update)](https://www.joshwcomeau.com/css/custom-css-reset/)<!-- HN:41943063:end -->
+* [41943063](https://news.social-protocols.org/stats?id=41943063) #12 18 points 5 comments -> [A Modern CSS Reset (2024 update)](https://www.joshwcomeau.com/css/custom-css-reset/)<!-- HN:41943063:end --><!-- HN:41944002:start -->
+* [41944002](https://news.social-protocols.org/stats?id=41944002) #18 25 points 1 comments -> [U.S. Study on Puberty Blockers Goes Unpublished Because of Politics, Doctor Says](https://www.nytimes.com/2024/10/23/science/puberty-blockers-olson-kennedy.html)<!-- HN:41944002:end -->
