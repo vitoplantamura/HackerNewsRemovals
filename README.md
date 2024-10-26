@@ -180,3 +180,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41907928](https://news.social-protocols.org/stats?id=41907928) #21 8 points 4 comments -> [New largest prime number found See all 41,024,320 digits [video]](https://www.youtube.com/watch?v=zsyGRDrDfbI)<!-- HN:41907928:end --><!-- HN:41905595:start -->
 * [41905595](https://news.social-protocols.org/stats?id=41905595) #29 40 points 1 comments -> [Making Of: Line Drawing Tutorial (2017)](https://www.redblobgames.com/making-of/line-drawing/)<!-- HN:41905595:end --><!-- HN:41910080:start -->
 * [41910080](https://news.social-protocols.org/stats?id=41910080) #17 11 points 6 comments -> [Show HN: Optimizing compiler for a large subset of C, written in Rust](https://github.com/xqb64/ucc)<!-- HN:41910080:end -->
+#### **Saturday, October 26, 2024**
+<!-- HN:41951215:start -->
+* [41951215](https://news.social-protocols.org/stats?id=41951215) #28 9 points 1 comments -> [Wikipedia Put a Near Total Ban on Calling Gaza Health Ministry "Hamas-Run"](https://jewishjournal.com/news/united-states/376157/wikipedia-editors-place-a-near-total-ban-on-calling-gaza-health-ministry-hamas-run/)<!-- HN:41951215:end -->
