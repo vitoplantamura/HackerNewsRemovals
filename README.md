@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, October 26, 2024**
 <!-- HN:41951215:start -->
 * [41951215](https://news.social-protocols.org/stats?id=41951215) #28 9 points 1 comments -> [Wikipedia Put a Near Total Ban on Calling Gaza Health Ministry "Hamas-Run"](https://jewishjournal.com/news/united-states/376157/wikipedia-editors-place-a-near-total-ban-on-calling-gaza-health-ministry-hamas-run/)<!-- HN:41951215:end --><!-- HN:41951972:start -->
-* [41951972](https://news.social-protocols.org/stats?id=41951972) #4 6 points 5 comments -> [Cqwrteur's fork of Linux kernel, rename it to Cinux](https://github.com/Cqinux/cinux)<!-- HN:41951972:end -->
+* [41951972](https://news.social-protocols.org/stats?id=41951972) #4 6 points 5 comments -> [Cqwrteur's fork of Linux kernel, rename it to Cinux](https://github.com/Cqinux/cinux)<!-- HN:41951972:end --><!-- HN:41952120:start -->
+* [41952120](https://news.social-protocols.org/stats?id=41952120) #25 5 points 0 comments -> [Israel strikes military targets in Iran](https://www.washingtonpost.com/world/2024/10/25/israel-iran-attack-war-strikes/)<!-- HN:41952120:end -->
