@@ -170,4 +170,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41910080](https://news.social-protocols.org/stats?id=41910080) #17 11 points 6 comments -> [Show HN: Optimizing compiler for a large subset of C, written in Rust](https://github.com/xqb64/ucc)<!-- HN:41910080:end -->
 #### **Saturday, October 26, 2024**
 <!-- HN:41951215:start -->
-* [41951215](https://news.social-protocols.org/stats?id=41951215) #28 9 points 1 comments -> [Wikipedia Put a Near Total Ban on Calling Gaza Health Ministry "Hamas-Run"](https://jewishjournal.com/news/united-states/376157/wikipedia-editors-place-a-near-total-ban-on-calling-gaza-health-ministry-hamas-run/)<!-- HN:41951215:end -->
+* [41951215](https://news.social-protocols.org/stats?id=41951215) #28 9 points 1 comments -> [Wikipedia Put a Near Total Ban on Calling Gaza Health Ministry "Hamas-Run"](https://jewishjournal.com/news/united-states/376157/wikipedia-editors-place-a-near-total-ban-on-calling-gaza-health-ministry-hamas-run/)<!-- HN:41951215:end --><!-- HN:41951972:start -->
+* [41951972](https://news.social-protocols.org/stats?id=41951972) #4 6 points 5 comments -> [Cqwrteur's fork of Linux kernel, rename it to Cinux](https://github.com/Cqinux/cinux)<!-- HN:41951972:end -->
