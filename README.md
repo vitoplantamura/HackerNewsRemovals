@@ -175,3 +175,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41913319](https://news.social-protocols.org/stats?id=41913319) #22 60 points 75 comments -> [Marketing the Odin programming language is weird](http://www.gingerbill.org/article/2024/09/08/odin-weird-to-market/)<!-- HN:41913319:end --><!-- HN:41957829:start -->
 * [41957829](https://news.social-protocols.org/stats?id=41957829) #19 83 points 24 comments -> [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)<!-- HN:41957829:end --><!-- HN:41958309:start -->
 * [41958309](https://news.social-protocols.org/stats?id=41958309) #7 6 points 0 comments -> [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)<!-- HN:41958309:end -->
+#### **Sunday, October 27, 2024**
+<!-- HN:41960114:start -->
+* [41960114](https://news.social-protocols.org/stats?id=41960114) #25 6 points 3 comments -> [Google to develop AI that takes over computers, The Information reports](https://www.reuters.com/technology/artificial-intelligence/google-develop-ai-that-takes-over-computers-information-reports-2024-10-26/)<!-- HN:41960114:end -->
