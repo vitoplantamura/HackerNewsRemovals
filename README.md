@@ -202,4 +202,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41962627](https://news.social-protocols.org/stats?id=41962627) #27 8 points 1 comments -> [Privacy4Cars](https://privacy4cars.com/)<!-- HN:41962627:end --><!-- HN:41926070:start -->
 * [41926070](https://news.social-protocols.org/stats?id=41926070) #17 10 points 4 comments -> [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)<!-- HN:41926070:end --><!-- HN:41963890:start -->
 * [41963890](https://news.social-protocols.org/stats?id=41963890) #15 11 points 1 comments -> [ModelKit: Transforming AI/ML artifact sharing and management across lifecycles](https://kitops.ml/docs/modelkit/intro.html)<!-- HN:41963890:end --><!-- HN:41963906:start -->
-* [41963906](https://news.social-protocols.org/stats?id=41963906) #20 13 points 4 comments -> [What Is a Raspberry Pi AI Kit?](https://raspberrytips.com/what-is-raspberry-pi-ai-kit/)<!-- HN:41963906:end -->
+* [41963906](https://news.social-protocols.org/stats?id=41963906) #20 13 points 4 comments -> [What Is a Raspberry Pi AI Kit?](https://raspberrytips.com/what-is-raspberry-pi-ai-kit/)<!-- HN:41963906:end --><!-- HN:41964775:start -->
+* [41964775](https://news.social-protocols.org/stats?id=41964775) #17 14 points 0 comments -> [Matt Mullenweg's Bull(enweg)](https://bullenweg.org/)<!-- HN:41964775:end -->
