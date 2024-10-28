@@ -180,4 +180,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, October 28, 2024**
 <!-- HN:41966711:start -->
 * [41966711](https://news.social-protocols.org/stats?id=41966711) #26 8 points 1 comments -> [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://www.seattletimes.com/business/microsoft-fires-employees-who-organized-vigil-for-palestinians-killed-in-gaza/)<!-- HN:41966711:end --><!-- HN:41966865:start -->
-* [41966865](https://news.social-protocols.org/stats?id=41966865) #11 30 points 40 comments -> [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)<!-- HN:41966865:end -->
+* [41966865](https://news.social-protocols.org/stats?id=41966865) #11 30 points 40 comments -> [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)<!-- HN:41966865:end --><!-- HN:41967147:start -->
+* [41967147](https://news.social-protocols.org/stats?id=41967147) #6 19 points 41 comments -> [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)<!-- HN:41967147:end -->
