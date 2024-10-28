@@ -203,3 +203,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41926070](https://news.social-protocols.org/stats?id=41926070) #17 10 points 4 comments -> [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)<!-- HN:41926070:end --><!-- HN:41963890:start -->
 * [41963890](https://news.social-protocols.org/stats?id=41963890) #15 11 points 1 comments -> [ModelKit: Transforming AI/ML artifact sharing and management across lifecycles](https://kitops.ml/docs/modelkit/intro.html)<!-- HN:41963890:end --><!-- HN:41963906:start -->
 * [41963906](https://news.social-protocols.org/stats?id=41963906) #20 13 points 4 comments -> [What Is a Raspberry Pi AI Kit?](https://raspberrytips.com/what-is-raspberry-pi-ai-kit/)<!-- HN:41963906:end -->
+#### **Monday, October 28, 2024**
+<!-- HN:41966711:start -->
+* [41966711](https://news.social-protocols.org/stats?id=41966711) #26 8 points 1 comments -> [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://www.seattletimes.com/business/microsoft-fires-employees-who-organized-vigil-for-palestinians-killed-in-gaza/)<!-- HN:41966711:end -->
