@@ -179,7 +179,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41963906](https://news.social-protocols.org/stats?id=41963906) #20 13 points 4 comments -> [What Is a Raspberry Pi AI Kit?](https://raspberrytips.com/what-is-raspberry-pi-ai-kit/)<!-- HN:41963906:end -->
 #### **Monday, October 28, 2024**
 <!-- HN:41966711:start -->
-* [41966711](https://news.social-protocols.org/stats?id=41966711) #26 8 points 1 comments -> [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://www.seattletimes.com/business/microsoft-fires-employees-who-organized-vigil-for-palestinians-killed-in-gaza/)<!-- HN:41966711:end --><!-- HN:41966865:start -->
-* [41966865](https://news.social-protocols.org/stats?id=41966865) #11 30 points 40 comments -> [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)<!-- HN:41966865:end --><!-- HN:41967293:start -->
+* [41966711](https://news.social-protocols.org/stats?id=41966711) #26 8 points 1 comments -> [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://www.seattletimes.com/business/microsoft-fires-employees-who-organized-vigil-for-palestinians-killed-in-gaza/)<!-- HN:41966711:end --><!-- HN:41967293:start -->
 * [41967293](https://news.social-protocols.org/stats?id=41967293) #9 18 points 1 comments -> [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)<!-- HN:41967293:end --><!-- HN:41968008:start -->
 * [41968008](https://news.social-protocols.org/stats?id=41968008) #21 10 points 2 comments -> [Digital Nomads Are Exploiting the World](https://www.thrillist.com/travel/nation/digital-nomads-criticism-locals-exploitation)<!-- HN:41968008:end -->
