@@ -173,3 +173,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41971060](https://news.social-protocols.org/stats?id=41971060) #8 15 points 2 comments -> [M-series MacBook SSD storage upgrade (non-official) [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)<!-- HN:41971060:end --><!-- HN:41947881:start -->
 * [41947881](https://news.social-protocols.org/stats?id=41947881) #6 10 points 2 comments -> [x86 Early Kernel Boot Process with Microcode, ACPI Overrides, and Initrd](https://labcsmart.com/x86-platforms-part-3-early-kernel-boot-process-with-microcode-acpi-override-and-initrd/)<!-- HN:41947881:end --><!-- HN:41972610:start -->
 * [41972610](https://news.social-protocols.org/stats?id=41972610) #23 9 points 2 comments -> [UnitedHealth says Change Healthcare hack affects 100M – largest US health breach](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/)<!-- HN:41972610:end -->
+#### **Tuesday, October 29, 2024**
+<!-- HN:41978213:start -->
+* [41978213](https://news.social-protocols.org/stats?id=41978213) #3 22 points 4 comments -> [How to Learn Things by Yourself](https://brunothedev.github.io/p/2024-10-28-how_to_learn.html)<!-- HN:41978213:end -->
