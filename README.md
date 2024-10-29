@@ -177,4 +177,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41978213:start -->
 * [41978213](https://news.social-protocols.org/stats?id=41978213) #3 22 points 4 comments -> [How to Learn Things by Yourself](https://brunothedev.github.io/p/2024-10-28-how_to_learn.html)<!-- HN:41978213:end --><!-- HN:41977665:start -->
 * [41977665](https://news.social-protocols.org/stats?id=41977665) #17 12 points 0 comments -> [Show HN: Apache ResilientDB, High-Performance Open-Source Blockchain](https://resilientdb.incubator.apache.org/)<!-- HN:41977665:end --><!-- HN:41978940:start -->
-* [41978940](https://news.social-protocols.org/stats?id=41978940) #9 7 points 2 comments -> [Haiku OS domain has been hijacked](https://haiku-os.org)<!-- HN:41978940:end -->
+* [41978940](https://news.social-protocols.org/stats?id=41978940) #9 7 points 2 comments -> [Haiku OS domain has been hijacked](https://haiku-os.org)<!-- HN:41978940:end --><!-- HN:41942693:start -->
+* [41942693](https://news.social-protocols.org/stats?id=41942693) #10 11 points 1 comments -> [Lost Silk Road cities discovered in Uzbek mountains](https://www.bbc.co.uk/news/articles/c238kv8ddeyo)<!-- HN:41942693:end -->
