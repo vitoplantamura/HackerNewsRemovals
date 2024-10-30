@@ -161,3 +161,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41986436](https://news.social-protocols.org/stats?id=41986436) #28 75 points 65 comments -> [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)<!-- HN:41986436:end --><!-- HN:41988181:start -->
 * [41988181](https://news.social-protocols.org/stats?id=41988181) #25 3 points 0 comments -> [Protecting Router Freedom in Europe [pdf]](https://download.fsfe.org/routers/fsfe-router-freedom-activity-summary.pdf)<!-- HN:41988181:end --><!-- HN:41989962:start -->
 * [41989962](https://news.social-protocols.org/stats?id=41989962) #3 -> ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-9632/)<!-- HN:41989962:end -->
+#### **Wednesday, October 30, 2024**
+<!-- HN:41988769:start -->
+* [41988769](https://news.social-protocols.org/stats?id=41988769) #30 7 points 0 comments -> [OpenAI will start using AMD chips and could make its own AI hardware in 2026](https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips)<!-- HN:41988769:end -->
