@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41999701](https://news.social-protocols.org/stats?id=41999701) #5 4 points 0 comments -> [Meta Reports Third Quarter 2024 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Third-Quarter-2024-Results/default.aspx)<!-- HN:41999701:end --><!-- HN:41961846:start -->
 * [41961846](https://news.social-protocols.org/stats?id=41961846) #23 7 points 1 comments -> [Norlha, the Luxury Yak Wool Brand Made by Nomads on the Tibetan Plateau](https://www.anothermag.com/fashion-beauty/12229/norlha-is-the-tibetan-label-changing-what-luxury-fashion-looks-like)<!-- HN:41961846:end --><!-- HN:42000242:start -->
 * [42000242](https://news.social-protocols.org/stats?id=42000242) #26 16 points 7 comments -> [The realities of building an IPv6-only city – APNIC](https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/)<!-- HN:42000242:end -->
+#### **Thursday, October 31, 2024**
+<!-- HN:42002994:start -->
+* [42002994](https://news.social-protocols.org/stats?id=42002994) #9 11 points 8 comments -> [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)<!-- HN:42002994:end -->
