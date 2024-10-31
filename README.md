@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 31, 2024**
 <!-- HN:42002994:start -->
 * [42002994](https://news.social-protocols.org/stats?id=42002994) #9 11 points 8 comments -> [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)<!-- HN:42002994:end --><!-- HN:41956213:start -->
-* [41956213](https://news.social-protocols.org/stats?id=41956213) #12 58 points 31 comments -> [Cerebras Trains Llama Models to Leap over GPUs](https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/)<!-- HN:41956213:end -->
+* [41956213](https://news.social-protocols.org/stats?id=41956213) #12 58 points 31 comments -> [Cerebras Trains Llama Models to Leap over GPUs](https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/)<!-- HN:41956213:end --><!-- HN:42006265:start -->
+* [42006265](https://news.social-protocols.org/stats?id=42006265) #5 -> [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)<!-- HN:42006265:end -->
