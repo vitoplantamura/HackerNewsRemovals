@@ -151,5 +151,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, November 1, 2024**
 <!-- HN:42012807:start -->
 * [42012807](https://news.social-protocols.org/stats?id=42012807) #7 12 points 6 comments -> [Researchers are questioning if ADHD should be seen as a disorder](https://www.economist.com/science-and-technology/2024/10/30/researchers-are-questioning-if-adhd-should-be-seen-as-a-disorder)<!-- HN:42012807:end --><!-- HN:42013117:start -->
-* [42013117](https://news.social-protocols.org/stats?id=42013117) #5 9 points 1 comments -> [Technical Women and Women-in-Tech](https://deadsimpletech.com/blog/women_in_tech)<!-- HN:42013117:end --><!-- HN:42013762:start -->
-* [42013762](https://news.social-protocols.org/stats?id=42013762) #4 13 points 2 comments -> [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)<!-- HN:42013762:end -->
+* [42013117](https://news.social-protocols.org/stats?id=42013117) #5 9 points 1 comments -> [Technical Women and Women-in-Tech](https://deadsimpletech.com/blog/women_in_tech)<!-- HN:42013117:end -->
