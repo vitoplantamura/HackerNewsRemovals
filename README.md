@@ -150,4 +150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42008424](https://news.social-protocols.org/stats?id=42008424) #1 -> [If The Economist had a vote, we would cast it for Kamala Harris](https://www.economist.com/leaders/2024/10/31/a-second-trump-term-comes-with-unacceptable-risks)<!-- HN:42008424:end -->
 #### **Friday, November 1, 2024**
 <!-- HN:42012807:start -->
-* [42012807](https://news.social-protocols.org/stats?id=42012807) #7 12 points 6 comments -> [Researchers are questioning if ADHD should be seen as a disorder](https://www.economist.com/science-and-technology/2024/10/30/researchers-are-questioning-if-adhd-should-be-seen-as-a-disorder)<!-- HN:42012807:end -->
+* [42012807](https://news.social-protocols.org/stats?id=42012807) #7 12 points 6 comments -> [Researchers are questioning if ADHD should be seen as a disorder](https://www.economist.com/science-and-technology/2024/10/30/researchers-are-questioning-if-adhd-should-be-seen-as-a-disorder)<!-- HN:42012807:end --><!-- HN:42013117:start -->
+* [42013117](https://news.social-protocols.org/stats?id=42013117) #5 9 points 1 comments -> [Technical Women and Women-in-Tech](https://deadsimpletech.com/blog/women_in_tech)<!-- HN:42013117:end -->
