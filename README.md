@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42012807:start -->
 * [42012807](https://news.social-protocols.org/stats?id=42012807) #7 12 points 6 comments -> [Researchers are questioning if ADHD should be seen as a disorder](https://www.economist.com/science-and-technology/2024/10/30/researchers-are-questioning-if-adhd-should-be-seen-as-a-disorder)<!-- HN:42012807:end --><!-- HN:42013117:start -->
 * [42013117](https://news.social-protocols.org/stats?id=42013117) #5 9 points 1 comments -> [Technical Women and Women-in-Tech](https://deadsimpletech.com/blog/women_in_tech)<!-- HN:42013117:end --><!-- HN:41968940:start -->
-* [41968940](https://news.social-protocols.org/stats?id=41968940) #18 8 points 4 comments -> [Bionic reading converter for ePub in Rust](https://github.com/mmatczuk/bioniconv)<!-- HN:41968940:end -->
+* [41968940](https://news.social-protocols.org/stats?id=41968940) #18 8 points 4 comments -> [Bionic reading converter for ePub in Rust](https://github.com/mmatczuk/bioniconv)<!-- HN:41968940:end --><!-- HN:42013368:start -->
+* [42013368](https://news.social-protocols.org/stats?id=42013368) #11 10 points 3 comments -> [Dawn: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)<!-- HN:42013368:end -->
