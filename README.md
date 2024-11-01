@@ -148,3 +148,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41956213](https://news.social-protocols.org/stats?id=41956213) #12 58 points 31 comments -> [Cerebras Trains Llama Models to Leap over GPUs](https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/)<!-- HN:41956213:end --><!-- HN:42007933:start -->
 * [42007933](https://news.social-protocols.org/stats?id=42007933) #18 3 points 0 comments -> [Windows Themes zero-day bug exposes users to NTLM credential theft](https://www.theregister.com/2024/10/30/zeroday_windows_themes/)<!-- HN:42007933:end --><!-- HN:42008424:start -->
 * [42008424](https://news.social-protocols.org/stats?id=42008424) #1 -> [If The Economist had a vote, we would cast it for Kamala Harris](https://www.economist.com/leaders/2024/10/31/a-second-trump-term-comes-with-unacceptable-risks)<!-- HN:42008424:end -->
+#### **Friday, November 1, 2024**
+<!-- HN:42012807:start -->
+* [42012807](https://news.social-protocols.org/stats?id=42012807) #7 12 points 6 comments -> [Researchers are questioning if ADHD should be seen as a disorder](https://www.economist.com/science-and-technology/2024/10/30/researchers-are-questioning-if-adhd-should-be-seen-as-a-disorder)<!-- HN:42012807:end -->
