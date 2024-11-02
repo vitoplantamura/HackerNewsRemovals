@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, November 2, 2024**
 <!-- HN:42022599:start -->
 * [42022599](https://news.social-protocols.org/stats?id=42022599) #1 55 points 16 comments -> [Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average](https://www.tipranks.com/news/nvidia-nvda-to-replace-intel-in-the-dow-jones-industrial-average)<!-- HN:42022599:end --><!-- HN:42022464:start -->
-* [42022464](https://news.social-protocols.org/stats?id=42022464) #25 32 points 40 comments -> [Why Tech Employees Are Ready to Revolt](https://www.inc.com/joe-procopio/why-tech-employees-are-ready-to-revolt/90996313)<!-- HN:42022464:end -->
+* [42022464](https://news.social-protocols.org/stats?id=42022464) #25 32 points 40 comments -> [Why Tech Employees Are Ready to Revolt](https://www.inc.com/joe-procopio/why-tech-employees-are-ready-to-revolt/90996313)<!-- HN:42022464:end --><!-- HN:42024598:start -->
+* [42024598](https://news.social-protocols.org/stats?id=42024598) #5 4 points 1 comments -> [Tailwind simple responsive Navbar component to get you started on your projects](https://sharewind.onrender.com/users/sign_in)<!-- HN:42024598:end -->
