@@ -169,3 +169,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42020538](https://news.social-protocols.org/stats?id=42020538) #25 18 points 12 comments -> [Half of Young Voters Say They've Lied about Which Candidates They Support](https://www.msn.com/en-us/news/politics/half-of-young-voters-say-they-ve-lied-about-which-candidates-they-support-new-poll-finds/ar-AA1thZks)<!-- HN:42020538:end --><!-- HN:42020253:start -->
 * [42020253](https://news.social-protocols.org/stats?id=42020253) #7 29 points 28 comments -> [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)<!-- HN:42020253:end --><!-- HN:42021823:start -->
 * [42021823](https://news.social-protocols.org/stats?id=42021823) #28 5 points 0 comments -> [Vatican and Israel implicated in Italian hacking scandal](https://www.politico.eu/article/vatican-israel-italian-hacking-scandal-uk-lithuania-equalize/)<!-- HN:42021823:end -->
+#### **Saturday, November 2, 2024**
+<!-- HN:42022599:start -->
+* [42022599](https://news.social-protocols.org/stats?id=42022599) #1 55 points 16 comments -> [Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average](https://www.tipranks.com/news/nvidia-nvda-to-replace-intel-in-the-dow-jones-industrial-average)<!-- HN:42022599:end -->
