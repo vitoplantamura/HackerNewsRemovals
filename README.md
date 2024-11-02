@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42021823](https://news.social-protocols.org/stats?id=42021823) #28 5 points 0 comments -> [Vatican and Israel implicated in Italian hacking scandal](https://www.politico.eu/article/vatican-israel-italian-hacking-scandal-uk-lithuania-equalize/)<!-- HN:42021823:end -->
 #### **Saturday, November 2, 2024**
 <!-- HN:42022599:start -->
-* [42022599](https://news.social-protocols.org/stats?id=42022599) #1 55 points 16 comments -> [Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average](https://www.tipranks.com/news/nvidia-nvda-to-replace-intel-in-the-dow-jones-industrial-average)<!-- HN:42022599:end -->
+* [42022599](https://news.social-protocols.org/stats?id=42022599) #1 55 points 16 comments -> [Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average](https://www.tipranks.com/news/nvidia-nvda-to-replace-intel-in-the-dow-jones-industrial-average)<!-- HN:42022599:end --><!-- HN:42022464:start -->
+* [42022464](https://news.social-protocols.org/stats?id=42022464) #25 32 points 40 comments -> [Why Tech Employees Are Ready to Revolt](https://www.inc.com/joe-procopio/why-tech-employees-are-ready-to-revolt/90996313)<!-- HN:42022464:end -->
