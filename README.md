@@ -146,3 +146,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [41990523](https://news.social-protocols.org/stats?id=41990523) #14 22 points 9 comments -> ['An incurable romantic': The boy who lived a secret life in World of Warcraft](https://www.bbc.com/culture/article/20241024-the-remarkable-story-of-the-boy-who-lived-a-secret-life-in-world-of-warcraft)<!-- HN:41990523:end --><!-- HN:41983964:start -->
 * [41983964](https://news.social-protocols.org/stats?id=41983964) #14 3 points 0 comments -> [Mental Accounting Matters (1999) [pdf]](https://people.bath.ac.uk/mnsrf/Teaching%202011/Thaler-99.pdf)<!-- HN:41983964:end --><!-- HN:42005105:start -->
 * [42005105](https://news.social-protocols.org/stats?id=42005105) #13 28 points 34 comments -> [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)<!-- HN:42005105:end -->
+#### **Sunday, November 3, 2024**
+<!-- HN:42030469:start -->
+* [42030469](https://news.social-protocols.org/stats?id=42030469) #22 4 points 1 comments -> [Dead-heat poll results are astonishing – and improbable, these experts say](https://www.theguardian.com/us-news/2024/nov/02/what-polls-mean-so-far-trump-harris-election-voters)<!-- HN:42030469:end -->
