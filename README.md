@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42005105](https://news.social-protocols.org/stats?id=42005105) #13 28 points 34 comments -> [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)<!-- HN:42005105:end -->
 #### **Sunday, November 3, 2024**
 <!-- HN:42030469:start -->
-* [42030469](https://news.social-protocols.org/stats?id=42030469) #22 4 points 1 comments -> [Dead-heat poll results are astonishing – and improbable, these experts say](https://www.theguardian.com/us-news/2024/nov/02/what-polls-mean-so-far-trump-harris-election-voters)<!-- HN:42030469:end -->
+* [42030469](https://news.social-protocols.org/stats?id=42030469) #22 4 points 1 comments -> [Dead-heat poll results are astonishing – and improbable, these experts say](https://www.theguardian.com/us-news/2024/nov/02/what-polls-mean-so-far-trump-harris-election-voters)<!-- HN:42030469:end --><!-- HN:41978899:start -->
+* [41978899](https://news.social-protocols.org/stats?id=41978899) #12 3 points 0 comments -> [Manage Database Clusters Without a Dedicated Operator on Kubernetes](https://kubeblocks.io/blog/how-to-manage-database-clusters-without-a-dedicated-operator)<!-- HN:41978899:end -->
