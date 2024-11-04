@@ -164,4 +164,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42036303](https://news.social-protocols.org/stats?id=42036303) #18 181 points 115 comments -> [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)<!-- HN:42036303:end --><!-- HN:42000752:start -->
 * [42000752](https://news.social-protocols.org/stats?id=42000752) #12 6 points 0 comments -> [ClickPy – Python Package Analytics](https://clickpy.clickhouse.com/)<!-- HN:42000752:end --><!-- HN:42039454:start -->
 * [42039454](https://news.social-protocols.org/stats?id=42039454) #25 3 points 0 comments -> [Soda Is Making a Comeback](https://www.cnn.com/2024/11/01/business/coke-dr-pepper-soda/index.html)<!-- HN:42039454:end --><!-- HN:42007144:start -->
-* [42007144](https://news.social-protocols.org/stats?id=42007144) #9 -> [Project Hessdalen](https://old.hessdalen.org/index_e.shtml)<!-- HN:42007144:end -->
+* [42007144](https://news.social-protocols.org/stats?id=42007144) #9 -> [Project Hessdalen](https://old.hessdalen.org/index_e.shtml)<!-- HN:42007144:end --><!-- HN:42038821:start -->
+* [42038821](https://news.social-protocols.org/stats?id=42038821) #23 13 points 0 comments -> [Internet Archive "Save Page Now" has been re-enabled](https://web.archive.org/save/)<!-- HN:42038821:end -->
