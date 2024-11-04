@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, October 28, 2024**
-<!-- HN:41966711:start -->
-* [41966711](https://news.social-protocols.org/stats?id=41966711) #26 8 points 1 comments -> [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://www.seattletimes.com/business/microsoft-fires-employees-who-organized-vigil-for-palestinians-killed-in-gaza/)<!-- HN:41966711:end --><!-- HN:41967293:start -->
-* [41967293](https://news.social-protocols.org/stats?id=41967293) #9 18 points 1 comments -> [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)<!-- HN:41967293:end --><!-- HN:41968008:start -->
-* [41968008](https://news.social-protocols.org/stats?id=41968008) #21 10 points 2 comments -> [Digital Nomads Are Exploiting the World](https://www.thrillist.com/travel/nation/digital-nomads-criticism-locals-exploitation)<!-- HN:41968008:end --><!-- HN:41925216:start -->
-* [41925216](https://news.social-protocols.org/stats?id=41925216) #13 12 points 7 comments -> [Did DORA's last update create an encryption loophole?](https://evervault.com/blog/did-dora-s-last-update-create-an-encryption-loophole)<!-- HN:41925216:end --><!-- HN:41968744:start -->
-* [41968744](https://news.social-protocols.org/stats?id=41968744) #1 12 points 4 comments -> [Why Google Search Is Falling Apart?](https://wpxplore.com/google-search-is-falling-apart/)<!-- HN:41968744:end --><!-- HN:41969327:start -->
-* [41969327](https://news.social-protocols.org/stats?id=41969327) #1 26 points 1 comments -> [How to Build Your Career in AI [pdf]](https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/eBook-How-to-Build-a-Career-in-AI.pdf)<!-- HN:41969327:end --><!-- HN:41967147:start -->
-* [41967147](https://news.social-protocols.org/stats?id=41967147) #9 59 points 114 comments -> [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)<!-- HN:41967147:end --><!-- HN:41940394:start -->
-* [41940394](https://news.social-protocols.org/stats?id=41940394) #7 8 points 2 comments -> [Preserved tracks suggest non-avian dinosaurs used their wings to run](https://www.newscientist.com/article/2452672-preserved-tracks-suggest-non-avian-dinosaurs-used-their-wings-to-run/)<!-- HN:41940394:end --><!-- HN:41970413:start -->
-* [41970413](https://news.social-protocols.org/stats?id=41970413) #2 10 points 0 comments -> [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)<!-- HN:41970413:end --><!-- HN:41971060:start -->
-* [41971060](https://news.social-protocols.org/stats?id=41971060) #8 15 points 2 comments -> [M-series MacBook SSD storage upgrade (non-official) [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)<!-- HN:41971060:end --><!-- HN:41947881:start -->
-* [41947881](https://news.social-protocols.org/stats?id=41947881) #6 10 points 2 comments -> [x86 Early Kernel Boot Process with Microcode, ACPI Overrides, and Initrd](https://labcsmart.com/x86-platforms-part-3-early-kernel-boot-process-with-microcode-acpi-override-and-initrd/)<!-- HN:41947881:end --><!-- HN:41972610:start -->
-* [41972610](https://news.social-protocols.org/stats?id=41972610) #23 9 points 2 comments -> [UnitedHealth says Change Healthcare hack affects 100M – largest US health breach](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/)<!-- HN:41972610:end -->
 #### **Tuesday, October 29, 2024**
 <!-- HN:41978213:start -->
 * [41978213](https://news.social-protocols.org/stats?id=41978213) #3 22 points 4 comments -> [How to Learn Things by Yourself](https://brunothedev.github.io/p/2024-10-28-how_to_learn.html)<!-- HN:41978213:end --><!-- HN:41977665:start -->
