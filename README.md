@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:41967396:start -->
 * [41967396](https://news.social-protocols.org/stats?id=41967396) #5 10 points 0 comments -> [The Distracted Mind During a Crisis (2020)](https://distributed.blog/2020/04/29/adam-gazzaley-distracted-mind/)<!-- HN:41967396:end --><!-- HN:41978035:start -->
 * [41978035](https://news.social-protocols.org/stats?id=41978035) #19 155 points 33 comments -> [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)<!-- HN:41978035:end --><!-- HN:42038004:start -->
-* [42038004](https://news.social-protocols.org/stats?id=42038004) #16 22 points 40 comments -> [New better alterative to XML, JSON and YAML](https://xenondata.org)<!-- HN:42038004:end -->
+* [42038004](https://news.social-protocols.org/stats?id=42038004) #16 22 points 40 comments -> [New better alterative to XML, JSON and YAML](https://xenondata.org)<!-- HN:42038004:end --><!-- HN:42036571:start -->
+* [42036571](https://news.social-protocols.org/stats?id=42036571) #28 34 points 41 comments -> [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)<!-- HN:42036571:end -->
