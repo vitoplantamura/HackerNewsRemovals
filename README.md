@@ -153,3 +153,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42034974](https://news.social-protocols.org/stats?id=42034974) #21 6 points 1 comments -> [Commentary: Time to terminate the torture of time changes – Miami Herald](https://www.miamiherald.com/opinion/us-viewpoints/article294697994.html)<!-- HN:42034974:end --><!-- HN:42035699:start -->
 * [42035699](https://news.social-protocols.org/stats?id=42035699) #26 6 points 0 comments -> [Apple's M4 Max is the single-core performance king in Geekbench 6](https://www.tomshardware.com/pc-components/cpus/apples-m4-max-is-the-single-core-performance-king-in-geekbench-6-m4-max-beats-the-core-ultra-9-285k-and-ryzen-9-9950x)<!-- HN:42035699:end --><!-- HN:42036488:start -->
 * [42036488](https://news.social-protocols.org/stats?id=42036488) #29 5 points 0 comments -> [Let the internet vote: Trump or Harris](https://ip-vote.com/#trump_or_harris)<!-- HN:42036488:end -->
+#### **Monday, November 4, 2024**
+<!-- HN:41967396:start -->
+* [41967396](https://news.social-protocols.org/stats?id=41967396) #5 10 points 0 comments -> [The Distracted Mind During a Crisis (2020)](https://distributed.blog/2020/04/29/adam-gazzaley-distracted-mind/)<!-- HN:41967396:end --><!-- HN:41978035:start -->
+* [41978035](https://news.social-protocols.org/stats?id=41978035) #19 155 points 33 comments -> [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)<!-- HN:41978035:end -->
