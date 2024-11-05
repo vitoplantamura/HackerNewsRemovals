@@ -175,4 +175,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 5, 2024**
 <!-- HN:42046956:start -->
 * [42046956](https://news.social-protocols.org/stats?id=42046956) #9 10 points 8 comments -> [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)<!-- HN:42046956:end --><!-- HN:42047050:start -->
-* [42047050](https://news.social-protocols.org/stats?id=42047050) #21 5 points 0 comments -> [After You Vote, Unplug](https://calnewport.com/blog/)<!-- HN:42047050:end -->
+* [42047050](https://news.social-protocols.org/stats?id=42047050) #21 5 points 0 comments -> [After You Vote, Unplug](https://calnewport.com/blog/)<!-- HN:42047050:end --><!-- HN:42048795:start -->
+* [42048795](https://news.social-protocols.org/stats?id=42048795) #17 6 points 1 comments -> [MrBeast's pitch decks get leaked](https://www.indiehackers.com/post/creators/mrbeasts-pitch-decks-get-leaked-and-they-aren-t-pretty-yJl2DI4mrKBcbtZixoB9)<!-- HN:42048795:end -->
