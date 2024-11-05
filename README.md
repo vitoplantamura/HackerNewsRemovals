@@ -174,4 +174,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42045212](https://news.social-protocols.org/stats?id=42045212) #6 171 points 2 comments -> [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)<!-- HN:42045212:end -->
 #### **Tuesday, November 5, 2024**
 <!-- HN:42046956:start -->
-* [42046956](https://news.social-protocols.org/stats?id=42046956) #9 10 points 8 comments -> [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)<!-- HN:42046956:end -->
+* [42046956](https://news.social-protocols.org/stats?id=42046956) #9 10 points 8 comments -> [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)<!-- HN:42046956:end --><!-- HN:42047050:start -->
+* [42047050](https://news.social-protocols.org/stats?id=42047050) #21 5 points 0 comments -> [After You Vote, Unplug](https://calnewport.com/blog/)<!-- HN:42047050:end -->
