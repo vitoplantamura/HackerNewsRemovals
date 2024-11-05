@@ -172,3 +172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42043139](https://news.social-protocols.org/stats?id=42043139) #17 12 points 3 comments -> [Iceland embraced a shorter work week. Here's how it turned out](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)<!-- HN:42043139:end --><!-- HN:42046599:start -->
 * [42046599](https://news.social-protocols.org/stats?id=42046599) #20 -> [Harris slams Speaker Mike Johnson for saying the GOP may repeal CHIPS Act](https://www.nbcnews.com/politics/kamala-harris/harris-slams-mike-johnson-gop-repeal-chips-act-rcna178513)<!-- HN:42046599:end --><!-- HN:42045212:start -->
 * [42045212](https://news.social-protocols.org/stats?id=42045212) #6 171 points 2 comments -> [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)<!-- HN:42045212:end -->
+#### **Tuesday, November 5, 2024**
+<!-- HN:42046956:start -->
+* [42046956](https://news.social-protocols.org/stats?id=42046956) #9 10 points 8 comments -> [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)<!-- HN:42046956:end -->
