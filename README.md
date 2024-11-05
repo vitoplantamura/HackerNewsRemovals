@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, October 29, 2024**
-<!-- HN:41978213:start -->
-* [41978213](https://news.social-protocols.org/stats?id=41978213) #3 22 points 4 comments -> [How to Learn Things by Yourself](https://brunothedev.github.io/p/2024-10-28-how_to_learn.html)<!-- HN:41978213:end --><!-- HN:41977665:start -->
-* [41977665](https://news.social-protocols.org/stats?id=41977665) #17 12 points 0 comments -> [Show HN: Apache ResilientDB, High-Performance Open-Source Blockchain](https://resilientdb.incubator.apache.org/)<!-- HN:41977665:end --><!-- HN:41978940:start -->
-* [41978940](https://news.social-protocols.org/stats?id=41978940) #9 7 points 2 comments -> [Haiku OS domain has been hijacked](https://haiku-os.org)<!-- HN:41978940:end --><!-- HN:41942693:start -->
-* [41942693](https://news.social-protocols.org/stats?id=41942693) #10 11 points 1 comments -> [Lost Silk Road cities discovered in Uzbek mountains](https://www.bbc.co.uk/news/articles/c238kv8ddeyo)<!-- HN:41942693:end --><!-- HN:41926320:start -->
-* [41926320](https://news.social-protocols.org/stats?id=41926320) #26 54 points 25 comments -> [Debugging audio artifacts caused by... a serial port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)<!-- HN:41926320:end --><!-- HN:41978246:start -->
-* [41978246](https://news.social-protocols.org/stats?id=41978246) #19 117 points 42 comments -> [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)<!-- HN:41978246:end --><!-- HN:41937306:start -->
-* [41937306](https://news.social-protocols.org/stats?id=41937306) #10 30 points 8 comments -> [The Circular Electronics Design Guide](https://www.ifixit.com/News/101938/introducing-the-circular-electronics-design-guide)<!-- HN:41937306:end --><!-- HN:41979906:start -->
-* [41979906](https://news.social-protocols.org/stats?id=41979906) #23 35 points 28 comments -> [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)<!-- HN:41979906:end --><!-- HN:41982702:start -->
-* [41982702](https://news.social-protocols.org/stats?id=41982702) #26 3 points 0 comments -> [For some reason, NASA is treating Orion's heat shield problems as a secret](https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/)<!-- HN:41982702:end --><!-- HN:41983486:start -->
-* [41983486](https://news.social-protocols.org/stats?id=41983486) #18 4 points 0 comments -> [Migrating billions of records: moving our active DNS database while it's in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)<!-- HN:41983486:end --><!-- HN:41984105:start -->
-* [41984105](https://news.social-protocols.org/stats?id=41984105) #3 16 points 0 comments -> [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos)<!-- HN:41984105:end --><!-- HN:41986053:start -->
-* [41986053](https://news.social-protocols.org/stats?id=41986053) #27 4 points 0 comments -> [Company renting SF sleeping pods for $700 a month gains city approval](https://abc7news.com/post/exclusive-san-francisco-sleeping-pods-700-month-gains-city-approval/15482731/)<!-- HN:41986053:end --><!-- HN:41986436:start -->
-* [41986436](https://news.social-protocols.org/stats?id=41986436) #28 75 points 65 comments -> [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)<!-- HN:41986436:end --><!-- HN:41988181:start -->
-* [41988181](https://news.social-protocols.org/stats?id=41988181) #25 3 points 0 comments -> [Protecting Router Freedom in Europe [pdf]](https://download.fsfe.org/routers/fsfe-router-freedom-activity-summary.pdf)<!-- HN:41988181:end --><!-- HN:41989962:start -->
-* [41989962](https://news.social-protocols.org/stats?id=41989962) #3 -> ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-9632/)<!-- HN:41989962:end -->
 #### **Wednesday, October 30, 2024**
 <!-- HN:41988769:start -->
 * [41988769](https://news.social-protocols.org/stats?id=41988769) #30 7 points 0 comments -> [OpenAI will start using AMD chips and could make its own AI hardware in 2026](https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips)<!-- HN:41988769:end --><!-- HN:41991360:start -->
