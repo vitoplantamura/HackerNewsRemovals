@@ -176,4 +176,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42055702](https://news.social-protocols.org/stats?id=42055702) #28 5 points 1 comments -> [Google CEO Pichai Tells Employees to Stay Neutral](https://www.washingtonpost.com/elections/2024/11/04/trump-harris-election-live-updates/)<!-- HN:42055702:end -->
 #### **Wednesday, November 6, 2024**
 <!-- HN:42056287:start -->
-* [42056287](https://news.social-protocols.org/stats?id=42056287) #3 9 points 0 comments -> [All the "Top" USElection tweets on X are scam or fake](https://i.ritzastatic.com/images/514e752c76a44dba9cf11b5e550afb33/x.gif)<!-- HN:42056287:end -->
+* [42056287](https://news.social-protocols.org/stats?id=42056287) #3 9 points 0 comments -> [All the "Top" USElection tweets on X are scam or fake](https://i.ritzastatic.com/images/514e752c76a44dba9cf11b5e550afb33/x.gif)<!-- HN:42056287:end --><!-- HN:42056756:start -->
+* [42056756](https://news.social-protocols.org/stats?id=42056756) #4 5 points 3 comments -> [MOATs Aren't Useful](https://rohan.ga/blog/moats/)<!-- HN:42056756:end -->
