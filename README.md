@@ -185,4 +185,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42070007](https://news.social-protocols.org/stats?id=42070007) #3 9 points 0 comments -> [And now we see what is possible](https://geohot.github.io//blog/jekyll/update/2024/11/06/what-is-possible.html)<!-- HN:42070007:end -->
 #### **Thursday, November 7, 2024**
 <!-- HN:42072346:start -->
-* [42072346](https://news.social-protocols.org/stats?id=42072346) #21 7 points 1 comments -> [Threads Bans Anyone for Mentioning Hitler, Even to Criticize](https://www.techdirt.com/2024/11/01/threads-bans-anyone-for-mentioning-hitler-even-to-criticize/)<!-- HN:42072346:end -->
+* [42072346](https://news.social-protocols.org/stats?id=42072346) #21 7 points 1 comments -> [Threads Bans Anyone for Mentioning Hitler, Even to Criticize](https://www.techdirt.com/2024/11/01/threads-bans-anyone-for-mentioning-hitler-even-to-criticize/)<!-- HN:42072346:end --><!-- HN:42073181:start -->
+* [42073181](https://news.social-protocols.org/stats?id=42073181) #23 4 points 0 comments -> [Palestinians will not be allowed to return to homes in northern Gaza, says IDF](https://www.theguardian.com/world/2024/nov/06/palestinians-will-not-be-allowed-to-return-to-homes-in-northern-gaza-says-idf)<!-- HN:42073181:end -->
