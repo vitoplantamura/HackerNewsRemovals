@@ -183,3 +183,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42066341](https://news.social-protocols.org/stats?id=42066341) #25 12 points 3 comments -> [Politicians are Jungian symbols, policies are facades](https://ofthetwodreams.substack.com/p/humans-live-and-die-by-their-myths)<!-- HN:42066341:end --><!-- HN:42069306:start -->
 * [42069306](https://news.social-protocols.org/stats?id=42069306) #30 10 points 0 comments -> [German Government Collapses](https://www.euronews.com/my-europe/2024/11/06/german-coalition-government-collapses-chancellor-scholz-fires-finance-minister-lindner)<!-- HN:42069306:end --><!-- HN:42070007:start -->
 * [42070007](https://news.social-protocols.org/stats?id=42070007) #3 9 points 0 comments -> [And now we see what is possible](https://geohot.github.io//blog/jekyll/update/2024/11/06/what-is-possible.html)<!-- HN:42070007:end -->
+#### **Thursday, November 7, 2024**
+<!-- HN:42072346:start -->
+* [42072346](https://news.social-protocols.org/stats?id=42072346) #21 7 points 1 comments -> [Threads Bans Anyone for Mentioning Hitler, Even to Criticize](https://www.techdirt.com/2024/11/01/threads-bans-anyone-for-mentioning-hitler-even-to-criticize/)<!-- HN:42072346:end -->
