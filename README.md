@@ -180,4 +180,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42083630](https://news.social-protocols.org/stats?id=42083630) #19 26 points 2 comments -> [Kagi Translate](https://translate.kagi.com/)<!-- HN:42083630:end --><!-- HN:42084571:start -->
 * [42084571](https://news.social-protocols.org/stats?id=42084571) #11 29 points 40 comments -> [There's Almost No Gitlab](https://julien.danjou.info/p/theres-almost-no-gitlab)<!-- HN:42084571:end --><!-- HN:42084369:start -->
 * [42084369](https://news.social-protocols.org/stats?id=42084369) #16 10 points 1 comments -> [Corinthian Bronze](https://en.wikipedia.org/wiki/Corinthian_bronze)<!-- HN:42084369:end --><!-- HN:42082498:start -->
-* [42082498](https://news.social-protocols.org/stats?id=42082498) #21 54 points 37 comments -> [Wild Ball](https://r3f-drei-rapier.surge.sh)<!-- HN:42082498:end -->
+* [42082498](https://news.social-protocols.org/stats?id=42082498) #21 54 points 37 comments -> [Wild Ball](https://r3f-drei-rapier.surge.sh)<!-- HN:42082498:end --><!-- HN:42083559:start -->
+* [42083559](https://news.social-protocols.org/stats?id=42083559) #14 286 points 198 comments -> [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)<!-- HN:42083559:end -->
