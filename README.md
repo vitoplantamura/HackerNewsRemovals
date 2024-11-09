@@ -165,3 +165,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42089883](https://news.social-protocols.org/stats?id=42089883) #24 -> [I wonder how much Cook dithered over that cheerful-looking exclamation mark](https://daringfireball.net/2024/11/i_wonder)<!-- HN:42089883:end --><!-- HN:42090306:start -->
 * [42090306](https://news.social-protocols.org/stats?id=42090306) #15 7 points 0 comments -> [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)<!-- HN:42090306:end --><!-- HN:42090696:start -->
 * [42090696](https://news.social-protocols.org/stats?id=42090696) #28 4 points 1 comments -> [Dutch king says his nation failed Jewish community during football fan attacks](https://www.independent.co.uk/news/world/europe/amsterdam-israel-football-ajax-maccabi-attacks-king-netherlands-b2643792.html)<!-- HN:42090696:end -->
+#### **Saturday, November 9, 2024**
+<!-- HN:42091181:start -->
+* [42091181](https://news.social-protocols.org/stats?id=42091181) #24 4 points 2 comments -> [Maelstrom: High-Performance Matrix Home-Server Written in Rust](https://github.com/maelstrom-rs/maelstrom)<!-- HN:42091181:end -->
