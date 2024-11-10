@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, November 10, 2024**
 <!-- HN:42097086:start -->
 * [42097086](https://news.social-protocols.org/stats?id=42097086) #17 23 points 18 comments -> [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)<!-- HN:42097086:end --><!-- HN:42047530:start -->
-* [42047530](https://news.social-protocols.org/stats?id=42047530) #16 4 points 0 comments -> [How to Salt Water Test a Dice](https://thecriticaldice.com/blogs/news/how-to-salt-water-test-your-dice)<!-- HN:42047530:end -->
+* [42047530](https://news.social-protocols.org/stats?id=42047530) #16 4 points 0 comments -> [How to Salt Water Test a Dice](https://thecriticaldice.com/blogs/news/how-to-salt-water-test-your-dice)<!-- HN:42047530:end --><!-- HN:42099472:start -->
+* [42099472](https://news.social-protocols.org/stats?id=42099472) #28 8 points 1 comments -> [Ousterhout's Dichotomy](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)<!-- HN:42099472:end -->
