@@ -154,3 +154,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42070807](https://news.social-protocols.org/stats?id=42070807) #19 56 points 14 comments -> [Writing Tiny Desktop Apps in C and GTK3 (2022)](https://danielc.dev/blog/tiny-windows-linux-gtk-apps/)<!-- HN:42070807:end --><!-- HN:42096208:start -->
 * [42096208](https://news.social-protocols.org/stats?id=42096208) #24 3 points 0 comments -> [DNA firm [Atlas Biomed] holding highly sensitive data 'vanishes' without warning](https://www.bbc.co.uk/news/articles/cz7wl7rpndjo)<!-- HN:42096208:end --><!-- HN:42073406:start -->
 * [42073406](https://news.social-protocols.org/stats?id=42073406) #21 5 points 0 comments -> [Calculating at Pencil and Paper Scale](https://win-vector.com/2024/11/06/calculating-at-pencil-and-paper-scale/)<!-- HN:42073406:end -->
+#### **Sunday, November 10, 2024**
+<!-- HN:42097086:start -->
+* [42097086](https://news.social-protocols.org/stats?id=42097086) #17 23 points 18 comments -> [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)<!-- HN:42097086:end -->
