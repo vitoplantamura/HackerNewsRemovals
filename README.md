@@ -156,5 +156,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42073406](https://news.social-protocols.org/stats?id=42073406) #21 5 points 0 comments -> [Calculating at Pencil and Paper Scale](https://win-vector.com/2024/11/06/calculating-at-pencil-and-paper-scale/)<!-- HN:42073406:end -->
 #### **Sunday, November 10, 2024**
 <!-- HN:42097086:start -->
-* [42097086](https://news.social-protocols.org/stats?id=42097086) #17 23 points 18 comments -> [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)<!-- HN:42097086:end --><!-- HN:42098342:start -->
-* [42098342](https://news.social-protocols.org/stats?id=42098342) #21 20 points 7 comments -> [ChatGPT Brought Down an Online Education Giant](https://www.wsj.com/tech/ai/how-chatgpt-brought-down-an-online-education-giant-200b4ff2)<!-- HN:42098342:end -->
+* [42097086](https://news.social-protocols.org/stats?id=42097086) #17 23 points 18 comments -> [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)<!-- HN:42097086:end -->
