@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42101890](https://news.social-protocols.org/stats?id=42101890) #14 14 points 7 comments -> [A Lunar Space Elevator Could Be Built for $2B [pdf]](https://www.hou.usra.edu/meetings/newviews2018/pdf/6016.pdf)<!-- HN:42101890:end --><!-- HN:42102034:start -->
 * [42102034](https://news.social-protocols.org/stats?id=42102034) #11 33 points 21 comments -> [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful/)<!-- HN:42102034:end -->
 #### **Monday, November 11, 2024**<!-- HN:42103400:start -->
-* [42103400](https://news.social-protocols.org/stats?id=42103400) #12 -> [New York Times Word Usage Frequency Chart](https://davidrozado.substack.com/p/new-york-times-word-usage-frequency)<!-- HN:42103400:end -->
+* [42103400](https://news.social-protocols.org/stats?id=42103400) #12 -> [New York Times Word Usage Frequency Chart](https://davidrozado.substack.com/p/new-york-times-word-usage-frequency)<!-- HN:42103400:end --><!-- HN:42104374:start -->
+* [42104374](https://news.social-protocols.org/stats?id=42104374) #2 14 points 0 comments -> [The mirror of fascism in big tech](https://deadsimpletech.com/blog/fascism_mirror)<!-- HN:42104374:end -->
