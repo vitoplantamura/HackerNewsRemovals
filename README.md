@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42110357](https://news.social-protocols.org/stats?id=42110357) #29 6 points 0 comments -> [Foundry worker puts wet scrap metal into furnace](https://www.youtube.com/watch?v=oWSHEC1N770)<!-- HN:42110357:end -->
 #### **Tuesday, November 12, 2024**
 <!-- HN:42111551:start -->
-* [42111551](https://news.social-protocols.org/stats?id=42111551) #9 5 points 2 comments -> [Higher maternal mortality rates in states with more abortion restrictions](https://sph.tulane.edu/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions)<!-- HN:42111551:end -->
+* [42111551](https://news.social-protocols.org/stats?id=42111551) #9 5 points 2 comments -> [Higher maternal mortality rates in states with more abortion restrictions](https://sph.tulane.edu/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions)<!-- HN:42111551:end --><!-- HN:42112154:start -->
+* [42112154](https://news.social-protocols.org/stats?id=42112154) #8 2 points 0 comments -> [Racketeer Influenced and Corrupt Organizations Act](https://en.wikipedia.org/wiki/Racketeer_Influenced_and_Corrupt_Organizations_Act)<!-- HN:42112154:end -->
