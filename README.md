@@ -133,5 +133,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 12, 2024**
 <!-- HN:42112154:start -->
 * [42112154](https://news.social-protocols.org/stats?id=42112154) #8 2 points 0 comments -> [Racketeer Influenced and Corrupt Organizations Act](https://en.wikipedia.org/wiki/Racketeer_Influenced_and_Corrupt_Organizations_Act)<!-- HN:42112154:end --><!-- HN:42073712:start -->
-* [42073712](https://news.social-protocols.org/stats?id=42073712) #22 7 points 0 comments -> [Harnessing Vision for Computation (2008) [pdf]](https://www.changizi.com/uploads/8/3/4/4/83445868/viscomp.pdf)<!-- HN:42073712:end --><!-- HN:42111551:start -->
-* [42111551](https://news.social-protocols.org/stats?id=42111551) #23 18 points 7 comments -> [Higher maternal mortality rates in states with more abortion restrictions](https://sph.tulane.edu/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions)<!-- HN:42111551:end -->
+* [42073712](https://news.social-protocols.org/stats?id=42073712) #22 7 points 0 comments -> [Harnessing Vision for Computation (2008) [pdf]](https://www.changizi.com/uploads/8/3/4/4/83445868/viscomp.pdf)<!-- HN:42073712:end -->
