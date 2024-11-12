@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 12, 2024**
 <!-- HN:42112154:start -->
 * [42112154](https://news.social-protocols.org/stats?id=42112154) #8 2 points 0 comments -> [Racketeer Influenced and Corrupt Organizations Act](https://en.wikipedia.org/wiki/Racketeer_Influenced_and_Corrupt_Organizations_Act)<!-- HN:42112154:end --><!-- HN:42073712:start -->
-* [42073712](https://news.social-protocols.org/stats?id=42073712) #22 7 points 0 comments -> [Harnessing Vision for Computation (2008) [pdf]](https://www.changizi.com/uploads/8/3/4/4/83445868/viscomp.pdf)<!-- HN:42073712:end -->
+* [42073712](https://news.social-protocols.org/stats?id=42073712) #22 7 points 0 comments -> [Harnessing Vision for Computation (2008) [pdf]](https://www.changizi.com/uploads/8/3/4/4/83445868/viscomp.pdf)<!-- HN:42073712:end --><!-- HN:42112945:start -->
+* [42112945](https://news.social-protocols.org/stats?id=42112945) #10 16 points 11 comments -> [Der Spiegel Proclaims the End of the West](https://www.spiegel.de/international/world/donald-trump-and-the-new-world-order-the-end-of-the-west-a-b71fa1bd-6147-47a4-8738-5c17eff44a55)<!-- HN:42112945:end -->
