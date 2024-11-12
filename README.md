@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42030233](https://news.social-protocols.org/stats?id=42030233) #18 12 points 1 comments -> [Data movement bottlenecks to large-scale model training: Scaling past 1e28 FLOP](https://epochai.org/blog/data-movement-bottlenecks-scaling-past-1e28-flop)<!-- HN:42030233:end --><!-- HN:42109712:start -->
 * [42109712](https://news.social-protocols.org/stats?id=42109712) #24 13 points 4 comments -> [LICENSE.TXT [video]](https://www.youtube.com/watch?v=CUleKnUUaGI)<!-- HN:42109712:end --><!-- HN:42110357:start -->
 * [42110357](https://news.social-protocols.org/stats?id=42110357) #29 6 points 0 comments -> [Foundry worker puts wet scrap metal into furnace](https://www.youtube.com/watch?v=oWSHEC1N770)<!-- HN:42110357:end -->
+#### **Tuesday, November 12, 2024**
+<!-- HN:42111551:start -->
+* [42111551](https://news.social-protocols.org/stats?id=42111551) #9 5 points 2 comments -> [Higher maternal mortality rates in states with more abortion restrictions](https://sph.tulane.edu/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions)<!-- HN:42111551:end -->
