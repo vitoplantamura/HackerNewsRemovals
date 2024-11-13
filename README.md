@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, November 6, 2024**
-<!-- HN:42056287:start -->
-* [42056287](https://news.social-protocols.org/stats?id=42056287) #3 9 points 0 comments -> [All the "Top" USElection tweets on X are scam or fake](https://i.ritzastatic.com/images/514e752c76a44dba9cf11b5e550afb33/x.gif)<!-- HN:42056287:end --><!-- HN:42056756:start -->
-* [42056756](https://news.social-protocols.org/stats?id=42056756) #4 5 points 3 comments -> [MOATs Aren't Useful](https://rohan.ga/blog/moats/)<!-- HN:42056756:end --><!-- HN:42057186:start -->
-* [42057186](https://news.social-protocols.org/stats?id=42057186) #20 5 points 1 comments -> [Bitcoin breaks above its all-time high of $73,777](https://www.fxstreet.com/cryptocurrencies/news/breaking-bitcoin-breaks-above-its-all-time-high-of-73-777-ahead-of-election-results-202411060312)<!-- HN:42057186:end --><!-- HN:42003087:start -->
-* [42003087](https://news.social-protocols.org/stats?id=42003087) #5 20 points 12 comments -> [Why Aren't There B Batteries? (2022)](https://www.thebatterygenie.com/why-arent-there-b-batteries/)<!-- HN:42003087:end --><!-- HN:42057690:start -->
-* [42057690](https://news.social-protocols.org/stats?id=42057690) #14 4 points 0 comments -> [Has a president ever won two non-consecutive White House elections?](https://nypost.com/2024/11/06/us-news/has-a-president-ever-won-two-non-consecutive-white-house-elections/)<!-- HN:42057690:end --><!-- HN:42057321:start -->
-* [42057321](https://news.social-protocols.org/stats?id=42057321) #11 8 points 1 comments -> [Nintendo Switch successor will have backwards compatibility](https://twitter.com/NintendoCoLtd/status/1853972163033968794)<!-- HN:42057321:end --><!-- HN:42057465:start -->
-* [42057465](https://news.social-protocols.org/stats?id=42057465) #14 5 points 2 comments -> [Show HN: Real-time ChatGPT-like data analysis for US Election](https://dashboard.itsverve.com/public)<!-- HN:42057465:end --><!-- HN:42057597:start -->
-* [42057597](https://news.social-protocols.org/stats?id=42057597) #4 18 points 6 comments -> [A GitHub repo that curates all the awesome repos](https://github.com/bayandin/awesome-awesomeness)<!-- HN:42057597:end --><!-- HN:42025785:start -->
-* [42025785](https://news.social-protocols.org/stats?id=42025785) #20 9 points 3 comments -> [Fact [pdf]](https://ranjitjhala.github.io/static/fact_dsl.pdf)<!-- HN:42025785:end --><!-- HN:42064963:start -->
-* [42064963](https://news.social-protocols.org/stats?id=42064963) #29 3 points 2 comments -> ['Double Standards and Hypocrisy': The Dissent at Cisco over the War in Gaza](https://www.wired.com/story/cisco-dissent-gaza-israel-war/)<!-- HN:42064963:end --><!-- HN:42066129:start -->
-* [42066129](https://news.social-protocols.org/stats?id=42066129) #24 5 points 1 comments -> [The Manosphere Won](https://www.wired.com/story/donald-trump-manosphere-won/)<!-- HN:42066129:end --><!-- HN:42066341:start -->
-* [42066341](https://news.social-protocols.org/stats?id=42066341) #25 12 points 3 comments -> [Politicians are Jungian symbols, policies are facades](https://ofthetwodreams.substack.com/p/humans-live-and-die-by-their-myths)<!-- HN:42066341:end --><!-- HN:42069306:start -->
-* [42069306](https://news.social-protocols.org/stats?id=42069306) #30 10 points 0 comments -> [German Government Collapses](https://www.euronews.com/my-europe/2024/11/06/german-coalition-government-collapses-chancellor-scholz-fires-finance-minister-lindner)<!-- HN:42069306:end --><!-- HN:42070007:start -->
-* [42070007](https://news.social-protocols.org/stats?id=42070007) #3 9 points 0 comments -> [And now we see what is possible](https://geohot.github.io//blog/jekyll/update/2024/11/06/what-is-possible.html)<!-- HN:42070007:end -->
 #### **Thursday, November 7, 2024**
 <!-- HN:42072346:start -->
 * [42072346](https://news.social-protocols.org/stats?id=42072346) #21 7 points 1 comments -> [Threads Bans Anyone for Mentioning Hitler, Even to Criticize](https://www.techdirt.com/2024/11/01/threads-bans-anyone-for-mentioning-hitler-even-to-criticize/)<!-- HN:42072346:end --><!-- HN:42073181:start -->
