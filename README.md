@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42122113:start -->
 * [42122113](https://news.social-protocols.org/stats?id=42122113) #29 9 points 1 comments -> [Why Boeing Killed DEI](https://www.city-journal.org/article/why-boeing-killed-dei)<!-- HN:42122113:end --><!-- HN:42123070:start -->
 * [42123070](https://news.social-protocols.org/stats?id=42123070) #24 48 points 22 comments -> [Cock.li Is on Red Alert](https://cock.li/index.asc.txt)<!-- HN:42123070:end --><!-- HN:42122258:start -->
-* [42122258](https://news.social-protocols.org/stats?id=42122258) #14 64 points 9 comments -> [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)<!-- HN:42122258:end -->
+* [42122258](https://news.social-protocols.org/stats?id=42122258) #14 64 points 9 comments -> [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)<!-- HN:42122258:end --><!-- HN:42124976:start -->
+* [42124976](https://news.social-protocols.org/stats?id=42124976) #15 3 points 0 comments -> [Australia's top university to halt international student admissions next year](https://www.msn.com/en-xl/news/other/australia-s-top-3-university-to-halt-international-student-admissions-next-year/ar-AA1tUfn9)<!-- HN:42124976:end -->
