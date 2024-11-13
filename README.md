@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42119733](https://news.social-protocols.org/stats?id=42119733) #25 30 points 25 comments -> [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)<!-- HN:42119733:end -->
 #### **Wednesday, November 13, 2024**
 <!-- HN:42122113:start -->
-* [42122113](https://news.social-protocols.org/stats?id=42122113) #29 9 points 1 comments -> [Why Boeing Killed DEI](https://www.city-journal.org/article/why-boeing-killed-dei)<!-- HN:42122113:end -->
+* [42122113](https://news.social-protocols.org/stats?id=42122113) #29 9 points 1 comments -> [Why Boeing Killed DEI](https://www.city-journal.org/article/why-boeing-killed-dei)<!-- HN:42122113:end --><!-- HN:42123070:start -->
+* [42123070](https://news.social-protocols.org/stats?id=42123070) #24 48 points 22 comments -> [Cock.li Is on Red Alert](https://cock.li/index.asc.txt)<!-- HN:42123070:end -->
