@@ -137,5 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42119733](https://news.social-protocols.org/stats?id=42119733) #25 30 points 25 comments -> [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)<!-- HN:42119733:end -->
 #### **Wednesday, November 13, 2024**
 <!-- HN:42066358:start -->
-* [42066358](https://news.social-protocols.org/stats?id=42066358) #11 25 points 40 comments -> [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)<!-- HN:42066358:end --><!-- HN:42122008:start -->
-* [42122008](https://news.social-protocols.org/stats?id=42122008) #25 15 points 5 comments -> [Kibi – A text editor in less than 1024 lines of code, written in Rust](https://terminaltrove.com/kibi/)<!-- HN:42122008:end -->
+* [42066358](https://news.social-protocols.org/stats?id=42066358) #11 25 points 40 comments -> [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)<!-- HN:42066358:end --><!-- HN:42122113:start -->
+* [42122113](https://news.social-protocols.org/stats?id=42122113) #29 9 points 1 comments -> [Why Boeing Killed DEI](https://www.city-journal.org/article/why-boeing-killed-dei)<!-- HN:42122113:end -->
