@@ -145,3 +145,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42129080](https://news.social-protocols.org/stats?id=42129080) #8 5 points 1 comments -> [Why Sabine Hossenfelder Is Just Wrong](https://www.math.columbia.edu/~woit/wordpress/?p=14232)<!-- HN:42129080:end --><!-- HN:42129791:start -->
 * [42129791](https://news.social-protocols.org/stats?id=42129791) #17 33 points 23 comments -> [FBI seizes Polymarket CEO's phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)<!-- HN:42129791:end --><!-- HN:42129779:start -->
 * [42129779](https://news.social-protocols.org/stats?id=42129779) #11 8 points 3 comments -> [Show HN: I Built Tinder, but for Entrepreneurs and Investors](https://www.aloangels.me/)<!-- HN:42129779:end -->
+#### **Thursday, November 14, 2024**
+<!-- HN:42133026:start -->
+* [42133026](https://news.social-protocols.org/stats?id=42133026) #20 -> [14yo suicides after Santa Clara schoolmates bully him about being homeless](https://www.ktvu.com/news/14-year-old-dies-suicide-after-santa-clara-schoolmates-bully-him-about-being-homeless-father)<!-- HN:42133026:end -->
