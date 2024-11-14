@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, November 7, 2024**
-<!-- HN:42072346:start -->
-* [42072346](https://news.social-protocols.org/stats?id=42072346) #21 7 points 1 comments -> [Threads Bans Anyone for Mentioning Hitler, Even to Criticize](https://www.techdirt.com/2024/11/01/threads-bans-anyone-for-mentioning-hitler-even-to-criticize/)<!-- HN:42072346:end --><!-- HN:42073181:start -->
-* [42073181](https://news.social-protocols.org/stats?id=42073181) #23 4 points 0 comments -> [Palestinians will not be allowed to return to homes in northern Gaza, says IDF](https://www.theguardian.com/world/2024/nov/06/palestinians-will-not-be-allowed-to-return-to-homes-in-northern-gaza-says-idf)<!-- HN:42073181:end --><!-- HN:42030915:start -->
-* [42030915](https://news.social-protocols.org/stats?id=42030915) #24 7 points 0 comments -> [Listening in on the Mysterious Marbled Murrelet](https://hakaimagazine.com/news/listening-in-on-the-mysterious-marbled-murrelet/)<!-- HN:42030915:end --><!-- HN:42075387:start -->
-* [42075387](https://news.social-protocols.org/stats?id=42075387) #15 9 points 4 comments -> [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)<!-- HN:42075387:end --><!-- HN:42074721:start -->
-* [42074721](https://news.social-protocols.org/stats?id=42074721) #20 7 points 2 comments -> [WP Engine Tracker](https://wordpressenginetracker.com/)<!-- HN:42074721:end --><!-- HN:42069246:start -->
-* [42069246](https://news.social-protocols.org/stats?id=42069246) #21 55 points 34 comments -> [Man spent $2M to find new largest prime number](https://www.popsci.com/science/largest-prime-number/)<!-- HN:42069246:end --><!-- HN:42075325:start -->
-* [42075325](https://news.social-protocols.org/stats?id=42075325) #14 6 points 0 comments -> [What if everyone pointed a laser pointer at the moon? [video]](https://www.youtube.com/watch?v=JqFSGkFPipM)<!-- HN:42075325:end --><!-- HN:42074845:start -->
-* [42074845](https://news.social-protocols.org/stats?id=42074845) #28 14 points 0 comments -> [Job leaving rituals in the WFH era](https://shkspr.mobi/blog/2022/11/job-leaving-rituals-in-the-wfh-era/)<!-- HN:42074845:end --><!-- HN:42004228:start -->
-* [42004228](https://news.social-protocols.org/stats?id=42004228) #30 4 points 1 comments -> [Kliktopia Archive](https://kliktopia.org)<!-- HN:42004228:end --><!-- HN:42080974:start -->
-* [42080974](https://news.social-protocols.org/stats?id=42080974) #16 19 points 26 comments -> [Top Billionaires make nearly $64B in post-Trump election stock surge](https://www.theregister.com/2024/11/07/top_10_billionaires/)<!-- HN:42080974:end --><!-- HN:42082119:start -->
-* [42082119](https://news.social-protocols.org/stats?id=42082119) #8 7 points 1 comments -> [How to Solve It with Code](https://www.answer.ai/posts/2024-11-07-solveit.html)<!-- HN:42082119:end -->
 #### **Friday, November 8, 2024**
 <!-- HN:42083630:start -->
 * [42083630](https://news.social-protocols.org/stats?id=42083630) #19 26 points 2 comments -> [Kagi Translate](https://translate.kagi.com/)<!-- HN:42083630:end --><!-- HN:42084571:start -->
