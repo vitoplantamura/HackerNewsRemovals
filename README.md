@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42140102](https://news.social-protocols.org/stats?id=42140102) #6 9 points 0 comments -> [Show HN: 16 year olds building an Integrated Writing Environment using AI](https://factful.io/)<!-- HN:42140102:end --><!-- HN:42139989:start -->
 * [42139989](https://news.social-protocols.org/stats?id=42139989) #21 20 points 12 comments -> [Prompt Injecting Your Way to Shell: OpenAI's Containerized ChatGPT Environment](https://0din.ai/blog/prompt-injecting-your-way-to-shell-openai-s-containerized-chatgpt-environment)<!-- HN:42139989:end --><!-- HN:42140664:start -->
 * [42140664](https://news.social-protocols.org/stats?id=42140664) #6 8 points 12 comments -> [Valuing Humans in the Age of Superintelligence: HumaneRank](https://roadtoartificia.com/p/valuing-humans-in-the-age-of-superintelligence-humanerank)<!-- HN:42140664:end -->
-#### **Friday, November 15, 2024**
+#### **Friday, November 15, 2024**<!-- HN:42144541:start -->
+* [42144541](https://news.social-protocols.org/stats?id=42144541) #17 9 points 2 comments -> [Reducing the cost of a single Google Cloud Dataflow Pipeline by Over 60%](https://blog.allegro.tech/2024/06/cost-optimization-data-pipeline-gcp.html)<!-- HN:42144541:end -->
