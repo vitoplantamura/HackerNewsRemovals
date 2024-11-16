@@ -168,4 +168,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42150504](https://news.social-protocols.org/stats?id=42150504) #5 38 points 12 comments -> [National Security Just Called, They Can't See the Email Traffic](https://chronicles.mad-scientist.club/tales/27-years-of-linux/)<!-- HN:42150504:end -->
 #### **Saturday, November 16, 2024**
 <!-- HN:42082754:start -->
-* [42082754](https://news.social-protocols.org/stats?id=42082754) #28 6 points 1 comments -> [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)<!-- HN:42082754:end -->
+* [42082754](https://news.social-protocols.org/stats?id=42082754) #28 6 points 1 comments -> [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)<!-- HN:42082754:end --><!-- HN:42151986:start -->
+* [42151986](https://news.social-protocols.org/stats?id=42151986) #17 19 points 2 comments -> [Jawboning in Plain Sight: The Unconstitutional Censorship Tolerated by the DMCA](https://www.rstreet.org/research/jawboning-in-plain-sight-the-unconstitutional-censorship-tolerated-by-the-dmca/)<!-- HN:42151986:end -->
