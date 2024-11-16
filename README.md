@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, November 9, 2024**
-<!-- HN:42091181:start -->
-* [42091181](https://news.social-protocols.org/stats?id=42091181) #24 4 points 2 comments -> [Maelstrom: High-Performance Matrix Home-Server Written in Rust](https://github.com/maelstrom-rs/maelstrom)<!-- HN:42091181:end --><!-- HN:42090568:start -->
-* [42090568](https://news.social-protocols.org/stats?id=42090568) #29 27 points 6 comments -> [What does a scientist look like? Children drawing women more than ever before](https://www.science.org/content/article/what-does-scientist-look-children-are-drawing-women-more-ever)<!-- HN:42090568:end --><!-- HN:42094180:start -->
-* [42094180](https://news.social-protocols.org/stats?id=42094180) #17 7 points 1 comments -> [The Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/)<!-- HN:42094180:end --><!-- HN:42008891:start -->
-* [42008891](https://news.social-protocols.org/stats?id=42008891) #16 112 points 24 comments -> ['Smart' insulin prevents diabetic highs – and deadly lows](https://www.nature.com/articles/d41586-024-03357-7#ref-CR1)<!-- HN:42008891:end --><!-- HN:42095390:start -->
-* [42095390](https://news.social-protocols.org/stats?id=42095390) #13 11 points 0 comments -> [Average rate on a 30-year mortgage in the US rises for 6th straight week](https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-36992be9d7760237baef95ca2c160f9a)<!-- HN:42095390:end --><!-- HN:42095362:start -->
-* [42095362](https://news.social-protocols.org/stats?id=42095362) #22 12 points 5 comments -> [Australia to ban under-16s from social media – but can't say how TikTok](https://www.theguardian.com/australia-news/2024/nov/07/australian-government-to-legislate-social-media-age-limit-of-16-but-cant-say-how-platforms-will-enforce-it)<!-- HN:42095362:end --><!-- HN:42095319:start -->
-* [42095319](https://news.social-protocols.org/stats?id=42095319) #26 14 points 0 comments -> [A brief history of privacy protection on Macs](https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/)<!-- HN:42095319:end --><!-- HN:42070807:start -->
-* [42070807](https://news.social-protocols.org/stats?id=42070807) #19 56 points 14 comments -> [Writing Tiny Desktop Apps in C and GTK3 (2022)](https://danielc.dev/blog/tiny-windows-linux-gtk-apps/)<!-- HN:42070807:end --><!-- HN:42096208:start -->
-* [42096208](https://news.social-protocols.org/stats?id=42096208) #24 3 points 0 comments -> [DNA firm [Atlas Biomed] holding highly sensitive data 'vanishes' without warning](https://www.bbc.co.uk/news/articles/cz7wl7rpndjo)<!-- HN:42096208:end --><!-- HN:42073406:start -->
-* [42073406](https://news.social-protocols.org/stats?id=42073406) #21 5 points 0 comments -> [Calculating at Pencil and Paper Scale](https://win-vector.com/2024/11/06/calculating-at-pencil-and-paper-scale/)<!-- HN:42073406:end -->
 #### **Sunday, November 10, 2024**
 <!-- HN:42097086:start -->
 * [42097086](https://news.social-protocols.org/stats?id=42097086) #17 23 points 18 comments -> [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)<!-- HN:42097086:end --><!-- HN:42047530:start -->
