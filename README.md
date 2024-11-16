@@ -166,3 +166,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42148864](https://news.social-protocols.org/stats?id=42148864) #5 8 points 0 comments -> [I Used Star Methodology to Crack Amazon Leadership Principles Interview](https://techcareergrowth.beehiiv.com/p/star-methodology-amazon-interviews)<!-- HN:42148864:end --><!-- HN:42149027:start -->
 * [42149027](https://news.social-protocols.org/stats?id=42149027) #27 47 points 3 comments -> [Bill Atkinson Has Pancreatic Cancer](https://daringfireball.net/linked/2024/11/13/atkinson-prayers)<!-- HN:42149027:end --><!-- HN:42150504:start -->
 * [42150504](https://news.social-protocols.org/stats?id=42150504) #5 38 points 12 comments -> [National Security Just Called, They Can't See the Email Traffic](https://chronicles.mad-scientist.club/tales/27-years-of-linux/)<!-- HN:42150504:end -->
+#### **Saturday, November 16, 2024**
+<!-- HN:42082754:start -->
+* [42082754](https://news.social-protocols.org/stats?id=42082754) #28 6 points 1 comments -> [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)<!-- HN:42082754:end -->
