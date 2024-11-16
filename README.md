@@ -169,4 +169,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, November 16, 2024**
 <!-- HN:42082754:start -->
 * [42082754](https://news.social-protocols.org/stats?id=42082754) #28 6 points 1 comments -> [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)<!-- HN:42082754:end --><!-- HN:42151986:start -->
-* [42151986](https://news.social-protocols.org/stats?id=42151986) #17 19 points 2 comments -> [Jawboning in Plain Sight: The Unconstitutional Censorship Tolerated by the DMCA](https://www.rstreet.org/research/jawboning-in-plain-sight-the-unconstitutional-censorship-tolerated-by-the-dmca/)<!-- HN:42151986:end -->
+* [42151986](https://news.social-protocols.org/stats?id=42151986) #17 19 points 2 comments -> [Jawboning in Plain Sight: The Unconstitutional Censorship Tolerated by the DMCA](https://www.rstreet.org/research/jawboning-in-plain-sight-the-unconstitutional-censorship-tolerated-by-the-dmca/)<!-- HN:42151986:end --><!-- HN:42092670:start -->
+* [42092670](https://news.social-protocols.org/stats?id=42092670) #29 7 points 0 comments -> [Philosopher of Change: How Henri Bergson's View of Reality Came to Be](https://lithub.com/philosopher-of-change-how-henri-bergsons-radical-view-of-reality-came-to-be/)<!-- HN:42092670:end -->
