@@ -187,5 +187,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42159589](https://news.social-protocols.org/stats?id=42159589) #15 9 points 1 comments -> [Judge Blocks The Onion Bid for Alex Jones's InfoWars](https://www.nationalreview.com/news/judge-blocks-the-onions-bid-for-alex-joness-infowars-to-review-bankruptcy-auction/)<!-- HN:42159589:end --><!-- HN:42102690:start -->
 * [42102690](https://news.social-protocols.org/stats?id=42102690) #17 11 points 15 comments -> [Where Does the Magic Go as We Grow Older? (2020)](https://medium.com/mindfully-speaking/where-does-the-magic-go-as-we-grow-older-15d467212efe)<!-- HN:42102690:end -->
 #### **Sunday, November 17, 2024**
-<!-- HN:42160659:start -->
-* [42160659](https://news.social-protocols.org/stats?id=42160659) #5 31 points 7 comments -> [X's algorithm was changed in mid-July 2024 to boost right-leaning accounts](https://mastodon.social/@ChrisO_wiki/113492224877784244)<!-- HN:42160659:end -->
