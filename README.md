@@ -170,3 +170,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42164828](https://news.social-protocols.org/stats?id=42164828) #24 3 points 1 comments -> [Why your house is a terrible investment](https://jlcollinsnh.com/2023/03/02/why-your-house-is-a-terrible-investment/)<!-- HN:42164828:end --><!-- HN:42165726:start -->
 * [42165726](https://news.social-protocols.org/stats?id=42165726) #2 7 points 0 comments -> [Cone of Shame Cat Lamp](https://www.printables.com/model/1076896-cat-cone-of-shame-lamp)<!-- HN:42165726:end --><!-- HN:42167166:start -->
 * [42167166](https://news.social-protocols.org/stats?id=42167166) #22 37 points 41 comments -> [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)<!-- HN:42167166:end -->
+#### **Monday, November 18, 2024**
+<!-- HN:42168423:start -->
+* [42168423](https://news.social-protocols.org/stats?id=42168423) #16 24 points 43 comments -> [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)<!-- HN:42168423:end -->
