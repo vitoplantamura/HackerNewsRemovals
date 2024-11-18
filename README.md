@@ -173,4 +173,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, November 18, 2024**
 <!-- HN:42168423:start -->
 * [42168423](https://news.social-protocols.org/stats?id=42168423) #16 24 points 43 comments -> [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)<!-- HN:42168423:end --><!-- HN:42168887:start -->
-* [42168887](https://news.social-protocols.org/stats?id=42168887) #27 8 points 0 comments -> [How the 4B Movement Could Change America](https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314)<!-- HN:42168887:end -->
+* [42168887](https://news.social-protocols.org/stats?id=42168887) #27 8 points 0 comments -> [How the 4B Movement Could Change America](https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314)<!-- HN:42168887:end --><!-- HN:42168953:start -->
+* [42168953](https://news.social-protocols.org/stats?id=42168953) #10 7 points 0 comments -> [Why Not Bluesky](https://www.tbray.org/ongoing/When/202x/2024/11/15/Not-Bluesky)<!-- HN:42168953:end -->
