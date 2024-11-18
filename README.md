@@ -172,4 +172,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42167166](https://news.social-protocols.org/stats?id=42167166) #22 37 points 41 comments -> [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)<!-- HN:42167166:end -->
 #### **Monday, November 18, 2024**
 <!-- HN:42168423:start -->
-* [42168423](https://news.social-protocols.org/stats?id=42168423) #16 24 points 43 comments -> [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)<!-- HN:42168423:end -->
+* [42168423](https://news.social-protocols.org/stats?id=42168423) #16 24 points 43 comments -> [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)<!-- HN:42168423:end --><!-- HN:42168887:start -->
+* [42168887](https://news.social-protocols.org/stats?id=42168887) #27 8 points 0 comments -> [How the 4B Movement Could Change America](https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314)<!-- HN:42168887:end -->
