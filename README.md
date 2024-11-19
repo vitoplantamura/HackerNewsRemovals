@@ -180,4 +180,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42177543](https://news.social-protocols.org/stats?id=42177543) #7 63 points 6 comments -> [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)<!-- HN:42177543:end -->
 #### **Tuesday, November 19, 2024**
 <!-- HN:42178213:start -->
-* [42178213](https://news.social-protocols.org/stats?id=42178213) #10 4 points 1 comments -> [Show HN: Nosia – Privacy-Focused AI to Run Models on Your Own Data and Device](https://github.com/nosia-ai/nosia)<!-- HN:42178213:end -->
+* [42178213](https://news.social-protocols.org/stats?id=42178213) #10 4 points 1 comments -> [Show HN: Nosia – Privacy-Focused AI to Run Models on Your Own Data and Device](https://github.com/nosia-ai/nosia)<!-- HN:42178213:end --><!-- HN:42180342:start -->
+* [42180342](https://news.social-protocols.org/stats?id=42180342) #23 15 points 4 comments -> [Elon Musk's Engineering Principles – The 5 Step Process (2021)](https://www.christianscheb.de/archives/893)<!-- HN:42180342:end -->
