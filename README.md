@@ -199,3 +199,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42176631](https://news.social-protocols.org/stats?id=42176631) #23 7 points 1 comments -> [If You Donate to the FSFE, You Are Funding a Microsoft Front Group Inside Europe](https://techrights.org/n/2024/11/16/If_You_Donate_to_the_FSFE_You_Are_Funding_a_Microsoft_Front_Gro.shtml)<!-- HN:42176631:end --><!-- HN:42177411:start -->
 * [42177411](https://news.social-protocols.org/stats?id=42177411) #2 30 points 3 comments -> [You Don't Know Jack about Bandwidth](https://queue.acm.org/detail.cfm?id=3674953)<!-- HN:42177411:end --><!-- HN:42177543:start -->
 * [42177543](https://news.social-protocols.org/stats?id=42177543) #7 63 points 6 comments -> [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)<!-- HN:42177543:end -->
+#### **Tuesday, November 19, 2024**
+<!-- HN:42178213:start -->
+* [42178213](https://news.social-protocols.org/stats?id=42178213) #10 4 points 1 comments -> [Show HN: Nosia – Privacy-Focused AI to Run Models on Your Own Data and Device](https://github.com/nosia-ai/nosia)<!-- HN:42178213:end -->
