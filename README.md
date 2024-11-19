@@ -181,4 +181,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 19, 2024**
 <!-- HN:42178213:start -->
 * [42178213](https://news.social-protocols.org/stats?id=42178213) #10 4 points 1 comments -> [Show HN: Nosia – Privacy-Focused AI to Run Models on Your Own Data and Device](https://github.com/nosia-ai/nosia)<!-- HN:42178213:end --><!-- HN:42180342:start -->
-* [42180342](https://news.social-protocols.org/stats?id=42180342) #23 15 points 4 comments -> [Elon Musk's Engineering Principles – The 5 Step Process (2021)](https://www.christianscheb.de/archives/893)<!-- HN:42180342:end -->
+* [42180342](https://news.social-protocols.org/stats?id=42180342) #23 15 points 4 comments -> [Elon Musk's Engineering Principles – The 5 Step Process (2021)](https://www.christianscheb.de/archives/893)<!-- HN:42180342:end --><!-- HN:42180965:start -->
+* [42180965](https://news.social-protocols.org/stats?id=42180965) #9 6 points 2 comments -> [Second Undersea Cable Damaged in the Baltic Sea, Impacting Lithuania-Sweden Link](https://eutoday.net/second-undersea-cable-damaged-in-the-baltic-sea/)<!-- HN:42180965:end -->
