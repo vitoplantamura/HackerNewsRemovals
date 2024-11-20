@@ -204,4 +204,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42188612](https://news.social-protocols.org/stats?id=42188612) #25 8 points 1 comments -> [Italian village offers $1 homes to Americans upset by the US election result](https://www.cnn.com/2024/11/19/travel/italian-village-ollolai-wants-americans-election-one-dollar-homes/index.html)<!-- HN:42188612:end -->
 #### **Wednesday, November 20, 2024**
 <!-- HN:42189241:start -->
-* [42189241](https://news.social-protocols.org/stats?id=42189241) #13 5 points 2 comments -> [Show HN: Serverless code execution, but for AI agents](https://sandboxed.ai)<!-- HN:42189241:end -->
+* [42189241](https://news.social-protocols.org/stats?id=42189241) #13 5 points 2 comments -> [Show HN: Serverless code execution, but for AI agents](https://sandboxed.ai)<!-- HN:42189241:end --><!-- HN:42106623:start -->
+* [42106623](https://news.social-protocols.org/stats?id=42106623) #4 72 points 11 comments -> [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)<!-- HN:42106623:end -->
