@@ -202,3 +202,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42187452](https://news.social-protocols.org/stats?id=42187452) #17 16 points 10 comments -> [Rumble CEO Chris Pavlovski Expresses Interest in Buying Google Chrome](https://twitter.com/chrispavlovski/status/1858909560485949474)<!-- HN:42187452:end --><!-- HN:42187971:start -->
 * [42187971](https://news.social-protocols.org/stats?id=42187971) #28 2 points 0 comments -> [Bogota Declaration](https://en.wikipedia.org/wiki/Bogota_Declaration)<!-- HN:42187971:end --><!-- HN:42188612:start -->
 * [42188612](https://news.social-protocols.org/stats?id=42188612) #25 8 points 1 comments -> [Italian village offers $1 homes to Americans upset by the US election result](https://www.cnn.com/2024/11/19/travel/italian-village-ollolai-wants-americans-election-one-dollar-homes/index.html)<!-- HN:42188612:end -->
+#### **Wednesday, November 20, 2024**
+<!-- HN:42189241:start -->
+* [42189241](https://news.social-protocols.org/stats?id=42189241) #13 5 points 2 comments -> [Show HN: Serverless code execution, but for AI agents](https://sandboxed.ai)<!-- HN:42189241:end -->
