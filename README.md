@@ -182,4 +182,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, November 20, 2024**
 <!-- HN:42189241:start -->
 * [42189241](https://news.social-protocols.org/stats?id=42189241) #13 5 points 2 comments -> [Show HN: Serverless code execution, but for AI agents](https://sandboxed.ai)<!-- HN:42189241:end --><!-- HN:42106623:start -->
-* [42106623](https://news.social-protocols.org/stats?id=42106623) #4 72 points 11 comments -> [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)<!-- HN:42106623:end -->
+* [42106623](https://news.social-protocols.org/stats?id=42106623) #4 72 points 11 comments -> [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)<!-- HN:42106623:end --><!-- HN:42189125:start -->
+* [42189125](https://news.social-protocols.org/stats?id=42189125) #18 6 points 1 comments -> [Why Smart C Coders Love Lua](https://realtimelogic.com/articles/Using-Lua-for-Embedded-Development-vs-Traditional-C-Code)<!-- HN:42189125:end -->
