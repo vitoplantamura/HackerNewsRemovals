@@ -190,3 +190,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42197767](https://news.social-protocols.org/stats?id=42197767) #19 6 points 3 comments -> [Google turns Android into a desktop OS in 5 steps](https://www.zdnet.com/article/how-google-turns-android-into-a-desktop-os-in-5-steps/)<!-- HN:42197767:end --><!-- HN:42197759:start -->
 * [42197759](https://news.social-protocols.org/stats?id=42197759) #10 31 points 5 comments -> [DOJ wants to force Google Chrome sale, Android de-bundling](https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/)<!-- HN:42197759:end --><!-- HN:42199059:start -->
 * [42199059](https://news.social-protocols.org/stats?id=42199059) #25 6 points 2 comments -> [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)<!-- HN:42199059:end -->
+#### **Thursday, November 21, 2024**
+<!-- HN:42198783:start -->
+* [42198783](https://news.social-protocols.org/stats?id=42198783) #22 11 points 4 comments -> [Show HN: Shop on Amazon with Crypto](https://www.baggins.ai/?source=hackernews)<!-- HN:42198783:end -->
