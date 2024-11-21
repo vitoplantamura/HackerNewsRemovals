@@ -192,4 +192,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42199059](https://news.social-protocols.org/stats?id=42199059) #25 6 points 2 comments -> [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)<!-- HN:42199059:end -->
 #### **Thursday, November 21, 2024**
 <!-- HN:42198783:start -->
-* [42198783](https://news.social-protocols.org/stats?id=42198783) #22 11 points 4 comments -> [Show HN: Shop on Amazon with Crypto](https://www.baggins.ai/?source=hackernews)<!-- HN:42198783:end -->
+* [42198783](https://news.social-protocols.org/stats?id=42198783) #22 11 points 4 comments -> [Show HN: Shop on Amazon with Crypto](https://www.baggins.ai/?source=hackernews)<!-- HN:42198783:end --><!-- HN:42200925:start -->
+* [42200925](https://news.social-protocols.org/stats?id=42200925) #3 5 points 0 comments -> [Ford lost $3.7B on its EV sales](https://www.mackinac.org/blog/2024/the-market-speaks-against-electric-vehicles)<!-- HN:42200925:end -->
