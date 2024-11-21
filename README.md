@@ -193,4 +193,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, November 21, 2024**
 <!-- HN:42198783:start -->
 * [42198783](https://news.social-protocols.org/stats?id=42198783) #22 11 points 4 comments -> [Show HN: Shop on Amazon with Crypto](https://www.baggins.ai/?source=hackernews)<!-- HN:42198783:end --><!-- HN:42200925:start -->
-* [42200925](https://news.social-protocols.org/stats?id=42200925) #3 5 points 0 comments -> [Ford lost $3.7B on its EV sales](https://www.mackinac.org/blog/2024/the-market-speaks-against-electric-vehicles)<!-- HN:42200925:end -->
+* [42200925](https://news.social-protocols.org/stats?id=42200925) #3 5 points 0 comments -> [Ford lost $3.7B on its EV sales](https://www.mackinac.org/blog/2024/the-market-speaks-against-electric-vehicles)<!-- HN:42200925:end --><!-- HN:42199301:start -->
+* [42199301](https://news.social-protocols.org/stats?id=42199301) #13 364 points 98 comments -> [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)<!-- HN:42199301:end --><!-- HN:42198256:start -->
+* [42198256](https://news.social-protocols.org/stats?id=42198256) #14 104 points 30 comments -> [/usr/bin/env -S uv run](https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/)<!-- HN:42198256:end -->
