@@ -192,5 +192,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42199059](https://news.social-protocols.org/stats?id=42199059) #25 6 points 2 comments -> [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)<!-- HN:42199059:end -->
 #### **Thursday, November 21, 2024**
 <!-- HN:42198783:start -->
-* [42198783](https://news.social-protocols.org/stats?id=42198783) #22 11 points 4 comments -> [Show HN: Shop on Amazon with Crypto](https://www.baggins.ai/?source=hackernews)<!-- HN:42198783:end --><!-- HN:42200559:start -->
-* [42200559](https://news.social-protocols.org/stats?id=42200559) #26 12 points 5 comments -> [Spirit Airlines CEO Got a $3.8M Bonus a Week Before Its Bankruptcy](https://www.thebignewsletter.com/p/spirit-airlines-ceo-got-a-38-million)<!-- HN:42200559:end -->
+* [42198783](https://news.social-protocols.org/stats?id=42198783) #22 11 points 4 comments -> [Show HN: Shop on Amazon with Crypto](https://www.baggins.ai/?source=hackernews)<!-- HN:42198783:end -->
