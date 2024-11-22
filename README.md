@@ -181,4 +181,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42205132](https://news.social-protocols.org/stats?id=42205132) #17 6 points 2 comments -> [Child safety org launches AI model trained on real child sex abuse images](https://arstechnica.com/tech-policy/2024/11/ai-trained-on-real-child-sex-abuse-images-to-detect-new-csam/)<!-- HN:42205132:end --><!-- HN:42207804:start -->
 * [42207804](https://news.social-protocols.org/stats?id=42207804) #26 4 points 0 comments -> [Microsoft tries to convince Windows 10 users with full-screen prompts](https://www.theverge.com/2024/11/20/24301768/microsoft-windows-10-upgrade-prompt-copilot-plus-pcs)<!-- HN:42207804:end --><!-- HN:42208021:start -->
 * [42208021](https://news.social-protocols.org/stats?id=42208021) #17 11 points 3 comments -> [Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding](https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/)<!-- HN:42208021:end -->
-#### **Friday, November 22, 2024**
+#### **Friday, November 22, 2024**<!-- HN:42210690:start -->
+* [42210690](https://news.social-protocols.org/stats?id=42210690) #1 -> [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)<!-- HN:42210690:end -->
