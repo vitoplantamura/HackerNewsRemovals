@@ -176,4 +176,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, November 23, 2024**
 <!-- HN:42218757:start -->
 * [42218757](https://news.social-protocols.org/stats?id=42218757) #27 4 points 7 comments -> [Microsoft's New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)<!-- HN:42218757:end --><!-- HN:42219036:start -->
-* [42219036](https://news.social-protocols.org/stats?id=42219036) #20 3 points 2 comments -> [Pulling gold out of e-waste suddenly becomes super-profitable](https://newatlas.com/materials/gold-electronic-waste/)<!-- HN:42219036:end -->
+* [42219036](https://news.social-protocols.org/stats?id=42219036) #20 3 points 2 comments -> [Pulling gold out of e-waste suddenly becomes super-profitable](https://newatlas.com/materials/gold-electronic-waste/)<!-- HN:42219036:end --><!-- HN:42170144:start -->
+* [42170144](https://news.social-protocols.org/stats?id=42170144) #20 4 points 2 comments -> [Who Really Wrote the Bible: The Story of the Scribes](https://www.historytoday.com/archive/review/who-really-wrote-bible-william-m-schniedewind-review)<!-- HN:42170144:end -->
