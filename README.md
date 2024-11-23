@@ -176,4 +176,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42218004](https://news.social-protocols.org/stats?id=42218004) #8 -> [Wikipedia's Islamist Vandals](https://americandreaming.substack.com/p/wikipedias-islamist-vandals)<!-- HN:42218004:end -->
 #### **Saturday, November 23, 2024**
 <!-- HN:42218757:start -->
-* [42218757](https://news.social-protocols.org/stats?id=42218757) #27 4 points 7 comments -> [Microsoft's New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)<!-- HN:42218757:end -->
+* [42218757](https://news.social-protocols.org/stats?id=42218757) #27 4 points 7 comments -> [Microsoft's New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)<!-- HN:42218757:end --><!-- HN:42219036:start -->
+* [42219036](https://news.social-protocols.org/stats?id=42219036) #20 3 points 2 comments -> [Pulling gold out of e-waste suddenly becomes super-profitable](https://newatlas.com/materials/gold-electronic-waste/)<!-- HN:42219036:end -->
