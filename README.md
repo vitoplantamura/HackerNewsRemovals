@@ -174,3 +174,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42215608](https://news.social-protocols.org/stats?id=42215608) #30 6 points 0 comments -> [Feds release options for Colorado River as negotiations between states stall](https://phys.org/news/2024-11-feds-options-future-colorado-river.html)<!-- HN:42215608:end --><!-- HN:42217095:start -->
 * [42217095](https://news.social-protocols.org/stats?id=42217095) #20 17 points 7 comments -> [Texas Opens Investigation into Conspiracy to Boycott Certain Social Platforms](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-possible-conspiracy-advertising-companies-boycott)<!-- HN:42217095:end --><!-- HN:42218004:start -->
 * [42218004](https://news.social-protocols.org/stats?id=42218004) #8 -> [Wikipedia's Islamist Vandals](https://americandreaming.substack.com/p/wikipedias-islamist-vandals)<!-- HN:42218004:end -->
+#### **Saturday, November 23, 2024**
+<!-- HN:42218757:start -->
+* [42218757](https://news.social-protocols.org/stats?id=42218757) #27 4 points 7 comments -> [Microsoft's New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)<!-- HN:42218757:end -->
