@@ -168,3 +168,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42220719](https://news.social-protocols.org/stats?id=42220719) #21 7 points 0 comments -> [iFixit Shares M4 MacBook Pro Teardown](https://www.macrumors.com/2024/11/22/ifixit-shares-m4-macbook-pro-teardown/)<!-- HN:42220719:end --><!-- HN:42220062:start -->
 * [42220062](https://news.social-protocols.org/stats?id=42220062) #27 36 points 25 comments -> [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)<!-- HN:42220062:end --><!-- HN:42221615:start -->
 * [42221615](https://news.social-protocols.org/stats?id=42221615) #10 6 points 0 comments -> [Kent Overstreet restricted from participation in kernel development](https://lwn.net/Articles/999197/)<!-- HN:42221615:end -->
+#### **Sunday, November 24, 2024**
+<!-- HN:42224891:start -->
+* [42224891](https://news.social-protocols.org/stats?id=42224891) #26 7 points 6 comments -> [An Idaho County Will Publish Everyone's Ballots to Combat Mistrust](https://www.nytimes.com/2024/11/23/us/ballots-election-boise-idaho.html)<!-- HN:42224891:end -->
