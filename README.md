@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, November 24, 2024**
 <!-- HN:42224891:start -->
 * [42224891](https://news.social-protocols.org/stats?id=42224891) #26 7 points 6 comments -> [An Idaho County Will Publish Everyone's Ballots to Combat Mistrust](https://www.nytimes.com/2024/11/23/us/ballots-election-boise-idaho.html)<!-- HN:42224891:end --><!-- HN:42224398:start -->
-* [42224398](https://news.social-protocols.org/stats?id=42224398) #24 51 points 40 comments -> [Wordpress.org released Secure Custom Fields "PRO" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)<!-- HN:42224398:end -->
+* [42224398](https://news.social-protocols.org/stats?id=42224398) #24 51 points 40 comments -> [Wordpress.org released Secure Custom Fields "PRO" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)<!-- HN:42224398:end --><!-- HN:42226860:start -->
+* [42226860](https://news.social-protocols.org/stats?id=42226860) #13 8 points 2 comments -> [Win for Internet freedom: Google must sell its Chrome browser](https://tuta.com/blog/google-must-sell-chrome-in-antitrust-case)<!-- HN:42226860:end -->
