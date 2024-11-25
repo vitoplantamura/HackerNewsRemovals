@@ -150,3 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42227996](https://news.social-protocols.org/stats?id=42227996) #19 4 points 0 comments -> [C++ Standards Contributor Expelled for 'The Undefined Behavior Question'](https://m.slashdot.org/submission/17330375)<!-- HN:42227996:end --><!-- HN:42230240:start -->
 * [42230240](https://news.social-protocols.org/stats?id=42230240) #12 6 points 2 comments -> [Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding](https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/)<!-- HN:42230240:end --><!-- HN:42231007:start -->
 * [42231007](https://news.social-protocols.org/stats?id=42231007) #13 -> [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)<!-- HN:42231007:end -->
+#### **Monday, November 25, 2024**
+<!-- HN:42232430:start -->
+* [42232430](https://news.social-protocols.org/stats?id=42232430) #24 3 points 1 comments -> [Semantic Transpiler Agent](https://github.com/cyyeh/sta)<!-- HN:42232430:end -->
