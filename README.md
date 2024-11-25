@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42231007](https://news.social-protocols.org/stats?id=42231007) #13 -> [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)<!-- HN:42231007:end -->
 #### **Monday, November 25, 2024**
 <!-- HN:42232430:start -->
-* [42232430](https://news.social-protocols.org/stats?id=42232430) #24 3 points 1 comments -> [Semantic Transpiler Agent](https://github.com/cyyeh/sta)<!-- HN:42232430:end -->
+* [42232430](https://news.social-protocols.org/stats?id=42232430) #24 3 points 1 comments -> [Semantic Transpiler Agent](https://github.com/cyyeh/sta)<!-- HN:42232430:end --><!-- HN:42213485:start -->
+* [42213485](https://news.social-protocols.org/stats?id=42213485) #24 10 points 2 comments -> [Slow Email (2008)](http://notes-from-a-sticky-wicket.blogspot.com/2008/03/my-slow-email-movement.html)<!-- HN:42213485:end -->
