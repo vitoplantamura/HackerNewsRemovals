@@ -162,5 +162,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42240364](https://news.social-protocols.org/stats?id=42240364) #24 27 points 32 comments -> [Synapse still can't find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)<!-- HN:42240364:end -->
 #### **Tuesday, November 26, 2024**
 <!-- HN:42241438:start -->
-* [42241438](https://news.social-protocols.org/stats?id=42241438) #24 4 points 0 comments -> [Why Are All Tech Products Now Shit? [YouTube] [video]](https://www.youtube.com/watch?v=7Slib2bbMs4)<!-- HN:42241438:end --><!-- HN:42241752:start -->
-* [42241752](https://news.social-protocols.org/stats?id=42241752) #21 14 points 2 comments -> [GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company](https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company)<!-- HN:42241752:end -->
+* [42241438](https://news.social-protocols.org/stats?id=42241438) #24 4 points 0 comments -> [Why Are All Tech Products Now Shit? [YouTube] [video]](https://www.youtube.com/watch?v=7Slib2bbMs4)<!-- HN:42241438:end -->
