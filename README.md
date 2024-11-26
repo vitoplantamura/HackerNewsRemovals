@@ -162,4 +162,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42240364](https://news.social-protocols.org/stats?id=42240364) #24 27 points 32 comments -> [Synapse still can't find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)<!-- HN:42240364:end -->
 #### **Tuesday, November 26, 2024**
 <!-- HN:42241438:start -->
-* [42241438](https://news.social-protocols.org/stats?id=42241438) #24 4 points 0 comments -> [Why Are All Tech Products Now Shit? [YouTube] [video]](https://www.youtube.com/watch?v=7Slib2bbMs4)<!-- HN:42241438:end -->
+* [42241438](https://news.social-protocols.org/stats?id=42241438) #24 4 points 0 comments -> [Why Are All Tech Products Now Shit? [YouTube] [video]](https://www.youtube.com/watch?v=7Slib2bbMs4)<!-- HN:42241438:end --><!-- HN:42222773:start -->
+* [42222773](https://news.social-protocols.org/stats?id=42222773) #21 -> [Apollo 68080: high performance 68k processor on FPGA](http://www.apollo-core.com/features.html)<!-- HN:42222773:end -->
