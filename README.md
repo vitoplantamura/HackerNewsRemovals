@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42248167](https://news.social-protocols.org/stats?id=42248167) #9 61 points 2 comments -> [Hats Off to NASA's Webb: Sombrero Galaxy Dazzles in New Image](https://webbtelescope.org/contents/news-releases/2024/news-2024-137)<!-- HN:42248167:end -->
 #### **Wednesday, November 27, 2024**<!-- HN:42252041:start -->
 * [42252041](https://news.social-protocols.org/stats?id=42252041) #3 27 points 2 comments -> [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)<!-- HN:42252041:end --><!-- HN:42250429:start -->
-* [42250429](https://news.social-protocols.org/stats?id=42250429) #22 37 points 14 comments -> [Show HN: Clean Your Mac with a Script](https://github.com/hkdobrev/cleanmac)<!-- HN:42250429:end -->
+* [42250429](https://news.social-protocols.org/stats?id=42250429) #22 37 points 14 comments -> [Show HN: Clean Your Mac with a Script](https://github.com/hkdobrev/cleanmac)<!-- HN:42250429:end --><!-- HN:42252904:start -->
+* [42252904](https://news.social-protocols.org/stats?id=42252904) #21 4 points 0 comments -> [Why Rust and Its Memory Safety Lulls Developers into a False Sense of Security](https://www.darrenhorrocks.co.uk/why-rust-its-memory-safety-lulls-developers-into-false-sense-security/)<!-- HN:42252904:end -->
