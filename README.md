@@ -146,3 +146,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42255559](https://news.social-protocols.org/stats?id=42255559) #11 17 points 11 comments -> [How to build 99.999% uptime payment systems](https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment)<!-- HN:42255559:end --><!-- HN:42257124:start -->
 * [42257124](https://news.social-protocols.org/stats?id=42257124) #22 11 points 0 comments -> [Probable extinction of influenza B/Yamagata and its public health implications](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00066-1/fulltext)<!-- HN:42257124:end --><!-- HN:42260401:start -->
 * [42260401](https://news.social-protocols.org/stats?id=42260401) #9 5 points 1 comments -> [Factoring in the Chicken McNugget monoid (2017)](https://arxiv.org/abs/1709.01606)<!-- HN:42260401:end -->
+#### **Thursday, November 28, 2024**
+<!-- HN:42260998:start -->
+* [42260998](https://news.social-protocols.org/stats?id=42260998) #13 9 points 8 comments -> [Database full of 1000+ validated problems that can be turned into applications](https://www.bigideasdb.com/)<!-- HN:42260998:end -->
