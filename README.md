@@ -149,4 +149,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, November 28, 2024**
 <!-- HN:42260998:start -->
 * [42260998](https://news.social-protocols.org/stats?id=42260998) #13 9 points 8 comments -> [Database full of 1000+ validated problems that can be turned into applications](https://www.bigideasdb.com/)<!-- HN:42260998:end --><!-- HN:42259950:start -->
-* [42259950](https://news.social-protocols.org/stats?id=42259950) #26 15 points 26 comments -> [The Rise of the NormieNet – Echo chamber politics](https://www.bugeyedandshameless.com/p/the-rise-of-the-normienet)<!-- HN:42259950:end -->
+* [42259950](https://news.social-protocols.org/stats?id=42259950) #26 15 points 26 comments -> [The Rise of the NormieNet – Echo chamber politics](https://www.bugeyedandshameless.com/p/the-rise-of-the-normienet)<!-- HN:42259950:end --><!-- HN:42262065:start -->
+* [42262065](https://news.social-protocols.org/stats?id=42262065) #13 14 points 1 comments -> [Alibaba's OpenAI Challenger: The New AI Reasoning Titan](https://app.pageon.ai/share/8146?mode=share&shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkb2N1bWVudFNoYXJlU2lnbiI6IjEiLCJleHAiOjE3MzI4NDk0NTYsInVzZXJJZCI6MzcxNywicHJvamVjdElkIjo4MTQ2LCJ0aW1lb3V0IjoxNzMyODQ5NDU2MDAwLCJpc1JlbW92ZVdhdGVybWFyayI6MH0.bXgFzoQqQXiRNfaWhWOjrkYP79o5_OCT34RDDWbq9_Y)<!-- HN:42262065:end -->
