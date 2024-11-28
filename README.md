@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42260401](https://news.social-protocols.org/stats?id=42260401) #9 5 points 1 comments -> [Factoring in the Chicken McNugget monoid (2017)](https://arxiv.org/abs/1709.01606)<!-- HN:42260401:end -->
 #### **Thursday, November 28, 2024**
 <!-- HN:42260998:start -->
-* [42260998](https://news.social-protocols.org/stats?id=42260998) #13 9 points 8 comments -> [Database full of 1000+ validated problems that can be turned into applications](https://www.bigideasdb.com/)<!-- HN:42260998:end -->
+* [42260998](https://news.social-protocols.org/stats?id=42260998) #13 9 points 8 comments -> [Database full of 1000+ validated problems that can be turned into applications](https://www.bigideasdb.com/)<!-- HN:42260998:end --><!-- HN:42259950:start -->
+* [42259950](https://news.social-protocols.org/stats?id=42259950) #26 15 points 26 comments -> [The Rise of the NormieNet – Echo chamber politics](https://www.bugeyedandshameless.com/p/the-rise-of-the-normienet)<!-- HN:42259950:end -->
