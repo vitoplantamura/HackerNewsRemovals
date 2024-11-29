@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, November 29, 2024**
 <!-- HN:42242784:start -->
 * [42242784](https://news.social-protocols.org/stats?id=42242784) #26 7 points 6 comments -> [Every Hands-Free Driving System Available in 2024](https://www.caranddriver.com/news/a62586657/every-hands-free-driving-system-2024/)<!-- HN:42242784:end --><!-- HN:42268475:start -->
-* [42268475](https://news.social-protocols.org/stats?id=42268475) #3 294 points 4 comments -> [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)<!-- HN:42268475:end -->
+* [42268475](https://news.social-protocols.org/stats?id=42268475) #3 294 points 4 comments -> [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)<!-- HN:42268475:end --><!-- HN:42270893:start -->
+* [42270893](https://news.social-protocols.org/stats?id=42270893) #7 14 points 1 comments -> [An updated record of Tesla fatalities and Tesla accident deaths](https://www.tesladeaths.com)<!-- HN:42270893:end -->
