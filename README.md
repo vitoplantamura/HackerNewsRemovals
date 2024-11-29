@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, November 29, 2024**
 <!-- HN:42249609:start -->
 * [42249609](https://news.social-protocols.org/stats?id=42249609) #14 29 points 40 comments -> [Float Self-Tagging](https://arxiv.org/abs/2411.16544)<!-- HN:42249609:end --><!-- HN:42242784:start -->
-* [42242784](https://news.social-protocols.org/stats?id=42242784) #26 7 points 6 comments -> [Every Hands-Free Driving System Available in 2024](https://www.caranddriver.com/news/a62586657/every-hands-free-driving-system-2024/)<!-- HN:42242784:end -->
+* [42242784](https://news.social-protocols.org/stats?id=42242784) #26 7 points 6 comments -> [Every Hands-Free Driving System Available in 2024](https://www.caranddriver.com/news/a62586657/every-hands-free-driving-system-2024/)<!-- HN:42242784:end --><!-- HN:42268475:start -->
+* [42268475](https://news.social-protocols.org/stats?id=42268475) #3 294 points 4 comments -> [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)<!-- HN:42268475:end -->
