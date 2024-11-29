@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42265051](https://news.social-protocols.org/stats?id=42265051) #21 10 points 11 comments -> [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)<!-- HN:42265051:end --><!-- HN:42267519:start -->
 * [42267519](https://news.social-protocols.org/stats?id=42267519) #29 7 points 0 comments -> [Reddit overtakes X in popularity of social media platforms in UK](https://www.theguardian.com/technology/2024/nov/28/reddit-overtakes-x-in-popularity-of-social-media-platforms-in-uk)<!-- HN:42267519:end --><!-- HN:42260030:start -->
 * [42260030](https://news.social-protocols.org/stats?id=42260030) #26 170 points 2 comments -> [Float Self-Tagging](https://arxiv.org/abs/2411.16544)<!-- HN:42260030:end -->
+#### **Friday, November 29, 2024**
+<!-- HN:42249609:start -->
+* [42249609](https://news.social-protocols.org/stats?id=42249609) #14 29 points 40 comments -> [Float Self-Tagging](https://arxiv.org/abs/2411.16544)<!-- HN:42249609:end -->
