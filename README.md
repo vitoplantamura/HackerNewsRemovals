@@ -167,4 +167,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42277963:start -->
 * [42277963](https://news.social-protocols.org/stats?id=42277963) #22 80 points 101 comments -> [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)<!-- HN:42277963:end --><!-- HN:42277714:start -->
 * [42277714](https://news.social-protocols.org/stats?id=42277714) #8 18 points 6 comments -> [Who is "Absolute Persistence", and why is their spyware on 600M computers?](https://www.absolute.com/platform/persistence/)<!-- HN:42277714:end --><!-- HN:42277931:start -->
-* [42277931](https://news.social-protocols.org/stats?id=42277931) #11 20 points 4 comments -> [Bluesky intends their indexing to be used by third parties](https://write.as/ulrikehahn/bridging-to-bluesky-the-open-social-web-consent-and-gdpr)<!-- HN:42277931:end -->
+* [42277931](https://news.social-protocols.org/stats?id=42277931) #11 20 points 4 comments -> [Bluesky intends their indexing to be used by third parties](https://write.as/ulrikehahn/bridging-to-bluesky-the-open-social-web-consent-and-gdpr)<!-- HN:42277931:end --><!-- HN:42279055:start -->
+* [42279055](https://news.social-protocols.org/stats?id=42279055) #13 9 points 4 comments -> [Wasabi (S3 Storage) is down](https://status.wasabi.com)<!-- HN:42279055:end -->
