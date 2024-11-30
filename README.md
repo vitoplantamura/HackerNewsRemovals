@@ -165,4 +165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42277438](https://news.social-protocols.org/stats?id=42277438) #20 8 points 3 comments -> [Apple removes Active Noise Cancelling from AirPods Pro 2](https://discussions.apple.com/thread/255774193)<!-- HN:42277438:end -->
 #### **Saturday, November 30, 2024**
 <!-- HN:42277963:start -->
-* [42277963](https://news.social-protocols.org/stats?id=42277963) #22 80 points 101 comments -> [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)<!-- HN:42277963:end -->
+* [42277963](https://news.social-protocols.org/stats?id=42277963) #22 80 points 101 comments -> [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)<!-- HN:42277963:end --><!-- HN:42277714:start -->
+* [42277714](https://news.social-protocols.org/stats?id=42277714) #8 18 points 6 comments -> [Who is "Absolute Persistence", and why is their spyware on 600M computers?](https://www.absolute.com/platform/persistence/)<!-- HN:42277714:end -->
