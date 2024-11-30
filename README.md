@@ -163,3 +163,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42275784](https://news.social-protocols.org/stats?id=42275784) #5 56 points 31 comments -> [Javier Milei: "My contempt for the state is infinite"](https://www.economist.com/leaders/2024/11/28/javier-milei-my-contempt-for-the-state-is-infinite)<!-- HN:42275784:end --><!-- HN:42273780:start -->
 * [42273780](https://news.social-protocols.org/stats?id=42273780) #20 114 points 6 comments -> [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)<!-- HN:42273780:end --><!-- HN:42277438:start -->
 * [42277438](https://news.social-protocols.org/stats?id=42277438) #20 8 points 3 comments -> [Apple removes Active Noise Cancelling from AirPods Pro 2](https://discussions.apple.com/thread/255774193)<!-- HN:42277438:end -->
+#### **Saturday, November 30, 2024**
+<!-- HN:42277963:start -->
+* [42277963](https://news.social-protocols.org/stats?id=42277963) #22 80 points 101 comments -> [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)<!-- HN:42277963:end -->
