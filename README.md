@@ -165,8 +165,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42277438](https://news.social-protocols.org/stats?id=42277438) #20 8 points 3 comments -> [Apple removes Active Noise Cancelling from AirPods Pro 2](https://discussions.apple.com/thread/255774193)<!-- HN:42277438:end -->
 #### **Saturday, November 30, 2024**
 <!-- HN:42277963:start -->
-* [42277963](https://news.social-protocols.org/stats?id=42277963) #22 80 points 101 comments -> [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)<!-- HN:42277963:end --><!-- HN:42277714:start -->
-* [42277714](https://news.social-protocols.org/stats?id=42277714) #8 18 points 6 comments -> [Who is "Absolute Persistence", and why is their spyware on 600M computers?](https://www.absolute.com/platform/persistence/)<!-- HN:42277714:end --><!-- HN:42277931:start -->
+* [42277963](https://news.social-protocols.org/stats?id=42277963) #22 80 points 101 comments -> [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)<!-- HN:42277963:end --><!-- HN:42277931:start -->
 * [42277931](https://news.social-protocols.org/stats?id=42277931) #11 20 points 4 comments -> [Bluesky intends their indexing to be used by third parties](https://write.as/ulrikehahn/bridging-to-bluesky-the-open-social-web-consent-and-gdpr)<!-- HN:42277931:end --><!-- HN:42276700:start -->
 * [42276700](https://news.social-protocols.org/stats?id=42276700) #14 29 points 8 comments -> [Australian Online Safety Amendment (Social Media Minimum Age) Bill 2024](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7284)<!-- HN:42276700:end --><!-- HN:42275919:start -->
 * [42275919](https://news.social-protocols.org/stats?id=42275919) #13 105 points 58 comments -> [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)<!-- HN:42275919:end --><!-- HN:42244482:start -->
