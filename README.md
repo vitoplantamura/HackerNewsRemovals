@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, November 23, 2024**
-<!-- HN:42218757:start -->
-* [42218757](https://news.social-protocols.org/stats?id=42218757) #27 4 points 7 comments -> [Microsoft's New PC Looks Just Like a Mac Mini but Serves a Whole New Purpose](https://www.slashgear.com/1717092/microsoft-new-pc-mac-mini-lookalike/)<!-- HN:42218757:end --><!-- HN:42219036:start -->
-* [42219036](https://news.social-protocols.org/stats?id=42219036) #20 3 points 2 comments -> [Pulling gold out of e-waste suddenly becomes super-profitable](https://newatlas.com/materials/gold-electronic-waste/)<!-- HN:42219036:end --><!-- HN:42170144:start -->
-* [42170144](https://news.social-protocols.org/stats?id=42170144) #20 4 points 2 comments -> [Who Really Wrote the Bible: The Story of the Scribes](https://www.historytoday.com/archive/review/who-really-wrote-bible-william-m-schniedewind-review)<!-- HN:42170144:end --><!-- HN:42219646:start -->
-* [42219646](https://news.social-protocols.org/stats?id=42219646) #6 5 points 1 comments -> [UK Farmers Trigger the Revolution – Politely](https://morningporridge.com/blog/nations/uk/uk-farmers-trigger-the-revolution-politely/)<!-- HN:42219646:end --><!-- HN:42219695:start -->
-* [42219695](https://news.social-protocols.org/stats?id=42219695) #22 29 points 7 comments -> [Teslas Are Involved in More Fatal Accidents Than Any Other Brand, Study Finds](https://gizmodo.com/teslas-are-involved-in-more-fatal-accidents-than-any-other-brand-study-finds-2000528042)<!-- HN:42219695:end --><!-- HN:42220545:start -->
-* [42220545](https://news.social-protocols.org/stats?id=42220545) #13 8 points 0 comments -> [Texas approves Bible-infused curriculum for public schools](https://www.houstonpublicmedia.org/articles/news/education-news/2024/11/22/506917/texas-approves-bible-infused-curriculum-for-public-schools/)<!-- HN:42220545:end --><!-- HN:42220719:start -->
-* [42220719](https://news.social-protocols.org/stats?id=42220719) #21 7 points 0 comments -> [iFixit Shares M4 MacBook Pro Teardown](https://www.macrumors.com/2024/11/22/ifixit-shares-m4-macbook-pro-teardown/)<!-- HN:42220719:end --><!-- HN:42220062:start -->
-* [42220062](https://news.social-protocols.org/stats?id=42220062) #27 36 points 25 comments -> [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)<!-- HN:42220062:end --><!-- HN:42221615:start -->
-* [42221615](https://news.social-protocols.org/stats?id=42221615) #10 6 points 0 comments -> [Kent Overstreet restricted from participation in kernel development](https://lwn.net/Articles/999197/)<!-- HN:42221615:end -->
 #### **Sunday, November 24, 2024**
 <!-- HN:42224891:start -->
 * [42224891](https://news.social-protocols.org/stats?id=42224891) #26 7 points 6 comments -> [An Idaho County Will Publish Everyone's Ballots to Combat Mistrust](https://www.nytimes.com/2024/11/23/us/ballots-election-boise-idaho.html)<!-- HN:42224891:end --><!-- HN:42224398:start -->
