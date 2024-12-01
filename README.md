@@ -179,4 +179,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42282761](https://news.social-protocols.org/stats?id=42282761) #25 6 points 2 comments -> [NASA's X-59 plane is aiming for a sonic thump, not a boom](https://www.theregister.com/2024/11/30/nasa_x59_aircraft/)<!-- HN:42282761:end -->
 #### **Sunday, December 1, 2024**
 <!-- HN:42283949:start -->
-* [42283949](https://news.social-protocols.org/stats?id=42283949) #8 -> [Bluesky Quadruples Moderation Team](https://mindmatters.ai/brief/x-competitor-bluesky-quadruples-moderation-team/)<!-- HN:42283949:end -->
+* [42283949](https://news.social-protocols.org/stats?id=42283949) #8 -> [Bluesky Quadruples Moderation Team](https://mindmatters.ai/brief/x-competitor-bluesky-quadruples-moderation-team/)<!-- HN:42283949:end --><!-- HN:42285196:start -->
+* [42285196](https://news.social-protocols.org/stats?id=42285196) #5 12 points 3 comments -> [We need data engineering benchmarks for LLMs](https://structuredlabs.substack.com/p/why-we-need-data-engineering-benchmarks)<!-- HN:42285196:end -->
