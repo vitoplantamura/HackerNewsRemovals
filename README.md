@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, November 24, 2024**
-<!-- HN:42224891:start -->
-* [42224891](https://news.social-protocols.org/stats?id=42224891) #26 7 points 6 comments -> [An Idaho County Will Publish Everyone's Ballots to Combat Mistrust](https://www.nytimes.com/2024/11/23/us/ballots-election-boise-idaho.html)<!-- HN:42224891:end --><!-- HN:42224398:start -->
-* [42224398](https://news.social-protocols.org/stats?id=42224398) #24 51 points 40 comments -> [Wordpress.org released Secure Custom Fields "PRO" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)<!-- HN:42224398:end --><!-- HN:42226860:start -->
-* [42226860](https://news.social-protocols.org/stats?id=42226860) #13 8 points 2 comments -> [Win for Internet freedom: Google must sell its Chrome browser](https://tuta.com/blog/google-must-sell-chrome-in-antitrust-case)<!-- HN:42226860:end --><!-- HN:42226963:start -->
-* [42226963](https://news.social-protocols.org/stats?id=42226963) #4 5 points 4 comments -> [Not Using Copilot](https://macwright.com/2024/11/20/not-using-copilot)<!-- HN:42226963:end --><!-- HN:42227290:start -->
-* [42227290](https://news.social-protocols.org/stats?id=42227290) #12 14 points 10 comments -> [PHP Is Legacy, in 2024](https://developer.vonage.com/en/blog/php-is-legacy-in-2024)<!-- HN:42227290:end --><!-- HN:42227151:start -->
-* [42227151](https://news.social-protocols.org/stats?id=42227151) #20 20 points 40 comments -> [Homeless people to be given cash in first major UK trial to reduce poverty](https://www.theguardian.com/society/2024/nov/24/homeless-people-to-be-given-cash-in-first-major-uk-trial-to-reduce-poverty)<!-- HN:42227151:end --><!-- HN:42189125:start -->
-* [42189125](https://news.social-protocols.org/stats?id=42189125) #12 11 points 5 comments -> [Why Smart C Coders Love Lua](https://realtimelogic.com/articles/Using-Lua-for-Embedded-Development-vs-Traditional-C-Code)<!-- HN:42189125:end --><!-- HN:42222717:start -->
-* [42222717](https://news.social-protocols.org/stats?id=42222717) #16 145 points 42 comments -> [1 Dataset. 100 Visualizations](https://100.datavizproject.com/)<!-- HN:42222717:end --><!-- HN:42227996:start -->
-* [42227996](https://news.social-protocols.org/stats?id=42227996) #19 4 points 0 comments -> [C++ Standards Contributor Expelled for 'The Undefined Behavior Question'](https://m.slashdot.org/submission/17330375)<!-- HN:42227996:end --><!-- HN:42230240:start -->
-* [42230240](https://news.social-protocols.org/stats?id=42230240) #12 6 points 2 comments -> [Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding](https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/)<!-- HN:42230240:end --><!-- HN:42231007:start -->
-* [42231007](https://news.social-protocols.org/stats?id=42231007) #13 -> [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)<!-- HN:42231007:end -->
 #### **Monday, November 25, 2024**
 <!-- HN:42232430:start -->
 * [42232430](https://news.social-protocols.org/stats?id=42232430) #24 3 points 1 comments -> [Semantic Transpiler Agent](https://github.com/cyyeh/sta)<!-- HN:42232430:end --><!-- HN:42213485:start -->
