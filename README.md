@@ -177,3 +177,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42283123](https://news.social-protocols.org/stats?id=42283123) #6 14 points 1 comments -> ['I couldn't stop watching': stories of how porn obsession takes over lives](https://www.bbc.com/news/articles/cg57r337rvzo)<!-- HN:42283123:end --><!-- HN:42283331:start -->
 * [42283331](https://news.social-protocols.org/stats?id=42283331) #24 4 points 0 comments -> [Florida Man Who Spied on Verizon for China Gets 4 Years in Prison](https://gizmodo.com/florida-man-who-spied-on-verizon-for-china-gets-4-years-in-prison-2000529731)<!-- HN:42283331:end --><!-- HN:42282761:start -->
 * [42282761](https://news.social-protocols.org/stats?id=42282761) #25 6 points 2 comments -> [NASA's X-59 plane is aiming for a sonic thump, not a boom](https://www.theregister.com/2024/11/30/nasa_x59_aircraft/)<!-- HN:42282761:end -->
+#### **Sunday, December 1, 2024**
+<!-- HN:42283949:start -->
+* [42283949](https://news.social-protocols.org/stats?id=42283949) #8 -> [Bluesky Quadruples Moderation Team](https://mindmatters.ai/brief/x-competitor-bluesky-quadruples-moderation-team/)<!-- HN:42283949:end -->
