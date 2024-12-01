@@ -181,4 +181,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42283949:start -->
 * [42283949](https://news.social-protocols.org/stats?id=42283949) #8 -> [Bluesky Quadruples Moderation Team](https://mindmatters.ai/brief/x-competitor-bluesky-quadruples-moderation-team/)<!-- HN:42283949:end --><!-- HN:42285196:start -->
 * [42285196](https://news.social-protocols.org/stats?id=42285196) #5 12 points 3 comments -> [We need data engineering benchmarks for LLMs](https://structuredlabs.substack.com/p/why-we-need-data-engineering-benchmarks)<!-- HN:42285196:end --><!-- HN:42212377:start -->
-* [42212377](https://news.social-protocols.org/stats?id=42212377) #23 9 points 0 comments -> [Bodging GenServers Together](https://underjord.io/bodging-genservers-together.html)<!-- HN:42212377:end -->
+* [42212377](https://news.social-protocols.org/stats?id=42212377) #23 9 points 0 comments -> [Bodging GenServers Together](https://underjord.io/bodging-genservers-together.html)<!-- HN:42212377:end --><!-- HN:42279172:start -->
+* [42279172](https://news.social-protocols.org/stats?id=42279172) #15 320 points 571 comments -> [If not React, then what?](https://infrequently.org/2024/11/if-not-react-then-what/)<!-- HN:42279172:end -->
