@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42291365](https://news.social-protocols.org/stats?id=42291365) #30 6 points 1 comments -> ['Call of Duty: Modern Warfare' Rewrites the Highway of Death as a Russian Attack](https://www.newsweek.com/call-duty-modern-warfare-highway-death-russia-gulf-war-1468207)<!-- HN:42291365:end -->
 #### **Monday, December 2, 2024**
 <!-- HN:42292067:start -->
-* [42292067](https://news.social-protocols.org/stats?id=42292067) #26 48 points 23 comments -> [Feds: Tether Has Become a Money Laundering Tool for Mexican Drug Trafficker](https://www.404media.co/tether-has-become-a-massive-money-laundering-tool-for-mexican-drug-traffickers-feds-say/)<!-- HN:42292067:end -->
+* [42292067](https://news.social-protocols.org/stats?id=42292067) #26 48 points 23 comments -> [Feds: Tether Has Become a Money Laundering Tool for Mexican Drug Trafficker](https://www.404media.co/tether-has-become-a-massive-money-laundering-tool-for-mexican-drug-traffickers-feds-say/)<!-- HN:42292067:end --><!-- HN:42292235:start -->
+* [42292235](https://news.social-protocols.org/stats?id=42292235) #1 57 points 11 comments -> [ICP-Brasil: Mis-issued certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)<!-- HN:42292235:end -->
