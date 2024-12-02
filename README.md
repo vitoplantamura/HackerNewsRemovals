@@ -164,3 +164,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42290519](https://news.social-protocols.org/stats?id=42290519) #28 16 points 10 comments -> [Uber's Dark Descent: How Abandoning Innovation Hurt Drivers and Gouges Riders](https://viewfromthewing.com/uber-downward-spiral/)<!-- HN:42290519:end --><!-- HN:42291286:start -->
 * [42291286](https://news.social-protocols.org/stats?id=42291286) #9 25 points 13 comments -> [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)<!-- HN:42291286:end --><!-- HN:42291365:start -->
 * [42291365](https://news.social-protocols.org/stats?id=42291365) #30 6 points 1 comments -> ['Call of Duty: Modern Warfare' Rewrites the Highway of Death as a Russian Attack](https://www.newsweek.com/call-duty-modern-warfare-highway-death-russia-gulf-war-1468207)<!-- HN:42291365:end -->
+#### **Monday, December 2, 2024**
+<!-- HN:42292067:start -->
+* [42292067](https://news.social-protocols.org/stats?id=42292067) #26 48 points 23 comments -> [Feds: Tether Has Become a Money Laundering Tool for Mexican Drug Trafficker](https://www.404media.co/tether-has-become-a-massive-money-laundering-tool-for-mexican-drug-traffickers-feds-say/)<!-- HN:42292067:end -->
