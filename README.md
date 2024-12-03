@@ -157,3 +157,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42296228](https://news.social-protocols.org/stats?id=42296228) #30 11 points 27 comments -> [Carbon dioxide capture from open air using covalent organic frameworks](https://www.nature.com/articles/s41586-024-08080-x)<!-- HN:42296228:end --><!-- HN:42268307:start -->
 * [42268307](https://news.social-protocols.org/stats?id=42268307) #18 16 points 74 comments -> [Bury me on the moon, preferably on the far side](https://www.scientificamerican.com/article/why-i-want-to-be-buried-on-the-moon/)<!-- HN:42268307:end --><!-- HN:42299687:start -->
 * [42299687](https://news.social-protocols.org/stats?id=42299687) #7 10 points 4 comments -> [Natural soundscapes enhance mood recovery amid anthropogenic noise pollution](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311487)<!-- HN:42299687:end -->
+#### **Tuesday, December 3, 2024**
+<!-- HN:42302342:start -->
+* [42302342](https://news.social-protocols.org/stats?id=42302342) #25 27 points 12 comments -> [European Federation of Journalists to stop posting content on X](https://www.thelondoneconomic.com/news/media/european-federation-of-journalists-to-stop-posting-content-on-x-386598/)<!-- HN:42302342:end -->
