@@ -160,4 +160,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, December 3, 2024**
 <!-- HN:42302342:start -->
 * [42302342](https://news.social-protocols.org/stats?id=42302342) #25 27 points 12 comments -> [European Federation of Journalists to stop posting content on X](https://www.thelondoneconomic.com/news/media/european-federation-of-journalists-to-stop-posting-content-on-x-386598/)<!-- HN:42302342:end --><!-- HN:42304161:start -->
-* [42304161](https://news.social-protocols.org/stats?id=42304161) #16 10 points 7 comments -> [Jaguar Introduces Type 00](https://www.jaguar.com/copy-nothing/jaguar-type-00.html)<!-- HN:42304161:end -->
+* [42304161](https://news.social-protocols.org/stats?id=42304161) #16 10 points 7 comments -> [Jaguar Introduces Type 00](https://www.jaguar.com/copy-nothing/jaguar-type-00.html)<!-- HN:42304161:end --><!-- HN:42303903:start -->
+* [42303903](https://news.social-protocols.org/stats?id=42303903) #16 201 points 54 comments -> [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)<!-- HN:42303903:end -->
