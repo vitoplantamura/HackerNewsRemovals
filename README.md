@@ -159,4 +159,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42299687](https://news.social-protocols.org/stats?id=42299687) #7 10 points 4 comments -> [Natural soundscapes enhance mood recovery amid anthropogenic noise pollution](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311487)<!-- HN:42299687:end -->
 #### **Tuesday, December 3, 2024**
 <!-- HN:42302342:start -->
-* [42302342](https://news.social-protocols.org/stats?id=42302342) #25 27 points 12 comments -> [European Federation of Journalists to stop posting content on X](https://www.thelondoneconomic.com/news/media/european-federation-of-journalists-to-stop-posting-content-on-x-386598/)<!-- HN:42302342:end -->
+* [42302342](https://news.social-protocols.org/stats?id=42302342) #25 27 points 12 comments -> [European Federation of Journalists to stop posting content on X](https://www.thelondoneconomic.com/news/media/european-federation-of-journalists-to-stop-posting-content-on-x-386598/)<!-- HN:42302342:end --><!-- HN:42304161:start -->
+* [42304161](https://news.social-protocols.org/stats?id=42304161) #16 10 points 7 comments -> [Jaguar Introduces Type 00](https://www.jaguar.com/copy-nothing/jaguar-type-00.html)<!-- HN:42304161:end -->
