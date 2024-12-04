@@ -177,3 +177,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42309742](https://news.social-protocols.org/stats?id=42309742) #16 22 points 6 comments -> [Webhooks Are Harder Than They Seem](https://www.svix.com/blog/webhooks-are-harder-than-they-seem/)<!-- HN:42309742:end --><!-- HN:42308348:start -->
 * [42308348](https://news.social-protocols.org/stats?id=42308348) #26 59 points 17 comments -> [FTC Bans Location Data Company That Powers the Surveillance Ecosystem](https://www.404media.co/ftc-bans-location-data-company-that-powers-the-surveillance-ecosystem/)<!-- HN:42308348:end --><!-- HN:42311895:start -->
 * [42311895](https://news.social-protocols.org/stats?id=42311895) #15 14 points 2 comments -> [Why Did Intel Fire CEO Pat Gelsinger?](https://www.semiaccurate.com/2024/12/03/why-did-intel-fire-ceo-pat-gelsinger/)<!-- HN:42311895:end -->
+#### **Wednesday, December 4, 2024**
+<!-- HN:42311912:start -->
+* [42311912](https://news.social-protocols.org/stats?id=42311912) #25 33 points 40 comments -> [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)<!-- HN:42311912:end -->
