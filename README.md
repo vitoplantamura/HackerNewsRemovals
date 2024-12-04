@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, November 27, 2024**<!-- HN:42252041:start -->
-* [42252041](https://news.social-protocols.org/stats?id=42252041) #3 27 points 2 comments -> [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)<!-- HN:42252041:end --><!-- HN:42250429:start -->
-* [42250429](https://news.social-protocols.org/stats?id=42250429) #22 37 points 14 comments -> [Show HN: Clean Your Mac with a Script](https://github.com/hkdobrev/cleanmac)<!-- HN:42250429:end --><!-- HN:42252904:start -->
-* [42252904](https://news.social-protocols.org/stats?id=42252904) #21 4 points 0 comments -> [Why Rust and Its Memory Safety Lulls Developers into a False Sense of Security](https://www.darrenhorrocks.co.uk/why-rust-its-memory-safety-lulls-developers-into-false-sense-security/)<!-- HN:42252904:end --><!-- HN:42255043:start -->
-* [42255043](https://news.social-protocols.org/stats?id=42255043) #18 5 points 1 comments -> [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)<!-- HN:42255043:end --><!-- HN:42255092:start -->
-* [42255092](https://news.social-protocols.org/stats?id=42255092) #22 9 points 1 comments -> [SpaceX rocket explosion shredded the upper atmosphere](https://www.nature.com/articles/d41586-024-02841-4)<!-- HN:42255092:end --><!-- HN:42221152:start -->
-* [42221152](https://news.social-protocols.org/stats?id=42221152) #11 9 points 0 comments -> [Ancient forest world discovered 630ft down sinkhole in China](https://www.unilad.com/news/world-news/southwestern-china-sink-hole-ancient-forest-748290-20241121)<!-- HN:42221152:end --><!-- HN:42217963:start -->
-* [42217963](https://news.social-protocols.org/stats?id=42217963) #25 32 points 14 comments -> [Creating a social photo frame from scratch](https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame)<!-- HN:42217963:end --><!-- HN:42255266:start -->
-* [42255266](https://news.social-protocols.org/stats?id=42255266) #26 4 points 2 comments -> [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)<!-- HN:42255266:end --><!-- HN:42255559:start -->
-* [42255559](https://news.social-protocols.org/stats?id=42255559) #11 17 points 11 comments -> [How to build 99.999% uptime payment systems](https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment)<!-- HN:42255559:end --><!-- HN:42257124:start -->
-* [42257124](https://news.social-protocols.org/stats?id=42257124) #22 11 points 0 comments -> [Probable extinction of influenza B/Yamagata and its public health implications](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00066-1/fulltext)<!-- HN:42257124:end --><!-- HN:42260401:start -->
-* [42260401](https://news.social-protocols.org/stats?id=42260401) #9 5 points 1 comments -> [Factoring in the Chicken McNugget monoid (2017)](https://arxiv.org/abs/1709.01606)<!-- HN:42260401:end -->
 #### **Thursday, November 28, 2024**
 <!-- HN:42260998:start -->
 * [42260998](https://news.social-protocols.org/stats?id=42260998) #13 9 points 8 comments -> [Database full of 1000+ validated problems that can be turned into applications](https://www.bigideasdb.com/)<!-- HN:42260998:end --><!-- HN:42259950:start -->
