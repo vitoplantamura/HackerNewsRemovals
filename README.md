@@ -166,8 +166,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42308348](https://news.social-protocols.org/stats?id=42308348) #26 59 points 17 comments -> [FTC Bans Location Data Company That Powers the Surveillance Ecosystem](https://www.404media.co/ftc-bans-location-data-company-that-powers-the-surveillance-ecosystem/)<!-- HN:42308348:end --><!-- HN:42311895:start -->
 * [42311895](https://news.social-protocols.org/stats?id=42311895) #15 14 points 2 comments -> [Why Did Intel Fire CEO Pat Gelsinger?](https://www.semiaccurate.com/2024/12/03/why-did-intel-fire-ceo-pat-gelsinger/)<!-- HN:42311895:end -->
 #### **Wednesday, December 4, 2024**
-<!-- HN:42311912:start -->
-* [42311912](https://news.social-protocols.org/stats?id=42311912) #25 33 points 40 comments -> [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)<!-- HN:42311912:end --><!-- HN:42313450:start -->
+<!-- HN:42313450:start -->
 * [42313450](https://news.social-protocols.org/stats?id=42313450) #9 3 points 1 comments -> [Andy Grove: Rich, Famous, Smart and Wrong (2007)](https://www.science.org/content/blog-post/andy-grove-rich-famous-smart-and-wrong)<!-- HN:42313450:end --><!-- HN:42311764:start -->
 * [42311764](https://news.social-protocols.org/stats?id=42311764) #22 13 points 6 comments -> [Against 'Free Market Authoritarianism'](https://isonomiaquarterly.com/volume-2-issue-4/against-free-market-authoritarianism/)<!-- HN:42311764:end --><!-- HN:42235792:start -->
 * [42235792](https://news.social-protocols.org/stats?id=42235792) #28 124 points 99 comments -> [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)<!-- HN:42235792:end -->
