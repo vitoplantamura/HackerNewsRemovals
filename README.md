@@ -167,4 +167,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42311895](https://news.social-protocols.org/stats?id=42311895) #15 14 points 2 comments -> [Why Did Intel Fire CEO Pat Gelsinger?](https://www.semiaccurate.com/2024/12/03/why-did-intel-fire-ceo-pat-gelsinger/)<!-- HN:42311895:end -->
 #### **Wednesday, December 4, 2024**
 <!-- HN:42311912:start -->
-* [42311912](https://news.social-protocols.org/stats?id=42311912) #25 33 points 40 comments -> [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)<!-- HN:42311912:end -->
+* [42311912](https://news.social-protocols.org/stats?id=42311912) #25 33 points 40 comments -> [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)<!-- HN:42311912:end --><!-- HN:42313450:start -->
+* [42313450](https://news.social-protocols.org/stats?id=42313450) #9 3 points 1 comments -> [Andy Grove: Rich, Famous, Smart and Wrong (2007)](https://www.science.org/content/blog-post/andy-grove-rich-famous-smart-and-wrong)<!-- HN:42313450:end -->
