@@ -162,4 +162,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42319041](https://news.social-protocols.org/stats?id=42319041) #29 21 points 12 comments -> [Pisces: UK regulated market for private shares [pdf]](https://assets.publishing.service.gov.uk/media/67374daf12f25d730812722c/PISCES_consultation_response_November_2024_vf.pdf)<!-- HN:42319041:end -->
 #### **Thursday, December 5, 2024**
 <!-- HN:42323235:start -->
-* [42323235](https://news.social-protocols.org/stats?id=42323235) #23 75 points 45 comments -> [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)<!-- HN:42323235:end -->
+* [42323235](https://news.social-protocols.org/stats?id=42323235) #23 75 points 45 comments -> [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)<!-- HN:42323235:end --><!-- HN:42325697:start -->
+* [42325697](https://news.social-protocols.org/stats?id=42325697) #6 9 points 1 comments -> [Bitcoin Hits a Milestone: $100k](https://www.nytimes.com/2024/12/04/technology/bitcoin-price-record.html)<!-- HN:42325697:end -->
