@@ -160,3 +160,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42320015](https://news.social-protocols.org/stats?id=42320015) #11 3 points 1 comments -> [The Planning Machine (2014)](https://www.newyorker.com/magazine/2014/10/13/planning-machine)<!-- HN:42320015:end --><!-- HN:42261953:start -->
 * [42261953](https://news.social-protocols.org/stats?id=42261953) #14 7 points 1 comments -> [Quantum scars make their mark in graphene](https://www.nature.com/articles/d41586-024-03649-y)<!-- HN:42261953:end --><!-- HN:42319041:start -->
 * [42319041](https://news.social-protocols.org/stats?id=42319041) #29 21 points 12 comments -> [Pisces: UK regulated market for private shares [pdf]](https://assets.publishing.service.gov.uk/media/67374daf12f25d730812722c/PISCES_consultation_response_November_2024_vf.pdf)<!-- HN:42319041:end -->
+#### **Thursday, December 5, 2024**
+<!-- HN:42323235:start -->
+* [42323235](https://news.social-protocols.org/stats?id=42323235) #23 75 points 45 comments -> [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)<!-- HN:42323235:end -->
