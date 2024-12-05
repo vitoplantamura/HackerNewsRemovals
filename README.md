@@ -164,4 +164,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42323235:start -->
 * [42323235](https://news.social-protocols.org/stats?id=42323235) #23 75 points 45 comments -> [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)<!-- HN:42323235:end --><!-- HN:42325697:start -->
 * [42325697](https://news.social-protocols.org/stats?id=42325697) #6 9 points 1 comments -> [Bitcoin Hits a Milestone: $100k](https://www.nytimes.com/2024/12/04/technology/bitcoin-price-record.html)<!-- HN:42325697:end --><!-- HN:42285206:start -->
-* [42285206](https://news.social-protocols.org/stats?id=42285206) #22 56 points 66 comments -> [A made-up name is better than no name](https://mbuffett.com/posts/a-made-up-name)<!-- HN:42285206:end -->
+* [42285206](https://news.social-protocols.org/stats?id=42285206) #22 56 points 66 comments -> [A made-up name is better than no name](https://mbuffett.com/posts/a-made-up-name)<!-- HN:42285206:end --><!-- HN:42299042:start -->
+* [42299042](https://news.social-protocols.org/stats?id=42299042) #18 30 points 38 comments -> [Why are doctors wary of wearables?](https://www.bbc.com/news/articles/c79zpzdv4vno)<!-- HN:42299042:end -->
