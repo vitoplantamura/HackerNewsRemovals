@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42328851](https://news.social-protocols.org/stats?id=42328851) #18 -> [It's Time to Defend Ourselves in Space](https://medium.com/@ToryBrunoULA/its-time-to-defend-ourselves-in-space-69608ab3da8f)<!-- HN:42328851:end --><!-- HN:42331341:start -->
 * [42331341](https://news.social-protocols.org/stats?id=42331341) #14 15 points 1 comments -> [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)<!-- HN:42331341:end -->
 #### **Friday, December 6, 2024**<!-- HN:42334872:start -->
-* [42334872](https://news.social-protocols.org/stats?id=42334872) #3 58 points 7 comments -> [Assassination Is a Leaky Abstraction](https://coldwaters.substack.com/p/assassination-is-a-leaky-abstraction)<!-- HN:42334872:end -->
+* [42334872](https://news.social-protocols.org/stats?id=42334872) #3 58 points 7 comments -> [Assassination Is a Leaky Abstraction](https://coldwaters.substack.com/p/assassination-is-a-leaky-abstraction)<!-- HN:42334872:end --><!-- HN:42335287:start -->
+* [42335287](https://news.social-protocols.org/stats?id=42335287) #4 8 points 0 comments -> [Why housing shortages cause homelessness](https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/)<!-- HN:42335287:end -->
