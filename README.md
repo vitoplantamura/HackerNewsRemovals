@@ -157,3 +157,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42326346](https://news.social-protocols.org/stats?id=42326346) #27 6 points 3 comments -> [Building HTML in Go](https://templ.guide/)<!-- HN:42326346:end --><!-- HN:42328851:start -->
 * [42328851](https://news.social-protocols.org/stats?id=42328851) #18 -> [It's Time to Defend Ourselves in Space](https://medium.com/@ToryBrunoULA/its-time-to-defend-ourselves-in-space-69608ab3da8f)<!-- HN:42328851:end --><!-- HN:42331341:start -->
 * [42331341](https://news.social-protocols.org/stats?id=42331341) #14 15 points 1 comments -> [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)<!-- HN:42331341:end -->
+#### **Friday, December 6, 2024**
+<!-- HN:42334872:start -->
+* [42334872](https://news.social-protocols.org/stats?id=42334872) #4 -> [Assassination Is a Leaky Abstraction](https://coldwaters.substack.com/p/assassination-is-a-leaky-abstraction)<!-- HN:42334872:end -->
