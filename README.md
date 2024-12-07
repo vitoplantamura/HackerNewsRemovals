@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42346084:start -->
 * [42346084](https://news.social-protocols.org/stats?id=42346084) #5 3 points 1 comments -> [Times New Dumbass Font](https://timesnewdumbass.co)<!-- HN:42346084:end --><!-- HN:42345570:start -->
 * [42345570](https://news.social-protocols.org/stats?id=42345570) #19 65 points 40 comments -> [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)<!-- HN:42345570:end --><!-- HN:42345500:start -->
-* [42345500](https://news.social-protocols.org/stats?id=42345500) #1 115 points 28 comments -> [OpenWrt One router officially launched](https://openwrt.org/#openwrt_one_router_officially_launched)<!-- HN:42345500:end -->
+* [42345500](https://news.social-protocols.org/stats?id=42345500) #1 115 points 28 comments -> [OpenWrt One router officially launched](https://openwrt.org/#openwrt_one_router_officially_launched)<!-- HN:42345500:end --><!-- HN:42348664:start -->
+* [42348664](https://news.social-protocols.org/stats?id=42348664) #9 49 points 34 comments -> [Firefox Is the Superior Browser](https://asindu.xyz/posts/switching-to-firefox/)<!-- HN:42348664:end -->
