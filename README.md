@@ -136,3 +136,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42340035](https://news.social-protocols.org/stats?id=42340035) #2 13 points 6 comments -> [Zero-based regulation made Idaho the least regulated state in the US](https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states)<!-- HN:42340035:end --><!-- HN:42330055:start -->
 * [42330055](https://news.social-protocols.org/stats?id=42330055) #13 381 points 109 comments -> [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)<!-- HN:42330055:end --><!-- HN:42341566:start -->
 * [42341566](https://news.social-protocols.org/stats?id=42341566) #13 21 points 20 comments -> [Serverless VPN Self-hosted Be your own private on-demand VPN provider](https://serverlessvpn.com)<!-- HN:42341566:end -->
+#### **Saturday, December 7, 2024**
+<!-- HN:42346084:start -->
+* [42346084](https://news.social-protocols.org/stats?id=42346084) #5 3 points 1 comments -> [Times New Dumbass Font](https://timesnewdumbass.co)<!-- HN:42346084:end -->
