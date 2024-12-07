@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42341566](https://news.social-protocols.org/stats?id=42341566) #13 21 points 20 comments -> [Serverless VPN Self-hosted Be your own private on-demand VPN provider](https://serverlessvpn.com)<!-- HN:42341566:end -->
 #### **Saturday, December 7, 2024**
 <!-- HN:42346084:start -->
-* [42346084](https://news.social-protocols.org/stats?id=42346084) #5 3 points 1 comments -> [Times New Dumbass Font](https://timesnewdumbass.co)<!-- HN:42346084:end -->
+* [42346084](https://news.social-protocols.org/stats?id=42346084) #5 3 points 1 comments -> [Times New Dumbass Font](https://timesnewdumbass.co)<!-- HN:42346084:end --><!-- HN:42345570:start -->
+* [42345570](https://news.social-protocols.org/stats?id=42345570) #19 65 points 40 comments -> [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)<!-- HN:42345570:end -->
