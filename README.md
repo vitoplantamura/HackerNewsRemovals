@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42350672](https://news.social-protocols.org/stats?id=42350672) #30 54 points 53 comments -> [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)<!-- HN:42350672:end -->
 #### **Sunday, December 8, 2024**
 <!-- HN:42286808:start -->
-* [42286808](https://news.social-protocols.org/stats?id=42286808) #17 6 points 1 comments -> [6 Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)<!-- HN:42286808:end -->
+* [42286808](https://news.social-protocols.org/stats?id=42286808) #17 6 points 1 comments -> [6 Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)<!-- HN:42286808:end --><!-- HN:42353983:start -->
+* [42353983](https://news.social-protocols.org/stats?id=42353983) #22 17 points 11 comments -> [Legendary video game developer imagines a future where GPUs don't need PCs](https://www.tomshardware.com/pc-components/gpus/legendary-video-game-developer-imagines-a-future-where-gpus-dont-need-pcs-john-carmack-envisions-a-gpu-with-linux-onboard-so-you-would-just-add-power-and-a-display)<!-- HN:42353983:end -->
