@@ -137,3 +137,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42351490](https://news.social-protocols.org/stats?id=42351490) #6 31 points 2 comments -> [Windows on ARM Gets Major Gaming Boost with Prism Update](https://windowsonarm.org/blog/66031766-b200-4b5f-a707-28a2a7888da9)<!-- HN:42351490:end --><!-- HN:42352682:start -->
 * [42352682](https://news.social-protocols.org/stats?id=42352682) #13 27 points 4 comments -> [Five of the best science fiction books of 2024](https://www.theguardian.com/books/2024/dec/02/five-of-the-best-science-fiction-books-of-2024)<!-- HN:42352682:end --><!-- HN:42350672:start -->
 * [42350672](https://news.social-protocols.org/stats?id=42350672) #30 54 points 53 comments -> [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)<!-- HN:42350672:end -->
+#### **Sunday, December 8, 2024**
+<!-- HN:42286808:start -->
+* [42286808](https://news.social-protocols.org/stats?id=42286808) #17 6 points 1 comments -> [6 Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)<!-- HN:42286808:end -->
