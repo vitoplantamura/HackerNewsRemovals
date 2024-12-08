@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, December 1, 2024**
-<!-- HN:42283949:start -->
-* [42283949](https://news.social-protocols.org/stats?id=42283949) #8 -> [Bluesky Quadruples Moderation Team](https://mindmatters.ai/brief/x-competitor-bluesky-quadruples-moderation-team/)<!-- HN:42283949:end --><!-- HN:42285196:start -->
-* [42285196](https://news.social-protocols.org/stats?id=42285196) #5 12 points 3 comments -> [We need data engineering benchmarks for LLMs](https://structuredlabs.substack.com/p/why-we-need-data-engineering-benchmarks)<!-- HN:42285196:end --><!-- HN:42212377:start -->
-* [42212377](https://news.social-protocols.org/stats?id=42212377) #23 9 points 0 comments -> [Bodging GenServers Together](https://underjord.io/bodging-genservers-together.html)<!-- HN:42212377:end --><!-- HN:42254146:start -->
-* [42254146](https://news.social-protocols.org/stats?id=42254146) #15 56 points 31 comments -> [IE7 and IE7 (2005)](https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/)<!-- HN:42254146:end --><!-- HN:42286306:start -->
-* [42286306](https://news.social-protocols.org/stats?id=42286306) #26 5 points 1 comments -> [Day 1 – Advent of Code 2024](https://adventofcode.com/2024/day/1)<!-- HN:42286306:end --><!-- HN:42286133:start -->
-* [42286133](https://news.social-protocols.org/stats?id=42286133) #13 90 points 83 comments -> [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)<!-- HN:42286133:end --><!-- HN:42286035:start -->
-* [42286035](https://news.social-protocols.org/stats?id=42286035) #18 53 points 19 comments -> [Canon ships its first nanoprint lithography machine, rivals ASML](https://www.datacenterdynamics.com/en/news/canon-ships-its-first-nanoprint-lithography-machine-rivals-asml/)<!-- HN:42286035:end --><!-- HN:42285467:start -->
-* [42285467](https://news.social-protocols.org/stats?id=42285467) #25 41 points 7 comments -> [Office CMBS Delinquency Rate Spikes to 10.4%, Just Below Worst of GFC Meltdown](https://wolfstreet.com/2024/11/30/office-cmbs-delinquency-rate-spikes-to-10-4-just-below-worst-of-financial-crisis-cre-meltdown-fastest-2-year-spike-ever/)<!-- HN:42285467:end --><!-- HN:42287946:start -->
-* [42287946](https://news.social-protocols.org/stats?id=42287946) #14 3 points 0 comments -> [ChatGPT Learned to Reason [video]](https://www.youtube.com/watch?v=PvDaPeQjxOE)<!-- HN:42287946:end --><!-- HN:42288372:start -->
-* [42288372](https://news.social-protocols.org/stats?id=42288372) #3 30 points 3 comments -> [Advent of No-Code 2024](https://www.adventofnocode.io/)<!-- HN:42288372:end --><!-- HN:42288948:start -->
-* [42288948](https://news.social-protocols.org/stats?id=42288948) #27 15 points 3 comments -> [America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)<!-- HN:42288948:end --><!-- HN:42289143:start -->
-* [42289143](https://news.social-protocols.org/stats?id=42289143) #5 6 points 2 comments -> [Show HN: Open-source widget to embed OpenAI Assistant on your website](https://github.com/widgetplatform/widget-oa)<!-- HN:42289143:end --><!-- HN:42290519:start -->
-* [42290519](https://news.social-protocols.org/stats?id=42290519) #28 16 points 10 comments -> [Uber's Dark Descent: How Abandoning Innovation Hurt Drivers and Gouges Riders](https://viewfromthewing.com/uber-downward-spiral/)<!-- HN:42290519:end --><!-- HN:42291286:start -->
-* [42291286](https://news.social-protocols.org/stats?id=42291286) #9 25 points 13 comments -> [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)<!-- HN:42291286:end --><!-- HN:42291365:start -->
-* [42291365](https://news.social-protocols.org/stats?id=42291365) #30 6 points 1 comments -> ['Call of Duty: Modern Warfare' Rewrites the Highway of Death as a Russian Attack](https://www.newsweek.com/call-duty-modern-warfare-highway-death-russia-gulf-war-1468207)<!-- HN:42291365:end -->
 #### **Monday, December 2, 2024**
 <!-- HN:42292067:start -->
 * [42292067](https://news.social-protocols.org/stats?id=42292067) #26 48 points 23 comments -> [Feds: Tether Has Become a Money Laundering Tool for Mexican Drug Trafficker](https://www.404media.co/tether-has-become-a-massive-money-laundering-tool-for-mexican-drug-traffickers-feds-say/)<!-- HN:42292067:end --><!-- HN:42292235:start -->
