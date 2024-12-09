@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, December 2, 2024**
-<!-- HN:42292067:start -->
-* [42292067](https://news.social-protocols.org/stats?id=42292067) #26 48 points 23 comments -> [Feds: Tether Has Become a Money Laundering Tool for Mexican Drug Trafficker](https://www.404media.co/tether-has-become-a-massive-money-laundering-tool-for-mexican-drug-traffickers-feds-say/)<!-- HN:42292067:end --><!-- HN:42292235:start -->
-* [42292235](https://news.social-protocols.org/stats?id=42292235) #1 57 points 11 comments -> [ICP-Brasil: Mis-issued certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)<!-- HN:42292235:end --><!-- HN:42292170:start -->
-* [42292170](https://news.social-protocols.org/stats?id=42292170) #15 50 points 11 comments -> [Amazon Workers on Strike from Black Friday to Cyber Monday](https://www.wfxrtv.com/homepage-video/amazon-worker-strike-expected/)<!-- HN:42292170:end --><!-- HN:42257432:start -->
-* [42257432](https://news.social-protocols.org/stats?id=42257432) #30 7 points 4 comments -> [Show HN: A program to learn phrases in multiple languages at once](https://fluent.monster/)<!-- HN:42257432:end --><!-- HN:42292204:start -->
-* [42292204](https://news.social-protocols.org/stats?id=42292204) #20 40 points 14 comments -> [Discovery of CVE-2024-2550 (Palo Alto)](https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/)<!-- HN:42292204:end --><!-- HN:42262791:start -->
-* [42262791](https://news.social-protocols.org/stats?id=42262791) #26 14 points 18 comments -> ['The Endless Refrain' asks: Do we even want new music anymore?](https://www.washingtonpost.com/books/2024/11/26/endless-refrain-nostalgia-music-david-rowell-review/)<!-- HN:42262791:end --><!-- HN:42290245:start -->
-* [42290245](https://news.social-protocols.org/stats?id=42290245) #28 65 points 42 comments -> [IBM RISC System/6000 Family – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family)<!-- HN:42290245:end --><!-- HN:42248272:start -->
-* [42248272](https://news.social-protocols.org/stats?id=42248272) #26 127 points 197 comments -> [Intel Gets Up to $7.9B Award for U.S. Chip-Plant Construction](https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1)<!-- HN:42248272:end --><!-- HN:42264595:start -->
-* [42264595](https://news.social-protocols.org/stats?id=42264595) #17 5 points 1 comments -> [Gene behind orange fur in cats found at last](https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last)<!-- HN:42264595:end --><!-- HN:42296228:start -->
-* [42296228](https://news.social-protocols.org/stats?id=42296228) #30 11 points 27 comments -> [Carbon dioxide capture from open air using covalent organic frameworks](https://www.nature.com/articles/s41586-024-08080-x)<!-- HN:42296228:end --><!-- HN:42268307:start -->
-* [42268307](https://news.social-protocols.org/stats?id=42268307) #18 16 points 74 comments -> [Bury me on the moon, preferably on the far side](https://www.scientificamerican.com/article/why-i-want-to-be-buried-on-the-moon/)<!-- HN:42268307:end --><!-- HN:42299687:start -->
-* [42299687](https://news.social-protocols.org/stats?id=42299687) #7 10 points 4 comments -> [Natural soundscapes enhance mood recovery amid anthropogenic noise pollution](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311487)<!-- HN:42299687:end -->
 #### **Tuesday, December 3, 2024**
 <!-- HN:42302342:start -->
 * [42302342](https://news.social-protocols.org/stats?id=42302342) #25 27 points 12 comments -> [European Federation of Journalists to stop posting content on X](https://www.thelondoneconomic.com/news/media/european-federation-of-journalists-to-stop-posting-content-on-x-386598/)<!-- HN:42302342:end --><!-- HN:42304161:start -->
