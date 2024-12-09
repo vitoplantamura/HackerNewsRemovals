@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, December 9, 2024**
 <!-- HN:42362259:start -->
 * [42362259](https://news.social-protocols.org/stats?id=42362259) #2 -> [A Man Was Murdered in Cold Blood and You're Laughing?](https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america)<!-- HN:42362259:end --><!-- HN:42362291:start -->
-* [42362291](https://news.social-protocols.org/stats?id=42362291) #20 -> [Records Seized by Israel Show Hamas Presence in U.N. Schools](https://www.nytimes.com/2024/12/08/world/middleeast/hamas-unrwa-schools.html)<!-- HN:42362291:end -->
+* [42362291](https://news.social-protocols.org/stats?id=42362291) #20 -> [Records Seized by Israel Show Hamas Presence in U.N. Schools](https://www.nytimes.com/2024/12/08/world/middleeast/hamas-unrwa-schools.html)<!-- HN:42362291:end --><!-- HN:42362970:start -->
+* [42362970](https://news.social-protocols.org/stats?id=42362970) #6 24 points 5 comments -> [Lethal Dose of 55 Substances](https://www.visualistan.com/2021/03/the-lethal-doses-of-55-substances.html)<!-- HN:42362970:end -->
