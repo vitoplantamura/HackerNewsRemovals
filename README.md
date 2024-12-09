@@ -143,3 +143,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42360338](https://news.social-protocols.org/stats?id=42360338) #4 10 points 8 comments -> [In wake of CEO shooting, Amazon creates Executive Protection role](https://www.amazon.jobs/en/jobs/2789178/executive-protection-manager-protective-services-operations)<!-- HN:42360338:end --><!-- HN:42360116:start -->
 * [42360116](https://news.social-protocols.org/stats?id=42360116) #18 13 points 4 comments -> [Defusing AGPL-3 with Batch Processing](https://flameeyes.blog/2024/12/08/defusing-agpl-3-with-batch-processing/)<!-- HN:42360116:end --><!-- HN:42360237:start -->
 * [42360237](https://news.social-protocols.org/stats?id=42360237) #11 19 points 17 comments -> [Difference in Gastrointestinal Cancer Risk and Mortality by Dietary Patterns](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuae090/7715995)<!-- HN:42360237:end -->
+#### **Monday, December 9, 2024**
+<!-- HN:42362259:start -->
+* [42362259](https://news.social-protocols.org/stats?id=42362259) #2 -> [A Man Was Murdered in Cold Blood and You're Laughing?](https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america)<!-- HN:42362259:end -->
