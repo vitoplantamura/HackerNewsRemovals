@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42360237](https://news.social-protocols.org/stats?id=42360237) #11 19 points 17 comments -> [Difference in Gastrointestinal Cancer Risk and Mortality by Dietary Patterns](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuae090/7715995)<!-- HN:42360237:end -->
 #### **Monday, December 9, 2024**
 <!-- HN:42362259:start -->
-* [42362259](https://news.social-protocols.org/stats?id=42362259) #2 -> [A Man Was Murdered in Cold Blood and You're Laughing?](https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america)<!-- HN:42362259:end -->
+* [42362259](https://news.social-protocols.org/stats?id=42362259) #2 -> [A Man Was Murdered in Cold Blood and You're Laughing?](https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america)<!-- HN:42362259:end --><!-- HN:42362291:start -->
+* [42362291](https://news.social-protocols.org/stats?id=42362291) #20 -> [Records Seized by Israel Show Hamas Presence in U.N. Schools](https://www.nytimes.com/2024/12/08/world/middleeast/hamas-unrwa-schools.html)<!-- HN:42362291:end -->
