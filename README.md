@@ -144,8 +144,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42360116](https://news.social-protocols.org/stats?id=42360116) #18 13 points 4 comments -> [Defusing AGPL-3 with Batch Processing](https://flameeyes.blog/2024/12/08/defusing-agpl-3-with-batch-processing/)<!-- HN:42360116:end --><!-- HN:42360237:start -->
 * [42360237](https://news.social-protocols.org/stats?id=42360237) #11 19 points 17 comments -> [Difference in Gastrointestinal Cancer Risk and Mortality by Dietary Patterns](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuae090/7715995)<!-- HN:42360237:end -->
 #### **Monday, December 9, 2024**
-<!-- HN:42362259:start -->
-* [42362259](https://news.social-protocols.org/stats?id=42362259) #2 -> [A Man Was Murdered in Cold Blood and You're Laughing?](https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america)<!-- HN:42362259:end --><!-- HN:42362291:start -->
+<!-- HN:42362291:start -->
 * [42362291](https://news.social-protocols.org/stats?id=42362291) #20 -> [Records Seized by Israel Show Hamas Presence in U.N. Schools](https://www.nytimes.com/2024/12/08/world/middleeast/hamas-unrwa-schools.html)<!-- HN:42362291:end --><!-- HN:42362970:start -->
 * [42362970](https://news.social-protocols.org/stats?id=42362970) #6 24 points 5 comments -> [Lethal Dose of 55 Substances](https://www.visualistan.com/2021/03/the-lethal-doses-of-55-substances.html)<!-- HN:42362970:end --><!-- HN:42363087:start -->
 * [42363087](https://news.social-protocols.org/stats?id=42363087) #5 8 points 9 comments -> [How to Create Intelligently Self-Modifying Software (Framework Release Soon)](https://github.com/EricArthurBlair1010/semantic_inference_programming_information)<!-- HN:42363087:end --><!-- HN:42363592:start -->
