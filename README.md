@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42372508:start -->
 * [42372508](https://news.social-protocols.org/stats?id=42372508) #25 6 points 5 comments -> [Giant Study Links Drinking Coffee with Almost 2 Extra Years of Life](https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life)<!-- HN:42372508:end --><!-- HN:42374469:start -->
 * [42374469](https://news.social-protocols.org/stats?id=42374469) #4 8 points 0 comments -> [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)<!-- HN:42374469:end --><!-- HN:42375632:start -->
-* [42375632](https://news.social-protocols.org/stats?id=42375632) #6 12 points 3 comments -> [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)<!-- HN:42375632:end -->
+* [42375632](https://news.social-protocols.org/stats?id=42375632) #6 12 points 3 comments -> [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)<!-- HN:42375632:end --><!-- HN:42316212:start -->
+* [42316212](https://news.social-protocols.org/stats?id=42316212) #17 7 points 1 comments -> [Piskel – Free online editor for animated sprites and pixel art](https://www.piskelapp.com/)<!-- HN:42316212:end -->
