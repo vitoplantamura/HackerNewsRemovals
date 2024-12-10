@@ -149,4 +149,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42371166](https://news.social-protocols.org/stats?id=42371166) #15 -> [Healthcare CEO killer studied computer science at UPenn, founded game dev club](https://www.bbc.com/news/live/crk0ep61p2mt)<!-- HN:42371166:end -->
 #### **Tuesday, December 10, 2024**
 <!-- HN:42372508:start -->
-* [42372508](https://news.social-protocols.org/stats?id=42372508) #25 6 points 5 comments -> [Giant Study Links Drinking Coffee with Almost 2 Extra Years of Life](https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life)<!-- HN:42372508:end -->
+* [42372508](https://news.social-protocols.org/stats?id=42372508) #25 6 points 5 comments -> [Giant Study Links Drinking Coffee with Almost 2 Extra Years of Life](https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life)<!-- HN:42372508:end --><!-- HN:42374469:start -->
+* [42374469](https://news.social-protocols.org/stats?id=42374469) #4 8 points 0 comments -> [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)<!-- HN:42374469:end -->
