@@ -132,3 +132,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42375632](https://news.social-protocols.org/stats?id=42375632) #6 12 points 3 comments -> [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)<!-- HN:42375632:end --><!-- HN:42316212:start -->
 * [42316212](https://news.social-protocols.org/stats?id=42316212) #17 7 points 1 comments -> [Piskel – Free online editor for animated sprites and pixel art](https://www.piskelapp.com/)<!-- HN:42316212:end --><!-- HN:42379435:start -->
 * [42379435](https://news.social-protocols.org/stats?id=42379435) #25 5 points 4 comments -> [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)<!-- HN:42379435:end -->
+#### **Wednesday, December 11, 2024**
+<!-- HN:42385524:start -->
+* [42385524](https://news.social-protocols.org/stats?id=42385524) #13 15 points 7 comments -> [The Death of the Stubborn Developer](https://sourcegraph.com/blog/the-death-of-the-stubborn-developer)<!-- HN:42385524:end -->
