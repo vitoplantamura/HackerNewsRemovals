@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42391483](https://news.social-protocols.org/stats?id=42391483) #14 29 points 13 comments -> [One of our clients hasn't paid us $130k – or "Why Every Contract Clause Matters"](https://www.apsis.io/blog/2024/12/11/clauses-matter/)<!-- HN:42391483:end --><!-- HN:42386906:start -->
 * [42386906](https://news.social-protocols.org/stats?id=42386906) #28 5 points 1 comments -> [A chatbot hinted a kid should kill his parentts over screen time limits: lawsui](https://text.npr.org/nx-s1-5222574)<!-- HN:42386906:end --><!-- HN:42391486:start -->
 * [42391486](https://news.social-protocols.org/stats?id=42391486) #27 31 points 40 comments -> [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)<!-- HN:42391486:end -->
+#### **Thursday, December 12, 2024**
+<!-- HN:42350780:start -->
+* [42350780](https://news.social-protocols.org/stats?id=42350780) #29 9 points 2 comments -> [WW1 dazzle camouflage was not as well understood as it might have been](https://phys.org/news/2024-12-world-war-dazzle-camouflage-understood.html)<!-- HN:42350780:end -->
