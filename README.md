@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42386906](https://news.social-protocols.org/stats?id=42386906) #28 5 points 1 comments -> [A chatbot hinted a kid should kill his parentts over screen time limits: lawsui](https://text.npr.org/nx-s1-5222574)<!-- HN:42386906:end -->
 #### **Thursday, December 12, 2024**
 <!-- HN:42350780:start -->
-* [42350780](https://news.social-protocols.org/stats?id=42350780) #29 9 points 2 comments -> [WW1 dazzle camouflage was not as well understood as it might have been](https://phys.org/news/2024-12-world-war-dazzle-camouflage-understood.html)<!-- HN:42350780:end -->
+* [42350780](https://news.social-protocols.org/stats?id=42350780) #29 9 points 2 comments -> [WW1 dazzle camouflage was not as well understood as it might have been](https://phys.org/news/2024-12-world-war-dazzle-camouflage-understood.html)<!-- HN:42350780:end --><!-- HN:42348406:start -->
+* [42348406](https://news.social-protocols.org/stats?id=42348406) #7 71 points 6 comments -> [12,419 days of Strandbeest evolution [video]](https://www.youtube.com/watch?v=IFaAjR_RRJs)<!-- HN:42348406:end -->
