@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, December 5, 2024**
-<!-- HN:42323235:start -->
-* [42323235](https://news.social-protocols.org/stats?id=42323235) #23 75 points 45 comments -> [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)<!-- HN:42323235:end --><!-- HN:42325697:start -->
-* [42325697](https://news.social-protocols.org/stats?id=42325697) #6 9 points 1 comments -> [Bitcoin Hits a Milestone: $100k](https://www.nytimes.com/2024/12/04/technology/bitcoin-price-record.html)<!-- HN:42325697:end --><!-- HN:42285206:start -->
-* [42285206](https://news.social-protocols.org/stats?id=42285206) #22 56 points 66 comments -> [A made-up name is better than no name](https://mbuffett.com/posts/a-made-up-name)<!-- HN:42285206:end --><!-- HN:42299042:start -->
-* [42299042](https://news.social-protocols.org/stats?id=42299042) #18 30 points 38 comments -> [Why are doctors wary of wearables?](https://www.bbc.com/news/articles/c79zpzdv4vno)<!-- HN:42299042:end --><!-- HN:42325922:start -->
-* [42325922](https://news.social-protocols.org/stats?id=42325922) #6 5 points 0 comments -> [Amnesty change genocide definition in order to attack Israel](https://twitter.com/MarkGoldfeder/status/1864494075220509115)<!-- HN:42325922:end --><!-- HN:42326287:start -->
-* [42326287](https://news.social-protocols.org/stats?id=42326287) #26 7 points 3 comments -> [Bitcoin surges past $100k for first time](https://www.bbc.co.uk/news/articles/cqj0wkwv1x2o)<!-- HN:42326287:end --><!-- HN:42249474:start -->
-* [42249474](https://news.social-protocols.org/stats?id=42249474) #5 25 points 15 comments -> [Licking this "lollipop" will let you taste virtual flavors](https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/)<!-- HN:42249474:end --><!-- HN:42327005:start -->
-* [42327005](https://news.social-protocols.org/stats?id=42327005) #17 21 points 40 comments -> [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)<!-- HN:42327005:end --><!-- HN:42326346:start -->
-* [42326346](https://news.social-protocols.org/stats?id=42326346) #27 6 points 3 comments -> [Building HTML in Go](https://templ.guide/)<!-- HN:42326346:end --><!-- HN:42328851:start -->
-* [42328851](https://news.social-protocols.org/stats?id=42328851) #18 -> [It's Time to Defend Ourselves in Space](https://medium.com/@ToryBrunoULA/its-time-to-defend-ourselves-in-space-69608ab3da8f)<!-- HN:42328851:end --><!-- HN:42331341:start -->
-* [42331341](https://news.social-protocols.org/stats?id=42331341) #14 15 points 1 comments -> [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)<!-- HN:42331341:end -->
 #### **Friday, December 6, 2024**<!-- HN:42334872:start -->
 * [42334872](https://news.social-protocols.org/stats?id=42334872) #3 58 points 7 comments -> [Assassination Is a Leaky Abstraction](https://coldwaters.substack.com/p/assassination-is-a-leaky-abstraction)<!-- HN:42334872:end --><!-- HN:42339071:start -->
 * [42339071](https://news.social-protocols.org/stats?id=42339071) #29 4 points 0 comments -> [Former zynga CEO turns into a pro-genocide activist](https://twitter.com/StopArabHate/status/1864725936874176618)<!-- HN:42339071:end --><!-- HN:42340035:start -->
