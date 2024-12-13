@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, December 6, 2024**<!-- HN:42334872:start -->
-* [42334872](https://news.social-protocols.org/stats?id=42334872) #3 58 points 7 comments -> [Assassination Is a Leaky Abstraction](https://coldwaters.substack.com/p/assassination-is-a-leaky-abstraction)<!-- HN:42334872:end --><!-- HN:42339071:start -->
-* [42339071](https://news.social-protocols.org/stats?id=42339071) #29 4 points 0 comments -> [Former zynga CEO turns into a pro-genocide activist](https://twitter.com/StopArabHate/status/1864725936874176618)<!-- HN:42339071:end --><!-- HN:42340035:start -->
-* [42340035](https://news.social-protocols.org/stats?id=42340035) #2 13 points 6 comments -> [Zero-based regulation made Idaho the least regulated state in the US](https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states)<!-- HN:42340035:end --><!-- HN:42330055:start -->
-* [42330055](https://news.social-protocols.org/stats?id=42330055) #13 381 points 109 comments -> [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)<!-- HN:42330055:end --><!-- HN:42341566:start -->
-* [42341566](https://news.social-protocols.org/stats?id=42341566) #13 21 points 20 comments -> [Serverless VPN Self-hosted Be your own private on-demand VPN provider](https://serverlessvpn.com)<!-- HN:42341566:end -->
 #### **Saturday, December 7, 2024**
 <!-- HN:42346084:start -->
 * [42346084](https://news.social-protocols.org/stats?id=42346084) #5 3 points 1 comments -> [Times New Dumbass Font](https://timesnewdumbass.co)<!-- HN:42346084:end --><!-- HN:42345570:start -->

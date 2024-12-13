@@ -84,3 +84,9 @@
 * [42326346](https://news.ycombinator.com/item?id=42326346) #27 6 points 3 comments -> [Building HTML in Go](https://templ.guide/)<!-- HN:42326346:end --><!-- HN:42328851:start -->
 * [42328851](https://news.ycombinator.com/item?id=42328851) #18 -> [It's Time to Defend Ourselves in Space](https://medium.com/@ToryBrunoULA/its-time-to-defend-ourselves-in-space-69608ab3da8f)<!-- HN:42328851:end --><!-- HN:42331341:start -->
 * [42331341](https://news.ycombinator.com/item?id=42331341) #14 15 points 1 comments -> [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)<!-- HN:42331341:end -->
+#### **Friday, December 6, 2024**<!-- HN:42334872:start -->
+* [42334872](https://news.ycombinator.com/item?id=42334872) #3 58 points 7 comments -> [Assassination Is a Leaky Abstraction](https://coldwaters.substack.com/p/assassination-is-a-leaky-abstraction)<!-- HN:42334872:end --><!-- HN:42339071:start -->
+* [42339071](https://news.ycombinator.com/item?id=42339071) #29 4 points 0 comments -> [Former zynga CEO turns into a pro-genocide activist](https://twitter.com/StopArabHate/status/1864725936874176618)<!-- HN:42339071:end --><!-- HN:42340035:start -->
+* [42340035](https://news.ycombinator.com/item?id=42340035) #2 13 points 6 comments -> [Zero-based regulation made Idaho the least regulated state in the US](https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states)<!-- HN:42340035:end --><!-- HN:42330055:start -->
+* [42330055](https://news.ycombinator.com/item?id=42330055) #13 381 points 109 comments -> [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)<!-- HN:42330055:end --><!-- HN:42341566:start -->
+* [42341566](https://news.ycombinator.com/item?id=42341566) #13 21 points 20 comments -> [Serverless VPN Self-hosted Be your own private on-demand VPN provider](https://serverlessvpn.com)<!-- HN:42341566:end -->
