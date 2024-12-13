@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42316470:start -->
 * [42316470](https://news.social-protocols.org/stats?id=42316470) #14 83 points 49 comments -> [Misperception of the facial appearance that the opposite-sex desires](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310835)<!-- HN:42316470:end --><!-- HN:42407619:start -->
 * [42407619](https://news.social-protocols.org/stats?id=42407619) #27 9 points 2 comments -> [The dirty secret about OnlyFans: it's not hot to be a prostitute](https://unherd.com/2024/12/the-dirty-secret-about-onlyfans/)<!-- HN:42407619:end --><!-- HN:42378166:start -->
-* [42378166](https://news.social-protocols.org/stats?id=42378166) #24 38 points 7 comments -> [When the future arrived, it felt ordinary](https://worksinprogress.co/issue/the-world-of-tomorrow/)<!-- HN:42378166:end -->
+* [42378166](https://news.social-protocols.org/stats?id=42378166) #24 38 points 7 comments -> [When the future arrived, it felt ordinary](https://worksinprogress.co/issue/the-world-of-tomorrow/)<!-- HN:42378166:end --><!-- HN:42408202:start -->
+* [42408202](https://news.social-protocols.org/stats?id=42408202) #1 142 points 32 comments -> [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)<!-- HN:42408202:end -->
