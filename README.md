@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42401821](https://news.social-protocols.org/stats?id=42401821) #26 7 points 1 comments -> [Attacker Has Techdirt Reclassified as Phishing Site](https://www.techdirt.com/2024/12/12/attacker-has-techdirt-reclassified-as-phishing-site-proving-masnicks-impossibility-law-once-again/)<!-- HN:42401821:end -->
 #### **Friday, December 13, 2024**
 <!-- HN:42316470:start -->
-* [42316470](https://news.social-protocols.org/stats?id=42316470) #14 83 points 49 comments -> [Misperception of the facial appearance that the opposite-sex desires](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310835)<!-- HN:42316470:end -->
+* [42316470](https://news.social-protocols.org/stats?id=42316470) #14 83 points 49 comments -> [Misperception of the facial appearance that the opposite-sex desires](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310835)<!-- HN:42316470:end --><!-- HN:42407619:start -->
+* [42407619](https://news.social-protocols.org/stats?id=42407619) #27 9 points 2 comments -> [The dirty secret about OnlyFans: it's not hot to be a prostitute](https://unherd.com/2024/12/the-dirty-secret-about-onlyfans/)<!-- HN:42407619:end -->
