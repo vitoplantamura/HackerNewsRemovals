@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, December 14, 2024**
 <!-- HN:42413693:start -->
 * [42413693](https://news.social-protocols.org/stats?id=42413693) #2 35 points 1 comments -> [My PhD advisor rewrote himself in bash](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)<!-- HN:42413693:end --><!-- HN:42414912:start -->
-* [42414912](https://news.social-protocols.org/stats?id=42414912) #4 84 points 23 comments -> [Ilya Sutskever Test of Time Talk "Pre-training as we know it will end"](https://twitter.com/i/status/1867719020444889118)<!-- HN:42414912:end -->
+* [42414912](https://news.social-protocols.org/stats?id=42414912) #4 84 points 23 comments -> [Ilya Sutskever Test of Time Talk "Pre-training as we know it will end"](https://twitter.com/i/status/1867719020444889118)<!-- HN:42414912:end --><!-- HN:42413845:start -->
+* [42413845](https://news.social-protocols.org/stats?id=42413845) #13 173 points 84 comments -> [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)<!-- HN:42413845:end -->
