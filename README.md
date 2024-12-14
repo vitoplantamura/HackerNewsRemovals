@@ -137,5 +137,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42352075](https://news.social-protocols.org/stats?id=42352075) #22 11 points 2 comments -> [PostmarketOS-Powered Kubernetes Cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)<!-- HN:42352075:end -->
 #### **Saturday, December 14, 2024**
 <!-- HN:42413693:start -->
-* [42413693](https://news.social-protocols.org/stats?id=42413693) #2 35 points 1 comments -> [My PhD advisor rewrote himself in bash](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)<!-- HN:42413693:end --><!-- HN:42414124:start -->
-* [42414124](https://news.social-protocols.org/stats?id=42414124) #4 29 points 12 comments -> [New Grad to Staff at Meta in 3 years](https://www.developing.dev/p/new-grad-to-staff-at-meta-in-3-years)<!-- HN:42414124:end -->
+* [42413693](https://news.social-protocols.org/stats?id=42413693) #2 35 points 1 comments -> [My PhD advisor rewrote himself in bash](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)<!-- HN:42413693:end -->
