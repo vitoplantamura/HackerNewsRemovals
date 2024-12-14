@@ -135,3 +135,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42408927](https://news.social-protocols.org/stats?id=42408927) #27 12 points 1 comments -> [People are living longer – But spending more time in poor health](https://studyfinds.org/living-longer-in-poor-health/)<!-- HN:42408927:end --><!-- HN:42410571:start -->
 * [42410571](https://news.social-protocols.org/stats?id=42410571) #9 4 points 0 comments -> [Identifying Political Bias in AI – Communications of the ACM](https://cacm.acm.org/news/identifying-political-bias-in-ai/)<!-- HN:42410571:end --><!-- HN:42352075:start -->
 * [42352075](https://news.social-protocols.org/stats?id=42352075) #22 11 points 2 comments -> [PostmarketOS-Powered Kubernetes Cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)<!-- HN:42352075:end -->
+#### **Saturday, December 14, 2024**
+<!-- HN:42413693:start -->
+* [42413693](https://news.social-protocols.org/stats?id=42413693) #2 35 points 1 comments -> [My PhD advisor rewrote himself in bash](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)<!-- HN:42413693:end -->
