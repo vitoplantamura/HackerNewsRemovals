@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42420012](https://news.social-protocols.org/stats?id=42420012) #23 17 points 12 comments -> [Scandal in Russian military town as new school is decorated with F-16 images](https://www.thebarentsobserver.com/news/scandal-in-russian-military-town-pechenga-as-new-school-is-decorated-with-picture-of-us-fighter-jets/422078)<!-- HN:42420012:end -->
 #### **Sunday, December 15, 2024**
 <!-- HN:42419895:start -->
-* [42419895](https://news.social-protocols.org/stats?id=42419895) #11 8 points 2 comments -> [Meet your new Time Server](https://centerclick.com/ntp/)<!-- HN:42419895:end -->
+* [42419895](https://news.social-protocols.org/stats?id=42419895) #11 8 points 2 comments -> [Meet your new Time Server](https://centerclick.com/ntp/)<!-- HN:42419895:end --><!-- HN:42420361:start -->
+* [42420361](https://news.social-protocols.org/stats?id=42420361) #27 35 points 37 comments -> [There's a New Country Ranking and You're Not Going to Like It](https://www.atvbt.com/bmi/)<!-- HN:42420361:end -->
