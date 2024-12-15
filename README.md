@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, December 15, 2024**
 <!-- HN:42419895:start -->
 * [42419895](https://news.social-protocols.org/stats?id=42419895) #11 8 points 2 comments -> [Meet your new Time Server](https://centerclick.com/ntp/)<!-- HN:42419895:end --><!-- HN:42420361:start -->
-* [42420361](https://news.social-protocols.org/stats?id=42420361) #27 35 points 37 comments -> [There's a New Country Ranking and You're Not Going to Like It](https://www.atvbt.com/bmi/)<!-- HN:42420361:end -->
+* [42420361](https://news.social-protocols.org/stats?id=42420361) #27 35 points 37 comments -> [There's a New Country Ranking and You're Not Going to Like It](https://www.atvbt.com/bmi/)<!-- HN:42420361:end --><!-- HN:42421477:start -->
+* [42421477](https://news.social-protocols.org/stats?id=42421477) #9 38 points 5 comments -> [Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)<!-- HN:42421477:end -->
