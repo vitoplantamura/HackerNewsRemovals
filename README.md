@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42390863](https://news.social-protocols.org/stats?id=42390863) #20 8 points 1 comments -> [Promising early data in triple negative breast cancer](https://www.statnews.com/2024/12/10/triple-negative-breast-cancer-biontech-immunotherapy-bispecific/)<!-- HN:42390863:end --><!-- HN:42425022:start -->
 * [42425022](https://news.social-protocols.org/stats?id=42425022) #14 12 points 2 comments -> [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)<!-- HN:42425022:end --><!-- HN:42426296:start -->
 * [42426296](https://news.social-protocols.org/stats?id=42426296) #2 19 points 2 comments -> [Visualization of cities with similar road networks](https://github.com/anvaka/similar-cities)<!-- HN:42426296:end -->
+#### **Monday, December 16, 2024**
+<!-- HN:42427731:start -->
+* [42427731](https://news.social-protocols.org/stats?id=42427731) #5 3 points 2 comments -> [Luigi Mangione's Resume](https://www.kenklippenstein.com/p/read-luigi-mangiones-resume)<!-- HN:42427731:end -->
