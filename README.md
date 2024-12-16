@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42426296](https://news.social-protocols.org/stats?id=42426296) #2 19 points 2 comments -> [Visualization of cities with similar road networks](https://github.com/anvaka/similar-cities)<!-- HN:42426296:end -->
 #### **Monday, December 16, 2024**
 <!-- HN:42427731:start -->
-* [42427731](https://news.social-protocols.org/stats?id=42427731) #5 3 points 2 comments -> [Luigi Mangione's Resume](https://www.kenklippenstein.com/p/read-luigi-mangiones-resume)<!-- HN:42427731:end -->
+* [42427731](https://news.social-protocols.org/stats?id=42427731) #5 3 points 2 comments -> [Luigi Mangione's Resume](https://www.kenklippenstein.com/p/read-luigi-mangiones-resume)<!-- HN:42427731:end --><!-- HN:42428876:start -->
+* [42428876](https://news.social-protocols.org/stats?id=42428876) #12 21 points 40 comments -> [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)<!-- HN:42428876:end -->
