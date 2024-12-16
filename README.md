@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, December 16, 2024**
 <!-- HN:42427731:start -->
 * [42427731](https://news.social-protocols.org/stats?id=42427731) #5 3 points 2 comments -> [Luigi Mangione's Resume](https://www.kenklippenstein.com/p/read-luigi-mangiones-resume)<!-- HN:42427731:end --><!-- HN:42428876:start -->
-* [42428876](https://news.social-protocols.org/stats?id=42428876) #12 21 points 40 comments -> [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)<!-- HN:42428876:end -->
+* [42428876](https://news.social-protocols.org/stats?id=42428876) #12 21 points 40 comments -> [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)<!-- HN:42428876:end --><!-- HN:42429606:start -->
+* [42429606](https://news.social-protocols.org/stats?id=42429606) #30 3 points 0 comments -> [Popeye and Tintin enter the public domain in 2025 along with Faulkner, Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)<!-- HN:42429606:end -->
