@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42432970](https://news.social-protocols.org/stats?id=42432970) #12 6 points 6 comments -> [Springfield, KS](https://unworld.neocities.org/)<!-- HN:42432970:end --><!-- HN:42434220:start -->
 * [42434220](https://news.social-protocols.org/stats?id=42434220) #27 7 points 0 comments -> [Lard is healthier than sunflower oil](https://www.dailymail.co.uk/health/article-3176558/It-s-healthier-cook-LARD-sunflower-oil-Extraordinary-experiment-shows-ve-told-cooking-oils-wrong.html)<!-- HN:42434220:end --><!-- HN:42434151:start -->
 * [42434151](https://news.social-protocols.org/stats?id=42434151) #23 -> [Do not throw away your old PCs](https://blog.lhotka.net/2024/12/15/Do-not-throw-away-your-old-PCs)<!-- HN:42434151:end -->
-#### **Tuesday, December 17, 2024**
+#### **Tuesday, December 17, 2024**<!-- HN:42439689:start -->
+* [42439689](https://news.social-protocols.org/stats?id=42439689) #7 29 points 1 comments -> [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)<!-- HN:42439689:end -->
