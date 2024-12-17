@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, December 10, 2024**
-<!-- HN:42372508:start -->
-* [42372508](https://news.social-protocols.org/stats?id=42372508) #25 6 points 5 comments -> [Giant Study Links Drinking Coffee with Almost 2 Extra Years of Life](https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life)<!-- HN:42372508:end --><!-- HN:42374469:start -->
-* [42374469](https://news.social-protocols.org/stats?id=42374469) #4 8 points 0 comments -> [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)<!-- HN:42374469:end --><!-- HN:42375632:start -->
-* [42375632](https://news.social-protocols.org/stats?id=42375632) #6 12 points 3 comments -> [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)<!-- HN:42375632:end --><!-- HN:42316212:start -->
-* [42316212](https://news.social-protocols.org/stats?id=42316212) #17 7 points 1 comments -> [Piskel – Free online editor for animated sprites and pixel art](https://www.piskelapp.com/)<!-- HN:42316212:end --><!-- HN:42379435:start -->
-* [42379435](https://news.social-protocols.org/stats?id=42379435) #25 5 points 4 comments -> [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)<!-- HN:42379435:end -->
 #### **Wednesday, December 11, 2024**<!-- HN:42386726:start -->
 * [42386726](https://news.social-protocols.org/stats?id=42386726) #5 44 points 38 comments -> [Bankruptcy judge rejects The Onion's bid for Infowars](https://www.npr.org/2024/12/10/nx-s1-5224170/infowars-alex-jones-the-onion-bankruptcy-judge)<!-- HN:42386726:end --><!-- HN:42386683:start -->
 * [42386683](https://news.social-protocols.org/stats?id=42386683) #25 37 points 0 comments -> [The Onion's Purchase of Alex Jones' Infowars Stopped by US Judge](https://www.reuters.com/legal/onions-purchase-alex-jones-infowars-stopped-by-us-judge-2024-12-11/)<!-- HN:42386683:end --><!-- HN:42387549:start -->

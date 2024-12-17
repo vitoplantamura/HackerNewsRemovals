@@ -153,3 +153,10 @@
 * [42347466](https://news.ycombinator.com/item?id=42347466) #26 16 points 9 comments -> [Atoms for Peace: Learning to Love the Bomb](https://www.historytoday.com/archive/history-matters/atoms-peace-learning-love-bomb)<!-- HN:42347466:end --><!-- HN:42371315:start -->
 * [42371315](https://news.ycombinator.com/item?id=42371315) #7 6 points 2 comments -> [How Can I Be an AI Engineer?](https://timkellogg.me/blog/2024/12/09/ai-engineer)<!-- HN:42371315:end --><!-- HN:42371166:start -->
 * [42371166](https://news.ycombinator.com/item?id=42371166) #15 -> [Healthcare CEO killer studied computer science at UPenn, founded game dev club](https://www.bbc.com/news/live/crk0ep61p2mt)<!-- HN:42371166:end -->
+#### **Tuesday, December 10, 2024**
+<!-- HN:42372508:start -->
+* [42372508](https://news.ycombinator.com/item?id=42372508) #25 6 points 5 comments -> [Giant Study Links Drinking Coffee with Almost 2 Extra Years of Life](https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life)<!-- HN:42372508:end --><!-- HN:42374469:start -->
+* [42374469](https://news.ycombinator.com/item?id=42374469) #4 8 points 0 comments -> [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)<!-- HN:42374469:end --><!-- HN:42375632:start -->
+* [42375632](https://news.ycombinator.com/item?id=42375632) #6 12 points 3 comments -> [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)<!-- HN:42375632:end --><!-- HN:42316212:start -->
+* [42316212](https://news.ycombinator.com/item?id=42316212) #17 7 points 1 comments -> [Piskel – Free online editor for animated sprites and pixel art](https://www.piskelapp.com/)<!-- HN:42316212:end --><!-- HN:42379435:start -->
+* [42379435](https://news.ycombinator.com/item?id=42379435) #25 5 points 4 comments -> [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)<!-- HN:42379435:end -->
