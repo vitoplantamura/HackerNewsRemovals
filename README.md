@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42441671](https://news.social-protocols.org/stats?id=42441671) #26 6 points 2 comments -> [Show HN: CerebrasCoder – make websites in less than a second](https://cerebrascoder.com/)<!-- HN:42441671:end --><!-- HN:42444113:start -->
 * [42444113](https://news.social-protocols.org/stats?id=42444113) #15 9 points 0 comments -> [Japan's Honda and Nissan to reportedly begin merger talks](https://www.cnbc.com/2024/12/17/japans-honda-and-nissan-to-reportedly-begin-merger-talks.html)<!-- HN:42444113:end --><!-- HN:42443634:start -->
 * [42443634](https://news.social-protocols.org/stats?id=42443634) #17 28 points 7 comments -> [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)<!-- HN:42443634:end -->
+#### **Wednesday, December 18, 2024**
+<!-- HN:42448405:start -->
+* [42448405](https://news.social-protocols.org/stats?id=42448405) #17 13 points 2 comments -> [GPS – Bartosz Ciechanowski (2022)](https://ciechanow.ski/gps/)<!-- HN:42448405:end -->
