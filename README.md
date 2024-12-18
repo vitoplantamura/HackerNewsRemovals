@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42443634](https://news.social-protocols.org/stats?id=42443634) #17 28 points 7 comments -> [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)<!-- HN:42443634:end -->
 #### **Wednesday, December 18, 2024**
 <!-- HN:42448405:start -->
-* [42448405](https://news.social-protocols.org/stats?id=42448405) #17 13 points 2 comments -> [GPS – Bartosz Ciechanowski (2022)](https://ciechanow.ski/gps/)<!-- HN:42448405:end -->
+* [42448405](https://news.social-protocols.org/stats?id=42448405) #17 13 points 2 comments -> [GPS – Bartosz Ciechanowski (2022)](https://ciechanow.ski/gps/)<!-- HN:42448405:end --><!-- HN:42449102:start -->
+* [42449102](https://news.social-protocols.org/stats?id=42449102) #10 21 points 14 comments -> [Analyzing the World Chess Championship 2024: Empirical Synthesized Approach](https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b)<!-- HN:42449102:end -->
