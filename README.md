@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42453574](https://news.social-protocols.org/stats?id=42453574) #17 18 points 40 comments -> [The end is nigh and here's why](https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why)<!-- HN:42453574:end -->
 #### **Thursday, December 19, 2024**
 <!-- HN:42456980:start -->
-* [42456980](https://news.social-protocols.org/stats?id=42456980) #26 3 points 0 comments -> [The Rise of the AI Crawler](https://vercel.com/blog/the-rise-of-the-ai-crawler)<!-- HN:42456980:end -->
+* [42456980](https://news.social-protocols.org/stats?id=42456980) #26 3 points 0 comments -> [The Rise of the AI Crawler](https://vercel.com/blog/the-rise-of-the-ai-crawler)<!-- HN:42456980:end --><!-- HN:42457073:start -->
+* [42457073](https://news.social-protocols.org/stats?id=42457073) #14 35 points 30 comments -> [Apple Says Meta Is Making Unreasonable Interoperability Requests Under EU's DMA](https://www.macrumors.com/2024/12/18/apple-meta-interoperability-requests-dma/)<!-- HN:42457073:end -->
