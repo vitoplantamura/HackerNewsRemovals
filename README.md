@@ -150,3 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42418839](https://news.social-protocols.org/stats?id=42418839) #17 27 points 9 comments -> [Castle Game Engine: In progress: web target, IFC, mORMot sample](https://castle-engine.io/wp/2024/11/30/in-progress-web-target-ifc-mormot-sample/)<!-- HN:42418839:end --><!-- HN:42453126:start -->
 * [42453126](https://news.social-protocols.org/stats?id=42453126) #30 20 points 2 comments -> [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/)<!-- HN:42453126:end --><!-- HN:42453574:start -->
 * [42453574](https://news.social-protocols.org/stats?id=42453574) #17 18 points 40 comments -> [The end is nigh and here's why](https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why)<!-- HN:42453574:end -->
+#### **Thursday, December 19, 2024**
+<!-- HN:42456980:start -->
+* [42456980](https://news.social-protocols.org/stats?id=42456980) #26 3 points 0 comments -> [The Rise of the AI Crawler](https://vercel.com/blog/the-rise-of-the-ai-crawler)<!-- HN:42456980:end -->
