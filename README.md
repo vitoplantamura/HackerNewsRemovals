@@ -130,5 +130,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42466491](https://news.social-protocols.org/stats?id=42466491) #2 18 points 0 comments -> [The Ghosts in the Machine – Spotify's plot against musicians](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)<!-- HN:42466491:end -->
 #### **Friday, December 20, 2024**
 <!-- HN:42444088:start -->
-* [42444088](https://news.social-protocols.org/stats?id=42444088) #13 39 points 5 comments -> [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)<!-- HN:42444088:end --><!-- HN:42467375:start -->
-* [42467375](https://news.social-protocols.org/stats?id=42467375) #20 9 points 2 comments -> [Doctors Without Borders declares the war in Gaza as genocide](https://www.doctorswithoutborders.org/latest/gaza-death-trap-msf-report-exposes-israels-campaign-total-destruction)<!-- HN:42467375:end -->
+* [42444088](https://news.social-protocols.org/stats?id=42444088) #13 39 points 5 comments -> [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)<!-- HN:42444088:end -->
