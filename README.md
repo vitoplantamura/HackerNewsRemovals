@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, December 20, 2024**
 <!-- HN:42444088:start -->
 * [42444088](https://news.social-protocols.org/stats?id=42444088) #13 39 points 5 comments -> [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)<!-- HN:42444088:end --><!-- HN:42441956:start -->
-* [42441956](https://news.social-protocols.org/stats?id=42441956) #11 6 points 4 comments -> [Eight Day Road Trip of Western Ghats in Karnataka from Bangalore](https://travelswithpriyanka.substack.com/p/8-day-road-trip-of-western-ghats)<!-- HN:42441956:end -->
+* [42441956](https://news.social-protocols.org/stats?id=42441956) #11 6 points 4 comments -> [Eight Day Road Trip of Western Ghats in Karnataka from Bangalore](https://travelswithpriyanka.substack.com/p/8-day-road-trip-of-western-ghats)<!-- HN:42441956:end --><!-- HN:42470435:start -->
+* [42470435](https://news.social-protocols.org/stats?id=42470435) #18 10 points 4 comments -> [10-foot-tall people discovered by archaeologists in Nevada cave](https://www.msn.com/en-gb/news/world/10-foot-tall-people-discovered-by-archaeologists-in-nevada-cave/ar-BB1oQVZ2)<!-- HN:42470435:end -->
