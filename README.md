@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42463092](https://news.social-protocols.org/stats?id=42463092) #21 3 points 0 comments -> [CATL says it has co-developed 10 new EV models with swappable batteries](https://www.reuters.com/business/energy/catl-says-it-will-build-over-1000-battery-swapping-stations-2025-2024-12-18/)<!-- HN:42463092:end --><!-- HN:42464679:start -->
 * [42464679](https://news.social-protocols.org/stats?id=42464679) #30 19 points 17 comments -> [Polyamory doesn't Liberate; Monogamy doesn't Protect](https://carsonogenic.substack.com/p/polyamory-doesnt-liberate-monogamy)<!-- HN:42464679:end --><!-- HN:42466491:start -->
 * [42466491](https://news.social-protocols.org/stats?id=42466491) #2 18 points 0 comments -> [The Ghosts in the Machine – Spotify's plot against musicians](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)<!-- HN:42466491:end -->
+#### **Friday, December 20, 2024**
+<!-- HN:42444088:start -->
+* [42444088](https://news.social-protocols.org/stats?id=42444088) #13 39 points 5 comments -> [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)<!-- HN:42444088:end -->
