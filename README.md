@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42474426](https://news.social-protocols.org/stats?id=42474426) #10 9 points 0 comments -> ['No Civilians. Everyone's a Terrorist': IDF Soldiers Expose Arbitrary Killings](https://www.haaretz.com/israel-news/2024-12-18/ty-article-magazine/.premium/idf-soldiers-expose-arbitrary-killings-and-rampant-lawlessness-in-gazas-netzarim-corridor/00000193-da7f-de86-a9f3-fefff2e50000)<!-- HN:42474426:end --><!-- HN:42474623:start -->
 * [42474623](https://news.social-protocols.org/stats?id=42474623) #20 3 points 0 comments -> [Tea bags release microplastics, entering human intestinal cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)<!-- HN:42474623:end --><!-- HN:42442322:start -->
 * [42442322](https://news.social-protocols.org/stats?id=42442322) #22 6 points 0 comments -> [Why use a monorepo build tool?](https://mill-build.org/blog/2-monorepo-build-tool.html)<!-- HN:42442322:end -->
+#### **Saturday, December 21, 2024**
+<!-- HN:42477534:start -->
+* [42477534](https://news.social-protocols.org/stats?id=42477534) #6 14 points 1 comments -> [Our remedies proposal in DOJ's search distribution case](https://blog.google/outreach-initiatives/public-policy/google-remedies-proposal-dec-2024/)<!-- HN:42477534:end -->
