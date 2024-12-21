@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, December 14, 2024**
-<!-- HN:42413693:start -->
-* [42413693](https://news.social-protocols.org/stats?id=42413693) #2 35 points 1 comments -> [My PhD advisor rewrote himself in bash](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)<!-- HN:42413693:end --><!-- HN:42414912:start -->
-* [42414912](https://news.social-protocols.org/stats?id=42414912) #4 84 points 23 comments -> [Ilya Sutskever Test of Time Talk "Pre-training as we know it will end"](https://twitter.com/i/status/1867719020444889118)<!-- HN:42414912:end --><!-- HN:42413845:start -->
-* [42413845](https://news.social-protocols.org/stats?id=42413845) #13 173 points 84 comments -> [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)<!-- HN:42413845:end --><!-- HN:42390226:start -->
-* [42390226](https://news.social-protocols.org/stats?id=42390226) #24 6 points 9 comments -> [The case against static typing in PHP (2023)](https://www.tonymarston.net/php-mysql/against-static-typing-in-php.html)<!-- HN:42390226:end --><!-- HN:42415768:start -->
-* [42415768](https://news.social-protocols.org/stats?id=42415768) #10 3 points 0 comments -> [John Carmack on Functional Programming in C++](http://www.sevangelatos.com/john-carmack-on/)<!-- HN:42415768:end --><!-- HN:42414641:start -->
-* [42414641](https://news.social-protocols.org/stats?id=42414641) #18 38 points 9 comments -> [Suchir's Essay on Fair Use](https://suchir.net/fair_use.html)<!-- HN:42414641:end --><!-- HN:42378532:start -->
-* [42378532](https://news.social-protocols.org/stats?id=42378532) #10 11 points 4 comments -> [Subnet routers: how do they work?](https://tailscale.com/blog/subnet-router-video)<!-- HN:42378532:end --><!-- HN:42418365:start -->
-* [42418365](https://news.social-protocols.org/stats?id=42418365) #17 3 points 0 comments -> [TikTok's Future in the US Is Unclear](https://www.wired.com/story/tiktok-future-ban-billionaire-mccourt-sale/)<!-- HN:42418365:end --><!-- HN:42387220:start -->
-* [42387220](https://news.social-protocols.org/stats?id=42387220) #6 31 points 43 comments -> [WhatsApp became an unstoppable cultural force](https://restofworld.org/2024/how-whatsapp-became-a-global-cultural-force/)<!-- HN:42387220:end --><!-- HN:42420012:start -->
-* [42420012](https://news.social-protocols.org/stats?id=42420012) #23 17 points 12 comments -> [Scandal in Russian military town as new school is decorated with F-16 images](https://www.thebarentsobserver.com/news/scandal-in-russian-military-town-pechenga-as-new-school-is-decorated-with-picture-of-us-fighter-jets/422078)<!-- HN:42420012:end -->
 #### **Sunday, December 15, 2024**
 <!-- HN:42419895:start -->
 * [42419895](https://news.social-protocols.org/stats?id=42419895) #11 8 points 2 comments -> [Meet your new Time Server](https://centerclick.com/ntp/)<!-- HN:42419895:end --><!-- HN:42420361:start -->
