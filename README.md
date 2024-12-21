@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42442322](https://news.social-protocols.org/stats?id=42442322) #22 6 points 0 comments -> [Why use a monorepo build tool?](https://mill-build.org/blog/2-monorepo-build-tool.html)<!-- HN:42442322:end -->
 #### **Saturday, December 21, 2024**<!-- HN:42449481:start -->
 * [42449481](https://news.social-protocols.org/stats?id=42449481) #22 25 points 11 comments -> [NoDB: Processing Payments Without a Database](https://news.alvaroduran.com/p/nodb-processing-payments-without)<!-- HN:42449481:end --><!-- HN:42439532:start -->
-* [42439532](https://news.social-protocols.org/stats?id=42439532) #13 21 points 1 comments -> [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)<!-- HN:42439532:end -->
+* [42439532](https://news.social-protocols.org/stats?id=42439532) #13 21 points 1 comments -> [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)<!-- HN:42439532:end --><!-- HN:42477685:start -->
+* [42477685](https://news.social-protocols.org/stats?id=42477685) #21 13 points 5 comments -> [Show HN:Free Online Tool to Experience Microsoft's MarkItdown](https://markitdown.pro)<!-- HN:42477685:end -->
