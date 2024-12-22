@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42443456](https://news.social-protocols.org/stats?id=42443456) #6 21 points 40 comments -> [Save Daylight Savings Time](https://www.natesilver.net/p/save-daylight-savings-time)<!-- HN:42443456:end --><!-- HN:42439654:start -->
 * [42439654](https://news.social-protocols.org/stats?id=42439654) #26 30 points 40 comments -> [Fixing C Strings](https://thasso.xyz/2024/12/16/fixing-c-strings.html)<!-- HN:42439654:end -->
 #### **Sunday, December 22, 2024**<!-- HN:42484398:start -->
-* [42484398](https://news.social-protocols.org/stats?id=42484398) #1 7 points 0 comments -> [The BBC's Civil War over Gaza](https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage)<!-- HN:42484398:end -->
+* [42484398](https://news.social-protocols.org/stats?id=42484398) #1 7 points 0 comments -> [The BBC's Civil War over Gaza](https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage)<!-- HN:42484398:end --><!-- HN:42484681:start -->
+* [42484681](https://news.social-protocols.org/stats?id=42484681) #26 7 points 0 comments -> [Palestine Was the Deadliest Place for Journalists in 2024](https://rsf.org/en/rsf-s-2024-round-journalism-suffers-exorbitant-human-cost-due-conflicts-and-repressive-regimes)<!-- HN:42484681:end -->
