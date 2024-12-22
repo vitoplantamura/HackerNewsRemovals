@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42456134](https://news.social-protocols.org/stats?id=42456134) #9 18 points 4 comments -> [After twelve years of writing about Bitcoin, here's how my thinking has changed](http://jpkoning.blogspot.com/2024/12/after-twelve-years-of-writing-about.html)<!-- HN:42456134:end --><!-- HN:42443456:start -->
 * [42443456](https://news.social-protocols.org/stats?id=42443456) #6 21 points 40 comments -> [Save Daylight Savings Time](https://www.natesilver.net/p/save-daylight-savings-time)<!-- HN:42443456:end --><!-- HN:42439654:start -->
 * [42439654](https://news.social-protocols.org/stats?id=42439654) #26 30 points 40 comments -> [Fixing C Strings](https://thasso.xyz/2024/12/16/fixing-c-strings.html)<!-- HN:42439654:end -->
+#### **Sunday, December 22, 2024**
+<!-- HN:42483943:start -->
+* [42483943](https://news.social-protocols.org/stats?id=42483943) #25 4 points 0 comments -> [The desperate last stand to save a forest from Tesla](https://www.aljazeera.com/features/longform/2024/12/21/the-desperate-last-stand-to-save-a-forest-from-tesla)<!-- HN:42483943:end -->
