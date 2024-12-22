@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, December 15, 2024**
-<!-- HN:42419895:start -->
-* [42419895](https://news.social-protocols.org/stats?id=42419895) #11 8 points 2 comments -> [Meet your new Time Server](https://centerclick.com/ntp/)<!-- HN:42419895:end --><!-- HN:42420361:start -->
-* [42420361](https://news.social-protocols.org/stats?id=42420361) #27 35 points 37 comments -> [There's a New Country Ranking and You're Not Going to Like It](https://www.atvbt.com/bmi/)<!-- HN:42420361:end --><!-- HN:42421477:start -->
-* [42421477](https://news.social-protocols.org/stats?id=42421477) #9 38 points 5 comments -> [Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)<!-- HN:42421477:end --><!-- HN:42391666:start -->
-* [42391666](https://news.social-protocols.org/stats?id=42391666) #11 9 points 0 comments -> [Canids as Pollinators?](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4470)<!-- HN:42391666:end --><!-- HN:42422594:start -->
-* [42422594](https://news.social-protocols.org/stats?id=42422594) #5 9 points 2 comments -> [Show HN: Shop Clothes with Models That Match Your Body Shape](https://www.thebodymatch.com)<!-- HN:42422594:end --><!-- HN:42407187:start -->
-* [42407187](https://news.social-protocols.org/stats?id=42407187) #25 14 points 1 comments -> [In pictures: Learning the Knowledge (2016)](https://www.bbc.com/news/in-pictures-35667599)<!-- HN:42407187:end --><!-- HN:42423489:start -->
-* [42423489](https://news.social-protocols.org/stats?id=42423489) #4 7 points 0 comments -> [Search through Rijksmuseum artworks based on meaning](https://artexplorer.ai/)<!-- HN:42423489:end --><!-- HN:42423645:start -->
-* [42423645](https://news.social-protocols.org/stats?id=42423645) #15 6 points 0 comments -> [She took a DNA test. Police used it to charge her grandma with a 1997 murder](https://www.cnn.com/2024/12/12/us/baby-garnet-cold-case-michigan/index.html)<!-- HN:42423645:end --><!-- HN:42423437:start -->
-* [42423437](https://news.social-protocols.org/stats?id=42423437) #22 9 points 1 comments -> [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)<!-- HN:42423437:end --><!-- HN:42390863:start -->
-* [42390863](https://news.social-protocols.org/stats?id=42390863) #20 8 points 1 comments -> [Promising early data in triple negative breast cancer](https://www.statnews.com/2024/12/10/triple-negative-breast-cancer-biontech-immunotherapy-bispecific/)<!-- HN:42390863:end --><!-- HN:42425022:start -->
-* [42425022](https://news.social-protocols.org/stats?id=42425022) #14 12 points 2 comments -> [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)<!-- HN:42425022:end --><!-- HN:42426296:start -->
-* [42426296](https://news.social-protocols.org/stats?id=42426296) #2 19 points 2 comments -> [Visualization of cities with similar road networks](https://github.com/anvaka/similar-cities)<!-- HN:42426296:end -->
 #### **Monday, December 16, 2024**
 <!-- HN:42427731:start -->
 * [42427731](https://news.social-protocols.org/stats?id=42427731) #5 3 points 2 comments -> [Luigi Mangione's Resume](https://www.kenklippenstein.com/p/read-luigi-mangiones-resume)<!-- HN:42427731:end --><!-- HN:42428876:start -->
