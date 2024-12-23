@@ -124,7 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42487362](https://news.social-protocols.org/stats?id=42487362) #14 3 points 0 comments -> [Having Your Tonsils Out as a Child May Have a Drastic Impact on Your Life](https://www.sciencealert.com/having-your-tonsils-out-as-a-child-may-have-a-drastic-impact-on-your-life)<!-- HN:42487362:end --><!-- HN:42486831:start -->
 * [42486831](https://news.social-protocols.org/stats?id=42486831) #6 22 points 2 comments -> [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)<!-- HN:42486831:end -->
 #### **Monday, December 23, 2024**
-<!-- HN:42489080:start -->
-* [42489080](https://news.social-protocols.org/stats?id=42489080) #27 39 points 40 comments -> [Apple must ensure interoperability of iPhone with rivals, says EU](https://www.euronews.com/next/2024/12/19/apple-must-ensure-interoperability-of-iphone-with-rivals-says-european-commission)<!-- HN:42489080:end --><!-- HN:42489944:start -->
+<!-- HN:42489944:start -->
 * [42489944](https://news.social-protocols.org/stats?id=42489944) #3 23 points 8 comments -> [Nostr is public key microblogging that works](https://github.com/nostr-protocol/nips/blob/master/01.md)<!-- HN:42489944:end --><!-- HN:42489600:start -->
 * [42489600](https://news.social-protocols.org/stats?id=42489600) #23 7 points 4 comments -> [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)<!-- HN:42489600:end -->
