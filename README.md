@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, December 23, 2024**
 <!-- HN:42489944:start -->
 * [42489944](https://news.social-protocols.org/stats?id=42489944) #3 23 points 8 comments -> [Nostr is public key microblogging that works](https://github.com/nostr-protocol/nips/blob/master/01.md)<!-- HN:42489944:end --><!-- HN:42489600:start -->
-* [42489600](https://news.social-protocols.org/stats?id=42489600) #23 7 points 4 comments -> [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)<!-- HN:42489600:end -->
+* [42489600](https://news.social-protocols.org/stats?id=42489600) #23 7 points 4 comments -> [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)<!-- HN:42489600:end --><!-- HN:42477226:start -->
+* [42477226](https://news.social-protocols.org/stats?id=42477226) #22 6 points 0 comments -> [Piezoelectric Generators](https://www.americanpiezo.com/knowledge-center/piezo-theory/generators/)<!-- HN:42477226:end -->
