@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, December 16, 2024**
-<!-- HN:42427731:start -->
-* [42427731](https://news.social-protocols.org/stats?id=42427731) #5 3 points 2 comments -> [Luigi Mangione's Resume](https://www.kenklippenstein.com/p/read-luigi-mangiones-resume)<!-- HN:42427731:end --><!-- HN:42428876:start -->
-* [42428876](https://news.social-protocols.org/stats?id=42428876) #12 21 points 40 comments -> [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)<!-- HN:42428876:end --><!-- HN:42423335:start -->
-* [42423335](https://news.social-protocols.org/stats?id=42423335) #3 11 points 0 comments -> [Playstation 5 transformed into a laptop for $2,750](https://www.tomshardware.com/video-games/console-gaming/playstation-5-transformed-into-a-laptop-for-usd2-750-chinese-modders-made-sonys-console-more-portable-with-a-17-3-inch-4k-display-weighing-over-9-pounds)<!-- HN:42423335:end --><!-- HN:42430362:start -->
-* [42430362](https://news.social-protocols.org/stats?id=42430362) #20 3 points 0 comments -> [OpenAI whistleblower S.Balaji found dead in his apartment](https://www.bbc.com/news/articles/cd0el3r2nlko)<!-- HN:42430362:end --><!-- HN:42433501:start -->
-* [42433501](https://news.social-protocols.org/stats?id=42433501) #26 6 points 0 comments -> [Never Forgive Them](https://www.wheresyoured.at/never-forgive-them/)<!-- HN:42433501:end --><!-- HN:42432970:start -->
-* [42432970](https://news.social-protocols.org/stats?id=42432970) #12 6 points 6 comments -> [Springfield, KS](https://unworld.neocities.org/)<!-- HN:42432970:end --><!-- HN:42434220:start -->
-* [42434220](https://news.social-protocols.org/stats?id=42434220) #27 7 points 0 comments -> [Lard is healthier than sunflower oil](https://www.dailymail.co.uk/health/article-3176558/It-s-healthier-cook-LARD-sunflower-oil-Extraordinary-experiment-shows-ve-told-cooking-oils-wrong.html)<!-- HN:42434220:end --><!-- HN:42434151:start -->
-* [42434151](https://news.social-protocols.org/stats?id=42434151) #23 -> [Do not throw away your old PCs](https://blog.lhotka.net/2024/12/15/Do-not-throw-away-your-old-PCs)<!-- HN:42434151:end -->
 #### **Tuesday, December 17, 2024**<!-- HN:42439689:start -->
 * [42439689](https://news.social-protocols.org/stats?id=42439689) #7 29 points 1 comments -> [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)<!-- HN:42439689:end --><!-- HN:42416396:start -->
 * [42416396](https://news.social-protocols.org/stats?id=42416396) #9 14 points 0 comments -> [Datasaurus dozen – Different datasets with the same descriptive statistics](https://en.wikipedia.org/wiki/Datasaurus_dozen)<!-- HN:42416396:end --><!-- HN:42427677:start -->
