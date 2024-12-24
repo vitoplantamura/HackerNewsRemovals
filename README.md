@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42494809](https://news.social-protocols.org/stats?id=42494809) #22 28 points 20 comments -> [Good cities can't exist without public order](https://www.noahpinion.blog/p/good-cities-cant-exist-without-public)<!-- HN:42494809:end -->
 #### **Tuesday, December 24, 2024**
 <!-- HN:42500482:start -->
-* [42500482](https://news.social-protocols.org/stats?id=42500482) #16 187 points 88 comments -> [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)<!-- HN:42500482:end -->
+* [42500482](https://news.social-protocols.org/stats?id=42500482) #16 187 points 88 comments -> [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)<!-- HN:42500482:end --><!-- HN:42494746:start -->
+* [42494746](https://news.social-protocols.org/stats?id=42494746) #21 401 points 298 comments -> [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)<!-- HN:42494746:end -->
