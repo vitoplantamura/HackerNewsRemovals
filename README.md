@@ -43,26 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, December 18, 2024**
-<!-- HN:42448405:start -->
-* [42448405](https://news.social-protocols.org/stats?id=42448405) #17 13 points 2 comments -> [GPS – Bartosz Ciechanowski (2022)](https://ciechanow.ski/gps/)<!-- HN:42448405:end --><!-- HN:42418345:start -->
-* [42418345](https://news.social-protocols.org/stats?id=42418345) #25 -> [US city tells residents to stop sticking googly eyes on its statues](https://news.sky.com/story/us-city-tells-residents-to-stop-sticking-googly-eyes-on-its-statues-13273478)<!-- HN:42418345:end --><!-- HN:42450890:start -->
-* [42450890](https://news.social-protocols.org/stats?id=42450890) #15 26 points 41 comments -> [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)<!-- HN:42450890:end --><!-- HN:42451449:start -->
-* [42451449](https://news.social-protocols.org/stats?id=42451449) #2 32 points 17 comments -> [AI will be dead in five years](https://erikgahner.dk/2024/ai-will-be-dead-in-five-years/)<!-- HN:42451449:end --><!-- HN:42451552:start -->
-* [42451552](https://news.social-protocols.org/stats?id=42451552) #13 58 points 23 comments -> [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)<!-- HN:42451552:end --><!-- HN:42451979:start -->
-* [42451979](https://news.social-protocols.org/stats?id=42451979) #16 42 points 16 comments -> [W54](https://en.wikipedia.org/wiki/W54)<!-- HN:42451979:end --><!-- HN:42451886:start -->
-* [42451886](https://news.social-protocols.org/stats?id=42451886) #11 38 points 7 comments -> [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)<!-- HN:42451886:end --><!-- HN:42451868:start -->
-* [42451868](https://news.social-protocols.org/stats?id=42451868) #14 53 points 72 comments -> [USDA locks barn door after Listeria escapes](https://efoodalert.com/2024/12/17/usda-locks-barn-door-after-listeria-escapes/)<!-- HN:42451868:end --><!-- HN:42451717:start -->
-* [42451717](https://news.social-protocols.org/stats?id=42451717) #20 28 points 6 comments -> [Intel Inside, Gelsinger Outside](https://spyglass.org/intel-outside-gelsinger/)<!-- HN:42451717:end --><!-- HN:42453157:start -->
-* [42453157](https://news.social-protocols.org/stats?id=42453157) #26 6 points 1 comments -> [Radxa Orion O6 Mini-ITX Arm Motherboard with Cix P1 12-Core ARMv9 SoC and UEFI](https://www.cnx-software.com/2024/12/18/radxa-orion-o6-mini-itx-motherboard-is-powered-by-cix-p1-12-core-armv9-soc-with-a-30-tops-ai-accelerator/)<!-- HN:42453157:end --><!-- HN:42452995:start -->
-* [42452995](https://news.social-protocols.org/stats?id=42452995) #22 8 points 5 comments -> [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)<!-- HN:42452995:end --><!-- HN:42431144:start -->
-* [42431144](https://news.social-protocols.org/stats?id=42431144) #18 10 points 1 comments -> [Rootly New Blog Series: RescueOps](https://rootly.com/blog/new-blog-series-rescueops)<!-- HN:42431144:end --><!-- HN:42451271:start -->
-* [42451271](https://news.social-protocols.org/stats?id=42451271) #11 72 points 4 comments -> [New H1-B Rule by Homeland Security](https://twitter.com/FedericoNoemie/status/1869381822637133842)<!-- HN:42451271:end --><!-- HN:42453529:start -->
-* [42453529](https://news.social-protocols.org/stats?id=42453529) #30 5 points 1 comments -> [GitHub Copilot Free Plan](https://github.com/features/copilot/plans)<!-- HN:42453529:end --><!-- HN:42453770:start -->
-* [42453770](https://news.social-protocols.org/stats?id=42453770) #28 3 points 0 comments -> [A Free GitHub Copilot for VS Code](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot)<!-- HN:42453770:end --><!-- HN:42418839:start -->
-* [42418839](https://news.social-protocols.org/stats?id=42418839) #17 27 points 9 comments -> [Castle Game Engine: In progress: web target, IFC, mORMot sample](https://castle-engine.io/wp/2024/11/30/in-progress-web-target-ifc-mormot-sample/)<!-- HN:42418839:end --><!-- HN:42453126:start -->
-* [42453126](https://news.social-protocols.org/stats?id=42453126) #30 20 points 2 comments -> [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/)<!-- HN:42453126:end --><!-- HN:42453574:start -->
-* [42453574](https://news.social-protocols.org/stats?id=42453574) #17 18 points 40 comments -> [The end is nigh and here's why](https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why)<!-- HN:42453574:end -->
 #### **Thursday, December 19, 2024**
 <!-- HN:42456980:start -->
 * [42456980](https://news.social-protocols.org/stats?id=42456980) #26 3 points 0 comments -> [The Rise of the AI Crawler](https://vercel.com/blog/the-rise-of-the-ai-crawler)<!-- HN:42456980:end --><!-- HN:42457073:start -->
