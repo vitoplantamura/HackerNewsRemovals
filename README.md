@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42503332](https://news.social-protocols.org/stats?id=42503332) #2 30 points 1 comments -> [I sensed anxiety and frustration at NeurIPS'24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)<!-- HN:42503332:end --><!-- HN:42504250:start -->
 * [42504250](https://news.social-protocols.org/stats?id=42504250) #9 9 points 1 comments -> [Nobody goes to New York City anymore. It's too crowded](https://www.natesilver.net/p/nobody-goes-to-new-york-city-anymore)<!-- HN:42504250:end --><!-- HN:42485688:start -->
 * [42485688](https://news.social-protocols.org/stats?id=42485688) #11 10 points 1 comments -> [Suprnova's Founder Speaks: 20 Years, Many Lessons, and a YouTube Empire](https://torrentfreak.com/suprnovas-founder-speaks-20-years-many-lessons-and-a-youtube-empire-241219/)<!-- HN:42485688:end -->
+#### **Wednesday, December 25, 2024**
+<!-- HN:42506478:start -->
+* [42506478](https://news.social-protocols.org/stats?id=42506478) #21 14 points 1 comments -> [Solar, EVs and a Big Exit from Coal: 2024's Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)<!-- HN:42506478:end -->
