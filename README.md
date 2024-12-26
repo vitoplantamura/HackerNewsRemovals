@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42506882](https://news.social-protocols.org/stats?id=42506882) #8 3 points 2 comments -> [Destroy AI](https://ali-alkhatib.com/blog/fuck-up-ai)<!-- HN:42506882:end --><!-- HN:42489600:start -->
 * [42489600](https://news.social-protocols.org/stats?id=42489600) #10 57 points 10 comments -> [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)<!-- HN:42489600:end --><!-- HN:42505475:start -->
 * [42505475](https://news.social-protocols.org/stats?id=42505475) #23 70 points 36 comments -> [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)<!-- HN:42505475:end -->
+#### **Thursday, December 26, 2024**
+<!-- HN:42514127:start -->
+* [42514127](https://news.social-protocols.org/stats?id=42514127) #7 10 points 12 comments -> [The Trap of "I am not an Extrovert"](https://orkohunter.net/blog/the-trap-of-introversion/)<!-- HN:42514127:end -->
