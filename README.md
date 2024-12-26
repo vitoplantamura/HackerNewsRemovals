@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42505475](https://news.social-protocols.org/stats?id=42505475) #23 70 points 36 comments -> [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)<!-- HN:42505475:end -->
 #### **Thursday, December 26, 2024**
 <!-- HN:42514127:start -->
-* [42514127](https://news.social-protocols.org/stats?id=42514127) #7 10 points 12 comments -> [The Trap of "I am not an Extrovert"](https://orkohunter.net/blog/the-trap-of-introversion/)<!-- HN:42514127:end -->
+* [42514127](https://news.social-protocols.org/stats?id=42514127) #7 10 points 12 comments -> [The Trap of "I am not an Extrovert"](https://orkohunter.net/blog/the-trap-of-introversion/)<!-- HN:42514127:end --><!-- HN:42513907:start -->
+* [42513907](https://news.social-protocols.org/stats?id=42513907) #28 34 points 22 comments -> [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)<!-- HN:42513907:end -->
