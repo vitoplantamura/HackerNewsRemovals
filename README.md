@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42513907:start -->
 * [42513907](https://news.social-protocols.org/stats?id=42513907) #28 34 points 22 comments -> [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)<!-- HN:42513907:end --><!-- HN:42515052:start -->
 * [42515052](https://news.social-protocols.org/stats?id=42515052) #16 4 points 1 comments -> [The Dome Paradox: A Loophole in Newton's Laws](https://www.youtube.com/watch?v=EjZB81jCGj4)<!-- HN:42515052:end --><!-- HN:42514127:start -->
-* [42514127](https://news.social-protocols.org/stats?id=42514127) #18 19 points 40 comments -> [The Trap of "I am not an Extrovert"](https://orkohunter.net/blog/the-trap-of-introversion/)<!-- HN:42514127:end -->
+* [42514127](https://news.social-protocols.org/stats?id=42514127) #18 19 points 40 comments -> [The Trap of "I am not an Extrovert"](https://orkohunter.net/blog/the-trap-of-introversion/)<!-- HN:42514127:end --><!-- HN:42516041:start -->
+* [42516041](https://news.social-protocols.org/stats?id=42516041) #1 18 points 1 comments -> [Building AGI on the Tokio Runtime](https://www.christo.sh/building-agi-on-the-tokio-runtime/)<!-- HN:42516041:end -->
