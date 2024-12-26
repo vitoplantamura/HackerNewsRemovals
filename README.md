@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, December 19, 2024**
-<!-- HN:42456980:start -->
-* [42456980](https://news.social-protocols.org/stats?id=42456980) #26 3 points 0 comments -> [The Rise of the AI Crawler](https://vercel.com/blog/the-rise-of-the-ai-crawler)<!-- HN:42456980:end --><!-- HN:42457073:start -->
-* [42457073](https://news.social-protocols.org/stats?id=42457073) #14 35 points 30 comments -> [Apple Says Meta Is Making Unreasonable Interoperability Requests Under EU's DMA](https://www.macrumors.com/2024/12/18/apple-meta-interoperability-requests-dma/)<!-- HN:42457073:end --><!-- HN:42437958:start -->
-* [42437958](https://news.social-protocols.org/stats?id=42437958) #14 12 points 3 comments -> [Making Apple Watch functional with Android](https://github.com/abishekmuthian/apple-watch-with-android)<!-- HN:42437958:end --><!-- HN:42432216:start -->
-* [42432216](https://news.social-protocols.org/stats?id=42432216) #6 35 points 15 comments -> [Physicists Find Particle That Only Has Mass When Moving in One Direction](https://www.sciencealert.com/physicists-find-particle-that-only-has-mass-when-moving-in-one-direction)<!-- HN:42432216:end --><!-- HN:42461566:start -->
-* [42461566](https://news.social-protocols.org/stats?id=42461566) #7 22 points 13 comments -> [AIs Will Increasingly Attempt Shenanigans](https://www.lesswrong.com/posts/v7iepLXH2KT4SDEvB/ais-will-increasingly-attempt-shenanigans)<!-- HN:42461566:end --><!-- HN:42461428:start -->
-* [42461428](https://news.social-protocols.org/stats?id=42461428) #20 59 points 19 comments -> [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)<!-- HN:42461428:end --><!-- HN:42461480:start -->
-* [42461480](https://news.social-protocols.org/stats?id=42461480) #18 3 points 1 comments -> [Show HN: Job Simlarity (vector similarity graphs, WhoIsHiring/JSON Resume)](https://registry.jsonresume.org/job-similarity)<!-- HN:42461480:end --><!-- HN:42463092:start -->
-* [42463092](https://news.social-protocols.org/stats?id=42463092) #21 3 points 0 comments -> [CATL says it has co-developed 10 new EV models with swappable batteries](https://www.reuters.com/business/energy/catl-says-it-will-build-over-1000-battery-swapping-stations-2025-2024-12-18/)<!-- HN:42463092:end --><!-- HN:42466491:start -->
-* [42466491](https://news.social-protocols.org/stats?id=42466491) #2 18 points 0 comments -> [The Ghosts in the Machine – Spotify's plot against musicians](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)<!-- HN:42466491:end -->
 #### **Friday, December 20, 2024**
 <!-- HN:42444088:start -->
 * [42444088](https://news.social-protocols.org/stats?id=42444088) #13 39 points 5 comments -> [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)<!-- HN:42444088:end --><!-- HN:42441956:start -->
