@@ -93,8 +93,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, December 26, 2024**
 <!-- HN:42513907:start -->
 * [42513907](https://news.social-protocols.org/stats?id=42513907) #28 34 points 22 comments -> [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)<!-- HN:42513907:end --><!-- HN:42515052:start -->
-* [42515052](https://news.social-protocols.org/stats?id=42515052) #16 4 points 1 comments -> [The Dome Paradox: A Loophole in Newton's Laws](https://www.youtube.com/watch?v=EjZB81jCGj4)<!-- HN:42515052:end --><!-- HN:42515871:start -->
-* [42515871](https://news.social-protocols.org/stats?id=42515871) #2 33 points 24 comments -> [ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT](https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg)<!-- HN:42515871:end --><!-- HN:42516874:start -->
+* [42515052](https://news.social-protocols.org/stats?id=42515052) #16 4 points 1 comments -> [The Dome Paradox: A Loophole in Newton's Laws](https://www.youtube.com/watch?v=EjZB81jCGj4)<!-- HN:42515052:end --><!-- HN:42516874:start -->
 * [42516874](https://news.social-protocols.org/stats?id=42516874) #8 18 points 1 comments -> [Tokyo makes 3D data available](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/)<!-- HN:42516874:end -->
 #### **Friday, December 27, 2024**
 <!-- HN:42519202:start -->
