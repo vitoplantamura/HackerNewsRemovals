@@ -99,4 +99,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, December 27, 2024**
 <!-- HN:42519202:start -->
 * [42519202](https://news.social-protocols.org/stats?id=42519202) #27 8 points 6 comments -> [OpenAI is Lehman Brothers: A crash is coming](https://sherwood.news/tech/open-ai-is-lehman-brothers/)<!-- HN:42519202:end --><!-- HN:42519913:start -->
-* [42519913](https://news.social-protocols.org/stats?id=42519913) #5 5 points 0 comments -> [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)<!-- HN:42519913:end -->
+* [42519913](https://news.social-protocols.org/stats?id=42519913) #5 5 points 0 comments -> [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)<!-- HN:42519913:end --><!-- HN:42521914:start -->
+* [42521914](https://news.social-protocols.org/stats?id=42521914) #2 61 points 18 comments -> [Denmark Offers to Buy USA (2019)](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)<!-- HN:42521914:end -->
