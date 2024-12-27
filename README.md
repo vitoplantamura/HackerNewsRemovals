@@ -99,4 +99,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, December 27, 2024**
 <!-- HN:42519202:start -->
 * [42519202](https://news.social-protocols.org/stats?id=42519202) #27 8 points 6 comments -> [OpenAI is Lehman Brothers: A crash is coming](https://sherwood.news/tech/open-ai-is-lehman-brothers/)<!-- HN:42519202:end --><!-- HN:42519562:start -->
-* [42519562](https://news.social-protocols.org/stats?id=42519562) #5 17 points 10 comments -> [Map with an LLM](https://godview.ai)<!-- HN:42519562:end -->
+* [42519562](https://news.social-protocols.org/stats?id=42519562) #5 17 points 10 comments -> [Map with an LLM](https://godview.ai)<!-- HN:42519562:end --><!-- HN:42519913:start -->
+* [42519913](https://news.social-protocols.org/stats?id=42519913) #5 5 points 0 comments -> [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)<!-- HN:42519913:end -->
