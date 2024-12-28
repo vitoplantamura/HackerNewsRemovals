@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, December 21, 2024**<!-- HN:42449481:start -->
-* [42449481](https://news.social-protocols.org/stats?id=42449481) #22 25 points 11 comments -> [NoDB: Processing Payments Without a Database](https://news.alvaroduran.com/p/nodb-processing-payments-without)<!-- HN:42449481:end --><!-- HN:42439532:start -->
-* [42439532](https://news.social-protocols.org/stats?id=42439532) #13 21 points 1 comments -> [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)<!-- HN:42439532:end --><!-- HN:42477685:start -->
-* [42477685](https://news.social-protocols.org/stats?id=42477685) #21 13 points 5 comments -> [Show HN:Free Online Tool to Experience Microsoft's MarkItdown](https://markitdown.pro)<!-- HN:42477685:end --><!-- HN:42456397:start -->
-* [42456397](https://news.social-protocols.org/stats?id=42456397) #7 24 points 40 comments -> [We don't know how many birds die in structural collisions](https://robertvanwey.substack.com/p/evaluating-avian-deaths-by-collision)<!-- HN:42456397:end --><!-- HN:42480176:start -->
-* [42480176](https://news.social-protocols.org/stats?id=42480176) #12 20 points 42 comments -> [The NBA's Problem Is Economics, Not Basketball](https://www.bloomberg.com/opinion/articles/2024-12-18/nba-cup-the-league-s-problem-is-economics-not-basketball)<!-- HN:42480176:end --><!-- HN:42480617:start -->
-* [42480617](https://news.social-protocols.org/stats?id=42480617) #18 6 points 0 comments -> [Elderly activist to spend Christmas in prison because tag does not fit](https://www.theguardian.com/society/2024/dec/21/elderly-activist-to-spend-christmas-in-prison-because-tag-does-not-fit)<!-- HN:42480617:end --><!-- HN:42456134:start -->
-* [42456134](https://news.social-protocols.org/stats?id=42456134) #9 18 points 4 comments -> [After twelve years of writing about Bitcoin, here's how my thinking has changed](http://jpkoning.blogspot.com/2024/12/after-twelve-years-of-writing-about.html)<!-- HN:42456134:end --><!-- HN:42443456:start -->
-* [42443456](https://news.social-protocols.org/stats?id=42443456) #6 21 points 40 comments -> [Save Daylight Savings Time](https://www.natesilver.net/p/save-daylight-savings-time)<!-- HN:42443456:end --><!-- HN:42439654:start -->
-* [42439654](https://news.social-protocols.org/stats?id=42439654) #26 30 points 40 comments -> [Fixing C Strings](https://thasso.xyz/2024/12/16/fixing-c-strings.html)<!-- HN:42439654:end -->
 #### **Sunday, December 22, 2024**<!-- HN:42484398:start -->
 * [42484398](https://news.social-protocols.org/stats?id=42484398) #1 7 points 0 comments -> [The BBC's Civil War over Gaza](https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage)<!-- HN:42484398:end --><!-- HN:42484681:start -->
 * [42484681](https://news.social-protocols.org/stats?id=42484681) #26 7 points 0 comments -> [Palestine Was the Deadliest Place for Journalists in 2024](https://rsf.org/en/rsf-s-2024-round-journalism-suffers-exorbitant-human-cost-due-conflicts-and-repressive-regimes)<!-- HN:42484681:end --><!-- HN:42484513:start -->
