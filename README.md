@@ -98,4 +98,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42523934](https://news.social-protocols.org/stats?id=42523934) #25 49 points 34 comments -> [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)<!-- HN:42523934:end -->
 #### **Saturday, December 28, 2024**
 <!-- HN:42526150:start -->
-* [42526150](https://news.social-protocols.org/stats?id=42526150) #21 12 points 10 comments -> [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)<!-- HN:42526150:end -->
+* [42526150](https://news.social-protocols.org/stats?id=42526150) #21 12 points 10 comments -> [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)<!-- HN:42526150:end --><!-- HN:42507395:start -->
+* [42507395](https://news.social-protocols.org/stats?id=42507395) #14 5 points 2 comments -> [Clap to Find My Phone App](https://getmobi.ai/)<!-- HN:42507395:end -->
