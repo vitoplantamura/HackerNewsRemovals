@@ -99,5 +99,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, December 28, 2024**
 <!-- HN:42526150:start -->
 * [42526150](https://news.social-protocols.org/stats?id=42526150) #21 12 points 10 comments -> [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)<!-- HN:42526150:end --><!-- HN:42507395:start -->
-* [42507395](https://news.social-protocols.org/stats?id=42507395) #14 5 points 2 comments -> [Clap to Find My Phone App](https://getmobi.ai/)<!-- HN:42507395:end --><!-- HN:42529207:start -->
-* [42529207](https://news.social-protocols.org/stats?id=42529207) #4 45 points 21 comments -> [LLMs are everything that it wrong in computing](https://crys.site/blog/2024/llms-scare-me/)<!-- HN:42529207:end -->
+* [42507395](https://news.social-protocols.org/stats?id=42507395) #14 5 points 2 comments -> [Clap to Find My Phone App](https://getmobi.ai/)<!-- HN:42507395:end -->
