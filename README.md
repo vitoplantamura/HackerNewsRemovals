@@ -98,5 +98,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42532353](https://news.social-protocols.org/stats?id=42532353) #30 11 points 6 comments -> [Per Seat Pricing Sucks](https://blog.flippercloud.io/per-seat-pricing-sucks/)<!-- HN:42532353:end -->
 #### **Sunday, December 29, 2024**
 <!-- HN:42536342:start -->
-* [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end --><!-- HN:42536343:start -->
-* [42536343](https://news.social-protocols.org/stats?id=42536343) #10 11 points 1 comments -> [The Global Loss of the U-Shaped Curve of Happiness](https://www.afterbabel.com/p/youth-health-declines-82-countries)<!-- HN:42536343:end -->
+* [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end -->
