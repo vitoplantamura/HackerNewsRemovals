@@ -99,4 +99,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, December 29, 2024**
 <!-- HN:42536342:start -->
 * [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end --><!-- HN:42537790:start -->
-* [42537790](https://news.social-protocols.org/stats?id=42537790) #4 4 points 6 comments -> [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)<!-- HN:42537790:end -->
+* [42537790](https://news.social-protocols.org/stats?id=42537790) #4 4 points 6 comments -> [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)<!-- HN:42537790:end --><!-- HN:42537829:start -->
+* [42537829](https://news.social-protocols.org/stats?id=42537829) #12 30 points 16 comments -> [America in Two Headlines](https://www.kenklippenstein.com/p/america-in-two-headlines)<!-- HN:42537829:end -->
