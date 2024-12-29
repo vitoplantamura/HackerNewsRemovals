@@ -96,3 +96,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42532156](https://news.social-protocols.org/stats?id=42532156) #17 13 points 8 comments -> [Costco Denies Shareholder Demand to Back Down from DEI Hiring](https://www.newsweek.com/costco-board-shareholder-dei-hiring-2006717)<!-- HN:42532156:end --><!-- HN:42532429:start -->
 * [42532429](https://news.social-protocols.org/stats?id=42532429) #4 40 points 19 comments -> [Missile Strike Confirmed as Cause of Azerbaijan E190 Crash – Aeroxplorer.com](https://aeroxplorer.com/articles/missile-strike-confirmed-as-cause-of-azerbaijan-e190-crash.php)<!-- HN:42532429:end --><!-- HN:42532353:start -->
 * [42532353](https://news.social-protocols.org/stats?id=42532353) #30 11 points 6 comments -> [Per Seat Pricing Sucks](https://blog.flippercloud.io/per-seat-pricing-sucks/)<!-- HN:42532353:end -->
+#### **Sunday, December 29, 2024**
+<!-- HN:42536342:start -->
+* [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end -->
