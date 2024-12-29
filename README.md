@@ -98,7 +98,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42532353](https://news.social-protocols.org/stats?id=42532353) #30 11 points 6 comments -> [Per Seat Pricing Sucks](https://blog.flippercloud.io/per-seat-pricing-sucks/)<!-- HN:42532353:end -->
 #### **Sunday, December 29, 2024**
 <!-- HN:42536342:start -->
-* [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end --><!-- HN:42537082:start -->
-* [42537082](https://news.social-protocols.org/stats?id=42537082) #8 9 points 0 comments -> [Google search hallucinates Encanto 2](https://bsky.app/profile/jasonschreier.bsky.social/post/3leezrzlvrk2m)<!-- HN:42537082:end --><!-- HN:42537790:start -->
-* [42537790](https://news.social-protocols.org/stats?id=42537790) #4 4 points 6 comments -> [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)<!-- HN:42537790:end --><!-- HN:42537829:start -->
-* [42537829](https://news.social-protocols.org/stats?id=42537829) #1 26 points 7 comments -> [America in Two Headlines](https://www.kenklippenstein.com/p/america-in-two-headlines)<!-- HN:42537829:end -->
+* [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end --><!-- HN:42537790:start -->
+* [42537790](https://news.social-protocols.org/stats?id=42537790) #4 4 points 6 comments -> [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)<!-- HN:42537790:end -->
