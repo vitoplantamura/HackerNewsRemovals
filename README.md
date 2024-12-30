@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42541536](https://news.social-protocols.org/stats?id=42541536) #25 24 points 7 comments -> [Enslaved on OnlyFans: Women describe lives of torment and sexual servitude](https://www.reuters.com/investigates/special-report/onlyfans-sex-trafficking/)<!-- HN:42541536:end --><!-- HN:42540427:start -->
 * [42540427](https://news.social-protocols.org/stats?id=42540427) #30 204 points 161 comments -> [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)<!-- HN:42540427:end --><!-- HN:42542215:start -->
 * [42542215](https://news.social-protocols.org/stats?id=42542215) #4 5 points 1 comments -> [Epoll Is Fundamentally Broken](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)<!-- HN:42542215:end -->
+#### **Monday, December 30, 2024**
+<!-- HN:42544923:start -->
+* [42544923](https://news.social-protocols.org/stats?id=42544923) #4 11 points 3 comments -> [What ails America and how to fix it? (Jeffrey Sachs)](https://www.jeffsachs.org/newspaper-articles/6gfpzjj9m8phyl5adxg5dp26xc4l2d)<!-- HN:42544923:end -->
