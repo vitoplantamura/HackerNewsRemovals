@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, December 23, 2024**
-<!-- HN:42489944:start -->
-* [42489944](https://news.social-protocols.org/stats?id=42489944) #3 23 points 8 comments -> [Nostr is public key microblogging that works](https://github.com/nostr-protocol/nips/blob/master/01.md)<!-- HN:42489944:end --><!-- HN:42477226:start -->
-* [42477226](https://news.social-protocols.org/stats?id=42477226) #22 6 points 0 comments -> [Piezoelectric Generators](https://www.americanpiezo.com/knowledge-center/piezo-theory/generators/)<!-- HN:42477226:end --><!-- HN:42493868:start -->
-* [42493868](https://news.social-protocols.org/stats?id=42493868) #20 6 points 1 comments -> [Palantir and Anduril join forces with tech groups to bid for Pentagon contracts](https://www.ft.com/content/6cfdfe2b-6872-4963-bde8-dc6c43be5093)<!-- HN:42493868:end --><!-- HN:42493664:start -->
-* [42493664](https://news.social-protocols.org/stats?id=42493664) #20 28 points 41 comments -> [Coke, PepsiCo Lobby to Keep Sugary Sodas in Food-Stamp Program](https://www.wsj.com/politics/policy/rfk-jr-soda-snap-food-stamps-coke-pepsi-9bd9a872)<!-- HN:42493664:end --><!-- HN:42494809:start -->
-* [42494809](https://news.social-protocols.org/stats?id=42494809) #22 28 points 20 comments -> [Good cities can't exist without public order](https://www.noahpinion.blog/p/good-cities-cant-exist-without-public)<!-- HN:42494809:end -->
 #### **Tuesday, December 24, 2024**
 <!-- HN:42500482:start -->
 * [42500482](https://news.social-protocols.org/stats?id=42500482) #16 187 points 88 comments -> [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)<!-- HN:42500482:end --><!-- HN:42494746:start -->
