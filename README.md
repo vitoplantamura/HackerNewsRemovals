@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, December 30, 2024**
 <!-- HN:42544923:start -->
 * [42544923](https://news.social-protocols.org/stats?id=42544923) #4 11 points 3 comments -> [What ails America and how to fix it? (Jeffrey Sachs)](https://www.jeffsachs.org/newspaper-articles/6gfpzjj9m8phyl5adxg5dp26xc4l2d)<!-- HN:42544923:end --><!-- HN:42545772:start -->
-* [42545772](https://news.social-protocols.org/stats?id=42545772) #15 46 points 10 comments -> [Israel built an 'AI factory' for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)<!-- HN:42545772:end -->
+* [42545772](https://news.social-protocols.org/stats?id=42545772) #15 46 points 10 comments -> [Israel built an 'AI factory' for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)<!-- HN:42545772:end --><!-- HN:42549226:start -->
+* [42549226](https://news.social-protocols.org/stats?id=42549226) #23 33 points 41 comments -> [Chess grandmaster Magnus Carlsen rejoins tournament he quit over wearing jeans](https://news.sky.com/story/chess-grandmaster-magnus-carlsen-rejoins-tournament-he-quit-over-wearing-jeans-after-dress-code-change-13281654)<!-- HN:42549226:end -->
