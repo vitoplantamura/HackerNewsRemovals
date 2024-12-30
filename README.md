@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42542215](https://news.social-protocols.org/stats?id=42542215) #4 5 points 1 comments -> [Epoll Is Fundamentally Broken](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)<!-- HN:42542215:end -->
 #### **Monday, December 30, 2024**
 <!-- HN:42544923:start -->
-* [42544923](https://news.social-protocols.org/stats?id=42544923) #4 11 points 3 comments -> [What ails America and how to fix it? (Jeffrey Sachs)](https://www.jeffsachs.org/newspaper-articles/6gfpzjj9m8phyl5adxg5dp26xc4l2d)<!-- HN:42544923:end -->
+* [42544923](https://news.social-protocols.org/stats?id=42544923) #4 11 points 3 comments -> [What ails America and how to fix it? (Jeffrey Sachs)](https://www.jeffsachs.org/newspaper-articles/6gfpzjj9m8phyl5adxg5dp26xc4l2d)<!-- HN:42544923:end --><!-- HN:42543431:start -->
+* [42543431](https://news.social-protocols.org/stats?id=42543431) #11 25 points 40 comments -> [Brave Care Has Closed](https://bravecare.com/)<!-- HN:42543431:end -->
