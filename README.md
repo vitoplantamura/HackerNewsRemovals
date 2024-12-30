@@ -105,5 +105,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, December 30, 2024**
 <!-- HN:42544923:start -->
 * [42544923](https://news.social-protocols.org/stats?id=42544923) #4 11 points 3 comments -> [What ails America and how to fix it? (Jeffrey Sachs)](https://www.jeffsachs.org/newspaper-articles/6gfpzjj9m8phyl5adxg5dp26xc4l2d)<!-- HN:42544923:end --><!-- HN:42545772:start -->
-* [42545772](https://news.social-protocols.org/stats?id=42545772) #15 46 points 10 comments -> [Israel built an 'AI factory' for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)<!-- HN:42545772:end --><!-- HN:42517163:start -->
-* [42517163](https://news.social-protocols.org/stats?id=42517163) #29 40 points 40 comments -> [Faster CI with Selective Testing](https://mill-build.org/blog/3-selective-testing.html)<!-- HN:42517163:end -->
+* [42545772](https://news.social-protocols.org/stats?id=42545772) #15 46 points 10 comments -> [Israel built an 'AI factory' for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)<!-- HN:42545772:end -->
