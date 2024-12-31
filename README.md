@@ -97,3 +97,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42552741](https://news.social-protocols.org/stats?id=42552741) #9 3 points 0 comments -> [Enjoy Apple TV+ for free the first weekend of 2025](https://www.apple.com/tv-pr/news/2024/12/get-a-free-all-access-pass-to-apple-tv-the-first-weekend-of-2025/)<!-- HN:42552741:end --><!-- HN:42554088:start -->
 * [42554088](https://news.social-protocols.org/stats?id=42554088) #8 4 points 1 comments -> [Is a Dosa a Crepe?](https://datanutrition.org/)<!-- HN:42554088:end --><!-- HN:42519168:start -->
 * [42519168](https://news.social-protocols.org/stats?id=42519168) #18 100 points 186 comments -> [Where is James Bond? Trapped in an ugly stalemate with Amazon](https://www.wsj.com/business/media/james-bond-movies-amazon-barbara-broccoli-0b04f0db)<!-- HN:42519168:end -->
+#### **Tuesday, December 31, 2024**
+<!-- HN:42555040:start -->
+* [42555040](https://news.social-protocols.org/stats?id=42555040) #6 5 points 0 comments -> [Former Meta Recruiter Reveals Why You're Struggling to Land a Big Tech Offer](https://techiegamers.com/breaking-into-big-tech/)<!-- HN:42555040:end -->
