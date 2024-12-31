@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, December 31, 2024**
 <!-- HN:42555040:start -->
 * [42555040](https://news.social-protocols.org/stats?id=42555040) #6 5 points 0 comments -> [Former Meta Recruiter Reveals Why You're Struggling to Land a Big Tech Offer](https://techiegamers.com/breaking-into-big-tech/)<!-- HN:42555040:end --><!-- HN:42555590:start -->
-* [42555590](https://news.social-protocols.org/stats?id=42555590) #17 3 points 2 comments -> [Show HN: I Made a Dumb Game](https://pizzzza.lol)<!-- HN:42555590:end -->
+* [42555590](https://news.social-protocols.org/stats?id=42555590) #17 3 points 2 comments -> [Show HN: I Made a Dumb Game](https://pizzzza.lol)<!-- HN:42555590:end --><!-- HN:42530620:start -->
+* [42530620](https://news.social-protocols.org/stats?id=42530620) #26 21 points 28 comments -> [Monokai Pro for Jetbrains](https://monokai.pro/jetbrains)<!-- HN:42530620:end -->
