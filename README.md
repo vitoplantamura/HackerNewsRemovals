@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, December 24, 2024**
-<!-- HN:42500482:start -->
-* [42500482](https://news.social-protocols.org/stats?id=42500482) #16 187 points 88 comments -> [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)<!-- HN:42500482:end --><!-- HN:42494746:start -->
-* [42494746](https://news.social-protocols.org/stats?id=42494746) #21 401 points 298 comments -> [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)<!-- HN:42494746:end --><!-- HN:42495077:start -->
-* [42495077](https://news.social-protocols.org/stats?id=42495077) #23 250 points 36 comments -> [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)<!-- HN:42495077:end --><!-- HN:42502210:start -->
-* [42502210](https://news.social-protocols.org/stats?id=42502210) #18 5 points 1 comments -> [7-year-old boy undergoes heart surgery after getting hit by falling drone](https://www.cbsnews.com/news/florida-holiday-show-drone-collision-orlando/)<!-- HN:42502210:end --><!-- HN:42502915:start -->
-* [42502915](https://news.social-protocols.org/stats?id=42502915) #3 4 points 0 comments -> [Charlie Munger's wisdom lives on in LLMs](https://bren.blog/charlie-munger-lives-on-in-llms)<!-- HN:42502915:end --><!-- HN:42502768:start -->
-* [42502768](https://news.social-protocols.org/stats?id=42502768) #26 5 points 0 comments -> [Return to NSA's Menwith Hill with 60 Minutes (2000)](https://cryptome.org/menwith-mn60.htm)<!-- HN:42502768:end --><!-- HN:42484790:start -->
-* [42484790](https://news.social-protocols.org/stats?id=42484790) #17 22 points 23 comments -> [Communal Luxury: The Public Bathhouse](https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/)<!-- HN:42484790:end --><!-- HN:42503558:start -->
-* [42503558](https://news.social-protocols.org/stats?id=42503558) #15 22 points 24 comments -> [Apple seeks to defend Google's billion-dollar payments in search case](https://www.reuters.com/technology/apple-seeks-defend-googles-billion-dollar-payments-search-case-2024-12-24/)<!-- HN:42503558:end --><!-- HN:42503332:start -->
-* [42503332](https://news.social-protocols.org/stats?id=42503332) #2 30 points 1 comments -> [I sensed anxiety and frustration at NeurIPS'24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)<!-- HN:42503332:end --><!-- HN:42504250:start -->
-* [42504250](https://news.social-protocols.org/stats?id=42504250) #9 9 points 1 comments -> [Nobody goes to New York City anymore. It's too crowded](https://www.natesilver.net/p/nobody-goes-to-new-york-city-anymore)<!-- HN:42504250:end --><!-- HN:42485688:start -->
-* [42485688](https://news.social-protocols.org/stats?id=42485688) #11 10 points 1 comments -> [Suprnova's Founder Speaks: 20 Years, Many Lessons, and a YouTube Empire](https://torrentfreak.com/suprnovas-founder-speaks-20-years-many-lessons-and-a-youtube-empire-241219/)<!-- HN:42485688:end -->
 #### **Wednesday, December 25, 2024**
 <!-- HN:42506478:start -->
 * [42506478](https://news.social-protocols.org/stats?id=42506478) #21 14 points 1 comments -> [Solar, EVs and a Big Exit from Coal: 2024's Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)<!-- HN:42506478:end --><!-- HN:42506882:start -->
