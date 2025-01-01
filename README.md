@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, December 25, 2024**
-<!-- HN:42506478:start -->
-* [42506478](https://news.social-protocols.org/stats?id=42506478) #21 14 points 1 comments -> [Solar, EVs and a Big Exit from Coal: 2024's Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)<!-- HN:42506478:end --><!-- HN:42506882:start -->
-* [42506882](https://news.social-protocols.org/stats?id=42506882) #8 3 points 2 comments -> [Destroy AI](https://ali-alkhatib.com/blog/fuck-up-ai)<!-- HN:42506882:end --><!-- HN:42489600:start -->
-* [42489600](https://news.social-protocols.org/stats?id=42489600) #10 57 points 10 comments -> [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)<!-- HN:42489600:end --><!-- HN:42505475:start -->
-* [42505475](https://news.social-protocols.org/stats?id=42505475) #23 70 points 36 comments -> [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)<!-- HN:42505475:end -->
 #### **Thursday, December 26, 2024**
 <!-- HN:42513907:start -->
 * [42513907](https://news.social-protocols.org/stats?id=42513907) #28 34 points 22 comments -> [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)<!-- HN:42513907:end --><!-- HN:42515052:start -->

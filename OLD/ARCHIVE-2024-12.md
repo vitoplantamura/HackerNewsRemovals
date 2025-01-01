@@ -337,3 +337,9 @@
 * [42503332](https://news.ycombinator.com/item?id=42503332) #2 30 points 1 comments -> [I sensed anxiety and frustration at NeurIPS'24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)<!-- HN:42503332:end --><!-- HN:42504250:start -->
 * [42504250](https://news.ycombinator.com/item?id=42504250) #9 9 points 1 comments -> [Nobody goes to New York City anymore. It's too crowded](https://www.natesilver.net/p/nobody-goes-to-new-york-city-anymore)<!-- HN:42504250:end --><!-- HN:42485688:start -->
 * [42485688](https://news.ycombinator.com/item?id=42485688) #11 10 points 1 comments -> [Suprnova's Founder Speaks: 20 Years, Many Lessons, and a YouTube Empire](https://torrentfreak.com/suprnovas-founder-speaks-20-years-many-lessons-and-a-youtube-empire-241219/)<!-- HN:42485688:end -->
+#### **Wednesday, December 25, 2024**
+<!-- HN:42506478:start -->
+* [42506478](https://news.ycombinator.com/item?id=42506478) #21 14 points 1 comments -> [Solar, EVs and a Big Exit from Coal: 2024's Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)<!-- HN:42506478:end --><!-- HN:42506882:start -->
+* [42506882](https://news.ycombinator.com/item?id=42506882) #8 3 points 2 comments -> [Destroy AI](https://ali-alkhatib.com/blog/fuck-up-ai)<!-- HN:42506882:end --><!-- HN:42489600:start -->
+* [42489600](https://news.ycombinator.com/item?id=42489600) #10 57 points 10 comments -> [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)<!-- HN:42489600:end --><!-- HN:42505475:start -->
+* [42505475](https://news.ycombinator.com/item?id=42505475) #23 70 points 36 comments -> [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)<!-- HN:42505475:end -->
