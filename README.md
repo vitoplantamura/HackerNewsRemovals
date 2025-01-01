@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42559598](https://news.social-protocols.org/stats?id=42559598) #2 10 points 9 comments -> [Apple TV+ free first weekend of 2025](https://www.apple.com/tv-pr/news/2024/12/get-a-free-all-access-pass-to-apple-tv-the-first-weekend-of-2025/)<!-- HN:42559598:end --><!-- HN:42558142:start -->
 * [42558142](https://news.social-protocols.org/stats?id=42558142) #27 19 points 7 comments -> [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)<!-- HN:42558142:end --><!-- HN:42560933:start -->
 * [42560933](https://news.social-protocols.org/stats?id=42560933) #5 17 points 9 comments -> [Show HN: I made a tiny game that helps increase IQ](https://vidzert.com/connect-dots-without-crossing-lines)<!-- HN:42560933:end -->
-#### **Wednesday, January 1, 2025**
+#### **Wednesday, January 1, 2025**<!-- HN:42565524:start -->
+* [42565524](https://news.social-protocols.org/stats?id=42565524) #19 9 points 3 comments -> [At least 10 killed after vehicle hits crowd of people in New Orleans](https://news.sky.com/story/casualties-feared-after-reports-a-vehicle-struck-people-in-new-orleans-13282315)<!-- HN:42565524:end -->
