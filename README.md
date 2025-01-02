@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42565524](https://news.social-protocols.org/stats?id=42565524) #19 9 points 3 comments -> [At least 10 killed after vehicle hits crowd of people in New Orleans](https://news.sky.com/story/casualties-feared-after-reports-a-vehicle-struck-people-in-new-orleans-13282315)<!-- HN:42565524:end --><!-- HN:42566387:start -->
 * [42566387](https://news.social-protocols.org/stats?id=42566387) #21 32 points 40 comments -> [A Legendary Exposé of the Brutality of the Soviet Union](https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/)<!-- HN:42566387:end --><!-- HN:42565442:start -->
 * [42565442](https://news.social-protocols.org/stats?id=42565442) #23 15 points 4 comments -> [Should you do a newspaper workout?](https://elsbethvaino.com/2013/05/should-you-do-a-newspaper-workout/)<!-- HN:42565442:end -->
+#### **Thursday, January 2, 2025**
+<!-- HN:42569938:start -->
+* [42569938](https://news.social-protocols.org/stats?id=42569938) #14 8 points 2 comments -> [AI Predictions for 2025, from Gary Marcus](https://garymarcus.substack.com/p/25-ai-predictions-for-2025-from-marcus)<!-- HN:42569938:end -->
