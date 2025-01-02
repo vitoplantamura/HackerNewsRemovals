@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, January 2, 2025**<!-- HN:42571045:start -->
 * [42571045](https://news.social-protocols.org/stats?id=42571045) #12 23 points 40 comments -> [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)<!-- HN:42571045:end --><!-- HN:42571569:start -->
 * [42571569](https://news.social-protocols.org/stats?id=42571569) #19 29 points 15 comments -> [Spirituality Is Secure Attachment with Reality](https://intimatemirror.substack.com/p/spirituality-is-secure-attachment)<!-- HN:42571569:end --><!-- HN:42573214:start -->
-* [42573214](https://news.social-protocols.org/stats?id=42573214) #8 6 points 2 comments -> [Show HN: A tool to generate dragon names](https://dragonnamegenerator.net)<!-- HN:42573214:end -->
+* [42573214](https://news.social-protocols.org/stats?id=42573214) #8 6 points 2 comments -> [Show HN: A tool to generate dragon names](https://dragonnamegenerator.net)<!-- HN:42573214:end --><!-- HN:42566192:start -->
+* [42566192](https://news.social-protocols.org/stats?id=42566192) #14 551 points 176 comments -> [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)<!-- HN:42566192:end -->
