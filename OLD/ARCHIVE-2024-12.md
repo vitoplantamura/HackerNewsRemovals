@@ -343,3 +343,8 @@
 * [42506882](https://news.ycombinator.com/item?id=42506882) #8 3 points 2 comments -> [Destroy AI](https://ali-alkhatib.com/blog/fuck-up-ai)<!-- HN:42506882:end --><!-- HN:42489600:start -->
 * [42489600](https://news.ycombinator.com/item?id=42489600) #10 57 points 10 comments -> [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)<!-- HN:42489600:end --><!-- HN:42505475:start -->
 * [42505475](https://news.ycombinator.com/item?id=42505475) #23 70 points 36 comments -> [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)<!-- HN:42505475:end -->
+#### **Thursday, December 26, 2024**
+<!-- HN:42513907:start -->
+* [42513907](https://news.ycombinator.com/item?id=42513907) #28 34 points 22 comments -> [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)<!-- HN:42513907:end --><!-- HN:42515052:start -->
+* [42515052](https://news.ycombinator.com/item?id=42515052) #16 4 points 1 comments -> [The Dome Paradox: A Loophole in Newton's Laws](https://www.youtube.com/watch?v=EjZB81jCGj4)<!-- HN:42515052:end --><!-- HN:42516874:start -->
+* [42516874](https://news.ycombinator.com/item?id=42516874) #8 18 points 1 comments -> [Tokyo makes 3D data available](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/)<!-- HN:42516874:end -->
