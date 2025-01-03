@@ -348,3 +348,14 @@
 * [42513907](https://news.ycombinator.com/item?id=42513907) #28 34 points 22 comments -> [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)<!-- HN:42513907:end --><!-- HN:42515052:start -->
 * [42515052](https://news.ycombinator.com/item?id=42515052) #16 4 points 1 comments -> [The Dome Paradox: A Loophole in Newton's Laws](https://www.youtube.com/watch?v=EjZB81jCGj4)<!-- HN:42515052:end --><!-- HN:42516874:start -->
 * [42516874](https://news.ycombinator.com/item?id=42516874) #8 18 points 1 comments -> [Tokyo makes 3D data available](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/)<!-- HN:42516874:end -->
+#### **Friday, December 27, 2024**
+<!-- HN:42519202:start -->
+* [42519202](https://news.ycombinator.com/item?id=42519202) #27 8 points 6 comments -> [OpenAI is Lehman Brothers: A crash is coming](https://sherwood.news/tech/open-ai-is-lehman-brothers/)<!-- HN:42519202:end --><!-- HN:42519913:start -->
+* [42519913](https://news.ycombinator.com/item?id=42519913) #5 5 points 0 comments -> [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)<!-- HN:42519913:end --><!-- HN:42521914:start -->
+* [42521914](https://news.ycombinator.com/item?id=42521914) #2 61 points 18 comments -> [Denmark Offers to Buy USA (2019)](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)<!-- HN:42521914:end --><!-- HN:42521782:start -->
+* [42521782](https://news.ycombinator.com/item?id=42521782) #18 7 points 2 comments -> [From Pen and Paper to an AI Factory: McLaren's F1 Reinvention](https://www.mclaren.com/racing/partners/dell-technologies/how-ai-is-revolutionising-f1-presented-by-dell-technologies/)<!-- HN:42521782:end --><!-- HN:42521545:start -->
+* [42521545](https://news.ycombinator.com/item?id=42521545) #9 -> [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)<!-- HN:42521545:end --><!-- HN:42523491:start -->
+* [42523491](https://news.ycombinator.com/item?id=42523491) #4 -> [Show HN: DeepSeek v3 – A 671B parameter AI Language Model](https://deepseekv3.org/)<!-- HN:42523491:end --><!-- HN:42521735:start -->
+* [42521735](https://news.ycombinator.com/item?id=42521735) #26 23 points 7 comments -> [An Evidence-Based Approach to Goal Setting and Behavior Change](https://www.strongerbyscience.com/goal-setting/)<!-- HN:42521735:end --><!-- HN:42523590:start -->
+* [42523590](https://news.ycombinator.com/item?id=42523590) #3 8 points 1 comments -> [Induced Demand Debunked](https://urbanreforminstitute.org/2023/06/induced-demand-debunked/)<!-- HN:42523590:end --><!-- HN:42523934:start -->
+* [42523934](https://news.ycombinator.com/item?id=42523934) #25 49 points 34 comments -> [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)<!-- HN:42523934:end -->

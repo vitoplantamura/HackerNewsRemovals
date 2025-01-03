@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, December 27, 2024**
-<!-- HN:42519202:start -->
-* [42519202](https://news.social-protocols.org/stats?id=42519202) #27 8 points 6 comments -> [OpenAI is Lehman Brothers: A crash is coming](https://sherwood.news/tech/open-ai-is-lehman-brothers/)<!-- HN:42519202:end --><!-- HN:42519913:start -->
-* [42519913](https://news.social-protocols.org/stats?id=42519913) #5 5 points 0 comments -> [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)<!-- HN:42519913:end --><!-- HN:42521914:start -->
-* [42521914](https://news.social-protocols.org/stats?id=42521914) #2 61 points 18 comments -> [Denmark Offers to Buy USA (2019)](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)<!-- HN:42521914:end --><!-- HN:42521782:start -->
-* [42521782](https://news.social-protocols.org/stats?id=42521782) #18 7 points 2 comments -> [From Pen and Paper to an AI Factory: McLaren's F1 Reinvention](https://www.mclaren.com/racing/partners/dell-technologies/how-ai-is-revolutionising-f1-presented-by-dell-technologies/)<!-- HN:42521782:end --><!-- HN:42521545:start -->
-* [42521545](https://news.social-protocols.org/stats?id=42521545) #9 -> [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)<!-- HN:42521545:end --><!-- HN:42523491:start -->
-* [42523491](https://news.social-protocols.org/stats?id=42523491) #4 -> [Show HN: DeepSeek v3 – A 671B parameter AI Language Model](https://deepseekv3.org/)<!-- HN:42523491:end --><!-- HN:42521735:start -->
-* [42521735](https://news.social-protocols.org/stats?id=42521735) #26 23 points 7 comments -> [An Evidence-Based Approach to Goal Setting and Behavior Change](https://www.strongerbyscience.com/goal-setting/)<!-- HN:42521735:end --><!-- HN:42523590:start -->
-* [42523590](https://news.social-protocols.org/stats?id=42523590) #3 8 points 1 comments -> [Induced Demand Debunked](https://urbanreforminstitute.org/2023/06/induced-demand-debunked/)<!-- HN:42523590:end --><!-- HN:42523934:start -->
-* [42523934](https://news.social-protocols.org/stats?id=42523934) #25 49 points 34 comments -> [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)<!-- HN:42523934:end -->
 #### **Saturday, December 28, 2024**
 <!-- HN:42526150:start -->
 * [42526150](https://news.social-protocols.org/stats?id=42526150) #21 12 points 10 comments -> [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)<!-- HN:42526150:end --><!-- HN:42507395:start -->
