@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42576001](https://news.social-protocols.org/stats?id=42576001) #23 6 points 1 comments -> [Palestinian Authority Suspends Al Jazeera TV in West Bank, Citing Incitement](https://www.bbc.com/news/articles/cvgmxzyrmn8o)<!-- HN:42576001:end --><!-- HN:42576090:start -->
 * [42576090](https://news.social-protocols.org/stats?id=42576090) #27 8 points 0 comments -> [The Dogs of (Urban) War: Lessons from the IDFs' Specialized Canine Unit](https://mwi.westpoint.edu/the-dogs-of-urban-war-lessons-from-oketz-the-israel-defense-forces-specialized-canine-unit/)<!-- HN:42576090:end --><!-- HN:42547615:start -->
 * [42547615](https://news.social-protocols.org/stats?id=42547615) #17 9 points 4 comments -> [Systems Ideas That Sound Good but Almost Never Work – "Let's Just "](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)<!-- HN:42547615:end -->
+#### **Friday, January 3, 2025**
+<!-- HN:42582415:start -->
+* [42582415](https://news.social-protocols.org/stats?id=42582415) #2 12 points 2 comments -> [FCC's Net Neutrality Rules Struck Down by Sixth Circuit](https://stocks.apple.com/AOtE_yI5dTe6OkLqgYKQ69A)<!-- HN:42582415:end -->
