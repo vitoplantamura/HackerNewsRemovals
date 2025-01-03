@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42547615](https://news.social-protocols.org/stats?id=42547615) #17 9 points 4 comments -> [Systems Ideas That Sound Good but Almost Never Work – "Let's Just "](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)<!-- HN:42547615:end -->
 #### **Friday, January 3, 2025**
 <!-- HN:42582415:start -->
-* [42582415](https://news.social-protocols.org/stats?id=42582415) #2 12 points 2 comments -> [FCC's Net Neutrality Rules Struck Down by Sixth Circuit](https://stocks.apple.com/AOtE_yI5dTe6OkLqgYKQ69A)<!-- HN:42582415:end -->
+* [42582415](https://news.social-protocols.org/stats?id=42582415) #2 12 points 2 comments -> [FCC's Net Neutrality Rules Struck Down by Sixth Circuit](https://stocks.apple.com/AOtE_yI5dTe6OkLqgYKQ69A)<!-- HN:42582415:end --><!-- HN:42582913:start -->
+* [42582913](https://news.social-protocols.org/stats?id=42582913) #13 5 points 3 comments -> [Justine: "I'm over 40 and I'm one of the most active coders in the world"](https://twitter.com/JustineTunney/status/1875041647198879889)<!-- HN:42582913:end -->
