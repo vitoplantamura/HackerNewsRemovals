@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42588285](https://news.social-protocols.org/stats?id=42588285) #8 22 points 17 comments -> [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)<!-- HN:42588285:end --><!-- HN:42589497:start -->
 * [42589497](https://news.social-protocols.org/stats?id=42589497) #4 10 points 16 comments -> [Factories in Space](https://www.factoriesinspace.com/)<!-- HN:42589497:end --><!-- HN:42589788:start -->
 * [42589788](https://news.social-protocols.org/stats?id=42589788) #6 55 points 1 comments -> [Canada Should Join the EU](https://www.economist.com/europe/2025/01/02/why-canada-should-join-the-eu)<!-- HN:42589788:end -->
-#### **Saturday, January 4, 2025**
+#### **Saturday, January 4, 2025**<!-- HN:42570609:start -->
+* [42570609](https://news.social-protocols.org/stats?id=42570609) #26 38 points 16 comments -> [Rust, Reflection and Access Rules](https://fractalfir.github.io/generated_html/refl_priv.html)<!-- HN:42570609:end -->
