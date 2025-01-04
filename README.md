@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, December 28, 2024**
-<!-- HN:42526150:start -->
-* [42526150](https://news.social-protocols.org/stats?id=42526150) #21 12 points 10 comments -> [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)<!-- HN:42526150:end --><!-- HN:42507395:start -->
-* [42507395](https://news.social-protocols.org/stats?id=42507395) #14 5 points 2 comments -> [Clap to Find My Phone App](https://getmobi.ai/)<!-- HN:42507395:end --><!-- HN:42529207:start -->
-* [42529207](https://news.social-protocols.org/stats?id=42529207) #12 50 points 23 comments -> [LLMs are everything that it wrong in computing](https://crys.site/blog/2024/llms-scare-me/)<!-- HN:42529207:end --><!-- HN:42530293:start -->
-* [42530293](https://news.social-protocols.org/stats?id=42530293) #3 9 points 7 comments -> [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)<!-- HN:42530293:end --><!-- HN:42529396:start -->
-* [42529396](https://news.social-protocols.org/stats?id=42529396) #17 29 points 3 comments -> [Ten things in tech I found joy in during 2024](https://rubenerd.com/ten-it-things-i-found-joy-in-this-year/)<!-- HN:42529396:end --><!-- HN:42506623:start -->
-* [42506623](https://news.social-protocols.org/stats?id=42506623) #16 90 points 26 comments -> [PixLens: A lens that turns the scenery you see into pixel art](https://monoli-shop.com/products/pixlens-コピー)<!-- HN:42506623:end --><!-- HN:42532156:start -->
-* [42532156](https://news.social-protocols.org/stats?id=42532156) #17 13 points 8 comments -> [Costco Denies Shareholder Demand to Back Down from DEI Hiring](https://www.newsweek.com/costco-board-shareholder-dei-hiring-2006717)<!-- HN:42532156:end --><!-- HN:42532429:start -->
-* [42532429](https://news.social-protocols.org/stats?id=42532429) #4 40 points 19 comments -> [Missile Strike Confirmed as Cause of Azerbaijan E190 Crash – Aeroxplorer.com](https://aeroxplorer.com/articles/missile-strike-confirmed-as-cause-of-azerbaijan-e190-crash.php)<!-- HN:42532429:end --><!-- HN:42532353:start -->
-* [42532353](https://news.social-protocols.org/stats?id=42532353) #30 11 points 6 comments -> [Per Seat Pricing Sucks](https://blog.flippercloud.io/per-seat-pricing-sucks/)<!-- HN:42532353:end -->
 #### **Sunday, December 29, 2024**
 <!-- HN:42536342:start -->
 * [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end --><!-- HN:42537790:start -->
