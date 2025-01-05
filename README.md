@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42597428](https://news.social-protocols.org/stats?id=42597428) #4 7 points 2 comments -> [Show HN: Signify – FOSS tool to generate Email signatures (HTML and PNG)](https://signify.difuse.io)<!-- HN:42597428:end --><!-- HN:42597977:start -->
 * [42597977](https://news.social-protocols.org/stats?id=42597977) #27 4 points 0 comments -> [Ohio Puts Police Bodycam Footage Behind a Paywall](https://theintercept.com/2025/01/03/police-body-camera-footage-ohio/)<!-- HN:42597977:end --><!-- HN:42569077:start -->
 * [42569077](https://news.social-protocols.org/stats?id=42569077) #14 10 points 5 comments -> [Human in the Loop and the Missing Productivity Growth](https://everything.intellectronica.net/p/human-and-tech-productivity)<!-- HN:42569077:end -->
+#### **Sunday, January 5, 2025**
+<!-- HN:42598948:start -->
+* [42598948](https://news.social-protocols.org/stats?id=42598948) #16 7 points 0 comments -> [Understanding Doge as Procurement Capture](https://www.anildash.com//2025/01/04/DOGE-procurement-capture/)<!-- HN:42598948:end -->
