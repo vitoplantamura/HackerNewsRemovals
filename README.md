@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42569077](https://news.social-protocols.org/stats?id=42569077) #14 10 points 5 comments -> [Human in the Loop and the Missing Productivity Growth](https://everything.intellectronica.net/p/human-and-tech-productivity)<!-- HN:42569077:end -->
 #### **Sunday, January 5, 2025**
 <!-- HN:42598948:start -->
-* [42598948](https://news.social-protocols.org/stats?id=42598948) #16 7 points 0 comments -> [Understanding Doge as Procurement Capture](https://www.anildash.com//2025/01/04/DOGE-procurement-capture/)<!-- HN:42598948:end -->
+* [42598948](https://news.social-protocols.org/stats?id=42598948) #16 7 points 0 comments -> [Understanding Doge as Procurement Capture](https://www.anildash.com//2025/01/04/DOGE-procurement-capture/)<!-- HN:42598948:end --><!-- HN:42598722:start -->
+* [42598722](https://news.social-protocols.org/stats?id=42598722) #1 173 points 69 comments -> [Nearly half Dell's US workforce has rejected RTO. Rather WFH than get promoted](https://www.msn.com/en-us/money/companies/nearly-half-of-dell-s-full-time-workforce-in-the-u-s-has-rejected-returning-to-the-office-they-d-rather-work-from-home-than-get-promoted/ar-BB1oBygb)<!-- HN:42598722:end -->
