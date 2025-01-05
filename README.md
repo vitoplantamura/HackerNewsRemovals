@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, December 29, 2024**
-<!-- HN:42536342:start -->
-* [42536342](https://news.social-protocols.org/stats?id=42536342) #23 10 points 3 comments -> [Dr. Paul Releases 2024 'Festivus' Report on Government Waste](https://www.hsgac.senate.gov/media/reps/dr-paul-releases-2024-festivus-report-on-government-waste/)<!-- HN:42536342:end --><!-- HN:42537790:start -->
-* [42537790](https://news.social-protocols.org/stats?id=42537790) #4 4 points 6 comments -> [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)<!-- HN:42537790:end --><!-- HN:42537829:start -->
-* [42537829](https://news.social-protocols.org/stats?id=42537829) #12 30 points 16 comments -> [America in Two Headlines](https://www.kenklippenstein.com/p/america-in-two-headlines)<!-- HN:42537829:end --><!-- HN:42538458:start -->
-* [42538458](https://news.social-protocols.org/stats?id=42538458) #26 9 points 5 comments -> [SQLite3: No Room for Drama](https://calmlog.medium.com/sqlite3-no-room-for-drama-ceea8a84426e)<!-- HN:42538458:end --><!-- HN:42539398:start -->
-* [42539398](https://news.social-protocols.org/stats?id=42539398) #29 23 points 7 comments -> [McKinsey Destroyed the Middle Class](https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/)<!-- HN:42539398:end --><!-- HN:42539673:start -->
-* [42539673](https://news.social-protocols.org/stats?id=42539673) #7 5 points 0 comments -> [Year 2024 ends on bad note for Boeing with twin 737-800 disasters on same day](https://telanganatoday.com/year-2024-ends-bad-note-boeing-twin-disasters-striking-737-800-aircraft-same-day)<!-- HN:42539673:end --><!-- HN:42540870:start -->
-* [42540870](https://news.social-protocols.org/stats?id=42540870) #14 8 points 0 comments -> [Pirate Party – a political party in Iceland (and in many other countries)](https://en.wikipedia.org/wiki/Pirate_Party_(Iceland))<!-- HN:42540870:end --><!-- HN:42540850:start -->
-* [42540850](https://news.social-protocols.org/stats?id=42540850) #4 4 points 0 comments -> [The BBC's Civil War over Gaza](https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage)<!-- HN:42540850:end --><!-- HN:42541536:start -->
-* [42541536](https://news.social-protocols.org/stats?id=42541536) #25 24 points 7 comments -> [Enslaved on OnlyFans: Women describe lives of torment and sexual servitude](https://www.reuters.com/investigates/special-report/onlyfans-sex-trafficking/)<!-- HN:42541536:end --><!-- HN:42540427:start -->
-* [42540427](https://news.social-protocols.org/stats?id=42540427) #30 204 points 161 comments -> [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)<!-- HN:42540427:end --><!-- HN:42542215:start -->
-* [42542215](https://news.social-protocols.org/stats?id=42542215) #4 5 points 1 comments -> [Epoll Is Fundamentally Broken](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)<!-- HN:42542215:end -->
 #### **Monday, December 30, 2024**
 <!-- HN:42544923:start -->
 * [42544923](https://news.social-protocols.org/stats?id=42544923) #4 11 points 3 comments -> [What ails America and how to fix it? (Jeffrey Sachs)](https://www.jeffsachs.org/newspaper-articles/6gfpzjj9m8phyl5adxg5dp26xc4l2d)<!-- HN:42544923:end --><!-- HN:42545772:start -->
