@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42604840](https://news.social-protocols.org/stats?id=42604840) #17 9 points 3 comments -> [Show HN: I built a tool to rank cities based on purchasing power for SWEs](https://www.techcities.app/?baseCity=sf)<!-- HN:42604840:end -->
 #### **Monday, January 6, 2025**
 <!-- HN:42606958:start -->
-* [42606958](https://news.social-protocols.org/stats?id=42606958) #10 21 points 10 comments -> [Kentucky Cops Raid Wrong Home, Kill Innocent Man over Alleged Stolen Weed Eater](https://atlantablackstar.com/2024/12/31/kentucky-cops-raid-wrong-home-kill-man-over-alleged-stolen-weed-eater/)<!-- HN:42606958:end -->
+* [42606958](https://news.social-protocols.org/stats?id=42606958) #10 21 points 10 comments -> [Kentucky Cops Raid Wrong Home, Kill Innocent Man over Alleged Stolen Weed Eater](https://atlantablackstar.com/2024/12/31/kentucky-cops-raid-wrong-home-kill-man-over-alleged-stolen-weed-eater/)<!-- HN:42606958:end --><!-- HN:42606482:start -->
+* [42606482](https://news.social-protocols.org/stats?id=42606482) #25 24 points 41 comments -> [Why America is stuck with an elevator crisis](https://www.axios.com/2025/01/05/elevators-escalators-regulations-buildings-construction)<!-- HN:42606482:end -->
