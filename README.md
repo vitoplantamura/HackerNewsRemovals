@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, December 30, 2024**
-<!-- HN:42544923:start -->
-* [42544923](https://news.social-protocols.org/stats?id=42544923) #4 11 points 3 comments -> [What ails America and how to fix it? (Jeffrey Sachs)](https://www.jeffsachs.org/newspaper-articles/6gfpzjj9m8phyl5adxg5dp26xc4l2d)<!-- HN:42544923:end --><!-- HN:42545772:start -->
-* [42545772](https://news.social-protocols.org/stats?id=42545772) #15 46 points 10 comments -> [Israel built an 'AI factory' for war. It unleashed it in Gaza](https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/)<!-- HN:42545772:end --><!-- HN:42550367:start -->
-* [42550367](https://news.social-protocols.org/stats?id=42550367) #24 3 points 0 comments -> [Show HN: Learn Japanese Kanji, no silly mnemonics](https://www.kanjideck.com)<!-- HN:42550367:end --><!-- HN:42552741:start -->
-* [42552741](https://news.social-protocols.org/stats?id=42552741) #9 3 points 0 comments -> [Enjoy Apple TV+ for free the first weekend of 2025](https://www.apple.com/tv-pr/news/2024/12/get-a-free-all-access-pass-to-apple-tv-the-first-weekend-of-2025/)<!-- HN:42552741:end --><!-- HN:42554088:start -->
-* [42554088](https://news.social-protocols.org/stats?id=42554088) #8 4 points 1 comments -> [Is a Dosa a Crepe?](https://datanutrition.org/)<!-- HN:42554088:end --><!-- HN:42519168:start -->
-* [42519168](https://news.social-protocols.org/stats?id=42519168) #18 100 points 186 comments -> [Where is James Bond? Trapped in an ugly stalemate with Amazon](https://www.wsj.com/business/media/james-bond-movies-amazon-barbara-broccoli-0b04f0db)<!-- HN:42519168:end -->
 #### **Tuesday, December 31, 2024**
 <!-- HN:42555040:start -->
 * [42555040](https://news.social-protocols.org/stats?id=42555040) #6 5 points 0 comments -> [Former Meta Recruiter Reveals Why You're Struggling to Land a Big Tech Offer](https://techiegamers.com/breaking-into-big-tech/)<!-- HN:42555040:end --><!-- HN:42555590:start -->
