@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42602950](https://news.social-protocols.org/stats?id=42602950) #19 17 points 9 comments -> [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)<!-- HN:42602950:end --><!-- HN:42603394:start -->
 * [42603394](https://news.social-protocols.org/stats?id=42603394) #26 8 points 2 comments -> [Self-driving Tesla steers onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)<!-- HN:42603394:end --><!-- HN:42604840:start -->
 * [42604840](https://news.social-protocols.org/stats?id=42604840) #17 9 points 3 comments -> [Show HN: I built a tool to rank cities based on purchasing power for SWEs](https://www.techcities.app/?baseCity=sf)<!-- HN:42604840:end -->
+#### **Monday, January 6, 2025**
+<!-- HN:42606958:start -->
+* [42606958](https://news.social-protocols.org/stats?id=42606958) #10 21 points 10 comments -> [Kentucky Cops Raid Wrong Home, Kill Innocent Man over Alleged Stolen Weed Eater](https://atlantablackstar.com/2024/12/31/kentucky-cops-raid-wrong-home-kill-man-over-alleged-stolen-weed-eater/)<!-- HN:42606958:end -->
