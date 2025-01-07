@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, December 31, 2024**
-<!-- HN:42555040:start -->
-* [42555040](https://news.social-protocols.org/stats?id=42555040) #6 5 points 0 comments -> [Former Meta Recruiter Reveals Why You're Struggling to Land a Big Tech Offer](https://techiegamers.com/breaking-into-big-tech/)<!-- HN:42555040:end --><!-- HN:42555590:start -->
-* [42555590](https://news.social-protocols.org/stats?id=42555590) #17 3 points 2 comments -> [Show HN: I Made a Dumb Game](https://pizzzza.lol)<!-- HN:42555590:end --><!-- HN:42530620:start -->
-* [42530620](https://news.social-protocols.org/stats?id=42530620) #26 21 points 28 comments -> [Monokai Pro for Jetbrains](https://monokai.pro/jetbrains)<!-- HN:42530620:end --><!-- HN:42547367:start -->
-* [42547367](https://news.social-protocols.org/stats?id=42547367) #15 11 points 4 comments -> [Letting Language Models Write My Website](https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html)<!-- HN:42547367:end --><!-- HN:42534100:start -->
-* [42534100](https://news.social-protocols.org/stats?id=42534100) #24 -> [The most stunning portrait that I have ever seen](https://www.bbc.com/news/articles/cvg7vwlg8rmo)<!-- HN:42534100:end --><!-- HN:42559048:start -->
-* [42559048](https://news.social-protocols.org/stats?id=42559048) #2 20 points 40 comments -> [Show HN: Obsess Jobs – Apply to jobs in your sleep](https://obsessjobs.com/)<!-- HN:42559048:end --><!-- HN:42559598:start -->
-* [42559598](https://news.social-protocols.org/stats?id=42559598) #2 10 points 9 comments -> [Apple TV+ free first weekend of 2025](https://www.apple.com/tv-pr/news/2024/12/get-a-free-all-access-pass-to-apple-tv-the-first-weekend-of-2025/)<!-- HN:42559598:end --><!-- HN:42558142:start -->
-* [42558142](https://news.social-protocols.org/stats?id=42558142) #27 19 points 7 comments -> [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)<!-- HN:42558142:end --><!-- HN:42560933:start -->
-* [42560933](https://news.social-protocols.org/stats?id=42560933) #5 17 points 9 comments -> [Show HN: I made a tiny game that helps increase IQ](https://vidzert.com/connect-dots-without-crossing-lines)<!-- HN:42560933:end -->
 #### **Wednesday, January 1, 2025**<!-- HN:42565524:start -->
 * [42565524](https://news.social-protocols.org/stats?id=42565524) #19 9 points 3 comments -> [At least 10 killed after vehicle hits crowd of people in New Orleans](https://news.sky.com/story/casualties-feared-after-reports-a-vehicle-struck-people-in-new-orleans-13282315)<!-- HN:42565524:end --><!-- HN:42566387:start -->
 * [42566387](https://news.social-protocols.org/stats?id=42566387) #21 32 points 40 comments -> [A Legendary Exposé of the Brutality of the Soviet Union](https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/)<!-- HN:42566387:end --><!-- HN:42565442:start -->
