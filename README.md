@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42616269](https://news.social-protocols.org/stats?id=42616269) #29 48 points 20 comments -> [What Parler Saw During the Attack on the Capitol](https://projects.propublica.org/parler-capitol-videos/)<!-- HN:42616269:end -->
 #### **Tuesday, January 7, 2025**
 <!-- HN:42618260:start -->
-* [42618260](https://news.social-protocols.org/stats?id=42618260) #19 14 points 1 comments -> [Instagram Begins Randomly Showing Users AI-Generated Images of Themselves](https://www.404media.co/instagram-begins-randomly-showing-users-ai-generated-images-of-themselves/)<!-- HN:42618260:end -->
+* [42618260](https://news.social-protocols.org/stats?id=42618260) #19 14 points 1 comments -> [Instagram Begins Randomly Showing Users AI-Generated Images of Themselves](https://www.404media.co/instagram-begins-randomly-showing-users-ai-generated-images-of-themselves/)<!-- HN:42618260:end --><!-- HN:42618849:start -->
+* [42618849](https://news.social-protocols.org/stats?id=42618849) #3 71 points 17 comments -> [Nvidia Blackwell GeForce RTX 50 Series Opens New World of AI Computer Graphics](https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics)<!-- HN:42618849:end -->
