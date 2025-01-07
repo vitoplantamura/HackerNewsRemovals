@@ -135,3 +135,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42614848](https://news.social-protocols.org/stats?id=42614848) #27 4 points 0 comments -> [Persistent spike protein in brain may contribute to sequelae of Covid-19](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00438-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312824004384%3Fshowall%3Dtrue)<!-- HN:42614848:end --><!-- HN:42592970:start -->
 * [42592970](https://news.social-protocols.org/stats?id=42592970) #15 12 points 4 comments -> [Show HN: Al Hugging Video Generator](https://cococlip.ai/features/ai-hug)<!-- HN:42592970:end --><!-- HN:42616269:start -->
 * [42616269](https://news.social-protocols.org/stats?id=42616269) #29 48 points 20 comments -> [What Parler Saw During the Attack on the Capitol](https://projects.propublica.org/parler-capitol-videos/)<!-- HN:42616269:end -->
+#### **Tuesday, January 7, 2025**
+<!-- HN:42618260:start -->
+* [42618260](https://news.social-protocols.org/stats?id=42618260) #19 14 points 1 comments -> [Instagram Begins Randomly Showing Users AI-Generated Images of Themselves](https://www.404media.co/instagram-begins-randomly-showing-users-ai-generated-images-of-themselves/)<!-- HN:42618260:end -->
