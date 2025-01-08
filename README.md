@@ -157,3 +157,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42628303](https://news.social-protocols.org/stats?id=42628303) #12 8 points 0 comments -> [Go Is a Well-Designed Language](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)<!-- HN:42628303:end --><!-- HN:42627902:start -->
 * [42627902](https://news.social-protocols.org/stats?id=42627902) #10 9 points 2 comments -> [50 Years of SNL's Graphic Parodies (2024)](https://www.printmag.com/daily-heller/the-daily-heller-snls-graphic-parody/)<!-- HN:42627902:end --><!-- HN:42629052:start -->
 * [42629052](https://news.social-protocols.org/stats?id=42629052) #24 10 points 2 comments -> [Meta Now Lets Users Say Gay and Trans People Have 'Mental Illness'](https://www.wired.com/story/meta-immigration-gender-policies-change/)<!-- HN:42629052:end -->
+#### **Wednesday, January 8, 2025**
+<!-- HN:42627170:start -->
+* [42627170](https://news.social-protocols.org/stats?id=42627170) #24 38 points 69 comments -> [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)<!-- HN:42627170:end -->
