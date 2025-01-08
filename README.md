@@ -154,4 +154,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42629052](https://news.social-protocols.org/stats?id=42629052) #24 10 points 2 comments -> [Meta Now Lets Users Say Gay and Trans People Have 'Mental Illness'](https://www.wired.com/story/meta-immigration-gender-policies-change/)<!-- HN:42629052:end -->
 #### **Wednesday, January 8, 2025**
 <!-- HN:42627170:start -->
-* [42627170](https://news.social-protocols.org/stats?id=42627170) #24 38 points 69 comments -> [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)<!-- HN:42627170:end -->
+* [42627170](https://news.social-protocols.org/stats?id=42627170) #24 38 points 69 comments -> [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)<!-- HN:42627170:end --><!-- HN:42632553:start -->
+* [42632553](https://news.social-protocols.org/stats?id=42632553) #30 12 points 10 comments -> [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)<!-- HN:42632553:end -->
