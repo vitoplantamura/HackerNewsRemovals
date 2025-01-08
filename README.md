@@ -154,5 +154,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42629052](https://news.social-protocols.org/stats?id=42629052) #24 10 points 2 comments -> [Meta Now Lets Users Say Gay and Trans People Have 'Mental Illness'](https://www.wired.com/story/meta-immigration-gender-policies-change/)<!-- HN:42629052:end -->
 #### **Wednesday, January 8, 2025**
 <!-- HN:42627170:start -->
-* [42627170](https://news.social-protocols.org/stats?id=42627170) #24 38 points 69 comments -> [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)<!-- HN:42627170:end --><!-- HN:42605718:start -->
-* [42605718](https://news.social-protocols.org/stats?id=42605718) #12 18 points 6 comments -> [Coinage and the Tyranny of Fantasy 'Gold'](https://acoup.blog/2025/01/03/collections-coinage-and-the-tyranny-of-fantasy-gold/)<!-- HN:42605718:end -->
+* [42627170](https://news.social-protocols.org/stats?id=42627170) #24 38 points 69 comments -> [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)<!-- HN:42627170:end -->
