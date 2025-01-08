@@ -155,5 +155,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, January 8, 2025**
 <!-- HN:42627170:start -->
 * [42627170](https://news.social-protocols.org/stats?id=42627170) #24 38 points 69 comments -> [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)<!-- HN:42627170:end --><!-- HN:42632553:start -->
-* [42632553](https://news.social-protocols.org/stats?id=42632553) #30 12 points 10 comments -> [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)<!-- HN:42632553:end --><!-- HN:42633463:start -->
-* [42633463](https://news.social-protocols.org/stats?id=42633463) #12 24 points 1 comments -> [Fired from Meta After 1 Week: Here's All the Dirt I Got](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65)<!-- HN:42633463:end -->
+* [42632553](https://news.social-protocols.org/stats?id=42632553) #30 12 points 10 comments -> [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)<!-- HN:42632553:end -->
