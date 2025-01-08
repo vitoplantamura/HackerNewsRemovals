@@ -43,10 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, January 1, 2025**<!-- HN:42565524:start -->
-* [42565524](https://news.social-protocols.org/stats?id=42565524) #19 9 points 3 comments -> [At least 10 killed after vehicle hits crowd of people in New Orleans](https://news.sky.com/story/casualties-feared-after-reports-a-vehicle-struck-people-in-new-orleans-13282315)<!-- HN:42565524:end --><!-- HN:42566387:start -->
-* [42566387](https://news.social-protocols.org/stats?id=42566387) #21 32 points 40 comments -> [A Legendary Exposé of the Brutality of the Soviet Union](https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/)<!-- HN:42566387:end --><!-- HN:42565442:start -->
-* [42565442](https://news.social-protocols.org/stats?id=42565442) #23 15 points 4 comments -> [Should you do a newspaper workout?](https://elsbethvaino.com/2013/05/should-you-do-a-newspaper-workout/)<!-- HN:42565442:end -->
 #### **Thursday, January 2, 2025**<!-- HN:42571045:start -->
 * [42571045](https://news.social-protocols.org/stats?id=42571045) #12 23 points 40 comments -> [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)<!-- HN:42571045:end --><!-- HN:42571569:start -->
 * [42571569](https://news.social-protocols.org/stats?id=42571569) #19 29 points 15 comments -> [Spirituality Is Secure Attachment with Reality](https://intimatemirror.substack.com/p/spirituality-is-secure-attachment)<!-- HN:42571569:end --><!-- HN:42573214:start -->
