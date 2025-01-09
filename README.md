@@ -143,5 +143,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, January 9, 2025**
 <!-- HN:42601942:start -->
 * [42601942](https://news.social-protocols.org/stats?id=42601942) #20 4 points 1 comments -> [How to Activate the Value Flywheel Effect with Your Data](https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html)<!-- HN:42601942:end --><!-- HN:42602438:start -->
-* [42602438](https://news.social-protocols.org/stats?id=42602438) #23 10 points 9 comments -> [Brief Introduction to Fix and Fix JSON](https://fixparser.dev/what-is-fix)<!-- HN:42602438:end --><!-- HN:42641109:start -->
-* [42641109](https://news.social-protocols.org/stats?id=42641109) #10 10 points 4 comments -> [I Got a Magnet Implanted in My Hand](https://vale.rocks/posts/my-experience-biohacking)<!-- HN:42641109:end -->
+* [42602438](https://news.social-protocols.org/stats?id=42602438) #23 10 points 9 comments -> [Brief Introduction to Fix and Fix JSON](https://fixparser.dev/what-is-fix)<!-- HN:42602438:end -->
