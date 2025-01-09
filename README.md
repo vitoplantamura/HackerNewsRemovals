@@ -163,3 +163,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42633985](https://news.social-protocols.org/stats?id=42633985) #25 9 points 0 comments -> [Priesthoods](https://www.astralcodexten.com/p/on-priesthoods)<!-- HN:42633985:end --><!-- HN:42635089:start -->
 * [42635089](https://news.social-protocols.org/stats?id=42635089) #26 3 points 0 comments -> [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)<!-- HN:42635089:end --><!-- HN:42636195:start -->
 * [42636195](https://news.social-protocols.org/stats?id=42636195) #6 11 points 0 comments -> [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)<!-- HN:42636195:end -->
+#### **Thursday, January 9, 2025**
+<!-- HN:42601942:start -->
+* [42601942](https://news.social-protocols.org/stats?id=42601942) #20 4 points 1 comments -> [How to Activate the Value Flywheel Effect with Your Data](https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html)<!-- HN:42601942:end -->
