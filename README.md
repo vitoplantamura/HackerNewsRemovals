@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42636195](https://news.social-protocols.org/stats?id=42636195) #6 11 points 0 comments -> [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)<!-- HN:42636195:end -->
 #### **Thursday, January 9, 2025**
 <!-- HN:42601942:start -->
-* [42601942](https://news.social-protocols.org/stats?id=42601942) #20 4 points 1 comments -> [How to Activate the Value Flywheel Effect with Your Data](https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html)<!-- HN:42601942:end -->
+* [42601942](https://news.social-protocols.org/stats?id=42601942) #20 4 points 1 comments -> [How to Activate the Value Flywheel Effect with Your Data](https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html)<!-- HN:42601942:end --><!-- HN:42602438:start -->
+* [42602438](https://news.social-protocols.org/stats?id=42602438) #23 10 points 9 comments -> [Brief Introduction to Fix and Fix JSON](https://fixparser.dev/what-is-fix)<!-- HN:42602438:end -->
