@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, January 9, 2025**
 <!-- HN:42601942:start -->
 * [42601942](https://news.social-protocols.org/stats?id=42601942) #20 4 points 1 comments -> [How to Activate the Value Flywheel Effect with Your Data](https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html)<!-- HN:42601942:end --><!-- HN:42602438:start -->
-* [42602438](https://news.social-protocols.org/stats?id=42602438) #23 10 points 9 comments -> [Brief Introduction to Fix and Fix JSON](https://fixparser.dev/what-is-fix)<!-- HN:42602438:end -->
+* [42602438](https://news.social-protocols.org/stats?id=42602438) #23 10 points 9 comments -> [Brief Introduction to Fix and Fix JSON](https://fixparser.dev/what-is-fix)<!-- HN:42602438:end --><!-- HN:42612592:start -->
+* [42612592](https://news.social-protocols.org/stats?id=42612592) #6 3 points 1 comments -> [Is rapid charging bad for your car? Learn about battery C-Rate [video]](https://foxev.io/batteries/c-rate-is-rapid-charging-bad/)<!-- HN:42612592:end -->
