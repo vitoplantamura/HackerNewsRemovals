@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42614319](https://news.social-protocols.org/stats?id=42614319) #18 4 points 5 comments -> [Chemical reactions deplete nutrients in plant-based drinks](https://phys.org/news/2024-12-chemical-reactions-deplete-nutrients-based.html)<!-- HN:42614319:end --><!-- HN:42649858:start -->
 * [42649858](https://news.social-protocols.org/stats?id=42649858) #13 15 points 41 comments -> [Can we communally deprecate git checkout?](https://mirawelner.com/posts/checkout.html)<!-- HN:42649858:end --><!-- HN:42650094:start -->
 * [42650094](https://news.social-protocols.org/stats?id=42650094) #26 4 points 0 comments -> [The '90s weren't that great](https://www.slowboring.com/p/the-90s-werent-that-great)<!-- HN:42650094:end -->
+#### **Friday, January 10, 2025**
+<!-- HN:42651087:start -->
+* [42651087](https://news.social-protocols.org/stats?id=42651087) #5 28 points 6 comments -> [See the Thousands of Apps Hijacked to Spy on Your Location](https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/)<!-- HN:42651087:end -->
