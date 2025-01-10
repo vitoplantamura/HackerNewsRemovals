@@ -136,8 +136,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42647412](https://news.social-protocols.org/stats?id=42647412) #6 3 points 1 comments -> [Meta's TOS: degradation is not allowed, unless the target is LGBT](https://transparency.meta.com/policies/community-standards/hateful-conduct/?_fb_noscript=1)<!-- HN:42647412:end --><!-- HN:42645187:start -->
 * [42645187](https://news.social-protocols.org/stats?id=42645187) #23 12 points 2 comments -> [Auto-saving Rails forms with Turbo Streams](https://nts.strzibny.name/rails-autosave-form-turbo-stream/)<!-- HN:42645187:end --><!-- HN:42647883:start -->
 * [42647883](https://news.social-protocols.org/stats?id=42647883) #9 4 points 6 comments -> [Show HN: A browser designed to support uBlock Origin (MV2) and respect privacy](https://ublock-browser.com/)<!-- HN:42647883:end --><!-- HN:42614319:start -->
-* [42614319](https://news.social-protocols.org/stats?id=42614319) #18 4 points 5 comments -> [Chemical reactions deplete nutrients in plant-based drinks](https://phys.org/news/2024-12-chemical-reactions-deplete-nutrients-based.html)<!-- HN:42614319:end --><!-- HN:42649858:start -->
-* [42649858](https://news.social-protocols.org/stats?id=42649858) #13 15 points 41 comments -> [Can we communally deprecate git checkout?](https://mirawelner.com/posts/checkout.html)<!-- HN:42649858:end --><!-- HN:42650094:start -->
+* [42614319](https://news.social-protocols.org/stats?id=42614319) #18 4 points 5 comments -> [Chemical reactions deplete nutrients in plant-based drinks](https://phys.org/news/2024-12-chemical-reactions-deplete-nutrients-based.html)<!-- HN:42614319:end --><!-- HN:42650094:start -->
 * [42650094](https://news.social-protocols.org/stats?id=42650094) #26 4 points 0 comments -> [The '90s weren't that great](https://www.slowboring.com/p/the-90s-werent-that-great)<!-- HN:42650094:end -->
 #### **Friday, January 10, 2025**
 <!-- HN:42651087:start -->
