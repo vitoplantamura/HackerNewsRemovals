@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42650094](https://news.social-protocols.org/stats?id=42650094) #26 4 points 0 comments -> [The '90s weren't that great](https://www.slowboring.com/p/the-90s-werent-that-great)<!-- HN:42650094:end -->
 #### **Friday, January 10, 2025**
 <!-- HN:42651087:start -->
-* [42651087](https://news.social-protocols.org/stats?id=42651087) #5 28 points 6 comments -> [See the Thousands of Apps Hijacked to Spy on Your Location](https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/)<!-- HN:42651087:end -->
+* [42651087](https://news.social-protocols.org/stats?id=42651087) #5 28 points 6 comments -> [See the Thousands of Apps Hijacked to Spy on Your Location](https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/)<!-- HN:42651087:end --><!-- HN:42620012:start -->
+* [42620012](https://news.social-protocols.org/stats?id=42620012) #29 23 points 6 comments -> [Chat-Driven Development: A Better Way to Use LLMs for Coding](https://shekhargulati.com/2025/01/07/chat-first-development-a-better-way-to-use-llms-for-coding/)<!-- HN:42620012:end -->
