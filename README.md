@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, January 10, 2025**
 <!-- HN:42651087:start -->
 * [42651087](https://news.social-protocols.org/stats?id=42651087) #5 28 points 6 comments -> [See the Thousands of Apps Hijacked to Spy on Your Location](https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/)<!-- HN:42651087:end --><!-- HN:42620012:start -->
-* [42620012](https://news.social-protocols.org/stats?id=42620012) #29 23 points 6 comments -> [Chat-Driven Development: A Better Way to Use LLMs for Coding](https://shekhargulati.com/2025/01/07/chat-first-development-a-better-way-to-use-llms-for-coding/)<!-- HN:42620012:end -->
+* [42620012](https://news.social-protocols.org/stats?id=42620012) #29 23 points 6 comments -> [Chat-Driven Development: A Better Way to Use LLMs for Coding](https://shekhargulati.com/2025/01/07/chat-first-development-a-better-way-to-use-llms-for-coding/)<!-- HN:42620012:end --><!-- HN:42651794:start -->
+* [42651794](https://news.social-protocols.org/stats?id=42651794) #28 10 points 3 comments -> [Fascism shattered Europe century ago – historians hear echoes today in U.S. (24)](https://news.berkeley.edu/2024/09/09/fascism-shattered-europe-a-century-ago-and-historians-hear-echoes-today-in-the-u-s/)<!-- HN:42651794:end -->
