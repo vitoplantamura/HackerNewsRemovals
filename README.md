@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42657907](https://news.social-protocols.org/stats?id=42657907) #22 7 points 0 comments -> [Review: Reentry, by Eric Berger](https://www.thepsmiths.com/p/review-reentry-by-eric-berger)<!-- HN:42657907:end --><!-- HN:42658167:start -->
 * [42658167](https://news.social-protocols.org/stats?id=42658167) #25 4 points 1 comments -> [Show HN: KeyTik: The All-in-One Input Automation Tool](https://keytik.com/)<!-- HN:42658167:end --><!-- HN:42659302:start -->
 * [42659302](https://news.social-protocols.org/stats?id=42659302) #25 22 points 40 comments -> [WSJ: Americans Are Tipping Less Than They Have in Years](https://www.wsj.com/business/hospitality/restaurant-tip-fatigue-servers-covid-9e198567)<!-- HN:42659302:end -->
-#### **Saturday, January 11, 2025**
+#### **Saturday, January 11, 2025**<!-- HN:42662329:start -->
+* [42662329](https://news.social-protocols.org/stats?id=42662329) #4 20 points 5 comments -> [A Laptop Stand Made from a Single Sheet of Recycled Paper](https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper)<!-- HN:42662329:end -->
