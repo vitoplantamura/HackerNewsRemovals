@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, January 4, 2025**<!-- HN:42570609:start -->
-* [42570609](https://news.social-protocols.org/stats?id=42570609) #26 38 points 16 comments -> [Rust, Reflection and Access Rules](https://fractalfir.github.io/generated_html/refl_priv.html)<!-- HN:42570609:end --><!-- HN:42592370:start -->
-* [42592370](https://news.social-protocols.org/stats?id=42592370) #16 22 points 5 comments -> [U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration](https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/)<!-- HN:42592370:end --><!-- HN:42594089:start -->
-* [42594089](https://news.social-protocols.org/stats?id=42594089) #24 3 points 0 comments -> [Paralysed man communicates first words in months using brain implant](https://www.independent.co.uk/tech/paralysed-man-brain-implant-beer-b2044610.html)<!-- HN:42594089:end --><!-- HN:42594380:start -->
-* [42594380](https://news.social-protocols.org/stats?id=42594380) #23 3 points 0 comments -> [LastPass Android app has seven trackers](https://reports.exodus-privacy.eu.org/en/reports/165465/)<!-- HN:42594380:end --><!-- HN:42594810:start -->
-* [42594810](https://news.social-protocols.org/stats?id=42594810) #10 9 points 3 comments -> [Ellison declares Oracle all-in on AI mass surveillance, keep everyone in line](https://www.theregister.com/2024/09/16/oracle_ai_mass_surveillance_cloud/)<!-- HN:42594810:end --><!-- HN:42594922:start -->
-* [42594922](https://news.social-protocols.org/stats?id=42594922) #19 3 points 1 comments -> [Apple Siri Eavesdropping Payout–Here's Who's Eligible and How to Claim](https://www.forbes.com/sites/kateoflahertyuk/2025/01/04/apple-siri-eavesdropping-payout-heres-whos-eligible-and-how-to-claim/)<!-- HN:42594922:end --><!-- HN:42596078:start -->
-* [42596078](https://news.social-protocols.org/stats?id=42596078) #6 3 points 0 comments -> [Van Halen and Brown M&Ms](https://oddathenaeum.com/van-halen-and-brown-mms/)<!-- HN:42596078:end --><!-- HN:42597428:start -->
-* [42597428](https://news.social-protocols.org/stats?id=42597428) #4 7 points 2 comments -> [Show HN: Signify – FOSS tool to generate Email signatures (HTML and PNG)](https://signify.difuse.io)<!-- HN:42597428:end --><!-- HN:42597977:start -->
-* [42597977](https://news.social-protocols.org/stats?id=42597977) #27 4 points 0 comments -> [Ohio Puts Police Bodycam Footage Behind a Paywall](https://theintercept.com/2025/01/03/police-body-camera-footage-ohio/)<!-- HN:42597977:end --><!-- HN:42569077:start -->
-* [42569077](https://news.social-protocols.org/stats?id=42569077) #14 10 points 5 comments -> [Human in the Loop and the Missing Productivity Growth](https://everything.intellectronica.net/p/human-and-tech-productivity)<!-- HN:42569077:end -->
 #### **Sunday, January 5, 2025**
 <!-- HN:42598948:start -->
 * [42598948](https://news.social-protocols.org/stats?id=42598948) #16 7 points 0 comments -> [Understanding Doge as Procurement Capture](https://www.anildash.com//2025/01/04/DOGE-procurement-capture/)<!-- HN:42598948:end --><!-- HN:42598722:start -->
