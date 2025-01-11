@@ -149,5 +149,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42658167](https://news.social-protocols.org/stats?id=42658167) #25 4 points 1 comments -> [Show HN: KeyTik: The All-in-One Input Automation Tool](https://keytik.com/)<!-- HN:42658167:end --><!-- HN:42659302:start -->
 * [42659302](https://news.social-protocols.org/stats?id=42659302) #25 22 points 40 comments -> [WSJ: Americans Are Tipping Less Than They Have in Years](https://www.wsj.com/business/hospitality/restaurant-tip-fatigue-servers-covid-9e198567)<!-- HN:42659302:end -->
 #### **Saturday, January 11, 2025**
-<!-- HN:42661934:start -->
-* [42661934](https://news.social-protocols.org/stats?id=42661934) #11 37 points 23 comments -> [Epic CEO Tim Sweeney says tech leaders are 'pretending to be Republicans'](https://www.pcgamer.com/gaming-industry/epic-ceo-tim-sweeney-says-tech-leaders-are-pretending-to-be-republicans-to-gain-favor-with-trump-skirt-antitrust-laws-and-ultimately-rip-off-consumers-and-crush-competitors/)<!-- HN:42661934:end -->
