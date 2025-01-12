@@ -148,3 +148,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42667825](https://news.social-protocols.org/stats?id=42667825) #14 7 points 3 comments -> [You are an absolute moron for believing in the hype of "AI Agents"](https://nexustrade.io/blog/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-20250111)<!-- HN:42667825:end --><!-- HN:42669065:start -->
 * [42669065](https://news.social-protocols.org/stats?id=42669065) #1 5 points 2 comments -> [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)<!-- HN:42669065:end --><!-- HN:42669006:start -->
 * [42669006](https://news.social-protocols.org/stats?id=42669006) #1 34 points 3 comments -> [FCC Proposes Cybersecurity Labeling Program for Smart Devices](https://www.fcc.gov/cybersecurity-certification-mark)<!-- HN:42669006:end -->
+#### **Sunday, January 12, 2025**
+<!-- HN:42671404:start -->
+* [42671404](https://news.social-protocols.org/stats?id=42671404) #30 3 points 0 comments -> [Epic Games Introduces New Terms of Service](https://twitter.com/Pirat_Nation/status/1878245087349538957)<!-- HN:42671404:end -->
