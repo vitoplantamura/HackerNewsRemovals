@@ -151,5 +151,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, January 12, 2025**
 <!-- HN:42671404:start -->
 * [42671404](https://news.social-protocols.org/stats?id=42671404) #30 3 points 0 comments -> [Epic Games Introduces New Terms of Service](https://twitter.com/Pirat_Nation/status/1878245087349538957)<!-- HN:42671404:end --><!-- HN:42641903:start -->
-* [42641903](https://news.social-protocols.org/stats?id=42641903) #16 11 points 0 comments -> [The stories of survivors of the Rwandan Genocide](https://www.positivenewsus.org/rwandan-stories-of-survivor.html)<!-- HN:42641903:end --><!-- HN:42671607:start -->
-* [42671607](https://news.social-protocols.org/stats?id=42671607) #16 15 points 1 comments -> [Why Matt Should Resign (2010)](https://web.archive.org/web/20110117190122/http://wpblogger.com/matt-should-resign.php)<!-- HN:42671607:end -->
+* [42641903](https://news.social-protocols.org/stats?id=42641903) #16 11 points 0 comments -> [The stories of survivors of the Rwandan Genocide](https://www.positivenewsus.org/rwandan-stories-of-survivor.html)<!-- HN:42641903:end -->
