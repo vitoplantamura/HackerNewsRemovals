@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, January 5, 2025**
-<!-- HN:42598948:start -->
-* [42598948](https://news.social-protocols.org/stats?id=42598948) #16 7 points 0 comments -> [Understanding Doge as Procurement Capture](https://www.anildash.com//2025/01/04/DOGE-procurement-capture/)<!-- HN:42598948:end --><!-- HN:42598722:start -->
-* [42598722](https://news.social-protocols.org/stats?id=42598722) #1 173 points 69 comments -> [Nearly half Dell's US workforce has rejected RTO. Rather WFH than get promoted](https://www.msn.com/en-us/money/companies/nearly-half-of-dell-s-full-time-workforce-in-the-u-s-has-rejected-returning-to-the-office-they-d-rather-work-from-home-than-get-promoted/ar-BB1oBygb)<!-- HN:42598722:end --><!-- HN:42601022:start -->
-* [42601022](https://news.social-protocols.org/stats?id=42601022) #26 11 points 4 comments -> [Being a career-obsessed engineer wasn't the optimal way to be fulfilled](https://strategizeyourcareer.com/p/how-im-advancing-my-career-without-neglecting-my-life)<!-- HN:42601022:end --><!-- HN:42601438:start -->
-* [42601438](https://news.social-protocols.org/stats?id=42601438) #26 27 points 3 comments -> [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)<!-- HN:42601438:end --><!-- HN:42602415:start -->
-* [42602415](https://news.social-protocols.org/stats?id=42602415) #26 4 points 0 comments -> [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)<!-- HN:42602415:end --><!-- HN:42601932:start -->
-* [42601932](https://news.social-protocols.org/stats?id=42601932) #22 31 points 40 comments -> [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)<!-- HN:42601932:end --><!-- HN:42602950:start -->
-* [42602950](https://news.social-protocols.org/stats?id=42602950) #19 17 points 9 comments -> [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)<!-- HN:42602950:end --><!-- HN:42603394:start -->
-* [42603394](https://news.social-protocols.org/stats?id=42603394) #26 8 points 2 comments -> [Self-driving Tesla steers onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)<!-- HN:42603394:end --><!-- HN:42604840:start -->
-* [42604840](https://news.social-protocols.org/stats?id=42604840) #17 9 points 3 comments -> [Show HN: I built a tool to rank cities based on purchasing power for SWEs](https://www.techcities.app/?baseCity=sf)<!-- HN:42604840:end -->
 #### **Monday, January 6, 2025**
 <!-- HN:42606958:start -->
 * [42606958](https://news.social-protocols.org/stats?id=42606958) #10 21 points 10 comments -> [Kentucky Cops Raid Wrong Home, Kill Innocent Man over Alleged Stolen Weed Eater](https://atlantablackstar.com/2024/12/31/kentucky-cops-raid-wrong-home-kill-man-over-alleged-stolen-weed-eater/)<!-- HN:42606958:end --><!-- HN:42573761:start -->
