@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, January 13, 2025**
 <!-- HN:42681435:start -->
 * [42681435](https://news.social-protocols.org/stats?id=42681435) #27 24 points 40 comments -> [Apple asks investors to block proposal to scrap diversity programmes](https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei)<!-- HN:42681435:end --><!-- HN:42682093:start -->
-* [42682093](https://news.social-protocols.org/stats?id=42682093) #27 6 points 0 comments -> [Fedora 42 Looks to Ship Optimized Executables for Different x86_64 Capabilities](https://www.phoronix.com/news/Fedora-42-Optimized-Executables)<!-- HN:42682093:end -->
+* [42682093](https://news.social-protocols.org/stats?id=42682093) #27 6 points 0 comments -> [Fedora 42 Looks to Ship Optimized Executables for Different x86_64 Capabilities](https://www.phoronix.com/news/Fedora-42-Optimized-Executables)<!-- HN:42682093:end --><!-- HN:42682593:start -->
+* [42682593](https://news.social-protocols.org/stats?id=42682593) #15 5 points 2 comments -> [Bird Flu Has Spread Out of Control After Mistakes by USDA and Industry](https://www.scientificamerican.com/article/bird-flu-has-spread-out-of-control-after-mistakes-by-u-s-government-and/)<!-- HN:42682593:end -->
