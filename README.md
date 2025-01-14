@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, January 14, 2025**
 <!-- HN:42663917:start -->
 * [42663917](https://news.social-protocols.org/stats?id=42663917) #6 6 points 2 comments -> [AI-Powered 2D to 3D Model Generator](https://3dify.space)<!-- HN:42663917:end --><!-- HN:42655563:start -->
-* [42655563](https://news.social-protocols.org/stats?id=42655563) #30 11 points 40 comments -> [Show HN: Python with do..end in place of strict indentation](https://github.com/navxio/dopy)<!-- HN:42655563:end -->
+* [42655563](https://news.social-protocols.org/stats?id=42655563) #30 11 points 40 comments -> [Show HN: Python with do..end in place of strict indentation](https://github.com/navxio/dopy)<!-- HN:42655563:end --><!-- HN:42660950:start -->
+* [42660950](https://news.social-protocols.org/stats?id=42660950) #10 11 points 1 comments -> [Apollo Landing Keypad Shrunken into Coolest Calculator Watch](https://gizmodo.com/apollo-landing-keypad-shrunken-into-worlds-coolest-calculator-watch-2000541103)<!-- HN:42660950:end -->
