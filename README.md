@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42691007](https://news.social-protocols.org/stats?id=42691007) #12 8 points 4 comments -> [Zombie deer disease 'may have jumped to humans' as US Government issue warning](https://www.dailymail.co.uk/health/article-14280007/researchers-warn-chronic-wasting-disease-zombie-deer.html)<!-- HN:42691007:end -->
 #### **Tuesday, January 14, 2025**
 <!-- HN:42663917:start -->
-* [42663917](https://news.social-protocols.org/stats?id=42663917) #6 6 points 2 comments -> [AI-Powered 2D to 3D Model Generator](https://3dify.space)<!-- HN:42663917:end -->
+* [42663917](https://news.social-protocols.org/stats?id=42663917) #6 6 points 2 comments -> [AI-Powered 2D to 3D Model Generator](https://3dify.space)<!-- HN:42663917:end --><!-- HN:42655563:start -->
+* [42655563](https://news.social-protocols.org/stats?id=42655563) #30 11 points 40 comments -> [Show HN: Python with do..end in place of strict indentation](https://github.com/navxio/dopy)<!-- HN:42655563:end -->
