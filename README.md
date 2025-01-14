@@ -136,3 +136,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42687033](https://news.social-protocols.org/stats?id=42687033) #13 29 points 41 comments -> [Mark Zuckerberg says AI could soon do the work of Meta's midlevel engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1)<!-- HN:42687033:end --><!-- HN:42690618:start -->
 * [42690618](https://news.social-protocols.org/stats?id=42690618) #22 10 points 1 comments -> [The great firewall is finally broken](https://medium.com/@dennyluan/the-great-firewall-is-finally-broken-deb82428481a)<!-- HN:42690618:end --><!-- HN:42691007:start -->
 * [42691007](https://news.social-protocols.org/stats?id=42691007) #12 8 points 4 comments -> [Zombie deer disease 'may have jumped to humans' as US Government issue warning](https://www.dailymail.co.uk/health/article-14280007/researchers-warn-chronic-wasting-disease-zombie-deer.html)<!-- HN:42691007:end -->
+#### **Tuesday, January 14, 2025**
+<!-- HN:42663917:start -->
+* [42663917](https://news.social-protocols.org/stats?id=42663917) #6 6 points 2 comments -> [AI-Powered 2D to 3D Model Generator](https://3dify.space)<!-- HN:42663917:end -->
