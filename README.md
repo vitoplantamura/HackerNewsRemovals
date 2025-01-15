@@ -142,7 +142,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42701393](https://news.social-protocols.org/stats?id=42701393) #23 34 points 41 comments -> [Software engineer pay heatmap for Europe](https://levels.fyi/heatmap/europe/)<!-- HN:42701393:end --><!-- HN:42703935:start -->
 * [42703935](https://news.social-protocols.org/stats?id=42703935) #27 7 points 1 comments -> [Chinese RJ45-USB with Flash Memory .exe Recognized as Malware](https://epcyber.com/blog/f/chinese-rj45-usb-with-flash-memory-exe-recognized-as-malware)<!-- HN:42703935:end -->
 #### **Wednesday, January 15, 2025**
-<!-- HN:42669065:start -->
-* [42669065](https://news.social-protocols.org/stats?id=42669065) #29 34 points 41 comments -> [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)<!-- HN:42669065:end --><!-- HN:42708295:start -->
+<!-- HN:42708295:start -->
 * [42708295](https://news.social-protocols.org/stats?id=42708295) #22 7 points 1 comments -> [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)<!-- HN:42708295:end --><!-- HN:42707606:start -->
 * [42707606](https://news.social-protocols.org/stats?id=42707606) #6 40 points 42 comments -> [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)<!-- HN:42707606:end -->
