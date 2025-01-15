@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, January 15, 2025**
 <!-- HN:42708295:start -->
 * [42708295](https://news.social-protocols.org/stats?id=42708295) #22 7 points 1 comments -> [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)<!-- HN:42708295:end --><!-- HN:42707606:start -->
-* [42707606](https://news.social-protocols.org/stats?id=42707606) #6 40 points 42 comments -> [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)<!-- HN:42707606:end -->
+* [42707606](https://news.social-protocols.org/stats?id=42707606) #6 40 points 42 comments -> [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)<!-- HN:42707606:end --><!-- HN:42711412:start -->
+* [42711412](https://news.social-protocols.org/stats?id=42711412) #13 7 points 0 comments -> [Your brain is lying to you about the “good old days”](https://www.vox.com/future-perfect/394872/past-present-selective-memory-progress-brain-science)<!-- HN:42711412:end -->
