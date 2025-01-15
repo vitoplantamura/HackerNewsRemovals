@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, January 8, 2025**
-<!-- HN:42627170:start -->
-* [42627170](https://news.social-protocols.org/stats?id=42627170) #24 38 points 69 comments -> [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)<!-- HN:42627170:end --><!-- HN:42632553:start -->
-* [42632553](https://news.social-protocols.org/stats?id=42632553) #30 12 points 10 comments -> [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)<!-- HN:42632553:end --><!-- HN:42604616:start -->
-* [42604616](https://news.social-protocols.org/stats?id=42604616) #21 8 points 0 comments -> [How to generate OpenGraph images with Astro and Satori](https://skyfall.dev/posts/astro-og-with-satori)<!-- HN:42604616:end --><!-- HN:42633868:start -->
-* [42633868](https://news.social-protocols.org/stats?id=42633868) #29 19 points 7 comments -> [Stop to use words like "safety" when they mean "sanitized"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)<!-- HN:42633868:end --><!-- HN:42616495:start -->
-* [42616495](https://news.social-protocols.org/stats?id=42616495) #16 67 points 10 comments -> [Small Data [video]](https://www.youtube.com/watch?v=eDr6_cMtfdA)<!-- HN:42616495:end --><!-- HN:42633865:start -->
-* [42633865](https://news.social-protocols.org/stats?id=42633865) #19 12 points 6 comments -> [In a first, EU Court fines EU for breaching own data protection law](https://www.reuters.com/world/europe/first-eu-court-fines-eu-breaching-own-data-protection-law-2025-01-08/)<!-- HN:42633865:end --><!-- HN:42633494:start -->
-* [42633494](https://news.social-protocols.org/stats?id=42633494) #22 15 points 3 comments -> [Nvidia CEO says his AI chips are improving faster than Moore's Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/)<!-- HN:42633494:end --><!-- HN:42635089:start -->
-* [42635089](https://news.social-protocols.org/stats?id=42635089) #26 3 points 0 comments -> [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)<!-- HN:42635089:end --><!-- HN:42636195:start -->
-* [42636195](https://news.social-protocols.org/stats?id=42636195) #6 11 points 0 comments -> [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)<!-- HN:42636195:end -->
 #### **Thursday, January 9, 2025**
 <!-- HN:42601942:start -->
 * [42601942](https://news.social-protocols.org/stats?id=42601942) #20 4 points 1 comments -> [How to Activate the Value Flywheel Effect with Your Data](https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html)<!-- HN:42601942:end --><!-- HN:42602438:start -->
