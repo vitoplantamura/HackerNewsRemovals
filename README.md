@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42701057](https://news.social-protocols.org/stats?id=42701057) #18 6 points 6 comments -> [MrBeast Might Buy TikTok](https://twitter.com/MrBeast/status/1879224239485808811)<!-- HN:42701057:end --><!-- HN:42701393:start -->
 * [42701393](https://news.social-protocols.org/stats?id=42701393) #23 34 points 41 comments -> [Software engineer pay heatmap for Europe](https://levels.fyi/heatmap/europe/)<!-- HN:42701393:end --><!-- HN:42703935:start -->
 * [42703935](https://news.social-protocols.org/stats?id=42703935) #27 7 points 1 comments -> [Chinese RJ45-USB with Flash Memory .exe Recognized as Malware](https://epcyber.com/blog/f/chinese-rj45-usb-with-flash-memory-exe-recognized-as-malware)<!-- HN:42703935:end -->
+#### **Wednesday, January 15, 2025**
+<!-- HN:42669065:start -->
+* [42669065](https://news.social-protocols.org/stats?id=42669065) #29 34 points 41 comments -> [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)<!-- HN:42669065:end -->
