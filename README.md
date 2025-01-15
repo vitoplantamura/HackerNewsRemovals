@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42703935](https://news.social-protocols.org/stats?id=42703935) #27 7 points 1 comments -> [Chinese RJ45-USB with Flash Memory .exe Recognized as Malware](https://epcyber.com/blog/f/chinese-rj45-usb-with-flash-memory-exe-recognized-as-malware)<!-- HN:42703935:end -->
 #### **Wednesday, January 15, 2025**
 <!-- HN:42669065:start -->
-* [42669065](https://news.social-protocols.org/stats?id=42669065) #29 34 points 41 comments -> [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)<!-- HN:42669065:end -->
+* [42669065](https://news.social-protocols.org/stats?id=42669065) #29 34 points 41 comments -> [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)<!-- HN:42669065:end --><!-- HN:42707218:start -->
+* [42707218](https://news.social-protocols.org/stats?id=42707218) #30 22 points 5 comments -> [Intel, AMD engineers rush to save Linux 6.13 after dodgy Microsoft code change](https://www.theregister.com/2025/01/14/microsoft_linux_change_pulled/)<!-- HN:42707218:end -->
