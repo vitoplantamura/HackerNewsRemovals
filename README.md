@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42714920](https://news.social-protocols.org/stats?id=42714920) #2 54 points 23 comments -> [Gemini Advanced now included in Google Workspace](https://workspace.google.com/blog/product-announcements/empowering-businesses-with-AI)<!-- HN:42714920:end -->
 #### **Thursday, January 16, 2025**
 <!-- HN:42719704:start -->
-* [42719704](https://news.social-protocols.org/stats?id=42719704) #28 7 points 0 comments -> [Microsoft engineer terminated for threatening Palestinians with genocide](https://twitter.com/StopArabHate/status/1879695601820131454)<!-- HN:42719704:end -->
+* [42719704](https://news.social-protocols.org/stats?id=42719704) #28 7 points 0 comments -> [Microsoft engineer terminated for threatening Palestinians with genocide](https://twitter.com/StopArabHate/status/1879695601820131454)<!-- HN:42719704:end --><!-- HN:42721191:start -->
+* [42721191](https://news.social-protocols.org/stats?id=42721191) #18 12 points 4 comments -> [Milei shuts down museums memorializing victims of Argentine dictatorship](https://www.wsws.org/en/articles/2025/01/11/jtng-j11.html)<!-- HN:42721191:end -->
