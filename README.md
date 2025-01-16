@@ -135,3 +135,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42716926](https://news.social-protocols.org/stats?id=42716926) #11 33 points 9 comments -> [The Trouble with Elon](https://samharris.substack.com/p/the-trouble-with-elon)<!-- HN:42716926:end --><!-- HN:42715475:start -->
 * [42715475](https://news.social-protocols.org/stats?id=42715475) #23 5 points 1 comments -> [Israel and Hamas reach Gaza ceasefire and hostage deal](https://www.cnbc.com/2025/01/15/israel-hamas-ceasefire-hostage-deal-agreed-to-in-principle.html)<!-- HN:42715475:end --><!-- HN:42714920:start -->
 * [42714920](https://news.social-protocols.org/stats?id=42714920) #2 54 points 23 comments -> [Gemini Advanced now included in Google Workspace](https://workspace.google.com/blog/product-announcements/empowering-businesses-with-AI)<!-- HN:42714920:end -->
+#### **Thursday, January 16, 2025**
+<!-- HN:42719704:start -->
+* [42719704](https://news.social-protocols.org/stats?id=42719704) #28 7 points 0 comments -> [Microsoft engineer terminated for threatening Palestinians with genocide](https://twitter.com/StopArabHate/status/1879695601820131454)<!-- HN:42719704:end -->
