@@ -118,8 +118,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, January 16, 2025**
 <!-- HN:42719704:start -->
 * [42719704](https://news.social-protocols.org/stats?id=42719704) #28 7 points 0 comments -> [Microsoft engineer terminated for threatening Palestinians with genocide](https://twitter.com/StopArabHate/status/1879695601820131454)<!-- HN:42719704:end --><!-- HN:42721191:start -->
-* [42721191](https://news.social-protocols.org/stats?id=42721191) #18 12 points 4 comments -> [Milei shuts down museums memorializing victims of Argentine dictatorship](https://www.wsws.org/en/articles/2025/01/11/jtng-j11.html)<!-- HN:42721191:end --><!-- HN:42721165:start -->
-* [42721165](https://news.social-protocols.org/stats?id=42721165) #22 29 points 40 comments -> ['Passive House' Survives Fire in California](https://www.yahoo.com/lifestyle/passive-house-survives-fire-california-000029045.html)<!-- HN:42721165:end --><!-- HN:42724179:start -->
+* [42721191](https://news.social-protocols.org/stats?id=42721191) #18 12 points 4 comments -> [Milei shuts down museums memorializing victims of Argentine dictatorship](https://www.wsws.org/en/articles/2025/01/11/jtng-j11.html)<!-- HN:42721191:end --><!-- HN:42724179:start -->
 * [42724179](https://news.social-protocols.org/stats?id=42724179) #6 5 points 1 comments -> [Strategies to Complete Tasks with ADHD](https://schroedermelanie.com/adhs-nichts-zuende-bringen/)<!-- HN:42724179:end --><!-- HN:42724823:start -->
 * [42724823](https://news.social-protocols.org/stats?id=42724823) #14 165 points 120 comments -> [Nintendo Switch 2](https://www.nintendo.com/successor/en-gb/index.html)<!-- HN:42724823:end --><!-- HN:42723543:start -->
 * [42723543](https://news.social-protocols.org/stats?id=42723543) #18 31 points 40 comments -> [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)<!-- HN:42723543:end --><!-- HN:42727174:start -->
