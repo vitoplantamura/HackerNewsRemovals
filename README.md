@@ -130,4 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42735976:start -->
 * [42735976](https://news.social-protocols.org/stats?id=42735976) #21 20 points 11 comments -> [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)<!-- HN:42735976:end --><!-- HN:42736705:start -->
 * [42736705](https://news.social-protocols.org/stats?id=42736705) #2 8 points 5 comments -> [Rumor About GPT-5 Changes Everything](https://www.thealgorithmicbridge.com/p/this-rumor-about-gpt-5-changes-everything)<!-- HN:42736705:end --><!-- HN:42680318:start -->
-* [42680318](https://news.social-protocols.org/stats?id=42680318) #15 99 points 6 comments -> [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)<!-- HN:42680318:end -->
+* [42680318](https://news.social-protocols.org/stats?id=42680318) #15 99 points 6 comments -> [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)<!-- HN:42680318:end --><!-- HN:42731460:start -->
+* [42731460](https://news.social-protocols.org/stats?id=42731460) #15 173 points 84 comments -> [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)<!-- HN:42731460:end --><!-- HN:42731962:start -->
+* [42731962](https://news.social-protocols.org/stats?id=42731962) #16 243 points 170 comments -> [Some things to expect in 2025](https://lwn.net/Articles/1003780/)<!-- HN:42731962:end -->
