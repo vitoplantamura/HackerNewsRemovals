@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42728967](https://news.social-protocols.org/stats?id=42728967) #7 147 points 7 comments -> [David Lynch, Twin Peaks and Muholland Drive director, dies aged 78](https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78)<!-- HN:42728967:end --><!-- HN:42729347:start -->
 * [42729347](https://news.social-protocols.org/stats?id=42729347) #29 26 points 8 comments -> [The Washington Post kills off its "Democracy Dies In Darkness" slogan](https://www.avclub.com/washington-post-kills-democracy-dies-in-darkness-slogan)<!-- HN:42729347:end --><!-- HN:42685018:start -->
 * [42685018](https://news.social-protocols.org/stats?id=42685018) #17 8 points 3 comments -> [Cosine Similarity Isn't the Silver Bullet We Thought It Was](https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was)<!-- HN:42685018:end -->
+#### **Friday, January 17, 2025**
+<!-- HN:42735976:start -->
+* [42735976](https://news.social-protocols.org/stats?id=42735976) #21 20 points 11 comments -> [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)<!-- HN:42735976:end -->
