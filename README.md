@@ -133,5 +133,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42743405](https://news.social-protocols.org/stats?id=42743405) #24 10 points 4 comments -> [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)<!-- HN:42743405:end -->
 #### **Saturday, January 18, 2025**
 <!-- HN:42706890:start -->
-* [42706890](https://news.social-protocols.org/stats?id=42706890) #20 7 points 0 comments -> [Grand Harbour of Malta Tornado](https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado)<!-- HN:42706890:end --><!-- HN:42745771:start -->
-* [42745771](https://news.social-protocols.org/stats?id=42745771) #2 -> [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)<!-- HN:42745771:end -->
+* [42706890](https://news.social-protocols.org/stats?id=42706890) #20 7 points 0 comments -> [Grand Harbour of Malta Tornado](https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado)<!-- HN:42706890:end -->
