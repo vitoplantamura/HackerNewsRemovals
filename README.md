@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42742123](https://news.social-protocols.org/stats?id=42742123) #14 7 points 1 comments -> [Brits still associate working-class accents with criminals – study warns of bias](https://www.cam.ac.uk/research/news/brits-still-associate-working-class-accents-with-criminal-behaviour-study-warns-of-bias-in-the)<!-- HN:42742123:end --><!-- HN:42742462:start -->
 * [42742462](https://news.social-protocols.org/stats?id=42742462) #29 5 points 0 comments -> [Show HN: Compile C to Not Gates](https://pypi.org/project/c2fj/)<!-- HN:42742462:end --><!-- HN:42743405:start -->
 * [42743405](https://news.social-protocols.org/stats?id=42743405) #24 10 points 4 comments -> [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)<!-- HN:42743405:end -->
+#### **Saturday, January 18, 2025**
+<!-- HN:42706890:start -->
+* [42706890](https://news.social-protocols.org/stats?id=42706890) #20 7 points 0 comments -> [Grand Harbour of Malta Tornado](https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado)<!-- HN:42706890:end -->
