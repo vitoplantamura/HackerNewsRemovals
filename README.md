@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, January 11, 2025**<!-- HN:42665771:start -->
-* [42665771](https://news.social-protocols.org/stats?id=42665771) #21 5 points 2 comments -> [Zuckerberg trash talks Apple in interview with Joe Rogan](https://www.theverge.com/2025/1/10/24341039/meta-apple-mark-zuckerberg-trash-talks-joe-rogan-interview)<!-- HN:42665771:end --><!-- HN:42631876:start -->
-* [42631876](https://news.social-protocols.org/stats?id=42631876) #15 65 points 28 comments -> [Donut Lab's next-generation in-wheel motors](https://www.donutlab.com/motor/)<!-- HN:42631876:end --><!-- HN:42665368:start -->
-* [42665368](https://news.social-protocols.org/stats?id=42665368) #29 9 points 8 comments -> [TikTok Says It Will 'Go Dark' Without US Court Intervention](https://www.businessinsider.com/tiktok-says-wouid-go-dark-january-without-us-court-intervention-2025-1)<!-- HN:42665368:end --><!-- HN:42665533:start -->
-* [42665533](https://news.social-protocols.org/stats?id=42665533) #26 8 points 0 comments -> [Sony Proposes Changing LLVM Clang Default to C++20 Mode](https://www.phoronix.com/news/Sony-LLVM-Clang-CXX20-Default)<!-- HN:42665533:end --><!-- HN:42626043:start -->
-* [42626043](https://news.social-protocols.org/stats?id=42626043) #14 50 points 66 comments -> [Kirin demos "electric salt spoon" at CES](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/)<!-- HN:42626043:end --><!-- HN:42666513:start -->
-* [42666513](https://news.social-protocols.org/stats?id=42666513) #26 4 points 0 comments -> [The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/exponential-growth/)<!-- HN:42666513:end --><!-- HN:42659111:start -->
-* [42659111](https://news.social-protocols.org/stats?id=42659111) #11 24 points 20 comments -> [Year old startup overloaded GitHub – Incident report](https://lovable.dev/news/github-incident-2025-01-02)<!-- HN:42659111:end --><!-- HN:42668087:start -->
-* [42668087](https://news.social-protocols.org/stats?id=42668087) #28 18 points 14 comments -> [Civilian police oversight in Florida crumbles after new law kicks in](https://www.tampabay.com/news/florida-politics/2025/01/11/civilian-police-oversight-florida-crumbles-after-new-law-kicks/)<!-- HN:42668087:end --><!-- HN:42667825:start -->
-* [42667825](https://news.social-protocols.org/stats?id=42667825) #14 7 points 3 comments -> [You are an absolute moron for believing in the hype of "AI Agents"](https://nexustrade.io/blog/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-20250111)<!-- HN:42667825:end --><!-- HN:42669006:start -->
-* [42669006](https://news.social-protocols.org/stats?id=42669006) #1 34 points 3 comments -> [FCC Proposes Cybersecurity Labeling Program for Smart Devices](https://www.fcc.gov/cybersecurity-certification-mark)<!-- HN:42669006:end -->
 #### **Sunday, January 12, 2025**
 <!-- HN:42671404:start -->
 * [42671404](https://news.social-protocols.org/stats?id=42671404) #30 3 points 0 comments -> [Epic Games Introduces New Terms of Service](https://twitter.com/Pirat_Nation/status/1878245087349538957)<!-- HN:42671404:end --><!-- HN:42641903:start -->
