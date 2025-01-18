@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 18, 2025**
 <!-- HN:42706890:start -->
 * [42706890](https://news.social-protocols.org/stats?id=42706890) #20 7 points 0 comments -> [Grand Harbour of Malta Tornado](https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado)<!-- HN:42706890:end --><!-- HN:42745771:start -->
-* [42745771](https://news.social-protocols.org/stats?id=42745771) #5 30 points 9 comments -> [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)<!-- HN:42745771:end -->
+* [42745771](https://news.social-protocols.org/stats?id=42745771) #5 30 points 9 comments -> [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)<!-- HN:42745771:end --><!-- HN:42745082:start -->
+* [42745082](https://news.social-protocols.org/stats?id=42745082) #6 16 points 41 comments -> [Is the TikTok Ban a Chance to Rethink the Whole Internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)<!-- HN:42745082:end -->
