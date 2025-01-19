@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, January 12, 2025**
-<!-- HN:42671404:start -->
-* [42671404](https://news.social-protocols.org/stats?id=42671404) #30 3 points 0 comments -> [Epic Games Introduces New Terms of Service](https://twitter.com/Pirat_Nation/status/1878245087349538957)<!-- HN:42671404:end --><!-- HN:42641903:start -->
-* [42641903](https://news.social-protocols.org/stats?id=42641903) #16 11 points 0 comments -> [The stories of survivors of the Rwandan Genocide](https://www.positivenewsus.org/rwandan-stories-of-survivor.html)<!-- HN:42641903:end --><!-- HN:42671589:start -->
-* [42671589](https://news.social-protocols.org/stats?id=42671589) #12 12 points 6 comments -> [Show HN: Willpayforthis.com – Gathering posts about what people will pay for](https://www.willpayforthis.com/)<!-- HN:42671589:end --><!-- HN:42672477:start -->
-* [42672477](https://news.social-protocols.org/stats?id=42672477) #10 10 points 0 comments -> [Asking rents skyrocket as LA fires destroy homes](https://laist.com/news/housing-homelessness/los-angeles-palisades-fire-housing-rent-price-gouging-law-california-zillow-listing)<!-- HN:42672477:end --><!-- HN:42672876:start -->
-* [42672876](https://news.social-protocols.org/stats?id=42672876) #25 7 points 0 comments -> [Open letter to Mark Zuckerberg – Congratulations on your remarks](https://www.berliner-zeitung.de/politik-gesellschaft/open-letter-to-mark-zuckerberg-congratulations-on-your-speech-now-fire-correctiv-li.2288496)<!-- HN:42672876:end --><!-- HN:42672886:start -->
-* [42672886](https://news.social-protocols.org/stats?id=42672886) #14 23 points 5 comments -> [Male and female brains differ at birth](https://bsd.biomedcentral.com/articles/10.1186/s13293-024-00657-5)<!-- HN:42672886:end --><!-- HN:42673366:start -->
-* [42673366](https://news.social-protocols.org/stats?id=42673366) #5 7 points 1 comments -> [macOS No Longer Ships with Emacs](https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/)<!-- HN:42673366:end --><!-- HN:42673405:start -->
-* [42673405](https://news.social-protocols.org/stats?id=42673405) #19 6 points 5 comments -> [Matt Should Resign (2010)](http://wpblogger.com/matt-should-resign.php)<!-- HN:42673405:end --><!-- HN:42675251:start -->
-* [42675251](https://news.social-protocols.org/stats?id=42675251) #27 4 points 0 comments -> [LA Renters Hit with Price Gouging During Wildfire Chaos](https://www.newsweek.com/la-renters-pride-gouging-los-angeles-wildfires-2013645)<!-- HN:42675251:end --><!-- HN:42675376:start -->
-* [42675376](https://news.social-protocols.org/stats?id=42675376) #8 10 points 0 comments -> [On Misery](https://mcfunley.com/on-misery)<!-- HN:42675376:end --><!-- HN:42674627:start -->
-* [42674627](https://news.social-protocols.org/stats?id=42674627) #29 15 points 4 comments -> [Show HN: SemHash – Fast Semantic Text Deduplication for Cleaner Datasets](https://github.com/MinishLab/semhash)<!-- HN:42674627:end --><!-- HN:42676176:start -->
-* [42676176](https://news.social-protocols.org/stats?id=42676176) #17 11 points 1 comments -> [California Fire Facts](https://gavinnewsom.com/california-fire-facts/)<!-- HN:42676176:end --><!-- HN:42633273:start -->
-* [42633273](https://news.social-protocols.org/stats?id=42633273) #2 11 points 2 comments -> [Backdooring your backdoors – Another $20 domain, more governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)<!-- HN:42633273:end --><!-- HN:42609436:start -->
-* [42609436](https://news.social-protocols.org/stats?id=42609436) #14 11 points 4 comments -> [Show HN: wonderful.dev – social platform for programmers](https://wonderful.dev)<!-- HN:42609436:end -->
 #### **Monday, January 13, 2025**
 <!-- HN:42681435:start -->
 * [42681435](https://news.social-protocols.org/stats?id=42681435) #27 24 points 40 comments -> [Apple asks investors to block proposal to scrap diversity programmes](https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei)<!-- HN:42681435:end --><!-- HN:42682093:start -->
