@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42750473](https://news.social-protocols.org/stats?id=42750473) #20 8 points 1 comments -> [US Debt Clock](https://www.usdebtclock.org/)<!-- HN:42750473:end --><!-- HN:42750154:start -->
 * [42750154](https://news.social-protocols.org/stats?id=42750154) #20 6 points 5 comments -> [Redesigning UI/UX so AI can use software](https://fromzero.ghost.io/redesigning-browser-ux-ui-what-ai-agents-expect-and-need/)<!-- HN:42750154:end --><!-- HN:42751627:start -->
 * [42751627](https://news.social-protocols.org/stats?id=42751627) #24 6 points 0 comments -> [More than 1,100 inmates help Cal Fire battle for less than $30 a day](https://abc7.com/post/inmates-work-less-30-day-help-cal-fire-battle-eaton-palisades-fires/15813591/)<!-- HN:42751627:end -->
-#### **Sunday, January 19, 2025**
+#### **Sunday, January 19, 2025**<!-- HN:42753591:start -->
+* [42753591](https://news.social-protocols.org/stats?id=42753591) #26 4 points 1 comments -> [TikTok has officially shut down in the United States](https://9to5mac.com/2025/01/18/tiktok-is-officially-shutting-down-in-the-united-states/)<!-- HN:42753591:end -->
