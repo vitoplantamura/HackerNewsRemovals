@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42759107](https://news.social-protocols.org/stats?id=42759107) #19 4 points 2 comments -> [Is RTO the biggest mistake tech companies are making in 2025?](https://www.behindhrdoors.com/p/why-tech-firms-are-failing-at-return-to-office-plans)<!-- HN:42759107:end -->
 #### **Monday, January 20, 2025**
 <!-- HN:42762972:start -->
-* [42762972](https://news.social-protocols.org/stats?id=42762972) #14 4 points 0 comments -> [The Former Israeli Spies Building AI Systems at Global Tech Companies](https://www.donotpanic.news/p/the-former-israeli-spies-building)<!-- HN:42762972:end -->
+* [42762972](https://news.social-protocols.org/stats?id=42762972) #14 4 points 0 comments -> [The Former Israeli Spies Building AI Systems at Global Tech Companies](https://www.donotpanic.news/p/the-former-israeli-spies-building)<!-- HN:42762972:end --><!-- HN:42764108:start -->
+* [42764108](https://news.social-protocols.org/stats?id=42764108) #5 13 points 6 comments -> [F-Droid Security Issues](https://privsec.dev/posts/android/f-droid-security-issues/)<!-- HN:42764108:end -->
