@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, January 20, 2025**
 <!-- HN:42762972:start -->
 * [42762972](https://news.social-protocols.org/stats?id=42762972) #14 4 points 0 comments -> [The Former Israeli Spies Building AI Systems at Global Tech Companies](https://www.donotpanic.news/p/the-former-israeli-spies-building)<!-- HN:42762972:end --><!-- HN:42764108:start -->
-* [42764108](https://news.social-protocols.org/stats?id=42764108) #5 13 points 6 comments -> [F-Droid Security Issues](https://privsec.dev/posts/android/f-droid-security-issues/)<!-- HN:42764108:end -->
+* [42764108](https://news.social-protocols.org/stats?id=42764108) #5 13 points 6 comments -> [F-Droid Security Issues](https://privsec.dev/posts/android/f-droid-security-issues/)<!-- HN:42764108:end --><!-- HN:42767995:start -->
+* [42767995](https://news.social-protocols.org/stats?id=42767995) #20 3 points 3 comments -> [Trump's Day One Executive Order on 'Male and Female'](https://www.thefp.com/p/trumps-day-one-executive-order-male-female-gender-ideology-pronouns)<!-- HN:42767995:end -->
