@@ -136,3 +136,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42758809](https://news.social-protocols.org/stats?id=42758809) #3 15 points 3 comments -> [Mark Zuckerberg paid lobby$7.6M to aid in TikTok ban](https://readsludge.com/2024/04/23/meta-shatters-lobbying-record-as-house-passes-tiktok-ban/)<!-- HN:42758809:end --><!-- HN:42759925:start -->
 * [42759925](https://news.social-protocols.org/stats?id=42759925) #14 6 points 1 comments -> [The tech oligarchy has been here for years](https://www.bloodinthemachine.com/p/the-tech-oligarchy-has-been-here)<!-- HN:42759925:end --><!-- HN:42759107:start -->
 * [42759107](https://news.social-protocols.org/stats?id=42759107) #19 4 points 2 comments -> [Is RTO the biggest mistake tech companies are making in 2025?](https://www.behindhrdoors.com/p/why-tech-firms-are-failing-at-return-to-office-plans)<!-- HN:42759107:end -->
+#### **Monday, January 20, 2025**
+<!-- HN:42762972:start -->
+* [42762972](https://news.social-protocols.org/stats?id=42762972) #14 4 points 0 comments -> [The Former Israeli Spies Building AI Systems at Global Tech Companies](https://www.donotpanic.news/p/the-former-israeli-spies-building)<!-- HN:42762972:end -->
