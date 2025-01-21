@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42773831](https://news.social-protocols.org/stats?id=42773831) #23 10 points 0 comments -> [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)<!-- HN:42773831:end -->
 #### **Tuesday, January 21, 2025**
 <!-- HN:42773311:start -->
-* [42773311](https://news.social-protocols.org/stats?id=42773311) #5 98 points 39 comments -> [Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/)<!-- HN:42773311:end -->
+* [42773311](https://news.social-protocols.org/stats?id=42773311) #5 98 points 39 comments -> [Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/)<!-- HN:42773311:end --><!-- HN:42775545:start -->
+* [42775545](https://news.social-protocols.org/stats?id=42775545) #5 113 points 103 comments -> [It sure looks like Meta stole a lot of books to build its AI](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/)<!-- HN:42775545:end -->
