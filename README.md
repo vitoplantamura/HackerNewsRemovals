@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, January 14, 2025**
-<!-- HN:42663917:start -->
-* [42663917](https://news.social-protocols.org/stats?id=42663917) #6 6 points 2 comments -> [AI-Powered 2D to 3D Model Generator](https://3dify.space)<!-- HN:42663917:end --><!-- HN:42655563:start -->
-* [42655563](https://news.social-protocols.org/stats?id=42655563) #30 11 points 40 comments -> [Show HN: Python with do..end in place of strict indentation](https://github.com/navxio/dopy)<!-- HN:42655563:end --><!-- HN:42660950:start -->
-* [42660950](https://news.social-protocols.org/stats?id=42660950) #10 11 points 1 comments -> [Apollo Landing Keypad Shrunken into Coolest Calculator Watch](https://gizmodo.com/apollo-landing-keypad-shrunken-into-worlds-coolest-calculator-watch-2000541103)<!-- HN:42660950:end --><!-- HN:42692868:start -->
-* [42692868](https://news.social-protocols.org/stats?id=42692868) #6 6 points 0 comments -> [Has Canada Become a Jamaican Bobsled Team?](https://jaymartin.substack.com/p/has-canada-become-a-jamaican-bobsled)<!-- HN:42692868:end --><!-- HN:42694648:start -->
-* [42694648](https://news.social-protocols.org/stats?id=42694648) #3 3 points 2 comments -> [What Is TikTok Refugee?](https://www.tiktokrefugee.info/)<!-- HN:42694648:end --><!-- HN:42694635:start -->
-* [42694635](https://news.social-protocols.org/stats?id=42694635) #5 3 points 0 comments -> [RedNote Style Content Assistant](https://www.rednote.pro/)<!-- HN:42694635:end --><!-- HN:42694932:start -->
-* [42694932](https://news.social-protocols.org/stats?id=42694932) #16 21 points 40 comments -> [U.S. Employee Engagement Sinks to 10-Year Low](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)<!-- HN:42694932:end --><!-- HN:42696324:start -->
-* [42696324](https://news.social-protocols.org/stats?id=42696324) #23 8 points 4 comments -> [Russia is being set aflame by arson attacks](https://www.economist.com/europe/2025/01/12/russia-is-being-set-aflame-by-hundreds-of-arson-attacks)<!-- HN:42696324:end --><!-- HN:42696264:start -->
-* [42696264](https://news.social-protocols.org/stats?id=42696264) #16 24 points 40 comments -> [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)<!-- HN:42696264:end --><!-- HN:42696204:start -->
-* [42696204](https://news.social-protocols.org/stats?id=42696204) #30 24 points 40 comments -> [Sweden is a nearly cashless society – how it affects people who are left out](https://theconversation.com/sweden-is-a-nearly-cashless-society-heres-how-it-affects-people-who-are-left-out-216586)<!-- HN:42696204:end --><!-- HN:42657402:start -->
-* [42657402](https://news.social-protocols.org/stats?id=42657402) #17 3 points 0 comments -> [Bad Apple with Regex in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)<!-- HN:42657402:end --><!-- HN:42698092:start -->
-* [42698092](https://news.social-protocols.org/stats?id=42698092) #2 69 points 41 comments -> [47% of 160 Top Selling Protein Powders Tested Exceed P65 Limit for Toxic Metals [pdf]](https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf)<!-- HN:42698092:end --><!-- HN:42701057:start -->
-* [42701057](https://news.social-protocols.org/stats?id=42701057) #18 6 points 6 comments -> [MrBeast Might Buy TikTok](https://twitter.com/MrBeast/status/1879224239485808811)<!-- HN:42701057:end --><!-- HN:42701393:start -->
-* [42701393](https://news.social-protocols.org/stats?id=42701393) #23 34 points 41 comments -> [Software engineer pay heatmap for Europe](https://levels.fyi/heatmap/europe/)<!-- HN:42701393:end --><!-- HN:42703935:start -->
-* [42703935](https://news.social-protocols.org/stats?id=42703935) #27 7 points 1 comments -> [Chinese RJ45-USB with Flash Memory .exe Recognized as Malware](https://epcyber.com/blog/f/chinese-rj45-usb-with-flash-memory-exe-recognized-as-malware)<!-- HN:42703935:end -->
 #### **Wednesday, January 15, 2025**
 <!-- HN:42708295:start -->
 * [42708295](https://news.social-protocols.org/stats?id=42708295) #22 7 points 1 comments -> [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)<!-- HN:42708295:end --><!-- HN:42707606:start -->
