@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42773915](https://news.social-protocols.org/stats?id=42773915) #21 10 points 0 comments -> [Yes, Climate Change Is Probably Going to Kill You](https://predicament.substack.com/p/what-most-people-dont-understand)<!-- HN:42773915:end --><!-- HN:42729488:start -->
 * [42729488](https://news.social-protocols.org/stats?id=42729488) #27 96 points 210 comments -> [Dutch Align with US Export Controls on Some ASML Chip Tools](https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools)<!-- HN:42729488:end --><!-- HN:42773831:start -->
 * [42773831](https://news.social-protocols.org/stats?id=42773831) #23 10 points 0 comments -> [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)<!-- HN:42773831:end -->
+#### **Tuesday, January 21, 2025**
+<!-- HN:42773311:start -->
+* [42773311](https://news.social-protocols.org/stats?id=42773311) #5 98 points 39 comments -> [Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/)<!-- HN:42773311:end -->
