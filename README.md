@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42780074](https://news.social-protocols.org/stats?id=42780074) #22 4 points 0 comments -> [Promoting Beautiful Federal Civic Architecture](https://www.whitehouse.gov/presidential-actions/2025/01/promoting-beautiful-federal-civic-architecture/)<!-- HN:42780074:end --><!-- HN:42772983:start -->
 * [42772983](https://news.social-protocols.org/stats?id=42772983) #26 209 points 72 comments -> [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)<!-- HN:42772983:end --><!-- HN:42782168:start -->
 * [42782168](https://news.social-protocols.org/stats?id=42782168) #27 7 points 4 comments -> [Show HN: Hold yourself accountable for gym visits with a $10 stake](https://www.gymbully.fit)<!-- HN:42782168:end -->
-#### **Wednesday, January 22, 2025**
+#### **Wednesday, January 22, 2025**<!-- HN:42789020:start -->
+* [42789020](https://news.social-protocols.org/stats?id=42789020) #10 5 points 0 comments -> [The Arduous Luxembourg Visa Process](https://ravidwivedi.in/posts/luxembourg-visa-process/)<!-- HN:42789020:end -->
