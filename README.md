@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, January 15, 2025**
-<!-- HN:42708295:start -->
-* [42708295](https://news.social-protocols.org/stats?id=42708295) #22 7 points 1 comments -> [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)<!-- HN:42708295:end --><!-- HN:42707606:start -->
-* [42707606](https://news.social-protocols.org/stats?id=42707606) #6 40 points 42 comments -> [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)<!-- HN:42707606:end --><!-- HN:42711412:start -->
-* [42711412](https://news.social-protocols.org/stats?id=42711412) #13 7 points 0 comments -> [Your brain is lying to you about the “good old days”](https://www.vox.com/future-perfect/394872/past-present-selective-memory-progress-brain-science)<!-- HN:42711412:end --><!-- HN:42670789:start -->
-* [42670789](https://news.social-protocols.org/stats?id=42670789) #8 5 points 1 comments -> [Early Iron Age horse sacrifice at a royal tomb in southern Siberia](https://www.cambridge.org/core/journals/antiquity/article/spectral-cavalcade-early-iron-age-horse-sacrifice-at-a-royal-tomb-in-southern-siberia/80E0B627528E00EA7C2AE4456F182DAC)<!-- HN:42670789:end --><!-- HN:42714147:start -->
-* [42714147](https://news.social-protocols.org/stats?id=42714147) #25 6 points 2 comments -> [Israel, Hamas reach ceasefire agreement meant to end 15-month Gaza war](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)<!-- HN:42714147:end --><!-- HN:42714774:start -->
-* [42714774](https://news.social-protocols.org/stats?id=42714774) #11 26 points 42 comments -> [Banning TikTok Is Unconstitutional. The Supreme Court Must Step In](https://www.aclu.org/news/national-security/banning-tiktok-is-unconstitutional-the-supreme-court-must-step-in)<!-- HN:42714774:end --><!-- HN:42715462:start -->
-* [42715462](https://news.social-protocols.org/stats?id=42715462) #12 12 points 6 comments -> [Laptop](https://mijndertstuij.nl/posts/the-best-laptop-ever/)<!-- HN:42715462:end --><!-- HN:42716926:start -->
-* [42716926](https://news.social-protocols.org/stats?id=42716926) #11 33 points 9 comments -> [The Trouble with Elon](https://samharris.substack.com/p/the-trouble-with-elon)<!-- HN:42716926:end --><!-- HN:42715475:start -->
-* [42715475](https://news.social-protocols.org/stats?id=42715475) #23 5 points 1 comments -> [Israel and Hamas reach Gaza ceasefire and hostage deal](https://www.cnbc.com/2025/01/15/israel-hamas-ceasefire-hostage-deal-agreed-to-in-principle.html)<!-- HN:42715475:end --><!-- HN:42714920:start -->
-* [42714920](https://news.social-protocols.org/stats?id=42714920) #2 54 points 23 comments -> [Gemini Advanced now included in Google Workspace](https://workspace.google.com/blog/product-announcements/empowering-businesses-with-AI)<!-- HN:42714920:end -->
 #### **Thursday, January 16, 2025**
 <!-- HN:42719704:start -->
 * [42719704](https://news.social-protocols.org/stats?id=42719704) #28 7 points 0 comments -> [Microsoft engineer terminated for threatening Palestinians with genocide](https://twitter.com/StopArabHate/status/1879695601820131454)<!-- HN:42719704:end --><!-- HN:42721191:start -->
