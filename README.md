@@ -133,5 +133,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42772983](https://news.social-protocols.org/stats?id=42772983) #26 209 points 72 comments -> [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)<!-- HN:42772983:end --><!-- HN:42782168:start -->
 * [42782168](https://news.social-protocols.org/stats?id=42782168) #27 7 points 4 comments -> [Show HN: Hold yourself accountable for gym visits with a $10 stake](https://www.gymbully.fit)<!-- HN:42782168:end -->
 #### **Wednesday, January 22, 2025**
-<!-- HN:42787651:start -->
-* [42787651](https://news.social-protocols.org/stats?id=42787651) #9 25 points 40 comments -> [Why Is Zero Plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)<!-- HN:42787651:end -->
