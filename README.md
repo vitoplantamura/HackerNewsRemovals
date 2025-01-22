@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42772983](https://news.social-protocols.org/stats?id=42772983) #26 209 points 72 comments -> [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)<!-- HN:42772983:end --><!-- HN:42782168:start -->
 * [42782168](https://news.social-protocols.org/stats?id=42782168) #27 7 points 4 comments -> [Show HN: Hold yourself accountable for gym visits with a $10 stake](https://www.gymbully.fit)<!-- HN:42782168:end -->
 #### **Wednesday, January 22, 2025**<!-- HN:42789020:start -->
-* [42789020](https://news.social-protocols.org/stats?id=42789020) #10 5 points 0 comments -> [The Arduous Luxembourg Visa Process](https://ravidwivedi.in/posts/luxembourg-visa-process/)<!-- HN:42789020:end -->
+* [42789020](https://news.social-protocols.org/stats?id=42789020) #10 5 points 0 comments -> [The Arduous Luxembourg Visa Process](https://ravidwivedi.in/posts/luxembourg-visa-process/)<!-- HN:42789020:end --><!-- HN:42790729:start -->
+* [42790729](https://news.social-protocols.org/stats?id=42790729) #3 65 points 28 comments -> [The Day Instagram Blocked Democracy](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/)<!-- HN:42790729:end -->
