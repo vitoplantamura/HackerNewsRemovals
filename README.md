@@ -132,3 +132,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42793629](https://news.social-protocols.org/stats?id=42793629) #28 4 points 0 comments -> [Netflix price increase leaves fans furious](https://www.the-sun.com/money/13351174/netflix-price-increase/)<!-- HN:42793629:end --><!-- HN:42757076:start -->
 * [42757076](https://news.social-protocols.org/stats?id=42757076) #11 21 points 7 comments -> [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)<!-- HN:42757076:end --><!-- HN:42797974:start -->
 * [42797974](https://news.social-protocols.org/stats?id=42797974) #28 9 points 7 comments -> [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)<!-- HN:42797974:end -->
+#### **Thursday, January 23, 2025**
+<!-- HN:42799328:start -->
+* [42799328](https://news.social-protocols.org/stats?id=42799328) #15 9 points 0 comments -> [I built an active community of trans people online](https://t4t.social)<!-- HN:42799328:end -->
