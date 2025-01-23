@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42797974](https://news.social-protocols.org/stats?id=42797974) #28 9 points 7 comments -> [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)<!-- HN:42797974:end -->
 #### **Thursday, January 23, 2025**
 <!-- HN:42799328:start -->
-* [42799328](https://news.social-protocols.org/stats?id=42799328) #15 9 points 0 comments -> [I built an active community of trans people online](https://t4t.social)<!-- HN:42799328:end -->
+* [42799328](https://news.social-protocols.org/stats?id=42799328) #15 9 points 0 comments -> [I built an active community of trans people online](https://t4t.social)<!-- HN:42799328:end --><!-- HN:42799974:start -->
+* [42799974](https://news.social-protocols.org/stats?id=42799974) #11 23 points 4 comments -> [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)<!-- HN:42799974:end -->
