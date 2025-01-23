@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42805324](https://news.social-protocols.org/stats?id=42805324) #4 9 points 0 comments -> [Replit, the Figma Replacement](https://nicbertino.com/blog/figma-replit/)<!-- HN:42805324:end --><!-- HN:42805585:start -->
 * [42805585](https://news.social-protocols.org/stats?id=42805585) #6 4 points 1 comments -> [Space Ex High School Probe Designs (2024)](https://drive.google.com/file/d/1D3wniEdWS5uWQJffxnroHz2IjISezcCq/view?usp=sharing)<!-- HN:42805585:end --><!-- HN:42806390:start -->
 * [42806390](https://news.social-protocols.org/stats?id=42806390) #29 10 points 2 comments -> [OpenAI Computer-Using Agent](https://openai.com/index/computer-using-agent/)<!-- HN:42806390:end --><!-- HN:42805546:start -->
-* [42805546](https://news.social-protocols.org/stats?id=42805546) #18 6 points 1 comments -> [Humanity's Last Exam](https://lastexam.ai)<!-- HN:42805546:end -->
+* [42805546](https://news.social-protocols.org/stats?id=42805546) #18 6 points 1 comments -> [Humanity's Last Exam](https://lastexam.ai)<!-- HN:42805546:end --><!-- HN:42807043:start -->
+* [42807043](https://news.social-protocols.org/stats?id=42807043) #21 39 points 12 comments -> [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)<!-- HN:42807043:end -->
