@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, January 23, 2025**
 <!-- HN:42799328:start -->
 * [42799328](https://news.social-protocols.org/stats?id=42799328) #15 9 points 0 comments -> [I built an active community of trans people online](https://t4t.social)<!-- HN:42799328:end --><!-- HN:42799974:start -->
-* [42799974](https://news.social-protocols.org/stats?id=42799974) #11 23 points 4 comments -> [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)<!-- HN:42799974:end -->
+* [42799974](https://news.social-protocols.org/stats?id=42799974) #11 23 points 4 comments -> [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)<!-- HN:42799974:end --><!-- HN:42801839:start -->
+* [42801839](https://news.social-protocols.org/stats?id=42801839) #11 30 points 40 comments -> [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)<!-- HN:42801839:end -->
