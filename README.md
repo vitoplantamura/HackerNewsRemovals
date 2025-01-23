@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, January 16, 2025**
-<!-- HN:42719704:start -->
-* [42719704](https://news.social-protocols.org/stats?id=42719704) #28 7 points 0 comments -> [Microsoft engineer terminated for threatening Palestinians with genocide](https://twitter.com/StopArabHate/status/1879695601820131454)<!-- HN:42719704:end --><!-- HN:42721191:start -->
-* [42721191](https://news.social-protocols.org/stats?id=42721191) #18 12 points 4 comments -> [Milei shuts down museums memorializing victims of Argentine dictatorship](https://www.wsws.org/en/articles/2025/01/11/jtng-j11.html)<!-- HN:42721191:end --><!-- HN:42724179:start -->
-* [42724179](https://news.social-protocols.org/stats?id=42724179) #6 5 points 1 comments -> [Strategies to Complete Tasks with ADHD](https://schroedermelanie.com/adhs-nichts-zuende-bringen/)<!-- HN:42724179:end --><!-- HN:42724823:start -->
-* [42724823](https://news.social-protocols.org/stats?id=42724823) #14 165 points 120 comments -> [Nintendo Switch 2](https://www.nintendo.com/successor/en-gb/index.html)<!-- HN:42724823:end --><!-- HN:42723543:start -->
-* [42723543](https://news.social-protocols.org/stats?id=42723543) #18 31 points 40 comments -> [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)<!-- HN:42723543:end --><!-- HN:42727174:start -->
-* [42727174](https://news.social-protocols.org/stats?id=42727174) #24 4 points 1 comments -> [You Blamed DEI for Hurting Your Career. Now What?](https://www.wsj.com/lifestyle/careers/you-blamed-dei-for-hurting-your-career-now-what-6150c575)<!-- HN:42727174:end --><!-- HN:42728967:start -->
-* [42728967](https://news.social-protocols.org/stats?id=42728967) #7 147 points 7 comments -> [David Lynch, Twin Peaks and Muholland Drive director, dies aged 78](https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78)<!-- HN:42728967:end --><!-- HN:42729347:start -->
-* [42729347](https://news.social-protocols.org/stats?id=42729347) #29 26 points 8 comments -> [The Washington Post kills off its "Democracy Dies In Darkness" slogan](https://www.avclub.com/washington-post-kills-democracy-dies-in-darkness-slogan)<!-- HN:42729347:end --><!-- HN:42685018:start -->
-* [42685018](https://news.social-protocols.org/stats?id=42685018) #17 8 points 3 comments -> [Cosine Similarity Isn't the Silver Bullet We Thought It Was](https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was)<!-- HN:42685018:end -->
 #### **Friday, January 17, 2025**
 <!-- HN:42735976:start -->
 * [42735976](https://news.social-protocols.org/stats?id=42735976) #21 20 points 11 comments -> [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)<!-- HN:42735976:end --><!-- HN:42736705:start -->
