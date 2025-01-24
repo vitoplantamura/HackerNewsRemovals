@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, January 24, 2025**<!-- HN:42810115:start -->
 * [42810115](https://news.social-protocols.org/stats?id=42810115) #8 13 points 15 comments -> [New Tesla Model Y](https://www.tesla.com/modely)<!-- HN:42810115:end --><!-- HN:42810898:start -->
 * [42810898](https://news.social-protocols.org/stats?id=42810898) #12 5 points 3 comments -> [Mississippi Senate Bill 2319 – The "Contraception Begins at Erection" Act](https://billstatus.ls.state.ms.us/documents/2025/html/SB/2300-2399/SB2319IN.htm)<!-- HN:42810898:end --><!-- HN:42810496:start -->
-* [42810496](https://news.social-protocols.org/stats?id=42810496) #28 4 points 1 comments -> [Where to get an anticapitalist/anti-surveillance email address](https://paper.wf/downas/where-to-get-an-anticapitalist-anti-surveillance-email-address)<!-- HN:42810496:end -->
+* [42810496](https://news.social-protocols.org/stats?id=42810496) #28 4 points 1 comments -> [Where to get an anticapitalist/anti-surveillance email address](https://paper.wf/downas/where-to-get-an-anticapitalist-anti-surveillance-email-address)<!-- HN:42810496:end --><!-- HN:42810646:start -->
+* [42810646](https://news.social-protocols.org/stats?id=42810646) #23 7 points 1 comments -> [New Rust Jobs Site](https://www.RustDevFindJob.com)<!-- HN:42810646:end -->
