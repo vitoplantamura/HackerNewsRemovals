@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42805546](https://news.social-protocols.org/stats?id=42805546) #18 6 points 1 comments -> [Humanity's Last Exam](https://lastexam.ai)<!-- HN:42805546:end --><!-- HN:42807043:start -->
 * [42807043](https://news.social-protocols.org/stats?id=42807043) #21 39 points 12 comments -> [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)<!-- HN:42807043:end -->
 #### **Friday, January 24, 2025**<!-- HN:42810115:start -->
-* [42810115](https://news.social-protocols.org/stats?id=42810115) #8 13 points 15 comments -> [New Tesla Model Y](https://www.tesla.com/modely)<!-- HN:42810115:end -->
+* [42810115](https://news.social-protocols.org/stats?id=42810115) #8 13 points 15 comments -> [New Tesla Model Y](https://www.tesla.com/modely)<!-- HN:42810115:end --><!-- HN:42810898:start -->
+* [42810898](https://news.social-protocols.org/stats?id=42810898) #12 5 points 3 comments -> [Mississippi Senate Bill 2319 – The "Contraception Begins at Erection" Act](https://billstatus.ls.state.ms.us/documents/2025/html/SB/2300-2399/SB2319IN.htm)<!-- HN:42810898:end -->
