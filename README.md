@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42806390](https://news.social-protocols.org/stats?id=42806390) #29 10 points 2 comments -> [OpenAI Computer-Using Agent](https://openai.com/index/computer-using-agent/)<!-- HN:42806390:end --><!-- HN:42805546:start -->
 * [42805546](https://news.social-protocols.org/stats?id=42805546) #18 6 points 1 comments -> [Humanity's Last Exam](https://lastexam.ai)<!-- HN:42805546:end --><!-- HN:42807043:start -->
 * [42807043](https://news.social-protocols.org/stats?id=42807043) #21 39 points 12 comments -> [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)<!-- HN:42807043:end -->
-#### **Friday, January 24, 2025**
+#### **Friday, January 24, 2025**<!-- HN:42810115:start -->
+* [42810115](https://news.social-protocols.org/stats?id=42810115) #8 13 points 15 comments -> [New Tesla Model Y](https://www.tesla.com/modely)<!-- HN:42810115:end -->
