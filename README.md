@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, January 17, 2025**
-<!-- HN:42735976:start -->
-* [42735976](https://news.social-protocols.org/stats?id=42735976) #21 20 points 11 comments -> [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)<!-- HN:42735976:end --><!-- HN:42736705:start -->
-* [42736705](https://news.social-protocols.org/stats?id=42736705) #2 8 points 5 comments -> [Rumor About GPT-5 Changes Everything](https://www.thealgorithmicbridge.com/p/this-rumor-about-gpt-5-changes-everything)<!-- HN:42736705:end --><!-- HN:42680318:start -->
-* [42680318](https://news.social-protocols.org/stats?id=42680318) #15 99 points 6 comments -> [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)<!-- HN:42680318:end --><!-- HN:42731962:start -->
-* [42731962](https://news.social-protocols.org/stats?id=42731962) #16 243 points 170 comments -> [Some things to expect in 2025](https://lwn.net/Articles/1003780/)<!-- HN:42731962:end --><!-- HN:42738118:start -->
-* [42738118](https://news.social-protocols.org/stats?id=42738118) #15 3 points 0 comments -> [BambuLabs removing 3rd party access to its printers](https://old.reddit.com/r/BambuLab/comments/1i3gq1t/why_you_should_care_about_bambu_labs_removing/)<!-- HN:42738118:end --><!-- HN:42736442:start -->
-* [42736442](https://news.social-protocols.org/stats?id=42736442) #15 7 points 2 comments -> [Scaling to users requires Synapse Pro](https://element.io/blog/scaling-to-millions-of-users-requires-synapse-pro/)<!-- HN:42736442:end --><!-- HN:42737005:start -->
-* [42737005](https://news.social-protocols.org/stats?id=42737005) #26 8 points 0 comments -> [Go 1.24 Interactive Tour](https://antonz.org/go-1-24/)<!-- HN:42737005:end --><!-- HN:42738333:start -->
-* [42738333](https://news.social-protocols.org/stats?id=42738333) #24 3 points 0 comments -> [Phishing with Gmail's Gemini Summarize via prompt injection](https://twitter.com/makesxi/status/1880271032122241188)<!-- HN:42738333:end --><!-- HN:42740385:start -->
-* [42740385](https://news.social-protocols.org/stats?id=42740385) #23 6 points 0 comments -> [Octopus overtakes British Gas as Britain's largest household energy supplier](https://www.theguardian.com/business/2025/jan/17/octopus-overtakes-british-gas-as-britains-largest-household-energy-supplier)<!-- HN:42740385:end --><!-- HN:42741880:start -->
-* [42741880](https://news.social-protocols.org/stats?id=42741880) #29 9 points 0 comments -> [Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)<!-- HN:42741880:end --><!-- HN:42742123:start -->
-* [42742123](https://news.social-protocols.org/stats?id=42742123) #14 7 points 1 comments -> [Brits still associate working-class accents with criminals – study warns of bias](https://www.cam.ac.uk/research/news/brits-still-associate-working-class-accents-with-criminal-behaviour-study-warns-of-bias-in-the)<!-- HN:42742123:end --><!-- HN:42742462:start -->
-* [42742462](https://news.social-protocols.org/stats?id=42742462) #29 5 points 0 comments -> [Show HN: Compile C to Not Gates](https://pypi.org/project/c2fj/)<!-- HN:42742462:end --><!-- HN:42743405:start -->
-* [42743405](https://news.social-protocols.org/stats?id=42743405) #24 10 points 4 comments -> [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)<!-- HN:42743405:end -->
 #### **Saturday, January 18, 2025**
 <!-- HN:42706890:start -->
 * [42706890](https://news.social-protocols.org/stats?id=42706890) #20 7 points 0 comments -> [Grand Harbour of Malta Tornado](https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado)<!-- HN:42706890:end --><!-- HN:42745771:start -->
