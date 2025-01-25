@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, January 18, 2025**
-<!-- HN:42706890:start -->
-* [42706890](https://news.social-protocols.org/stats?id=42706890) #20 7 points 0 comments -> [Grand Harbour of Malta Tornado](https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado)<!-- HN:42706890:end --><!-- HN:42745771:start -->
-* [42745771](https://news.social-protocols.org/stats?id=42745771) #22 38 points 13 comments -> [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)<!-- HN:42745771:end --><!-- HN:42747597:start -->
-* [42747597](https://news.social-protocols.org/stats?id=42747597) #15 6 points 0 comments -> [MIT Shuts Down Internal Grant Database Used to Research School's Israel Ties](https://theintercept.com/2025/01/16/mit-israel-military-funding-research-gaza/)<!-- HN:42747597:end --><!-- HN:42747782:start -->
-* [42747782](https://news.social-protocols.org/stats?id=42747782) #23 10 points 1 comments -> [FB fact checks were never going to save us. They just made liberals feel better](https://theintercept.com/2025/01/07/facebook-fact-check-mark-zuckerberg-trump/)<!-- HN:42747782:end --><!-- HN:42748963:start -->
-* [42748963](https://news.social-protocols.org/stats?id=42748963) #23 27 points 33 comments -> [Is Atlas Shrugged the New Vibe?](https://www.commonreader.co.uk/p/is-atlas-shrugged-the-new-vibe)<!-- HN:42748963:end --><!-- HN:42750473:start -->
-* [42750473](https://news.social-protocols.org/stats?id=42750473) #20 8 points 1 comments -> [US Debt Clock](https://www.usdebtclock.org/)<!-- HN:42750473:end --><!-- HN:42750154:start -->
-* [42750154](https://news.social-protocols.org/stats?id=42750154) #20 6 points 5 comments -> [Redesigning UI/UX so AI can use software](https://fromzero.ghost.io/redesigning-browser-ux-ui-what-ai-agents-expect-and-need/)<!-- HN:42750154:end --><!-- HN:42751627:start -->
-* [42751627](https://news.social-protocols.org/stats?id=42751627) #24 6 points 0 comments -> [More than 1,100 inmates help Cal Fire battle for less than $30 a day](https://abc7.com/post/inmates-work-less-30-day-help-cal-fire-battle-eaton-palisades-fires/15813591/)<!-- HN:42751627:end -->
 #### **Sunday, January 19, 2025**<!-- HN:42753591:start -->
 * [42753591](https://news.social-protocols.org/stats?id=42753591) #26 4 points 1 comments -> [TikTok has officially shut down in the United States](https://9to5mac.com/2025/01/18/tiktok-is-officially-shutting-down-in-the-united-states/)<!-- HN:42753591:end --><!-- HN:42756648:start -->
 * [42756648](https://news.social-protocols.org/stats?id=42756648) #30 3 points 0 comments -> [Bob Dylan's drafts for Mr Tambourine Man sell for more than £400k](https://www.theguardian.com/music/2025/jan/18/bob-dylans-drafts-for-mr-tambourine-man-sell-for-more-than-400000)<!-- HN:42756648:end --><!-- HN:42708974:start -->
