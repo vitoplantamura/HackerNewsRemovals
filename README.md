@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 25, 2025**
 <!-- HN:42786740:start -->
 * [42786740](https://news.social-protocols.org/stats?id=42786740) #2 15 points 7 comments -> [The Bizzare Story of the Three Identical Strangers](https://historicflix.com/the-bizzare-story-of-the-three-identical-strangers/)<!-- HN:42786740:end --><!-- HN:42819834:start -->
-* [42819834](https://news.social-protocols.org/stats?id=42819834) #3 63 points 34 comments -> [Feeling Targeted: Executive Order Ending Wasteful DEIA Efforts](https://hartmans.dreamwidth.org/101412.html)<!-- HN:42819834:end -->
+* [42819834](https://news.social-protocols.org/stats?id=42819834) #3 63 points 34 comments -> [Feeling Targeted: Executive Order Ending Wasteful DEIA Efforts](https://hartmans.dreamwidth.org/101412.html)<!-- HN:42819834:end --><!-- HN:42802737:start -->
+* [42802737](https://news.social-protocols.org/stats?id=42802737) #8 21 points 13 comments -> [EA Origin is shutting down](https://www.pcworld.com/article/2583928/ea-origin-is-shutting-down-heres-how-to-keep-all-your-games-safe.html)<!-- HN:42802737:end -->
