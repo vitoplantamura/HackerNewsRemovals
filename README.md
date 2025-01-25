@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 25, 2025**
 <!-- HN:42786740:start -->
 * [42786740](https://news.social-protocols.org/stats?id=42786740) #2 15 points 7 comments -> [The Bizzare Story of the Three Identical Strangers](https://historicflix.com/the-bizzare-story-of-the-three-identical-strangers/)<!-- HN:42786740:end --><!-- HN:42819834:start -->
-* [42819834](https://news.social-protocols.org/stats?id=42819834) #3 63 points 34 comments -> [Feeling Targeted: Executive Order Ending Wasteful DEIA Efforts](https://hartmans.dreamwidth.org/101412.html)<!-- HN:42819834:end -->
+* [42819834](https://news.social-protocols.org/stats?id=42819834) #3 63 points 34 comments -> [Feeling Targeted: Executive Order Ending Wasteful DEIA Efforts](https://hartmans.dreamwidth.org/101412.html)<!-- HN:42819834:end --><!-- HN:42792485:start -->
+* [42792485](https://news.social-protocols.org/stats?id=42792485) #5 36 points 40 comments -> [Do cookie-free analytics need cookie banners?](https://jfagerberg.me/blog/2022-06-09-analytics-cookie-compliance/)<!-- HN:42792485:end -->
