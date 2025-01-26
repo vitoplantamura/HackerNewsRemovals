@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42824966](https://news.social-protocols.org/stats?id=42824966) #6 17 points 6 comments -> [US Department of Labor to Cease and Desist All Investigation and Enforcement](https://www.dol.gov/newsroom/releases/osec/osec20250124)<!-- HN:42824966:end -->
 #### **Sunday, January 26, 2025**
 <!-- HN:42826120:start -->
-* [42826120](https://news.social-protocols.org/stats?id=42826120) #21 4 points 1 comments -> [GitHub Copilot web interface](https://github.com/login)<!-- HN:42826120:end -->
+* [42826120](https://news.social-protocols.org/stats?id=42826120) #21 4 points 1 comments -> [GitHub Copilot web interface](https://github.com/login)<!-- HN:42826120:end --><!-- HN:42827266:start -->
+* [42827266](https://news.social-protocols.org/stats?id=42827266) #6 27 points 4 comments -> [Asahi Linux Silicon M3 Series Feature Support](https://github.com/AsahiLinux/docs/wiki/M3-Series-Feature-Support)<!-- HN:42827266:end -->
