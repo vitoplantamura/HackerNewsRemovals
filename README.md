@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42826120:start -->
 * [42826120](https://news.social-protocols.org/stats?id=42826120) #21 4 points 1 comments -> [GitHub Copilot web interface](https://github.com/login)<!-- HN:42826120:end --><!-- HN:42827266:start -->
 * [42827266](https://news.social-protocols.org/stats?id=42827266) #6 27 points 4 comments -> [Asahi Linux Silicon M3 Series Feature Support](https://github.com/AsahiLinux/docs/wiki/M3-Series-Feature-Support)<!-- HN:42827266:end --><!-- HN:42803946:start -->
-* [42803946](https://news.social-protocols.org/stats?id=42803946) #21 7 points 0 comments -> [Xbox 360 security in details: the long way to RGH3](https://swarm.ptsecurity.com/xbox-360-security-in-details-the-long-way-to-rgh3/)<!-- HN:42803946:end -->
+* [42803946](https://news.social-protocols.org/stats?id=42803946) #21 7 points 0 comments -> [Xbox 360 security in details: the long way to RGH3](https://swarm.ptsecurity.com/xbox-360-security-in-details-the-long-way-to-rgh3/)<!-- HN:42803946:end --><!-- HN:42832360:start -->
+* [42832360](https://news.social-protocols.org/stats?id=42832360) #15 6 points 0 comments -> [DeepSeek v3 and r1 free unlimited](https://www.blackbox.ai)<!-- HN:42832360:end -->
