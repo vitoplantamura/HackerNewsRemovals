@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42832838](https://news.social-protocols.org/stats?id=42832838) #16 91 points 2 comments -> [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)<!-- HN:42832838:end --><!-- HN:42832132:start -->
 * [42832132](https://news.social-protocols.org/stats?id=42832132) #28 46 points 50 comments -> [Austin rents have fallen for nearly two years](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)<!-- HN:42832132:end --><!-- HN:42834911:start -->
 * [42834911](https://news.social-protocols.org/stats?id=42834911) #1 102 points 12 comments -> [Mark Zuckerberg: This Man Is a Coward](https://www.theindex.media/this-man-is-a-coward/)<!-- HN:42834911:end -->
+#### **Monday, January 27, 2025**
+<!-- HN:42835932:start -->
+* [42835932](https://news.social-protocols.org/stats?id=42835932) #3 9 points 2 comments -> [Eye Contact](https://kosayjabre.com/blog/eye_contact.html)<!-- HN:42835932:end -->
