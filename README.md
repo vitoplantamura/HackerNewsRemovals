@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42834911](https://news.social-protocols.org/stats?id=42834911) #1 102 points 12 comments -> [Mark Zuckerberg: This Man Is a Coward](https://www.theindex.media/this-man-is-a-coward/)<!-- HN:42834911:end -->
 #### **Monday, January 27, 2025**
 <!-- HN:42835932:start -->
-* [42835932](https://news.social-protocols.org/stats?id=42835932) #3 9 points 2 comments -> [Eye Contact](https://kosayjabre.com/blog/eye_contact.html)<!-- HN:42835932:end -->
+* [42835932](https://news.social-protocols.org/stats?id=42835932) #3 9 points 2 comments -> [Eye Contact](https://kosayjabre.com/blog/eye_contact.html)<!-- HN:42835932:end --><!-- HN:42836675:start -->
+* [42836675](https://news.social-protocols.org/stats?id=42836675) #6 30 points 15 comments -> [The race for "AI Supremacy" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)<!-- HN:42836675:end -->
