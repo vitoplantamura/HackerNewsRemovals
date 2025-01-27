@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, January 27, 2025**
 <!-- HN:42835932:start -->
 * [42835932](https://news.social-protocols.org/stats?id=42835932) #3 9 points 2 comments -> [Eye Contact](https://kosayjabre.com/blog/eye_contact.html)<!-- HN:42835932:end --><!-- HN:42836675:start -->
-* [42836675](https://news.social-protocols.org/stats?id=42836675) #6 30 points 15 comments -> [The race for "AI Supremacy" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)<!-- HN:42836675:end -->
+* [42836675](https://news.social-protocols.org/stats?id=42836675) #6 30 points 15 comments -> [The race for "AI Supremacy" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)<!-- HN:42836675:end --><!-- HN:42836934:start -->
+* [42836934](https://news.social-protocols.org/stats?id=42836934) #6 6 points 3 comments -> [Show HN: Voice Cloning and Multilingual TTS in One Click (Windows)](https://github.com/abus-aikorea/voice-pro/blob/main/docs/README.eng.md)<!-- HN:42836934:end -->
