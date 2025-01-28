@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42845857](https://news.social-protocols.org/stats?id=42845857) #20 4 points 1 comments -> [AI Doomerism Is Bullshit](https://www.everythingisbullshit.blog/p/ai-doomerism-is-bullshit)<!-- HN:42845857:end -->
 #### **Tuesday, January 28, 2025**
 <!-- HN:42847758:start -->
-* [42847758](https://news.social-protocols.org/stats?id=42847758) #25 8 points 10 comments -> [Google says it will change Gulf of Mexico to 'Gulf of America' in Maps](https://www.cnbc.com/2025/01/27/google-maps-to-show-gulf-of-america-after-government-updates.html)<!-- HN:42847758:end -->
+* [42847758](https://news.social-protocols.org/stats?id=42847758) #25 8 points 10 comments -> [Google says it will change Gulf of Mexico to 'Gulf of America' in Maps](https://www.cnbc.com/2025/01/27/google-maps-to-show-gulf-of-america-after-government-updates.html)<!-- HN:42847758:end --><!-- HN:42847630:start -->
+* [42847630](https://news.social-protocols.org/stats?id=42847630) #21 38 points 14 comments -> [The Impact of 25% Tariffs on Canadian GDP](https://stephaniekelton.substack.com/p/the-impact-of-25-tariffs-on-canadian)<!-- HN:42847630:end -->
