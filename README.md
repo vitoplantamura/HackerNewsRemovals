@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, January 28, 2025**
 <!-- HN:42847758:start -->
 * [42847758](https://news.social-protocols.org/stats?id=42847758) #25 8 points 10 comments -> [Google says it will change Gulf of Mexico to 'Gulf of America' in Maps](https://www.cnbc.com/2025/01/27/google-maps-to-show-gulf-of-america-after-government-updates.html)<!-- HN:42847758:end --><!-- HN:42847630:start -->
-* [42847630](https://news.social-protocols.org/stats?id=42847630) #21 38 points 14 comments -> [The Impact of 25% Tariffs on Canadian GDP](https://stephaniekelton.substack.com/p/the-impact-of-25-tariffs-on-canadian)<!-- HN:42847630:end -->
+* [42847630](https://news.social-protocols.org/stats?id=42847630) #21 38 points 14 comments -> [The Impact of 25% Tariffs on Canadian GDP](https://stephaniekelton.substack.com/p/the-impact-of-25-tariffs-on-canadian)<!-- HN:42847630:end --><!-- HN:42845681:start -->
+* [42845681](https://news.social-protocols.org/stats?id=42845681) #17 230 points 22 comments -> [Nvidia sheds almost $600B in market cap, biggest one-day loss in US history](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html)<!-- HN:42845681:end -->
