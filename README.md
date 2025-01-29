@@ -145,3 +145,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42857780](https://news.social-protocols.org/stats?id=42857780) #29 -> [Russell Vought: "Put Them in Trauma"](https://www.propublica.org/article/video-donald-trump-russ-vought-center-renewing-america-maga)<!-- HN:42857780:end --><!-- HN:42858134:start -->
 * [42858134](https://news.social-protocols.org/stats?id=42858134) #11 9 points 4 comments -> [Next Asteroid Predicted to Hit Earth: 2024 YR4 and Other Dangerous Asteroids](https://starwalk.space/en/news/should-you-worry-about-an-asteroid-hitting-earth)<!-- HN:42858134:end --><!-- HN:42858778:start -->
 * [42858778](https://news.social-protocols.org/stats?id=42858778) #6 9 points 14 comments -> [Civilization VII only needs 20 GB of free disk space](https://www.corsair.com/us/en/explorer/gamer/gaming-pcs/civilization-vii-system-requirements-and-recommended-specs/)<!-- HN:42858778:end -->
+#### **Wednesday, January 29, 2025**
+<!-- HN:42859781:start -->
+* [42859781](https://news.social-protocols.org/stats?id=42859781) #3 12 points 2 comments -> [Paul Krugman: I Have Resigned from the Washington Post, Effective Today](https://contrarian.substack.com/p/i-have-resigned-from-the-washington)<!-- HN:42859781:end -->
