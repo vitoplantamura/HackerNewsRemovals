@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, January 29, 2025**
 <!-- HN:42859781:start -->
 * [42859781](https://news.social-protocols.org/stats?id=42859781) #3 12 points 2 comments -> [Paul Krugman: I Have Resigned from the Washington Post, Effective Today](https://contrarian.substack.com/p/i-have-resigned-from-the-washington)<!-- HN:42859781:end --><!-- HN:42859580:start -->
-* [42859580](https://news.social-protocols.org/stats?id=42859580) #9 38 points 8 comments -> [How Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)<!-- HN:42859580:end -->
+* [42859580](https://news.social-protocols.org/stats?id=42859580) #9 38 points 8 comments -> [How Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)<!-- HN:42859580:end --><!-- HN:42859844:start -->
+* [42859844](https://news.social-protocols.org/stats?id=42859844) #25 9 points 2 comments -> [Jennifer Rubin: I Have Resigned from the Washington Post, Effective Today](https://contrarian.substack.com/p/i-have-resigned-from-the-washington)<!-- HN:42859844:end -->
