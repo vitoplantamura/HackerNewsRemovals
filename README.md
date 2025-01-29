@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, January 22, 2025**<!-- HN:42789020:start -->
-* [42789020](https://news.social-protocols.org/stats?id=42789020) #10 5 points 0 comments -> [The Arduous Luxembourg Visa Process](https://ravidwivedi.in/posts/luxembourg-visa-process/)<!-- HN:42789020:end --><!-- HN:42790729:start -->
-* [42790729](https://news.social-protocols.org/stats?id=42790729) #3 65 points 28 comments -> [The Day Instagram Blocked Democracy](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/)<!-- HN:42790729:end --><!-- HN:42791337:start -->
-* [42791337](https://news.social-protocols.org/stats?id=42791337) #30 10 points 3 comments -> [FOSDEM '25 Protest](https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html)<!-- HN:42791337:end --><!-- HN:42790962:start -->
-* [42790962](https://news.social-protocols.org/stats?id=42790962) #29 5 points 1 comments -> [Usenet is a worldwide distributed electronic bulletin board system](https://smfr.org/mtnw/docs/Usenet.html)<!-- HN:42790962:end --><!-- HN:42770351:start -->
-* [42770351](https://news.social-protocols.org/stats?id=42770351) #13 13 points 7 comments -> [Calling Strangers Uncle and Auntie](https://solmaz.io/calling-strangers-uncle-and-auntie)<!-- HN:42770351:end --><!-- HN:42770341:start -->
-* [42770341](https://news.social-protocols.org/stats?id=42770341) #23 47 points 32 comments -> [The testing pyramid is an outdated economic model](https://www.wiremock.io/post/rethinking-the-testing-pyramid)<!-- HN:42770341:end --><!-- HN:42783438:start -->
-* [42783438](https://news.social-protocols.org/stats?id=42783438) #27 13 points 4 comments -> [Show HN: Fixa – an open source Python package for testing voice agents](https://github.com/fixadev/fixa)<!-- HN:42783438:end --><!-- HN:42793629:start -->
-* [42793629](https://news.social-protocols.org/stats?id=42793629) #28 4 points 0 comments -> [Netflix price increase leaves fans furious](https://www.the-sun.com/money/13351174/netflix-price-increase/)<!-- HN:42793629:end --><!-- HN:42757076:start -->
-* [42757076](https://news.social-protocols.org/stats?id=42757076) #11 21 points 7 comments -> [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)<!-- HN:42757076:end --><!-- HN:42797974:start -->
-* [42797974](https://news.social-protocols.org/stats?id=42797974) #28 9 points 7 comments -> [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)<!-- HN:42797974:end -->
 #### **Thursday, January 23, 2025**
 <!-- HN:42799328:start -->
 * [42799328](https://news.social-protocols.org/stats?id=42799328) #15 9 points 0 comments -> [I built an active community of trans people online](https://t4t.social)<!-- HN:42799328:end --><!-- HN:42799974:start -->
