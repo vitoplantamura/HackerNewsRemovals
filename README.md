@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, January 30, 2025**
 <!-- HN:42874321:start -->
 * [42874321](https://news.social-protocols.org/stats?id=42874321) #15 27 points 1 comments -> [FAA issues ground stop after plane crashes in Potomac River](https://www.cnn.com/2025/01/29/us/plane-crash-potomac-river/index.html)<!-- HN:42874321:end --><!-- HN:42874638:start -->
-* [42874638](https://news.social-protocols.org/stats?id=42874638) #29 9 points 1 comments -> [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)<!-- HN:42874638:end -->
+* [42874638](https://news.social-protocols.org/stats?id=42874638) #29 9 points 1 comments -> [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)<!-- HN:42874638:end --><!-- HN:42874481:start -->
+* [42874481](https://news.social-protocols.org/stats?id=42874481) #24 -> [Declassified CIA Guide to Sabotaging Fascism Is Suddenly Viral](https://www.404media.co/declassified-cia-guide-to-sabotaging-fascism-is-suddenly-viral/)<!-- HN:42874481:end -->
