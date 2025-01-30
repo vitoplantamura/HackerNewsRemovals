@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42867764](https://news.social-protocols.org/stats?id=42867764) #5 75 points 27 comments -> [How to run DeepSeek R1 locally](https://workos.com/blog/how-to-run-deepseek-r1-locally)<!-- HN:42867764:end -->
 #### **Thursday, January 30, 2025**
 <!-- HN:42874321:start -->
-* [42874321](https://news.social-protocols.org/stats?id=42874321) #15 27 points 1 comments -> [FAA issues ground stop after plane crashes in Potomac River](https://www.cnn.com/2025/01/29/us/plane-crash-potomac-river/index.html)<!-- HN:42874321:end -->
+* [42874321](https://news.social-protocols.org/stats?id=42874321) #15 27 points 1 comments -> [FAA issues ground stop after plane crashes in Potomac River](https://www.cnn.com/2025/01/29/us/plane-crash-potomac-river/index.html)<!-- HN:42874321:end --><!-- HN:42874638:start -->
+* [42874638](https://news.social-protocols.org/stats?id=42874638) #29 9 points 1 comments -> [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)<!-- HN:42874638:end -->
