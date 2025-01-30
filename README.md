@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, January 23, 2025**
-<!-- HN:42799328:start -->
-* [42799328](https://news.social-protocols.org/stats?id=42799328) #15 9 points 0 comments -> [I built an active community of trans people online](https://t4t.social)<!-- HN:42799328:end --><!-- HN:42799974:start -->
-* [42799974](https://news.social-protocols.org/stats?id=42799974) #11 23 points 4 comments -> [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)<!-- HN:42799974:end --><!-- HN:42801839:start -->
-* [42801839](https://news.social-protocols.org/stats?id=42801839) #11 30 points 40 comments -> [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)<!-- HN:42801839:end --><!-- HN:42803201:start -->
-* [42803201](https://news.social-protocols.org/stats?id=42803201) #25 15 points 16 comments -> [Mass deportations would deliver a catastrophic blow to the U.S. Economy](https://www.jec.senate.gov/public/index.cfm/democrats/2024/12/mass-deportations-would-deliver-a-catastrophic-blow-to-the-u-s-economy)<!-- HN:42803201:end --><!-- HN:42803562:start -->
-* [42803562](https://news.social-protocols.org/stats?id=42803562) #16 35 points 5 comments -> [Hackers exploit 16 zero-days on first day of Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-exploit-16-zero-days-on-first-day-of-pwn2own-automotive-2025/)<!-- HN:42803562:end --><!-- HN:42803559:start -->
-* [42803559](https://news.social-protocols.org/stats?id=42803559) #12 32 points 52 comments -> [Liberux: The Linux Phone You Have Been Waiting For](https://liberux.net/)<!-- HN:42803559:end --><!-- HN:42802842:start -->
-* [42802842](https://news.social-protocols.org/stats?id=42802842) #8 29 points 40 comments -> [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)<!-- HN:42802842:end --><!-- HN:42803483:start -->
-* [42803483](https://news.social-protocols.org/stats?id=42803483) #17 5 points 1 comments -> [Lessons from building a small-scale AI application](https://www.thelis.org/blog/lessons-from-ai)<!-- HN:42803483:end --><!-- HN:42805324:start -->
-* [42805324](https://news.social-protocols.org/stats?id=42805324) #4 9 points 0 comments -> [Replit, the Figma Replacement](https://nicbertino.com/blog/figma-replit/)<!-- HN:42805324:end --><!-- HN:42805585:start -->
-* [42805585](https://news.social-protocols.org/stats?id=42805585) #6 4 points 1 comments -> [Space Ex High School Probe Designs (2024)](https://drive.google.com/file/d/1D3wniEdWS5uWQJffxnroHz2IjISezcCq/view?usp=sharing)<!-- HN:42805585:end --><!-- HN:42806390:start -->
-* [42806390](https://news.social-protocols.org/stats?id=42806390) #29 10 points 2 comments -> [OpenAI Computer-Using Agent](https://openai.com/index/computer-using-agent/)<!-- HN:42806390:end --><!-- HN:42805546:start -->
-* [42805546](https://news.social-protocols.org/stats?id=42805546) #18 6 points 1 comments -> [Humanity's Last Exam](https://lastexam.ai)<!-- HN:42805546:end --><!-- HN:42807043:start -->
-* [42807043](https://news.social-protocols.org/stats?id=42807043) #21 39 points 12 comments -> [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)<!-- HN:42807043:end -->
 #### **Friday, January 24, 2025**<!-- HN:42810115:start -->
 * [42810115](https://news.social-protocols.org/stats?id=42810115) #8 13 points 15 comments -> [New Tesla Model Y](https://www.tesla.com/modely)<!-- HN:42810115:end --><!-- HN:42810898:start -->
 * [42810898](https://news.social-protocols.org/stats?id=42810898) #12 5 points 3 comments -> [Mississippi Senate Bill 2319 – The "Contraception Begins at Erection" Act](https://billstatus.ls.state.ms.us/documents/2025/html/SB/2300-2399/SB2319IN.htm)<!-- HN:42810898:end --><!-- HN:42810496:start -->
