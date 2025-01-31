@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, January 24, 2025**<!-- HN:42810115:start -->
-* [42810115](https://news.social-protocols.org/stats?id=42810115) #8 13 points 15 comments -> [New Tesla Model Y](https://www.tesla.com/modely)<!-- HN:42810115:end --><!-- HN:42810898:start -->
-* [42810898](https://news.social-protocols.org/stats?id=42810898) #12 5 points 3 comments -> [Mississippi Senate Bill 2319 – The "Contraception Begins at Erection" Act](https://billstatus.ls.state.ms.us/documents/2025/html/SB/2300-2399/SB2319IN.htm)<!-- HN:42810898:end --><!-- HN:42810496:start -->
-* [42810496](https://news.social-protocols.org/stats?id=42810496) #28 4 points 1 comments -> [Where to get an anticapitalist/anti-surveillance email address](https://paper.wf/downas/where-to-get-an-anticapitalist-anti-surveillance-email-address)<!-- HN:42810496:end --><!-- HN:42810646:start -->
-* [42810646](https://news.social-protocols.org/stats?id=42810646) #23 7 points 1 comments -> [New Rust Jobs Site](https://www.RustDevFindJob.com)<!-- HN:42810646:end --><!-- HN:42811704:start -->
-* [42811704](https://news.social-protocols.org/stats?id=42811704) #5 5 points 4 comments -> [L33T coding is DEAD code](https://substack.com/home/post/p-155602777)<!-- HN:42811704:end --><!-- HN:42777563:start -->
-* [42777563](https://news.social-protocols.org/stats?id=42777563) #28 5 points 0 comments -> [Plausible Fiction – David Spivak](https://topos.institute/blog/2024-08-27-plausible-fiction/)<!-- HN:42777563:end --><!-- HN:42810865:start -->
-* [42810865](https://news.social-protocols.org/stats?id=42810865) #28 22 points 40 comments -> [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)<!-- HN:42810865:end --><!-- HN:42813345:start -->
-* [42813345](https://news.social-protocols.org/stats?id=42813345) #12 28 points 45 comments -> [AI Is Creating a Generation of Illiterate Programmers](https://nmn.gl/blog/ai-illiterate-programmers)<!-- HN:42813345:end --><!-- HN:42810737:start -->
-* [42810737](https://news.social-protocols.org/stats?id=42810737) #22 39 points 63 comments -> [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)<!-- HN:42810737:end --><!-- HN:42812617:start -->
-* [42812617](https://news.social-protocols.org/stats?id=42812617) #10 10 points 41 comments -> [Could Self-Driving Buses Bring Vehicle Autonomy Home?](https://spectrum.ieee.org/driverless-bus)<!-- HN:42812617:end --><!-- HN:42816028:start -->
-* [42816028](https://news.social-protocols.org/stats?id=42816028) #7 7 points 1 comments -> [Kubestatus: Open source tool to easily add status page to your K8s cluster](https://github.com/soub4i/kubestatus-operator)<!-- HN:42816028:end --><!-- HN:42812859:start -->
-* [42812859](https://news.social-protocols.org/stats?id=42812859) #14 149 points 1 comments -> [Lightpanda: The headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)<!-- HN:42812859:end --><!-- HN:42817124:start -->
-* [42817124](https://news.social-protocols.org/stats?id=42817124) #23 43 points 36 comments -> [Looking for work is a full time job](https://www.resumevue.com/board)<!-- HN:42817124:end --><!-- HN:42817738:start -->
-* [42817738](https://news.social-protocols.org/stats?id=42817738) #6 6 points 1 comments -> [Wikipedia 'Arbitrators' Tearfully Sanction Pro-Hamas Editors](https://thewikipediaflood.blogspot.com/2025/01/wikipedia-arbitrators-tearfully.html)<!-- HN:42817738:end -->
 #### **Saturday, January 25, 2025**
 <!-- HN:42786740:start -->
 * [42786740](https://news.social-protocols.org/stats?id=42786740) #2 15 points 7 comments -> [The Bizzare Story of the Three Identical Strangers](https://historicflix.com/the-bizzare-story-of-the-three-identical-strangers/)<!-- HN:42786740:end --><!-- HN:42819834:start -->
