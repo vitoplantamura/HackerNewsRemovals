@@ -143,4 +143,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42882593](https://news.social-protocols.org/stats?id=42882593) #29 4 points 0 comments -> [Logitech's peel-and-stick radar sensors](https://www.theverge.com/news/24350437/logitech-spot-mmwave-radar-presence-corporate-office-real-estate)<!-- HN:42882593:end -->
 #### **Friday, January 31, 2025**
 <!-- HN:42884289:start -->
-* [42884289](https://news.social-protocols.org/stats?id=42884289) #26 4 points 0 comments -> [US spent millions on STD prevention in Gaza. But it was a province in Mozambique](https://www.middleeasteye.net/news/us-spent-millions-std-prevention-gaza-it-was-province-mozambique)<!-- HN:42884289:end -->
+* [42884289](https://news.social-protocols.org/stats?id=42884289) #26 4 points 0 comments -> [US spent millions on STD prevention in Gaza. But it was a province in Mozambique](https://www.middleeasteye.net/news/us-spent-millions-std-prevention-gaza-it-was-province-mozambique)<!-- HN:42884289:end --><!-- HN:42884599:start -->
+* [42884599](https://news.social-protocols.org/stats?id=42884599) #23 24 points 34 comments -> [Apple iPhone sales dip despite AI rollout](https://www.bbc.co.uk/news/articles/cn57l2nreglo)<!-- HN:42884599:end --><!-- HN:42884639:start -->
+* [42884639](https://news.social-protocols.org/stats?id=42884639) #27 5 points 0 comments -> [How one YouTuber is trying to poison the AI bots stealing her content](https://arstechnica.com/ai/2025/01/how-one-youtuber-is-trying-to-poison-the-ai-bots-stealing-her-content/)<!-- HN:42884639:end -->
