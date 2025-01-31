@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42880663](https://news.social-protocols.org/stats?id=42880663) #10 23 points 35 comments -> [Unintended workplace safety consequences of minimum wages](https://www.sciencedirect.com/science/article/abs/pii/S004727272400183X)<!-- HN:42880663:end --><!-- HN:42831621:start -->
 * [42831621](https://news.social-protocols.org/stats?id=42831621) #30 36 points 41 comments -> [Digital Reality, Digital Shock: Growing Up at the Dawn of Cyberspace](https://www.chrbutler.com/digital-reality-digital-shock)<!-- HN:42831621:end --><!-- HN:42882593:start -->
 * [42882593](https://news.social-protocols.org/stats?id=42882593) #29 4 points 0 comments -> [Logitech's peel-and-stick radar sensors](https://www.theverge.com/news/24350437/logitech-spot-mmwave-radar-presence-corporate-office-real-estate)<!-- HN:42882593:end -->
+#### **Friday, January 31, 2025**
+<!-- HN:42884289:start -->
+* [42884289](https://news.social-protocols.org/stats?id=42884289) #26 4 points 0 comments -> [US spent millions on STD prevention in Gaza. But it was a province in Mozambique](https://www.middleeasteye.net/news/us-spent-millions-std-prevention-gaza-it-was-province-mozambique)<!-- HN:42884289:end -->
