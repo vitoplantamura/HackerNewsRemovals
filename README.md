@@ -155,4 +155,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42893023](https://news.social-protocols.org/stats?id=42893023) #5 19 points 8 comments -> [.gov Sites Are Offline](http://faa.gov/)<!-- HN:42893023:end -->
 #### **Saturday, February 1, 2025**
 <!-- HN:42851880:start -->
-* [42851880](https://news.social-protocols.org/stats?id=42851880) #10 8 points 1 comments -> [Facebook free bikes dumped by employees and police hassle kids who ride them](https://www.businessinsider.com/facebook-bikes-locals-stopped-police-riding-employee-bikes-2019-2)<!-- HN:42851880:end -->
+* [42851880](https://news.social-protocols.org/stats?id=42851880) #10 8 points 1 comments -> [Facebook free bikes dumped by employees and police hassle kids who ride them](https://www.businessinsider.com/facebook-bikes-locals-stopped-police-riding-employee-bikes-2019-2)<!-- HN:42851880:end --><!-- HN:42895529:start -->
+* [42895529](https://news.social-protocols.org/stats?id=42895529) #16 3 points 3 comments -> [Hypocrisy and politics in free and open source software projects](https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html)<!-- HN:42895529:end -->
