@@ -153,3 +153,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42847987](https://news.social-protocols.org/stats?id=42847987) #28 25 points 3 comments -> [How do you comfort a JavaScript bug?](https://www.codepuns.com/post/771840982014640128/how-do-you-comfort-a-javascript-bug)<!-- HN:42847987:end --><!-- HN:42892052:start -->
 * [42892052](https://news.social-protocols.org/stats?id=42892052) #16 4 points 0 comments -> [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)<!-- HN:42892052:end --><!-- HN:42893023:start -->
 * [42893023](https://news.social-protocols.org/stats?id=42893023) #5 19 points 8 comments -> [.gov Sites Are Offline](http://faa.gov/)<!-- HN:42893023:end -->
+#### **Saturday, February 1, 2025**
+<!-- HN:42851880:start -->
+* [42851880](https://news.social-protocols.org/stats?id=42851880) #10 8 points 1 comments -> [Facebook free bikes dumped by employees and police hassle kids who ride them](https://www.businessinsider.com/facebook-bikes-locals-stopped-police-riding-employee-bikes-2019-2)<!-- HN:42851880:end -->
