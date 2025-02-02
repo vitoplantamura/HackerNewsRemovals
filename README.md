@@ -163,5 +163,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 2, 2025**
 <!-- HN:42903336:start -->
 * [42903336](https://news.social-protocols.org/stats?id=42903336) #30 102 points 22 comments -> [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)<!-- HN:42903336:end --><!-- HN:42903803:start -->
-* [42903803](https://news.social-protocols.org/stats?id=42903803) #24 11 points 6 comments -> [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry)<!-- HN:42903803:end --><!-- HN:42905937:start -->
-* [42905937](https://news.social-protocols.org/stats?id=42905937) #25 127 points 67 comments -> [CDC orders mass retraction of research across all science and medicine journals](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)<!-- HN:42905937:end -->
+* [42903803](https://news.social-protocols.org/stats?id=42903803) #24 11 points 6 comments -> [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry)<!-- HN:42903803:end -->
