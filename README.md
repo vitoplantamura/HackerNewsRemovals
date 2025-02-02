@@ -162,4 +162,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42902678](https://news.social-protocols.org/stats?id=42902678) #23 61 points 17 comments -> [USDA Inspector General Who Refused to Leave Escorted from Office by Security](https://gizmodo.com/usda-inspector-general-who-refused-to-leave-post-escorted-from-office-by-security-2000556605)<!-- HN:42902678:end -->
 #### **Sunday, February 2, 2025**
 <!-- HN:42903336:start -->
-* [42903336](https://news.social-protocols.org/stats?id=42903336) #30 102 points 22 comments -> [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)<!-- HN:42903336:end -->
+* [42903336](https://news.social-protocols.org/stats?id=42903336) #30 102 points 22 comments -> [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)<!-- HN:42903336:end --><!-- HN:42903803:start -->
+* [42903803](https://news.social-protocols.org/stats?id=42903803) #24 11 points 6 comments -> [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry)<!-- HN:42903803:end -->
