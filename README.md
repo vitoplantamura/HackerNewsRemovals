@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, January 26, 2025**
-<!-- HN:42826120:start -->
-* [42826120](https://news.social-protocols.org/stats?id=42826120) #21 4 points 1 comments -> [GitHub Copilot web interface](https://github.com/login)<!-- HN:42826120:end --><!-- HN:42827266:start -->
-* [42827266](https://news.social-protocols.org/stats?id=42827266) #6 27 points 4 comments -> [Asahi Linux Silicon M3 Series Feature Support](https://github.com/AsahiLinux/docs/wiki/M3-Series-Feature-Support)<!-- HN:42827266:end --><!-- HN:42803946:start -->
-* [42803946](https://news.social-protocols.org/stats?id=42803946) #21 7 points 0 comments -> [Xbox 360 security in details: the long way to RGH3](https://swarm.ptsecurity.com/xbox-360-security-in-details-the-long-way-to-rgh3/)<!-- HN:42803946:end --><!-- HN:42832360:start -->
-* [42832360](https://news.social-protocols.org/stats?id=42832360) #15 6 points 0 comments -> [DeepSeek v3 and r1 free unlimited](https://www.blackbox.ai)<!-- HN:42832360:end --><!-- HN:42831384:start -->
-* [42831384](https://news.social-protocols.org/stats?id=42831384) #11 16 points 14 comments -> [Two F-14 fighter jets were diverted to USS Midway](https://theaviationgeekclub.com/that-time-two-f-14-fighter-jets-were-diverted-to-uss-midway-the-carriers-flight-deck-and-infrastructure-could-not-support-regular-operation-of-the-large-heavy-tomcat/)<!-- HN:42831384:end --><!-- HN:42832838:start -->
-* [42832838](https://news.social-protocols.org/stats?id=42832838) #16 91 points 2 comments -> [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)<!-- HN:42832838:end --><!-- HN:42832132:start -->
-* [42832132](https://news.social-protocols.org/stats?id=42832132) #28 46 points 50 comments -> [Austin rents have fallen for nearly two years](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)<!-- HN:42832132:end --><!-- HN:42834911:start -->
-* [42834911](https://news.social-protocols.org/stats?id=42834911) #1 102 points 12 comments -> [Mark Zuckerberg: This Man Is a Coward](https://www.theindex.media/this-man-is-a-coward/)<!-- HN:42834911:end -->
 #### **Monday, January 27, 2025**
 <!-- HN:42835932:start -->
 * [42835932](https://news.social-protocols.org/stats?id=42835932) #3 9 points 2 comments -> [Eye Contact](https://kosayjabre.com/blog/eye_contact.html)<!-- HN:42835932:end --><!-- HN:42836675:start -->
