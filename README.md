@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 3, 2025**
 <!-- HN:42913420:start -->
 * [42913420](https://news.social-protocols.org/stats?id=42913420) #11 12 points 2 comments -> [Federal government grant award search](https://datarepublican.com/award_search/)<!-- HN:42913420:end --><!-- HN:42913977:start -->
-* [42913977](https://news.social-protocols.org/stats?id=42913977) #27 16 points 4 comments -> [Musk/Dodge Given Access to Federal Databases](https://www.theguardian.com/technology/2025/feb/02/elon-musk-doge-access-federal-payment-system)<!-- HN:42913977:end -->
+* [42913977](https://news.social-protocols.org/stats?id=42913977) #27 16 points 4 comments -> [Musk/Dodge Given Access to Federal Databases](https://www.theguardian.com/technology/2025/feb/02/elon-musk-doge-access-federal-payment-system)<!-- HN:42913977:end --><!-- HN:42913909:start -->
+* [42913909](https://news.social-protocols.org/stats?id=42913909) #22 31 points 20 comments -> [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)<!-- HN:42913909:end -->
