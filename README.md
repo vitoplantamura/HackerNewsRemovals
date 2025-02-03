@@ -156,4 +156,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 3, 2025**
 <!-- HN:42913420:start -->
 * [42913420](https://news.social-protocols.org/stats?id=42913420) #11 12 points 2 comments -> [Federal government grant award search](https://datarepublican.com/award_search/)<!-- HN:42913420:end --><!-- HN:42913909:start -->
-* [42913909](https://news.social-protocols.org/stats?id=42913909) #22 31 points 20 comments -> [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)<!-- HN:42913909:end -->
+* [42913909](https://news.social-protocols.org/stats?id=42913909) #22 31 points 20 comments -> [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)<!-- HN:42913909:end --><!-- HN:42914135:start -->
+* [42914135](https://news.social-protocols.org/stats?id=42914135) #21 10 points 1 comments -> [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)<!-- HN:42914135:end -->
