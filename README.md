@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, January 27, 2025**
-<!-- HN:42835932:start -->
-* [42835932](https://news.social-protocols.org/stats?id=42835932) #3 9 points 2 comments -> [Eye Contact](https://kosayjabre.com/blog/eye_contact.html)<!-- HN:42835932:end --><!-- HN:42836675:start -->
-* [42836675](https://news.social-protocols.org/stats?id=42836675) #6 30 points 15 comments -> [The race for "AI Supremacy" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)<!-- HN:42836675:end --><!-- HN:42836934:start -->
-* [42836934](https://news.social-protocols.org/stats?id=42836934) #6 6 points 3 comments -> [Show HN: Voice Cloning and Multilingual TTS in One Click (Windows)](https://github.com/abus-aikorea/voice-pro/blob/main/docs/README.eng.md)<!-- HN:42836934:end --><!-- HN:42838720:start -->
-* [42838720](https://news.social-protocols.org/stats?id=42838720) #17 17 points 0 comments -> [Tim Cook Is Failing Us](https://joe-steel.com/2025-01-25-Tim-Cook-Is-Failing-Us.html)<!-- HN:42838720:end --><!-- HN:42831927:start -->
-* [42831927](https://news.social-protocols.org/stats?id=42831927) #16 142 points 18 comments -> [OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games](https://alister.eu/jazz/oj/about.php)<!-- HN:42831927:end --><!-- HN:42813683:start -->
-* [42813683](https://news.social-protocols.org/stats?id=42813683) #21 53 points 3 comments -> [Wikenigma – An Encyclopedia of Unknowns](https://wikenigma.org.uk/)<!-- HN:42813683:end --><!-- HN:42838779:start -->
-* [42838779](https://news.social-protocols.org/stats?id=42838779) #23 4 points 0 comments -> [Announcing support for DeepSeek-R1 in our IDE plugin, self-hosted by Qodo](https://www.qodo.ai/blog/qodo-gen-adds-self-hosted-support-for-deepseek-r1/)<!-- HN:42838779:end --><!-- HN:42806413:start -->
-* [42806413](https://news.social-protocols.org/stats?id=42806413) #12 36 points 4 comments -> [Why Liquidity Matters](https://www.hiive.com/market-reports/why-liquidity-matters-motivating-tech-talent)<!-- HN:42806413:end --><!-- HN:42839880:start -->
-* [42839880](https://news.social-protocols.org/stats?id=42839880) #25 3 points 0 comments -> [Verifying FPGA using Free OS tools and frameworks](https://www.hackster.io/adam-taylor/verifying-vhdl-da9a93)<!-- HN:42839880:end --><!-- HN:42817713:start -->
-* [42817713](https://news.social-protocols.org/stats?id=42817713) #15 40 points 41 comments -> [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://medium.com/artful-design/genai-art-is-the-least-imaginative-use-of-ai-imaginable-eb071671a9c9)<!-- HN:42817713:end --><!-- HN:42838774:start -->
-* [42838774](https://news.social-protocols.org/stats?id=42838774) #16 90 points 31 comments -> [Microplastics block blood flow in the brain, mouse study reveals](https://www.nature.com/articles/d41586-025-00178-0)<!-- HN:42838774:end --><!-- HN:42841461:start -->
-* [42841461](https://news.social-protocols.org/stats?id=42841461) #28 21 points 0 comments -> [How DeepSeek-R1 Was Built, for Dummies](https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it)<!-- HN:42841461:end --><!-- HN:42843092:start -->
-* [42843092](https://news.social-protocols.org/stats?id=42843092) #16 8 points 0 comments -> [Show HN: ProductHunt for Blog Posts](https://blogdrop.io/)<!-- HN:42843092:end --><!-- HN:42845857:start -->
-* [42845857](https://news.social-protocols.org/stats?id=42845857) #20 4 points 1 comments -> [AI Doomerism Is Bullshit](https://www.everythingisbullshit.blog/p/ai-doomerism-is-bullshit)<!-- HN:42845857:end -->
 #### **Tuesday, January 28, 2025**
 <!-- HN:42847758:start -->
 * [42847758](https://news.social-protocols.org/stats?id=42847758) #25 8 points 10 comments -> [Google says it will change Gulf of Mexico to 'Gulf of America' in Maps](https://www.cnbc.com/2025/01/27/google-maps-to-show-gulf-of-america-after-government-updates.html)<!-- HN:42847758:end --><!-- HN:42847630:start -->
