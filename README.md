@@ -162,4 +162,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42919408](https://news.social-protocols.org/stats?id=42919408) #7 20 points 40 comments -> [Show HN: Check Supply – Send Checks in the Mail](https://check.supply)<!-- HN:42919408:end --><!-- HN:42920125:start -->
 * [42920125](https://news.social-protocols.org/stats?id=42920125) #26 3 points 0 comments -> [Dianna (Physics girl on YT) stands in 2 years [video]](https://www.youtube.com/watch?v=2ntx91cOYEc)<!-- HN:42920125:end --><!-- HN:42919821:start -->
 * [42919821](https://news.social-protocols.org/stats?id=42919821) #9 11 points 8 comments -> [First place in Tetris 99 using computer vision and classical AI](https://bpinzone.github.io/TetrisAI/)<!-- HN:42919821:end --><!-- HN:42920437:start -->
-* [42920437](https://news.social-protocols.org/stats?id=42920437) #21 -> [Coup](https://wh47.substack.com/p/ongoing-coup)<!-- HN:42920437:end -->
+* [42920437](https://news.social-protocols.org/stats?id=42920437) #21 -> [Coup](https://wh47.substack.com/p/ongoing-coup)<!-- HN:42920437:end --><!-- HN:42921659:start -->
+* [42921659](https://news.social-protocols.org/stats?id=42921659) #8 14 points 1 comments -> [The Reality of Dating Apps](https://blog.luap.info/the-reality-of-dating-apps.html)<!-- HN:42921659:end -->
