@@ -154,3 +154,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42911598](https://news.social-protocols.org/stats?id=42911598) #21 4 points 0 comments -> [The Network State Coup is Happening Right Now](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)<!-- HN:42911598:end --><!-- HN:42911764:start -->
 * [42911764](https://news.social-protocols.org/stats?id=42911764) #26 4 points 0 comments -> [The AI revolution is running out of data](https://www.nature.com/articles/d41586-025-00288-9)<!-- HN:42911764:end --><!-- HN:42912649:start -->
 * [42912649](https://news.social-protocols.org/stats?id=42912649) #14 11 points 1 comments -> [Protest against deportations forms in downtown L.A causing ‘major gridlock’](https://ktla.com/news/local-news/massive-protest-against-trump-deportations-forms-near-downtown-l-a-lapd-calls-it-non-permitted/)<!-- HN:42912649:end -->
+#### **Monday, February 3, 2025**
+<!-- HN:42913420:start -->
+* [42913420](https://news.social-protocols.org/stats?id=42913420) #11 12 points 2 comments -> [Federal government grant award search](https://datarepublican.com/award_search/)<!-- HN:42913420:end -->
