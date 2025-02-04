@@ -144,5 +144,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42920723](https://news.social-protocols.org/stats?id=42920723) #19 54 points 68 comments -> [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)<!-- HN:42920723:end -->
 #### **Tuesday, February 4, 2025**
 <!-- HN:42926732:start -->
-* [42926732](https://news.social-protocols.org/stats?id=42926732) #8 8 points 4 comments -> [Hector Martin: "Behold, a maintainer sabotaging the Rust for Linux project"](https://lwn.net/ml/all/20250131075751.GA16720@lst.de/)<!-- HN:42926732:end --><!-- HN:42928087:start -->
-* [42928087](https://news.social-protocols.org/stats?id=42928087) #4 10 points 1 comments -> [The Situation: What's Going on at the FBI?](https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi)<!-- HN:42928087:end -->
+* [42926732](https://news.social-protocols.org/stats?id=42926732) #8 8 points 4 comments -> [Hector Martin: "Behold, a maintainer sabotaging the Rust for Linux project"](https://lwn.net/ml/all/20250131075751.GA16720@lst.de/)<!-- HN:42926732:end -->
