@@ -142,3 +142,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42921867](https://news.social-protocols.org/stats?id=42921867) #26 11 points 1 comments -> [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)<!-- HN:42921867:end --><!-- HN:42922543:start -->
 * [42922543](https://news.social-protocols.org/stats?id=42922543) #23 14 points 5 comments -> [IRS Direct File team disbanded](https://twitter.com/elonmusk/status/1886498750052327520)<!-- HN:42922543:end --><!-- HN:42920723:start -->
 * [42920723](https://news.social-protocols.org/stats?id=42920723) #19 54 points 68 comments -> [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)<!-- HN:42920723:end -->
+#### **Tuesday, February 4, 2025**
+<!-- HN:42926732:start -->
+* [42926732](https://news.social-protocols.org/stats?id=42926732) #8 8 points 4 comments -> [Hector Martin: "Behold, a maintainer sabotaging the Rust for Linux project"](https://lwn.net/ml/all/20250131075751.GA16720@lst.de/)<!-- HN:42926732:end -->
