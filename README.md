@@ -142,3 +142,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42939995](https://news.social-protocols.org/stats?id=42939995) #5 62 points 18 comments -> [Doge Sets Sights on Medicaid: New York Times](https://www.beckershospitalreview.com/finance/doge-sets-sights-on-medicaid-new-york-times.html)<!-- HN:42939995:end --><!-- HN:42940124:start -->
 * [42940124](https://news.social-protocols.org/stats?id=42940124) #6 9 points 0 comments -> [ChatGPT in Shambles](https://garymarcus.substack.com/p/chatgpt-in-shambles)<!-- HN:42940124:end --><!-- HN:42909068:start -->
 * [42909068](https://news.social-protocols.org/stats?id=42909068) #12 22 points 40 comments -> [Wolves explain America's urban-rural divide](https://thehustle.co/originals/how-wolves-explain-americas-urban-rural-divide)<!-- HN:42909068:end -->
+#### **Wednesday, February 5, 2025**
+<!-- HN:42940284:start -->
+* [42940284](https://news.social-protocols.org/stats?id=42940284) #5 230 points 3 comments -> [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)<!-- HN:42940284:end -->
