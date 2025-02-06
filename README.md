@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:42957617:start -->
 * [42957617](https://news.social-protocols.org/stats?id=42957617) #28 5 points 1 comments -> ['Accidental' FBI Chief Builds a Following as Agency's Defender](https://www.nytimes.com/2025/02/04/us/politics/fbi-director-brian-driscoll-trump-justice-department.html)<!-- HN:42957617:end --><!-- HN:42954621:start -->
 * [42954621](https://news.social-protocols.org/stats?id=42954621) #29 44 points 40 comments -> [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)<!-- HN:42954621:end --><!-- HN:42957874:start -->
-* [42957874](https://news.social-protocols.org/stats?id=42957874) #27 -> [Of Course It's a Coup](https://snyder.substack.com/p/of-course-its-a-coup)<!-- HN:42957874:end -->
+* [42957874](https://news.social-protocols.org/stats?id=42957874) #27 -> [Of Course It's a Coup](https://snyder.substack.com/p/of-course-its-a-coup)<!-- HN:42957874:end --><!-- HN:42958286:start -->
+* [42958286](https://news.social-protocols.org/stats?id=42958286) #4 7 points 0 comments -> [Department of Government Efficiency Live Tracker](https://doge-tracker.com/)<!-- HN:42958286:end -->
