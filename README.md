@@ -132,3 +132,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42951959](https://news.social-protocols.org/stats?id=42951959) #16 10 points 0 comments -> [Project 2025](https://www.project2025.org/)<!-- HN:42951959:end --><!-- HN:42952330:start -->
 * [42952330](https://news.social-protocols.org/stats?id=42952330) #30 6 points 1 comments -> [Google drops pledge not to use AI for weapons, surveillance](https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance)<!-- HN:42952330:end --><!-- HN:42917338:start -->
 * [42917338](https://news.social-protocols.org/stats?id=42917338) #22 5 points 1 comments -> [How to Prepare Your Next RPG Campaign Instantly](https://rpgtabletops.com/products/the-ultimate-maps-bundle)<!-- HN:42917338:end -->
+#### **Thursday, February 6, 2025**
+<!-- HN:42957617:start -->
+* [42957617](https://news.social-protocols.org/stats?id=42957617) #28 5 points 1 comments -> ['Accidental' FBI Chief Builds a Following as Agency's Defender](https://www.nytimes.com/2025/02/04/us/politics/fbi-director-brian-driscoll-trump-justice-department.html)<!-- HN:42957617:end -->
