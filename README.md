@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42917338](https://news.social-protocols.org/stats?id=42917338) #22 5 points 1 comments -> [How to Prepare Your Next RPG Campaign Instantly](https://rpgtabletops.com/products/the-ultimate-maps-bundle)<!-- HN:42917338:end -->
 #### **Thursday, February 6, 2025**
 <!-- HN:42957617:start -->
-* [42957617](https://news.social-protocols.org/stats?id=42957617) #28 5 points 1 comments -> ['Accidental' FBI Chief Builds a Following as Agency's Defender](https://www.nytimes.com/2025/02/04/us/politics/fbi-director-brian-driscoll-trump-justice-department.html)<!-- HN:42957617:end -->
+* [42957617](https://news.social-protocols.org/stats?id=42957617) #28 5 points 1 comments -> ['Accidental' FBI Chief Builds a Following as Agency's Defender](https://www.nytimes.com/2025/02/04/us/politics/fbi-director-brian-driscoll-trump-justice-department.html)<!-- HN:42957617:end --><!-- HN:42954621:start -->
+* [42954621](https://news.social-protocols.org/stats?id=42954621) #29 44 points 40 comments -> [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)<!-- HN:42954621:end -->
