@@ -134,5 +134,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42961046](https://news.social-protocols.org/stats?id=42961046) #5 8 points 1 comments -> [Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)<!-- HN:42961046:end --><!-- HN:42965336:start -->
 * [42965336](https://news.social-protocols.org/stats?id=42965336) #26 5 points 2 comments -> [AI tool to create well-written LinkedIn posts in seconds](https://contentin.app/)<!-- HN:42965336:end -->
 #### **Friday, February 7, 2025**
-<!-- HN:42968002:start -->
-* [42968002](https://news.social-protocols.org/stats?id=42968002) #12 21 points 2 comments -> [The US Treasury Claimed Doge Technologist Didn't Have 'Write Access' When He Did](https://www.wired.com/story/treasury-department-doge-marko-elez-access/)<!-- HN:42968002:end -->
