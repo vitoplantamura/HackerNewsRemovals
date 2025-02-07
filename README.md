@@ -133,6 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42964424](https://news.social-protocols.org/stats?id=42964424) #6 9 points 5 comments -> [Show HN: Make your YC application stand out (Spring 2025 edition)](https://ycscore.com)<!-- HN:42964424:end --><!-- HN:42961046:start -->
 * [42961046](https://news.social-protocols.org/stats?id=42961046) #5 8 points 1 comments -> [Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)<!-- HN:42961046:end --><!-- HN:42965336:start -->
 * [42965336](https://news.social-protocols.org/stats?id=42965336) #26 5 points 2 comments -> [AI tool to create well-written LinkedIn posts in seconds](https://contentin.app/)<!-- HN:42965336:end -->
-#### **Friday, February 7, 2025**<!-- HN:42968029:start -->
-* [42968029](https://news.social-protocols.org/stats?id=42968029) #16 21 points 8 comments -> [You Can't "Win" in Tech Unless You Cheat](https://www.joanwestenberg.com/you-cant-win-in-tech-unless-you-cheat/)<!-- HN:42968029:end --><!-- HN:42967989:start -->
+#### **Friday, February 7, 2025**<!-- HN:42967989:start -->
 * [42967989](https://news.social-protocols.org/stats?id=42967989) #24 27 points 2 comments -> [White House budget proposal could shatter the National Science Foundation](https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/)<!-- HN:42967989:end -->
