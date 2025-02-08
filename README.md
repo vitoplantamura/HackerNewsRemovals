@@ -154,4 +154,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, February 8, 2025**
 <!-- HN:42979855:start -->
 * [42979855](https://news.social-protocols.org/stats?id=42979855) #11 8 points 4 comments -> [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)<!-- HN:42979855:end --><!-- HN:42953044:start -->
-* [42953044](https://news.social-protocols.org/stats?id=42953044) #7 7 points 1 comments -> [25 Years Ago, Joan Didion Kept a Diary. It's About to Become Public](https://www.nytimes.com/2025/02/05/books/new-book-joan-didion-notes-to-john.html)<!-- HN:42953044:end -->
+* [42953044](https://news.social-protocols.org/stats?id=42953044) #7 7 points 1 comments -> [25 Years Ago, Joan Didion Kept a Diary. It's About to Become Public](https://www.nytimes.com/2025/02/05/books/new-book-joan-didion-notes-to-john.html)<!-- HN:42953044:end --><!-- HN:42938235:start -->
+* [42938235](https://news.social-protocols.org/stats?id=42938235) #22 22 points 4 comments -> [Unobtanium 6502 based KIM-1 part now obtanium with FPGA](https://blog.paulsajna.com/fpga-mcs6530-rriot/)<!-- HN:42938235:end -->
