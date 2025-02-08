@@ -151,3 +151,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42978060](https://news.social-protocols.org/stats?id=42978060) #29 16 points 0 comments -> [Surely You're a Creep, Mr. Feynman (2019)](https://thebaffler.com/outbursts/surely-youre-a-creep-mr-feynman-mcneill)<!-- HN:42978060:end --><!-- HN:42978228:start -->
 * [42978228](https://news.social-protocols.org/stats?id=42978228) #5 6 points 3 comments -> [Consistent Jailbreaking Method in o1, o3, and 4o](https://generalanalysis.com/blog/jailbreaking_techniques)<!-- HN:42978228:end --><!-- HN:42978758:start -->
 * [42978758](https://news.social-protocols.org/stats?id=42978758) #28 5 points 0 comments -> [Gleichschaltung](https://en.wikipedia.org/wiki/Gleichschaltung)<!-- HN:42978758:end -->
+#### **Saturday, February 8, 2025**
+<!-- HN:42979855:start -->
+* [42979855](https://news.social-protocols.org/stats?id=42979855) #11 8 points 4 comments -> [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)<!-- HN:42979855:end -->
