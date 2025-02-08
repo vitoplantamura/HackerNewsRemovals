@@ -153,5 +153,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42978758](https://news.social-protocols.org/stats?id=42978758) #28 5 points 0 comments -> [Gleichschaltung](https://en.wikipedia.org/wiki/Gleichschaltung)<!-- HN:42978758:end -->
 #### **Saturday, February 8, 2025**
 <!-- HN:42979855:start -->
-* [42979855](https://news.social-protocols.org/stats?id=42979855) #11 8 points 4 comments -> [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)<!-- HN:42979855:end --><!-- HN:42980445:start -->
-* [42980445](https://news.social-protocols.org/stats?id=42980445) #30 8 points 0 comments -> [Teen on Musk's DOGE Team Graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)<!-- HN:42980445:end -->
+* [42979855](https://news.social-protocols.org/stats?id=42979855) #11 8 points 4 comments -> [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)<!-- HN:42979855:end -->
