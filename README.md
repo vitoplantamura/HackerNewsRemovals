@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 9, 2025**
 <!-- HN:42949631:start -->
 * [42949631](https://news.social-protocols.org/stats?id=42949631) #14 11 points 7 comments -> [Who Is Being Excluded by Museums' Wholesale Adoption of Digital Technology?](https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology)<!-- HN:42949631:end --><!-- HN:42961442:start -->
-* [42961442](https://news.social-protocols.org/stats?id=42961442) #28 13 points 10 comments -> [Enter OpenEuroLLM, an 'Open, Compliant, Diverse' Series of Foundation Models](https://slator.com/enter-openeurollm-open-compliant-diverse-series-of-foundation-models/)<!-- HN:42961442:end -->
+* [42961442](https://news.social-protocols.org/stats?id=42961442) #28 13 points 10 comments -> [Enter OpenEuroLLM, an 'Open, Compliant, Diverse' Series of Foundation Models](https://slator.com/enter-openeurollm-open-compliant-diverse-series-of-foundation-models/)<!-- HN:42961442:end --><!-- HN:42988416:start -->
+* [42988416](https://news.social-protocols.org/stats?id=42988416) #30 5 points 1 comments -> [Scientists just cracked the perfect boiled egg](https://www.pbs.org/newshour/science/scientists-just-cracked-the-perfect-boiled-egg)<!-- HN:42988416:end -->
