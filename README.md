@@ -150,3 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42954058](https://news.social-protocols.org/stats?id=42954058) #15 21 points 5 comments -> [Global Caps Lock Key](https://globalcapslock.com)<!-- HN:42954058:end --><!-- HN:42956261:start -->
 * [42956261](https://news.social-protocols.org/stats?id=42956261) #15 6 points 6 comments -> [I Applied Wavelet Transforms to AI and Found Hidden Structure](https://zenodo.org/records/14799070)<!-- HN:42956261:end --><!-- HN:42986335:start -->
 * [42986335](https://news.social-protocols.org/stats?id=42986335) #13 47 points 21 comments -> [Mark Zuckerberg messages Facebook engineer](https://twitter.com/TechEmails/status/1888313183024074910)<!-- HN:42986335:end -->
+#### **Sunday, February 9, 2025**
+<!-- HN:42949631:start -->
+* [42949631](https://news.social-protocols.org/stats?id=42949631) #14 11 points 7 comments -> [Who Is Being Excluded by Museums' Wholesale Adoption of Digital Technology?](https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology)<!-- HN:42949631:end -->
