@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, February 2, 2025**
-<!-- HN:42903336:start -->
-* [42903336](https://news.social-protocols.org/stats?id=42903336) #30 102 points 22 comments -> [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)<!-- HN:42903336:end --><!-- HN:42903803:start -->
-* [42903803](https://news.social-protocols.org/stats?id=42903803) #24 11 points 6 comments -> [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry)<!-- HN:42903803:end --><!-- HN:42906311:start -->
-* [42906311](https://news.social-protocols.org/stats?id=42906311) #27 6 points 1 comments -> [800x Speed Boost on Nvidia GPUs](https://www.scmp.com/news/china/science/article/3296135/chinese-algorithm-boosts-nvidia-gpu-performance-800-fold-science-computing)<!-- HN:42906311:end --><!-- HN:42864019:start -->
-* [42864019](https://news.social-protocols.org/stats?id=42864019) #11 10 points 10 comments -> [The Middle East's first super-luxury train will gleam gold](https://www.cnn.com/travel/dream-of-the-desert-saudi-arabia-train/index.html)<!-- HN:42864019:end --><!-- HN:42909259:start -->
-* [42909259](https://news.social-protocols.org/stats?id=42909259) #5 6 points 3 comments -> [Show HN: BGNix-100% Free and Privacy Image Background Removal](https://www.bgnix.com/)<!-- HN:42909259:end --><!-- HN:42911598:start -->
-* [42911598](https://news.social-protocols.org/stats?id=42911598) #21 4 points 0 comments -> [The Network State Coup is Happening Right Now](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)<!-- HN:42911598:end --><!-- HN:42911764:start -->
-* [42911764](https://news.social-protocols.org/stats?id=42911764) #26 4 points 0 comments -> [The AI revolution is running out of data](https://www.nature.com/articles/d41586-025-00288-9)<!-- HN:42911764:end --><!-- HN:42912649:start -->
-* [42912649](https://news.social-protocols.org/stats?id=42912649) #14 11 points 1 comments -> [Protest against deportations forms in downtown L.A causing ‘major gridlock’](https://ktla.com/news/local-news/massive-protest-against-trump-deportations-forms-near-downtown-l-a-lapd-calls-it-non-permitted/)<!-- HN:42912649:end -->
 #### **Monday, February 3, 2025**
 <!-- HN:42913420:start -->
 * [42913420](https://news.social-protocols.org/stats?id=42913420) #11 12 points 2 comments -> [Federal government grant award search](https://datarepublican.com/award_search/)<!-- HN:42913420:end --><!-- HN:42913909:start -->
