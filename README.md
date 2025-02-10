@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, February 3, 2025**
-<!-- HN:42913420:start -->
-* [42913420](https://news.social-protocols.org/stats?id=42913420) #11 12 points 2 comments -> [Federal government grant award search](https://datarepublican.com/award_search/)<!-- HN:42913420:end --><!-- HN:42913909:start -->
-* [42913909](https://news.social-protocols.org/stats?id=42913909) #22 31 points 20 comments -> [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)<!-- HN:42913909:end --><!-- HN:42914135:start -->
-* [42914135](https://news.social-protocols.org/stats?id=42914135) #21 10 points 1 comments -> [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)<!-- HN:42914135:end --><!-- HN:42915053:start -->
-* [42915053](https://news.social-protocols.org/stats?id=42915053) #29 8 points 1 comments -> [AI Is Robbing Jr. Devs](https://benbrougher.tech/posts/llms-are-robbing-jr-devs/)<!-- HN:42915053:end --><!-- HN:42920125:start -->
-* [42920125](https://news.social-protocols.org/stats?id=42920125) #26 3 points 0 comments -> [Dianna (Physics girl on YT) stands in 2 years [video]](https://www.youtube.com/watch?v=2ntx91cOYEc)<!-- HN:42920125:end --><!-- HN:42920437:start -->
-* [42920437](https://news.social-protocols.org/stats?id=42920437) #21 -> [Coup](https://wh47.substack.com/p/ongoing-coup)<!-- HN:42920437:end --><!-- HN:42920500:start -->
-* [42920500](https://news.social-protocols.org/stats?id=42920500) #21 15 points 2 comments -> [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)<!-- HN:42920500:end --><!-- HN:42921867:start -->
-* [42921867](https://news.social-protocols.org/stats?id=42921867) #26 11 points 1 comments -> [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)<!-- HN:42921867:end --><!-- HN:42920723:start -->
-* [42920723](https://news.social-protocols.org/stats?id=42920723) #19 54 points 68 comments -> [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)<!-- HN:42920723:end -->
 #### **Tuesday, February 4, 2025**
 <!-- HN:42926732:start -->
 * [42926732](https://news.social-protocols.org/stats?id=42926732) #8 8 points 4 comments -> [Hector Martin: "Behold, a maintainer sabotaging the Rust for Linux project"](https://lwn.net/ml/all/20250131075751.GA16720@lst.de/)<!-- HN:42926732:end --><!-- HN:42928101:start -->
@@ -171,5 +160,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42994006](https://news.social-protocols.org/stats?id=42994006) #3 -> [Artifical ballot generation script by DOGE Engineer Ethan Shaotran](https://github.com/DevrathIyer/ballotproof/blob/master/generate.py)<!-- HN:42994006:end --><!-- HN:42994281:start -->
 * [42994281](https://news.social-protocols.org/stats?id=42994281) #25 9 points 0 comments -> [Keir Starmer appoints Jeff Bezos as his "first buddy"](https://pluralistic.net/2025/01/22/autocrats-of-trade/)<!-- HN:42994281:end --><!-- HN:42993661:start -->
 * [42993661](https://news.social-protocols.org/stats?id=42993661) #10 34 points 40 comments -> [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)<!-- HN:42993661:end --><!-- HN:42995174:start -->
-* [42995174](https://news.social-protocols.org/stats?id=42995174) #6 7 points 0 comments -> [DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than](https://cyberintel.substack.com/p/doge-exposes-once-secret-government)<!-- HN:42995174:end --><!-- HN:42994293:start -->
-* [42994293](https://news.social-protocols.org/stats?id=42994293) #13 98 points 8 comments -> [Analysis of 2024 Election Results in Clark County Indicates Manipulation](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/)<!-- HN:42994293:end -->
+* [42995174](https://news.social-protocols.org/stats?id=42995174) #6 7 points 0 comments -> [DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than](https://cyberintel.substack.com/p/doge-exposes-once-secret-government)<!-- HN:42995174:end -->

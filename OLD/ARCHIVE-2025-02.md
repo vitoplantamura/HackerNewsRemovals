@@ -25,3 +25,14 @@
 * [42911598](https://news.ycombinator.com/item?id=42911598) #21 4 points 0 comments -> [The Network State Coup is Happening Right Now](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)<!-- HN:42911598:end --><!-- HN:42911764:start -->
 * [42911764](https://news.ycombinator.com/item?id=42911764) #26 4 points 0 comments -> [The AI revolution is running out of data](https://www.nature.com/articles/d41586-025-00288-9)<!-- HN:42911764:end --><!-- HN:42912649:start -->
 * [42912649](https://news.ycombinator.com/item?id=42912649) #14 11 points 1 comments -> [Protest against deportations forms in downtown L.A causing ‘major gridlock’](https://ktla.com/news/local-news/massive-protest-against-trump-deportations-forms-near-downtown-l-a-lapd-calls-it-non-permitted/)<!-- HN:42912649:end -->
+#### **Monday, February 3, 2025**
+<!-- HN:42913420:start -->
+* [42913420](https://news.ycombinator.com/item?id=42913420) #11 12 points 2 comments -> [Federal government grant award search](https://datarepublican.com/award_search/)<!-- HN:42913420:end --><!-- HN:42913909:start -->
+* [42913909](https://news.ycombinator.com/item?id=42913909) #22 31 points 20 comments -> [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)<!-- HN:42913909:end --><!-- HN:42914135:start -->
+* [42914135](https://news.ycombinator.com/item?id=42914135) #21 10 points 1 comments -> [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)<!-- HN:42914135:end --><!-- HN:42915053:start -->
+* [42915053](https://news.ycombinator.com/item?id=42915053) #29 8 points 1 comments -> [AI Is Robbing Jr. Devs](https://benbrougher.tech/posts/llms-are-robbing-jr-devs/)<!-- HN:42915053:end --><!-- HN:42920125:start -->
+* [42920125](https://news.ycombinator.com/item?id=42920125) #26 3 points 0 comments -> [Dianna (Physics girl on YT) stands in 2 years [video]](https://www.youtube.com/watch?v=2ntx91cOYEc)<!-- HN:42920125:end --><!-- HN:42920437:start -->
+* [42920437](https://news.ycombinator.com/item?id=42920437) #21 -> [Coup](https://wh47.substack.com/p/ongoing-coup)<!-- HN:42920437:end --><!-- HN:42920500:start -->
+* [42920500](https://news.ycombinator.com/item?id=42920500) #21 15 points 2 comments -> [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)<!-- HN:42920500:end --><!-- HN:42921867:start -->
+* [42921867](https://news.ycombinator.com/item?id=42921867) #26 11 points 1 comments -> [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)<!-- HN:42921867:end --><!-- HN:42920723:start -->
+* [42920723](https://news.ycombinator.com/item?id=42920723) #19 54 points 68 comments -> [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)<!-- HN:42920723:end -->
