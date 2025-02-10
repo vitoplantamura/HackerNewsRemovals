@@ -164,4 +164,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 10, 2025**
 <!-- HN:42995524:start -->
 * [42995524](https://news.social-protocols.org/stats?id=42995524) #30 13 points 0 comments -> [IT Unemployment Rises to 5.7% as AI Hits Tech Jobs](https://www.wsj.com/articles/it-unemployment-rises-to-5-7-as-ai-hits-tech-jobs-7726bb1b)<!-- HN:42995524:end --><!-- HN:42995453:start -->
-* [42995453](https://news.social-protocols.org/stats?id=42995453) #2 18 points 5 comments -> [Clark County Election Analysis](https://electiontruthalliance.org/2024-us-election-analysis)<!-- HN:42995453:end -->
+* [42995453](https://news.social-protocols.org/stats?id=42995453) #2 18 points 5 comments -> [Clark County Election Analysis](https://electiontruthalliance.org/2024-us-election-analysis)<!-- HN:42995453:end --><!-- HN:42994293:start -->
+* [42994293](https://news.social-protocols.org/stats?id=42994293) #25 150 points 24 comments -> [Analysis of 2024 Election Results in Clark County Indicates Manipulation](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/)<!-- HN:42994293:end -->
