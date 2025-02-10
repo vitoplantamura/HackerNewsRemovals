@@ -161,3 +161,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [42994281](https://news.social-protocols.org/stats?id=42994281) #25 9 points 0 comments -> [Keir Starmer appoints Jeff Bezos as his "first buddy"](https://pluralistic.net/2025/01/22/autocrats-of-trade/)<!-- HN:42994281:end --><!-- HN:42993661:start -->
 * [42993661](https://news.social-protocols.org/stats?id=42993661) #10 34 points 40 comments -> [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)<!-- HN:42993661:end --><!-- HN:42995174:start -->
 * [42995174](https://news.social-protocols.org/stats?id=42995174) #6 7 points 0 comments -> [DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than](https://cyberintel.substack.com/p/doge-exposes-once-secret-government)<!-- HN:42995174:end -->
+#### **Monday, February 10, 2025**
+<!-- HN:42995524:start -->
+* [42995524](https://news.social-protocols.org/stats?id=42995524) #30 13 points 0 comments -> [IT Unemployment Rises to 5.7% as AI Hits Tech Jobs](https://www.wsj.com/articles/it-unemployment-rises-to-5-7-as-ai-hits-tech-jobs-7726bb1b)<!-- HN:42995524:end -->
