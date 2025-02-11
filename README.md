@@ -43,26 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, February 4, 2025**
-<!-- HN:42926732:start -->
-* [42926732](https://news.social-protocols.org/stats?id=42926732) #8 8 points 4 comments -> [Hector Martin: "Behold, a maintainer sabotaging the Rust for Linux project"](https://lwn.net/ml/all/20250131075751.GA16720@lst.de/)<!-- HN:42926732:end --><!-- HN:42928101:start -->
-* [42928101](https://news.social-protocols.org/stats?id=42928101) #21 4 points 1 comments -> [Try to Jailbreak Claude's Constitutional Classifiers](https://claude.ai/login?returnTo=/constitutional-classifiers)<!-- HN:42928101:end --><!-- HN:42897360:start -->
-* [42897360](https://news.social-protocols.org/stats?id=42897360) #5 23 points 1 comments -> [How to Compile Java into Native Binaries with Mill and Graal](https://mill-build.org/blog/7-graal-native-executables.html)<!-- HN:42897360:end --><!-- HN:42931953:start -->
-* [42931953](https://news.social-protocols.org/stats?id=42931953) #2 6 points 1 comments -> [Codeberg: Free GitHub hosting](https://codeberg.org/)<!-- HN:42931953:end --><!-- HN:42932390:start -->
-* [42932390](https://news.social-protocols.org/stats?id=42932390) #15 7 points 1 comments -> [New Bill to Kill Anime and Other Piracy in US Backed by Netflix, Disney and Sony](https://www.cbr.com/america-new-piracy-bill-netflix-disney-sony-backing/)<!-- HN:42932390:end --><!-- HN:42930786:start -->
-* [42930786](https://news.social-protocols.org/stats?id=42930786) #19 81 points 67 comments -> [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)<!-- HN:42930786:end --><!-- HN:42890915:start -->
-* [42890915](https://news.social-protocols.org/stats?id=42890915) #20 44 points 51 comments -> [Apple Scraps Work on Mac-Connected Augmented Reality Glasses](https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses)<!-- HN:42890915:end --><!-- HN:42931088:start -->
-* [42931088](https://news.social-protocols.org/stats?id=42931088) #22 59 points 11 comments -> [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)<!-- HN:42931088:end --><!-- HN:42904723:start -->
-* [42904723](https://news.social-protocols.org/stats?id=42904723) #17 144 points 78 comments -> [Compiling Java into native binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)<!-- HN:42904723:end --><!-- HN:42932956:start -->
-* [42932956](https://news.social-protocols.org/stats?id=42932956) #20 3 points 0 comments -> [European Alternatives for Popular Services](https://european-alternatives.eu/alternatives-to)<!-- HN:42932956:end --><!-- HN:42933031:start -->
-* [42933031](https://news.social-protocols.org/stats?id=42933031) #6 18 points 19 comments -> [Programmers are modern-day computers](https://jtlicardo.com/writing/modern-day-computers/)<!-- HN:42933031:end --><!-- HN:42934363:start -->
-* [42934363](https://news.social-protocols.org/stats?id=42934363) #7 10 points 2 comments -> [Venture Capital Extremism](https://www.vcinfodocs.com/venture-capital-extremism)<!-- HN:42934363:end --><!-- HN:42935581:start -->
-* [42935581](https://news.social-protocols.org/stats?id=42935581) #29 9 points 0 comments -> [The 'Rapid Unscheduled Disassembly' of the United States Government](https://www.theatlantic.com/technology/archive/2025/02/elon-musk-bureaucratic-coup/681559/)<!-- HN:42935581:end --><!-- HN:42937286:start -->
-* [42937286](https://news.social-protocols.org/stats?id=42937286) #7 10 points 0 comments -> [Trump's Guantánamo Memo](https://www.stevevladeck.com/p/bonus-120-trumps-guantanamo-memo)<!-- HN:42937286:end --><!-- HN:42937783:start -->
-* [42937783](https://news.social-protocols.org/stats?id=42937783) #12 5 points 1 comments -> [Peter Thiel Company Generator](https://www.peterthielcompanygenerator.org/)<!-- HN:42937783:end --><!-- HN:42938647:start -->
-* [42938647](https://news.social-protocols.org/stats?id=42938647) #8 -> [A Coup Is in Progress in America](https://www.notesfromthecircus.com/p/a-coup-is-in-progress-in-america)<!-- HN:42938647:end --><!-- HN:42939995:start -->
-* [42939995](https://news.social-protocols.org/stats?id=42939995) #5 62 points 18 comments -> [Doge Sets Sights on Medicaid: New York Times](https://www.beckershospitalreview.com/finance/doge-sets-sights-on-medicaid-new-york-times.html)<!-- HN:42939995:end --><!-- HN:42940124:start -->
-* [42940124](https://news.social-protocols.org/stats?id=42940124) #6 9 points 0 comments -> [ChatGPT in Shambles](https://garymarcus.substack.com/p/chatgpt-in-shambles)<!-- HN:42940124:end -->
 #### **Wednesday, February 5, 2025**
 <!-- HN:42940284:start -->
 * [42940284](https://news.social-protocols.org/stats?id=42940284) #5 230 points 3 comments -> [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)<!-- HN:42940284:end --><!-- HN:42946046:start -->
