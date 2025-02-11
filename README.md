@@ -173,4 +173,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43006097](https://news.social-protocols.org/stats?id=43006097) #7 3 points 0 comments -> [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/abs/2412.12140)<!-- HN:43006097:end -->
 #### **Tuesday, February 11, 2025**
 <!-- HN:43007564:start -->
-* [43007564](https://news.social-protocols.org/stats?id=43007564) #25 30 points 22 comments -> [Google Calendar removed events like Pride and BHM; retains Black Friday](https://www.theverge.com/news/608858/google-calendar-missing-events-holidays)<!-- HN:43007564:end -->
+* [43007564](https://news.social-protocols.org/stats?id=43007564) #25 30 points 22 comments -> [Google Calendar removed events like Pride and BHM; retains Black Friday](https://www.theverge.com/news/608858/google-calendar-missing-events-holidays)<!-- HN:43007564:end --><!-- HN:43007862:start -->
+* [43007862](https://news.social-protocols.org/stats?id=43007862) #26 52 points 13 comments -> [Danes sign petition to buy California from U.S.](https://ktla.com/news/california/thousands-of-danes-sign-petition-to-buy-california-from-u-s/amp/)<!-- HN:43007862:end -->
