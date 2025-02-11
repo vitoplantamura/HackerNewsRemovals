@@ -171,3 +171,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43005265](https://news.social-protocols.org/stats?id=43005265) #21 13 points 2 comments -> [Duolingo Handbook](https://handbook.duolingo.com)<!-- HN:43005265:end --><!-- HN:43006172:start -->
 * [43006172](https://news.social-protocols.org/stats?id=43006172) #10 14 points 1 comments -> [Musk-led group makes $97.4B bid for ChatGPT maker OpenAI](https://www.bbc.co.uk/news/articles/cpdx75zgg88o)<!-- HN:43006172:end --><!-- HN:43006097:start -->
 * [43006097](https://news.social-protocols.org/stats?id=43006097) #7 3 points 0 comments -> [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/abs/2412.12140)<!-- HN:43006097:end -->
+#### **Tuesday, February 11, 2025**
+<!-- HN:43007564:start -->
+* [43007564](https://news.social-protocols.org/stats?id=43007564) #25 30 points 22 comments -> [Google Calendar removed events like Pride and BHM; retains Black Friday](https://www.theverge.com/news/608858/google-calendar-missing-events-holidays)<!-- HN:43007564:end -->
