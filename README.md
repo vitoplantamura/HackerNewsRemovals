@@ -183,4 +183,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43018223](https://news.social-protocols.org/stats?id=43018223) #19 6 points 1 comments -> [Man who lost $780M in Bitcoin in a landfill now wants to buy the dump](https://www.tomshardware.com/tech-industry/cryptocurrency/landfill-concealing-8-000-bitcoins-valued-at-usd780m-to-transform-into-a-solar-farm-but-man-now-wishes-to-buy-the-site)<!-- HN:43018223:end --><!-- HN:43018790:start -->
 * [43018790](https://news.social-protocols.org/stats?id=43018790) #10 6 points 1 comments -> [Letters from BBC Television Licensing](http://www.bbctvlicence.com/)<!-- HN:43018790:end --><!-- HN:43014070:start -->
 * [43014070](https://news.social-protocols.org/stats?id=43014070) #19 74 points 11 comments -> [Get in loser. We're rewinding the stack](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack)<!-- HN:43014070:end -->
-#### **Wednesday, February 12, 2025**
+#### **Wednesday, February 12, 2025**<!-- HN:43021026:start -->
+* [43021026](https://news.social-protocols.org/stats?id=43021026) #23 12 points 5 comments -> [Implementing the President's "DOGE" Workforce Optimization Initiative](https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-workforce-optimization-initiative/)<!-- HN:43021026:end -->
