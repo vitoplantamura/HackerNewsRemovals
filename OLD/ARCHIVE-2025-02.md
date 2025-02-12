@@ -56,3 +56,10 @@
 * [42938647](https://news.ycombinator.com/item?id=42938647) #8 -> [A Coup Is in Progress in America](https://www.notesfromthecircus.com/p/a-coup-is-in-progress-in-america)<!-- HN:42938647:end --><!-- HN:42939995:start -->
 * [42939995](https://news.ycombinator.com/item?id=42939995) #5 62 points 18 comments -> [Doge Sets Sights on Medicaid: New York Times](https://www.beckershospitalreview.com/finance/doge-sets-sights-on-medicaid-new-york-times.html)<!-- HN:42939995:end --><!-- HN:42940124:start -->
 * [42940124](https://news.ycombinator.com/item?id=42940124) #6 9 points 0 comments -> [ChatGPT in Shambles](https://garymarcus.substack.com/p/chatgpt-in-shambles)<!-- HN:42940124:end -->
+#### **Wednesday, February 5, 2025**
+<!-- HN:42940284:start -->
+* [42940284](https://news.ycombinator.com/item?id=42940284) #5 230 points 3 comments -> [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)<!-- HN:42940284:end --><!-- HN:42946046:start -->
+* [42946046](https://news.ycombinator.com/item?id=42946046) #12 125 points 77 comments -> [Carl Sagan Predicts the Decline of America (1995)](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)<!-- HN:42946046:end --><!-- HN:42951959:start -->
+* [42951959](https://news.ycombinator.com/item?id=42951959) #16 10 points 0 comments -> [Project 2025](https://www.project2025.org/)<!-- HN:42951959:end --><!-- HN:42952330:start -->
+* [42952330](https://news.ycombinator.com/item?id=42952330) #30 6 points 1 comments -> [Google drops pledge not to use AI for weapons, surveillance](https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance)<!-- HN:42952330:end --><!-- HN:42917338:start -->
+* [42917338](https://news.ycombinator.com/item?id=42917338) #22 5 points 1 comments -> [How to Prepare Your Next RPG Campaign Instantly](https://rpgtabletops.com/products/the-ultimate-maps-bundle)<!-- HN:42917338:end -->

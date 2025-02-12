@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, February 5, 2025**
-<!-- HN:42940284:start -->
-* [42940284](https://news.social-protocols.org/stats?id=42940284) #5 230 points 3 comments -> [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)<!-- HN:42940284:end --><!-- HN:42946046:start -->
-* [42946046](https://news.social-protocols.org/stats?id=42946046) #12 125 points 77 comments -> [Carl Sagan Predicts the Decline of America (1995)](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)<!-- HN:42946046:end --><!-- HN:42951959:start -->
-* [42951959](https://news.social-protocols.org/stats?id=42951959) #16 10 points 0 comments -> [Project 2025](https://www.project2025.org/)<!-- HN:42951959:end --><!-- HN:42952330:start -->
-* [42952330](https://news.social-protocols.org/stats?id=42952330) #30 6 points 1 comments -> [Google drops pledge not to use AI for weapons, surveillance](https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance)<!-- HN:42952330:end --><!-- HN:42917338:start -->
-* [42917338](https://news.social-protocols.org/stats?id=42917338) #22 5 points 1 comments -> [How to Prepare Your Next RPG Campaign Instantly](https://rpgtabletops.com/products/the-ultimate-maps-bundle)<!-- HN:42917338:end -->
 #### **Thursday, February 6, 2025**
 <!-- HN:42957617:start -->
 * [42957617](https://news.social-protocols.org/stats?id=42957617) #28 5 points 1 comments -> ['Accidental' FBI Chief Builds a Following as Agency's Defender](https://www.nytimes.com/2025/02/04/us/politics/fbi-director-brian-driscoll-trump-justice-department.html)<!-- HN:42957617:end --><!-- HN:42957874:start -->
