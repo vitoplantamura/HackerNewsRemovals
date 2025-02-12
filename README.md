@@ -185,5 +185,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43018790](https://news.social-protocols.org/stats?id=43018790) #10 6 points 1 comments -> [Letters from BBC Television Licensing](http://www.bbctvlicence.com/)<!-- HN:43018790:end --><!-- HN:43014070:start -->
 * [43014070](https://news.social-protocols.org/stats?id=43014070) #19 74 points 11 comments -> [Get in loser. We're rewinding the stack](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack)<!-- HN:43014070:end -->
 #### **Wednesday, February 12, 2025**
-<!-- HN:43019919:start -->
-* [43019919](https://news.social-protocols.org/stats?id=43019919) #9 8 points 0 comments -> [Farmers bear the brunt of attacks on USAID](https://www.baltimoresun.com/2025/02/11/tom-zirpoli-farmers-bear-the-brunt-of-attacks-on-usaid-commentary/)<!-- HN:43019919:end -->
