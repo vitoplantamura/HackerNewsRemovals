@@ -175,3 +175,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43026104](https://news.social-protocols.org/stats?id=43026104) #21 29 points 1 comments -> [Syd: An Introduction to Secure Application Sandboxing for Linux [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/)<!-- HN:43026104:end --><!-- HN:43028063:start -->
 * [43028063](https://news.social-protocols.org/stats?id=43028063) #8 4 points 1 comments -> [Let's Buy California – Denmark's Next Big Adventure](https://denmarkification.com/)<!-- HN:43028063:end --><!-- HN:43028641:start -->
 * [43028641](https://news.social-protocols.org/stats?id=43028641) #8 9 points 1 comments -> [Startup Funding Roadmap](https://anyonyashraya.com/on_startup_funding.html)<!-- HN:43028641:end -->
+#### **Thursday, February 13, 2025**
+<!-- HN:43031367:start -->
+* [43031367](https://news.social-protocols.org/stats?id=43031367) #8 10 points 2 comments -> [Help Denmark Buy California – Because Why Not?](https://denmarkification.com/)<!-- HN:43031367:end -->
