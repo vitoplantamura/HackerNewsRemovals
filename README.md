@@ -178,4 +178,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, February 13, 2025**
 <!-- HN:43031367:start -->
 * [43031367](https://news.social-protocols.org/stats?id=43031367) #8 10 points 2 comments -> [Help Denmark Buy California – Because Why Not?](https://denmarkification.com/)<!-- HN:43031367:end --><!-- HN:43031545:start -->
-* [43031545](https://news.social-protocols.org/stats?id=43031545) #7 18 points 41 comments -> [YouTube's New Hue](https://design.google/library/youtube-new-red-color)<!-- HN:43031545:end -->
+* [43031545](https://news.social-protocols.org/stats?id=43031545) #7 18 points 41 comments -> [YouTube's New Hue](https://design.google/library/youtube-new-red-color)<!-- HN:43031545:end --><!-- HN:43032112:start -->
+* [43032112](https://news.social-protocols.org/stats?id=43032112) #24 16 points 11 comments -> [Apple Resumes Advertising on X](https://www.macrumors.com/2025/02/12/apple-resumes-advertising-on-x/)<!-- HN:43032112:end -->
