@@ -186,3 +186,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43036366](https://news.social-protocols.org/stats?id=43036366) #17 9 points 0 comments -> [UTEP leaders silent as Ted Cruz accuses researchers of using 'woke DEI grants'](https://elpasomatters.org/2025/02/12/ted-cruz-utep-grants-national-science-foundation/)<!-- HN:43036366:end --><!-- HN:42993603:start -->
 * [42993603](https://news.social-protocols.org/stats?id=42993603) #27 11 points 5 comments -> [The World Without a Mask (1934)](https://scifist.net/2022/07/23/the-world-without-a-mask/)<!-- HN:42993603:end --><!-- HN:43037600:start -->
 * [43037600](https://news.social-protocols.org/stats?id=43037600) #7 104 points 28 comments -> [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)<!-- HN:43037600:end -->
+#### **Friday, February 14, 2025**
+<!-- HN:43039347:start -->
+* [43039347](https://news.social-protocols.org/stats?id=43039347) #19 57 points 40 comments -> [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)<!-- HN:43039347:end -->
