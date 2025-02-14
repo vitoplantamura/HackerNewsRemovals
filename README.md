@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, February 14, 2025**
 <!-- HN:43039347:start -->
 * [43039347](https://news.social-protocols.org/stats?id=43039347) #19 57 points 40 comments -> [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)<!-- HN:43039347:end --><!-- HN:43042835:start -->
-* [43042835](https://news.social-protocols.org/stats?id=43042835) #25 8 points 2 comments -> [JPMorgan's Jamie Dimon slams anti-RTO petition](https://nypost.com/2025/02/13/business/jpmorgans-jamie-dimon-slams-f-g-anti-rto-petition-dont-waste-time-on-it/)<!-- HN:43042835:end -->
+* [43042835](https://news.social-protocols.org/stats?id=43042835) #25 8 points 2 comments -> [JPMorgan's Jamie Dimon slams anti-RTO petition](https://nypost.com/2025/02/13/business/jpmorgans-jamie-dimon-slams-f-g-anti-rto-petition-dont-waste-time-on-it/)<!-- HN:43042835:end --><!-- HN:43043199:start -->
+* [43043199](https://news.social-protocols.org/stats?id=43043199) #26 11 points 2 comments -> [Federal Prosecutors in New York and Washington DC Resign](https://www.nbcnews.com/politics/justice-department/top-federal-prosecutor-ny-resigns-told-drop-adams-charges-rcna192030)<!-- HN:43043199:end -->
