@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43037600](https://news.social-protocols.org/stats?id=43037600) #7 104 points 28 comments -> [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)<!-- HN:43037600:end -->
 #### **Friday, February 14, 2025**
 <!-- HN:43039347:start -->
-* [43039347](https://news.social-protocols.org/stats?id=43039347) #19 57 points 40 comments -> [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)<!-- HN:43039347:end -->
+* [43039347](https://news.social-protocols.org/stats?id=43039347) #19 57 points 40 comments -> [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)<!-- HN:43039347:end --><!-- HN:43042835:start -->
+* [43042835](https://news.social-protocols.org/stats?id=43042835) #25 8 points 2 comments -> [JPMorgan's Jamie Dimon slams anti-RTO petition](https://nypost.com/2025/02/13/business/jpmorgans-jamie-dimon-slams-f-g-anti-rto-petition-dont-waste-time-on-it/)<!-- HN:43042835:end -->
