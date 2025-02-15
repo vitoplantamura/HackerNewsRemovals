@@ -173,5 +173,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43053552](https://news.social-protocols.org/stats?id=43053552) #27 12 points 3 comments -> [The United States is not a Silicon Valley company](http://scripting.com/2025/02/12/140926.html)<!-- HN:43053552:end --><!-- HN:43054050:start -->
 * [43054050](https://news.social-protocols.org/stats?id=43054050) #25 8 points 2 comments -> [Trump's Purge Hits Nuclear Weapons Agency–Setting Off National Crisis](https://newrepublic.com/post/191564/trump-fires-rehires-nuclear-weapons-agency-staff)<!-- HN:43054050:end -->
 #### **Saturday, February 15, 2025**
-<!-- HN:43006807:start -->
-* [43006807](https://news.social-protocols.org/stats?id=43006807) #16 11 points 1 comments -> [I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)<!-- HN:43006807:end -->
