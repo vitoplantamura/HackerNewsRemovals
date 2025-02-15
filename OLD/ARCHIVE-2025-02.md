@@ -122,3 +122,13 @@
 * [42978060](https://news.ycombinator.com/item?id=42978060) #29 16 points 0 comments -> [Surely You're a Creep, Mr. Feynman (2019)](https://thebaffler.com/outbursts/surely-youre-a-creep-mr-feynman-mcneill)<!-- HN:42978060:end --><!-- HN:42978228:start -->
 * [42978228](https://news.ycombinator.com/item?id=42978228) #5 6 points 3 comments -> [Consistent Jailbreaking Method in o1, o3, and 4o](https://generalanalysis.com/blog/jailbreaking_techniques)<!-- HN:42978228:end --><!-- HN:42978758:start -->
 * [42978758](https://news.ycombinator.com/item?id=42978758) #28 5 points 0 comments -> [Gleichschaltung](https://en.wikipedia.org/wiki/Gleichschaltung)<!-- HN:42978758:end -->
+#### **Saturday, February 8, 2025**
+<!-- HN:42979855:start -->
+* [42979855](https://news.ycombinator.com/item?id=42979855) #11 8 points 4 comments -> [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)<!-- HN:42979855:end --><!-- HN:42953044:start -->
+* [42953044](https://news.ycombinator.com/item?id=42953044) #7 7 points 1 comments -> [25 Years Ago, Joan Didion Kept a Diary. It's About to Become Public](https://www.nytimes.com/2025/02/05/books/new-book-joan-didion-notes-to-john.html)<!-- HN:42953044:end --><!-- HN:42938235:start -->
+* [42938235](https://news.ycombinator.com/item?id=42938235) #22 22 points 4 comments -> [Unobtanium 6502 based KIM-1 part now obtanium with FPGA](https://blog.paulsajna.com/fpga-mcs6530-rriot/)<!-- HN:42938235:end --><!-- HN:42983180:start -->
+* [42983180](https://news.ycombinator.com/item?id=42983180) #15 4 points 4 comments -> [The Puzzle](https://silence.bearblog.dev/the-puzzle/)<!-- HN:42983180:end --><!-- HN:42983148:start -->
+* [42983148](https://news.ycombinator.com/item?id=42983148) #13 47 points 32 comments -> [Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted](https://www.freedemandletter.com)<!-- HN:42983148:end --><!-- HN:42954058:start -->
+* [42954058](https://news.ycombinator.com/item?id=42954058) #15 21 points 5 comments -> [Global Caps Lock Key](https://globalcapslock.com)<!-- HN:42954058:end --><!-- HN:42956261:start -->
+* [42956261](https://news.ycombinator.com/item?id=42956261) #15 6 points 6 comments -> [I Applied Wavelet Transforms to AI and Found Hidden Structure](https://zenodo.org/records/14799070)<!-- HN:42956261:end --><!-- HN:42986335:start -->
+* [42986335](https://news.ycombinator.com/item?id=42986335) #13 47 points 21 comments -> [Mark Zuckerberg messages Facebook engineer](https://twitter.com/TechEmails/status/1888313183024074910)<!-- HN:42986335:end -->
