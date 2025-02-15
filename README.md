@@ -172,4 +172,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43047554](https://news.social-protocols.org/stats?id=43047554) #25 55 points 41 comments -> [Show HN: A New Way to Learn Languages](https://www.langturbo.com)<!-- HN:43047554:end --><!-- HN:43053552:start -->
 * [43053552](https://news.social-protocols.org/stats?id=43053552) #27 12 points 3 comments -> [The United States is not a Silicon Valley company](http://scripting.com/2025/02/12/140926.html)<!-- HN:43053552:end --><!-- HN:43054050:start -->
 * [43054050](https://news.social-protocols.org/stats?id=43054050) #25 8 points 2 comments -> [Trump's Purge Hits Nuclear Weapons Agency–Setting Off National Crisis](https://newrepublic.com/post/191564/trump-fires-rehires-nuclear-weapons-agency-staff)<!-- HN:43054050:end -->
-#### **Saturday, February 15, 2025**
+#### **Saturday, February 15, 2025**<!-- HN:43054889:start -->
+* [43054889](https://news.social-protocols.org/stats?id=43054889) #5 7 points 6 comments -> [Executive Order for MAHA Commission](https://foodishealth.substack.com/p/breaking-executive-order-for-maha)<!-- HN:43054889:end -->
