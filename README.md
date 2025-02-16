@@ -178,4 +178,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 16, 2025**
 <!-- HN:43063589:start -->
 * [43063589](https://news.social-protocols.org/stats?id=43063589) #5 14 points 40 comments -> [Will AI take web developer jobs?](https://www.alpower.com/blog/2025-02-13-will-ai-take-web-developer-jobs/)<!-- HN:43063589:end --><!-- HN:43064345:start -->
-* [43064345](https://news.social-protocols.org/stats?id=43064345) #6 6 points 0 comments -> [Understanding the MAGA-Tech Authoritarian Alliance](https://www.theframelab.org/understanding-the-maga-tech-authoritarian-alliance/)<!-- HN:43064345:end -->
+* [43064345](https://news.social-protocols.org/stats?id=43064345) #6 6 points 0 comments -> [Understanding the MAGA-Tech Authoritarian Alliance](https://www.theframelab.org/understanding-the-maga-tech-authoritarian-alliance/)<!-- HN:43064345:end --><!-- HN:43064359:start -->
+* [43064359](https://news.social-protocols.org/stats?id=43064359) #21 40 points 9 comments -> [GulfOfMexico: Perfect Programming Language](https://github.com/TodePond/GulfOfMexico)<!-- HN:43064359:end -->
