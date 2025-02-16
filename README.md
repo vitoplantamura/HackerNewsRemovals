@@ -197,3 +197,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43028457](https://news.social-protocols.org/stats?id=43028457) #19 7 points 0 comments -> [Japanese food makers step in to preserve sake breweries' legacy](https://www.japantimes.co.jp/news/2025/01/30/japan/food-makers-sake-legacy/)<!-- HN:43028457:end --><!-- HN:43061554:start -->
 * [43061554](https://news.social-protocols.org/stats?id=43061554) #20 11 points 3 comments -> [Leave Billionaires Alone](https://m-onz.net/leave-billionaires-alone)<!-- HN:43061554:end --><!-- HN:43062974:start -->
 * [43062974](https://news.social-protocols.org/stats?id=43062974) #16 6 points 0 comments -> [New homes listed for sale is absolutely EXPLODING in Washington DC](https://twitter.com/VladTheInflator/status/1890432617205387557)<!-- HN:43062974:end -->
+#### **Sunday, February 16, 2025**
+<!-- HN:43063589:start -->
+* [43063589](https://news.social-protocols.org/stats?id=43063589) #5 14 points 40 comments -> [Will AI take web developer jobs?](https://www.alpower.com/blog/2025-02-13-will-ai-take-web-developer-jobs/)<!-- HN:43063589:end -->
