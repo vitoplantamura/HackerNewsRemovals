@@ -177,8 +177,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43062974](https://news.social-protocols.org/stats?id=43062974) #16 6 points 0 comments -> [New homes listed for sale is absolutely EXPLODING in Washington DC](https://twitter.com/VladTheInflator/status/1890432617205387557)<!-- HN:43062974:end -->
 #### **Sunday, February 16, 2025**
 <!-- HN:43063589:start -->
-* [43063589](https://news.social-protocols.org/stats?id=43063589) #5 14 points 40 comments -> [Will AI take web developer jobs?](https://www.alpower.com/blog/2025-02-13-will-ai-take-web-developer-jobs/)<!-- HN:43063589:end --><!-- HN:43064345:start -->
-* [43064345](https://news.social-protocols.org/stats?id=43064345) #6 6 points 0 comments -> [Understanding the MAGA-Tech Authoritarian Alliance](https://www.theframelab.org/understanding-the-maga-tech-authoritarian-alliance/)<!-- HN:43064345:end --><!-- HN:43064359:start -->
+* [43063589](https://news.social-protocols.org/stats?id=43063589) #5 14 points 40 comments -> [Will AI take web developer jobs?](https://www.alpower.com/blog/2025-02-13-will-ai-take-web-developer-jobs/)<!-- HN:43063589:end --><!-- HN:43064359:start -->
 * [43064359](https://news.social-protocols.org/stats?id=43064359) #21 40 points 9 comments -> [GulfOfMexico: Perfect Programming Language](https://github.com/TodePond/GulfOfMexico)<!-- HN:43064359:end --><!-- HN:43064547:start -->
 * [43064547](https://news.social-protocols.org/stats?id=43064547) #23 18 points 6 comments -> [It's Time for a United Front to Take on Billionaire Rule](https://inthesetimes.com/article/labor-unions-trump-musk-doge-billionaires)<!-- HN:43064547:end --><!-- HN:43065095:start -->
 * [43065095](https://news.social-protocols.org/stats?id=43065095) #23 10 points 19 comments -> [Alex Karp Wants Silicon Valley to Fight for America](https://www.wsj.com/tech/who-is-alex-karp-palantir-ceo-dcd66e21)<!-- HN:43065095:end --><!-- HN:43065498:start -->
