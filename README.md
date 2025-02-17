@@ -195,3 +195,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43071645](https://news.social-protocols.org/stats?id=43071645) #16 13 points 5 comments -> [You are all a bunch of sick freaks](https://selfh.st/sick-freaks/)<!-- HN:43071645:end --><!-- HN:43071807:start -->
 * [43071807](https://news.social-protocols.org/stats?id=43071807) #20 24 points 4 comments -> [NOAA: File is deleted by executive order [pdf]](https://www.noaa.gov/sites/default/files/2024-01/NOAA_Radar_Next-Radar_Next_Program_242901.pdf)<!-- HN:43071807:end --><!-- HN:43038141:start -->
 * [43038141](https://news.social-protocols.org/stats?id=43038141) #17 4 points 0 comments -> [Solving a GitHub Mystery in Seconds](https://lumigo.io/blog/solving-a-github-mystery-in-seconds/)<!-- HN:43038141:end -->
+#### **Monday, February 17, 2025**
+<!-- HN:43072640:start -->
+* [43072640](https://news.social-protocols.org/stats?id=43072640) #23 10 points 2 comments -> [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)<!-- HN:43072640:end -->
