@@ -170,4 +170,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 17, 2025**
 <!-- HN:43072640:start -->
 * [43072640](https://news.social-protocols.org/stats?id=43072640) #23 10 points 2 comments -> [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)<!-- HN:43072640:end --><!-- HN:43073773:start -->
-* [43073773](https://news.social-protocols.org/stats?id=43073773) #15 19 points 8 comments -> [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)<!-- HN:43073773:end -->
+* [43073773](https://news.social-protocols.org/stats?id=43073773) #15 19 points 8 comments -> [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)<!-- HN:43073773:end --><!-- HN:43073481:start -->
+* [43073481](https://news.social-protocols.org/stats?id=43073481) #5 13 points 5 comments -> [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)<!-- HN:43073481:end -->
