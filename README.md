@@ -169,4 +169,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43038141](https://news.social-protocols.org/stats?id=43038141) #17 4 points 0 comments -> [Solving a GitHub Mystery in Seconds](https://lumigo.io/blog/solving-a-github-mystery-in-seconds/)<!-- HN:43038141:end -->
 #### **Monday, February 17, 2025**
 <!-- HN:43072640:start -->
-* [43072640](https://news.social-protocols.org/stats?id=43072640) #23 10 points 2 comments -> [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)<!-- HN:43072640:end -->
+* [43072640](https://news.social-protocols.org/stats?id=43072640) #23 10 points 2 comments -> [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)<!-- HN:43072640:end --><!-- HN:43073773:start -->
+* [43073773](https://news.social-protocols.org/stats?id=43073773) #15 19 points 8 comments -> [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)<!-- HN:43073773:end -->
