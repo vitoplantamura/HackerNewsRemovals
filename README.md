@@ -165,8 +165,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43069973](https://news.social-protocols.org/stats?id=43069973) #27 7 points 0 comments -> ['Reading is part of my identity': the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)<!-- HN:43069973:end --><!-- HN:43070946:start -->
 * [43070946](https://news.social-protocols.org/stats?id=43070946) #20 59 points 7 comments -> [Top US Election Security Watchdog Forced to Stop Election Security Work](https://www.wired.com/story/cisa-election-security-freeze-memo/)<!-- HN:43070946:end --><!-- HN:43070643:start -->
 * [43070643](https://news.social-protocols.org/stats?id=43070643) #9 6 points 2 comments -> [When Compilers Were the 'AI' That Scared Programmers](https://vivekhaldar.com/articles/when-compilers-were-the--ai--that-scared-programmers/)<!-- HN:43070643:end --><!-- HN:43071645:start -->
-* [43071645](https://news.social-protocols.org/stats?id=43071645) #16 13 points 5 comments -> [You are all a bunch of sick freaks](https://selfh.st/sick-freaks/)<!-- HN:43071645:end --><!-- HN:43071807:start -->
-* [43071807](https://news.social-protocols.org/stats?id=43071807) #20 24 points 4 comments -> [NOAA: File is deleted by executive order [pdf]](https://www.noaa.gov/sites/default/files/2024-01/NOAA_Radar_Next-Radar_Next_Program_242901.pdf)<!-- HN:43071807:end --><!-- HN:43038141:start -->
+* [43071645](https://news.social-protocols.org/stats?id=43071645) #16 13 points 5 comments -> [You are all a bunch of sick freaks](https://selfh.st/sick-freaks/)<!-- HN:43071645:end --><!-- HN:43038141:start -->
 * [43038141](https://news.social-protocols.org/stats?id=43038141) #17 4 points 0 comments -> [Solving a GitHub Mystery in Seconds](https://lumigo.io/blog/solving-a-github-mystery-in-seconds/)<!-- HN:43038141:end -->
 #### **Monday, February 17, 2025**
 <!-- HN:43072640:start -->
