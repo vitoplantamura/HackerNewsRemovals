@@ -187,3 +187,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43054506](https://news.social-protocols.org/stats?id=43054506) #18 9 points 4 comments -> [Show HN: Tools for Math Research](https://sugaku.net/)<!-- HN:43054506:end --><!-- HN:43083280:start -->
 * [43083280](https://news.social-protocols.org/stats?id=43083280) #4 94 points 10 comments -> [Project 2025 Observer](https://www.project2025.observer/)<!-- HN:43083280:end --><!-- HN:43084176:start -->
 * [43084176](https://news.social-protocols.org/stats?id=43084176) #29 5 points 0 comments -> [Racism Against Indians: The Internet's Acceptable Prejudice](https://substack.com/home/post/p-156976775)<!-- HN:43084176:end -->
+#### **Tuesday, February 18, 2025**
+<!-- HN:43084215:start -->
+* [43084215](https://news.social-protocols.org/stats?id=43084215) #22 -> [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)<!-- HN:43084215:end -->
