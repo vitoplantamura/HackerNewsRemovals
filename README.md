@@ -168,4 +168,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43084176](https://news.social-protocols.org/stats?id=43084176) #29 5 points 0 comments -> [Racism Against Indians: The Internet's Acceptable Prejudice](https://substack.com/home/post/p-156976775)<!-- HN:43084176:end -->
 #### **Tuesday, February 18, 2025**
 <!-- HN:43084215:start -->
-* [43084215](https://news.social-protocols.org/stats?id=43084215) #22 -> [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)<!-- HN:43084215:end -->
+* [43084215](https://news.social-protocols.org/stats?id=43084215) #22 -> [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)<!-- HN:43084215:end --><!-- HN:43084355:start -->
+* [43084355](https://news.social-protocols.org/stats?id=43084355) #28 30 points 40 comments -> [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)<!-- HN:43084355:end -->
