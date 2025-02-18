@@ -169,4 +169,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 18, 2025**
 <!-- HN:43084215:start -->
 * [43084215](https://news.social-protocols.org/stats?id=43084215) #22 -> [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)<!-- HN:43084215:end --><!-- HN:43084355:start -->
-* [43084355](https://news.social-protocols.org/stats?id=43084355) #28 30 points 40 comments -> [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)<!-- HN:43084355:end -->
+* [43084355](https://news.social-protocols.org/stats?id=43084355) #28 30 points 40 comments -> [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)<!-- HN:43084355:end --><!-- HN:43085712:start -->
+* [43085712](https://news.social-protocols.org/stats?id=43085712) #29 6 points 1 comments -> [X is reportedly blocking links to secure Signal contact pages](https://arstechnica.com/gadgets/2025/02/x-is-reportedly-blocking-links-to-secure-signal-contact-pages/)<!-- HN:43085712:end -->
