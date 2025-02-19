@@ -175,3 +175,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43095789](https://news.social-protocols.org/stats?id=43095789) #19 17 points 2 comments -> [Tech Continues to Be Political](https://www.miriamsuzanne.com/2025/02/12/tech-ai-wtf/)<!-- HN:43095789:end --><!-- HN:43093044:start -->
 * [43093044](https://news.social-protocols.org/stats?id=43093044) #19 37 points 2 comments -> [OpenAI Announces New SWE-Lancer Benchmark](https://openai.com/index/swe-lancer/)<!-- HN:43093044:end --><!-- HN:43096446:start -->
 * [43096446](https://news.social-protocols.org/stats?id=43096446) #12 -> [Doge Savings](https://doge.gov/savings)<!-- HN:43096446:end -->
+#### **Wednesday, February 19, 2025**
+<!-- HN:43098019:start -->
+* [43098019](https://news.social-protocols.org/stats?id=43098019) #5 7 points 2 comments -> [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)<!-- HN:43098019:end -->
