@@ -178,4 +178,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43098019:start -->
 * [43098019](https://news.social-protocols.org/stats?id=43098019) #5 7 points 2 comments -> [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)<!-- HN:43098019:end --><!-- HN:43098806:start -->
 * [43098806](https://news.social-protocols.org/stats?id=43098806) #6 7 points 0 comments -> [Cruel ASMR Video by the White House of Deporting Immigrants](https://kottke.org/25/02/unbelievably-cruel-asmr-video-immigrants)<!-- HN:43098806:end --><!-- HN:43099417:start -->
-* [43099417](https://news.social-protocols.org/stats?id=43099417) #10 13 points 11 comments -> [uBlock Origin Has Been Disabled](https://ublockorigin.com)<!-- HN:43099417:end -->
+* [43099417](https://news.social-protocols.org/stats?id=43099417) #10 13 points 11 comments -> [uBlock Origin Has Been Disabled](https://ublockorigin.com)<!-- HN:43099417:end --><!-- HN:43099826:start -->
+* [43099826](https://news.social-protocols.org/stats?id=43099826) #25 17 points 5 comments -> [A few hours ago, the US has turned into a de-facto dictatorship](https://old.reddit.com/r/law/comments/1isvzgu/the_full_executive_order_is_out_this_is_the)<!-- HN:43099826:end -->
