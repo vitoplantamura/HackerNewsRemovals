@@ -171,8 +171,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43092378](https://news.social-protocols.org/stats?id=43092378) #2 42 points 9 comments -> [X Prevents Research on Potential Election Interference](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x)<!-- HN:43092378:end --><!-- HN:43092421:start -->
 * [43092421](https://news.social-protocols.org/stats?id=43092421) #14 10 points 12 comments -> [A simple geometry question that fools almost everyone](https://www.theguardian.com/science/2025/feb/17/can-you-solve-it-the-simple-geometry-question-that-fools-almost-everyone)<!-- HN:43092421:end --><!-- HN:43093429:start -->
 * [43093429](https://news.social-protocols.org/stats?id=43093429) #11 16 points 1 comments -> [Thinking Machines Lab](https://thinkingmachines.ai/)<!-- HN:43093429:end --><!-- HN:43067123:start -->
-* [43067123](https://news.social-protocols.org/stats?id=43067123) #16 5 points 0 comments -> [Yes you built that but at what cost?](https://www.abhinavomprakash.com/posts/tradeoffs/)<!-- HN:43067123:end --><!-- HN:43095789:start -->
-* [43095789](https://news.social-protocols.org/stats?id=43095789) #19 17 points 2 comments -> [Tech Continues to Be Political](https://www.miriamsuzanne.com/2025/02/12/tech-ai-wtf/)<!-- HN:43095789:end --><!-- HN:43093044:start -->
+* [43067123](https://news.social-protocols.org/stats?id=43067123) #16 5 points 0 comments -> [Yes you built that but at what cost?](https://www.abhinavomprakash.com/posts/tradeoffs/)<!-- HN:43067123:end --><!-- HN:43093044:start -->
 * [43093044](https://news.social-protocols.org/stats?id=43093044) #19 37 points 2 comments -> [OpenAI Announces New SWE-Lancer Benchmark](https://openai.com/index/swe-lancer/)<!-- HN:43093044:end --><!-- HN:43096446:start -->
 * [43096446](https://news.social-protocols.org/stats?id=43096446) #12 -> [Doge Savings](https://doge.gov/savings)<!-- HN:43096446:end -->
 #### **Wednesday, February 19, 2025**
