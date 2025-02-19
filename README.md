@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, February 12, 2025**<!-- HN:42985614:start -->
-* [42985614](https://news.social-protocols.org/stats?id=42985614) #16 3 points 0 comments -> [Creality Space Pi Filament Dryer Plus: Review and Specs](https://syntaxglow.com/2025/02/08/creality-space-pi-filament-dryer-plus-review-specs/)<!-- HN:42985614:end --><!-- HN:43021333:start -->
-* [43021333](https://news.social-protocols.org/stats?id=43021333) #10 224 points 112 comments -> [Resist Authoritarianism by Refusing to Obey in Advance (2017)](https://lithub.com/resist-authoritarianism-by-refusing-to-obey-in-advance/)<!-- HN:43021333:end --><!-- HN:43020684:start -->
-* [43020684](https://news.social-protocols.org/stats?id=43020684) #11 293 points 260 comments -> [WASM will replace containers](https://creston.blog/wasm-will-replace-containers/)<!-- HN:43020684:end --><!-- HN:42994590:start -->
-* [42994590](https://news.social-protocols.org/stats?id=42994590) #12 230 points 58 comments -> [Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]](https://www.youtube.com/watch?v=swlVkYVSlIE)<!-- HN:42994590:end --><!-- HN:43019737:start -->
-* [43019737](https://news.social-protocols.org/stats?id=43019737) #13 99 points 40 comments -> [Migrate purchases from one Apple Account to another](https://support.apple.com/en-us/117294)<!-- HN:43019737:end --><!-- HN:43021515:start -->
-* [43021515](https://news.social-protocols.org/stats?id=43021515) #17 147 points 97 comments -> [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)<!-- HN:43021515:end --><!-- HN:42986629:start -->
-* [42986629](https://news.social-protocols.org/stats?id=42986629) #20 55 points 28 comments -> [Show HN: App that simulates a software engineer's daily job](https://mock-job-mentor.vercel.app/dashboard)<!-- HN:42986629:end --><!-- HN:43025266:start -->
-* [43025266](https://news.social-protocols.org/stats?id=43025266) #23 8 points 4 comments -> [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)<!-- HN:43025266:end --><!-- HN:43025420:start -->
-* [43025420](https://news.social-protocols.org/stats?id=43025420) #21 4 points 0 comments -> [Representation of BBC News Content in AI Assistants [pdf]](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf)<!-- HN:43025420:end --><!-- HN:43026302:start -->
-* [43026302](https://news.social-protocols.org/stats?id=43026302) #18 5 points 0 comments -> [Ignorance is bliss when you're drowning in information](https://www.theregister.com/2025/02/12/ignorance_really_is_bliss/)<!-- HN:43026302:end --><!-- HN:43026455:start -->
-* [43026455](https://news.social-protocols.org/stats?id=43026455) #27 3 points 0 comments -> [The secret behind sharp vision: the benefits of tiny eye movements](https://medicalxpress.com/news/2025-02-secret-sharp-vision-reveals-benefits.html)<!-- HN:43026455:end --><!-- HN:43026104:start -->
-* [43026104](https://news.social-protocols.org/stats?id=43026104) #21 29 points 1 comments -> [Syd: An Introduction to Secure Application Sandboxing for Linux [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/)<!-- HN:43026104:end --><!-- HN:43028063:start -->
-* [43028063](https://news.social-protocols.org/stats?id=43028063) #8 4 points 1 comments -> [Let's Buy California – Denmark's Next Big Adventure](https://denmarkification.com/)<!-- HN:43028063:end --><!-- HN:43028641:start -->
-* [43028641](https://news.social-protocols.org/stats?id=43028641) #8 9 points 1 comments -> [Startup Funding Roadmap](https://anyonyashraya.com/on_startup_funding.html)<!-- HN:43028641:end -->
 #### **Thursday, February 13, 2025**
 <!-- HN:43031367:start -->
 * [43031367](https://news.social-protocols.org/stats?id=43031367) #8 10 points 2 comments -> [Help Denmark Buy California – Because Why Not?](https://denmarkification.com/)<!-- HN:43031367:end --><!-- HN:43032112:start -->
