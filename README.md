@@ -176,4 +176,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43096446](https://news.social-protocols.org/stats?id=43096446) #12 -> [Doge Savings](https://doge.gov/savings)<!-- HN:43096446:end -->
 #### **Wednesday, February 19, 2025**
 <!-- HN:43098019:start -->
-* [43098019](https://news.social-protocols.org/stats?id=43098019) #5 7 points 2 comments -> [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)<!-- HN:43098019:end -->
+* [43098019](https://news.social-protocols.org/stats?id=43098019) #5 7 points 2 comments -> [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)<!-- HN:43098019:end --><!-- HN:43098806:start -->
+* [43098806](https://news.social-protocols.org/stats?id=43098806) #6 7 points 0 comments -> [Cruel ASMR Video by the White House of Deporting Immigrants](https://kottke.org/25/02/unbelievably-cruel-asmr-video-immigrants)<!-- HN:43098806:end -->
