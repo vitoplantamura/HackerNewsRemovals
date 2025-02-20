@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, February 13, 2025**
-<!-- HN:43031367:start -->
-* [43031367](https://news.social-protocols.org/stats?id=43031367) #8 10 points 2 comments -> [Help Denmark Buy California – Because Why Not?](https://denmarkification.com/)<!-- HN:43031367:end --><!-- HN:43032112:start -->
-* [43032112](https://news.social-protocols.org/stats?id=43032112) #24 16 points 11 comments -> [Apple Resumes Advertising on X](https://www.macrumors.com/2025/02/12/apple-resumes-advertising-on-x/)<!-- HN:43032112:end --><!-- HN:43032540:start -->
-* [43032540](https://news.social-protocols.org/stats?id=43032540) #2 7 points 0 comments -> [More than 100 women kept as slaves in illegal egg harvesting farm in Georgia](https://thenewfeminist.co.uk/2025/02/more-than-100-women-kept-as-slaves-in-illegal-egg-harvesting-farm-in-georgia/)<!-- HN:43032540:end --><!-- HN:43033202:start -->
-* [43033202](https://news.social-protocols.org/stats?id=43033202) #1 7 points 1 comments -> [Diversity: The U.S. Military's Not-So-Secret Weapon](https://angrystaffofficer.com/2025/02/12/diversity-the-u-s-militarys-not-so-secret-weapon/)<!-- HN:43033202:end --><!-- HN:43034405:start -->
-* [43034405](https://news.social-protocols.org/stats?id=43034405) #7 17 points 13 comments -> [New DOGE site update breaks down government jobs by salary/age/headcount](https://doge.gov/workforce)<!-- HN:43034405:end --><!-- HN:43036550:start -->
-* [43036550](https://news.social-protocols.org/stats?id=43036550) #15 8 points 2 comments -> [Senior State Dept. Advisor "BigBalls" Ran Image Host with Racist/Pedophilic URLs](https://www.muskwatch.com/p/doge-teen-ran-image-sharing-site)<!-- HN:43036550:end --><!-- HN:43036611:start -->
-* [43036611](https://news.social-protocols.org/stats?id=43036611) #21 11 points 2 comments -> [Apple has started advertising on X again](https://www.theverge.com/news/611967/apple-resumes-x-twitter-ad-spending-boycott)<!-- HN:43036611:end --><!-- HN:43036366:start -->
-* [43036366](https://news.social-protocols.org/stats?id=43036366) #17 9 points 0 comments -> [UTEP leaders silent as Ted Cruz accuses researchers of using 'woke DEI grants'](https://elpasomatters.org/2025/02/12/ted-cruz-utep-grants-national-science-foundation/)<!-- HN:43036366:end --><!-- HN:42993603:start -->
-* [42993603](https://news.social-protocols.org/stats?id=42993603) #27 11 points 5 comments -> [The World Without a Mask (1934)](https://scifist.net/2022/07/23/the-world-without-a-mask/)<!-- HN:42993603:end --><!-- HN:43037600:start -->
-* [43037600](https://news.social-protocols.org/stats?id=43037600) #7 104 points 28 comments -> [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)<!-- HN:43037600:end -->
 #### **Friday, February 14, 2025**
 <!-- HN:43039347:start -->
 * [43039347](https://news.social-protocols.org/stats?id=43039347) #19 57 points 40 comments -> [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)<!-- HN:43039347:end --><!-- HN:43042835:start -->
