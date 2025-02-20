@@ -187,4 +187,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, February 20, 2025**
 <!-- HN:43109376:start -->
 * [43109376](https://news.social-protocols.org/stats?id=43109376) #17 13 points 0 comments -> [Trump's firing spree rises to SCOTUS as watchdog attorney challenges termination](https://www.courthousenews.com/trumps-firing-spree-rises-to-scotus-as-watchdog-government-attorney-challenges-termination/)<!-- HN:43109376:end --><!-- HN:43109537:start -->
-* [43109537](https://news.social-protocols.org/stats?id=43109537) #28 12 points 0 comments -> [ICE Prosecutor in Dallas Runs White Supremacist X Account](https://www.texasobserver.org/ice-prosecutor-dallas-white-supremacist-x-account/)<!-- HN:43109537:end -->
+* [43109537](https://news.social-protocols.org/stats?id=43109537) #28 12 points 0 comments -> [ICE Prosecutor in Dallas Runs White Supremacist X Account](https://www.texasobserver.org/ice-prosecutor-dallas-white-supremacist-x-account/)<!-- HN:43109537:end --><!-- HN:43109561:start -->
+* [43109561](https://news.social-protocols.org/stats?id=43109561) #27 12 points 3 comments -> [Greg Kroah-Hartman Makes Compelling Case for Kernel Drivers Be Written in Rust](https://www.phoronix.com/news/Greg-KH-On-New-Rust-Code)<!-- HN:43109561:end -->
