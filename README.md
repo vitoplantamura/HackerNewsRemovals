@@ -184,3 +184,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43105959](https://news.social-protocols.org/stats?id=43105959) #19 21 points 2 comments -> [Building a Bitcoin Exchange with FOSS BTC Pay Server](https://blog.btcpayserver.org/case-study-unbank/)<!-- HN:43105959:end --><!-- HN:43108513:start -->
 * [43108513](https://news.social-protocols.org/stats?id=43108513) #6 13 points 5 comments -> [Behavioural Patterns Are the New Skin Colour](https://www.nthprocess.com/behavioural-patterns-are-the-new-skin-colour-2/)<!-- HN:43108513:end --><!-- HN:43108714:start -->
 * [43108714](https://news.social-protocols.org/stats?id=43108714) #10 10 points 0 comments -> [Good samaritan offers .com domain for free](http://mynewdomainhahaha.com/)<!-- HN:43108714:end -->
+#### **Thursday, February 20, 2025**
+<!-- HN:43109376:start -->
+* [43109376](https://news.social-protocols.org/stats?id=43109376) #17 13 points 0 comments -> [Trump's firing spree rises to SCOTUS as watchdog attorney challenges termination](https://www.courthousenews.com/trumps-firing-spree-rises-to-scotus-as-watchdog-government-attorney-challenges-termination/)<!-- HN:43109376:end -->
