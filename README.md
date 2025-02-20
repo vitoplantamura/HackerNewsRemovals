@@ -186,4 +186,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43108714](https://news.social-protocols.org/stats?id=43108714) #10 10 points 0 comments -> [Good samaritan offers .com domain for free](http://mynewdomainhahaha.com/)<!-- HN:43108714:end -->
 #### **Thursday, February 20, 2025**
 <!-- HN:43109376:start -->
-* [43109376](https://news.social-protocols.org/stats?id=43109376) #17 13 points 0 comments -> [Trump's firing spree rises to SCOTUS as watchdog attorney challenges termination](https://www.courthousenews.com/trumps-firing-spree-rises-to-scotus-as-watchdog-government-attorney-challenges-termination/)<!-- HN:43109376:end -->
+* [43109376](https://news.social-protocols.org/stats?id=43109376) #17 13 points 0 comments -> [Trump's firing spree rises to SCOTUS as watchdog attorney challenges termination](https://www.courthousenews.com/trumps-firing-spree-rises-to-scotus-as-watchdog-government-attorney-challenges-termination/)<!-- HN:43109376:end --><!-- HN:43109537:start -->
+* [43109537](https://news.social-protocols.org/stats?id=43109537) #28 12 points 0 comments -> [ICE Prosecutor in Dallas Runs White Supremacist X Account](https://www.texasobserver.org/ice-prosecutor-dallas-white-supremacist-x-account/)<!-- HN:43109537:end -->
