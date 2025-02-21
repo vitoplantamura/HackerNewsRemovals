@@ -180,3 +180,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43118634](https://news.social-protocols.org/stats?id=43118634) #1 288 points 148 comments -> [OpenEuroLLM](https://openeurollm.eu/)<!-- HN:43118634:end --><!-- HN:43120404:start -->
 * [43120404](https://news.social-protocols.org/stats?id=43120404) #20 31 points 3 comments -> [Amazon remembers it has an Android app store, kills it](https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/)<!-- HN:43120404:end --><!-- HN:43121826:start -->
 * [43121826](https://news.social-protocols.org/stats?id=43121826) #28 48 points 16 comments -> [Petition to Remove the Canadian Government from Twitter](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-5359)<!-- HN:43121826:end -->
+#### **Friday, February 21, 2025**
+<!-- HN:43122341:start -->
+* [43122341](https://news.social-protocols.org/stats?id=43122341) #3 17 points 5 comments -> [Blackmailing Grok](https://blog.hermesloom.org/p/blackmailing-grok)<!-- HN:43122341:end -->
