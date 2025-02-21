@@ -183,5 +183,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43122341:start -->
 * [43122341](https://news.social-protocols.org/stats?id=43122341) #3 17 points 5 comments -> [Blackmailing Grok](https://blog.hermesloom.org/p/blackmailing-grok)<!-- HN:43122341:end --><!-- HN:43123283:start -->
 * [43123283](https://news.social-protocols.org/stats?id=43123283) #13 42 points 22 comments -> [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)<!-- HN:43123283:end --><!-- HN:43077931:start -->
-* [43077931](https://news.social-protocols.org/stats?id=43077931) #19 8 points 0 comments -> [Blockchain that runs Python smart contracts native. No Solidity, no VM overhead](https://xian.org/)<!-- HN:43077931:end --><!-- HN:43127031:start -->
-* [43127031](https://news.social-protocols.org/stats?id=43127031) #25 8 points 0 comments -> [Steve Bannon Gives Apparent Nazi Salute During CPAC Speech](https://www.thewrap.com/steve-bannon-gives-apparent-nazi-salute-at-cpac-elon-musk/)<!-- HN:43127031:end -->
+* [43077931](https://news.social-protocols.org/stats?id=43077931) #19 8 points 0 comments -> [Blockchain that runs Python smart contracts native. No Solidity, no VM overhead](https://xian.org/)<!-- HN:43077931:end -->
