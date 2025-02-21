@@ -181,4 +181,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43120404](https://news.social-protocols.org/stats?id=43120404) #20 31 points 3 comments -> [Amazon remembers it has an Android app store, kills it](https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/)<!-- HN:43120404:end -->
 #### **Friday, February 21, 2025**
 <!-- HN:43122341:start -->
-* [43122341](https://news.social-protocols.org/stats?id=43122341) #3 17 points 5 comments -> [Blackmailing Grok](https://blog.hermesloom.org/p/blackmailing-grok)<!-- HN:43122341:end -->
+* [43122341](https://news.social-protocols.org/stats?id=43122341) #3 17 points 5 comments -> [Blackmailing Grok](https://blog.hermesloom.org/p/blackmailing-grok)<!-- HN:43122341:end --><!-- HN:43123283:start -->
+* [43123283](https://news.social-protocols.org/stats?id=43123283) #13 42 points 22 comments -> [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)<!-- HN:43123283:end -->
