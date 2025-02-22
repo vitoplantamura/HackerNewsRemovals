@@ -169,3 +169,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43087561](https://news.social-protocols.org/stats?id=43087561) #26 5 points 1 comments -> [A Lightweight MDX CMS for Static Sites (No Git, No Complex Setup)](https://swapcone.com)<!-- HN:43087561:end --><!-- HN:43132656:start -->
 * [43132656](https://news.social-protocols.org/stats?id=43132656) #22 4 points 2 comments -> [ERPs suck. Generative AI will fix them](https://getlumina.substack.com/p/erps-suck-generative-ai-will-fix)<!-- HN:43132656:end --><!-- HN:43093360:start -->
 * [43093360](https://news.social-protocols.org/stats?id=43093360) #25 30 points 40 comments -> [Can You Lose Your Native Tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)<!-- HN:43093360:end -->
+#### **Saturday, February 22, 2025**
+<!-- HN:43134544:start -->
+* [43134544](https://news.social-protocols.org/stats?id=43134544) #24 4 points 0 comments -> [Why Parliamentary Systems Are Better for the Economy Than the Presidential Ones](https://www.internationalaffairs.org.au/australianoutlook/why-parliamentary-systems-are-better-for-the-economy-than-the-presidential-ones/)<!-- HN:43134544:end -->
