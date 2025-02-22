@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, February 22, 2025**
 <!-- HN:43134544:start -->
 * [43134544](https://news.social-protocols.org/stats?id=43134544) #24 4 points 0 comments -> [Why Parliamentary Systems Are Better for the Economy Than the Presidential Ones](https://www.internationalaffairs.org.au/australianoutlook/why-parliamentary-systems-are-better-for-the-economy-than-the-presidential-ones/)<!-- HN:43134544:end --><!-- HN:43134845:start -->
-* [43134845](https://news.social-protocols.org/stats?id=43134845) #12 24 points 4 comments -> [Prominent DOGE staffer Edward Coristine is grandson of turncoat KGB spy](https://www.jacobsilverman.com/p/prominent-doge-staffer-is-grandson)<!-- HN:43134845:end -->
+* [43134845](https://news.social-protocols.org/stats?id=43134845) #12 24 points 4 comments -> [Prominent DOGE staffer Edward Coristine is grandson of turncoat KGB spy](https://www.jacobsilverman.com/p/prominent-doge-staffer-is-grandson)<!-- HN:43134845:end --><!-- HN:43135333:start -->
+* [43135333](https://news.social-protocols.org/stats?id=43135333) #25 27 points 35 comments -> [Who Wants to Work in a Factory?](https://arenamag.com/2025/02/11/who-wants-to-work-in-a-factory/)<!-- HN:43135333:end -->
