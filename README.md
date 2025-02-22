@@ -171,5 +171,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43093360](https://news.social-protocols.org/stats?id=43093360) #25 30 points 40 comments -> [Can You Lose Your Native Tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)<!-- HN:43093360:end -->
 #### **Saturday, February 22, 2025**
 <!-- HN:43134544:start -->
-* [43134544](https://news.social-protocols.org/stats?id=43134544) #24 4 points 0 comments -> [Why Parliamentary Systems Are Better for the Economy Than the Presidential Ones](https://www.internationalaffairs.org.au/australianoutlook/why-parliamentary-systems-are-better-for-the-economy-than-the-presidential-ones/)<!-- HN:43134544:end --><!-- HN:43134845:start -->
-* [43134845](https://news.social-protocols.org/stats?id=43134845) #9 12 points 0 comments -> [Prominent DOGE staffer Edward Coristine is grandson of turncoat KGB spy](https://www.jacobsilverman.com/p/prominent-doge-staffer-is-grandson)<!-- HN:43134845:end -->
+* [43134544](https://news.social-protocols.org/stats?id=43134544) #24 4 points 0 comments -> [Why Parliamentary Systems Are Better for the Economy Than the Presidential Ones](https://www.internationalaffairs.org.au/australianoutlook/why-parliamentary-systems-are-better-for-the-economy-than-the-presidential-ones/)<!-- HN:43134544:end -->
