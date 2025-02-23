@@ -171,5 +171,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43100435](https://news.social-protocols.org/stats?id=43100435) #17 3 points 0 comments -> [Allow me to explain this absurd thing on my head (made by 3D printer, not Apple)](https://twitter.com/waitbutwhy/status/1891989494875750600)<!-- HN:43100435:end --><!-- HN:43143637:start -->
 * [43143637](https://news.social-protocols.org/stats?id=43143637) #17 22 points 1 comments -> [NIH funding freeze stalls applications on $1.5B in medical research funds](https://www.npr.org/sections/shots-health-news/2025/02/22/nx-s1-5305276/trump-nih-funding-freeze-medical-research)<!-- HN:43143637:end -->
 #### **Sunday, February 23, 2025**
-<!-- HN:43144421:start -->
-* [43144421](https://news.social-protocols.org/stats?id=43144421) #12 31 points 8 comments -> [Why are you lying to me? What the hell is wrong with you?](https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty)<!-- HN:43144421:end -->
