@@ -173,4 +173,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 23, 2025**<!-- HN:43060603:start -->
 * [43060603](https://news.social-protocols.org/stats?id=43060603) #22 113 points 9 comments -> [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)<!-- HN:43060603:end --><!-- HN:43144421:start -->
 * [43144421](https://news.social-protocols.org/stats?id=43144421) #23 32 points 12 comments -> [Why are you lying to me? What the hell is wrong with you?](https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty)<!-- HN:43144421:end --><!-- HN:43107244:start -->
-* [43107244](https://news.social-protocols.org/stats?id=43107244) #5 20 points 1 comments -> [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)<!-- HN:43107244:end -->
+* [43107244](https://news.social-protocols.org/stats?id=43107244) #5 20 points 1 comments -> [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)<!-- HN:43107244:end --><!-- HN:43144415:start -->
+* [43144415](https://news.social-protocols.org/stats?id=43144415) #10 7 points 6 comments -> [Our Big Oops](https://www.overcomingbias.com/p/our-big-oops)<!-- HN:43144415:end -->
