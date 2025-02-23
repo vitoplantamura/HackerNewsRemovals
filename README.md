@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, February 16, 2025**
-<!-- HN:43063589:start -->
-* [43063589](https://news.social-protocols.org/stats?id=43063589) #5 14 points 40 comments -> [Will AI take web developer jobs?](https://www.alpower.com/blog/2025-02-13-will-ai-take-web-developer-jobs/)<!-- HN:43063589:end --><!-- HN:43064359:start -->
-* [43064359](https://news.social-protocols.org/stats?id=43064359) #21 40 points 9 comments -> [GulfOfMexico: Perfect Programming Language](https://github.com/TodePond/GulfOfMexico)<!-- HN:43064359:end --><!-- HN:43064547:start -->
-* [43064547](https://news.social-protocols.org/stats?id=43064547) #23 18 points 6 comments -> [It's Time for a United Front to Take on Billionaire Rule](https://inthesetimes.com/article/labor-unions-trump-musk-doge-billionaires)<!-- HN:43064547:end --><!-- HN:43065095:start -->
-* [43065095](https://news.social-protocols.org/stats?id=43065095) #23 10 points 19 comments -> [Alex Karp Wants Silicon Valley to Fight for America](https://www.wsj.com/tech/who-is-alex-karp-palantir-ceo-dcd66e21)<!-- HN:43065095:end --><!-- HN:43065498:start -->
-* [43065498](https://news.social-protocols.org/stats?id=43065498) #29 7 points 0 comments -> [Modding the Gulf of Mexico Back (In Google Maps) [video]](https://www.youtube.com/watch?v=F5m2JxplnXk)<!-- HN:43065498:end --><!-- HN:43024471:start -->
-* [43024471](https://news.social-protocols.org/stats?id=43024471) #16 9 points 1 comments -> [Age of Invention: How Coal Won](https://www.ageofinvention.xyz/p/age-of-invention-how-coal-really)<!-- HN:43024471:end --><!-- HN:43065757:start -->
-* [43065757](https://news.social-protocols.org/stats?id=43065757) #7 44 points 25 comments -> [US Energy Department ending appliance efficiency standards](https://www.energy.gov/articles/energy-department-acts-lower-prices-and-increase-consumer-choice-household-appliances)<!-- HN:43065757:end --><!-- HN:43067193:start -->
-* [43067193](https://news.social-protocols.org/stats?id=43067193) #21 6 points 2 comments -> [Cancel culture? We should stop it. End of story](https://www.theguardian.com/books/2025/feb/15/cancel-culture-we-should-stop-it-end-of-story-chimamanda-ngozi-adichie-on-backlash-writers-block-and-her-two-new-babies)<!-- HN:43067193:end --><!-- HN:43066993:start -->
-* [43066993](https://news.social-protocols.org/stats?id=43066993) #23 8 points 3 comments -> [Stock Market and Financial Data API](https://financialdata.net)<!-- HN:43066993:end --><!-- HN:43069104:start -->
-* [43069104](https://news.social-protocols.org/stats?id=43069104) #6 6 points 1 comments -> [I went viral with a silly startup](https://www.cyberpatterns.xyz/p/vc-subsidized)<!-- HN:43069104:end --><!-- HN:43069835:start -->
-* [43069835](https://news.social-protocols.org/stats?id=43069835) #29 5 points 0 comments -> [He who saves his country, violates no law](https://en.wikipedia.org/wiki/He_who_saves_his_country,_violates_no_law)<!-- HN:43069835:end --><!-- HN:43069973:start -->
-* [43069973](https://news.social-protocols.org/stats?id=43069973) #27 7 points 0 comments -> ['Reading is part of my identity': the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)<!-- HN:43069973:end --><!-- HN:43070946:start -->
-* [43070946](https://news.social-protocols.org/stats?id=43070946) #20 59 points 7 comments -> [Top US Election Security Watchdog Forced to Stop Election Security Work](https://www.wired.com/story/cisa-election-security-freeze-memo/)<!-- HN:43070946:end --><!-- HN:43070643:start -->
-* [43070643](https://news.social-protocols.org/stats?id=43070643) #9 6 points 2 comments -> [When Compilers Were the 'AI' That Scared Programmers](https://vivekhaldar.com/articles/when-compilers-were-the--ai--that-scared-programmers/)<!-- HN:43070643:end --><!-- HN:43071645:start -->
-* [43071645](https://news.social-protocols.org/stats?id=43071645) #16 13 points 5 comments -> [You are all a bunch of sick freaks](https://selfh.st/sick-freaks/)<!-- HN:43071645:end --><!-- HN:43038141:start -->
-* [43038141](https://news.social-protocols.org/stats?id=43038141) #17 4 points 0 comments -> [Solving a GitHub Mystery in Seconds](https://lumigo.io/blog/solving-a-github-mystery-in-seconds/)<!-- HN:43038141:end -->
 #### **Monday, February 17, 2025**
 <!-- HN:43072640:start -->
 * [43072640](https://news.social-protocols.org/stats?id=43072640) #23 10 points 2 comments -> [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)<!-- HN:43072640:end --><!-- HN:43073773:start -->
