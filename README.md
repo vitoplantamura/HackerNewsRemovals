@@ -170,4 +170,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43142910](https://news.social-protocols.org/stats?id=43142910) #29 11 points 5 comments -> [Failure to respond will be taken as a resignation](https://twitter.com/elonmusk/status/1893386883444437415)<!-- HN:43142910:end --><!-- HN:43100435:start -->
 * [43100435](https://news.social-protocols.org/stats?id=43100435) #17 3 points 0 comments -> [Allow me to explain this absurd thing on my head (made by 3D printer, not Apple)](https://twitter.com/waitbutwhy/status/1891989494875750600)<!-- HN:43100435:end --><!-- HN:43143637:start -->
 * [43143637](https://news.social-protocols.org/stats?id=43143637) #17 22 points 1 comments -> [NIH funding freeze stalls applications on $1.5B in medical research funds](https://www.npr.org/sections/shots-health-news/2025/02/22/nx-s1-5305276/trump-nih-funding-freeze-medical-research)<!-- HN:43143637:end -->
-#### **Sunday, February 23, 2025**
+#### **Sunday, February 23, 2025**<!-- HN:43060603:start -->
+* [43060603](https://news.social-protocols.org/stats?id=43060603) #22 113 points 9 comments -> [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)<!-- HN:43060603:end --><!-- HN:43144421:start -->
+* [43144421](https://news.social-protocols.org/stats?id=43144421) #23 32 points 12 comments -> [Why are you lying to me? What the hell is wrong with you?](https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty)<!-- HN:43144421:end -->
