@@ -43,26 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, February 17, 2025**
-<!-- HN:43072640:start -->
-* [43072640](https://news.social-protocols.org/stats?id=43072640) #23 10 points 2 comments -> [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)<!-- HN:43072640:end --><!-- HN:43073773:start -->
-* [43073773](https://news.social-protocols.org/stats?id=43073773) #15 19 points 8 comments -> [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)<!-- HN:43073773:end --><!-- HN:43073481:start -->
-* [43073481](https://news.social-protocols.org/stats?id=43073481) #5 13 points 5 comments -> [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)<!-- HN:43073481:end --><!-- HN:43074155:start -->
-* [43074155](https://news.social-protocols.org/stats?id=43074155) #22 55 points 23 comments -> [Elon Musk's terrifying vision for AI](https://garymarcus.substack.com/p/elon-musks-terrifying-vision-for)<!-- HN:43074155:end --><!-- HN:43074291:start -->
-* [43074291](https://news.social-protocols.org/stats?id=43074291) #27 48 points 2 comments -> [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)<!-- HN:43074291:end --><!-- HN:43075724:start -->
-* [43075724](https://news.social-protocols.org/stats?id=43075724) #21 5 points 0 comments -> [Trump's true enemy isn't China or Russia but liberal democracy](https://nickcohen.substack.com/p/trumps-true-enemy-isnt-china-or-russia)<!-- HN:43075724:end --><!-- HN:43077175:start -->
-* [43077175](https://news.social-protocols.org/stats?id=43077175) #6 17 points 3 comments -> [Broligarchy does not build civilization](https://not-a-tech-bro.ghost.io/broligarchy-does-not-build-civilization/)<!-- HN:43077175:end --><!-- HN:43079109:start -->
-* [43079109](https://news.social-protocols.org/stats?id=43079109) #5 9 points 1 comments -> [Show HN: Bag of words – Build and share smart data apps using AI](https://github.com/bagofwords1/bagofwords)<!-- HN:43079109:end --><!-- HN:43038109:start -->
-* [43038109](https://news.social-protocols.org/stats?id=43038109) #20 145 points 40 comments -> [Anno 1800: Shadows of Beauty](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)<!-- HN:43038109:end --><!-- HN:43039140:start -->
-* [43039140](https://news.social-protocols.org/stats?id=43039140) #26 38 points 7 comments -> [Tokyo Xtreme Racer Early Access Review: We Are So Back](https://www.thedrive.com/news/tokyo-xtreme-racer-early-access-review)<!-- HN:43039140:end --><!-- HN:43076137:start -->
-* [43076137](https://news.social-protocols.org/stats?id=43076137) #22 114 points 107 comments -> [Managers given 200 characters to justify not firing nuclear regulators](https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa)<!-- HN:43076137:end --><!-- HN:43069533:start -->
-* [43069533](https://news.social-protocols.org/stats?id=43069533) #18 223 points 342 comments -> [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)<!-- HN:43069533:end --><!-- HN:43077833:start -->
-* [43077833](https://news.social-protocols.org/stats?id=43077833) #13 41 points 25 comments -> [Open source maintainers are feeling the squeeze](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/)<!-- HN:43077833:end --><!-- HN:43076418:start -->
-* [43076418](https://news.social-protocols.org/stats?id=43076418) #22 60 points 45 comments -> [Is ChatGPT autocomplete bad UX/UI?](https://honzabe.com/blog/posts/chatgpt-autocomplete-bad-ux-ui/)<!-- HN:43076418:end --><!-- HN:43077551:start -->
-* [43077551](https://news.social-protocols.org/stats?id=43077551) #27 36 points 25 comments -> [Techie pointed out meetings are pointless, and was punished for it](https://www.theregister.com/2025/02/17/who_me/)<!-- HN:43077551:end --><!-- HN:43054506:start -->
-* [43054506](https://news.social-protocols.org/stats?id=43054506) #18 9 points 4 comments -> [Show HN: Tools for Math Research](https://sugaku.net/)<!-- HN:43054506:end --><!-- HN:43083280:start -->
-* [43083280](https://news.social-protocols.org/stats?id=43083280) #4 94 points 10 comments -> [Project 2025 Observer](https://www.project2025.observer/)<!-- HN:43083280:end --><!-- HN:43084176:start -->
-* [43084176](https://news.social-protocols.org/stats?id=43084176) #29 5 points 0 comments -> [Racism Against Indians: The Internet's Acceptable Prejudice](https://substack.com/home/post/p-156976775)<!-- HN:43084176:end -->
 #### **Tuesday, February 18, 2025**
 <!-- HN:43084215:start -->
 * [43084215](https://news.social-protocols.org/stats?id=43084215) #22 -> [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)<!-- HN:43084215:end --><!-- HN:43085712:start -->
