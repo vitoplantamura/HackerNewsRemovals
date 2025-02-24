@@ -175,4 +175,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 24, 2025**
 <!-- HN:43124497:start -->
 * [43124497](https://news.social-protocols.org/stats?id=43124497) #8 7 points 2 comments -> [JavaScript Promises](https://lancecourse.com/en/courses/javascript-in-100-bits/lesson-24-javascript-promises)<!-- HN:43124497:end --><!-- HN:43155204:start -->
-* [43155204](https://news.social-protocols.org/stats?id=43155204) #21 5 points 0 comments -> [Federal prisons prep to move trans inmates as early as next week](https://www.npr.org/2025/02/21/nx-s1-5305282/trans-inmates-federal-prison-policy-transfers)<!-- HN:43155204:end -->
+* [43155204](https://news.social-protocols.org/stats?id=43155204) #21 5 points 0 comments -> [Federal prisons prep to move trans inmates as early as next week](https://www.npr.org/2025/02/21/nx-s1-5305282/trans-inmates-federal-prison-policy-transfers)<!-- HN:43155204:end --><!-- HN:43155151:start -->
+* [43155151](https://news.social-protocols.org/stats?id=43155151) #30 21 points 0 comments -> [Russia's War on Ukraine: Three Years, Three Hundred and Two False Claims](https://www.newsguardrealitycheck.com/p/russias-war-on-ukraine-three-years)<!-- HN:43155151:end -->
