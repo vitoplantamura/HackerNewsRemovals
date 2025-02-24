@@ -172,3 +172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43151655](https://news.social-protocols.org/stats?id=43151655) #3 11 points 0 comments -> [Move Fast and Break People](https://www.thehandbasket.co/p/musk-opm-5-bullets-email-psychological-warfare)<!-- HN:43151655:end --><!-- HN:43151580:start -->
 * [43151580](https://news.social-protocols.org/stats?id=43151580) #16 81 points 15 comments -> [Grok 3 claims its system prompt includes censorship about Musk/Trump](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/)<!-- HN:43151580:end --><!-- HN:43149883:start -->
 * [43149883](https://news.social-protocols.org/stats?id=43149883) #4 227 points 1 comments -> [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)<!-- HN:43149883:end -->
+#### **Monday, February 24, 2025**
+<!-- HN:43124497:start -->
+* [43124497](https://news.social-protocols.org/stats?id=43124497) #8 7 points 2 comments -> [JavaScript Promises](https://lancecourse.com/en/courses/javascript-in-100-bits/lesson-24-javascript-promises)<!-- HN:43124497:end -->
