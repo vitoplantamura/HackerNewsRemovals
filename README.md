@@ -168,4 +168,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43123810](https://news.social-protocols.org/stats?id=43123810) #25 65 points 1 comments -> ["The closer [to] the railway station the less tasty the Kebab is" – A Study](https://old.reddit.com/r/gis/comments/1iph0yy/the_closer_to_the_railway_station_the_less_tasty/)<!-- HN:43123810:end -->
 #### **Tuesday, February 25, 2025**
 <!-- HN:43129884:start -->
-* [43129884](https://news.social-protocols.org/stats?id=43129884) #21 3 points 0 comments -> [Grab AI Gateway: Connecting Grabbers to Multiple GenAI Providers](https://engineering.grab.com/grab-ai-gateway)<!-- HN:43129884:end -->
+* [43129884](https://news.social-protocols.org/stats?id=43129884) #21 3 points 0 comments -> [Grab AI Gateway: Connecting Grabbers to Multiple GenAI Providers](https://engineering.grab.com/grab-ai-gateway)<!-- HN:43129884:end --><!-- HN:43143636:start -->
+* [43143636](https://news.social-protocols.org/stats?id=43143636) #17 3 points 0 comments -> [Show HN: A competition game to write bots for the most efficient algo](https://github.com/kingofthegrid/king-of-the-grid)<!-- HN:43143636:end -->
