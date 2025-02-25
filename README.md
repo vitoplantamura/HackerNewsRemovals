@@ -169,4 +169,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 25, 2025**
 <!-- HN:43129884:start -->
 * [43129884](https://news.social-protocols.org/stats?id=43129884) #21 3 points 0 comments -> [Grab AI Gateway: Connecting Grabbers to Multiple GenAI Providers](https://engineering.grab.com/grab-ai-gateway)<!-- HN:43129884:end --><!-- HN:43168059:start -->
-* [43168059](https://news.social-protocols.org/stats?id=43168059) #21 30 points 40 comments -> [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)<!-- HN:43168059:end -->
+* [43168059](https://news.social-protocols.org/stats?id=43168059) #21 30 points 40 comments -> [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)<!-- HN:43168059:end --><!-- HN:43168739:start -->
+* [43168739](https://news.social-protocols.org/stats?id=43168739) #22 6 points 0 comments -> [Grok Grok](https://thezvi.substack.com/p/grok-grok)<!-- HN:43168739:end -->
