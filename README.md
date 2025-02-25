@@ -43,28 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, February 18, 2025**
-<!-- HN:43084215:start -->
-* [43084215](https://news.social-protocols.org/stats?id=43084215) #22 -> [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)<!-- HN:43084215:end --><!-- HN:43085712:start -->
-* [43085712](https://news.social-protocols.org/stats?id=43085712) #29 6 points 1 comments -> [X is reportedly blocking links to secure Signal contact pages](https://arstechnica.com/gadgets/2025/02/x-is-reportedly-blocking-links-to-secure-signal-contact-pages/)<!-- HN:43085712:end --><!-- HN:43084998:start -->
-* [43084998](https://news.social-protocols.org/stats?id=43084998) #16 13 points 1 comments -> [John Carmack discusses SpaceX strategy and Mars](https://twitter.com/ID_AA_Carmack/status/1890178216436043828)<!-- HN:43084998:end --><!-- HN:43079656:start -->
-* [43079656](https://news.social-protocols.org/stats?id=43079656) #10 -> [Why Upstart from Ubuntu Failed](https://machaddr.substack.com/p/why-upstart-from-ubuntu-failed)<!-- HN:43079656:end --><!-- HN:43047590:start -->
-* [43047590](https://news.social-protocols.org/stats?id=43047590) #13 7 points 1 comments -> [Indian native rediscovers Department of Defense 1963 Algorithm](https://math.stackexchange.com/questions/4744025/factoring-an-integer-using-its-zeckendorf-representation)<!-- HN:43047590:end --><!-- HN:43086952:start -->
-* [43086952](https://news.social-protocols.org/stats?id=43086952) #11 3 points 2 comments -> [Maharishi Effect: 1% of population practicing TM produces results for all](https://research.miu.edu/maharishi-effect/)<!-- HN:43086952:end --><!-- HN:43088163:start -->
-* [43088163](https://news.social-protocols.org/stats?id=43088163) #25 8 points 42 comments -> [Huawei launches $3,660 trifold phone](https://www.cnbc.com/2025/02/18/huawei-mate-xt-trifold-launches-outside-of-china-price-specs-.html)<!-- HN:43088163:end --><!-- HN:43089068:start -->
-* [43089068](https://news.social-protocols.org/stats?id=43089068) #27 6 points 0 comments -> [Policing the internet in Germany, where hate speech, insults are a crime [video]](https://www.youtube.com/watch?v=-bMzFDpfDwc)<!-- HN:43089068:end --><!-- HN:43083687:start -->
-* [43083687](https://news.social-protocols.org/stats?id=43083687) #17 131 points 31 comments -> [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)<!-- HN:43083687:end --><!-- HN:43088993:start -->
-* [43088993](https://news.social-protocols.org/stats?id=43088993) #27 58 points 31 comments -> [Tesla was hit by a wave of protests, sales are crashing, insiders are waking up](https://electrek.co/2025/02/17/tesla-was-hit-by-a-wave-of-protests-over-musk-sales-are-crashing-insiders-are-waking-up/)<!-- HN:43088993:end --><!-- HN:43083772:start -->
-* [43083772](https://news.social-protocols.org/stats?id=43083772) #21 291 points 72 comments -> [List of DRM-Free Bookshops](https://libreture.com/bookshops/)<!-- HN:43083772:end --><!-- HN:43081378:start -->
-* [43081378](https://news.social-protocols.org/stats?id=43081378) #28 149 points 12 comments -> [Small Tech](https://www.scattered-thoughts.net/writing/small-tech/)<!-- HN:43081378:end --><!-- HN:43091340:start -->
-* [43091340](https://news.social-protocols.org/stats?id=43091340) #9 5 points 0 comments -> [Grok-3, the Nvidia Shortcut, Competitive Implications](https://stratechery.com/2025/grok-3-the-nvidia-shortcut-competitive-implications/)<!-- HN:43091340:end --><!-- HN:43090851:start -->
-* [43090851](https://news.social-protocols.org/stats?id=43090851) #6 12 points 0 comments -> [The Empire Self-Destructs](https://chrishedges.substack.com/p/the-empire-self-destructs)<!-- HN:43090851:end --><!-- HN:43092378:start -->
-* [43092378](https://news.social-protocols.org/stats?id=43092378) #2 42 points 9 comments -> [X Prevents Research on Potential Election Interference](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x)<!-- HN:43092378:end --><!-- HN:43092421:start -->
-* [43092421](https://news.social-protocols.org/stats?id=43092421) #14 10 points 12 comments -> [A simple geometry question that fools almost everyone](https://www.theguardian.com/science/2025/feb/17/can-you-solve-it-the-simple-geometry-question-that-fools-almost-everyone)<!-- HN:43092421:end --><!-- HN:43093429:start -->
-* [43093429](https://news.social-protocols.org/stats?id=43093429) #11 16 points 1 comments -> [Thinking Machines Lab](https://thinkingmachines.ai/)<!-- HN:43093429:end --><!-- HN:43067123:start -->
-* [43067123](https://news.social-protocols.org/stats?id=43067123) #16 5 points 0 comments -> [Yes you built that but at what cost?](https://www.abhinavomprakash.com/posts/tradeoffs/)<!-- HN:43067123:end --><!-- HN:43093044:start -->
-* [43093044](https://news.social-protocols.org/stats?id=43093044) #19 37 points 2 comments -> [OpenAI Announces New SWE-Lancer Benchmark](https://openai.com/index/swe-lancer/)<!-- HN:43093044:end --><!-- HN:43096446:start -->
-* [43096446](https://news.social-protocols.org/stats?id=43096446) #12 -> [Doge Savings](https://doge.gov/savings)<!-- HN:43096446:end -->
 #### **Wednesday, February 19, 2025**
 <!-- HN:43098019:start -->
 * [43098019](https://news.social-protocols.org/stats?id=43098019) #5 7 points 2 comments -> [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)<!-- HN:43098019:end --><!-- HN:43098806:start -->
