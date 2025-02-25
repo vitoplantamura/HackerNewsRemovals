@@ -167,3 +167,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43163520](https://news.social-protocols.org/stats?id=43163520) #17 50 points 53 comments -> [Starship's Eighth Flight Test](https://www.spacex.com/launches/mission/?missionId)<!-- HN:43163520:end --><!-- HN:43127045:start -->
 * [43127045](https://news.social-protocols.org/stats?id=43127045) #28 28 points 15 comments -> [The Champion Who Memorized 80 Numbers in 13.5 Seconds](https://www.nytimes.com/2025/02/14/science/vishvaa-rajakumar-memory-techniques.html)<!-- HN:43127045:end --><!-- HN:43123810:start -->
 * [43123810](https://news.social-protocols.org/stats?id=43123810) #25 65 points 1 comments -> ["The closer [to] the railway station the less tasty the Kebab is" – A Study](https://old.reddit.com/r/gis/comments/1iph0yy/the_closer_to_the_railway_station_the_less_tasty/)<!-- HN:43123810:end -->
+#### **Tuesday, February 25, 2025**
+<!-- HN:43129884:start -->
+* [43129884](https://news.social-protocols.org/stats?id=43129884) #21 3 points 0 comments -> [Grab AI Gateway: Connecting Grabbers to Multiple GenAI Providers](https://engineering.grab.com/grab-ai-gateway)<!-- HN:43129884:end -->
