@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, February 27, 2025**
 <!-- HN:43190048:start -->
 * [43190048](https://news.social-protocols.org/stats?id=43190048) #4 16 points 1 comments -> [Europe Is a Cautionary Tale on Birthright Citizenship](https://asanfranciscan.substack.com/p/europe-is-a-cautionary-tale-on-birthright)<!-- HN:43190048:end --><!-- HN:43190262:start -->
-* [43190262](https://news.social-protocols.org/stats?id=43190262) #20 12 points 1 comments -> [Save Act would require all Americans prove citizenship when registering to vote](https://www.americanprogress.org/article/the-save-act-would-disenfranchise-millions-of-citizens/)<!-- HN:43190262:end -->
+* [43190262](https://news.social-protocols.org/stats?id=43190262) #20 12 points 1 comments -> [Save Act would require all Americans prove citizenship when registering to vote](https://www.americanprogress.org/article/the-save-act-would-disenfranchise-millions-of-citizens/)<!-- HN:43190262:end --><!-- HN:43190482:start -->
+* [43190482](https://news.social-protocols.org/stats?id=43190482) #14 85 points 5 comments -> [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)<!-- HN:43190482:end -->
