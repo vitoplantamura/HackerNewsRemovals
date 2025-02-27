@@ -150,5 +150,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43187543](https://news.social-protocols.org/stats?id=43187543) #22 13 points 0 comments -> [Techno-Fascism Comes to America](https://www.newyorker.com/culture/infinite-scroll/techno-fascism-comes-to-america-elon-musk)<!-- HN:43187543:end -->
 #### **Thursday, February 27, 2025**
 <!-- HN:43190048:start -->
-* [43190048](https://news.social-protocols.org/stats?id=43190048) #4 16 points 1 comments -> [Europe Is a Cautionary Tale on Birthright Citizenship](https://asanfranciscan.substack.com/p/europe-is-a-cautionary-tale-on-birthright)<!-- HN:43190048:end --><!-- HN:43151544:start -->
-* [43151544](https://news.social-protocols.org/stats?id=43151544) #20 7 points 1 comments -> [The JIT Calculator Challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge/)<!-- HN:43151544:end -->
+* [43190048](https://news.social-protocols.org/stats?id=43190048) #4 16 points 1 comments -> [Europe Is a Cautionary Tale on Birthright Citizenship](https://asanfranciscan.substack.com/p/europe-is-a-cautionary-tale-on-birthright)<!-- HN:43190048:end -->
