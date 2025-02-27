@@ -148,3 +148,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43185174](https://news.social-protocols.org/stats?id=43185174) #1 81 points 3 comments -> [A WebAssembly runtime implemented in TypeScript types](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime)<!-- HN:43185174:end --><!-- HN:43187326:start -->
 * [43187326](https://news.social-protocols.org/stats?id=43187326) #12 3 points 0 comments -> [An Identity-Based Model of Political Belief: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(18)30017-2)<!-- HN:43187326:end --><!-- HN:43187543:start -->
 * [43187543](https://news.social-protocols.org/stats?id=43187543) #22 13 points 0 comments -> [Techno-Fascism Comes to America](https://www.newyorker.com/culture/infinite-scroll/techno-fascism-comes-to-america-elon-musk)<!-- HN:43187543:end -->
+#### **Thursday, February 27, 2025**
+<!-- HN:43190048:start -->
+* [43190048](https://news.social-protocols.org/stats?id=43190048) #4 16 points 1 comments -> [Europe Is a Cautionary Tale on Birthright Citizenship](https://asanfranciscan.substack.com/p/europe-is-a-cautionary-tale-on-birthright)<!-- HN:43190048:end -->
