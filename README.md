@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, February 27, 2025**
 <!-- HN:43190048:start -->
 * [43190048](https://news.social-protocols.org/stats?id=43190048) #4 16 points 1 comments -> [Europe Is a Cautionary Tale on Birthright Citizenship](https://asanfranciscan.substack.com/p/europe-is-a-cautionary-tale-on-birthright)<!-- HN:43190048:end --><!-- HN:43190262:start -->
-* [43190262](https://news.social-protocols.org/stats?id=43190262) #20 12 points 1 comments -> [Save Act would require all Americans prove citizenship when registering to vote](https://www.americanprogress.org/article/the-save-act-would-disenfranchise-millions-of-citizens/)<!-- HN:43190262:end -->
+* [43190262](https://news.social-protocols.org/stats?id=43190262) #20 12 points 1 comments -> [Save Act would require all Americans prove citizenship when registering to vote](https://www.americanprogress.org/article/the-save-act-would-disenfranchise-millions-of-citizens/)<!-- HN:43190262:end --><!-- HN:43192547:start -->
+* [43192547](https://news.social-protocols.org/stats?id=43192547) #16 19 points 41 comments -> [Japan births fall to lowest in 125 years](https://www.ft.com/content/95d3282e-daef-4670-b704-c1215393e7f8)<!-- HN:43192547:end -->
