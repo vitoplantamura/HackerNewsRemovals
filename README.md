@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43198759](https://news.social-protocols.org/stats?id=43198759) #14 9 points 5 comments -> [Think tank seeks to give "Trump his rightful third term in office"](https://thirdtermproject.com/)<!-- HN:43198759:end -->
 #### **Friday, February 28, 2025**
 <!-- HN:43200179:start -->
-* [43200179](https://news.social-protocols.org/stats?id=43200179) #14 5 points 0 comments -> [Tesla Powerwall 3 Alternatives](https://www.virtuesolar.com/2025/02/17/tesla-powerwall-3-alternatives/)<!-- HN:43200179:end -->
+* [43200179](https://news.social-protocols.org/stats?id=43200179) #14 5 points 0 comments -> [Tesla Powerwall 3 Alternatives](https://www.virtuesolar.com/2025/02/17/tesla-powerwall-3-alternatives/)<!-- HN:43200179:end --><!-- HN:43199460:start -->
+* [43199460](https://news.social-protocols.org/stats?id=43199460) #4 250 points 3 comments -> [Some Command & Conquer games are now open source](https://github.com/electronicarts)<!-- HN:43199460:end -->
