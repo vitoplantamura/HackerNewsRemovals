@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, February 21, 2025**
-<!-- HN:43122341:start -->
-* [43122341](https://news.social-protocols.org/stats?id=43122341) #3 17 points 5 comments -> [Blackmailing Grok](https://blog.hermesloom.org/p/blackmailing-grok)<!-- HN:43122341:end --><!-- HN:43123283:start -->
-* [43123283](https://news.social-protocols.org/stats?id=43123283) #13 42 points 22 comments -> [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)<!-- HN:43123283:end --><!-- HN:43077931:start -->
-* [43077931](https://news.social-protocols.org/stats?id=43077931) #19 8 points 0 comments -> [Blockchain that runs Python smart contracts native. No Solidity, no VM overhead](https://xian.org/)<!-- HN:43077931:end --><!-- HN:43127334:start -->
-* [43127334](https://news.social-protocols.org/stats?id=43127334) #19 11 points 0 comments -> [Conflicts of interest in climate change science](https://jessicaweinkle.substack.com/p/conflicts-of-interest-in-climate)<!-- HN:43127334:end --><!-- HN:43128650:start -->
-* [43128650](https://news.social-protocols.org/stats?id=43128650) #16 10 points 1 comments -> [Railings Made from WWII Stretchers](https://en.wikipedia.org/wiki/Stretcher_railing)<!-- HN:43128650:end --><!-- HN:43129521:start -->
-* [43129521](https://news.social-protocols.org/stats?id=43129521) #23 4 points 0 comments -> [Apple removing iCloud end-to-encryption after UK government compelled backdoors](https://9to5mac.com/2025/02/21/apple-removing-end-to-encryption-uk/)<!-- HN:43129521:end --><!-- HN:43129295:start -->
-* [43129295](https://news.social-protocols.org/stats?id=43129295) #15 27 points 5 comments -> [Anger, despair, and defiance from a voice within the US federal research system](https://www.bmj.com/content/388/bmj.r294)<!-- HN:43129295:end --><!-- HN:43128870:start -->
-* [43128870](https://news.social-protocols.org/stats?id=43128870) #4 194 points 3 comments -> [Apple Pulls Encrypted iCloud Security Feature in UK](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/)<!-- HN:43128870:end --><!-- HN:43130416:start -->
-* [43130416](https://news.social-protocols.org/stats?id=43130416) #27 7 points 1 comments -> [Claims of college grade inflation and dumbing-down are overblown](https://greyenlightenment.com/2025/02/20/college-and-grade-inflation/)<!-- HN:43130416:end --><!-- HN:43129662:start -->
-* [43129662](https://news.social-protocols.org/stats?id=43129662) #12 13 points 5 comments -> [CSS-zero: opinionated CSS starter kit for your "nobuild" application](https://github.com/lazaronixon/css-zero)<!-- HN:43129662:end --><!-- HN:43087561:start -->
-* [43087561](https://news.social-protocols.org/stats?id=43087561) #26 5 points 1 comments -> [A Lightweight MDX CMS for Static Sites (No Git, No Complex Setup)](https://swapcone.com)<!-- HN:43087561:end --><!-- HN:43132656:start -->
-* [43132656](https://news.social-protocols.org/stats?id=43132656) #22 4 points 2 comments -> [ERPs suck. Generative AI will fix them](https://getlumina.substack.com/p/erps-suck-generative-ai-will-fix)<!-- HN:43132656:end -->
 #### **Saturday, February 22, 2025**
 <!-- HN:43134544:start -->
 * [43134544](https://news.social-protocols.org/stats?id=43134544) #24 4 points 0 comments -> [Why Parliamentary Systems Are Better for the Economy Than the Presidential Ones](https://www.internationalaffairs.org.au/australianoutlook/why-parliamentary-systems-are-better-for-the-economy-than-the-presidential-ones/)<!-- HN:43134544:end --><!-- HN:43134845:start -->
