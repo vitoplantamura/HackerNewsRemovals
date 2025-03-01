@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43170457](https://news.social-protocols.org/stats?id=43170457) #23 18 points 9 comments -> [The Moped King](https://www.streetsblogprojects.org/fly-electric-bike-moped-new-york-city-streets-safety-lithium-ion-batteries)<!-- HN:43170457:end -->
 #### **Saturday, March 1, 2025**
 <!-- HN:43215769:start -->
-* [43215769](https://news.social-protocols.org/stats?id=43215769) #29 6 points 0 comments -> [DeepSeek-V3/R1 Inference System Overview](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)<!-- HN:43215769:end -->
+* [43215769](https://news.social-protocols.org/stats?id=43215769) #29 6 points 0 comments -> [DeepSeek-V3/R1 Inference System Overview](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)<!-- HN:43215769:end --><!-- HN:43217280:start -->
+* [43217280](https://news.social-protocols.org/stats?id=43217280) #12 11 points 0 comments -> [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)<!-- HN:43217280:end -->
