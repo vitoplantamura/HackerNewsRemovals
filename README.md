@@ -147,4 +147,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 1, 2025**
 <!-- HN:43215769:start -->
 * [43215769](https://news.social-protocols.org/stats?id=43215769) #29 6 points 0 comments -> [DeepSeek-V3/R1 Inference System Overview](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)<!-- HN:43215769:end --><!-- HN:43217280:start -->
-* [43217280](https://news.social-protocols.org/stats?id=43217280) #12 11 points 0 comments -> [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)<!-- HN:43217280:end -->
+* [43217280](https://news.social-protocols.org/stats?id=43217280) #12 11 points 0 comments -> [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)<!-- HN:43217280:end --><!-- HN:43214294:start -->
+* [43214294](https://news.social-protocols.org/stats?id=43214294) #3 305 points 68 comments -> [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)<!-- HN:43214294:end --><!-- HN:43219743:start -->
+* [43219743](https://news.social-protocols.org/stats?id=43219743) #11 7 points 0 comments -> [HIV/AIDS deaths likely to soar after USAID promises broken](https://www.science.org/content/article/bloodbath-hiv-field-reeling-after-billions-u-s-funding-axed)<!-- HN:43219743:end -->
