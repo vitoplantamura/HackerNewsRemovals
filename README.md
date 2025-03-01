@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43210569](https://news.social-protocols.org/stats?id=43210569) #1 51 points 7 comments -> ["No, we are absolutely not prepared to [fork Firefox]"](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)<!-- HN:43210569:end --><!-- HN:43211925:start -->
 * [43211925](https://news.social-protocols.org/stats?id=43211925) #9 -> [Google's Sergey Brin: Engineers Should Work 60-Hour Weeks in Office to Build AI](https://gizmodo.com/googles-sergey-brin-says-engineers-should-work-60-hour-weeks-in-office-to-build-ai-that-could-replace-them-2000570025)<!-- HN:43211925:end --><!-- HN:43170457:start -->
 * [43170457](https://news.social-protocols.org/stats?id=43170457) #23 18 points 9 comments -> [The Moped King](https://www.streetsblogprojects.org/fly-electric-bike-moped-new-york-city-streets-safety-lithium-ion-batteries)<!-- HN:43170457:end -->
+#### **Saturday, March 1, 2025**
+<!-- HN:43215769:start -->
+* [43215769](https://news.social-protocols.org/stats?id=43215769) #29 6 points 0 comments -> [DeepSeek-V3/R1 Inference System Overview](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)<!-- HN:43215769:end -->
