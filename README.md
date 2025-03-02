@@ -136,5 +136,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43223209](https://news.social-protocols.org/stats?id=43223209) #17 5 points 0 comments -> [RFK Jr. issues rule barring public comment on HHS rulemaking](https://thehill.com/policy/healthcare/5170090-rfk-jr-hhs-public-comment-rulemaking-ends/)<!-- HN:43223209:end --><!-- HN:43223684:start -->
 * [43223684](https://news.social-protocols.org/stats?id=43223684) #11 49 points 18 comments -> [China advises citizens specializing in AI to avoid traveling to America](https://www.saba.ye/en/news3445018.htm)<!-- HN:43223684:end -->
 #### **Sunday, March 2, 2025**
-<!-- HN:43227025:start -->
-* [43227025](https://news.social-protocols.org/stats?id=43227025) #18 -> ['Craven. He's Fearful of Trump': Baron Slams Bezos' Censorship of Post Opinion](https://zeteo.com/p/jeff-bezos-washington-post-opinion-marty-baron-reaction-trump)<!-- HN:43227025:end -->
