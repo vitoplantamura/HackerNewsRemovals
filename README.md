@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43222653](https://news.social-protocols.org/stats?id=43222653) #24 6 points 0 comments -> [Is Donald Trump the Antichrist? A Bayesian Analysis](https://gist.github.com/ndbroadbent/cfaad426ef641e981cdea3642a3e45b1)<!-- HN:43222653:end --><!-- HN:43223209:start -->
 * [43223209](https://news.social-protocols.org/stats?id=43223209) #17 5 points 0 comments -> [RFK Jr. issues rule barring public comment on HHS rulemaking](https://thehill.com/policy/healthcare/5170090-rfk-jr-hhs-public-comment-rulemaking-ends/)<!-- HN:43223209:end --><!-- HN:43223684:start -->
 * [43223684](https://news.social-protocols.org/stats?id=43223684) #11 49 points 18 comments -> [China advises citizens specializing in AI to avoid traveling to America](https://www.saba.ye/en/news3445018.htm)<!-- HN:43223684:end -->
-#### **Sunday, March 2, 2025**
+#### **Sunday, March 2, 2025**<!-- HN:43205642:start -->
+* [43205642](https://news.social-protocols.org/stats?id=43205642) #15 10 points 0 comments -> [New footage shows sneaky killer is decapitating baby seals on California beaches](https://www.sfgate.com/local/article/coyotes-decapitating-seals-northern-california-20183166.php)<!-- HN:43205642:end -->
