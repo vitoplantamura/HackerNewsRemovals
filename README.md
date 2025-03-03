@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 3, 2025**
 <!-- HN:43235933:start -->
 * [43235933](https://news.social-protocols.org/stats?id=43235933) #1 78 points 9 comments -> [Firefly Aerospace Becomes First Commercial Company to Successfully Land on Moon](https://fireflyspace.com/news/firefly-aerospace-becomes-first-commercial-company-to-successfully-land-on-the-moon/)<!-- HN:43235933:end --><!-- HN:43239249:start -->
-* [43239249](https://news.social-protocols.org/stats?id=43239249) #17 307 points 394 comments -> [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)<!-- HN:43239249:end -->
+* [43239249](https://news.social-protocols.org/stats?id=43239249) #17 307 points 394 comments -> [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)<!-- HN:43239249:end --><!-- HN:43205209:start -->
+* [43205209](https://news.social-protocols.org/stats?id=43205209) #23 18 points 2 comments -> [Show HN: Free Kindle Scribe Weekly Planner Creator](https://tools.docgenie.co.uk/)<!-- HN:43205209:end -->
