@@ -145,3 +145,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43234281](https://news.social-protocols.org/stats?id=43234281) #30 18 points 4 comments -> [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)<!-- HN:43234281:end --><!-- HN:43235524:start -->
 * [43235524](https://news.social-protocols.org/stats?id=43235524) #29 -> [Donald Trump supporters lose $12B after his meme coin collapses](https://www.uniladtech.com/news/tech-news/donald-trump-supporters-lose-12-billion-after-meme-coin-collapse-393345-20250228)<!-- HN:43235524:end --><!-- HN:43236182:start -->
 * [43236182](https://news.social-protocols.org/stats?id=43236182) #15 11 points 1 comments -> [Stand Up for Science](https://standupforscience2025.org/)<!-- HN:43236182:end -->
+#### **Monday, March 3, 2025**
+<!-- HN:43235933:start -->
+* [43235933](https://news.social-protocols.org/stats?id=43235933) #1 78 points 9 comments -> [Firefly Aerospace Becomes First Commercial Company to Successfully Land on Moon](https://fireflyspace.com/news/firefly-aerospace-becomes-first-commercial-company-to-successfully-land-on-the-moon/)<!-- HN:43235933:end -->
