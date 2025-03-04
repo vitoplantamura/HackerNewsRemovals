@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43248796:start -->
 * [43248796](https://news.social-protocols.org/stats?id=43248796) #29 4 points 0 comments -> [Show HN: Interview Coder is an invisible AI to solve any coding problem](https://www.interviewcoder.co)<!-- HN:43248796:end --><!-- HN:43210114:start -->
 * [43210114](https://news.social-protocols.org/stats?id=43210114) #8 14 points 5 comments -> [I created an MVP for an AI SVG maker in a week! Check it out!](https://easysvg.ai)<!-- HN:43210114:end --><!-- HN:43252479:start -->
-* [43252479](https://news.social-protocols.org/stats?id=43252479) #21 12 points 4 comments -> [Grok Is Having an Outage](https://status.x.ai/)<!-- HN:43252479:end -->
+* [43252479](https://news.social-protocols.org/stats?id=43252479) #21 12 points 4 comments -> [Grok Is Having an Outage](https://status.x.ai/)<!-- HN:43252479:end --><!-- HN:43249068:start -->
+* [43249068](https://news.social-protocols.org/stats?id=43249068) #3 220 points 265 comments -> [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)<!-- HN:43249068:end -->
