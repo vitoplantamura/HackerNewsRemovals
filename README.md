@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, February 25, 2025**
-<!-- HN:43129884:start -->
-* [43129884](https://news.social-protocols.org/stats?id=43129884) #21 3 points 0 comments -> [Grab AI Gateway: Connecting Grabbers to Multiple GenAI Providers](https://engineering.grab.com/grab-ai-gateway)<!-- HN:43129884:end --><!-- HN:43168059:start -->
-* [43168059](https://news.social-protocols.org/stats?id=43168059) #21 30 points 40 comments -> [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)<!-- HN:43168059:end --><!-- HN:43168739:start -->
-* [43168739](https://news.social-protocols.org/stats?id=43168739) #22 6 points 0 comments -> [Grok Grok](https://thezvi.substack.com/p/grok-grok)<!-- HN:43168739:end --><!-- HN:43170093:start -->
-* [43170093](https://news.social-protocols.org/stats?id=43170093) #10 10 points 3 comments -> [Does Linus think Rust causes Linux breakage?](https://lwn.net/ml/all/CAHk-=wie_Winz7CtRCM62S2b1pWKN2Jt2wdGHgFBv=aBU8qwqg@mail.gmail.com/)<!-- HN:43170093:end --><!-- HN:43170718:start -->
-* [43170718](https://news.social-protocols.org/stats?id=43170718) #6 35 points 3 comments -> [Tesla sales almost halved in Europe last month](https://www.businessinsider.com/tesla-sales-europe-tumbled-elon-musk-china-evs-2025-2)<!-- HN:43170718:end --><!-- HN:43135968:start -->
-* [43135968](https://news.social-protocols.org/stats?id=43135968) #17 5 points 2 comments -> [Severance show – Fan-based game](https://www.solana-industries.com/)<!-- HN:43135968:end --><!-- HN:43128392:start -->
-* [43128392](https://news.social-protocols.org/stats?id=43128392) #24 164 points 118 comments -> [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)<!-- HN:43128392:end --><!-- HN:43167936:start -->
-* [43167936](https://news.social-protocols.org/stats?id=43167936) #23 257 points 93 comments -> [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)<!-- HN:43167936:end --><!-- HN:43172180:start -->
-* [43172180](https://news.social-protocols.org/stats?id=43172180) #23 8 points 0 comments -> [YC deleted the post of the demo for slavery](https://twitter.com/ns123abc/status/1894193460166397991)<!-- HN:43172180:end --><!-- HN:43172037:start -->
-* [43172037](https://news.social-protocols.org/stats?id=43172037) #20 27 points 4 comments -> [Apple Voice Dictation Writes 'Trump' When You Say 'Racist'](https://boehs.org/node/racist-autocorrect)<!-- HN:43172037:end --><!-- HN:43172676:start -->
-* [43172676](https://news.social-protocols.org/stats?id=43172676) #23 3 points 1 comments -> [PocketBeagle 2 SBC Combines TI AM6232 Dual-Core Cortex-A53 SoC with MSPM0 MCU](https://www.cnx-software.com/2025/02/18/pocketbeagle-2-sbc-combines-ti-am6232-soc-with-mspm0-mcu/)<!-- HN:43172676:end --><!-- HN:43173341:start -->
-* [43173341](https://news.social-protocols.org/stats?id=43173341) #13 29 points 42 comments -> [Fabric and craft retailer Joann to go out of business, close all of its stores](https://apnews.com/article/joann-closing-bankruptcy-crafts-retail-b83c68fb641fad18cd6c8be925c6d90b)<!-- HN:43173341:end --><!-- HN:43174908:start -->
-* [43174908](https://news.social-protocols.org/stats?id=43174908) #10 4 points 0 comments -> [The Harem of an Autist](https://fantasticanachronism.com/2025/02/25/the-harem-of-an-autist/)<!-- HN:43174908:end --><!-- HN:43149899:start -->
-* [43149899](https://news.social-protocols.org/stats?id=43149899) #26 20 points 6 comments -> [Show HN: Dropbud – A place to upload files without uploading](https://dropbud.co/space)<!-- HN:43149899:end -->
 #### **Wednesday, February 26, 2025**
 <!-- HN:43156753:start -->
 * [43156753](https://news.social-protocols.org/stats?id=43156753) #15 13 points 2 comments -> [Hive Roaster Handheld Smoke Incinerating Coffee Roaster](https://hiveroaster.com/)<!-- HN:43156753:end --><!-- HN:43180561:start -->
