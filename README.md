@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43244106](https://news.social-protocols.org/stats?id=43244106) #15 16 points 3 comments -> [The Oldest "Map of America" Is Mysteriously Accurate](https://www.thetravel.com/oldest-american-map-accuracy-surprises-experts/)<!-- HN:43244106:end -->
 #### **Tuesday, March 4, 2025**
 <!-- HN:43248796:start -->
-* [43248796](https://news.social-protocols.org/stats?id=43248796) #29 4 points 0 comments -> [Show HN: Interview Coder is an invisible AI to solve any coding problem](https://www.interviewcoder.co)<!-- HN:43248796:end -->
+* [43248796](https://news.social-protocols.org/stats?id=43248796) #29 4 points 0 comments -> [Show HN: Interview Coder is an invisible AI to solve any coding problem](https://www.interviewcoder.co)<!-- HN:43248796:end --><!-- HN:43210114:start -->
+* [43210114](https://news.social-protocols.org/stats?id=43210114) #8 14 points 5 comments -> [I created an MVP for an AI SVG maker in a week! Check it out!](https://easysvg.ai)<!-- HN:43210114:end -->
