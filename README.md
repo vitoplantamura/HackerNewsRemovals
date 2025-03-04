@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 4, 2025**
 <!-- HN:43248796:start -->
 * [43248796](https://news.social-protocols.org/stats?id=43248796) #29 4 points 0 comments -> [Show HN: Interview Coder is an invisible AI to solve any coding problem](https://www.interviewcoder.co)<!-- HN:43248796:end --><!-- HN:43210114:start -->
-* [43210114](https://news.social-protocols.org/stats?id=43210114) #8 14 points 5 comments -> [I created an MVP for an AI SVG maker in a week! Check it out!](https://easysvg.ai)<!-- HN:43210114:end -->
+* [43210114](https://news.social-protocols.org/stats?id=43210114) #8 14 points 5 comments -> [I created an MVP for an AI SVG maker in a week! Check it out!](https://easysvg.ai)<!-- HN:43210114:end --><!-- HN:43250217:start -->
+* [43250217](https://news.social-protocols.org/stats?id=43250217) #12 24 points 40 comments -> [The Kill-or-Be-Killed Fight for Crypto's Future](https://www.wsj.com/finance/currencies/who-is-giancarlo-devasini-tether-jeremy-allaire-circle-90a408b9)<!-- HN:43250217:end -->
