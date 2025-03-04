@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43240354](https://news.social-protocols.org/stats?id=43240354) #15 38 points 30 comments -> [Difficult Employees (and How to Handle Them)](https://newsletter.canopy.is/p/the-5-most-difficult-employees-and)<!-- HN:43240354:end --><!-- HN:43244658:start -->
 * [43244658](https://news.social-protocols.org/stats?id=43244658) #29 7 points 0 comments -> [Resurrecting a Windows Laptop](https://www.both.org/?p=9751)<!-- HN:43244658:end --><!-- HN:43244106:start -->
 * [43244106](https://news.social-protocols.org/stats?id=43244106) #15 16 points 3 comments -> [The Oldest "Map of America" Is Mysteriously Accurate](https://www.thetravel.com/oldest-american-map-accuracy-surprises-experts/)<!-- HN:43244106:end -->
+#### **Tuesday, March 4, 2025**
+<!-- HN:43248796:start -->
+* [43248796](https://news.social-protocols.org/stats?id=43248796) #29 4 points 0 comments -> [Show HN: Interview Coder is an invisible AI to solve any coding problem](https://www.interviewcoder.co)<!-- HN:43248796:end -->
