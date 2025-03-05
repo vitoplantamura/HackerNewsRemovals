@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43248947](https://news.social-protocols.org/stats?id=43248947) #29 191 points 21 comments -> [DeepSeek's smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)<!-- HN:43248947:end -->
 #### **Wednesday, March 5, 2025**
 <!-- HN:43261629:start -->
-* [43261629](https://news.social-protocols.org/stats?id=43261629) #20 9 points 0 comments -> [Groceries in the U.S. remain expensive; more states want to stop taxing them](https://apnews.com/article/grocery-tax-arkansas-mississippi-tennessee-alabama-547de604a971480d5d15cce4519c04e4)<!-- HN:43261629:end -->
+* [43261629](https://news.social-protocols.org/stats?id=43261629) #20 9 points 0 comments -> [Groceries in the U.S. remain expensive; more states want to stop taxing them](https://apnews.com/article/grocery-tax-arkansas-mississippi-tennessee-alabama-547de604a971480d5d15cce4519c04e4)<!-- HN:43261629:end --><!-- HN:43261899:start -->
+* [43261899](https://news.social-protocols.org/stats?id=43261899) #1 127 points 28 comments -> [Trump's 'Crypto Reserve' Is Such Brazen Corruption](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen)<!-- HN:43261899:end -->
