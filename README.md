@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43259742](https://news.social-protocols.org/stats?id=43259742) #7 22 points 3 comments -> [AI: Where in the Loop Should Humans Go?](https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go)<!-- HN:43259742:end --><!-- HN:43213819:start -->
 * [43213819](https://news.social-protocols.org/stats?id=43213819) #14 31 points 40 comments -> [Micro keypad to do your regular Git push/pull/add/commit actions](https://www.gitsyncpad.xyz/)<!-- HN:43213819:end --><!-- HN:43248947:start -->
 * [43248947](https://news.social-protocols.org/stats?id=43248947) #29 191 points 21 comments -> [DeepSeek's smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)<!-- HN:43248947:end -->
+#### **Wednesday, March 5, 2025**
+<!-- HN:43261629:start -->
+* [43261629](https://news.social-protocols.org/stats?id=43261629) #20 9 points 0 comments -> [Groceries in the U.S. remain expensive; more states want to stop taxing them](https://apnews.com/article/grocery-tax-arkansas-mississippi-tennessee-alabama-547de604a971480d5d15cce4519c04e4)<!-- HN:43261629:end -->
