@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, March 5, 2025**
 <!-- HN:43261629:start -->
 * [43261629](https://news.social-protocols.org/stats?id=43261629) #20 9 points 0 comments -> [Groceries in the U.S. remain expensive; more states want to stop taxing them](https://apnews.com/article/grocery-tax-arkansas-mississippi-tennessee-alabama-547de604a971480d5d15cce4519c04e4)<!-- HN:43261629:end --><!-- HN:43261899:start -->
-* [43261899](https://news.social-protocols.org/stats?id=43261899) #1 127 points 28 comments -> [Trump's 'Crypto Reserve' Is Such Brazen Corruption](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen)<!-- HN:43261899:end -->
+* [43261899](https://news.social-protocols.org/stats?id=43261899) #1 127 points 28 comments -> [Trump's 'Crypto Reserve' Is Such Brazen Corruption](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen)<!-- HN:43261899:end --><!-- HN:43232188:start -->
+* [43232188](https://news.social-protocols.org/stats?id=43232188) #15 28 points 4 comments -> [An small microbial ecosystem has formed on the International Space Station](https://arstechnica.com/science/2025/03/the-space-station-is-nearly-as-microbe-free-as-an-isolation-ward/)<!-- HN:43232188:end -->
