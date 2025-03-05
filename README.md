@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, February 26, 2025**
-<!-- HN:43156753:start -->
-* [43156753](https://news.social-protocols.org/stats?id=43156753) #15 13 points 2 comments -> [Hive Roaster Handheld Smoke Incinerating Coffee Roaster](https://hiveroaster.com/)<!-- HN:43156753:end --><!-- HN:43180561:start -->
-* [43180561](https://news.social-protocols.org/stats?id=43180561) #18 12 points 0 comments -> [Oil and Gas Subsidies Are Another Lie Detector Test for the DOGE Bros](https://www.motherjones.com/politics/2025/01/doge-fossil-fuel-subsidies-elon-musk-vivek-ramaswamy/)<!-- HN:43180561:end --><!-- HN:43180834:start -->
-* [43180834](https://news.social-protocols.org/stats?id=43180834) #4 100 points 15 comments -> [Y Combinator Supports AI Startup Dehumanizing Factory Workers](https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/)<!-- HN:43180834:end --><!-- HN:43182578:start -->
-* [43182578](https://news.social-protocols.org/stats?id=43182578) #17 10 points 1 comments -> [Open-source is where dreams go to die](https://www.trevorlasn.com/blog/open-source-is-where-dreams-go-to-die)<!-- HN:43182578:end --><!-- HN:43138818:start -->
-* [43138818](https://news.social-protocols.org/stats?id=43138818) #9 36 points 8 comments -> [Recurse Center's Social Rules](https://www.recurse.com/social-rules)<!-- HN:43138818:end --><!-- HN:43144830:start -->
-* [43144830](https://news.social-protocols.org/stats?id=43144830) #11 35 points 13 comments -> [A compendium of "open-source" licenses](https://github.com/ErikMcClure/bad-licenses)<!-- HN:43144830:end --><!-- HN:43183169:start -->
-* [43183169](https://news.social-protocols.org/stats?id=43183169) #12 44 points 25 comments -> [Marek has graciously offered to maintain the dma-mapping tree](https://lore.kernel.org/lkml/20250224162724.349679-1-hch@lst.de/)<!-- HN:43183169:end --><!-- HN:43137445:start -->
-* [43137445](https://news.social-protocols.org/stats?id=43137445) #14 105 points 21 comments -> [Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]](https://www.youtube.com/watch?v=5ZIIGLiQWNM)<!-- HN:43137445:end --><!-- HN:43183688:start -->
-* [43183688](https://news.social-protocols.org/stats?id=43183688) #17 28 points 12 comments -> [Apple's Dictation System Transcribes the Word 'Racist' as 'Trump'](https://www.nytimes.com/2025/02/25/technology/iphone-dictation-trump-racist.html)<!-- HN:43183688:end --><!-- HN:43183568:start -->
-* [43183568](https://news.social-protocols.org/stats?id=43183568) #20 45 points 43 comments -> ["Do you not like money?"](https://rubenerd.com/do-you-not-like-money/)<!-- HN:43183568:end --><!-- HN:43185174:start -->
-* [43185174](https://news.social-protocols.org/stats?id=43185174) #1 81 points 3 comments -> [A WebAssembly runtime implemented in TypeScript types](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime)<!-- HN:43185174:end --><!-- HN:43187326:start -->
-* [43187326](https://news.social-protocols.org/stats?id=43187326) #12 3 points 0 comments -> [An Identity-Based Model of Political Belief: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(18)30017-2)<!-- HN:43187326:end --><!-- HN:43187543:start -->
-* [43187543](https://news.social-protocols.org/stats?id=43187543) #22 13 points 0 comments -> [Techno-Fascism Comes to America](https://www.newyorker.com/culture/infinite-scroll/techno-fascism-comes-to-america-elon-musk)<!-- HN:43187543:end -->
 #### **Thursday, February 27, 2025**
 <!-- HN:43190048:start -->
 * [43190048](https://news.social-protocols.org/stats?id=43190048) #4 16 points 1 comments -> [Europe Is a Cautionary Tale on Birthright Citizenship](https://asanfranciscan.substack.com/p/europe-is-a-cautionary-tale-on-birthright)<!-- HN:43190048:end --><!-- HN:43190262:start -->
