@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43235671](https://news.social-protocols.org/stats?id=43235671) #19 3 points 0 comments -> [Understand the Joule Thief Circuit](https://electronics.stackexchange.com/questions/358135/understand-the-joule-thief-circuit)<!-- HN:43235671:end --><!-- HN:43268333:start -->
 * [43268333](https://news.social-protocols.org/stats?id=43268333) #8 8 points 1 comments -> [Tech and Non-Tech Stacks to Run Listen Notes (2025)](https://www.listennotes.fm/p/tech-and-non-tech-stacks-to-run-listen)<!-- HN:43268333:end --><!-- HN:43270090:start -->
 * [43270090](https://news.social-protocols.org/stats?id=43270090) #23 6 points 0 comments -> [Due to new tariffs, many more physical game discs may "simply not get made"](https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/)<!-- HN:43270090:end -->
+#### **Thursday, March 6, 2025**
+<!-- HN:43272607:start -->
+* [43272607](https://news.social-protocols.org/stats?id=43272607) #25 29 points 40 comments -> [Superintelligence Strategy](https://www.nationalsecurity.ai/)<!-- HN:43272607:end -->
