@@ -135,5 +135,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43272607:start -->
 * [43272607](https://news.social-protocols.org/stats?id=43272607) #25 29 points 40 comments -> [Superintelligence Strategy](https://www.nationalsecurity.ai/)<!-- HN:43272607:end --><!-- HN:43275343:start -->
 * [43275343](https://news.social-protocols.org/stats?id=43275343) #17 4 points 1 comments -> [Warrior Jesus and a Letter from Luigi](https://ashelby.substack.com/p/warrior-jesus-and-a-letter-from-luigi)<!-- HN:43275343:end --><!-- HN:43228841:start -->
-* [43228841](https://news.social-protocols.org/stats?id=43228841) #21 8 points 2 comments -> [Encrypt Images Without a Key Using Visual Cryptography](https://github.com/coduri/VisualCrypto)<!-- HN:43228841:end --><!-- HN:43276843:start -->
-* [43276843](https://news.social-protocols.org/stats?id=43276843) #12 149 points 60 comments -> [The Authoritarian Regime Survival Guide](https://verfassungsblog.de/the-authoritarian-regime-survival-guide/)<!-- HN:43276843:end -->
+* [43228841](https://news.social-protocols.org/stats?id=43228841) #21 8 points 2 comments -> [Encrypt Images Without a Key Using Visual Cryptography](https://github.com/coduri/VisualCrypto)<!-- HN:43228841:end -->
