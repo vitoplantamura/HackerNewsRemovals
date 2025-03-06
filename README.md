@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43272607:start -->
 * [43272607](https://news.social-protocols.org/stats?id=43272607) #25 29 points 40 comments -> [Superintelligence Strategy](https://www.nationalsecurity.ai/)<!-- HN:43272607:end --><!-- HN:43275343:start -->
 * [43275343](https://news.social-protocols.org/stats?id=43275343) #17 4 points 1 comments -> [Warrior Jesus and a Letter from Luigi](https://ashelby.substack.com/p/warrior-jesus-and-a-letter-from-luigi)<!-- HN:43275343:end --><!-- HN:43228841:start -->
-* [43228841](https://news.social-protocols.org/stats?id=43228841) #21 8 points 2 comments -> [Encrypt Images Without a Key Using Visual Cryptography](https://github.com/coduri/VisualCrypto)<!-- HN:43228841:end -->
+* [43228841](https://news.social-protocols.org/stats?id=43228841) #21 8 points 2 comments -> [Encrypt Images Without a Key Using Visual Cryptography](https://github.com/coduri/VisualCrypto)<!-- HN:43228841:end --><!-- HN:43277555:start -->
+* [43277555](https://news.social-protocols.org/stats?id=43277555) #15 9 points 2 comments -> [MAGA Wants to End Capitalism as We Know It](https://www.bloomberg.com/opinion/articles/2025-03-06/maga-wants-to-end-capitalism-as-we-know-it)<!-- HN:43277555:end -->
