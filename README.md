@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43270090](https://news.social-protocols.org/stats?id=43270090) #23 6 points 0 comments -> [Due to new tariffs, many more physical game discs may "simply not get made"](https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/)<!-- HN:43270090:end -->
 #### **Thursday, March 6, 2025**
 <!-- HN:43272607:start -->
-* [43272607](https://news.social-protocols.org/stats?id=43272607) #25 29 points 40 comments -> [Superintelligence Strategy](https://www.nationalsecurity.ai/)<!-- HN:43272607:end -->
+* [43272607](https://news.social-protocols.org/stats?id=43272607) #25 29 points 40 comments -> [Superintelligence Strategy](https://www.nationalsecurity.ai/)<!-- HN:43272607:end --><!-- HN:43275343:start -->
+* [43275343](https://news.social-protocols.org/stats?id=43275343) #17 4 points 1 comments -> [Warrior Jesus and a Letter from Luigi](https://ashelby.substack.com/p/warrior-jesus-and-a-letter-from-luigi)<!-- HN:43275343:end -->
