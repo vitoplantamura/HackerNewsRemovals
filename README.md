@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, February 27, 2025**
-<!-- HN:43190048:start -->
-* [43190048](https://news.social-protocols.org/stats?id=43190048) #4 16 points 1 comments -> [Europe Is a Cautionary Tale on Birthright Citizenship](https://asanfranciscan.substack.com/p/europe-is-a-cautionary-tale-on-birthright)<!-- HN:43190048:end --><!-- HN:43190262:start -->
-* [43190262](https://news.social-protocols.org/stats?id=43190262) #20 12 points 1 comments -> [Save Act would require all Americans prove citizenship when registering to vote](https://www.americanprogress.org/article/the-save-act-would-disenfranchise-millions-of-citizens/)<!-- HN:43190262:end --><!-- HN:43192547:start -->
-* [43192547](https://news.social-protocols.org/stats?id=43192547) #16 19 points 41 comments -> [Japan births fall to lowest in 125 years](https://www.ft.com/content/95d3282e-daef-4670-b704-c1215393e7f8)<!-- HN:43192547:end --><!-- HN:43193326:start -->
-* [43193326](https://news.social-protocols.org/stats?id=43193326) #2 18 points 13 comments -> [Germany's Water Consumption Down 17% Following Nuclear Reactor Shutdowns](https://www.vdi-nachrichten.com/technik/umwelt/wasserverbrauch-in-deutschland-sank-deutlich-durch-akw-abschaltung/)<!-- HN:43193326:end --><!-- HN:43193383:start -->
-* [43193383](https://news.social-protocols.org/stats?id=43193383) #6 10 points 0 comments -> [Show HN: No-html.club, a plain text club](http://no-html.club/index.txt)<!-- HN:43193383:end --><!-- HN:43152051:start -->
-* [43152051](https://news.social-protocols.org/stats?id=43152051) #10 22 points 3 comments -> [Transparency in Hardware/Software Interfaces](https://rfd.shared.oxide.computer/rfd/0552)<!-- HN:43152051:end --><!-- HN:43193734:start -->
-* [43193734](https://news.social-protocols.org/stats?id=43193734) #24 3 points 0 comments -> [Kia's EV strategy: Smaller, cheaper cars like the EV3 hatch and EV4 sedan](https://arstechnica.com/cars/2025/02/kias-ev-strategy-smaller-cheaper-cars-like-ev3-hatch-and-ev4-sedan/)<!-- HN:43193734:end --><!-- HN:43159128:start -->
-* [43159128](https://news.social-protocols.org/stats?id=43159128) #9 16 points 1 comments -> [Show HN: Orra – The missing glue layer for production-ready multi-agent apps](https://github.com/orra-dev/orra)<!-- HN:43159128:end --><!-- HN:43170242:start -->
-* [43170242](https://news.social-protocols.org/stats?id=43170242) #9 13 points 2 comments -> [Metasploit – Penetration Testing Framework](https://www.metasploit.com/)<!-- HN:43170242:end --><!-- HN:43193795:start -->
-* [43193795](https://news.social-protocols.org/stats?id=43193795) #23 44 points 26 comments -> [Local social spending and political dissatisfaction of the economically deprived](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1516985/full)<!-- HN:43193795:end --><!-- HN:43194778:start -->
-* [43194778](https://news.social-protocols.org/stats?id=43194778) #15 19 points 6 comments -> [Gene Hackman and pianist wife Betsy Arakawa found dead at home with their dog](https://www.theguardian.com/film/2025/feb/27/gene-hackman-dies-wife-dog-95)<!-- HN:43194778:end --><!-- HN:43195589:start -->
-* [43195589](https://news.social-protocols.org/stats?id=43195589) #24 -> [At 3 A.m., I Turned to AI for Comfort. That Was My First Mistake](https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/)<!-- HN:43195589:end --><!-- HN:43196443:start -->
-* [43196443](https://news.social-protocols.org/stats?id=43196443) #25 6 points 1 comments -> [Bezos censors the Washington Post in the name of freedom](https://www.washingtonpost.com/style/media/2025/02/26/washington-post-bezos-opinions-section/)<!-- HN:43196443:end --><!-- HN:43196585:start -->
-* [43196585](https://news.social-protocols.org/stats?id=43196585) #15 8 points 1 comments -> [From "hot blonde" to "stepsis": porn titles over time](https://github.com/dhealy05/semen_and_semantics)<!-- HN:43196585:end --><!-- HN:43198759:start -->
-* [43198759](https://news.social-protocols.org/stats?id=43198759) #14 9 points 5 comments -> [Think tank seeks to give "Trump his rightful third term in office"](https://thirdtermproject.com/)<!-- HN:43198759:end -->
 #### **Friday, February 28, 2025**
 <!-- HN:43200179:start -->
 * [43200179](https://news.social-protocols.org/stats?id=43200179) #14 5 points 0 comments -> [Tesla Powerwall 3 Alternatives](https://www.virtuesolar.com/2025/02/17/tesla-powerwall-3-alternatives/)<!-- HN:43200179:end --><!-- HN:43199460:start -->
