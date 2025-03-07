@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43239573](https://news.social-protocols.org/stats?id=43239573) #30 17 points 2 comments -> [IoT project using thermal sensors to monitor spaces](https://s2.dev/blog/iot)<!-- HN:43239573:end --><!-- HN:43284359:start -->
 * [43284359](https://news.social-protocols.org/stats?id=43284359) #12 12 points 2 comments -> [Model pickers are a UX failure](https://www.augmentcode.com/blog/ai-model-pickers-are-a-design-failure-not-a-feature)<!-- HN:43284359:end --><!-- HN:43285234:start -->
 * [43285234](https://news.social-protocols.org/stats?id=43285234) #16 4 points 0 comments -> [Show HN: Stealth Interview – Undetectable Interview AI](https://www.stealthinterview.ai)<!-- HN:43285234:end -->
+#### **Friday, March 7, 2025**
+<!-- HN:43286864:start -->
+* [43286864](https://news.social-protocols.org/stats?id=43286864) #24 7 points 2 comments -> [Hacked firm demanded journalist 'take down' breach reporting, citing UK court](https://techcrunch.com/2025/03/06/hacked-health-firm-hcrg-demanded-journalist-take-down-data-breach-reporting-citing-uk-court-order/)<!-- HN:43286864:end -->
