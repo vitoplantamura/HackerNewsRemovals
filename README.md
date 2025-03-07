@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, February 28, 2025**
-<!-- HN:43200179:start -->
-* [43200179](https://news.social-protocols.org/stats?id=43200179) #14 5 points 0 comments -> [Tesla Powerwall 3 Alternatives](https://www.virtuesolar.com/2025/02/17/tesla-powerwall-3-alternatives/)<!-- HN:43200179:end --><!-- HN:43199460:start -->
-* [43199460](https://news.social-protocols.org/stats?id=43199460) #4 250 points 3 comments -> [Some Command & Conquer games are now open source](https://github.com/electronicarts)<!-- HN:43199460:end --><!-- HN:43205100:start -->
-* [43205100](https://news.social-protocols.org/stats?id=43205100) #26 9 points 1 comments -> ['I decided I was done':Canada pizzeria boycotts US ingredients in tariff dispute](https://www.theguardian.com/world/2025/feb/28/canada-pizzeria-owner-boycotts-us-products)<!-- HN:43205100:end --><!-- HN:43207338:start -->
-* [43207338](https://news.social-protocols.org/stats?id=43207338) #6 26 points 2 comments -> [Hundreds in US climate agency fired in latest cuts](https://www.bbc.com/news/articles/cdell8n14x2o)<!-- HN:43207338:end --><!-- HN:43200450:start -->
-* [43200450](https://news.social-protocols.org/stats?id=43200450) #17 193 points 19 comments -> [Markov Chains Explained Visually (2014)](https://setosa.io/ev/markov-chains/)<!-- HN:43200450:end --><!-- HN:43207491:start -->
-* [43207491](https://news.social-protocols.org/stats?id=43207491) #6 20 points 0 comments -> [The full force of this administration's destruction is about to hit](https://www.thehandbasket.co/p/government-destruction-ssa-doge)<!-- HN:43207491:end --><!-- HN:43205196:start -->
-* [43205196](https://news.social-protocols.org/stats?id=43205196) #26 95 points 151 comments -> [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)<!-- HN:43205196:end --><!-- HN:43169461:start -->
-* [43169461](https://news.social-protocols.org/stats?id=43169461) #21 317 points 230 comments -> [Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay](https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/)<!-- HN:43169461:end --><!-- HN:43200065:start -->
-* [43200065](https://news.social-protocols.org/stats?id=43200065) #24 792 points 6 comments -> [Mozilla owns "information you input through Firefox"](https://www.mozilla.org/en-US/about/legal/terms/firefox/)<!-- HN:43200065:end --><!-- HN:43210569:start -->
-* [43210569](https://news.social-protocols.org/stats?id=43210569) #1 51 points 7 comments -> ["No, we are absolutely not prepared to [fork Firefox]"](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)<!-- HN:43210569:end --><!-- HN:43211925:start -->
-* [43211925](https://news.social-protocols.org/stats?id=43211925) #9 -> [Google's Sergey Brin: Engineers Should Work 60-Hour Weeks in Office to Build AI](https://gizmodo.com/googles-sergey-brin-says-engineers-should-work-60-hour-weeks-in-office-to-build-ai-that-could-replace-them-2000570025)<!-- HN:43211925:end --><!-- HN:43170457:start -->
-* [43170457](https://news.social-protocols.org/stats?id=43170457) #23 18 points 9 comments -> [The Moped King](https://www.streetsblogprojects.org/fly-electric-bike-moped-new-york-city-streets-safety-lithium-ion-batteries)<!-- HN:43170457:end -->
 #### **Saturday, March 1, 2025**
 <!-- HN:43215769:start -->
 * [43215769](https://news.social-protocols.org/stats?id=43215769) #29 6 points 0 comments -> [DeepSeek-V3/R1 Inference System Overview](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)<!-- HN:43215769:end --><!-- HN:43214294:start -->
