@@ -161,3 +161,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43295006](https://news.social-protocols.org/stats?id=43295006) #28 13 points 1 comments -> [Musk/DOGE efforts to sell off civil rights historical site](https://www.alreporter.com/2025/03/06/historic-montgomery-bus-station-freedom-riders-museum-part-of-doge-ordered-sell-off/)<!-- HN:43295006:end --><!-- HN:43295164:start -->
 * [43295164](https://news.social-protocols.org/stats?id=43295164) #16 14 points 5 comments -> [We found a DOGE guy at NASA because his Google Calendar was public](https://www.businessinsider.com/doge-nasa-google-calendar-public-2025-3)<!-- HN:43295164:end --><!-- HN:43294848:start -->
 * [43294848](https://news.social-protocols.org/stats?id=43294848) #28 5 points 0 comments -> [Gene Hackman died of heart disease, his wife died of hantavirus 1 week earlier](https://www.wfsb.com/2025/03/07/investigation-advances-into-gene-hackmans-mysterious-death-with-update-by-authorities/)<!-- HN:43294848:end -->
+#### **Saturday, March 8, 2025**
+<!-- HN:43296131:start -->
+* [43296131](https://news.social-protocols.org/stats?id=43296131) #17 12 points 1 comments -> ['Elon killed my resale': Bay Area Tesla owners using stickers to avoid backlash](https://www.sfchronicle.com/bayarea/article/tesla-elon-musk-backlash-20206901.php)<!-- HN:43296131:end -->
