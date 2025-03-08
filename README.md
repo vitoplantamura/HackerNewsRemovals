@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 8, 2025**
 <!-- HN:43296131:start -->
 * [43296131](https://news.social-protocols.org/stats?id=43296131) #17 12 points 1 comments -> ['Elon killed my resale': Bay Area Tesla owners using stickers to avoid backlash](https://www.sfchronicle.com/bayarea/article/tesla-elon-musk-backlash-20206901.php)<!-- HN:43296131:end --><!-- HN:43251868:start -->
-* [43251868](https://news.social-protocols.org/stats?id=43251868) #10 17 points 40 comments -> [The German language broke my website](https://speedbumpapp.com/en/blog/german-translation/)<!-- HN:43251868:end -->
+* [43251868](https://news.social-protocols.org/stats?id=43251868) #10 17 points 40 comments -> [The German language broke my website](https://speedbumpapp.com/en/blog/german-translation/)<!-- HN:43251868:end --><!-- HN:43297671:start -->
+* [43297671](https://news.social-protocols.org/stats?id=43297671) #21 20 points 4 comments -> [It is hard to recommend Python in production](https://ashishb.net/programming/python-in-production/)<!-- HN:43297671:end -->
