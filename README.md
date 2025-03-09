@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, March 2, 2025**<!-- HN:43205642:start -->
-* [43205642](https://news.social-protocols.org/stats?id=43205642) #15 10 points 0 comments -> [New footage shows sneaky killer is decapitating baby seals on California beaches](https://www.sfgate.com/local/article/coyotes-decapitating-seals-northern-california-20183166.php)<!-- HN:43205642:end --><!-- HN:43227131:start -->
-* [43227131](https://news.social-protocols.org/stats?id=43227131) #17 7 points 10 comments -> [Show HN: What did you do last week? – Evaluates your 5 bullet points](https://whatdidyoudolastweek.biz)<!-- HN:43227131:end --><!-- HN:43182253:start -->
-* [43182253](https://news.social-protocols.org/stats?id=43182253) #27 14 points 0 comments -> [The GitVenom campaign: cryptocurrency theft using GitHub](https://securelist.com/gitvenom-campaign/115694/)<!-- HN:43182253:end --><!-- HN:43230442:start -->
-* [43230442](https://news.social-protocols.org/stats?id=43230442) #14 5 points 2 comments -> [Pubmed Has Been Deleted](https://pubmed.ncbi.nlm.nih.gov/)<!-- HN:43230442:end --><!-- HN:43230904:start -->
-* [43230904](https://news.social-protocols.org/stats?id=43230904) #8 5 points 1 comments -> [Perun on "could Europe defend itself without US?"](https://www.youtube.com/watch?v=7giYIisLuaA)<!-- HN:43230904:end --><!-- HN:43231551:start -->
-* [43231551](https://news.social-protocols.org/stats?id=43231551) #30 11 points 9 comments -> [I'm a neuroscientist. Here's the surprising truth about TikTok 'brain rot'](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)<!-- HN:43231551:end --><!-- HN:43232841:start -->
-* [43232841](https://news.social-protocols.org/stats?id=43232841) #15 27 points 13 comments -> [Falsehoods programmers believe about languages (localization)](https://www.lexiconista.com/falsehoods-about-languages/)<!-- HN:43232841:end --><!-- HN:43234281:start -->
-* [43234281](https://news.social-protocols.org/stats?id=43234281) #30 18 points 4 comments -> [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)<!-- HN:43234281:end --><!-- HN:43235524:start -->
-* [43235524](https://news.social-protocols.org/stats?id=43235524) #29 -> [Donald Trump supporters lose $12B after his meme coin collapses](https://www.uniladtech.com/news/tech-news/donald-trump-supporters-lose-12-billion-after-meme-coin-collapse-393345-20250228)<!-- HN:43235524:end --><!-- HN:43236182:start -->
-* [43236182](https://news.social-protocols.org/stats?id=43236182) #15 11 points 1 comments -> [Stand Up for Science](https://standupforscience2025.org/)<!-- HN:43236182:end -->
 #### **Monday, March 3, 2025**
 <!-- HN:43235933:start -->
 * [43235933](https://news.social-protocols.org/stats?id=43235933) #1 78 points 9 comments -> [Firefly Aerospace Becomes First Commercial Company to Successfully Land on Moon](https://fireflyspace.com/news/firefly-aerospace-becomes-first-commercial-company-to-successfully-land-on-the-moon/)<!-- HN:43235933:end --><!-- HN:43239249:start -->
