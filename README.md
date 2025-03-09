@@ -155,3 +155,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43302563](https://news.social-protocols.org/stats?id=43302563) #26 14 points 2 comments -> [Linear Pluggable Optics Save Energy in Data Centers](https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/)<!-- HN:43302563:end --><!-- HN:43303943:start -->
 * [43303943](https://news.social-protocols.org/stats?id=43303943) #22 15 points 7 comments -> [Backdoor detected in ESP32 Espressif IoT chip](https://www.tarlogic.com/news/backdoor-esp32-chip-infect-ot-devices/)<!-- HN:43303943:end --><!-- HN:43304253:start -->
 * [43304253](https://news.social-protocols.org/stats?id=43304253) #4 6 points 0 comments -> [The Lie That Facebook Sold You](https://havenweb.org/2022/11/02/facebook-lie.html)<!-- HN:43304253:end -->
+#### **Sunday, March 9, 2025**
+<!-- HN:43304971:start -->
+* [43304971](https://news.social-protocols.org/stats?id=43304971) #18 7 points 2 comments -> [Tesla Cybertruck Banned and Seized by Police in the U.K](https://www.forbes.com/sites/peterlyon/2025/02/20/tesla-cybertruck-banned-in-the-uk-due-to-safety-issues/)<!-- HN:43304971:end -->
