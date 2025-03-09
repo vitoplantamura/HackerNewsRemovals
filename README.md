@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 9, 2025**
 <!-- HN:43304971:start -->
 * [43304971](https://news.social-protocols.org/stats?id=43304971) #18 7 points 2 comments -> [Tesla Cybertruck Banned and Seized by Police in the U.K](https://www.forbes.com/sites/peterlyon/2025/02/20/tesla-cybertruck-banned-in-the-uk-due-to-safety-issues/)<!-- HN:43304971:end --><!-- HN:43305375:start -->
-* [43305375](https://news.social-protocols.org/stats?id=43305375) #13 12 points 2 comments -> [US 'to cease all future military exercises in Europe'](https://www.telegraph.co.uk/us/politics/2025/03/08/us-to-cease-all-future-military-exercises-in-europe-reports/)<!-- HN:43305375:end -->
+* [43305375](https://news.social-protocols.org/stats?id=43305375) #13 12 points 2 comments -> [US 'to cease all future military exercises in Europe'](https://www.telegraph.co.uk/us/politics/2025/03/08/us-to-cease-all-future-military-exercises-in-europe-reports/)<!-- HN:43305375:end --><!-- HN:43304567:start -->
+* [43304567](https://news.social-protocols.org/stats?id=43304567) #4 23 points 40 comments -> [Toward a Passwordless Future](https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/)<!-- HN:43304567:end -->
