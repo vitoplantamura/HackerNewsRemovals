@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43304253](https://news.social-protocols.org/stats?id=43304253) #4 6 points 0 comments -> [The Lie That Facebook Sold You](https://havenweb.org/2022/11/02/facebook-lie.html)<!-- HN:43304253:end -->
 #### **Sunday, March 9, 2025**
 <!-- HN:43304971:start -->
-* [43304971](https://news.social-protocols.org/stats?id=43304971) #18 7 points 2 comments -> [Tesla Cybertruck Banned and Seized by Police in the U.K](https://www.forbes.com/sites/peterlyon/2025/02/20/tesla-cybertruck-banned-in-the-uk-due-to-safety-issues/)<!-- HN:43304971:end -->
+* [43304971](https://news.social-protocols.org/stats?id=43304971) #18 7 points 2 comments -> [Tesla Cybertruck Banned and Seized by Police in the U.K](https://www.forbes.com/sites/peterlyon/2025/02/20/tesla-cybertruck-banned-in-the-uk-due-to-safety-issues/)<!-- HN:43304971:end --><!-- HN:43305375:start -->
+* [43305375](https://news.social-protocols.org/stats?id=43305375) #13 12 points 2 comments -> [US 'to cease all future military exercises in Europe'](https://www.telegraph.co.uk/us/politics/2025/03/08/us-to-cease-all-future-military-exercises-in-europe-reports/)<!-- HN:43305375:end -->
