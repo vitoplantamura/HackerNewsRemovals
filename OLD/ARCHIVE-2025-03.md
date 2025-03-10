@@ -21,3 +21,10 @@
 * [43234281](https://news.ycombinator.com/item?id=43234281) #30 18 points 4 comments -> [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)<!-- HN:43234281:end --><!-- HN:43235524:start -->
 * [43235524](https://news.ycombinator.com/item?id=43235524) #29 -> [Donald Trump supporters lose $12B after his meme coin collapses](https://www.uniladtech.com/news/tech-news/donald-trump-supporters-lose-12-billion-after-meme-coin-collapse-393345-20250228)<!-- HN:43235524:end --><!-- HN:43236182:start -->
 * [43236182](https://news.ycombinator.com/item?id=43236182) #15 11 points 1 comments -> [Stand Up for Science](https://standupforscience2025.org/)<!-- HN:43236182:end -->
+#### **Monday, March 3, 2025**
+<!-- HN:43235933:start -->
+* [43235933](https://news.ycombinator.com/item?id=43235933) #1 78 points 9 comments -> [Firefly Aerospace Becomes First Commercial Company to Successfully Land on Moon](https://fireflyspace.com/news/firefly-aerospace-becomes-first-commercial-company-to-successfully-land-on-the-moon/)<!-- HN:43235933:end --><!-- HN:43239249:start -->
+* [43239249](https://news.ycombinator.com/item?id=43239249) #17 307 points 394 comments -> [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)<!-- HN:43239249:end --><!-- HN:43205209:start -->
+* [43205209](https://news.ycombinator.com/item?id=43205209) #23 18 points 2 comments -> [Show HN: Free Kindle Scribe Weekly Planner Creator](https://tools.docgenie.co.uk/)<!-- HN:43205209:end --><!-- HN:43240354:start -->
+* [43240354](https://news.ycombinator.com/item?id=43240354) #15 38 points 30 comments -> [Difficult Employees (and How to Handle Them)](https://newsletter.canopy.is/p/the-5-most-difficult-employees-and)<!-- HN:43240354:end --><!-- HN:43244106:start -->
+* [43244106](https://news.ycombinator.com/item?id=43244106) #15 16 points 3 comments -> [The Oldest "Map of America" Is Mysteriously Accurate](https://www.thetravel.com/oldest-american-map-accuracy-surprises-experts/)<!-- HN:43244106:end -->
