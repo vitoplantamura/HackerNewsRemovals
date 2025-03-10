@@ -181,3 +181,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43314301](https://news.social-protocols.org/stats?id=43314301) #14 12 points 1 comments -> [US authorities arrest Palestinian student protester at Columbia University](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/)<!-- HN:43314301:end --><!-- HN:43314809:start -->
 * [43314809](https://news.social-protocols.org/stats?id=43314809) #25 -> [The Fascist Tech Bro Takeover Is Here](https://www.theindex.media/the-fascist-tech-bro-takeover-is-here-2/)<!-- HN:43314809:end --><!-- HN:43283214:start -->
 * [43283214](https://news.social-protocols.org/stats?id=43283214) #26 7 points 0 comments -> [Japan's Clever Anti-Snow Roadways](https://www.core77.com/posts/135763/Japans-Clever-Anti-Snow-Roadways)<!-- HN:43283214:end -->
+#### **Monday, March 10, 2025**
+<!-- HN:43314994:start -->
+* [43314994](https://news.social-protocols.org/stats?id=43314994) #23 47 points 10 comments -> [ICE arrests Palestinian activist who helped lead Columbia University protests](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8)<!-- HN:43314994:end -->
