@@ -177,5 +177,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 10, 2025**
 <!-- HN:43314994:start -->
 * [43314994](https://news.social-protocols.org/stats?id=43314994) #23 47 points 10 comments -> [ICE arrests Palestinian activist who helped lead Columbia University protests](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8)<!-- HN:43314994:end --><!-- HN:43315046:start -->
-* [43315046](https://news.social-protocols.org/stats?id=43315046) #25 34 points 13 comments -> [Tesla Used Car Price Crashes – Model Y, Model 3 Deals Explode](https://www.forbes.com/sites/brookecrothers/2025/03/09/tesla-used-car-price-crashes--model-y-model-3-deals-explode/)<!-- HN:43315046:end --><!-- HN:43315629:start -->
-* [43315629](https://news.social-protocols.org/stats?id=43315629) #3 -> [US added to international watchlist for rapid decline in civic freedoms](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus)<!-- HN:43315629:end -->
+* [43315046](https://news.social-protocols.org/stats?id=43315046) #25 34 points 13 comments -> [Tesla Used Car Price Crashes – Model Y, Model 3 Deals Explode](https://www.forbes.com/sites/brookecrothers/2025/03/09/tesla-used-car-price-crashes--model-y-model-3-deals-explode/)<!-- HN:43315046:end -->
