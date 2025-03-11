@@ -176,4 +176,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43326554](https://news.social-protocols.org/stats?id=43326554) #6 6 points 0 comments -> [Leningrad-1: a 44-IC Soviet style ZX-Spectrum clone](https://alex-j-lowry.github.io/leningrd.html)<!-- HN:43326554:end -->
 #### **Tuesday, March 11, 2025**
 <!-- HN:43328035:start -->
-* [43328035](https://news.social-protocols.org/stats?id=43328035) #30 6 points 0 comments -> [Bluesky's CEO on the Future of Social Media at SXSW [video]](https://www.youtube.com/watch?v=B7OwcXCE5Rg)<!-- HN:43328035:end -->
+* [43328035](https://news.social-protocols.org/stats?id=43328035) #30 6 points 0 comments -> [Bluesky's CEO on the Future of Social Media at SXSW [video]](https://www.youtube.com/watch?v=B7OwcXCE5Rg)<!-- HN:43328035:end --><!-- HN:43327395:start -->
+* [43327395](https://news.social-protocols.org/stats?id=43327395) #20 10 points 7 comments -> [A 19yo woman graduated from high school with honors even though she can't read](https://www.ky3.com/2025/02/28/former-high-school-honors-student-who-says-she-cant-read-write-sues-district-where-she-graduated/)<!-- HN:43327395:end -->
