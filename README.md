@@ -171,3 +171,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43307541](https://news.social-protocols.org/stats?id=43307541) #21 83 points 35 comments -> [How to Implement a Cosine Similarity Function in TypeScript](https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/)<!-- HN:43307541:end --><!-- HN:43332352:start -->
 * [43332352](https://news.social-protocols.org/stats?id=43332352) #28 30 points 13 comments -> [A Practical Guide to Running Local LLMs](https://spin.atomicobject.com/running-local-llms/)<!-- HN:43332352:end --><!-- HN:43336554:start -->
 * [43336554](https://news.social-protocols.org/stats?id=43336554) #16 4 points 0 comments -> [Steal My Tesla](http://stealmytesla.com/)<!-- HN:43336554:end -->
+#### **Wednesday, March 12, 2025**
+<!-- HN:43336872:start -->
+* [43336872](https://news.social-protocols.org/stats?id=43336872) #25 59 points 42 comments -> [India's Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)<!-- HN:43336872:end -->
