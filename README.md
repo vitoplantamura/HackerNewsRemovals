@@ -169,4 +169,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, March 13, 2025**<!-- HN:43349901:start -->
 * [43349901](https://news.social-protocols.org/stats?id=43349901) #3 54 points 9 comments -> [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)<!-- HN:43349901:end --><!-- HN:43334507:start -->
 * [43334507](https://news.social-protocols.org/stats?id=43334507) #25 23 points 40 comments -> [The city that forgot itself](https://thecritic.co.uk/the-city-that-forgot-itself/)<!-- HN:43334507:end --><!-- HN:43340662:start -->
-* [43340662](https://news.social-protocols.org/stats?id=43340662) #22 224 points 228 comments -> [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)<!-- HN:43340662:end -->
+* [43340662](https://news.social-protocols.org/stats?id=43340662) #22 224 points 228 comments -> [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)<!-- HN:43340662:end --><!-- HN:43351985:start -->
+* [43351985](https://news.social-protocols.org/stats?id=43351985) #25 21 points 3 comments -> [DOGE Makes Its Latest Errors Harder to Find](https://www.nytimes.com/2025/03/13/us/politics/doge-makes-its-latest-errors-harder-to-find.html)<!-- HN:43351985:end -->
