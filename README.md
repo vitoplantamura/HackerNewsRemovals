@@ -167,5 +167,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43343839](https://news.social-protocols.org/stats?id=43343839) #6 4 points 3 comments -> [Crawl AI – A Web-Based Platform for Building Custom AI Assistants](https://www.crawlai.dev)<!-- HN:43343839:end --><!-- HN:43344002:start -->
 * [43344002](https://news.social-protocols.org/stats?id=43344002) #21 4 points 0 comments -> [YouTube-transcript-API 1.0.0 released](https://github.com/jdepoix/youtube-transcript-api/releases/tag/v1.0.0)<!-- HN:43344002:end --><!-- HN:43343832:start -->
 * [43343832](https://news.social-protocols.org/stats?id=43343832) #20 41 points 12 comments -> [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)<!-- HN:43343832:end -->
-#### **Thursday, March 13, 2025**<!-- HN:43349187:start -->
-* [43349187](https://news.social-protocols.org/stats?id=43349187) #28 7 points 2 comments -> [DELETE, DELETE, DELETE [pdf]](https://docs.fcc.gov/public/attachments/DA-25-219A1.pdf)<!-- HN:43349187:end -->
+#### **Thursday, March 13, 2025**
