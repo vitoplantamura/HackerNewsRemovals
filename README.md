@@ -167,4 +167,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43344002](https://news.social-protocols.org/stats?id=43344002) #21 4 points 0 comments -> [YouTube-transcript-API 1.0.0 released](https://github.com/jdepoix/youtube-transcript-api/releases/tag/v1.0.0)<!-- HN:43344002:end --><!-- HN:43343832:start -->
 * [43343832](https://news.social-protocols.org/stats?id=43343832) #20 41 points 12 comments -> [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)<!-- HN:43343832:end -->
 #### **Thursday, March 13, 2025**<!-- HN:43349901:start -->
-* [43349901](https://news.social-protocols.org/stats?id=43349901) #3 54 points 9 comments -> [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)<!-- HN:43349901:end -->
+* [43349901](https://news.social-protocols.org/stats?id=43349901) #3 54 points 9 comments -> [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)<!-- HN:43349901:end --><!-- HN:43334507:start -->
+* [43334507](https://news.social-protocols.org/stats?id=43334507) #25 23 points 40 comments -> [The city that forgot itself](https://thecritic.co.uk/the-city-that-forgot-itself/)<!-- HN:43334507:end -->
