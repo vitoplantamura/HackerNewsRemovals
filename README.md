@@ -155,3 +155,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43354219](https://news.social-protocols.org/stats?id=43354219) #2 22 points 13 comments -> [Show HN: I built AI agents with CrewAI to automate my entire Gmail workflow](https://github.com/tonykipkemboi/crewai-gmail-automation)<!-- HN:43354219:end --><!-- HN:43355749:start -->
 * [43355749](https://news.social-protocols.org/stats?id=43355749) #30 5 points 0 comments -> [Visual Studio: New, Simpler Solution File Format](https://devblogs.microsoft.com/visualstudio/new-simpler-solution-file-format/)<!-- HN:43355749:end --><!-- HN:43355976:start -->
 * [43355976](https://news.social-protocols.org/stats?id=43355976) #23 7 points 0 comments -> [Why it makes sense for wealthier nations to help others decarbonize](https://www.nature.com/articles/d41586-025-00779-9)<!-- HN:43355976:end -->
+#### **Friday, March 14, 2025**
+<!-- HN:43358831:start -->
+* [43358831](https://news.social-protocols.org/stats?id=43358831) #9 3 points 0 comments -> [When did you first start worrying for humankind?](https://theneuroscienceofeverydaylife.substack.com/p/when-did-you-first-start-worrying)<!-- HN:43358831:end -->
