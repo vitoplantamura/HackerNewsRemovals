@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, March 14, 2025**
 <!-- HN:43358831:start -->
 * [43358831](https://news.social-protocols.org/stats?id=43358831) #9 3 points 0 comments -> [When did you first start worrying for humankind?](https://theneuroscienceofeverydaylife.substack.com/p/when-did-you-first-start-worrying)<!-- HN:43358831:end --><!-- HN:43359086:start -->
-* [43359086](https://news.social-protocols.org/stats?id=43359086) #22 6 points 0 comments -> [These Are the 10 Doge Operatives Inside the Social Security Administration](https://www.wired.com/story/doge-operatives-access-social-security-administration/)<!-- HN:43359086:end -->
+* [43359086](https://news.social-protocols.org/stats?id=43359086) #22 6 points 0 comments -> [These Are the 10 Doge Operatives Inside the Social Security Administration](https://www.wired.com/story/doge-operatives-access-social-security-administration/)<!-- HN:43359086:end --><!-- HN:43358016:start -->
+* [43358016](https://news.social-protocols.org/stats?id=43358016) #10 29 points 40 comments -> [Would {word1} beat {word2} • Ranked AI game](https://www.word-battle.com/)<!-- HN:43358016:end -->
