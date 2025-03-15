@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43362339](https://news.social-protocols.org/stats?id=43362339) #18 35 points 1 comments -> [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)<!-- HN:43362339:end -->
 #### **Saturday, March 15, 2025**
 <!-- HN:43368488:start -->
-* [43368488](https://news.social-protocols.org/stats?id=43368488) #1 -> [Show HN: I lost 15% to Congress' lag, so I built a trade-sniping tool](https://politichook.com/)<!-- HN:43368488:end -->
+* [43368488](https://news.social-protocols.org/stats?id=43368488) #1 -> [Show HN: I lost 15% to Congress' lag, so I built a trade-sniping tool](https://politichook.com/)<!-- HN:43368488:end --><!-- HN:43368590:start -->
+* [43368590](https://news.social-protocols.org/stats?id=43368590) #23 10 points 0 comments -> [Lazarus Group deceives developers with 6 new malicious NPM packages](https://cyberscoop.com/lazarus-group-north-korea-malicious-npm-packages-socket/)<!-- HN:43368590:end -->
