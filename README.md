@@ -151,3 +151,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43364524](https://news.social-protocols.org/stats?id=43364524) #15 8 points 1 comments -> [USA asks Sweden for help in the egg crisis](https://freshpost.substack.com/p/usa-asks-sweden-for-help-in-the-egg)<!-- HN:43364524:end --><!-- HN:43364088:start -->
 * [43364088](https://news.social-protocols.org/stats?id=43364088) #17 7 points 1 comments -> [The Tyranny of Work or Why Are We Still Measured by Our Productivity?](https://anticapitalistmusings.com/2025/03/the-tyranny-of-work-or-why-are-we-still-measured-by-our-productivity/)<!-- HN:43364088:end --><!-- HN:43362339:start -->
 * [43362339](https://news.social-protocols.org/stats?id=43362339) #18 35 points 1 comments -> [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)<!-- HN:43362339:end -->
+#### **Saturday, March 15, 2025**
+<!-- HN:43368488:start -->
+* [43368488](https://news.social-protocols.org/stats?id=43368488) #1 -> [Show HN: I lost 15% to Congress' lag, so I built a trade-sniping tool](https://politichook.com/)<!-- HN:43368488:end -->
