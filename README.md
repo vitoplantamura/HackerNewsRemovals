@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, March 8, 2025**
-<!-- HN:43296131:start -->
-* [43296131](https://news.social-protocols.org/stats?id=43296131) #17 12 points 1 comments -> ['Elon killed my resale': Bay Area Tesla owners using stickers to avoid backlash](https://www.sfchronicle.com/bayarea/article/tesla-elon-musk-backlash-20206901.php)<!-- HN:43296131:end --><!-- HN:43251868:start -->
-* [43251868](https://news.social-protocols.org/stats?id=43251868) #10 17 points 40 comments -> [The German language broke my website](https://speedbumpapp.com/en/blog/german-translation/)<!-- HN:43251868:end --><!-- HN:43297671:start -->
-* [43297671](https://news.social-protocols.org/stats?id=43297671) #21 20 points 4 comments -> [It is hard to recommend Python in production](https://ashishb.net/programming/python-in-production/)<!-- HN:43297671:end --><!-- HN:43297168:start -->
-* [43297168](https://news.social-protocols.org/stats?id=43297168) #25 8 points 1 comments -> [Exploring the Hybrid Debian GNU/KFreeBSD Distribution](https://www.linuxjournal.com/content/exploring-hybrid-debian-gnukfreebsd-distribution)<!-- HN:43297168:end --><!-- HN:43296886:start -->
-* [43296886](https://news.social-protocols.org/stats?id=43296886) #10 103 points 21 comments -> [Take It Down Act: A Flawed Attempt to Protect Victims That'll Lead to Censorship](https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship)<!-- HN:43296886:end --><!-- HN:43296765:start -->
-* [43296765](https://news.social-protocols.org/stats?id=43296765) #28 12 points 0 comments -> [Revenge Font](https://revengefont.com/)<!-- HN:43296765:end --><!-- HN:43259146:start -->
-* [43259146](https://news.social-protocols.org/stats?id=43259146) #12 16 points 1 comments -> [2025-03-01 the cold glow of tritium](https://computer.rip/2025-03-01-the-cold-glow-of-tritium.html)<!-- HN:43259146:end --><!-- HN:43256878:start -->
-* [43256878](https://news.social-protocols.org/stats?id=43256878) #23 18 points 4 comments -> [I hacked my company's SSO provider](https://mattsayar.com/how-i-hacked-my-companys-sso-provider/)<!-- HN:43256878:end --><!-- HN:43267232:start -->
-* [43267232](https://news.social-protocols.org/stats?id=43267232) #17 8 points 2 comments -> [Show HN: AI art generation faster than Midjourney](https://www.gentube.app/?_cid=np)<!-- HN:43267232:end --><!-- HN:43266327:start -->
-* [43266327](https://news.social-protocols.org/stats?id=43266327) #14 39 points 49 comments -> [Qualcomm Claims New X85 Modem Creates 'Huge Delta' in Performance versus Apple](https://www.macrumors.com/2025/03/05/qualcomm-claims-x85-modem-better-than-apple/)<!-- HN:43266327:end --><!-- HN:43226052:start -->
-* [43226052](https://news.social-protocols.org/stats?id=43226052) #24 116 points 22 comments -> [Unleashed Recompiled: PC port of the Xbox 360 version of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)<!-- HN:43226052:end --><!-- HN:43302097:start -->
-* [43302097](https://news.social-protocols.org/stats?id=43302097) #5 175 points 2 comments -> [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)<!-- HN:43302097:end --><!-- HN:43302563:start -->
-* [43302563](https://news.social-protocols.org/stats?id=43302563) #26 14 points 2 comments -> [Linear Pluggable Optics Save Energy in Data Centers](https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/)<!-- HN:43302563:end --><!-- HN:43303943:start -->
-* [43303943](https://news.social-protocols.org/stats?id=43303943) #22 15 points 7 comments -> [Backdoor detected in ESP32 Espressif IoT chip](https://www.tarlogic.com/news/backdoor-esp32-chip-infect-ot-devices/)<!-- HN:43303943:end --><!-- HN:43304253:start -->
-* [43304253](https://news.social-protocols.org/stats?id=43304253) #4 6 points 0 comments -> [The Lie That Facebook Sold You](https://havenweb.org/2022/11/02/facebook-lie.html)<!-- HN:43304253:end -->
 #### **Sunday, March 9, 2025**
 <!-- HN:43304971:start -->
 * [43304971](https://news.social-protocols.org/stats?id=43304971) #18 7 points 2 comments -> [Tesla Cybertruck Banned and Seized by Police in the U.K](https://www.forbes.com/sites/peterlyon/2025/02/20/tesla-cybertruck-banned-in-the-uk-due-to-safety-issues/)<!-- HN:43304971:end --><!-- HN:43305375:start -->
