@@ -154,4 +154,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 15, 2025**
 <!-- HN:43368488:start -->
 * [43368488](https://news.social-protocols.org/stats?id=43368488) #1 -> [Show HN: I lost 15% to Congress' lag, so I built a trade-sniping tool](https://politichook.com/)<!-- HN:43368488:end --><!-- HN:43368590:start -->
-* [43368590](https://news.social-protocols.org/stats?id=43368590) #23 10 points 0 comments -> [Lazarus Group deceives developers with 6 new malicious NPM packages](https://cyberscoop.com/lazarus-group-north-korea-malicious-npm-packages-socket/)<!-- HN:43368590:end -->
+* [43368590](https://news.social-protocols.org/stats?id=43368590) #23 10 points 0 comments -> [Lazarus Group deceives developers with 6 new malicious NPM packages](https://cyberscoop.com/lazarus-group-north-korea-malicious-npm-packages-socket/)<!-- HN:43368590:end --><!-- HN:43369190:start -->
+* [43369190](https://news.social-protocols.org/stats?id=43369190) #3 11 points 1 comments -> [Salting the Earth and the Vandalism of America](https://3quarksdaily.com/3quarksdaily/2025/03/salting-the-earth-and-the-vandalism-of-america.html)<!-- HN:43369190:end -->
