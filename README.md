@@ -143,5 +143,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 16, 2025**
 <!-- HN:43376268:start -->
 * [43376268](https://news.social-protocols.org/stats?id=43376268) #20 5 points 0 comments -> [Sound weapon used at protest in Belgrade [video]](https://www.youtube.com/watch?v=m0q-FVz6LK0)<!-- HN:43376268:end --><!-- HN:43376569:start -->
-* [43376569](https://news.social-protocols.org/stats?id=43376569) #11 4 points 0 comments -> [Modern Agile is Stupid: on why all great ideas are killed by idiots](https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2)<!-- HN:43376569:end --><!-- HN:43378869:start -->
-* [43378869](https://news.social-protocols.org/stats?id=43378869) #17 24 points 12 comments -> [Medicaid cuts could devastate elderly in Florida nursing homes](https://www.tampabay.com/news/health/2025/03/16/florida-nursing-homes-medicaid-cuts/)<!-- HN:43378869:end -->
+* [43376569](https://news.social-protocols.org/stats?id=43376569) #11 4 points 0 comments -> [Modern Agile is Stupid: on why all great ideas are killed by idiots](https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2)<!-- HN:43376569:end -->
