@@ -140,3 +140,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43373726](https://news.social-protocols.org/stats?id=43373726) #12 24 points 2 comments -> [LearnLM: An experimental task-specific model for learning science principles](https://ai.google.dev/gemini-api/docs/learnlm)<!-- HN:43373726:end --><!-- HN:43375371:start -->
 * [43375371](https://news.social-protocols.org/stats?id=43375371) #26 3 points 0 comments -> [As We May Think (1945)](https://breckyunits.com/asWeMayThink.html)<!-- HN:43375371:end --><!-- HN:43375609:start -->
 * [43375609](https://news.social-protocols.org/stats?id=43375609) #20 7 points 0 comments -> [Strings Attached: Talking about Russia's agenda for laws in cyberspace](https://bytesandborscht.com/strings-attached-talking-about-russias-agenda-for-laws-in-cyberspace/)<!-- HN:43375609:end -->
+#### **Sunday, March 16, 2025**
+<!-- HN:43376268:start -->
+* [43376268](https://news.social-protocols.org/stats?id=43376268) #20 5 points 0 comments -> [Sound weapon used at protest in Belgrade [video]](https://www.youtube.com/watch?v=m0q-FVz6LK0)<!-- HN:43376268:end -->
