@@ -128,3 +128,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43381043](https://news.social-protocols.org/stats?id=43381043) #10 15 points 9 comments -> [US deports Venezuelans despite court order](https://www.bbc.com/news/articles/cp9yv1gnzyvo)<!-- HN:43381043:end --><!-- HN:43381390:start -->
 * [43381390](https://news.social-protocols.org/stats?id=43381390) #22 16 points 2 comments -> ['People are angry': A vibe shift is happening across the workforce](https://www.cnbc.com/2025/03/16/a-vibe-shift-around-layoffs-is-happening-across-the-workforce.html)<!-- HN:43381390:end --><!-- HN:43382135:start -->
 * [43382135](https://news.social-protocols.org/stats?id=43382135) #25 14 points 3 comments -> [Urbandead MMORPG (zombies and humans, made by 1 person) dead to moderarion laws](https://www.urbandead.com/)<!-- HN:43382135:end -->
+#### **Monday, March 17, 2025**
+<!-- HN:43384021:start -->
+* [43384021](https://news.social-protocols.org/stats?id=43384021) #17 -> [X now monitors your DMs](https://bsky.app/profile/blueskywins.bsky.social/post/3lkjvonax7224)<!-- HN:43384021:end --><!-- HN:43360571:start -->
+* [43360571](https://news.social-protocols.org/stats?id=43360571) #19 6 points 1 comments -> [Decrypting Encrypted files from Akira Ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)<!-- HN:43360571:end -->
