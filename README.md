@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43384021:start -->
 * [43384021](https://news.social-protocols.org/stats?id=43384021) #17 -> [X now monitors your DMs](https://bsky.app/profile/blueskywins.bsky.social/post/3lkjvonax7224)<!-- HN:43384021:end --><!-- HN:43360571:start -->
 * [43360571](https://news.social-protocols.org/stats?id=43360571) #19 6 points 1 comments -> [Decrypting Encrypted files from Akira Ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)<!-- HN:43360571:end --><!-- HN:43384047:start -->
-* [43384047](https://news.social-protocols.org/stats?id=43384047) #4 16 points 2 comments -> [Leaving X](https://cacm.acm.org/opinion/leaving-x/)<!-- HN:43384047:end -->
+* [43384047](https://news.social-protocols.org/stats?id=43384047) #4 16 points 2 comments -> [Leaving X](https://cacm.acm.org/opinion/leaving-x/)<!-- HN:43384047:end --><!-- HN:43384730:start -->
+* [43384730](https://news.social-protocols.org/stats?id=43384730) #29 39 points 17 comments -> [Brown University Professor Is Deported Despite a Judge's Order](https://www.nytimes.com/2025/03/16/us/brown-university-rasha-alawieh-professor-deported.html)<!-- HN:43384730:end -->
