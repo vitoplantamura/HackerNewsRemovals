@@ -140,5 +140,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43393077](https://news.social-protocols.org/stats?id=43393077) #3 16 points 3 comments -> [Half of Canadians favour joining EU](https://www.westernstandard.news/news/revealed-half-of-canadians-favour-joining-eu-carney-says-canada-is-the-most-european-of-non-european-countries/63137)<!-- HN:43393077:end --><!-- HN:43393150:start -->
 * [43393150](https://news.social-protocols.org/stats?id=43393150) #10 13 points 40 comments -> [The Best Size of a Laptop](https://gokmengorgen.net/2025/03/17/the-best-size-of-a-laptop/)<!-- HN:43393150:end -->
 #### **Tuesday, March 18, 2025**
-<!-- HN:43394272:start -->
-* [43394272](https://news.social-protocols.org/stats?id=43394272) #25 21 points 3 comments -> [Columbia University Revokes Degrees of Pro-Palestinian Student Protesters](https://www.newsweek.com/columbia-revokes-degrees-pro-palestine-student-protesters-2044596)<!-- HN:43394272:end -->
