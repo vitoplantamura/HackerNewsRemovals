@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43393150](https://news.social-protocols.org/stats?id=43393150) #10 13 points 40 comments -> [The Best Size of a Laptop](https://gokmengorgen.net/2025/03/17/the-best-size-of-a-laptop/)<!-- HN:43393150:end -->
 #### **Tuesday, March 18, 2025**<!-- HN:43394099:start -->
 * [43394099](https://news.social-protocols.org/stats?id=43394099) #22 21 points 3 comments -> [Sobering Revenue Stats of 70K Mobile Apps Show Why Devs Beg for Subscriptions](https://arstechnica.com/gadgets/2025/03/sobering-revenue-stats-of-70k-mobile-apps-show-why-devs-beg-for-subscriptions/)<!-- HN:43394099:end --><!-- HN:43393772:start -->
-* [43393772](https://news.social-protocols.org/stats?id=43393772) #20 6 points 0 comments -> [A Farewell from Cosmo Music](https://cosmomusic.ca/)<!-- HN:43393772:end -->
+* [43393772](https://news.social-protocols.org/stats?id=43393772) #20 6 points 0 comments -> [A Farewell from Cosmo Music](https://cosmomusic.ca/)<!-- HN:43393772:end --><!-- HN:43393079:start -->
+* [43393079](https://news.social-protocols.org/stats?id=43393079) #28 220 points 194 comments -> [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)<!-- HN:43393079:end -->
