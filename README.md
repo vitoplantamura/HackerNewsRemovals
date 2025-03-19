@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, March 19, 2025**
 <!-- HN:43406555:start -->
 * [43406555](https://news.social-protocols.org/stats?id=43406555) #5 30 points 20 comments -> [Would You Rather Have Married Young?](https://www.metropolitanreview.org/p/would-you-rather-have-married-young)<!-- HN:43406555:end --><!-- HN:43407423:start -->
-* [43407423](https://news.social-protocols.org/stats?id=43407423) #2 49 points 14 comments -> [Show HN: I made a worldwide sexual life dashboard](https://www.worldsexmap.com/)<!-- HN:43407423:end -->
+* [43407423](https://news.social-protocols.org/stats?id=43407423) #2 49 points 14 comments -> [Show HN: I made a worldwide sexual life dashboard](https://www.worldsexmap.com/)<!-- HN:43407423:end --><!-- HN:43408140:start -->
+* [43408140](https://news.social-protocols.org/stats?id=43408140) #30 7 points 3 comments -> [Why Is White House Using Starlink to 'Improve Wi-Fi'?](https://www.msn.com/en-us/news/technology/wait-why-is-the-white-house-using-starlink-to-improve-wi-fi/ar-AA1BaYFi)<!-- HN:43408140:end -->
