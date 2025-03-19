@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, March 12, 2025**
-<!-- HN:43336872:start -->
-* [43336872](https://news.social-protocols.org/stats?id=43336872) #25 59 points 42 comments -> [India's Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)<!-- HN:43336872:end --><!-- HN:43339219:start -->
-* [43339219](https://news.social-protocols.org/stats?id=43339219) #8 4 points 0 comments -> [Steal My Tesla](http://stealmytesla.com/)<!-- HN:43339219:end --><!-- HN:43298075:start -->
-* [43298075](https://news.social-protocols.org/stats?id=43298075) #30 17 points 40 comments -> [Tesco trials giant trolley scales in Gateshead](https://www.bbc.co.uk/news/articles/c0rzvrjkklko)<!-- HN:43298075:end --><!-- HN:43340790:start -->
-* [43340790](https://news.social-protocols.org/stats?id=43340790) #19 5 points 13 comments -> [Show HN: I made a movie recommendation app based on your mood](https://www.moodiemovie.top/)<!-- HN:43340790:end --><!-- HN:43340932:start -->
-* [43340932](https://news.social-protocols.org/stats?id=43340932) #15 2 points 1 comments -> [No More Basic Cursive Fonts – Built Realistic Handwritten Signature Generator](https://handwrittensignaturegenerator.com/)<!-- HN:43340932:end --><!-- HN:43313902:start -->
-* [43313902](https://news.social-protocols.org/stats?id=43313902) #24 18 points 2 comments -> [The State of Coherence in the Land of Type Classes](https://programming-journal.org/2025/10/15/)<!-- HN:43313902:end --><!-- HN:43341741:start -->
-* [43341741](https://news.social-protocols.org/stats?id=43341741) #23 15 points 3 comments -> [Usaid staff told to shred and burn classified documents](https://www.bbc.com/news/articles/cjw2yywy3x7o)<!-- HN:43341741:end --><!-- HN:43339158:start -->
-* [43339158](https://news.social-protocols.org/stats?id=43339158) #28 138 points 87 comments -> [Happy 10k Day](https://blog.comma.ai/happy10kday/)<!-- HN:43339158:end --><!-- HN:43341834:start -->
-* [43341834](https://news.social-protocols.org/stats?id=43341834) #26 15 points 0 comments -> [TypeScript is being ported to Go – interview with Anders Hejlsberg](https://www.youtube.com/watch?v=10qowKUW82U)<!-- HN:43341834:end --><!-- HN:43343026:start -->
-* [43343026](https://news.social-protocols.org/stats?id=43343026) #30 4 points 0 comments -> [Texas Instruments MSPM0C1104 is the smallest microcontroller](https://www.cnx-software.com/2025/03/12/texas-instruments-mspm0c1104-is-the-worlds-smallest-microcontroller-with-a-size-of-1-38mm2/)<!-- HN:43343026:end --><!-- HN:43307845:start -->
-* [43307845](https://news.social-protocols.org/stats?id=43307845) #19 11 points 4 comments -> [A Committed Year](https://www.ramijames.com/thoughts/a-committed-year)<!-- HN:43307845:end --><!-- HN:43343497:start -->
-* [43343497](https://news.social-protocols.org/stats?id=43343497) #28 6 points 0 comments -> [TSMC Pitches Intel Foundry JV to Nvidia, AMD and Broadcom](https://www.cnbc.com/2025/03/12/tsmc-pitched-intel-foundry-jv-to-nvidia-amd-and-broadcom-sources-say.html)<!-- HN:43343497:end --><!-- HN:43343839:start -->
-* [43343839](https://news.social-protocols.org/stats?id=43343839) #6 4 points 3 comments -> [Crawl AI – A Web-Based Platform for Building Custom AI Assistants](https://www.crawlai.dev)<!-- HN:43343839:end --><!-- HN:43344002:start -->
-* [43344002](https://news.social-protocols.org/stats?id=43344002) #21 4 points 0 comments -> [YouTube-transcript-API 1.0.0 released](https://github.com/jdepoix/youtube-transcript-api/releases/tag/v1.0.0)<!-- HN:43344002:end --><!-- HN:43343832:start -->
-* [43343832](https://news.social-protocols.org/stats?id=43343832) #20 41 points 12 comments -> [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)<!-- HN:43343832:end -->
 #### **Thursday, March 13, 2025**<!-- HN:43349901:start -->
 * [43349901](https://news.social-protocols.org/stats?id=43349901) #3 54 points 9 comments -> [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)<!-- HN:43349901:end --><!-- HN:43340662:start -->
 * [43340662](https://news.social-protocols.org/stats?id=43340662) #22 224 points 228 comments -> [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)<!-- HN:43340662:end --><!-- HN:43351985:start -->
