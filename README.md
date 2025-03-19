@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43404482](https://news.social-protocols.org/stats?id=43404482) #6 30 points 4 comments -> [Doge order leads to journal cancellations by U.S. agricultural library](https://www.science.org/content/article/doge-order-leads-journal-cancellations-u-s-agricultural-library)<!-- HN:43404482:end -->
 #### **Wednesday, March 19, 2025**
 <!-- HN:43406555:start -->
-* [43406555](https://news.social-protocols.org/stats?id=43406555) #5 30 points 20 comments -> [Would You Rather Have Married Young?](https://www.metropolitanreview.org/p/would-you-rather-have-married-young)<!-- HN:43406555:end -->
+* [43406555](https://news.social-protocols.org/stats?id=43406555) #5 30 points 20 comments -> [Would You Rather Have Married Young?](https://www.metropolitanreview.org/p/would-you-rather-have-married-young)<!-- HN:43406555:end --><!-- HN:43407423:start -->
+* [43407423](https://news.social-protocols.org/stats?id=43407423) #2 49 points 14 comments -> [Show HN: I made a worldwide sexual life dashboard](https://www.worldsexmap.com/)<!-- HN:43407423:end -->
