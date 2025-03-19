@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43400867](https://news.social-protocols.org/stats?id=43400867) #23 3 points 0 comments -> [Google's AI 'co-scientist' cracked 10-year superbug problem in just 2 days](https://www.livescience.com/technology/artificial-intelligence/googles-ai-co-scientist-cracked-10-year-superbug-problem-in-just-2-days)<!-- HN:43400867:end --><!-- HN:43398780:start -->
 * [43398780](https://news.social-protocols.org/stats?id=43398780) #1 214 points 4 comments -> [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)<!-- HN:43398780:end --><!-- HN:43404482:start -->
 * [43404482](https://news.social-protocols.org/stats?id=43404482) #6 30 points 4 comments -> [Doge order leads to journal cancellations by U.S. agricultural library](https://www.science.org/content/article/doge-order-leads-journal-cancellations-u-s-agricultural-library)<!-- HN:43404482:end -->
+#### **Wednesday, March 19, 2025**
+<!-- HN:43406555:start -->
+* [43406555](https://news.social-protocols.org/stats?id=43406555) #5 30 points 20 comments -> [Would You Rather Have Married Young?](https://www.metropolitanreview.org/p/would-you-rather-have-married-young)<!-- HN:43406555:end -->
