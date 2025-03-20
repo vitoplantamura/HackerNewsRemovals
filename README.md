@@ -160,4 +160,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43418472:start -->
 * [43418472](https://news.social-protocols.org/stats?id=43418472) #16 11 points 1 comments -> [Cybertruck crash report says witness could not open door to save victims](https://oaklandside.org/2025/03/18/cybertruck-crash-report-says-witness-could-not-open-door-to-save-victims/)<!-- HN:43418472:end --><!-- HN:43419095:start -->
 * [43419095](https://news.social-protocols.org/stats?id=43419095) #22 27 points 8 comments -> [Doge to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/)<!-- HN:43419095:end --><!-- HN:43418218:start -->
-* [43418218](https://news.social-protocols.org/stats?id=43418218) #19 147 points 22 comments -> [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/./S25/index.html)<!-- HN:43418218:end -->
+* [43418218](https://news.social-protocols.org/stats?id=43418218) #19 147 points 22 comments -> [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/./S25/index.html)<!-- HN:43418218:end --><!-- HN:43387661:start -->
+* [43387661](https://news.social-protocols.org/stats?id=43387661) #18 6 points 3 comments -> [7159997483.com](https://7159997483.com/)<!-- HN:43387661:end -->
