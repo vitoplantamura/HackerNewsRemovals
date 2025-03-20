@@ -159,5 +159,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, March 20, 2025**
 <!-- HN:43418472:start -->
 * [43418472](https://news.social-protocols.org/stats?id=43418472) #16 11 points 1 comments -> [Cybertruck crash report says witness could not open door to save victims](https://oaklandside.org/2025/03/18/cybertruck-crash-report-says-witness-could-not-open-door-to-save-victims/)<!-- HN:43418472:end --><!-- HN:43419095:start -->
-* [43419095](https://news.social-protocols.org/stats?id=43419095) #22 27 points 8 comments -> [Doge to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/)<!-- HN:43419095:end --><!-- HN:43422263:start -->
-* [43422263](https://news.social-protocols.org/stats?id=43422263) #6 40 points 13 comments -> [The Shitthropocene – Patagonia](https://www.patagonia.com/stories/the-shitthropocene/video-150905.html)<!-- HN:43422263:end -->
+* [43419095](https://news.social-protocols.org/stats?id=43419095) #22 27 points 8 comments -> [Doge to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/)<!-- HN:43419095:end -->
