@@ -156,3 +156,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43413650](https://news.social-protocols.org/stats?id=43413650) #20 28 points 40 comments -> [Solar Generation Surge Sends European Power Prices Below Zero](https://www.bloomberg.com/news/articles/2025-03-19/solar-generation-surge-sends-european-power-prices-below-zero)<!-- HN:43413650:end --><!-- HN:43414706:start -->
 * [43414706](https://news.social-protocols.org/stats?id=43414706) #17 3 points 0 comments -> [Rules for Crafting Products That Stand Out](https://www.figma.com/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/)<!-- HN:43414706:end --><!-- HN:43415574:start -->
 * [43415574](https://news.social-protocols.org/stats?id=43415574) #21 15 points 3 comments -> [Why Tech Bros Overestimate AI's Creative Abilities](https://www.aaronrosspowell.com/p/why-tech-bros-overestimate-ai-s-creative-abilities)<!-- HN:43415574:end -->
+#### **Thursday, March 20, 2025**
+<!-- HN:43418472:start -->
+* [43418472](https://news.social-protocols.org/stats?id=43418472) #16 11 points 1 comments -> [Cybertruck crash report says witness could not open door to save victims](https://oaklandside.org/2025/03/18/cybertruck-crash-report-says-witness-could-not-open-door-to-save-victims/)<!-- HN:43418472:end -->
