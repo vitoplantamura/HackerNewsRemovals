@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43415574](https://news.social-protocols.org/stats?id=43415574) #21 15 points 3 comments -> [Why Tech Bros Overestimate AI's Creative Abilities](https://www.aaronrosspowell.com/p/why-tech-bros-overestimate-ai-s-creative-abilities)<!-- HN:43415574:end -->
 #### **Thursday, March 20, 2025**
 <!-- HN:43418472:start -->
-* [43418472](https://news.social-protocols.org/stats?id=43418472) #16 11 points 1 comments -> [Cybertruck crash report says witness could not open door to save victims](https://oaklandside.org/2025/03/18/cybertruck-crash-report-says-witness-could-not-open-door-to-save-victims/)<!-- HN:43418472:end -->
+* [43418472](https://news.social-protocols.org/stats?id=43418472) #16 11 points 1 comments -> [Cybertruck crash report says witness could not open door to save victims](https://oaklandside.org/2025/03/18/cybertruck-crash-report-says-witness-could-not-open-door-to-save-victims/)<!-- HN:43418472:end --><!-- HN:43419095:start -->
+* [43419095](https://news.social-protocols.org/stats?id=43419095) #22 27 points 8 comments -> [Doge to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/)<!-- HN:43419095:end -->
