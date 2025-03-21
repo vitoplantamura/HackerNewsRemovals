@@ -167,3 +167,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43429436](https://news.social-protocols.org/stats?id=43429436) #15 8 points 0 comments -> [NATS Server v2.11](https://nats.io/blog/nats-server-2.11-release/)<!-- HN:43429436:end --><!-- HN:43429622:start -->
 * [43429622](https://news.social-protocols.org/stats?id=43429622) #4 2 points 0 comments -> [DNA Evidence Says First Americans Came from Asia](https://factsanddetails.com/world/cat56/sub361/entry-8944.html)<!-- HN:43429622:end --><!-- HN:43429872:start -->
 * [43429872](https://news.social-protocols.org/stats?id=43429872) #26 4 points 1 comments -> [Texas Senate passes bill to put Ten Commandments in public school classrooms](https://www.texastribune.org/2025/03/04/texas-senate-ten-commandments-prayer-schools/)<!-- HN:43429872:end -->
+#### **Friday, March 21, 2025**
+<!-- HN:43430682:start -->
+* [43430682](https://news.social-protocols.org/stats?id=43430682) #22 8 points 0 comments -> [Meet Elon Musk’s Top Lieutenant Who Oversees DOGE](https://www.nytimes.com/2025/03/20/technology/elon-musk-steve-davis-doge.html)<!-- HN:43430682:end -->
