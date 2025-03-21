@@ -170,5 +170,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, March 21, 2025**
 <!-- HN:43430682:start -->
 * [43430682](https://news.social-protocols.org/stats?id=43430682) #22 8 points 0 comments -> [Meet Elon Musk’s Top Lieutenant Who Oversees DOGE](https://www.nytimes.com/2025/03/20/technology/elon-musk-steve-davis-doge.html)<!-- HN:43430682:end --><!-- HN:43430938:start -->
-* [43430938](https://news.social-protocols.org/stats?id=43430938) #25 10 points 0 comments -> [Indian chemical company employees indicted for Importing of Fentanyl Precursors](https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation)<!-- HN:43430938:end --><!-- HN:43432142:start -->
-* [43432142](https://news.social-protocols.org/stats?id=43432142) #25 11 points 2 comments -> [Western Ignorance: Failure to See China Beyond the Party](https://thechinaacademy.org/western-ignorance-failure-to-see-china-beyond-the-party/)<!-- HN:43432142:end -->
+* [43430938](https://news.social-protocols.org/stats?id=43430938) #25 10 points 0 comments -> [Indian chemical company employees indicted for Importing of Fentanyl Precursors](https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation)<!-- HN:43430938:end -->
