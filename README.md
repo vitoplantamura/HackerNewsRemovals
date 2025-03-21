@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43430682:start -->
 * [43430682](https://news.social-protocols.org/stats?id=43430682) #22 8 points 0 comments -> [Meet Elon Musk’s Top Lieutenant Who Oversees DOGE](https://www.nytimes.com/2025/03/20/technology/elon-musk-steve-davis-doge.html)<!-- HN:43430682:end --><!-- HN:43430938:start -->
 * [43430938](https://news.social-protocols.org/stats?id=43430938) #25 10 points 0 comments -> [Indian chemical company employees indicted for Importing of Fentanyl Precursors](https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation)<!-- HN:43430938:end --><!-- HN:43431780:start -->
-* [43431780](https://news.social-protocols.org/stats?id=43431780) #2 422 points 195 comments -> [Boycott IETF 127](https://boycott-ietf127.org/)<!-- HN:43431780:end -->
+* [43431780](https://news.social-protocols.org/stats?id=43431780) #2 422 points 195 comments -> [Boycott IETF 127](https://boycott-ietf127.org/)<!-- HN:43431780:end --><!-- HN:43431882:start -->
+* [43431882](https://news.social-protocols.org/stats?id=43431882) #28 10 points 0 comments -> [Show HN: Minimal JavaScript/TS framework that made us 10k in 10 days](https://github.com/The-Pocket-World/Pocket-Flow-Framework)<!-- HN:43431882:end -->
