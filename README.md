@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 22, 2025**<!-- HN:43409533:start -->
 * [43409533](https://news.social-protocols.org/stats?id=43409533) #23 29 points 41 comments -> [Rocky Linux from CIQ – Hardened](https://ciq.com/products/rocky-linux/hardened/)<!-- HN:43409533:end --><!-- HN:43443280:start -->
 * [43443280](https://news.social-protocols.org/stats?id=43443280) #12 5 points 2 comments -> [Show HN: Font Pair – I was wasting hours choosing fonts, so I built this](https://github.com/CodeWithNeer/FontPair)<!-- HN:43443280:end --><!-- HN:43443979:start -->
-* [43443979](https://news.social-protocols.org/stats?id=43443979) #8 11 points 0 comments -> [Vibe Coding – The Ultimate Guide with Resources](https://natural20.com/vibe-coding/)<!-- HN:43443979:end -->
+* [43443979](https://news.social-protocols.org/stats?id=43443979) #8 11 points 0 comments -> [Vibe Coding – The Ultimate Guide with Resources](https://natural20.com/vibe-coding/)<!-- HN:43443979:end --><!-- HN:43444098:start -->
+* [43444098](https://news.social-protocols.org/stats?id=43444098) #29 4 points 0 comments -> [Number of border searches of electronic devices increasing every year](https://www.eff.org/issues/border-searches)<!-- HN:43444098:end -->
