@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, March 15, 2025**
-<!-- HN:43368488:start -->
-* [43368488](https://news.social-protocols.org/stats?id=43368488) #1 -> [Show HN: I lost 15% to Congress' lag, so I built a trade-sniping tool](https://politichook.com/)<!-- HN:43368488:end --><!-- HN:43368590:start -->
-* [43368590](https://news.social-protocols.org/stats?id=43368590) #23 10 points 0 comments -> [Lazarus Group deceives developers with 6 new malicious NPM packages](https://cyberscoop.com/lazarus-group-north-korea-malicious-npm-packages-socket/)<!-- HN:43368590:end --><!-- HN:43369190:start -->
-* [43369190](https://news.social-protocols.org/stats?id=43369190) #3 11 points 1 comments -> [Salting the Earth and the Vandalism of America](https://3quarksdaily.com/3quarksdaily/2025/03/salting-the-earth-and-the-vandalism-of-america.html)<!-- HN:43369190:end --><!-- HN:43369815:start -->
-* [43369815](https://news.social-protocols.org/stats?id=43369815) #6 5 points 3 comments -> [A Proof of the Collatz Conjecture](https://arxiv.org/abs/2502.20642)<!-- HN:43369815:end --><!-- HN:43368765:start -->
-* [43368765](https://news.social-protocols.org/stats?id=43368765) #17 23 points 11 comments -> [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)<!-- HN:43368765:end --><!-- HN:43370950:start -->
-* [43370950](https://news.social-protocols.org/stats?id=43370950) #3 39 points 18 comments -> [Tesla is done in Germany: 94% say they won't buy a Tesla car](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/)<!-- HN:43370950:end --><!-- HN:43364016:start -->
-* [43364016](https://news.social-protocols.org/stats?id=43364016) #23 580 points 503 comments -> [Samsung Q990D unresponsive after 1020 firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)<!-- HN:43364016:end --><!-- HN:43368870:start -->
-* [43368870](https://news.social-protocols.org/stats?id=43368870) #30 262 points 3 comments -> [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)<!-- HN:43368870:end --><!-- HN:43335432:start -->
-* [43335432](https://news.social-protocols.org/stats?id=43335432) #3 -> [Show HN: 715-999-7483.com, a website updated by calling the same phone number](https://715-999-7483.com/)<!-- HN:43335432:end --><!-- HN:43357420:start -->
-* [43357420](https://news.social-protocols.org/stats?id=43357420) #20 17 points 8 comments -> [Sketch-Programming: A Minimalist Paradigm for Code Design](https://github.com/DmitryOlkhovoi/Sketch-programming)<!-- HN:43357420:end --><!-- HN:43373726:start -->
-* [43373726](https://news.social-protocols.org/stats?id=43373726) #12 24 points 2 comments -> [LearnLM: An experimental task-specific model for learning science principles](https://ai.google.dev/gemini-api/docs/learnlm)<!-- HN:43373726:end --><!-- HN:43375371:start -->
-* [43375371](https://news.social-protocols.org/stats?id=43375371) #26 3 points 0 comments -> [As We May Think (1945)](https://breckyunits.com/asWeMayThink.html)<!-- HN:43375371:end --><!-- HN:43375609:start -->
-* [43375609](https://news.social-protocols.org/stats?id=43375609) #20 7 points 0 comments -> [Strings Attached: Talking about Russia's agenda for laws in cyberspace](https://bytesandborscht.com/strings-attached-talking-about-russias-agenda-for-laws-in-cyberspace/)<!-- HN:43375609:end -->
 #### **Sunday, March 16, 2025**
 <!-- HN:43376268:start -->
 * [43376268](https://news.social-protocols.org/stats?id=43376268) #20 5 points 0 comments -> [Sound weapon used at protest in Belgrade [video]](https://www.youtube.com/watch?v=m0q-FVz6LK0)<!-- HN:43376268:end --><!-- HN:43376569:start -->
