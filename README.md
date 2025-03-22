@@ -169,5 +169,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43440240](https://news.social-protocols.org/stats?id=43440240) #29 8 points 0 comments -> [Foreigners Dump U.S. Treasuries. Here's Who Did the Most Selling](https://www.barrons.com/articles/treasuries-foreign-sell-gold-765ce81f)<!-- HN:43440240:end --><!-- HN:43440449:start -->
 * [43440449](https://news.social-protocols.org/stats?id=43440449) #30 22 points 11 comments -> [How 'Careless People' is becoming a bigger problem for Meta](https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress)<!-- HN:43440449:end -->
 #### **Saturday, March 22, 2025**
-<!-- HN:43409533:start -->
-* [43409533](https://news.social-protocols.org/stats?id=43409533) #20 27 points 40 comments -> [Rocky Linux from CIQ – Hardened](https://ciq.com/products/rocky-linux/hardened/)<!-- HN:43409533:end -->
