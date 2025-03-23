@@ -171,3 +171,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43446544](https://news.social-protocols.org/stats?id=43446544) #9 7 points 4 comments -> [The Ugly Truth About the Education System You Were Never Told](https://www.thesouljam.com/posts/the-ugly-truth-about-the-education-system-you-were-never-told)<!-- HN:43446544:end --><!-- HN:43447308:start -->
 * [43447308](https://news.social-protocols.org/stats?id=43447308) #24 11 points 1 comments -> [NYU Website Hacked](https://web.archive.org/web/20250322133330/https://www.nyu.edu/)<!-- HN:43447308:end --><!-- HN:43448528:start -->
 * [43448528](https://news.social-protocols.org/stats?id=43448528) #12 11 points 1 comments -> [You Shouldn't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)<!-- HN:43448528:end -->
+#### **Sunday, March 23, 2025**
+<!-- HN:43449973:start -->
+* [43449973](https://news.social-protocols.org/stats?id=43449973) #3 6 points 1 comments -> [Hetzner is forwarding other people's traffic to you](https://kiwi.fuo.fi/notes/a5oh5qt4ra5o000v)<!-- HN:43449973:end -->
