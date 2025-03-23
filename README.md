@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, March 16, 2025**
-<!-- HN:43376268:start -->
-* [43376268](https://news.social-protocols.org/stats?id=43376268) #20 5 points 0 comments -> [Sound weapon used at protest in Belgrade [video]](https://www.youtube.com/watch?v=m0q-FVz6LK0)<!-- HN:43376268:end --><!-- HN:43376569:start -->
-* [43376569](https://news.social-protocols.org/stats?id=43376569) #11 4 points 0 comments -> [Modern Agile is Stupid: on why all great ideas are killed by idiots](https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2)<!-- HN:43376569:end --><!-- HN:43346843:start -->
-* [43346843](https://news.social-protocols.org/stats?id=43346843) #16 8 points 1 comments -> [Show HN: I Made an Escape Room Themed Prompt Injection Challenge](https://pangea.cloud/landing/ai-escape-room/)<!-- HN:43346843:end --><!-- HN:43379099:start -->
-* [43379099](https://news.social-protocols.org/stats?id=43379099) #30 6 points 0 comments -> [Origami measuring spoon incites fury after 9 years of Kickstarter delay hell](https://arstechnica.com/tech-policy/2025/03/scoop-origami-measuring-spoon-incites-fury-after-9-years-of-kickstarter-delay-hell/)<!-- HN:43379099:end --><!-- HN:43379764:start -->
-* [43379764](https://news.social-protocols.org/stats?id=43379764) #25 6 points 0 comments -> [Life Altering PostgreSQL Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)<!-- HN:43379764:end --><!-- HN:43380069:start -->
-* [43380069](https://news.social-protocols.org/stats?id=43380069) #26 10 points 0 comments -> [Media Blackout: America's Poorest Counties Devastated by Catastrophic Flooding](https://www.youtube.com/watch?v=gRvbdidqAhs)<!-- HN:43380069:end --><!-- HN:43378934:start -->
-* [43378934](https://news.social-protocols.org/stats?id=43378934) #21 29 points 16 comments -> [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)<!-- HN:43378934:end --><!-- HN:43347482:start -->
-* [43347482](https://news.social-protocols.org/stats?id=43347482) #20 3 points 0 comments -> [ScanSearch Integrates Workflow and Full OCR Scan](https://scansearch.com/)<!-- HN:43347482:end --><!-- HN:43381043:start -->
-* [43381043](https://news.social-protocols.org/stats?id=43381043) #10 15 points 9 comments -> [US deports Venezuelans despite court order](https://www.bbc.com/news/articles/cp9yv1gnzyvo)<!-- HN:43381043:end --><!-- HN:43381390:start -->
-* [43381390](https://news.social-protocols.org/stats?id=43381390) #22 16 points 2 comments -> ['People are angry': A vibe shift is happening across the workforce](https://www.cnbc.com/2025/03/16/a-vibe-shift-around-layoffs-is-happening-across-the-workforce.html)<!-- HN:43381390:end --><!-- HN:43382135:start -->
-* [43382135](https://news.social-protocols.org/stats?id=43382135) #25 14 points 3 comments -> [Urbandead MMORPG (zombies and humans, made by 1 person) dead to moderarion laws](https://www.urbandead.com/)<!-- HN:43382135:end -->
 #### **Monday, March 17, 2025**
 <!-- HN:43384021:start -->
 * [43384021](https://news.social-protocols.org/stats?id=43384021) #17 -> [X now monitors your DMs](https://bsky.app/profile/blueskywins.bsky.social/post/3lkjvonax7224)<!-- HN:43384021:end --><!-- HN:43360571:start -->
