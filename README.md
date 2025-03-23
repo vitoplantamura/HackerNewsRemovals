@@ -173,4 +173,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43448528](https://news.social-protocols.org/stats?id=43448528) #12 11 points 1 comments -> [You Shouldn't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)<!-- HN:43448528:end -->
 #### **Sunday, March 23, 2025**
 <!-- HN:43449973:start -->
-* [43449973](https://news.social-protocols.org/stats?id=43449973) #3 6 points 1 comments -> [Hetzner is forwarding other people's traffic to you](https://kiwi.fuo.fi/notes/a5oh5qt4ra5o000v)<!-- HN:43449973:end -->
+* [43449973](https://news.social-protocols.org/stats?id=43449973) #3 6 points 1 comments -> [Hetzner is forwarding other people's traffic to you](https://kiwi.fuo.fi/notes/a5oh5qt4ra5o000v)<!-- HN:43449973:end --><!-- HN:43449721:start -->
+* [43449721](https://news.social-protocols.org/stats?id=43449721) #4 16 points 4 comments -> [Hack: 6M Records for Sale Exfiltrated from Oracle Cloud Affecting 140k+ Tenants](https://www.cloudsek.com/blog/the-biggest-supply-chain-hack-of-2025-6m-records-for-sale-exfiltrated-from-oracle-cloud-affecting-over-140k-tenants)<!-- HN:43449721:end -->
