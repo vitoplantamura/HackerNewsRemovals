@@ -166,3 +166,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43454136](https://news.social-protocols.org/stats?id=43454136) #20 7 points 0 comments -> [Tied Crosscoders: Tracing How Chat LLM Behavior Emerges from Base Model](https://www.lesswrong.com/posts/3T8eKyaPvDDm2wzor/research-question)<!-- HN:43454136:end --><!-- HN:43455011:start -->
 * [43455011](https://news.social-protocols.org/stats?id=43455011) #9 5 points 0 comments -> [Donate USB Drives and SD Cards to Help US Smuggle Outside Info into North Korea](https://flashdrivesforfreedom.org)<!-- HN:43455011:end --><!-- HN:43456355:start -->
 * [43456355](https://news.social-protocols.org/stats?id=43456355) #3 10 points 1 comments -> [Sharing My USPS Mail Alerts Apps Script](https://taslim.xyz/blog/2025/sharing-my-usps-mail-alerts-apps-script/)<!-- HN:43456355:end -->
+#### **Monday, March 24, 2025**
+<!-- HN:43457428:start -->
+* [43457428](https://news.social-protocols.org/stats?id=43457428) #21 5 points 0 comments -> ["The bargain we are being asked to ratify" – AI as technological bribery](https://librarianshipwreck.wordpress.com/2025/03/02/the-bargain-we-are-being-asked-to-ratify-ai-as-technological-bribery/)<!-- HN:43457428:end -->
