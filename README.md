@@ -165,4 +165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43448288](https://news.social-protocols.org/stats?id=43448288) #14 10 points 3 comments -> [New Jailbreak Technique Uses Fictional World to Manipulate AI](https://www.securityweek.com/new-jailbreak-technique-uses-fictional-world-to-manipulate-ai/)<!-- HN:43448288:end -->
 #### **Tuesday, March 25, 2025**
 <!-- HN:43466698:start -->
-* [43466698](https://news.social-protocols.org/stats?id=43466698) #30 20 points 5 comments -> [Surrendering to Authoritarianism](https://chrishedges.substack.com/p/surrendering-to-authoritarianism)<!-- HN:43466698:end -->
+* [43466698](https://news.social-protocols.org/stats?id=43466698) #30 20 points 5 comments -> [Surrendering to Authoritarianism](https://chrishedges.substack.com/p/surrendering-to-authoritarianism)<!-- HN:43466698:end --><!-- HN:43466983:start -->
+* [43466983](https://news.social-protocols.org/stats?id=43466983) #4 82 points 3 comments -> [Jeffrey Goldberg on being added to the group chat by Trump Administration](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/)<!-- HN:43466983:end -->
