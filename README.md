@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 25, 2025**
 <!-- HN:43466698:start -->
 * [43466698](https://news.social-protocols.org/stats?id=43466698) #30 20 points 5 comments -> [Surrendering to Authoritarianism](https://chrishedges.substack.com/p/surrendering-to-authoritarianism)<!-- HN:43466698:end --><!-- HN:43466983:start -->
-* [43466983](https://news.social-protocols.org/stats?id=43466983) #4 82 points 3 comments -> [Jeffrey Goldberg on being added to the group chat by Trump Administration](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/)<!-- HN:43466983:end -->
+* [43466983](https://news.social-protocols.org/stats?id=43466983) #4 82 points 3 comments -> [Jeffrey Goldberg on being added to the group chat by Trump Administration](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/)<!-- HN:43466983:end --><!-- HN:43467331:start -->
+* [43467331](https://news.social-protocols.org/stats?id=43467331) #22 6 points 1 comments -> [RCE Vulnerabilities in K8s Ingress Nginx (9.8 CVE for ingress-Nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)<!-- HN:43467331:end -->
