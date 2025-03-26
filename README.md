@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43439307](https://news.social-protocols.org/stats?id=43439307) #29 31 points 40 comments -> [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/)<!-- HN:43439307:end --><!-- HN:43474085:start -->
 * [43474085](https://news.social-protocols.org/stats?id=43474085) #23 4 points 1 comments -> [Jensen Huang on GPUs [video]](https://www.youtube.com/watch?v=G6R7UOFx1bw)<!-- HN:43474085:end --><!-- HN:43476148:start -->
 * [43476148](https://news.social-protocols.org/stats?id=43476148) #19 16 points 1 comments -> [A majority of Swedes are open to boycotting American products](https://www.lunduniversity.lu.se/article/majority-swedes-are-open-boycotting-american-products)<!-- HN:43476148:end -->
-#### **Wednesday, March 26, 2025**
+#### **Wednesday, March 26, 2025**<!-- HN:43477057:start -->
+* [43477057](https://news.social-protocols.org/stats?id=43477057) #17 225 points 98 comments -> [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)<!-- HN:43477057:end -->
