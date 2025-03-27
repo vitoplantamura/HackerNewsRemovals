@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43482207](https://news.social-protocols.org/stats?id=43482207) #16 24 points 40 comments -> [The Gang of Four is wrong and you don't understand delegation (2012)](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)<!-- HN:43482207:end --><!-- HN:43484467:start -->
 * [43484467](https://news.social-protocols.org/stats?id=43484467) #3 12 points 2 comments -> [You have 5 days before the new DockerHub limits f*ck you over](https://www.blacksmith.sh/blog/you-have-5-days-before-the-new-dockerhub-limits-f-ck-you-over)<!-- HN:43484467:end --><!-- HN:43457754:start -->
 * [43457754](https://news.social-protocols.org/stats?id=43457754) #17 15 points 0 comments -> [Exploring Ruby Ractors – I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)<!-- HN:43457754:end -->
+#### **Thursday, March 27, 2025**
+<!-- HN:43491009:start -->
+* [43491009](https://news.social-protocols.org/stats?id=43491009) #28 15 points 4 comments -> [The Website Hacker News Is Afraid to Discuss](https://daringfireball.net/)<!-- HN:43491009:end -->
