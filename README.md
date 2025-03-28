@@ -130,5 +130,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43496517](https://news.social-protocols.org/stats?id=43496517) #2 14 points 0 comments -> [The Japanese Writing System Explained: Hiragana, Katakana and Kanji](https://www.kanjimaster.ai/blog/japanese-writing-system-hiragana-katakana-kanji)<!-- HN:43496517:end --><!-- HN:43497150:start -->
 * [43497150](https://news.social-protocols.org/stats?id=43497150) #18 95 points 56 comments -> [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)<!-- HN:43497150:end --><!-- HN:43498176:start -->
 * [43498176](https://news.social-protocols.org/stats?id=43498176) #25 8 points 2 comments -> [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)<!-- HN:43498176:end -->
-#### **Friday, March 28, 2025**<!-- HN:43501675:start -->
-* [43501675](https://news.social-protocols.org/stats?id=43501675) #30 30 points 5 comments -> [US no longer a reliable partner, old relationship is over: Canadian PM Carney](https://www.tribuneindia.com/news/world/us-no-longer-a-reliable-partner-old-relationship-is-over-canadian-pm-carney/)<!-- HN:43501675:end -->
+#### **Friday, March 28, 2025**
