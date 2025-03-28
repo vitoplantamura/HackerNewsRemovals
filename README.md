@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, March 28, 2025**<!-- HN:43500124:start -->
 * [43500124](https://news.social-protocols.org/stats?id=43500124) #12 217 points 86 comments -> [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)<!-- HN:43500124:end --><!-- HN:43503207:start -->
 * [43503207](https://news.social-protocols.org/stats?id=43503207) #19 17 points 0 comments -> [Postgres Extension Tutorial](https://github.com/IshaanAdarsh/Postgres-extension-tutorial/blob/main/SGML/intro_and_toc.md)<!-- HN:43503207:end --><!-- HN:43503004:start -->
-* [43503004](https://news.social-protocols.org/stats?id=43503004) #14 47 points 11 comments -> [On Tyranny [book]](https://timothysnyder.org/on-tyranny)<!-- HN:43503004:end -->
+* [43503004](https://news.social-protocols.org/stats?id=43503004) #14 47 points 11 comments -> [On Tyranny [book]](https://timothysnyder.org/on-tyranny)<!-- HN:43503004:end --><!-- HN:43499045:start -->
+* [43499045](https://news.social-protocols.org/stats?id=43499045) #28 340 points 157 comments -> [Most promoted and blocked domains on Kagi](https://kagi.com/stats?stat=leaderboard)<!-- HN:43499045:end -->
