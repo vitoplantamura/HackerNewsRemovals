@@ -131,5 +131,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43497150](https://news.social-protocols.org/stats?id=43497150) #18 95 points 56 comments -> [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)<!-- HN:43497150:end --><!-- HN:43498176:start -->
 * [43498176](https://news.social-protocols.org/stats?id=43498176) #25 8 points 2 comments -> [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)<!-- HN:43498176:end -->
 #### **Friday, March 28, 2025**
-<!-- HN:43498031:start -->
-* [43498031](https://news.social-protocols.org/stats?id=43498031) #18 29 points 40 comments -> [We are building the next DocuSign](https://sgnly.com)<!-- HN:43498031:end -->
