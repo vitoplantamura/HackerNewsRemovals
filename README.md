@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43510633](https://news.social-protocols.org/stats?id=43510633) #29 6 points 1 comments -> [ChatGPT 4o adds image generation and its fun as hell](https://daringfireball.net/linked/2025/03/28/chatgpt-4o-adds-image-generation-and-its-fun-as-hell)<!-- HN:43510633:end --><!-- HN:43510753:start -->
 * [43510753](https://news.social-protocols.org/stats?id=43510753) #28 13 points 0 comments -> [RFK Jr. To Shut Down HHS Office of Infectious Diseases and HIV Policy](https://www.advocate.com/health/office-infectious-diseases-hiv-closing)<!-- HN:43510753:end --><!-- HN:43510816:start -->
 * [43510816](https://news.social-protocols.org/stats?id=43510816) #13 5 points 0 comments -> [Rust Is Indeed Woke](https://diziet.dreamwidth.org/19480.html)<!-- HN:43510816:end -->
-#### **Saturday, March 29, 2025**
+#### **Saturday, March 29, 2025**<!-- HN:43513811:start -->
+* [43513811](https://news.social-protocols.org/stats?id=43513811) #19 -> [Trump's attacks on universities get darker, with shadows reaching our shores](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get)<!-- HN:43513811:end -->
