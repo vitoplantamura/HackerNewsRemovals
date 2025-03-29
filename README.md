@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 29, 2025**<!-- HN:43513811:start -->
 * [43513811](https://news.social-protocols.org/stats?id=43513811) #23 141 points 65 comments -> [Trump's attacks on universities get darker, with shadows reaching our shores](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get)<!-- HN:43513811:end --><!-- HN:43514459:start -->
 * [43514459](https://news.social-protocols.org/stats?id=43514459) #3 13 points 1 comments -> [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)<!-- HN:43514459:end --><!-- HN:43511464:start -->
-* [43511464](https://news.social-protocols.org/stats?id=43511464) #9 168 points 65 comments -> [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)<!-- HN:43511464:end -->
+* [43511464](https://news.social-protocols.org/stats?id=43511464) #9 168 points 65 comments -> [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)<!-- HN:43511464:end --><!-- HN:43514969:start -->
+* [43514969](https://news.social-protocols.org/stats?id=43514969) #1 16 points 1 comments -> [What to Do](https://paulgraham.com/do.html)<!-- HN:43514969:end -->
