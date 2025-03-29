@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, March 22, 2025**<!-- HN:43409533:start -->
-* [43409533](https://news.social-protocols.org/stats?id=43409533) #23 29 points 41 comments -> [Rocky Linux from CIQ – Hardened](https://ciq.com/products/rocky-linux/hardened/)<!-- HN:43409533:end --><!-- HN:43443280:start -->
-* [43443280](https://news.social-protocols.org/stats?id=43443280) #12 5 points 2 comments -> [Show HN: Font Pair – I was wasting hours choosing fonts, so I built this](https://github.com/CodeWithNeer/FontPair)<!-- HN:43443280:end --><!-- HN:43443979:start -->
-* [43443979](https://news.social-protocols.org/stats?id=43443979) #8 11 points 0 comments -> [Vibe Coding – The Ultimate Guide with Resources](https://natural20.com/vibe-coding/)<!-- HN:43443979:end --><!-- HN:43444098:start -->
-* [43444098](https://news.social-protocols.org/stats?id=43444098) #29 4 points 0 comments -> [Number of border searches of electronic devices increasing every year](https://www.eff.org/issues/border-searches)<!-- HN:43444098:end --><!-- HN:43444191:start -->
-* [43444191](https://news.social-protocols.org/stats?id=43444191) #7 9 points 1 comments -> [VibeSail: A case study in vibe coding a game](https://www.vibecoding.games/vibesail-a-case-study-in-vibe-coding-a-game/)<!-- HN:43444191:end --><!-- HN:43444337:start -->
-* [43444337](https://news.social-protocols.org/stats?id=43444337) #24 24 points 9 comments -> [Zen browser had a backdoor enabled by default](https://github.com/zen-browser/desktop/issues/5947)<!-- HN:43444337:end --><!-- HN:43444605:start -->
-* [43444605](https://news.social-protocols.org/stats?id=43444605) #10 27 points 40 comments -> [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)<!-- HN:43444605:end --><!-- HN:43443974:start -->
-* [43443974](https://news.social-protocols.org/stats?id=43443974) #17 33 points 22 comments -> [The future of AI is Ruby on Rails](https://www.seangoedecke.com/ai-and-ruby/#fnref-1)<!-- HN:43443974:end --><!-- HN:43443823:start -->
-* [43443823](https://news.social-protocols.org/stats?id=43443823) #17 31 points 5 comments -> [Don't compete](https://invertedpassion.com/dont-compete/)<!-- HN:43443823:end --><!-- HN:43444017:start -->
-* [43444017](https://news.social-protocols.org/stats?id=43444017) #21 30 points 1 comments -> [Concise Machine Learning [pdf]](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)<!-- HN:43444017:end --><!-- HN:43445179:start -->
-* [43445179](https://news.social-protocols.org/stats?id=43445179) #17 3 points 0 comments -> [Targeting Brain's Drainage Pathways Rejuvenates Memory](https://neurosciencenews.com/lymphatic-system-aging-memory-28507/)<!-- HN:43445179:end --><!-- HN:43446225:start -->
-* [43446225](https://news.social-protocols.org/stats?id=43446225) #22 3 points 0 comments -> [Krazam: Microservices [video]](https://www.youtube.com/watch?v=y8OnoxKotPQ)<!-- HN:43446225:end --><!-- HN:43446544:start -->
-* [43446544](https://news.social-protocols.org/stats?id=43446544) #9 7 points 4 comments -> [The Ugly Truth About the Education System You Were Never Told](https://www.thesouljam.com/posts/the-ugly-truth-about-the-education-system-you-were-never-told)<!-- HN:43446544:end --><!-- HN:43447308:start -->
-* [43447308](https://news.social-protocols.org/stats?id=43447308) #24 11 points 1 comments -> [NYU Website Hacked](https://web.archive.org/web/20250322133330/https://www.nyu.edu/)<!-- HN:43447308:end --><!-- HN:43448528:start -->
-* [43448528](https://news.social-protocols.org/stats?id=43448528) #12 11 points 1 comments -> [You Shouldn't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)<!-- HN:43448528:end -->
 #### **Sunday, March 23, 2025**
 <!-- HN:43449973:start -->
 * [43449973](https://news.social-protocols.org/stats?id=43449973) #3 6 points 1 comments -> [Hetzner is forwarding other people's traffic to you](https://kiwi.fuo.fi/notes/a5oh5qt4ra5o000v)<!-- HN:43449973:end --><!-- HN:43449889:start -->
