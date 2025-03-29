@@ -128,6 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43510816](https://news.social-protocols.org/stats?id=43510816) #13 5 points 0 comments -> [Rust Is Indeed Woke](https://diziet.dreamwidth.org/19480.html)<!-- HN:43510816:end -->
 #### **Saturday, March 29, 2025**<!-- HN:43513811:start -->
 * [43513811](https://news.social-protocols.org/stats?id=43513811) #23 141 points 65 comments -> [Trump's attacks on universities get darker, with shadows reaching our shores](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get)<!-- HN:43513811:end --><!-- HN:43511464:start -->
-* [43511464](https://news.social-protocols.org/stats?id=43511464) #9 168 points 65 comments -> [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)<!-- HN:43511464:end --><!-- HN:43514969:start -->
-* [43514969](https://news.social-protocols.org/stats?id=43514969) #1 16 points 1 comments -> [What to Do](https://paulgraham.com/do.html)<!-- HN:43514969:end --><!-- HN:43478480:start -->
+* [43511464](https://news.social-protocols.org/stats?id=43511464) #9 168 points 65 comments -> [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)<!-- HN:43511464:end --><!-- HN:43478480:start -->
 * [43478480](https://news.social-protocols.org/stats?id=43478480) #24 15 points 10 comments -> [Window cleaner in quest to confirm priceless Shakespeare portrait](https://www.bbc.com/news/articles/c5yr37nlzv8o)<!-- HN:43478480:end -->
