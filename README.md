@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43519719:start -->
 * [43519719](https://news.social-protocols.org/stats?id=43519719) #9 9 points 1 comments -> [Deep Musk](https://deepmusk.com/)<!-- HN:43519719:end --><!-- HN:43520302:start -->
 * [43520302](https://news.social-protocols.org/stats?id=43520302) #30 7 points 0 comments -> [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)<!-- HN:43520302:end --><!-- HN:43521521:start -->
-* [43521521](https://news.social-protocols.org/stats?id=43521521) #11 2 points 0 comments -> [Show HN: Online tool to show white fullscreen page](https://www.mywhitescreen.com/)<!-- HN:43521521:end -->
+* [43521521](https://news.social-protocols.org/stats?id=43521521) #11 2 points 0 comments -> [Show HN: Online tool to show white fullscreen page](https://www.mywhitescreen.com/)<!-- HN:43521521:end --><!-- HN:43523165:start -->
+* [43523165](https://news.social-protocols.org/stats?id=43523165) #24 6 points 0 comments -> [Hegseth's Wife Tagged Along for Top Secret Military Meetings](https://www.thedailybeast.com/pete-hegseths-wife-jennifer-tags-along-for-top-secret-military-meetings/)<!-- HN:43523165:end -->
