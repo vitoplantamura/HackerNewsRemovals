@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43519678](https://news.social-protocols.org/stats?id=43519678) #22 7 points 0 comments -> [Ex-FCC chairs from both parties say CBS news distortion investigation is bogus](https://arstechnica.com/tech-policy/2025/03/ex-fcc-chairs-from-both-parties-say-cbs-news-distortion-investigation-is-bogus/)<!-- HN:43519678:end -->
 #### **Sunday, March 30, 2025**
 <!-- HN:43519719:start -->
-* [43519719](https://news.social-protocols.org/stats?id=43519719) #9 9 points 1 comments -> [Deep Musk](https://deepmusk.com/)<!-- HN:43519719:end -->
+* [43519719](https://news.social-protocols.org/stats?id=43519719) #9 9 points 1 comments -> [Deep Musk](https://deepmusk.com/)<!-- HN:43519719:end --><!-- HN:43520302:start -->
+* [43520302](https://news.social-protocols.org/stats?id=43520302) #30 7 points 0 comments -> [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)<!-- HN:43520302:end -->
