@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43525937](https://news.social-protocols.org/stats?id=43525937) #2 10 points 2 comments -> [The First LLM](https://thundergolfer.com/blog/the-first-llm)<!-- HN:43525937:end --><!-- HN:43526270:start -->
 * [43526270](https://news.social-protocols.org/stats?id=43526270) #23 4 points 0 comments -> [Satanist leader's attempt to hold Black Mass in Kansas Statehouse sparks chaos](https://www.cnn.com/2025/03/29/us/kansas-satanist-protest-arrests-hnk/index.html)<!-- HN:43526270:end --><!-- HN:43524385:start -->
 * [43524385](https://news.social-protocols.org/stats?id=43524385) #23 12 points 3 comments -> [Lehmer's Continued Fraction Factorization Algorithm](https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization)<!-- HN:43524385:end -->
+#### **Monday, March 31, 2025**
+<!-- HN:43529362:start -->
+* [43529362](https://news.social-protocols.org/stats?id=43529362) #3 10 points 8 comments -> [Executive order phases out U.S. Treasury paper checks](https://bankingjournal.aba.com/2025/03/executive-order-phases-out-u-s-treasury-paper-checks/)<!-- HN:43529362:end -->
