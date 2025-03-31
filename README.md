@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 31, 2025**
 <!-- HN:43529362:start -->
 * [43529362](https://news.social-protocols.org/stats?id=43529362) #3 10 points 8 comments -> [Executive order phases out U.S. Treasury paper checks](https://bankingjournal.aba.com/2025/03/executive-order-phases-out-u-s-treasury-paper-checks/)<!-- HN:43529362:end --><!-- HN:43528496:start -->
-* [43528496](https://news.social-protocols.org/stats?id=43528496) #19 42 points 41 comments -> [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)<!-- HN:43528496:end -->
+* [43528496](https://news.social-protocols.org/stats?id=43528496) #19 42 points 41 comments -> [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)<!-- HN:43528496:end --><!-- HN:43530751:start -->
+* [43530751](https://news.social-protocols.org/stats?id=43530751) #24 41 points 40 comments -> [Fiber optic drones are changing combat operations](https://www.youtube.com/watch?v=JcB4dR_8xPo)<!-- HN:43530751:end -->
