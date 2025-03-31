@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, March 24, 2025**
-<!-- HN:43457428:start -->
-* [43457428](https://news.social-protocols.org/stats?id=43457428) #21 5 points 0 comments -> ["The bargain we are being asked to ratify" – AI as technological bribery](https://librarianshipwreck.wordpress.com/2025/03/02/the-bargain-we-are-being-asked-to-ratify-ai-as-technological-bribery/)<!-- HN:43457428:end --><!-- HN:43458359:start -->
-* [43458359](https://news.social-protocols.org/stats?id=43458359) #1 6 points 0 comments -> [Show HN: I build a Free and Open-source tool for Macs:)](https://github.com/caioricciuti/cr-mac-helper)<!-- HN:43458359:end --><!-- HN:43458633:start -->
-* [43458633](https://news.social-protocols.org/stats?id=43458633) #26 23 points 13 comments -> [Rust Additions for GCC 15 Bring Support for If-Let Statements](https://www.phoronix.com/news/GCC-15-Rust-if-let)<!-- HN:43458633:end --><!-- HN:43458758:start -->
-* [43458758](https://news.social-protocols.org/stats?id=43458758) #18 63 points 21 comments -> [Tesla sales drop 35% in San Diego County](https://fox5sandiego.com/news/business/tesla-sales-drop-35-in-san-diego-county/)<!-- HN:43458758:end --><!-- HN:43459859:start -->
-* [43459859](https://news.social-protocols.org/stats?id=43459859) #29 5 points 0 comments -> [Met Police gets first permanent facial recognition cameras in London](https://www.lbc.co.uk/crime/facial-recognition-camera-london-permanent-met-police/)<!-- HN:43459859:end --><!-- HN:43427595:start -->
-* [43427595](https://news.social-protocols.org/stats?id=43427595) #16 26 points 4 comments -> [Taming Servers for Fun and Profit](https://blog.railway.com/p/data-center-build-part-two)<!-- HN:43427595:end --><!-- HN:43459990:start -->
-* [43459990](https://news.social-protocols.org/stats?id=43459990) #7 25 points 40 comments -> [The Tranhumanist Cult Test](https://ewanmorrison.substack.com/p/the-tranhumanist-cult-test)<!-- HN:43459990:end --><!-- HN:43462463:start -->
-* [43462463](https://news.social-protocols.org/stats?id=43462463) #16 4 points 0 comments -> [Greenlanders overwhelmingly oppose becoming part of United States, poll shows](https://www.reuters.com/world/poll-shows-85-greenlanders-do-not-want-be-part-us-2025-01-29/)<!-- HN:43462463:end --><!-- HN:43464193:start -->
-* [43464193](https://news.social-protocols.org/stats?id=43464193) #20 5 points 0 comments -> [Delete Your DNA from 23andMe](https://www.washingtonpost.com/technology/2025/03/24/23andme-dna-privacy-delete/)<!-- HN:43464193:end --><!-- HN:43465097:start -->
-* [43465097](https://news.social-protocols.org/stats?id=43465097) #27 12 points 4 comments -> [Court rules family can sue school for giving COVID-19 shot without consent](https://www.bizpacreview.com/2025/03/24/court-rules-north-carolina-family-can-sue-for-giving-14-yr-old-son-covid-shot-without-parental-consent-1531307/)<!-- HN:43465097:end --><!-- HN:43465170:start -->
-* [43465170](https://news.social-protocols.org/stats?id=43465170) #24 5 points 0 comments -> [The rage bait economy is going strong [video]](https://www.youtube.com/watch?v=Ah6AB33JUgU)<!-- HN:43465170:end --><!-- HN:43465333:start -->
-* [43465333](https://news.social-protocols.org/stats?id=43465333) #16 32 points 16 comments -> [OpenAI Says It's "Over" If It Can't Steal All Your Copyrighted Work](https://futurism.com/openai-over-copyrighted-work)<!-- HN:43465333:end --><!-- HN:43464299:start -->
-* [43464299](https://news.social-protocols.org/stats?id=43464299) #18 30 points 6 comments -> [Building an idempotent email API](https://riverqueue.com/blog/idempotent-email-api-with-river)<!-- HN:43464299:end --><!-- HN:43448288:start -->
-* [43448288](https://news.social-protocols.org/stats?id=43448288) #14 10 points 3 comments -> [New Jailbreak Technique Uses Fictional World to Manipulate AI](https://www.securityweek.com/new-jailbreak-technique-uses-fictional-world-to-manipulate-ai/)<!-- HN:43448288:end -->
 #### **Tuesday, March 25, 2025**
 <!-- HN:43466698:start -->
 * [43466698](https://news.social-protocols.org/stats?id=43466698) #30 20 points 5 comments -> [Surrendering to Authoritarianism](https://chrishedges.substack.com/p/surrendering-to-authoritarianism)<!-- HN:43466698:end --><!-- HN:43466983:start -->
