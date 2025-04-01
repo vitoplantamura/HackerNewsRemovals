@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43498465](https://news.social-protocols.org/stats?id=43498465) #20 5 points 2 comments -> [A Man Who Went to Fake Prison Also Went to Real Jail](https://nymag.com/intelligencer/article/william-banks-comedian-jail.html)<!-- HN:43498465:end --><!-- HN:43537808:start -->
 * [43537808](https://news.social-protocols.org/stats?id=43537808) #16 71 points 55 comments -> [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)<!-- HN:43537808:end -->
 #### **Tuesday, April 1, 2025**<!-- HN:43541428:start -->
-* [43541428](https://news.social-protocols.org/stats?id=43541428) #4 5 points 1 comments -> [Addressing Burnout – Libera Chat](https://libera.chat/news/burnout)<!-- HN:43541428:end -->
+* [43541428](https://news.social-protocols.org/stats?id=43541428) #4 5 points 1 comments -> [Addressing Burnout – Libera Chat](https://libera.chat/news/burnout)<!-- HN:43541428:end --><!-- HN:43541926:start -->
+* [43541926](https://news.social-protocols.org/stats?id=43541926) #26 4 points 1 comments -> [Tips for Travelers Entering the U.S. Now: Check Your Visa, Turn Off Your Phone](https://www.nytimes.com/2025/03/31/travel/us-travel-border-customs-visa-trump.html)<!-- HN:43541926:end -->
