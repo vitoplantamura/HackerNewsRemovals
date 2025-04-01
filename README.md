@@ -139,5 +139,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43498465](https://news.social-protocols.org/stats?id=43498465) #20 5 points 2 comments -> [A Man Who Went to Fake Prison Also Went to Real Jail](https://nymag.com/intelligencer/article/william-banks-comedian-jail.html)<!-- HN:43498465:end --><!-- HN:43537808:start -->
 * [43537808](https://news.social-protocols.org/stats?id=43537808) #16 71 points 55 comments -> [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)<!-- HN:43537808:end -->
 #### **Tuesday, April 1, 2025**
-<!-- HN:43541431:start -->
-* [43541431](https://news.social-protocols.org/stats?id=43541431) #22 10 points 1 comments -> [Germany Prepares for War](https://www.bbc.com/news/articles/cdjyjlkewr2o)<!-- HN:43541431:end -->
