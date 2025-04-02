@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43520005](https://news.social-protocols.org/stats?id=43520005) #26 24 points 40 comments -> [Chess324 – A Chess Variant to Reduce Draws](https://www.chessprogramming.org/Chess324)<!-- HN:43520005:end -->
 #### **Wednesday, April 2, 2025**
 <!-- HN:43533104:start -->
-* [43533104](https://news.social-protocols.org/stats?id=43533104) #20 8 points 2 comments -> [The March of the Vegetables Parade](http://www.marchofthevegetables.org)<!-- HN:43533104:end -->
+* [43533104](https://news.social-protocols.org/stats?id=43533104) #20 8 points 2 comments -> [The March of the Vegetables Parade](http://www.marchofthevegetables.org)<!-- HN:43533104:end --><!-- HN:43552884:start -->
+* [43552884](https://news.social-protocols.org/stats?id=43552884) #15 -> [Show HN: Fuck Lightroom and Fuck Adobe: How Adobe Is Systematically Predatory](https://fucklightroom.com/blog)<!-- HN:43552884:end -->
