@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43548454](https://news.social-protocols.org/stats?id=43548454) #10 5 points 1 comments -> [Show HN: Switch 5 less apps a day using this iPhone app](https://medium.com/@saipremtelkar/switch-5-less-apps-a-day-using-this-iphone-app-a0b312433404)<!-- HN:43548454:end --><!-- HN:43516824:start -->
 * [43516824](https://news.social-protocols.org/stats?id=43516824) #15 5 points 0 comments -> [Exploring Anagram Search in PostgreSQL with Recursive CTEs](https://medium.com/@thibaut.frain/exploring-anagram-search-in-postgresql-with-recursive-ctes-7b0c42c59d28)<!-- HN:43516824:end --><!-- HN:43520005:start -->
 * [43520005](https://news.social-protocols.org/stats?id=43520005) #26 24 points 40 comments -> [Chess324 – A Chess Variant to Reduce Draws](https://www.chessprogramming.org/Chess324)<!-- HN:43520005:end -->
+#### **Wednesday, April 2, 2025**
+<!-- HN:43533104:start -->
+* [43533104](https://news.social-protocols.org/stats?id=43533104) #20 8 points 2 comments -> [The March of the Vegetables Parade](http://www.marchofthevegetables.org)<!-- HN:43533104:end -->
