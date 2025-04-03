@@ -140,3 +140,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43558352](https://news.social-protocols.org/stats?id=43558352) #16 34 points 21 comments -> [Bare: Run JavaScript Everywhere](https://pears.com/news/introducing-bare-actually-run-javascript-everywhere/)<!-- HN:43558352:end --><!-- HN:43560751:start -->
 * [43560751](https://news.social-protocols.org/stats?id=43560751) #9 14 points 22 comments -> [It's Unreal Just How Awful 'Real ID' Is (2020)](https://www.zocalopublicsquare.org/real-id-is-awful/)<!-- HN:43560751:end --><!-- HN:43562005:start -->
 * [43562005](https://news.social-protocols.org/stats?id=43562005) #24 38 points 25 comments -> [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)<!-- HN:43562005:end -->
+#### **Thursday, April 3, 2025**
+<!-- HN:43563608:start -->
+* [43563608](https://news.social-protocols.org/stats?id=43563608) #28 13 points 4 comments -> [Australian beef singled out in latest USA tariffs](https://www.abc.net.au/news/2025-04-03/australian-beef-singled-out-in-donald-trumps-liberation-tariffs/105120998)<!-- HN:43563608:end -->
