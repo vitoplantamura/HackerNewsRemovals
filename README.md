@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, April 3, 2025**
 <!-- HN:43563608:start -->
 * [43563608](https://news.social-protocols.org/stats?id=43563608) #28 13 points 4 comments -> [Australian beef singled out in latest USA tariffs](https://www.abc.net.au/news/2025-04-03/australian-beef-singled-out-in-donald-trumps-liberation-tariffs/105120998)<!-- HN:43563608:end --><!-- HN:43563389:start -->
-* [43563389](https://news.social-protocols.org/stats?id=43563389) #27 6 points 3 comments -> [Show HN: OpenTariffs – Tariff Percentages by Country](https://opentariffs.fyi/)<!-- HN:43563389:end -->
+* [43563389](https://news.social-protocols.org/stats?id=43563389) #27 6 points 3 comments -> [Show HN: OpenTariffs – Tariff Percentages by Country](https://opentariffs.fyi/)<!-- HN:43563389:end --><!-- HN:43527933:start -->
+* [43527933](https://news.social-protocols.org/stats?id=43527933) #23 8 points 0 comments -> [The Carbon Bankroll 2.0 [pdf] (2024)](https://static1.squarespace.com/static/651da9cd0ad7706a768d14db/t/66024d827623d72ef543b545/1711426949213/The+Carbon+Bankroll+2.0+-+From+Awareness+to+Action+%28final%29.pdf)<!-- HN:43527933:end -->
