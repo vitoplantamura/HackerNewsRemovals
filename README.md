@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43562005](https://news.social-protocols.org/stats?id=43562005) #24 38 points 25 comments -> [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)<!-- HN:43562005:end -->
 #### **Thursday, April 3, 2025**
 <!-- HN:43563608:start -->
-* [43563608](https://news.social-protocols.org/stats?id=43563608) #28 13 points 4 comments -> [Australian beef singled out in latest USA tariffs](https://www.abc.net.au/news/2025-04-03/australian-beef-singled-out-in-donald-trumps-liberation-tariffs/105120998)<!-- HN:43563608:end -->
+* [43563608](https://news.social-protocols.org/stats?id=43563608) #28 13 points 4 comments -> [Australian beef singled out in latest USA tariffs](https://www.abc.net.au/news/2025-04-03/australian-beef-singled-out-in-donald-trumps-liberation-tariffs/105120998)<!-- HN:43563608:end --><!-- HN:43563389:start -->
+* [43563389](https://news.social-protocols.org/stats?id=43563389) #27 6 points 3 comments -> [Show HN: OpenTariffs – Tariff Percentages by Country](https://opentariffs.fyi/)<!-- HN:43563389:end -->
