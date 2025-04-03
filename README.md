@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, March 27, 2025**<!-- HN:43493332:start -->
-* [43493332](https://news.social-protocols.org/stats?id=43493332) #20 3 points 0 comments -> [Junior Devs: Avoid These Pitfalls with LLMs](https://spin.atomicobject.com/junior-dev-pitfalls-with-llm/)<!-- HN:43493332:end --><!-- HN:43494870:start -->
-* [43494870](https://news.social-protocols.org/stats?id=43494870) #20 3 points 0 comments -> [eBay backs WunderGraph to build open source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/)<!-- HN:43494870:end --><!-- HN:43495087:start -->
-* [43495087](https://news.social-protocols.org/stats?id=43495087) #21 19 points 30 comments -> [People say they prefer stories written by humans over AI, study says otherwise](https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347)<!-- HN:43495087:end --><!-- HN:43496474:start -->
-* [43496474](https://news.social-protocols.org/stats?id=43496474) #14 6 points 1 comments -> [Ai2 Paper Finder](https://paperfinder.allen.ai/chat)<!-- HN:43496474:end --><!-- HN:43496517:start -->
-* [43496517](https://news.social-protocols.org/stats?id=43496517) #2 14 points 0 comments -> [The Japanese Writing System Explained: Hiragana, Katakana and Kanji](https://www.kanjimaster.ai/blog/japanese-writing-system-hiragana-katakana-kanji)<!-- HN:43496517:end --><!-- HN:43497150:start -->
-* [43497150](https://news.social-protocols.org/stats?id=43497150) #18 95 points 56 comments -> [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)<!-- HN:43497150:end --><!-- HN:43498176:start -->
-* [43498176](https://news.social-protocols.org/stats?id=43498176) #25 8 points 2 comments -> [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)<!-- HN:43498176:end -->
 #### **Friday, March 28, 2025**<!-- HN:43503207:start -->
 * [43503207](https://news.social-protocols.org/stats?id=43503207) #19 17 points 0 comments -> [Postgres Extension Tutorial](https://github.com/IshaanAdarsh/Postgres-extension-tutorial/blob/main/SGML/intro_and_toc.md)<!-- HN:43503207:end --><!-- HN:43503004:start -->
 * [43503004](https://news.social-protocols.org/stats?id=43503004) #14 47 points 11 comments -> [On Tyranny [book]](https://timothysnyder.org/on-tyranny)<!-- HN:43503004:end --><!-- HN:43499045:start -->
