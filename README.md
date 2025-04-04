@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43573774](https://news.social-protocols.org/stats?id=43573774) #19 12 points 1 comments -> [US tariff protection decimated American shipbuilding; could do same to cleanTech](https://grist.org/economics/how-trumps-liberation-day-tariffs-could-kill-american-innovation/)<!-- HN:43573774:end -->
 #### **Friday, April 4, 2025**
 <!-- HN:43578310:start -->
-* [43578310](https://news.social-protocols.org/stats?id=43578310) #17 77 points 34 comments -> [Anduril Industries banned from recruiting on NixOS forums](https://discourse.nixos.org/t/anduril-industries-electromagnetic-warfare-team-is-hiring/62569)<!-- HN:43578310:end -->
+* [43578310](https://news.social-protocols.org/stats?id=43578310) #17 77 points 34 comments -> [Anduril Industries banned from recruiting on NixOS forums](https://discourse.nixos.org/t/anduril-industries-electromagnetic-warfare-team-is-hiring/62569)<!-- HN:43578310:end --><!-- HN:43579197:start -->
+* [43579197](https://news.social-protocols.org/stats?id=43579197) #11 16 points 1 comments -> [Apple killed Asahi Linux with M4 update](https://social.treehouse.systems/@sven/114278224116678776)<!-- HN:43579197:end -->
