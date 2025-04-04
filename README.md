@@ -136,3 +136,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43569636](https://news.social-protocols.org/stats?id=43569636) #19 10 points 0 comments -> [Decapitation Strike](https://snyder.substack.com/p/decapitation-strike)<!-- HN:43569636:end --><!-- HN:43570859:start -->
 * [43570859](https://news.social-protocols.org/stats?id=43570859) #7 5 points 0 comments -> [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me)<!-- HN:43570859:end --><!-- HN:43573774:start -->
 * [43573774](https://news.social-protocols.org/stats?id=43573774) #19 12 points 1 comments -> [US tariff protection decimated American shipbuilding; could do same to cleanTech](https://grist.org/economics/how-trumps-liberation-day-tariffs-could-kill-american-innovation/)<!-- HN:43573774:end -->
+#### **Friday, April 4, 2025**
+<!-- HN:43578310:start -->
+* [43578310](https://news.social-protocols.org/stats?id=43578310) #17 77 points 34 comments -> [Anduril Industries banned from recruiting on NixOS forums](https://discourse.nixos.org/t/anduril-industries-electromagnetic-warfare-team-is-hiring/62569)<!-- HN:43578310:end -->
