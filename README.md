@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 5, 2025**
 <!-- HN:43590616:start -->
 * [43590616](https://news.social-protocols.org/stats?id=43590616) #23 15 points 2 comments -> [Fox News Removes Stock Ticker for First Time in 28 Years](https://blogaura.ai/view/qm751lrwuzn)<!-- HN:43590616:end --><!-- HN:43590649:start -->
-* [43590649](https://news.social-protocols.org/stats?id=43590649) #3 7 points 1 comments -> [Message stuck in Kafka queue for months delivered, writes bestselling novel](https://nareal.substack.com/p/message-stuck-in-kafka-queue-for)<!-- HN:43590649:end -->
+* [43590649](https://news.social-protocols.org/stats?id=43590649) #3 7 points 1 comments -> [Message stuck in Kafka queue for months delivered, writes bestselling novel](https://nareal.substack.com/p/message-stuck-in-kafka-queue-for)<!-- HN:43590649:end --><!-- HN:43590421:start -->
+* [43590421](https://news.social-protocols.org/stats?id=43590421) #15 165 points 83 comments -> [Trump's Tariff Formula Makes No Economic Sense. It's Also Based on an Error](https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/)<!-- HN:43590421:end -->
