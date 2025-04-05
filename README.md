@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43587577](https://news.social-protocols.org/stats?id=43587577) #14 3 points 1 comments -> [Everyone is pulling ML models from HuggingFace, here's what can go wrong](https://repello.ai/blog/securing-machine-learning-models-a-comprehensive-guide-to-model-scanning)<!-- HN:43587577:end -->
 #### **Saturday, April 5, 2025**
 <!-- HN:43590616:start -->
-* [43590616](https://news.social-protocols.org/stats?id=43590616) #23 15 points 2 comments -> [Fox News Removes Stock Ticker for First Time in 28 Years](https://blogaura.ai/view/qm751lrwuzn)<!-- HN:43590616:end -->
+* [43590616](https://news.social-protocols.org/stats?id=43590616) #23 15 points 2 comments -> [Fox News Removes Stock Ticker for First Time in 28 Years](https://blogaura.ai/view/qm751lrwuzn)<!-- HN:43590616:end --><!-- HN:43590649:start -->
+* [43590649](https://news.social-protocols.org/stats?id=43590649) #3 7 points 1 comments -> [Message stuck in Kafka queue for months delivered, writes bestselling novel](https://nareal.substack.com/p/message-stuck-in-kafka-queue-for)<!-- HN:43590649:end -->
