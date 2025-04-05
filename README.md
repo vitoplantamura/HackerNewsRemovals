@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43586811](https://news.social-protocols.org/stats?id=43586811) #7 17 points 3 comments -> [The Spanish electricity market registers negative prices](https://aleasoft.com/negative-prices-spanish-electricity-market/)<!-- HN:43586811:end --><!-- HN:43587611:start -->
 * [43587611](https://news.social-protocols.org/stats?id=43587611) #18 37 points 40 comments -> [Wall Street Blew It](https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/)<!-- HN:43587611:end --><!-- HN:43587577:start -->
 * [43587577](https://news.social-protocols.org/stats?id=43587577) #14 3 points 1 comments -> [Everyone is pulling ML models from HuggingFace, here's what can go wrong](https://repello.ai/blog/securing-machine-learning-models-a-comprehensive-guide-to-model-scanning)<!-- HN:43587577:end -->
+#### **Saturday, April 5, 2025**
+<!-- HN:43590616:start -->
+* [43590616](https://news.social-protocols.org/stats?id=43590616) #23 15 points 2 comments -> [Fox News Removes Stock Ticker for First Time in 28 Years](https://blogaura.ai/view/qm751lrwuzn)<!-- HN:43590616:end -->
