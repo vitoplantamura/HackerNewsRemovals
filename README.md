@@ -149,3 +149,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43595656](https://news.social-protocols.org/stats?id=43595656) #15 6 points 4 comments -> [A Hash160 Collision](https://lbc.cryptoguru.org/man/theory)<!-- HN:43595656:end --><!-- HN:43556029:start -->
 * [43556029](https://news.social-protocols.org/stats?id=43556029) #18 9 points 0 comments -> [Practical Binary Analysis](https://practicalbinaryanalysis.com)<!-- HN:43556029:end --><!-- HN:43597343:start -->
 * [43597343](https://news.social-protocols.org/stats?id=43597343) #21 15 points 0 comments -> [Christine Lagarde wants EU to ditch Visa, Mastercard for own platform](https://www.businesstoday.in/world/us/story/march-to-independence-christine-lagarde-wants-eu-to-ditch-visa-mastercard-for-own-platform-470816-2025-04-05)<!-- HN:43597343:end -->
+#### **Sunday, April 6, 2025**
+<!-- HN:43597836:start -->
+* [43597836](https://news.social-protocols.org/stats?id=43597836) #2 10 points 0 comments -> [Silence Is Collaboration: Academics Must Speak Out Against Fascism](https://lithub.com/silence-is-collaboration-academics-must-speak-out-against-fascism/)<!-- HN:43597836:end -->
