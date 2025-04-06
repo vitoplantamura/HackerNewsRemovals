@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, March 30, 2025**
-<!-- HN:43519719:start -->
-* [43519719](https://news.social-protocols.org/stats?id=43519719) #9 9 points 1 comments -> [Deep Musk](https://deepmusk.com/)<!-- HN:43519719:end --><!-- HN:43520302:start -->
-* [43520302](https://news.social-protocols.org/stats?id=43520302) #30 7 points 0 comments -> [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)<!-- HN:43520302:end --><!-- HN:43521521:start -->
-* [43521521](https://news.social-protocols.org/stats?id=43521521) #11 2 points 0 comments -> [Show HN: Online tool to show white fullscreen page](https://www.mywhitescreen.com/)<!-- HN:43521521:end --><!-- HN:43523165:start -->
-* [43523165](https://news.social-protocols.org/stats?id=43523165) #24 6 points 0 comments -> [Hegseth's Wife Tagged Along for Top Secret Military Meetings](https://www.thedailybeast.com/pete-hegseths-wife-jennifer-tags-along-for-top-secret-military-meetings/)<!-- HN:43523165:end --><!-- HN:43523873:start -->
-* [43523873](https://news.social-protocols.org/stats?id=43523873) #7 8 points 5 comments -> [Show HN: LinkedIn's Dead. Developers Are Moving to Grids](https://10000resumes.com)<!-- HN:43523873:end --><!-- HN:43498071:start -->
-* [43498071](https://news.social-protocols.org/stats?id=43498071) #12 56 points 17 comments -> [Rust Adopting Ferrocene Language Specification](https://lwn.net/Articles/1015636/)<!-- HN:43498071:end --><!-- HN:43499319:start -->
-* [43499319](https://news.social-protocols.org/stats?id=43499319) #13 62 points 7 comments -> [Charlie Brown and Franz Stigler incident (1943)](https://en.wikipedia.org/wiki/Charlie_Brown_and_Franz_Stigler_incident)<!-- HN:43499319:end --><!-- HN:43525937:start -->
-* [43525937](https://news.social-protocols.org/stats?id=43525937) #2 10 points 2 comments -> [The First LLM](https://thundergolfer.com/blog/the-first-llm)<!-- HN:43525937:end --><!-- HN:43526270:start -->
-* [43526270](https://news.social-protocols.org/stats?id=43526270) #23 4 points 0 comments -> [Satanist leader's attempt to hold Black Mass in Kansas Statehouse sparks chaos](https://www.cnn.com/2025/03/29/us/kansas-satanist-protest-arrests-hnk/index.html)<!-- HN:43526270:end --><!-- HN:43524385:start -->
-* [43524385](https://news.social-protocols.org/stats?id=43524385) #23 12 points 3 comments -> [Lehmer's Continued Fraction Factorization Algorithm](https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization)<!-- HN:43524385:end -->
 #### **Monday, March 31, 2025**
 <!-- HN:43529362:start -->
 * [43529362](https://news.social-protocols.org/stats?id=43529362) #3 10 points 8 comments -> [Executive order phases out U.S. Treasury paper checks](https://bankingjournal.aba.com/2025/03/executive-order-phases-out-u-s-treasury-paper-checks/)<!-- HN:43529362:end --><!-- HN:43528496:start -->
