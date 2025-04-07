@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, March 31, 2025**
-<!-- HN:43529362:start -->
-* [43529362](https://news.social-protocols.org/stats?id=43529362) #3 10 points 8 comments -> [Executive order phases out U.S. Treasury paper checks](https://bankingjournal.aba.com/2025/03/executive-order-phases-out-u-s-treasury-paper-checks/)<!-- HN:43529362:end --><!-- HN:43528496:start -->
-* [43528496](https://news.social-protocols.org/stats?id=43528496) #19 42 points 41 comments -> [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)<!-- HN:43528496:end --><!-- HN:43530751:start -->
-* [43530751](https://news.social-protocols.org/stats?id=43530751) #24 41 points 40 comments -> [Fiber optic drones are changing combat operations](https://www.youtube.com/watch?v=JcB4dR_8xPo)<!-- HN:43530751:end --><!-- HN:43531494:start -->
-* [43531494](https://news.social-protocols.org/stats?id=43531494) #5 16 points 5 comments -> [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)<!-- HN:43531494:end --><!-- HN:43532939:start -->
-* [43532939](https://news.social-protocols.org/stats?id=43532939) #1 11 points 5 comments -> [GPT-4o draws itself as a consistent type of guy](https://newsletter.danielpaleka.com/p/gpt-4o-draws-itself-as-a-consistent)<!-- HN:43532939:end --><!-- HN:43532736:start -->
-* [43532736](https://news.social-protocols.org/stats?id=43532736) #14 3 points 1 comments -> [Custom AI Chatbot Development Services: Restrictions and Opportunities](https://belitsoft.com/chatbot-development-services/custom-ai)<!-- HN:43532736:end --><!-- HN:43533634:start -->
-* [43533634](https://news.social-protocols.org/stats?id=43533634) #14 11 points 4 comments -> [Net migration into the UK has tripled post-Brexit](https://www.bigissue.com/opinion/brexit-net-migration-rishi-sunak-uk-immigration/)<!-- HN:43533634:end --><!-- HN:43535311:start -->
-* [43535311](https://news.social-protocols.org/stats?id=43535311) #30 7 points 0 comments -> [Trump's USAID Cuts Hobble Earthquake Response in Myanmar](https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-usaid-cuts.html)<!-- HN:43535311:end --><!-- HN:43525246:start -->
-* [43525246](https://news.social-protocols.org/stats?id=43525246) #19 17 points 10 comments -> [Tiniest Flying Robot (Wingspan &lt;1cm) Soars Thanks to Magnets](https://spectrum.ieee.org/flying-robot-2671447539)<!-- HN:43525246:end --><!-- HN:43537580:start -->
-* [43537580](https://news.social-protocols.org/stats?id=43537580) #6 -> [ICE deporting legal Permanent Residents, Refugees, and immigrants](https://www.rochesterfirst.com/rochester/ice-deporting-bhutanese-refugees/)<!-- HN:43537580:end --><!-- HN:43537624:start -->
-* [43537624](https://news.social-protocols.org/stats?id=43537624) #20 2 points 0 comments -> [Chomsky: A "Study in Total Depravity"](http://bactra.org/chomsky.html)<!-- HN:43537624:end --><!-- HN:43498465:start -->
-* [43498465](https://news.social-protocols.org/stats?id=43498465) #20 5 points 2 comments -> [A Man Who Went to Fake Prison Also Went to Real Jail](https://nymag.com/intelligencer/article/william-banks-comedian-jail.html)<!-- HN:43498465:end --><!-- HN:43537808:start -->
-* [43537808](https://news.social-protocols.org/stats?id=43537808) #16 71 points 55 comments -> [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)<!-- HN:43537808:end -->
 #### **Tuesday, April 1, 2025**<!-- HN:43541428:start -->
 * [43541428](https://news.social-protocols.org/stats?id=43541428) #4 5 points 1 comments -> [Addressing Burnout – Libera Chat](https://libera.chat/news/burnout)<!-- HN:43541428:end --><!-- HN:43541926:start -->
 * [43541926](https://news.social-protocols.org/stats?id=43541926) #26 4 points 1 comments -> [Tips for Travelers Entering the U.S. Now: Check Your Visa, Turn Off Your Phone](https://www.nytimes.com/2025/03/31/travel/us-travel-border-customs-visa-trump.html)<!-- HN:43541926:end --><!-- HN:43542151:start -->
