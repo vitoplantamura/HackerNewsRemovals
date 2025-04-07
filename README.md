@@ -137,3 +137,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43602851](https://news.social-protocols.org/stats?id=43602851) #4 19 points 1 comments -> [We're Committing Cultural Suicide](https://coreyrobin.com/2025/04/04/were-committing-cultural-suicide/)<!-- HN:43602851:end --><!-- HN:43602470:start -->
 * [43602470](https://news.social-protocols.org/stats?id=43602470) #22 5 points 3 comments -> [How to Think About Raising Venture Capital for Your Startup](https://sillymoney.com/p/how-to-think-about-raising-venture-capital-for-your-startup)<!-- HN:43602470:end --><!-- HN:43603333:start -->
 * [43603333](https://news.social-protocols.org/stats?id=43603333) #27 35 points 40 comments -> [SF Mayor Lurie to tech CEOs: 'How can we get you back?'](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)<!-- HN:43603333:end -->
+#### **Monday, April 7, 2025**
+<!-- HN:43606610:start -->
+* [43606610](https://news.social-protocols.org/stats?id=43606610) #23 25 points 26 comments -> [Apple's mouse is so bad Tim Cook uses another brand at work](https://glassalmanac.com/apples-mouse-is-so-bad-tim-cook-uses-another-brand-at-work/)<!-- HN:43606610:end -->
