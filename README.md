@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 7, 2025**
 <!-- HN:43606610:start -->
 * [43606610](https://news.social-protocols.org/stats?id=43606610) #23 25 points 26 comments -> [Apple's mouse is so bad Tim Cook uses another brand at work](https://glassalmanac.com/apples-mouse-is-so-bad-tim-cook-uses-another-brand-at-work/)<!-- HN:43606610:end --><!-- HN:43607191:start -->
-* [43607191](https://news.social-protocols.org/stats?id=43607191) #23 5 points 0 comments -> [Goldman Sachs forecast a recession if most of April 9 tariffs take effect](https://twitter.com/refsrc/status/1909078895875531074)<!-- HN:43607191:end -->
+* [43607191](https://news.social-protocols.org/stats?id=43607191) #23 5 points 0 comments -> [Goldman Sachs forecast a recession if most of April 9 tariffs take effect](https://twitter.com/refsrc/status/1909078895875531074)<!-- HN:43607191:end --><!-- HN:43607906:start -->
+* [43607906](https://news.social-protocols.org/stats?id=43607906) #16 10 points 6 comments -> [PHP isn't dead. Laravel is just bloated. Here's what I made instead](https://github.com/jeremie5/dataphyre)<!-- HN:43607906:end -->
