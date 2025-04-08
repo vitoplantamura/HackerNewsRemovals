@@ -150,4 +150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43616337](https://news.social-protocols.org/stats?id=43616337) #30 21 points 8 comments -> ["Final Usonian Home" by Frank Lloyd Wright Completed in Ohio](https://www.dezeen.com/2025/03/20/final-usonian-home-riverrock-frank-lloyd-wright-ohio-completed/?_hsenc=p2ANqtz--nulJz0XJo1E-jQIojcqaZmWjd0eXJ-oC35zKHYZb1UL94JLh6t_QI1k9lehp4fxwHKjPjkNeM-iQJihX705oJ-Maqyw&_hsmi=355439130)<!-- HN:43616337:end -->
 #### **Tuesday, April 8, 2025**
 <!-- HN:43617237:start -->
-* [43617237](https://news.social-protocols.org/stats?id=43617237) #15 21 points 9 comments -> [Silicon Valley 'nepo baby' publishes scathing first novel about growing up rich](https://sfstandard.com/2025/04/07/jim-breyer-son-daniel-breyer-novel-smokebirds/)<!-- HN:43617237:end -->
+* [43617237](https://news.social-protocols.org/stats?id=43617237) #15 21 points 9 comments -> [Silicon Valley 'nepo baby' publishes scathing first novel about growing up rich](https://sfstandard.com/2025/04/07/jim-breyer-son-daniel-breyer-novel-smokebirds/)<!-- HN:43617237:end --><!-- HN:43617206:start -->
+* [43617206](https://news.social-protocols.org/stats?id=43617206) #22 -> [The day I taught AI to think like a Senior Developer](https://nmn.gl/blog/ai-understand-senior-developer)<!-- HN:43617206:end -->
