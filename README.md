@@ -151,4 +151,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 8, 2025**
 <!-- HN:43617237:start -->
 * [43617237](https://news.social-protocols.org/stats?id=43617237) #15 21 points 9 comments -> [Silicon Valley 'nepo baby' publishes scathing first novel about growing up rich](https://sfstandard.com/2025/04/07/jim-breyer-son-daniel-breyer-novel-smokebirds/)<!-- HN:43617237:end --><!-- HN:43617206:start -->
-* [43617206](https://news.social-protocols.org/stats?id=43617206) #22 -> [The day I taught AI to think like a Senior Developer](https://nmn.gl/blog/ai-understand-senior-developer)<!-- HN:43617206:end -->
+* [43617206](https://news.social-protocols.org/stats?id=43617206) #22 -> [The day I taught AI to think like a Senior Developer](https://nmn.gl/blog/ai-understand-senior-developer)<!-- HN:43617206:end --><!-- HN:43617621:start -->
+* [43617621](https://news.social-protocols.org/stats?id=43617621) #2 8 points 0 comments -> [Peter Thiel: Democrats not elite for going to Howard](https://offthefrontpage.com/peter-thiel-says-kamala-harris-not-elite-for-going-to-howard-not-harvard/)<!-- HN:43617621:end -->
