@@ -173,4 +173,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43627075](https://news.social-protocols.org/stats?id=43627075) #18 16 points 2 comments -> [Trump, Doge Are Trying to Get Around Privacy Laws to Gather Your Personal Info](https://www.rollingstone.com/politics/politics-features/trump-musk-doge-privacy-personal-info-data-social-security-1235312853/)<!-- HN:43627075:end -->
 #### **Wednesday, April 9, 2025**
 <!-- HN:43627219:start -->
-* [43627219](https://news.social-protocols.org/stats?id=43627219) #25 14 points 2 comments -> [Fictitious Name Permit](https://www.mbc.ca.gov/Licensing/Fictitious-Name-Permit/)<!-- HN:43627219:end -->
+* [43627219](https://news.social-protocols.org/stats?id=43627219) #25 14 points 2 comments -> [Fictitious Name Permit](https://www.mbc.ca.gov/Licensing/Fictitious-Name-Permit/)<!-- HN:43627219:end --><!-- HN:43594311:start -->
+* [43594311](https://news.social-protocols.org/stats?id=43594311) #9 18 points 1 comments -> [AI hasn't killed radiology, but it is changing it](https://www.washingtonpost.com/health/2025/04/05/ai-machine-learning-radiology-software/)<!-- HN:43594311:end -->
