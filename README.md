@@ -149,4 +149,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 9, 2025**
 <!-- HN:43627219:start -->
 * [43627219](https://news.social-protocols.org/stats?id=43627219) #25 14 points 2 comments -> [Fictitious Name Permit](https://www.mbc.ca.gov/Licensing/Fictitious-Name-Permit/)<!-- HN:43627219:end --><!-- HN:43594311:start -->
-* [43594311](https://news.social-protocols.org/stats?id=43594311) #9 18 points 1 comments -> [AI hasn't killed radiology, but it is changing it](https://www.washingtonpost.com/health/2025/04/05/ai-machine-learning-radiology-software/)<!-- HN:43594311:end -->
+* [43594311](https://news.social-protocols.org/stats?id=43594311) #9 18 points 1 comments -> [AI hasn't killed radiology, but it is changing it](https://www.washingtonpost.com/health/2025/04/05/ai-machine-learning-radiology-software/)<!-- HN:43594311:end --><!-- HN:43628528:start -->
+* [43628528](https://news.social-protocols.org/stats?id=43628528) #30 3 points 0 comments -> [Using LLM to Generate Data for D3.js Force Directed Graph (FDG)](https://medium.com/@junjunzaragosa2309/using-llm-to-generate-data-for-d3-js-force-directed-graph-c490382d1172)<!-- HN:43628528:end -->
