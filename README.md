@@ -171,3 +171,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43596563](https://news.social-protocols.org/stats?id=43596563) #16 10 points 2 comments -> [Built an app that solved our grocery budget issues - saves us $200/month](https://apps.apple.com/us/app/plateful-meal-plan-budget/id6743173309)<!-- HN:43596563:end --><!-- HN:43624671:start -->
 * [43624671](https://news.social-protocols.org/stats?id=43624671) #24 20 points 5 comments -> [Preparation Kept Bomb Threats from Disrupting the 2024 Elections](https://www.brennancenter.org/our-work/analysis-opinion/preparation-kept-bomb-threats-disrupting-2024-elections)<!-- HN:43624671:end --><!-- HN:43627075:start -->
 * [43627075](https://news.social-protocols.org/stats?id=43627075) #18 16 points 2 comments -> [Trump, Doge Are Trying to Get Around Privacy Laws to Gather Your Personal Info](https://www.rollingstone.com/politics/politics-features/trump-musk-doge-privacy-personal-info-data-social-security-1235312853/)<!-- HN:43627075:end -->
+#### **Wednesday, April 9, 2025**
+<!-- HN:43627219:start -->
+* [43627219](https://news.social-protocols.org/stats?id=43627219) #25 14 points 2 comments -> [Fictitious Name Permit](https://www.mbc.ca.gov/Licensing/Fictitious-Name-Permit/)<!-- HN:43627219:end -->
