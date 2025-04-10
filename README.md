@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, April 3, 2025**
-<!-- HN:43563608:start -->
-* [43563608](https://news.social-protocols.org/stats?id=43563608) #28 13 points 4 comments -> [Australian beef singled out in latest USA tariffs](https://www.abc.net.au/news/2025-04-03/australian-beef-singled-out-in-donald-trumps-liberation-tariffs/105120998)<!-- HN:43563608:end --><!-- HN:43563389:start -->
-* [43563389](https://news.social-protocols.org/stats?id=43563389) #27 6 points 3 comments -> [Show HN: OpenTariffs – Tariff Percentages by Country](https://opentariffs.fyi/)<!-- HN:43563389:end --><!-- HN:43527933:start -->
-* [43527933](https://news.social-protocols.org/stats?id=43527933) #23 8 points 0 comments -> [The Carbon Bankroll 2.0 [pdf] (2024)](https://static1.squarespace.com/static/651da9cd0ad7706a768d14db/t/66024d827623d72ef543b545/1711426949213/The+Carbon+Bankroll+2.0+-+From+Awareness+to+Action+%28final%29.pdf)<!-- HN:43527933:end --><!-- HN:43569636:start -->
-* [43569636](https://news.social-protocols.org/stats?id=43569636) #19 10 points 0 comments -> [Decapitation Strike](https://snyder.substack.com/p/decapitation-strike)<!-- HN:43569636:end --><!-- HN:43570859:start -->
-* [43570859](https://news.social-protocols.org/stats?id=43570859) #7 5 points 0 comments -> [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me)<!-- HN:43570859:end --><!-- HN:43573774:start -->
-* [43573774](https://news.social-protocols.org/stats?id=43573774) #19 12 points 1 comments -> [US tariff protection decimated American shipbuilding; could do same to cleanTech](https://grist.org/economics/how-trumps-liberation-day-tariffs-could-kill-american-innovation/)<!-- HN:43573774:end -->
 #### **Friday, April 4, 2025**
 <!-- HN:43578310:start -->
 * [43578310](https://news.social-protocols.org/stats?id=43578310) #17 77 points 34 comments -> [Anduril Industries banned from recruiting on NixOS forums](https://discourse.nixos.org/t/anduril-industries-electromagnetic-warfare-team-is-hiring/62569)<!-- HN:43578310:end --><!-- HN:43579197:start -->
