@@ -165,4 +165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, April 10, 2025**
 <!-- HN:43639889:start -->
 * [43639889](https://news.social-protocols.org/stats?id=43639889) #28 8 points 0 comments -> [ICE nabs a Maryland woman in her car after smashing her window](https://www.thebaltimorebanner.com/community/local-news/video-ice-arrest-wesminster-elsy-noemi-berrios-QJ7CIME76ZGPZEBW5C3REEPZ6E/)<!-- HN:43639889:end --><!-- HN:43639875:start -->
-* [43639875](https://news.social-protocols.org/stats?id=43639875) #4 8 points 1 comments -> [A2A Protocol – Agent-to-Agent Communication](https://a2aprotocol.ai)<!-- HN:43639875:end -->
+* [43639875](https://news.social-protocols.org/stats?id=43639875) #4 8 points 1 comments -> [A2A Protocol – Agent-to-Agent Communication](https://a2aprotocol.ai)<!-- HN:43639875:end --><!-- HN:43609758:start -->
+* [43609758](https://news.social-protocols.org/stats?id=43609758) #25 14 points 3 comments -> [Show HN: I turned GitHub contributions into a retro battle game](https://epicdevbattlesofhistory.com)<!-- HN:43609758:end -->
