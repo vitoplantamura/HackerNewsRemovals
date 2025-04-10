@@ -166,5 +166,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43639889:start -->
 * [43639889](https://news.social-protocols.org/stats?id=43639889) #28 8 points 0 comments -> [ICE nabs a Maryland woman in her car after smashing her window](https://www.thebaltimorebanner.com/community/local-news/video-ice-arrest-wesminster-elsy-noemi-berrios-QJ7CIME76ZGPZEBW5C3REEPZ6E/)<!-- HN:43639889:end --><!-- HN:43639875:start -->
 * [43639875](https://news.social-protocols.org/stats?id=43639875) #4 8 points 1 comments -> [A2A Protocol – Agent-to-Agent Communication](https://a2aprotocol.ai)<!-- HN:43639875:end --><!-- HN:43609758:start -->
-* [43609758](https://news.social-protocols.org/stats?id=43609758) #25 14 points 3 comments -> [Show HN: I turned GitHub contributions into a retro battle game](https://epicdevbattlesofhistory.com)<!-- HN:43609758:end --><!-- HN:43639642:start -->
-* [43639642](https://news.social-protocols.org/stats?id=43639642) #1 50 points 14 comments -> [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)<!-- HN:43639642:end -->
+* [43609758](https://news.social-protocols.org/stats?id=43609758) #25 14 points 3 comments -> [Show HN: I turned GitHub contributions into a retro battle game](https://epicdevbattlesofhistory.com)<!-- HN:43609758:end -->
