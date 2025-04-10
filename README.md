@@ -162,3 +162,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43633005](https://news.social-protocols.org/stats?id=43633005) #28 31 points 40 comments -> [Rolex Caliber 7135: new indirect impulse escapement and high frequency movement](https://www.hodinkee.com/articles/introducing-rolex-land-dweller)<!-- HN:43633005:end --><!-- HN:43638323:start -->
 * [43638323](https://news.social-protocols.org/stats?id=43638323) #16 40 points 7 comments -> ["It's not that bad" they told me – Coreboot](https://lilysthings.org/blog/coreboot/)<!-- HN:43638323:end --><!-- HN:43638148:start -->
 * [43638148](https://news.social-protocols.org/stats?id=43638148) #23 19 points 4 comments -> [Bye bye 3 way handshake](https://billatnapier.medium.com/bye-bye-three-way-handshake-and-hello-to-0-rtt-d11d9c4f4fdf)<!-- HN:43638148:end -->
+#### **Thursday, April 10, 2025**
+<!-- HN:43639889:start -->
+* [43639889](https://news.social-protocols.org/stats?id=43639889) #28 8 points 0 comments -> [ICE nabs a Maryland woman in her car after smashing her window](https://www.thebaltimorebanner.com/community/local-news/video-ice-arrest-wesminster-elsy-noemi-berrios-QJ7CIME76ZGPZEBW5C3REEPZ6E/)<!-- HN:43639889:end -->
