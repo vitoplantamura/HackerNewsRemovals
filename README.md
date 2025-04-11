@@ -183,3 +183,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43647485](https://news.social-protocols.org/stats?id=43647485) #17 7 points 1 comments -> [The Brazilian Judge Taking on the Digital Far Right](https://www.newyorker.com/magazine/2025/04/14/the-brazilian-judge-taking-on-the-digital-far-right)<!-- HN:43647485:end --><!-- HN:43609468:start -->
 * [43609468](https://news.social-protocols.org/stats?id=43609468) #23 7 points 1 comments -> [Your Mouse Is a Database (2012)](https://queue.acm.org/detail.cfm?id=2169076)<!-- HN:43609468:end --><!-- HN:43647164:start -->
 * [43647164](https://news.social-protocols.org/stats?id=43647164) #30 9 points 2 comments -> [This is what a digital coup looks like](https://broligarchy.substack.com/p/speaking-truth-to-tech-gods-i-return)<!-- HN:43647164:end -->
+#### **Friday, April 11, 2025**
+<!-- HN:43648795:start -->
+* [43648795](https://news.social-protocols.org/stats?id=43648795) #29 36 points 32 comments -> [We quit our Big Tech jobs after hitting #1 on HN and Product Hunt](https://www.heyopenspot.com/)<!-- HN:43648795:end -->
