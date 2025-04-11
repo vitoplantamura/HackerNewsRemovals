@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43647164](https://news.social-protocols.org/stats?id=43647164) #30 9 points 2 comments -> [This is what a digital coup looks like](https://broligarchy.substack.com/p/speaking-truth-to-tech-gods-i-return)<!-- HN:43647164:end -->
 #### **Friday, April 11, 2025**
 <!-- HN:43648795:start -->
-* [43648795](https://news.social-protocols.org/stats?id=43648795) #29 36 points 32 comments -> [We quit our Big Tech jobs after hitting #1 on HN and Product Hunt](https://www.heyopenspot.com/)<!-- HN:43648795:end -->
+* [43648795](https://news.social-protocols.org/stats?id=43648795) #29 36 points 32 comments -> [We quit our Big Tech jobs after hitting #1 on HN and Product Hunt](https://www.heyopenspot.com/)<!-- HN:43648795:end --><!-- HN:43649204:start -->
+* [43649204](https://news.social-protocols.org/stats?id=43649204) #10 31 points 4 comments -> [Kristi Noem, Department of Homeland Security, vs. Kilmar Armando Abrego Garcia [pdf]](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf)<!-- HN:43649204:end -->
