@@ -166,5 +166,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43655646](https://news.social-protocols.org/stats?id=43655646) #25 3 points 0 comments -> [Probiotics reduce negative mood over time: daily self-reports in detection](https://www.nature.com/articles/s44184-025-00123-z)<!-- HN:43655646:end -->
 #### **Saturday, April 12, 2025**
 <!-- HN:43661499:start -->
-* [43661499](https://news.social-protocols.org/stats?id=43661499) #7 9 points 2 comments -> [The Coming Test of Sanity for the Administration](https://harrylitman.substack.com/p/the-coming-test-of-sanity-for-the)<!-- HN:43661499:end --><!-- HN:43662035:start -->
-* [43662035](https://news.social-protocols.org/stats?id=43662035) #8 -> [U.S. cites its power to deport people for beliefs](https://apnews.com/article/mahmoud-khalil-columbia-university-trump-c60738368171289ae43177660def8d34)<!-- HN:43662035:end -->
+* [43661499](https://news.social-protocols.org/stats?id=43661499) #7 9 points 2 comments -> [The Coming Test of Sanity for the Administration](https://harrylitman.substack.com/p/the-coming-test-of-sanity-for-the)<!-- HN:43661499:end -->
