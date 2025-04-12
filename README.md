@@ -164,3 +164,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43654343](https://news.social-protocols.org/stats?id=43654343) #23 5 points 3 comments -> [Crime is down, way down](https://growsf.org/news/2025-04-10-crime-is-down/)<!-- HN:43654343:end --><!-- HN:43653922:start -->
 * [43653922](https://news.social-protocols.org/stats?id=43653922) #5 10 points 4 comments -> [Browser extensions put 4M users at risk of cookie exposure](https://secureannex.com/blog/searching-for-something-unknow/)<!-- HN:43653922:end --><!-- HN:43655646:start -->
 * [43655646](https://news.social-protocols.org/stats?id=43655646) #25 3 points 0 comments -> [Probiotics reduce negative mood over time: daily self-reports in detection](https://www.nature.com/articles/s44184-025-00123-z)<!-- HN:43655646:end -->
+#### **Saturday, April 12, 2025**
+<!-- HN:43661499:start -->
+* [43661499](https://news.social-protocols.org/stats?id=43661499) #7 9 points 2 comments -> [The Coming Test of Sanity for the Administration](https://harrylitman.substack.com/p/the-coming-test-of-sanity-for-the)<!-- HN:43661499:end -->
