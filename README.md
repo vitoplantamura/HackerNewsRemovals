@@ -167,4 +167,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 12, 2025**
 <!-- HN:43661499:start -->
 * [43661499](https://news.social-protocols.org/stats?id=43661499) #7 9 points 2 comments -> [The Coming Test of Sanity for the Administration](https://harrylitman.substack.com/p/the-coming-test-of-sanity-for-the)<!-- HN:43661499:end --><!-- HN:43663219:start -->
-* [43663219](https://news.social-protocols.org/stats?id=43663219) #28 3 points 0 comments -> [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)<!-- HN:43663219:end -->
+* [43663219](https://news.social-protocols.org/stats?id=43663219) #28 3 points 0 comments -> [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)<!-- HN:43663219:end --><!-- HN:43663941:start -->
+* [43663941](https://news.social-protocols.org/stats?id=43663941) #4 16 points 41 comments -> [Why training AI can't be IP theft](https://blog.giovanh.com/blog/2025/04/03/why-training-ai-cant-be-ip-theft/)<!-- HN:43663941:end -->
