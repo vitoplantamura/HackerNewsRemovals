@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43655646](https://news.social-protocols.org/stats?id=43655646) #25 3 points 0 comments -> [Probiotics reduce negative mood over time: daily self-reports in detection](https://www.nature.com/articles/s44184-025-00123-z)<!-- HN:43655646:end -->
 #### **Saturday, April 12, 2025**
 <!-- HN:43661499:start -->
-* [43661499](https://news.social-protocols.org/stats?id=43661499) #7 9 points 2 comments -> [The Coming Test of Sanity for the Administration](https://harrylitman.substack.com/p/the-coming-test-of-sanity-for-the)<!-- HN:43661499:end -->
+* [43661499](https://news.social-protocols.org/stats?id=43661499) #7 9 points 2 comments -> [The Coming Test of Sanity for the Administration](https://harrylitman.substack.com/p/the-coming-test-of-sanity-for-the)<!-- HN:43661499:end --><!-- HN:43663219:start -->
+* [43663219](https://news.social-protocols.org/stats?id=43663219) #28 3 points 0 comments -> [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)<!-- HN:43663219:end -->
