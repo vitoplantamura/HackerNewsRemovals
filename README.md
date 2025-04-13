@@ -168,4 +168,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 13, 2025**
 <!-- HN:43668877:start -->
 * [43668877](https://news.social-protocols.org/stats?id=43668877) #16 12 points 0 comments -> [Federal judge orders USDA to unfreeze funds to Maine](https://www.npr.org/2025/04/12/nx-s1-5362976/maine-usda-unfreeze-janet-mills-trump)<!-- HN:43668877:end --><!-- HN:43635105:start -->
-* [43635105](https://news.social-protocols.org/stats?id=43635105) #20 3 points 1 comments -> [AI Action Figure Generator](https://ai-figure-generator.com)<!-- HN:43635105:end -->
+* [43635105](https://news.social-protocols.org/stats?id=43635105) #20 3 points 1 comments -> [AI Action Figure Generator](https://ai-figure-generator.com)<!-- HN:43635105:end --><!-- HN:43672082:start -->
+* [43672082](https://news.social-protocols.org/stats?id=43672082) #27 11 points 1 comments -> [DragonFlyBSD Lands "Next-Gen" Disk Encryption Code](https://www.phoronix.com/news/DragonFlyBSD-DM-Crypt-NG)<!-- HN:43672082:end -->
