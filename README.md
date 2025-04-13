@@ -167,4 +167,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43667790](https://news.social-protocols.org/stats?id=43667790) #11 6 points 12 comments -> [WTF Is Botmetr? The First Platform That Rewards You for Hunting Chatbots](https://www.botmetr.com/)<!-- HN:43667790:end -->
 #### **Sunday, April 13, 2025**
 <!-- HN:43668877:start -->
-* [43668877](https://news.social-protocols.org/stats?id=43668877) #16 12 points 0 comments -> [Federal judge orders USDA to unfreeze funds to Maine](https://www.npr.org/2025/04/12/nx-s1-5362976/maine-usda-unfreeze-janet-mills-trump)<!-- HN:43668877:end -->
+* [43668877](https://news.social-protocols.org/stats?id=43668877) #16 12 points 0 comments -> [Federal judge orders USDA to unfreeze funds to Maine](https://www.npr.org/2025/04/12/nx-s1-5362976/maine-usda-unfreeze-janet-mills-trump)<!-- HN:43668877:end --><!-- HN:43670632:start -->
+* [43670632](https://news.social-protocols.org/stats?id=43670632) #1 7 points 0 comments -> [Why educational inequality runs in families: Genetics more than environment](https://osf.io/preprints/psyarxiv/rehdj_v1)<!-- HN:43670632:end -->
