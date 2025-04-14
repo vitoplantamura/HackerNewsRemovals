@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43676075](https://news.social-protocols.org/stats?id=43676075) #3 25 points 1 comments -> [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)<!-- HN:43676075:end -->
 #### **Monday, April 14, 2025**<!-- HN:43651295:start -->
 * [43651295](https://news.social-protocols.org/stats?id=43651295) #14 26 points 41 comments -> [Organised gangs behind rise in QR 'quishing' scams](https://www.bbc.com/news/articles/cq6yznmv3gzo)<!-- HN:43651295:end --><!-- HN:43680019:start -->
-* [43680019](https://news.social-protocols.org/stats?id=43680019) #28 4 points 1 comments -> [Delete All IP Law](https://twitter.com/jack/status/1910829254214115681)<!-- HN:43680019:end -->
+* [43680019](https://news.social-protocols.org/stats?id=43680019) #28 4 points 1 comments -> [Delete All IP Law](https://twitter.com/jack/status/1910829254214115681)<!-- HN:43680019:end --><!-- HN:43678914:start -->
+* [43678914](https://news.social-protocols.org/stats?id=43678914) #16 31 points 40 comments -> [Engineers Who Won't Commit](https://www.seangoedecke.com/taking-a-position/)<!-- HN:43678914:end -->
