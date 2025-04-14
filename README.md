@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43676153](https://news.social-protocols.org/stats?id=43676153) #15 15 points 5 comments -> [Microsoft Prepares for New Round of Layoffs in May 2025](https://www.thebridgechronicle.com/tech/microsoft-layoffs-may-2025)<!-- HN:43676153:end --><!-- HN:43676075:start -->
 * [43676075](https://news.social-protocols.org/stats?id=43676075) #3 25 points 1 comments -> [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)<!-- HN:43676075:end -->
 #### **Monday, April 14, 2025**<!-- HN:43651295:start -->
-* [43651295](https://news.social-protocols.org/stats?id=43651295) #14 26 points 41 comments -> [Organised gangs behind rise in QR 'quishing' scams](https://www.bbc.com/news/articles/cq6yznmv3gzo)<!-- HN:43651295:end -->
+* [43651295](https://news.social-protocols.org/stats?id=43651295) #14 26 points 41 comments -> [Organised gangs behind rise in QR 'quishing' scams](https://www.bbc.com/news/articles/cq6yznmv3gzo)<!-- HN:43651295:end --><!-- HN:43680019:start -->
+* [43680019](https://news.social-protocols.org/stats?id=43680019) #28 4 points 1 comments -> [Delete All IP Law](https://twitter.com/jack/status/1910829254214115681)<!-- HN:43680019:end -->
