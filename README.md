@@ -156,4 +156,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43674764](https://news.social-protocols.org/stats?id=43674764) #13 20 points 4 comments -> [Show HN: Crystal, the most accurate U.S. gov't data search tool](https://askcrystal.info/)<!-- HN:43674764:end --><!-- HN:43676153:start -->
 * [43676153](https://news.social-protocols.org/stats?id=43676153) #15 15 points 5 comments -> [Microsoft Prepares for New Round of Layoffs in May 2025](https://www.thebridgechronicle.com/tech/microsoft-layoffs-may-2025)<!-- HN:43676153:end --><!-- HN:43676075:start -->
 * [43676075](https://news.social-protocols.org/stats?id=43676075) #3 25 points 1 comments -> [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)<!-- HN:43676075:end -->
-#### **Monday, April 14, 2025**
+#### **Monday, April 14, 2025**<!-- HN:43678040:start -->
+* [43678040](https://news.social-protocols.org/stats?id=43678040) #28 8 points 0 comments -> [Australian academics refuse to attend US conferences for fear of being detained](https://www.theguardian.com/australia-news/2025/apr/14/australian-academics-refuse-to-attend-us-conferences-for-fear-of-being-detained)<!-- HN:43678040:end -->
