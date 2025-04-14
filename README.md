@@ -157,3 +157,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43674764](https://news.social-protocols.org/stats?id=43674764) #13 20 points 4 comments -> [Show HN: Crystal, the most accurate U.S. gov't data search tool](https://askcrystal.info/)<!-- HN:43674764:end --><!-- HN:43676153:start -->
 * [43676153](https://news.social-protocols.org/stats?id=43676153) #15 15 points 5 comments -> [Microsoft Prepares for New Round of Layoffs in May 2025](https://www.thebridgechronicle.com/tech/microsoft-layoffs-may-2025)<!-- HN:43676153:end --><!-- HN:43676075:start -->
 * [43676075](https://news.social-protocols.org/stats?id=43676075) #3 25 points 1 comments -> [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)<!-- HN:43676075:end -->
+#### **Monday, April 14, 2025**
+<!-- HN:43655780:start -->
+* [43655780](https://news.social-protocols.org/stats?id=43655780) #8 21 points 40 comments -> [What can we take away from the ‘stochastic parrot’ saga?](https://inferencemagazine.substack.com/p/the-parrot-is-dead)<!-- HN:43655780:end -->
