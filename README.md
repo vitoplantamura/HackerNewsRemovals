@@ -147,5 +147,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43685629](https://news.social-protocols.org/stats?id=43685629) #7 11 points 0 comments -> [The Situation at Columbia (and Harvard)](https://www.math.columbia.edu/~woit/wordpress/?p=14556)<!-- HN:43685629:end --><!-- HN:43686004:start -->
 * [43686004](https://news.social-protocols.org/stats?id=43686004) #12 5 points 0 comments -> [Why Is Africa Poor? Economic unfreedom, not slavery or colonialism](https://freeblackthought.substack.com/cp/156391441)<!-- HN:43686004:end -->
 #### **Tuesday, April 15, 2025**
-<!-- HN:43688069:start -->
-* [43688069](https://news.social-protocols.org/stats?id=43688069) #22 15 points 0 comments -> [Palestinian activist arrested by ICE while expecting U.S. citizenship interview](https://www.cbc.ca/lite/story/1.7510325)<!-- HN:43688069:end -->
