@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43686004](https://news.social-protocols.org/stats?id=43686004) #12 5 points 0 comments -> [Why Is Africa Poor? Economic unfreedom, not slavery or colonialism](https://freeblackthought.substack.com/cp/156391441)<!-- HN:43686004:end -->
 #### **Tuesday, April 15, 2025**<!-- HN:43688005:start -->
 * [43688005](https://news.social-protocols.org/stats?id=43688005) #15 30 points 3 comments -> [How I Don't Use LLMs](https://www.gleech.org/llms)<!-- HN:43688005:end --><!-- HN:43688456:start -->
-* [43688456](https://news.social-protocols.org/stats?id=43688456) #8 11 points 9 comments -> [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)<!-- HN:43688456:end -->
+* [43688456](https://news.social-protocols.org/stats?id=43688456) #8 11 points 9 comments -> [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)<!-- HN:43688456:end --><!-- HN:43688395:start -->
+* [43688395](https://news.social-protocols.org/stats?id=43688395) #22 32 points 13 comments -> [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)<!-- HN:43688395:end -->
