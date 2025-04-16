@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43699126](https://news.social-protocols.org/stats?id=43699126) #9 4 points 0 comments -> [Show HN: Open Source AI App – Try on Any Outfit](https://github.com/oyeolamilekan/gemini-ai-tryon)<!-- HN:43699126:end -->
 #### **Wednesday, April 16, 2025**
 <!-- HN:43702201:start -->
-* [43702201](https://news.social-protocols.org/stats?id=43702201) #2 15 points 14 comments -> [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)<!-- HN:43702201:end -->
+* [43702201](https://news.social-protocols.org/stats?id=43702201) #2 15 points 14 comments -> [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)<!-- HN:43702201:end --><!-- HN:43670652:start -->
+* [43670652](https://news.social-protocols.org/stats?id=43670652) #13 23 points 40 comments -> [Audiobooks vs. Printed Books: a debate as a reader and an author](https://newsandreviews.substack.com/p/audiobooks-vs-printed-books-a-debate)<!-- HN:43670652:end -->
