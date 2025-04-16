@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 16, 2025**
 <!-- HN:43702201:start -->
 * [43702201](https://news.social-protocols.org/stats?id=43702201) #2 15 points 14 comments -> [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)<!-- HN:43702201:end --><!-- HN:43666814:start -->
-* [43666814](https://news.social-protocols.org/stats?id=43666814) #21 4 points 2 comments -> [Curse of the German Cat or the Most Ridiculous Aircraft Carrier Loss in History](https://en.topwar.ru/261547-prokljatie-nemeckogo-kota-ili-samaja-nelepaja-gibel-avianosca-za-vsju-istoriju.html)<!-- HN:43666814:end -->
+* [43666814](https://news.social-protocols.org/stats?id=43666814) #21 4 points 2 comments -> [Curse of the German Cat or the Most Ridiculous Aircraft Carrier Loss in History](https://en.topwar.ru/261547-prokljatie-nemeckogo-kota-ili-samaja-nelepaja-gibel-avianosca-za-vsju-istoriju.html)<!-- HN:43666814:end --><!-- HN:43703951:start -->
+* [43703951](https://news.social-protocols.org/stats?id=43703951) #13 5 points 0 comments -> [Trumps escalating trade war in 5 scenarios: impact on Dutch economy [Dutch]](https://www.rabobank.nl/kennis/d011475085-trumps-escalerende-handelsoorlog-in-vijf-scenarios-impact-op-de-nederlandse-economie-en-breder)<!-- HN:43703951:end -->
