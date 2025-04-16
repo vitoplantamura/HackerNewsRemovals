@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43695424](https://news.social-protocols.org/stats?id=43695424) #14 13 points 2 comments -> [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)<!-- HN:43695424:end --><!-- HN:43696213:start -->
 * [43696213](https://news.social-protocols.org/stats?id=43696213) #25 16 points 0 comments -> [OCC Notifies Congress of Incident Involving Email System](https://occ.gov/news-issuances/news-releases/2025/nr-occ-2025-30.html)<!-- HN:43696213:end --><!-- HN:43699126:start -->
 * [43699126](https://news.social-protocols.org/stats?id=43699126) #9 4 points 0 comments -> [Show HN: Open Source AI App – Try on Any Outfit](https://github.com/oyeolamilekan/gemini-ai-tryon)<!-- HN:43699126:end -->
+#### **Wednesday, April 16, 2025**
+<!-- HN:43702201:start -->
+* [43702201](https://news.social-protocols.org/stats?id=43702201) #2 15 points 14 comments -> [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)<!-- HN:43702201:end -->
