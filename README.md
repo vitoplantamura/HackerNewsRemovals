@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, April 17, 2025**
 <!-- HN:43712212:start -->
 * [43712212](https://news.social-protocols.org/stats?id=43712212) #6 7 points 0 comments -> [American Concentration Camps](https://chrishedges.substack.com/p/american-concentration-camps)<!-- HN:43712212:end --><!-- HN:43712663:start -->
-* [43712663](https://news.social-protocols.org/stats?id=43712663) #7 6 points 0 comments -> [Why does everything look infantilized?](https://assemblagenyc.substack.com/p/why-does-everything-look-infantilized)<!-- HN:43712663:end -->
+* [43712663](https://news.social-protocols.org/stats?id=43712663) #7 6 points 0 comments -> [Why does everything look infantilized?](https://assemblagenyc.substack.com/p/why-does-everything-look-infantilized)<!-- HN:43712663:end --><!-- HN:43712598:start -->
+* [43712598](https://news.social-protocols.org/stats?id=43712598) #17 -> [US judge finds administration wilfully defied court order in deportation flights](https://www.abc.net.au/news/2025-04-17/judge-in-venezuelan-migrants-case-finds-trump-admin-probably-con/105186022)<!-- HN:43712598:end -->
