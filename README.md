@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43704319](https://news.social-protocols.org/stats?id=43704319) #3 29 points 13 comments -> [AI Is Facing a Crisis](https://savethe.ai/)<!-- HN:43704319:end --><!-- HN:43704481:start -->
 * [43704481](https://news.social-protocols.org/stats?id=43704481) #22 11 points 3 comments -> [Russian Breach of US Data Through Doge over Starlink "Directly to Russia"](https://www.narativ.org/p/whistle-blower-russian-breach-of)<!-- HN:43704481:end --><!-- HN:43704951:start -->
 * [43704951](https://news.social-protocols.org/stats?id=43704951) #12 26 points 15 comments -> [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)<!-- HN:43704951:end -->
+#### **Thursday, April 17, 2025**
+<!-- HN:43712212:start -->
+* [43712212](https://news.social-protocols.org/stats?id=43712212) #6 7 points 0 comments -> [American Concentration Camps](https://chrishedges.substack.com/p/american-concentration-camps)<!-- HN:43712212:end -->
