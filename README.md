@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43704951](https://news.social-protocols.org/stats?id=43704951) #12 26 points 15 comments -> [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)<!-- HN:43704951:end -->
 #### **Thursday, April 17, 2025**
 <!-- HN:43712212:start -->
-* [43712212](https://news.social-protocols.org/stats?id=43712212) #6 7 points 0 comments -> [American Concentration Camps](https://chrishedges.substack.com/p/american-concentration-camps)<!-- HN:43712212:end -->
+* [43712212](https://news.social-protocols.org/stats?id=43712212) #6 7 points 0 comments -> [American Concentration Camps](https://chrishedges.substack.com/p/american-concentration-camps)<!-- HN:43712212:end --><!-- HN:43712663:start -->
+* [43712663](https://news.social-protocols.org/stats?id=43712663) #7 6 points 0 comments -> [Why does everything look infantilized?](https://assemblagenyc.substack.com/p/why-does-everything-look-infantilized)<!-- HN:43712663:end -->
