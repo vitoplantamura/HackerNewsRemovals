@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43723160](https://news.social-protocols.org/stats?id=43723160) #28 14 points 0 comments -> [Trump's FCC chair threatens Comcast, demands changes to NBC news coverage](https://arstechnica.com/tech-policy/2025/04/trumps-fcc-chair-threatens-comcast-demands-changes-to-nbc-news-coverage/)<!-- HN:43723160:end -->
 #### **Friday, April 18, 2025**
 <!-- HN:43723544:start -->
-* [43723544](https://news.social-protocols.org/stats?id=43723544) #11 5 points 1 comments -> [Is anybody using this private key?](https://isanybodyusingthisprivatekey.com/)<!-- HN:43723544:end -->
+* [43723544](https://news.social-protocols.org/stats?id=43723544) #11 5 points 1 comments -> [Is anybody using this private key?](https://isanybodyusingthisprivatekey.com/)<!-- HN:43723544:end --><!-- HN:43723356:start -->
+* [43723356](https://news.social-protocols.org/stats?id=43723356) #12 9 points 0 comments -> [Olympic Gold Medalist Dominates the 100M at Her Kid's Sports Day Event](https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event)<!-- HN:43723356:end -->
