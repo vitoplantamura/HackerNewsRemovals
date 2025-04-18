@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43722220](https://news.social-protocols.org/stats?id=43722220) #11 4 points 2 comments -> [Digital nomads could create network states](https://www.elysian.press/p/digital-nomad-network-states)<!-- HN:43722220:end --><!-- HN:43723160:start -->
 * [43723160](https://news.social-protocols.org/stats?id=43723160) #28 14 points 0 comments -> [Trump's FCC chair threatens Comcast, demands changes to NBC news coverage](https://arstechnica.com/tech-policy/2025/04/trumps-fcc-chair-threatens-comcast-demands-changes-to-nbc-news-coverage/)<!-- HN:43723160:end --><!-- HN:43723135:start -->
 * [43723135](https://news.social-protocols.org/stats?id=43723135) #2 45 points 16 comments -> [AI is turning us into glue](https://lincoln.swaine-moore.is/writing-about/ai-and-glue)<!-- HN:43723135:end -->
+#### **Friday, April 18, 2025**
+<!-- HN:43723544:start -->
+* [43723544](https://news.social-protocols.org/stats?id=43723544) #11 5 points 1 comments -> [Is anybody using this private key?](https://isanybodyusingthisprivatekey.com/)<!-- HN:43723544:end -->
