@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 19, 2025**
 <!-- HN:43731917:start -->
 * [43731917](https://news.social-protocols.org/stats?id=43731917) #27 7 points 12 comments -> [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)<!-- HN:43731917:end --><!-- HN:43711944:start -->
-* [43711944](https://news.social-protocols.org/stats?id=43711944) #18 3 points 1 comments -> [refern: Pinterest-like image organizer reimagined for creatives](https://www.refern.app/)<!-- HN:43711944:end -->
+* [43711944](https://news.social-protocols.org/stats?id=43711944) #18 3 points 1 comments -> [refern: Pinterest-like image organizer reimagined for creatives](https://www.refern.app/)<!-- HN:43711944:end --><!-- HN:43735697:start -->
+* [43735697](https://news.social-protocols.org/stats?id=43735697) #14 15 points 3 comments -> [Democrats: Doge building a 'master database' of Americans' sensitive information](https://www.theverge.com/tech/652215/doge-cross-agency-master-database-sensitive-information)<!-- HN:43735697:end -->
