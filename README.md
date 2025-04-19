@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43730796](https://news.social-protocols.org/stats?id=43730796) #15 6 points 0 comments -> [Tesla brand damage is destroying used car value](https://electrek.co/2025/04/18/tesla-tsla-brand-damage-destroying-used-car-value/)<!-- HN:43730796:end --><!-- HN:43730934:start -->
 * [43730934](https://news.social-protocols.org/stats?id=43730934) #27 3 points 0 comments -> [NASA's next space-telescope is almost ready to launch but may be killed by cuts](https://www.scientificamerican.com/article/nasas-next-major-space-telescope-is-ready-to-launch-trump-wants-to-kill-it/)<!-- HN:43730934:end --><!-- HN:43731849:start -->
 * [43731849](https://news.social-protocols.org/stats?id=43731849) #22 3 points 0 comments -> [Im launching a community of dis-regulation hackers](https://app.unblend.me)<!-- HN:43731849:end -->
+#### **Saturday, April 19, 2025**
+<!-- HN:43731917:start -->
+* [43731917](https://news.social-protocols.org/stats?id=43731917) #27 7 points 12 comments -> [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)<!-- HN:43731917:end -->
