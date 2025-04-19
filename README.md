@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, April 12, 2025**
-<!-- HN:43661499:start -->
-* [43661499](https://news.social-protocols.org/stats?id=43661499) #7 9 points 2 comments -> [The Coming Test of Sanity for the Administration](https://harrylitman.substack.com/p/the-coming-test-of-sanity-for-the)<!-- HN:43661499:end --><!-- HN:43663219:start -->
-* [43663219](https://news.social-protocols.org/stats?id=43663219) #28 3 points 0 comments -> [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)<!-- HN:43663219:end --><!-- HN:43664624:start -->
-* [43664624](https://news.social-protocols.org/stats?id=43664624) #15 27 points 6 comments -> [Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked](https://twitter.com/TradingThomas3/status/1911047516021281205)<!-- HN:43664624:end --><!-- HN:43664866:start -->
-* [43664866](https://news.social-protocols.org/stats?id=43664866) #21 9 points 0 comments -> [Sorry, America, tariffs won't bring jobs back](https://www.aljazeera.com/opinions/2025/4/11/sorry-america-tariffs-wont-bring-jobs-back)<!-- HN:43664866:end --><!-- HN:43664538:start -->
-* [43664538](https://news.social-protocols.org/stats?id=43664538) #11 21 points 5 comments -> [AI Hallucinations Are Fueling a New Class of Supply Chain Attacks](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)<!-- HN:43664538:end --><!-- HN:43664996:start -->
-* [43664996](https://news.social-protocols.org/stats?id=43664996) #2 34 points 41 comments -> [Which countries would benefit most from an American brain drain?](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain)<!-- HN:43664996:end --><!-- HN:43625815:start -->
-* [43625815](https://news.social-protocols.org/stats?id=43625815) #22 20 points 0 comments -> [Stop Treating YAML Like a String](https://theyamlengineer.com/stop-treating-yaml-like-a-string)<!-- HN:43625815:end --><!-- HN:43667063:start -->
-* [43667063](https://news.social-protocols.org/stats?id=43667063) #18 11 points 2 comments -> [Florida's New Social Media Bill Explicitly Demands an Encryption Backdoor](https://www.eff.org/deeplinks/2025/04/floridas-new-social-media-bill-says-quiet-part-out-loud-and-demands-encryption)<!-- HN:43667063:end --><!-- HN:43667472:start -->
-* [43667472](https://news.social-protocols.org/stats?id=43667472) #24 7 points 2 comments -> [UK takes control of British Steel under emergency powers](https://www.bbc.com/news/articles/ckg17g39x41o)<!-- HN:43667472:end --><!-- HN:43667282:start -->
-* [43667282](https://news.social-protocols.org/stats?id=43667282) #9 16 points 5 comments -> [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP/)<!-- HN:43667282:end --><!-- HN:43667305:start -->
-* [43667305](https://news.social-protocols.org/stats?id=43667305) #9 33 points 10 comments -> [A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/)<!-- HN:43667305:end --><!-- HN:43668019:start -->
-* [43668019](https://news.social-protocols.org/stats?id=43668019) #19 6 points 1 comments -> [Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'](https://www.bbc.com/news/articles/cj3xjrj7v78o)<!-- HN:43668019:end --><!-- HN:43667963:start -->
-* [43667963](https://news.social-protocols.org/stats?id=43667963) #4 19 points 7 comments -> [My prediction after GPT-4o image generation](https://arxiv.org/abs/2504.06256)<!-- HN:43667963:end --><!-- HN:43667790:start -->
-* [43667790](https://news.social-protocols.org/stats?id=43667790) #11 6 points 12 comments -> [WTF Is Botmetr? The First Platform That Rewards You for Hunting Chatbots](https://www.botmetr.com/)<!-- HN:43667790:end -->
 #### **Sunday, April 13, 2025**
 <!-- HN:43668877:start -->
 * [43668877](https://news.social-protocols.org/stats?id=43668877) #16 12 points 0 comments -> [Federal judge orders USDA to unfreeze funds to Maine](https://www.npr.org/2025/04/12/nx-s1-5362976/maine-usda-unfreeze-janet-mills-trump)<!-- HN:43668877:end --><!-- HN:43635105:start -->
