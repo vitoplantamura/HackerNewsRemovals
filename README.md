@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 19, 2025**
 <!-- HN:43731917:start -->
 * [43731917](https://news.social-protocols.org/stats?id=43731917) #27 7 points 12 comments -> [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)<!-- HN:43731917:end --><!-- HN:43711944:start -->
-* [43711944](https://news.social-protocols.org/stats?id=43711944) #18 3 points 1 comments -> [refern: Pinterest-like image organizer reimagined for creatives](https://www.refern.app/)<!-- HN:43711944:end -->
+* [43711944](https://news.social-protocols.org/stats?id=43711944) #18 3 points 1 comments -> [refern: Pinterest-like image organizer reimagined for creatives](https://www.refern.app/)<!-- HN:43711944:end --><!-- HN:43734677:start -->
+* [43734677](https://news.social-protocols.org/stats?id=43734677) #22 8 points 2 comments -> [Texas school district bans Virginia state flag and seal over naked breast](https://www.theguardian.com/us-news/2025/apr/18/texas-bans-virginia-flag-breast)<!-- HN:43734677:end -->
