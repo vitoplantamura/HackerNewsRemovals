@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43739357](https://news.social-protocols.org/stats?id=43739357) #5 23 points 4 comments -> [Popular CT Scans Could Account for 5% of All Cancer Cases a Year](https://www.ucsf.edu/news/2025/04/429791/popular-ct-scans-could-account-5-all-cancer-cases-year)<!-- HN:43739357:end --><!-- HN:43739309:start -->
 * [43739309](https://news.social-protocols.org/stats?id=43739309) #22 7 points 4 comments -> [Show HN: $30 and 2hours with Claude Code produced this](https://github.com/JordanDalton/pm)<!-- HN:43739309:end --><!-- HN:43740187:start -->
 * [43740187](https://news.social-protocols.org/stats?id=43740187) #23 6 points 0 comments -> ['The bomber's words sound mainstream. Like he won ' Oklahoma City's tragedy](https://www.theguardian.com/us-news/2025/apr/19/timothy-mcveigh-oklahoma-bombing-far-right-1995)<!-- HN:43740187:end -->
+#### **Sunday, April 20, 2025**
+<!-- HN:43742722:start -->
+* [43742722](https://news.social-protocols.org/stats?id=43742722) #4 62 points 27 comments -> [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)<!-- HN:43742722:end -->
