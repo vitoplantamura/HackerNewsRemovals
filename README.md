@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, April 13, 2025**
-<!-- HN:43668877:start -->
-* [43668877](https://news.social-protocols.org/stats?id=43668877) #16 12 points 0 comments -> [Federal judge orders USDA to unfreeze funds to Maine](https://www.npr.org/2025/04/12/nx-s1-5362976/maine-usda-unfreeze-janet-mills-trump)<!-- HN:43668877:end --><!-- HN:43635105:start -->
-* [43635105](https://news.social-protocols.org/stats?id=43635105) #20 3 points 1 comments -> [AI Action Figure Generator](https://ai-figure-generator.com)<!-- HN:43635105:end --><!-- HN:43672082:start -->
-* [43672082](https://news.social-protocols.org/stats?id=43672082) #27 11 points 1 comments -> [DragonFlyBSD Lands "Next-Gen" Disk Encryption Code](https://www.phoronix.com/news/DragonFlyBSD-DM-Crypt-NG)<!-- HN:43672082:end --><!-- HN:43673297:start -->
-* [43673297](https://news.social-protocols.org/stats?id=43673297) #30 14 points 1 comments -> [The rise of end times fascism](https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk)<!-- HN:43673297:end --><!-- HN:43673515:start -->
-* [43673515](https://news.social-protocols.org/stats?id=43673515) #28 4 points 0 comments -> [School student uses AI to reveal 1.5M previously unknown objects in space](https://phys.org/news/2025-04-high-school-student-ai-reveal.html)<!-- HN:43673515:end --><!-- HN:43673518:start -->
-* [43673518](https://news.social-protocols.org/stats?id=43673518) #28 7 points 2 comments -> [Why Our Brains Crave Ideology](https://nautil.us/why-our-brains-crave-ideology-1203194/)<!-- HN:43673518:end --><!-- HN:43674682:start -->
-* [43674682](https://news.social-protocols.org/stats?id=43674682) #4 11 points 0 comments -> [Few build Hypervisors. We're one of them](https://virtualize.sh/blog/few-build-hypervisors-were-one-of-them/)<!-- HN:43674682:end --><!-- HN:43634853:start -->
-* [43634853](https://news.social-protocols.org/stats?id=43634853) #30 33 points 40 comments -> [More than 1,500 new fonts – including all-time favorites – come to Adobe Fonts](https://blog.adobe.com/en/publish/2025/04/08/more-than-1500-new-fonts-including-all-time-favorites-come-to-adobe-fonts)<!-- HN:43634853:end --><!-- HN:43674764:start -->
-* [43674764](https://news.social-protocols.org/stats?id=43674764) #13 20 points 4 comments -> [Show HN: Crystal, the most accurate U.S. gov't data search tool](https://askcrystal.info/)<!-- HN:43674764:end --><!-- HN:43676153:start -->
-* [43676153](https://news.social-protocols.org/stats?id=43676153) #15 15 points 5 comments -> [Microsoft Prepares for New Round of Layoffs in May 2025](https://www.thebridgechronicle.com/tech/microsoft-layoffs-may-2025)<!-- HN:43676153:end --><!-- HN:43676075:start -->
-* [43676075](https://news.social-protocols.org/stats?id=43676075) #3 25 points 1 comments -> [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)<!-- HN:43676075:end -->
 #### **Monday, April 14, 2025**<!-- HN:43651295:start -->
 * [43651295](https://news.social-protocols.org/stats?id=43651295) #14 26 points 41 comments -> [Organised gangs behind rise in QR 'quishing' scams](https://www.bbc.com/news/articles/cq6yznmv3gzo)<!-- HN:43651295:end --><!-- HN:43680019:start -->
 * [43680019](https://news.social-protocols.org/stats?id=43680019) #28 4 points 1 comments -> [Delete All IP Law](https://twitter.com/jack/status/1910829254214115681)<!-- HN:43680019:end --><!-- HN:43678914:start -->
