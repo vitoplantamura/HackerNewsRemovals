@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 20, 2025**
 <!-- HN:43742722:start -->
 * [43742722](https://news.social-protocols.org/stats?id=43742722) #4 62 points 27 comments -> [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)<!-- HN:43742722:end --><!-- HN:43743406:start -->
-* [43743406](https://news.social-protocols.org/stats?id=43743406) #25 5 points 0 comments -> ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)<!-- HN:43743406:end -->
+* [43743406](https://news.social-protocols.org/stats?id=43743406) #25 5 points 0 comments -> ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)<!-- HN:43743406:end --><!-- HN:43714823:start -->
+* [43714823](https://news.social-protocols.org/stats?id=43714823) #22 18 points 21 comments -> [Show HN: Lit.money – Ethically designed to be a private, simple way to see money](https://lit.money/)<!-- HN:43714823:end -->
