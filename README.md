@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43743316](https://news.social-protocols.org/stats?id=43743316) #18 6 points 0 comments -> [The Americans the House GOP want to uninsure](https://www.thefarce.org/why-is-no-one-talking-about-the-millions-of-americans-the-house-gop-wants-to-uninsure/)<!-- HN:43743316:end --><!-- HN:43745469:start -->
 * [43745469](https://news.social-protocols.org/stats?id=43745469) #10 127 points 33 comments -> [U.S. citizen in Arizona detained by immigration officials for 10 days](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/)<!-- HN:43745469:end --><!-- HN:43747310:start -->
 * [43747310](https://news.social-protocols.org/stats?id=43747310) #6 31 points 3 comments -> [Pete Hegseth shared Yemen attack details in second Signal chat](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack)<!-- HN:43747310:end -->
+#### **Monday, April 21, 2025**
+<!-- HN:43747737:start -->
+* [43747737](https://news.social-protocols.org/stats?id=43747737) #13 7 points 0 comments -> [Tariffs are pure psychology for the president, fused into his brain](https://www.axios.com/2025/04/19/inside-trump-mindset-tariffs)<!-- HN:43747737:end -->
