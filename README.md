@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 21, 2025**
 <!-- HN:43747737:start -->
 * [43747737](https://news.social-protocols.org/stats?id=43747737) #13 7 points 0 comments -> [Tariffs are pure psychology for the president, fused into his brain](https://www.axios.com/2025/04/19/inside-trump-mindset-tariffs)<!-- HN:43747737:end --><!-- HN:43747390:start -->
-* [43747390](https://news.social-protocols.org/stats?id=43747390) #20 5 points 2 comments -> [When Playdate Stopped Being Fun](https://blog.gingerbeardman.com/2025/04/15/when-playdate-stopped-being-fun/)<!-- HN:43747390:end -->
+* [43747390](https://news.social-protocols.org/stats?id=43747390) #20 5 points 2 comments -> [When Playdate Stopped Being Fun](https://blog.gingerbeardman.com/2025/04/15/when-playdate-stopped-being-fun/)<!-- HN:43747390:end --><!-- HN:43747946:start -->
+* [43747946](https://news.social-protocols.org/stats?id=43747946) #29 5 points 0 comments -> [US Government imposes license requirement on Nvidia H20 exports](https://techcrunch.com/2025/04/15/us-government-imposes-license-requirement-on-nvidia-h20-exports/)<!-- HN:43747946:end -->
