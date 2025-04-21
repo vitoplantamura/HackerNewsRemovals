@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43747310](https://news.social-protocols.org/stats?id=43747310) #6 31 points 3 comments -> [Pete Hegseth shared Yemen attack details in second Signal chat](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack)<!-- HN:43747310:end -->
 #### **Monday, April 21, 2025**
 <!-- HN:43747737:start -->
-* [43747737](https://news.social-protocols.org/stats?id=43747737) #13 7 points 0 comments -> [Tariffs are pure psychology for the president, fused into his brain](https://www.axios.com/2025/04/19/inside-trump-mindset-tariffs)<!-- HN:43747737:end -->
+* [43747737](https://news.social-protocols.org/stats?id=43747737) #13 7 points 0 comments -> [Tariffs are pure psychology for the president, fused into his brain](https://www.axios.com/2025/04/19/inside-trump-mindset-tariffs)<!-- HN:43747737:end --><!-- HN:43747390:start -->
+* [43747390](https://news.social-protocols.org/stats?id=43747390) #20 5 points 2 comments -> [When Playdate Stopped Being Fun](https://blog.gingerbeardman.com/2025/04/15/when-playdate-stopped-being-fun/)<!-- HN:43747390:end -->
