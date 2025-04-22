@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43734794](https://news.social-protocols.org/stats?id=43734794) #20 8 points 6 comments -> [Show HN: I rewrote few of the common core string.h functions](https://github.com/deep-vinci/re-implement-c)<!-- HN:43734794:end --><!-- HN:43754417:start -->
 * [43754417](https://news.social-protocols.org/stats?id=43754417) #27 5 points 0 comments -> [The White House has begun process of looking for new secretary of defense](https://www.npr.org/2025/04/21/nx-s1-5371312/trump-white-house-pete-hegseth-defense-department)<!-- HN:43754417:end --><!-- HN:43754438:start -->
 * [43754438](https://news.social-protocols.org/stats?id=43754438) #6 6 points 0 comments -> [A Science Project: "Make the 486 Great Again!" - Modern Linux in an ancient PC](https://yeokhengmeng.com/2018/01/make-the-486-great-again/)<!-- HN:43754438:end -->
+#### **Tuesday, April 22, 2025**
+<!-- HN:43757503:start -->
+* [43757503](https://news.social-protocols.org/stats?id=43757503) #18 8 points 1 comments -> [Building our "native-AI newsroom"](https://www.regenerator1.com/p/building-our-native-ai-newsroom)<!-- HN:43757503:end -->
