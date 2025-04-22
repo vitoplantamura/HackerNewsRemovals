@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43754438](https://news.social-protocols.org/stats?id=43754438) #6 6 points 0 comments -> [A Science Project: "Make the 486 Great Again!" - Modern Linux in an ancient PC](https://yeokhengmeng.com/2018/01/make-the-486-great-again/)<!-- HN:43754438:end -->
 #### **Tuesday, April 22, 2025**
 <!-- HN:43757503:start -->
-* [43757503](https://news.social-protocols.org/stats?id=43757503) #18 8 points 1 comments -> [Building our "native-AI newsroom"](https://www.regenerator1.com/p/building-our-native-ai-newsroom)<!-- HN:43757503:end -->
+* [43757503](https://news.social-protocols.org/stats?id=43757503) #18 8 points 1 comments -> [Building our "native-AI newsroom"](https://www.regenerator1.com/p/building-our-native-ai-newsroom)<!-- HN:43757503:end --><!-- HN:43757734:start -->
+* [43757734](https://news.social-protocols.org/stats?id=43757734) #7 16 points 2 comments -> [Business Cards](https://kolyder.com/business-cards/)<!-- HN:43757734:end -->
