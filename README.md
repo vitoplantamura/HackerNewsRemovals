@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, April 15, 2025**<!-- HN:43688456:start -->
-* [43688456](https://news.social-protocols.org/stats?id=43688456) #8 11 points 9 comments -> [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)<!-- HN:43688456:end --><!-- HN:43688395:start -->
-* [43688395](https://news.social-protocols.org/stats?id=43688395) #22 32 points 13 comments -> [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)<!-- HN:43688395:end --><!-- HN:43688962:start -->
-* [43688962](https://news.social-protocols.org/stats?id=43688962) #28 31 points 40 comments -> [The Industrialization of IT](https://benn.substack.com/p/the-industrialization-of-it)<!-- HN:43688962:end --><!-- HN:43690732:start -->
-* [43690732](https://news.social-protocols.org/stats?id=43690732) #3 12 points 5 comments -> [Understanding US Power Outages – By Brian Potter](https://www.construction-physics.com/p/understanding-us-power-outages)<!-- HN:43690732:end --><!-- HN:43692341:start -->
-* [43692341](https://news.social-protocols.org/stats?id=43692341) #3 9 points 1 comments -> [Show HN: Million Dollar Homepage Meets LinkedIn](https://10000resumes.com)<!-- HN:43692341:end --><!-- HN:43692690:start -->
-* [43692690](https://news.social-protocols.org/stats?id=43692690) #18 46 points 14 comments -> [I'm getting fed up of making the rich, richer](https://bell.bz/im-getting-fed-up-of-making-the-rich-richer/)<!-- HN:43692690:end --><!-- HN:43694252:start -->
-* [43694252](https://news.social-protocols.org/stats?id=43694252) #8 7 points 1 comments -> ["We have no bros and no oligarchs" EU President Ursula von der Leyen](https://www.zeit.de/politik/2025-04/ursula-von-der-leyen-eu-usa-donald-trump-english)<!-- HN:43694252:end --><!-- HN:43695069:start -->
-* [43695069](https://news.social-protocols.org/stats?id=43695069) #5 22 points 2 comments -> [Show HN: I made a tool to send a letter now people use it to just print](https://www.pieterpost.com/)<!-- HN:43695069:end --><!-- HN:43695424:start -->
-* [43695424](https://news.social-protocols.org/stats?id=43695424) #14 13 points 2 comments -> [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)<!-- HN:43695424:end --><!-- HN:43696213:start -->
-* [43696213](https://news.social-protocols.org/stats?id=43696213) #25 16 points 0 comments -> [OCC Notifies Congress of Incident Involving Email System](https://occ.gov/news-issuances/news-releases/2025/nr-occ-2025-30.html)<!-- HN:43696213:end --><!-- HN:43699126:start -->
-* [43699126](https://news.social-protocols.org/stats?id=43699126) #9 4 points 0 comments -> [Show HN: Open Source AI App – Try on Any Outfit](https://github.com/oyeolamilekan/gemini-ai-tryon)<!-- HN:43699126:end -->
 #### **Wednesday, April 16, 2025**
 <!-- HN:43702201:start -->
 * [43702201](https://news.social-protocols.org/stats?id=43702201) #2 15 points 14 comments -> [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)<!-- HN:43702201:end --><!-- HN:43666814:start -->
