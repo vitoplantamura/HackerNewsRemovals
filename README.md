@@ -151,3 +151,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43761866](https://news.social-protocols.org/stats?id=43761866) #17 12 points 2 comments -> [Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast](https://github.com/feast-dev/feast/tree/master/examples/rag-docling)<!-- HN:43761866:end --><!-- HN:43764062:start -->
 * [43764062](https://news.social-protocols.org/stats?id=43764062) #20 11 points 4 comments -> [Google will keep cookies and skip opt-out option in Chrome](https://privacysandbox.com/news/privacy-sandbox-next-steps/)<!-- HN:43764062:end --><!-- HN:43764793:start -->
 * [43764793](https://news.social-protocols.org/stats?id=43764793) #25 11 points 3 comments -> [Show HN: My Porn addiction quitting app got 600 downloads and $218 in a week](https://unlustapp.com/app)<!-- HN:43764793:end -->
+#### **Wednesday, April 23, 2025**
+<!-- HN:43768031:start -->
+* [43768031](https://news.social-protocols.org/stats?id=43768031) #3 9 points 1 comments -> [Burn Your Title](https://notes.eatonphil.com/2025-04-22-burn-your-title.html)<!-- HN:43768031:end -->
