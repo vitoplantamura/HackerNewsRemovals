@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, April 16, 2025**
-<!-- HN:43702201:start -->
-* [43702201](https://news.social-protocols.org/stats?id=43702201) #2 15 points 14 comments -> [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)<!-- HN:43702201:end --><!-- HN:43666814:start -->
-* [43666814](https://news.social-protocols.org/stats?id=43666814) #21 4 points 2 comments -> [Curse of the German Cat or the Most Ridiculous Aircraft Carrier Loss in History](https://en.topwar.ru/261547-prokljatie-nemeckogo-kota-ili-samaja-nelepaja-gibel-avianosca-za-vsju-istoriju.html)<!-- HN:43666814:end --><!-- HN:43703951:start -->
-* [43703951](https://news.social-protocols.org/stats?id=43703951) #13 5 points 0 comments -> [Trumps escalating trade war in 5 scenarios: impact on Dutch economy [Dutch]](https://www.rabobank.nl/kennis/d011475085-trumps-escalerende-handelsoorlog-in-vijf-scenarios-impact-op-de-nederlandse-economie-en-breder)<!-- HN:43703951:end --><!-- HN:43704357:start -->
-* [43704357](https://news.social-protocols.org/stats?id=43704357) #8 29 points 27 comments -> [We're Raising Kids to Prefer AI over People–and No One's Noticing](https://substack.com/home/post/p-161454917)<!-- HN:43704357:end --><!-- HN:43704319:start -->
-* [43704319](https://news.social-protocols.org/stats?id=43704319) #3 29 points 13 comments -> [AI Is Facing a Crisis](https://savethe.ai/)<!-- HN:43704319:end --><!-- HN:43704481:start -->
-* [43704481](https://news.social-protocols.org/stats?id=43704481) #22 11 points 3 comments -> [Russian Breach of US Data Through Doge over Starlink "Directly to Russia"](https://www.narativ.org/p/whistle-blower-russian-breach-of)<!-- HN:43704481:end --><!-- HN:43704951:start -->
-* [43704951](https://news.social-protocols.org/stats?id=43704951) #12 26 points 15 comments -> [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)<!-- HN:43704951:end -->
 #### **Thursday, April 17, 2025**
 <!-- HN:43712212:start -->
 * [43712212](https://news.social-protocols.org/stats?id=43712212) #6 7 points 0 comments -> [American Concentration Camps](https://chrishedges.substack.com/p/american-concentration-camps)<!-- HN:43712212:end --><!-- HN:43712663:start -->
