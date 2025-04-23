@@ -154,4 +154,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 23, 2025**
 <!-- HN:43768031:start -->
 * [43768031](https://news.social-protocols.org/stats?id=43768031) #3 9 points 1 comments -> [Burn Your Title](https://notes.eatonphil.com/2025-04-22-burn-your-title.html)<!-- HN:43768031:end --><!-- HN:43768088:start -->
-* [43768088](https://news.social-protocols.org/stats?id=43768088) #5 32 points 40 comments -> [The Outlook for Programmers](https://cacm.acm.org/news/the-outlook-for-programmers/)<!-- HN:43768088:end -->
+* [43768088](https://news.social-protocols.org/stats?id=43768088) #5 32 points 40 comments -> [The Outlook for Programmers](https://cacm.acm.org/news/the-outlook-for-programmers/)<!-- HN:43768088:end --><!-- HN:43769107:start -->
+* [43769107](https://news.social-protocols.org/stats?id=43769107) #27 5 points 0 comments -> [Open Sourcing the Home CMS](https://fasterthanli.me/articles/open-sourcing-the-home-cms)<!-- HN:43769107:end -->
