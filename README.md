@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43764793](https://news.social-protocols.org/stats?id=43764793) #25 11 points 3 comments -> [Show HN: My Porn addiction quitting app got 600 downloads and $218 in a week](https://unlustapp.com/app)<!-- HN:43764793:end -->
 #### **Wednesday, April 23, 2025**
 <!-- HN:43768031:start -->
-* [43768031](https://news.social-protocols.org/stats?id=43768031) #3 9 points 1 comments -> [Burn Your Title](https://notes.eatonphil.com/2025-04-22-burn-your-title.html)<!-- HN:43768031:end -->
+* [43768031](https://news.social-protocols.org/stats?id=43768031) #3 9 points 1 comments -> [Burn Your Title](https://notes.eatonphil.com/2025-04-22-burn-your-title.html)<!-- HN:43768031:end --><!-- HN:43768088:start -->
+* [43768088](https://news.social-protocols.org/stats?id=43768088) #5 32 points 40 comments -> [The Outlook for Programmers](https://cacm.acm.org/news/the-outlook-for-programmers/)<!-- HN:43768088:end -->
