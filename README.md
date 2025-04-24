@@ -159,7 +159,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43778436:start -->
 * [43778436](https://news.social-protocols.org/stats?id=43778436) #29 18 points 3 comments -> [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)<!-- HN:43778436:end --><!-- HN:43779457:start -->
 * [43779457](https://news.social-protocols.org/stats?id=43779457) #11 26 points 12 comments -> [Ubuntu 25.10 Replaces GNU Coreutils with Rust Uutils](https://www.altusintel.com/public-yych08/)<!-- HN:43779457:end --><!-- HN:43779915:start -->
-* [43779915](https://news.social-protocols.org/stats?id=43779915) #3 36 points 21 comments -> [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)<!-- HN:43779915:end --><!-- HN:43780377:start -->
-* [43780377](https://news.social-protocols.org/stats?id=43780377) #8 23 points 41 comments -> [Mark Zuckerberg Says Social Media Is Over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)<!-- HN:43780377:end --><!-- HN:43780977:start -->
+* [43779915](https://news.social-protocols.org/stats?id=43779915) #3 36 points 21 comments -> [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)<!-- HN:43779915:end --><!-- HN:43780977:start -->
 * [43780977](https://news.social-protocols.org/stats?id=43780977) #10 13 points 6 comments -> [What I wish I knew about privacy sooner](https://nordictimes.com/tech/what-i-wish-i-knew-about-privacy-sooner/)<!-- HN:43780977:end --><!-- HN:43782159:start -->
 * [43782159](https://news.social-protocols.org/stats?id=43782159) #4 59 points 22 comments -> [America's reputation drops across the world](https://www.ipsos.com/en/americas-reputation-drops-across-the-world)<!-- HN:43782159:end -->
