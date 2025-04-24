@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43775366](https://news.social-protocols.org/stats?id=43775366) #28 9 points 1 comments -> ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)<!-- HN:43775366:end -->
 #### **Thursday, April 24, 2025**
 <!-- HN:43778436:start -->
-* [43778436](https://news.social-protocols.org/stats?id=43778436) #29 18 points 3 comments -> [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)<!-- HN:43778436:end -->
+* [43778436](https://news.social-protocols.org/stats?id=43778436) #29 18 points 3 comments -> [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)<!-- HN:43778436:end --><!-- HN:43779457:start -->
+* [43779457](https://news.social-protocols.org/stats?id=43779457) #11 26 points 12 comments -> [Ubuntu 25.10 Replaces GNU Coreutils with Rust Uutils](https://www.altusintel.com/public-yych08/)<!-- HN:43779457:end -->
