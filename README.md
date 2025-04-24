@@ -155,8 +155,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43774195](https://news.social-protocols.org/stats?id=43774195) #10 2 points 0 comments -> [Advancing Invoice Document Processing at Uber Using GenAI](https://www.uber.com/en-IL/blog/advancing-invoice-document-processing-using-genai/)<!-- HN:43774195:end --><!-- HN:43775715:start -->
 * [43775715](https://news.social-protocols.org/stats?id=43775715) #11 8 points 0 comments -> [Moon photovoltaics utilizing lunar regolith and halide perovskites](https://www.cell.com/device/fulltext/S2666-9986(25)00060-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998625000602%3Fshowall%3Dtrue&utm_source=clivethompson&utm_medium=email&utm_campaign=linkfest-33-two-hit-wonders-moonglass-and-trees)<!-- HN:43775715:end -->
 #### **Thursday, April 24, 2025**
-<!-- HN:43778436:start -->
-* [43778436](https://news.social-protocols.org/stats?id=43778436) #29 18 points 3 comments -> [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)<!-- HN:43778436:end --><!-- HN:43779457:start -->
+<!-- HN:43779457:start -->
 * [43779457](https://news.social-protocols.org/stats?id=43779457) #11 26 points 12 comments -> [Ubuntu 25.10 Replaces GNU Coreutils with Rust Uutils](https://www.altusintel.com/public-yych08/)<!-- HN:43779457:end --><!-- HN:43779915:start -->
 * [43779915](https://news.social-protocols.org/stats?id=43779915) #3 36 points 21 comments -> [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)<!-- HN:43779915:end --><!-- HN:43780977:start -->
 * [43780977](https://news.social-protocols.org/stats?id=43780977) #10 13 points 6 comments -> [What I wish I knew about privacy sooner](https://nordictimes.com/tech/what-i-wish-i-knew-about-privacy-sooner/)<!-- HN:43780977:end --><!-- HN:43782159:start -->
