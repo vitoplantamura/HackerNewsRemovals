@@ -150,4 +150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43788728](https://news.social-protocols.org/stats?id=43788728) #21 8 points 4 comments -> [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)<!-- HN:43788728:end --><!-- HN:43789699:start -->
 * [43789699](https://news.social-protocols.org/stats?id=43789699) #28 -> [DOGE Just Ended Nuclear in America [video]](https://youtu.be/payvx8pUTS4)<!-- HN:43789699:end --><!-- HN:43790456:start -->
 * [43790456](https://news.social-protocols.org/stats?id=43790456) #26 -> ['Trump 2028' hats and T-shirts for sale on US president's online store](https://www.theguardian.com/us-news/2025/apr/25/donald-trump-2028-merchandise-online-store)<!-- HN:43790456:end --><!-- HN:43790025:start -->
-* [43790025](https://news.social-protocols.org/stats?id=43790025) #13 11 points 7 comments -> [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)<!-- HN:43790025:end -->
+* [43790025](https://news.social-protocols.org/stats?id=43790025) #13 11 points 7 comments -> [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)<!-- HN:43790025:end --><!-- HN:43790270:start -->
+* [43790270](https://news.social-protocols.org/stats?id=43790270) #9 18 points 8 comments -> [Commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)<!-- HN:43790270:end -->
