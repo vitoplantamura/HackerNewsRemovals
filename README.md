@@ -145,3 +145,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43787768](https://news.social-protocols.org/stats?id=43787768) #27 5 points 0 comments -> [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)<!-- HN:43787768:end --><!-- HN:43788185:start -->
 * [43788185](https://news.social-protocols.org/stats?id=43788185) #25 15 points 0 comments -> [SignalGate: A Surveillance Arms Race Has Poked Gaping Hole in National Security](https://www.foreignaffairs.com/united-states/real-lesson-signal-gate-pete-hegseth)<!-- HN:43788185:end --><!-- HN:43787743:start -->
 * [43787743](https://news.social-protocols.org/stats?id=43787743) #9 9 points 30 comments -> [Could GPT help with dating anxiety?](https://scottaaronson.blog/?p=7262)<!-- HN:43787743:end -->
+#### **Friday, April 25, 2025**
+<!-- HN:43788728:start -->
+* [43788728](https://news.social-protocols.org/stats?id=43788728) #21 8 points 4 comments -> [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)<!-- HN:43788728:end -->
