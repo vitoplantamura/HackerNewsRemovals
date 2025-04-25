@@ -164,4 +164,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43797699](https://news.social-protocols.org/stats?id=43797699) #27 -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43797699:end --><!-- HN:43797941:start -->
 * [43797941](https://news.social-protocols.org/stats?id=43797941) #18 5 points 0 comments -> [The Secretary of Transportation Got Rid of Too Many Workers; Now Needs Them Back](https://www.jalopnik.com/1843532/too-many-dot-workers-quit/)<!-- HN:43797941:end --><!-- HN:43798155:start -->
 * [43798155](https://news.social-protocols.org/stats?id=43798155) #30 6 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43798155:end --><!-- HN:43799024:start -->
-* [43799024](https://news.social-protocols.org/stats?id=43799024) #28 9 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43799024:end -->
+* [43799024](https://news.social-protocols.org/stats?id=43799024) #28 9 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43799024:end --><!-- HN:43799227:start -->
+* [43799227](https://news.social-protocols.org/stats?id=43799227) #4 11 points 2 comments -> [Brand New Teslas Piling Up in Junk Yards](https://www.flyingpenguin.com/?p=45040)<!-- HN:43799227:end -->
