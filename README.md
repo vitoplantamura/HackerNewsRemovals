@@ -156,4 +156,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43791941](https://news.social-protocols.org/stats?id=43791941) #9 32 points 27 comments -> [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)<!-- HN:43791941:end --><!-- HN:43790409:start -->
 * [43790409](https://news.social-protocols.org/stats?id=43790409) #16 32 points 32 comments -> [Prepper Disk](https://www.prepperdisk.com/)<!-- HN:43790409:end --><!-- HN:43785464:start -->
 * [43785464](https://news.social-protocols.org/stats?id=43785464) #25 145 points 90 comments -> [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)<!-- HN:43785464:end --><!-- HN:43793352:start -->
-* [43793352](https://news.social-protocols.org/stats?id=43793352) #1 18 points 0 comments -> [Tariffs are just a few flaps away now](https://flappytrump.net/)<!-- HN:43793352:end -->
+* [43793352](https://news.social-protocols.org/stats?id=43793352) #1 18 points 0 comments -> [Tariffs are just a few flaps away now](https://flappytrump.net/)<!-- HN:43793352:end --><!-- HN:43793384:start -->
+* [43793384](https://news.social-protocols.org/stats?id=43793384) #10 12 points 6 comments -> [Don't fear getting fired if you have ADHD](https://claimingattention.substack.com/p/dont-fear-getting-fired-if-you-have)<!-- HN:43793384:end -->
