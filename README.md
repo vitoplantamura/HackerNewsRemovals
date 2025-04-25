@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, April 25, 2025**
 <!-- HN:43788728:start -->
 * [43788728](https://news.social-protocols.org/stats?id=43788728) #21 8 points 4 comments -> [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)<!-- HN:43788728:end --><!-- HN:43789699:start -->
-* [43789699](https://news.social-protocols.org/stats?id=43789699) #28 -> [DOGE Just Ended Nuclear in America [video]](https://youtu.be/payvx8pUTS4)<!-- HN:43789699:end -->
+* [43789699](https://news.social-protocols.org/stats?id=43789699) #28 -> [DOGE Just Ended Nuclear in America [video]](https://youtu.be/payvx8pUTS4)<!-- HN:43789699:end --><!-- HN:43790456:start -->
+* [43790456](https://news.social-protocols.org/stats?id=43790456) #26 -> ['Trump 2028' hats and T-shirts for sale on US president's online store](https://www.theguardian.com/us-news/2025/apr/25/donald-trump-2028-merchandise-online-store)<!-- HN:43790456:end -->
