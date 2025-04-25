@@ -147,4 +147,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43787743](https://news.social-protocols.org/stats?id=43787743) #9 9 points 30 comments -> [Could GPT help with dating anxiety?](https://scottaaronson.blog/?p=7262)<!-- HN:43787743:end -->
 #### **Friday, April 25, 2025**
 <!-- HN:43788728:start -->
-* [43788728](https://news.social-protocols.org/stats?id=43788728) #21 8 points 4 comments -> [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)<!-- HN:43788728:end -->
+* [43788728](https://news.social-protocols.org/stats?id=43788728) #21 8 points 4 comments -> [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)<!-- HN:43788728:end --><!-- HN:43789699:start -->
+* [43789699](https://news.social-protocols.org/stats?id=43789699) #28 -> [DOGE Just Ended Nuclear in America [video]](https://youtu.be/payvx8pUTS4)<!-- HN:43789699:end -->
