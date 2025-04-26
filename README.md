@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43799227](https://news.social-protocols.org/stats?id=43799227) #4 11 points 2 comments -> [Brand New Teslas Piling Up in Junk Yards](https://www.flyingpenguin.com/?p=45040)<!-- HN:43799227:end -->
 #### **Saturday, April 26, 2025**
 <!-- HN:43799747:start -->
-* [43799747](https://news.social-protocols.org/stats?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end -->
+* [43799747](https://news.social-protocols.org/stats?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end --><!-- HN:43804277:start -->
+* [43804277](https://news.social-protocols.org/stats?id=43804277) #17 8 points 3 comments -> [Why the Cassette Revival Is Thriving in Argentina's Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)<!-- HN:43804277:end -->
