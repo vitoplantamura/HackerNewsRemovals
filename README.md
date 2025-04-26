@@ -152,5 +152,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43799227](https://news.social-protocols.org/stats?id=43799227) #4 11 points 2 comments -> [Brand New Teslas Piling Up in Junk Yards](https://www.flyingpenguin.com/?p=45040)<!-- HN:43799227:end -->
 #### **Saturday, April 26, 2025**
 <!-- HN:43799747:start -->
-* [43799747](https://news.social-protocols.org/stats?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end --><!-- HN:43801959:start -->
-* [43801959](https://news.social-protocols.org/stats?id=43801959) #21 19 points 2 comments -> [ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation)<!-- HN:43801959:end -->
+* [43799747](https://news.social-protocols.org/stats?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end -->
