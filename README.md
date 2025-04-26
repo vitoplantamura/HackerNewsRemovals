@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 26, 2025**
 <!-- HN:43799747:start -->
 * [43799747](https://news.social-protocols.org/stats?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end --><!-- HN:43804277:start -->
-* [43804277](https://news.social-protocols.org/stats?id=43804277) #17 8 points 3 comments -> [Why the Cassette Revival Is Thriving in Argentina's Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)<!-- HN:43804277:end -->
+* [43804277](https://news.social-protocols.org/stats?id=43804277) #17 8 points 3 comments -> [Why the Cassette Revival Is Thriving in Argentina's Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)<!-- HN:43804277:end --><!-- HN:43805278:start -->
+* [43805278](https://news.social-protocols.org/stats?id=43805278) #22 4 points 0 comments -> [Getting arrested for not helping your previous employer](https://old.reddit.com/r/LegalAdviceUK/comments/1k8cawb/update_sacked_police_computer_misuseurgent/)<!-- HN:43805278:end -->
