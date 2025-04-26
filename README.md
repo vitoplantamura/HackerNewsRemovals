@@ -150,3 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43798155](https://news.social-protocols.org/stats?id=43798155) #30 6 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43798155:end --><!-- HN:43799024:start -->
 * [43799024](https://news.social-protocols.org/stats?id=43799024) #28 9 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43799024:end --><!-- HN:43799227:start -->
 * [43799227](https://news.social-protocols.org/stats?id=43799227) #4 11 points 2 comments -> [Brand New Teslas Piling Up in Junk Yards](https://www.flyingpenguin.com/?p=45040)<!-- HN:43799227:end -->
+#### **Saturday, April 26, 2025**
+<!-- HN:43799747:start -->
+* [43799747](https://news.social-protocols.org/stats?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end -->
