@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, April 19, 2025**
-<!-- HN:43731917:start -->
-* [43731917](https://news.social-protocols.org/stats?id=43731917) #27 7 points 12 comments -> [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)<!-- HN:43731917:end --><!-- HN:43711944:start -->
-* [43711944](https://news.social-protocols.org/stats?id=43711944) #18 3 points 1 comments -> [refern: Pinterest-like image organizer reimagined for creatives](https://www.refern.app/)<!-- HN:43711944:end --><!-- HN:43735697:start -->
-* [43735697](https://news.social-protocols.org/stats?id=43735697) #14 15 points 3 comments -> [Democrats: Doge building a 'master database' of Americans' sensitive information](https://www.theverge.com/tech/652215/doge-cross-agency-master-database-sensitive-information)<!-- HN:43735697:end --><!-- HN:43714125:start -->
-* [43714125](https://news.social-protocols.org/stats?id=43714125) #20 15 points 6 comments -> [How the Merchants of Ifriqiya Coded Commerce Before Silicon](https://medium.com/@macvsogjc/the-forgotten-syntax-of-salt-and-gold-how-the-merchants-of-ifriqiya-coded-commerce-before-silicon-d2e8a78e09af)<!-- HN:43714125:end --><!-- HN:43736033:start -->
-* [43736033](https://news.social-protocols.org/stats?id=43736033) #28 4 points 0 comments -> [Microsoft C/C++ Extension appears no longer support unofficial forks of VS Code](https://github.com/VSCodium/vscodium/issues/2300)<!-- HN:43736033:end --><!-- HN:43735798:start -->
-* [43735798](https://news.social-protocols.org/stats?id=43735798) #6 16 points 3 comments -> [FramePack – Enabling Fast Video Generation on Consumer GPUs](https://framepack.co/)<!-- HN:43735798:end --><!-- HN:43737374:start -->
-* [43737374](https://news.social-protocols.org/stats?id=43737374) #29 3 points 0 comments -> [Bluesky may soon add blue check verification](https://techcrunch.com/2025/04/18/bluesky-may-soon-add-blue-check-verification/)<!-- HN:43737374:end --><!-- HN:43737733:start -->
-* [43737733](https://news.social-protocols.org/stats?id=43737733) #1 8 points 1 comments -> [OpenAI, Windsurf, and the Future of Work](https://subtle.so/openai-windsurf-and-the-future-of-ai-workspaces.html)<!-- HN:43737733:end --><!-- HN:43715790:start -->
-* [43715790](https://news.social-protocols.org/stats?id=43715790) #26 29 points 40 comments -> ['Cosmic radio' detector could discover dark matter within 15 years](https://phys.org/news/2025-04-cosmic-radio-detector-dark-years.html)<!-- HN:43715790:end --><!-- HN:43738829:start -->
-* [43738829](https://news.social-protocols.org/stats?id=43738829) #5 4 points 1 comments -> [My Daughter Slept in a Coffin at the Slumber Party](https://ihidefrommykids.substack.com/p/my-daughter-slept-in-a-coffin-at)<!-- HN:43738829:end --><!-- HN:43739138:start -->
-* [43739138](https://news.social-protocols.org/stats?id=43739138) #29 5 points 1 comments -> [Supreme Court Issues Unusual Order in Alien Enemies Act Deportation Case](https://reason.com/volokh/2025/04/19/supreme-court-issues-unusual-order-in-alien-enemies-act-deportation-case/)<!-- HN:43739138:end --><!-- HN:43739357:start -->
-* [43739357](https://news.social-protocols.org/stats?id=43739357) #5 23 points 4 comments -> [Popular CT Scans Could Account for 5% of All Cancer Cases a Year](https://www.ucsf.edu/news/2025/04/429791/popular-ct-scans-could-account-5-all-cancer-cases-year)<!-- HN:43739357:end --><!-- HN:43739309:start -->
-* [43739309](https://news.social-protocols.org/stats?id=43739309) #22 7 points 4 comments -> [Show HN: $30 and 2hours with Claude Code produced this](https://github.com/JordanDalton/pm)<!-- HN:43739309:end --><!-- HN:43740187:start -->
-* [43740187](https://news.social-protocols.org/stats?id=43740187) #23 6 points 0 comments -> ['The bomber's words sound mainstream. Like he won ' Oklahoma City's tragedy](https://www.theguardian.com/us-news/2025/apr/19/timothy-mcveigh-oklahoma-bombing-far-right-1995)<!-- HN:43740187:end -->
 #### **Sunday, April 20, 2025**
 <!-- HN:43742722:start -->
 * [43742722](https://news.social-protocols.org/stats?id=43742722) #4 62 points 27 comments -> [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)<!-- HN:43742722:end --><!-- HN:43743406:start -->
