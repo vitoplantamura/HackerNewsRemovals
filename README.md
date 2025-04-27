@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, April 20, 2025**
-<!-- HN:43742722:start -->
-* [43742722](https://news.social-protocols.org/stats?id=43742722) #4 62 points 27 comments -> [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)<!-- HN:43742722:end --><!-- HN:43743406:start -->
-* [43743406](https://news.social-protocols.org/stats?id=43743406) #25 5 points 0 comments -> ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)<!-- HN:43743406:end --><!-- HN:43714823:start -->
-* [43714823](https://news.social-protocols.org/stats?id=43714823) #22 18 points 21 comments -> [Show HN: Lit.money – Ethically designed to be a private, simple way to see money](https://lit.money/)<!-- HN:43714823:end --><!-- HN:43744118:start -->
-* [43744118](https://news.social-protocols.org/stats?id=43744118) #18 15 points 0 comments -> [Microsoft faces growing unrest over role in Israel's war on Gaza](https://www.theguardian.com/technology/2025/apr/18/microsoft-ai-israel-gaza-war)<!-- HN:43744118:end --><!-- HN:43744006:start -->
-* [43744006](https://news.social-protocols.org/stats?id=43744006) #19 12 points 5 comments -> [What's happening with Tesla's solar roof?](https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/)<!-- HN:43744006:end --><!-- HN:43743621:start -->
-* [43743621](https://news.social-protocols.org/stats?id=43743621) #19 3 points 2 comments -> [Show HN: Frame-Pack-Next Frame Prediction AI Video Generator](https://frame-pack.video/)<!-- HN:43743621:end --><!-- HN:43743880:start -->
-* [43743880](https://news.social-protocols.org/stats?id=43743880) #5 9 points 0 comments -> [Show HN: MCP Containers – Easily and securely run MCP servers locally](https://github.com/metorial/mcp-containers)<!-- HN:43743880:end --><!-- HN:43743316:start -->
-* [43743316](https://news.social-protocols.org/stats?id=43743316) #18 6 points 0 comments -> [The Americans the House GOP want to uninsure](https://www.thefarce.org/why-is-no-one-talking-about-the-millions-of-americans-the-house-gop-wants-to-uninsure/)<!-- HN:43743316:end --><!-- HN:43745469:start -->
-* [43745469](https://news.social-protocols.org/stats?id=43745469) #10 127 points 33 comments -> [U.S. citizen in Arizona detained by immigration officials for 10 days](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/)<!-- HN:43745469:end --><!-- HN:43747310:start -->
-* [43747310](https://news.social-protocols.org/stats?id=43747310) #6 31 points 3 comments -> [Pete Hegseth shared Yemen attack details in second Signal chat](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack)<!-- HN:43747310:end -->
 #### **Monday, April 21, 2025**
 <!-- HN:43747737:start -->
 * [43747737](https://news.social-protocols.org/stats?id=43747737) #13 7 points 0 comments -> [Tariffs are pure psychology for the president, fused into his brain](https://www.axios.com/2025/04/19/inside-trump-mindset-tariffs)<!-- HN:43747737:end --><!-- HN:43747390:start -->
