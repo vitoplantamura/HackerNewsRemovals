@@ -147,3 +147,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43806495](https://news.social-protocols.org/stats?id=43806495) #15 9 points 0 comments -> [The record-breaking tunnel being built from Denmark to Germany](https://www.bbc.com/news/articles/cy70y2x3xj6o)<!-- HN:43806495:end --><!-- HN:43806308:start -->
 * [43806308](https://news.social-protocols.org/stats?id=43806308) #30 30 points 7 comments -> [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)<!-- HN:43806308:end --><!-- HN:43807813:start -->
 * [43807813](https://news.social-protocols.org/stats?id=43807813) #17 -> [In DOGE's Hunt for Imaginary Censors, It Kills Actual Anti-Censorship Research](https://www.techdirt.com/2025/04/25/in-doges-hunt-for-imaginary-censors-it-kills-actual-anti-censorship-research/)<!-- HN:43807813:end -->
+#### **Sunday, April 27, 2025**
+<!-- HN:43808294:start -->
+* [43808294](https://news.social-protocols.org/stats?id=43808294) #20 36 points 69 comments -> [I Tried Windows Gaming on a Mac and It's Amazing](https://www.andrewethanzeng.com/i-tried-windows-gaming-on-a-macand-its-amazing/)<!-- HN:43808294:end -->
