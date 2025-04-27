@@ -149,4 +149,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43807813](https://news.social-protocols.org/stats?id=43807813) #17 -> [In DOGE's Hunt for Imaginary Censors, It Kills Actual Anti-Censorship Research](https://www.techdirt.com/2025/04/25/in-doges-hunt-for-imaginary-censors-it-kills-actual-anti-censorship-research/)<!-- HN:43807813:end -->
 #### **Sunday, April 27, 2025**
 <!-- HN:43808294:start -->
-* [43808294](https://news.social-protocols.org/stats?id=43808294) #20 36 points 69 comments -> [I Tried Windows Gaming on a Mac and It's Amazing](https://www.andrewethanzeng.com/i-tried-windows-gaming-on-a-macand-its-amazing/)<!-- HN:43808294:end -->
+* [43808294](https://news.social-protocols.org/stats?id=43808294) #20 36 points 69 comments -> [I Tried Windows Gaming on a Mac and It's Amazing](https://www.andrewethanzeng.com/i-tried-windows-gaming-on-a-macand-its-amazing/)<!-- HN:43808294:end --><!-- HN:43808711:start -->
+* [43808711](https://news.social-protocols.org/stats?id=43808711) #1 11 points 1 comments -> [Prime Number Mystery Is Key to Magic: The Gathering Game Strategy](https://www.scientificamerican.com/article/magic-the-gathering-fans-harness-prime-number-puzzle-as-a-game-strategy/)<!-- HN:43808711:end -->
