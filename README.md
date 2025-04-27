@@ -150,4 +150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 27, 2025**
 <!-- HN:43808294:start -->
 * [43808294](https://news.social-protocols.org/stats?id=43808294) #20 36 points 69 comments -> [I Tried Windows Gaming on a Mac and It's Amazing](https://www.andrewethanzeng.com/i-tried-windows-gaming-on-a-macand-its-amazing/)<!-- HN:43808294:end --><!-- HN:43808711:start -->
-* [43808711](https://news.social-protocols.org/stats?id=43808711) #1 11 points 1 comments -> [Prime Number Mystery Is Key to Magic: The Gathering Game Strategy](https://www.scientificamerican.com/article/magic-the-gathering-fans-harness-prime-number-puzzle-as-a-game-strategy/)<!-- HN:43808711:end -->
+* [43808711](https://news.social-protocols.org/stats?id=43808711) #1 11 points 1 comments -> [Prime Number Mystery Is Key to Magic: The Gathering Game Strategy](https://www.scientificamerican.com/article/magic-the-gathering-fans-harness-prime-number-puzzle-as-a-game-strategy/)<!-- HN:43808711:end --><!-- HN:43809528:start -->
+* [43809528](https://news.social-protocols.org/stats?id=43809528) #6 6 points 8 comments -> [The End of Programming](https://cacm.acm.org/opinion/the-end-of-programming/)<!-- HN:43809528:end -->
