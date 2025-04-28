@@ -145,3 +145,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43815354](https://news.social-protocols.org/stats?id=43815354) #28 4 points 1 comments -> [How the idea of stripping citizenship for crimes spread across Europe](https://www.theguardian.com/world/2025/apr/26/how-idea-of-stripping-citizenship-for-crimes-spread-across-europe)<!-- HN:43815354:end --><!-- HN:43815069:start -->
 * [43815069](https://news.social-protocols.org/stats?id=43815069) #30 28 points 15 comments -> [Thoughts Upon Slavery, by John Wesley (1774)](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1)<!-- HN:43815069:end --><!-- HN:43816071:start -->
 * [43816071](https://news.social-protocols.org/stats?id=43816071) #3 12 points 1 comments -> [I wouldn't get into a Tesla Robotaxi](https://substack.com/@theahura/note/c-112383923)<!-- HN:43816071:end -->
+#### **Monday, April 28, 2025**
+<!-- HN:43816291:start -->
+* [43816291](https://news.social-protocols.org/stats?id=43816291) #13 8 points 2 comments -> [Is open-world design making games worse?](https://dadrian.io/blog/posts/open-world-games-trends/)<!-- HN:43816291:end -->
