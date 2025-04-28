@@ -148,5 +148,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43816291:start -->
 * [43816291](https://news.social-protocols.org/stats?id=43816291) #13 8 points 2 comments -> [Is open-world design making games worse?](https://dadrian.io/blog/posts/open-world-games-trends/)<!-- HN:43816291:end --><!-- HN:43816186:start -->
 * [43816186](https://news.social-protocols.org/stats?id=43816186) #6 7 points 1 comments -> [Many cultures borrow. Japan transforms](https://www.nytimes.com/2025/04/22/t-magazine/foreign-imports-japan.html)<!-- HN:43816186:end --><!-- HN:43816376:start -->
-* [43816376](https://news.social-protocols.org/stats?id=43816376) #10 51 points 27 comments -> [National Archives Releases Unidentified Anomalous Phenomena (UAP) Records](https://www.archives.gov/press/press-releases/2025/nr25-07)<!-- HN:43816376:end --><!-- HN:43816651:start -->
-* [43816651](https://news.social-protocols.org/stats?id=43816651) #8 8 points 1 comments -> [Visual Transistor-level Simulation of the 6502 CPU](http://www.visual6502.org/)<!-- HN:43816651:end -->
+* [43816376](https://news.social-protocols.org/stats?id=43816376) #10 51 points 27 comments -> [National Archives Releases Unidentified Anomalous Phenomena (UAP) Records](https://www.archives.gov/press/press-releases/2025/nr25-07)<!-- HN:43816376:end -->
