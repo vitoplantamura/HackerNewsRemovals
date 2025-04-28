@@ -147,4 +147,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 28, 2025**
 <!-- HN:43816291:start -->
 * [43816291](https://news.social-protocols.org/stats?id=43816291) #13 8 points 2 comments -> [Is open-world design making games worse?](https://dadrian.io/blog/posts/open-world-games-trends/)<!-- HN:43816291:end --><!-- HN:43816186:start -->
-* [43816186](https://news.social-protocols.org/stats?id=43816186) #6 7 points 1 comments -> [Many cultures borrow. Japan transforms](https://www.nytimes.com/2025/04/22/t-magazine/foreign-imports-japan.html)<!-- HN:43816186:end -->
+* [43816186](https://news.social-protocols.org/stats?id=43816186) #6 7 points 1 comments -> [Many cultures borrow. Japan transforms](https://www.nytimes.com/2025/04/22/t-magazine/foreign-imports-japan.html)<!-- HN:43816186:end --><!-- HN:43816071:start -->
+* [43816071](https://news.social-protocols.org/stats?id=43816071) #12 22 points 9 comments -> [I wouldn't get into a Tesla Robotaxi](https://substack.com/@theahura/note/c-112383923)<!-- HN:43816071:end -->
