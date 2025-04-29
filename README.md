@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, April 22, 2025**
-<!-- HN:43757503:start -->
-* [43757503](https://news.social-protocols.org/stats?id=43757503) #18 8 points 1 comments -> [Building our "native-AI newsroom"](https://www.regenerator1.com/p/building-our-native-ai-newsroom)<!-- HN:43757503:end --><!-- HN:43757734:start -->
-* [43757734](https://news.social-protocols.org/stats?id=43757734) #7 16 points 2 comments -> [Business Cards](https://kolyder.com/business-cards/)<!-- HN:43757734:end --><!-- HN:43758447:start -->
-* [43758447](https://news.social-protocols.org/stats?id=43758447) #6 6 points 0 comments -> [Tyranny. Com: Technologies of Unreason](https://ellgood.medium.com/tyranny-com-technologies-of-unreason-f0a1feede076)<!-- HN:43758447:end --><!-- HN:43760294:start -->
-* [43760294](https://news.social-protocols.org/stats?id=43760294) #19 12 points 3 comments -> [The Crypto Con: How Trump Is Looting America from the Oval Office](https://mitchthelawyer.substack.com/p/the-crypto-con-how-trump-is-looting)<!-- HN:43760294:end --><!-- HN:43737503:start -->
-* [43737503](https://news.social-protocols.org/stats?id=43737503) #9 24 points 41 comments -> [The 'freaky and unpleasant' world when video games leak into the physical realm](https://www.bbc.com/future/article/20250409-game-transfer-phenomenon-the-people-who-see-video-games-in-the-physical-world)<!-- HN:43737503:end --><!-- HN:43760801:start -->
-* [43760801](https://news.social-protocols.org/stats?id=43760801) #1 629 points 248 comments -> [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/)<!-- HN:43760801:end --><!-- HN:43761610:start -->
-* [43761610](https://news.social-protocols.org/stats?id=43761610) #21 27 points 40 comments -> [Student loans in default to be referred to debt collection, Dept of Ed says](https://apnews.com/article/student-loan-debt-default-collection-fa6498bf519e0d50f2cd80166faef32a)<!-- HN:43761610:end --><!-- HN:43761213:start -->
-* [43761213](https://news.social-protocols.org/stats?id=43761213) #12 7 points 1 comments -> [New NIH director defends grant cuts as part of shift to support MAHA vision](https://www.science.org/content/article/new-nih-director-defends-grant-cuts-part-shift-support-maha-vision)<!-- HN:43761213:end --><!-- HN:43760875:start -->
-* [43760875](https://news.social-protocols.org/stats?id=43760875) #25 7 points 41 comments -> [In restaurants, We need a new way to signal that we're ready to pay](https://sebs.website/blog/in-restaurants-we-need-a-new-way-to-signal-payment)<!-- HN:43760875:end --><!-- HN:43761866:start -->
-* [43761866](https://news.social-protocols.org/stats?id=43761866) #17 12 points 2 comments -> [Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast](https://github.com/feast-dev/feast/tree/master/examples/rag-docling)<!-- HN:43761866:end --><!-- HN:43764062:start -->
-* [43764062](https://news.social-protocols.org/stats?id=43764062) #20 11 points 4 comments -> [Google will keep cookies and skip opt-out option in Chrome](https://privacysandbox.com/news/privacy-sandbox-next-steps/)<!-- HN:43764062:end --><!-- HN:43764793:start -->
-* [43764793](https://news.social-protocols.org/stats?id=43764793) #25 11 points 3 comments -> [Show HN: My Porn addiction quitting app got 600 downloads and $218 in a week](https://unlustapp.com/app)<!-- HN:43764793:end -->
 #### **Wednesday, April 23, 2025**
 <!-- HN:43768031:start -->
 * [43768031](https://news.social-protocols.org/stats?id=43768031) #3 9 points 1 comments -> [Burn Your Title](https://notes.eatonphil.com/2025-04-22-burn-your-title.html)<!-- HN:43768031:end --><!-- HN:43768088:start -->
