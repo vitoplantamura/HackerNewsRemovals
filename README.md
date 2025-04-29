@@ -153,5 +153,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43826425](https://news.social-protocols.org/stats?id=43826425) #13 24 points 3 comments -> [On Lisp](https://www.paulgraham.com/onlisptext.html)<!-- HN:43826425:end -->
 #### **Tuesday, April 29, 2025**
 <!-- HN:43825798:start -->
-* [43825798](https://news.social-protocols.org/stats?id=43825798) #29 25 points 14 comments -> [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)<!-- HN:43825798:end --><!-- HN:43828713:start -->
-* [43828713](https://news.social-protocols.org/stats?id=43828713) #1 31 points 3 comments -> [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)<!-- HN:43828713:end -->
+* [43825798](https://news.social-protocols.org/stats?id=43825798) #29 25 points 14 comments -> [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)<!-- HN:43825798:end -->
