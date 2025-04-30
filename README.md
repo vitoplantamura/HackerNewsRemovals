@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43837810](https://news.social-protocols.org/stats?id=43837810) #11 19 points 6 comments -> [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)<!-- HN:43837810:end -->
 #### **Wednesday, April 30, 2025**
 <!-- HN:43840062:start -->
-* [43840062](https://news.social-protocols.org/stats?id=43840062) #15 14 points 3 comments -> [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)<!-- HN:43840062:end -->
+* [43840062](https://news.social-protocols.org/stats?id=43840062) #15 14 points 3 comments -> [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)<!-- HN:43840062:end --><!-- HN:43842915:start -->
+* [43842915](https://news.social-protocols.org/stats?id=43842915) #3 10 points 0 comments -> [Awesome List on AI for Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)<!-- HN:43842915:end -->
