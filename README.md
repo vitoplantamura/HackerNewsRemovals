@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43832554](https://news.social-protocols.org/stats?id=43832554) #5 4 points 0 comments -> [My new Alpine-Linux kiosk miniPC (€189) boots in ~3 seconds](https://giuliomagnifico.blog/post/2025-24-04-minipc-kiosk/)<!-- HN:43832554:end --><!-- HN:43832051:start -->
 * [43832051](https://news.social-protocols.org/stats?id=43832051) #26 12 points 0 comments -> [White House Press Secretary Refuses to Rule Out Arrest of Supreme Court Judges](https://newrepublic.com/post/194481/karoline-leavitt-arrest-supreme-court-judges)<!-- HN:43832051:end --><!-- HN:43837810:start -->
 * [43837810](https://news.social-protocols.org/stats?id=43837810) #11 19 points 6 comments -> [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)<!-- HN:43837810:end -->
+#### **Wednesday, April 30, 2025**
+<!-- HN:43840062:start -->
+* [43840062](https://news.social-protocols.org/stats?id=43840062) #15 14 points 3 comments -> [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)<!-- HN:43840062:end -->
