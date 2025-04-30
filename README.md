@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43840062:start -->
 * [43840062](https://news.social-protocols.org/stats?id=43840062) #15 14 points 3 comments -> [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)<!-- HN:43840062:end --><!-- HN:43842915:start -->
 * [43842915](https://news.social-protocols.org/stats?id=43842915) #3 10 points 0 comments -> [Awesome List on AI for Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)<!-- HN:43842915:end --><!-- HN:43842821:start -->
-* [43842821](https://news.social-protocols.org/stats?id=43842821) #4 29 points 18 comments -> [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/)<!-- HN:43842821:end -->
+* [43842821](https://news.social-protocols.org/stats?id=43842821) #4 29 points 18 comments -> [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/)<!-- HN:43842821:end --><!-- HN:43843547:start -->
+* [43843547](https://news.social-protocols.org/stats?id=43843547) #26 19 points 40 comments -> [Statewide fluoride ban for tap water passes in Florida](https://www.miamiherald.com/news/local/community/miami-dade/article305335416.html)<!-- HN:43843547:end -->
