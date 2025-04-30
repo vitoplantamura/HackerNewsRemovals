@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, April 23, 2025**
-<!-- HN:43768031:start -->
-* [43768031](https://news.social-protocols.org/stats?id=43768031) #3 9 points 1 comments -> [Burn Your Title](https://notes.eatonphil.com/2025-04-22-burn-your-title.html)<!-- HN:43768031:end --><!-- HN:43768088:start -->
-* [43768088](https://news.social-protocols.org/stats?id=43768088) #5 32 points 40 comments -> [The Outlook for Programmers](https://cacm.acm.org/news/the-outlook-for-programmers/)<!-- HN:43768088:end --><!-- HN:43769107:start -->
-* [43769107](https://news.social-protocols.org/stats?id=43769107) #27 5 points 0 comments -> [Open Sourcing the Home CMS](https://fasterthanli.me/articles/open-sourcing-the-home-cms)<!-- HN:43769107:end --><!-- HN:43769959:start -->
-* [43769959](https://news.social-protocols.org/stats?id=43769959) #6 28 points 18 comments -> [A Pixel Is Not a Little Square (1995) [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)<!-- HN:43769959:end --><!-- HN:43770704:start -->
-* [43770704](https://news.social-protocols.org/stats?id=43770704) #6 5 points 1 comments -> [What happens after the Pope dies?](https://www.vaticannews.va/en/vatican-city/news/2025-04/pope-death-what-happens-interregnum-sede-vacans.html)<!-- HN:43770704:end --><!-- HN:43770797:start -->
-* [43770797](https://news.social-protocols.org/stats?id=43770797) #18 38 points 0 comments -> [Mozilla blocks UAE for internet security guardian after hacking reports (2019)](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)<!-- HN:43770797:end --><!-- HN:43772012:start -->
-* [43772012](https://news.social-protocols.org/stats?id=43772012) #5 23 points 27 comments -> [Berlin DeepTech Landscape](https://startup-map.berlin/lists/53190)<!-- HN:43772012:end --><!-- HN:43770396:start -->
-* [43770396](https://news.social-protocols.org/stats?id=43770396) #26 120 points 128 comments -> [EU fines Apple €500M and Meta €200M](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/)<!-- HN:43770396:end --><!-- HN:43772696:start -->
-* [43772696](https://news.social-protocols.org/stats?id=43772696) #6 50 points 31 comments -> [Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness)<!-- HN:43772696:end --><!-- HN:43773426:start -->
-* [43773426](https://news.social-protocols.org/stats?id=43773426) #25 3 points 0 comments -> [Sarah Wynn-Williams's 'Careless People'](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)<!-- HN:43773426:end --><!-- HN:43774195:start -->
-* [43774195](https://news.social-protocols.org/stats?id=43774195) #10 2 points 0 comments -> [Advancing Invoice Document Processing at Uber Using GenAI](https://www.uber.com/en-IL/blog/advancing-invoice-document-processing-using-genai/)<!-- HN:43774195:end --><!-- HN:43775715:start -->
-* [43775715](https://news.social-protocols.org/stats?id=43775715) #11 8 points 0 comments -> [Moon photovoltaics utilizing lunar regolith and halide perovskites](https://www.cell.com/device/fulltext/S2666-9986(25)00060-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998625000602%3Fshowall%3Dtrue&utm_source=clivethompson&utm_medium=email&utm_campaign=linkfest-33-two-hit-wonders-moonglass-and-trees)<!-- HN:43775715:end -->
 #### **Thursday, April 24, 2025**
 <!-- HN:43779457:start -->
 * [43779457](https://news.social-protocols.org/stats?id=43779457) #11 26 points 12 comments -> [Ubuntu 25.10 Replaces GNU Coreutils with Rust Uutils](https://www.altusintel.com/public-yych08/)<!-- HN:43779457:end --><!-- HN:43779915:start -->
