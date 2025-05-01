@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43851843](https://news.social-protocols.org/stats?id=43851843) #22 7 points 0 comments -> [RFK Jr. Rejects Germ Theory](https://arstechnica.com/health/2025/04/rfk-jr-s-anti-vaccine-stance-is-rooted-in-a-disbelief-in-germ-theory/)<!-- HN:43851843:end -->
 #### **Thursday, May 1, 2025**
 <!-- HN:43851225:start -->
-* [43851225](https://news.social-protocols.org/stats?id=43851225) #19 28 points 40 comments -> [Home washing machines fail to remove important pathogens from textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html)<!-- HN:43851225:end -->
+* [43851225](https://news.social-protocols.org/stats?id=43851225) #19 28 points 40 comments -> [Home washing machines fail to remove important pathogens from textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html)<!-- HN:43851225:end --><!-- HN:43852500:start -->
+* [43852500](https://news.social-protocols.org/stats?id=43852500) #30 6 points 2 comments -> [Republicans in Congress Want a Flat $200 Annual EV Tax](https://arstechnica.com/cars/2025/04/republicans-want-to-tax-ev-drivers-200-year-in-new-transport-bill/)<!-- HN:43852500:end -->
