@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, April 24, 2025**
-<!-- HN:43779457:start -->
-* [43779457](https://news.social-protocols.org/stats?id=43779457) #11 26 points 12 comments -> [Ubuntu 25.10 Replaces GNU Coreutils with Rust Uutils](https://www.altusintel.com/public-yych08/)<!-- HN:43779457:end --><!-- HN:43779915:start -->
-* [43779915](https://news.social-protocols.org/stats?id=43779915) #3 36 points 21 comments -> [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)<!-- HN:43779915:end --><!-- HN:43780977:start -->
-* [43780977](https://news.social-protocols.org/stats?id=43780977) #10 13 points 6 comments -> [What I wish I knew about privacy sooner](https://nordictimes.com/tech/what-i-wish-i-knew-about-privacy-sooner/)<!-- HN:43780977:end --><!-- HN:43782159:start -->
-* [43782159](https://news.social-protocols.org/stats?id=43782159) #4 59 points 22 comments -> [America's reputation drops across the world](https://www.ipsos.com/en/americas-reputation-drops-across-the-world)<!-- HN:43782159:end --><!-- HN:43782506:start -->
-* [43782506](https://news.social-protocols.org/stats?id=43782506) #3 5 points 1 comments -> [Text-to-Visual with AI by Excalidraw](https://visualgpt.io/)<!-- HN:43782506:end --><!-- HN:43782509:start -->
-* [43782509](https://news.social-protocols.org/stats?id=43782509) #28 3 points 1 comments -> [Comcast reports higher broadband subscriber losses as competition heats up](https://www.reuters.com/business/media-telecom/comcast-reports-higher-broadband-subscriber-losses-competition-heats-up-2025-04-24/)<!-- HN:43782509:end --><!-- HN:43785127:start -->
-* [43785127](https://news.social-protocols.org/stats?id=43785127) #30 3 points 0 comments -> [Stop Writing If-Else Trees: Use the State Pattern Instead](https://maxim-gorin.medium.com/stop-writing-if-else-trees-use-the-state-pattern-instead-1fe9ff39a39c)<!-- HN:43785127:end --><!-- HN:43785745:start -->
-* [43785745](https://news.social-protocols.org/stats?id=43785745) #30 4 points 0 comments -> [Half of the universe's hydrogen gas, long unaccounted for, has been found](https://phys.org/news/2025-04-universe-hydrogen-gas-unaccounted.html)<!-- HN:43785745:end --><!-- HN:43785590:start -->
-* [43785590](https://news.social-protocols.org/stats?id=43785590) #27 9 points 0 comments -> [Blue Shield says it shared health info on up to 4.7M patients with Google Ads](https://www.theregister.com/2025/04/23/blue_shield_leaked_info_google/)<!-- HN:43785590:end --><!-- HN:43785896:start -->
-* [43785896](https://news.social-protocols.org/stats?id=43785896) #15 5 points 2 comments -> [Scancity: QR Codes for the Discerning](https://scancity.net)<!-- HN:43785896:end --><!-- HN:43786681:start -->
-* [43786681](https://news.social-protocols.org/stats?id=43786681) #22 24 points 13 comments -> [Apple Computers Used to Be Built in the U.S. It Was a Mess](https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html)<!-- HN:43786681:end --><!-- HN:43787768:start -->
-* [43787768](https://news.social-protocols.org/stats?id=43787768) #27 5 points 0 comments -> [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)<!-- HN:43787768:end --><!-- HN:43788185:start -->
-* [43788185](https://news.social-protocols.org/stats?id=43788185) #25 15 points 0 comments -> [SignalGate: A Surveillance Arms Race Has Poked Gaping Hole in National Security](https://www.foreignaffairs.com/united-states/real-lesson-signal-gate-pete-hegseth)<!-- HN:43788185:end --><!-- HN:43787743:start -->
-* [43787743](https://news.social-protocols.org/stats?id=43787743) #9 9 points 30 comments -> [Could GPT help with dating anxiety?](https://scottaaronson.blog/?p=7262)<!-- HN:43787743:end -->
 #### **Friday, April 25, 2025**
 <!-- HN:43788728:start -->
 * [43788728](https://news.social-protocols.org/stats?id=43788728) #21 8 points 4 comments -> [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)<!-- HN:43788728:end --><!-- HN:43789699:start -->
