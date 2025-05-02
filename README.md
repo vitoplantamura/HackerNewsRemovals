@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43854498](https://news.social-protocols.org/stats?id=43854498) #6 23 points 40 comments -> [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)<!-- HN:43854498:end --><!-- HN:43860431:start -->
 * [43860431](https://news.social-protocols.org/stats?id=43860431) #26 19 points 1 comments -> [Git Changesets](https://github.com/changesets/changesets)<!-- HN:43860431:end --><!-- HN:43862745:start -->
 * [43862745](https://news.social-protocols.org/stats?id=43862745) #4 14 points 1 comments -> [Trump's stablecoin chosen for $2B Abu Dhabi investment in Binance](https://www.kitco.com/news/off-the-wire/2025-05-01/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co)<!-- HN:43862745:end -->
+#### **Friday, May 2, 2025**
+<!-- HN:43865603:start -->
+* [43865603](https://news.social-protocols.org/stats?id=43865603) #26 20 points 5 comments -> [USPS law enforcement assists 'mass deportation' effort, sources and records show](https://www.washingtonpost.com/business/2025/04/29/usps-immigration-trump-deportations/)<!-- HN:43865603:end -->
