@@ -43,27 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, April 25, 2025**
-<!-- HN:43788728:start -->
-* [43788728](https://news.social-protocols.org/stats?id=43788728) #21 8 points 4 comments -> [Path should be a system call](https://simonsafar.com/2025/path_as_system_call/)<!-- HN:43788728:end --><!-- HN:43789699:start -->
-* [43789699](https://news.social-protocols.org/stats?id=43789699) #28 -> [DOGE Just Ended Nuclear in America [video]](https://youtu.be/payvx8pUTS4)<!-- HN:43789699:end --><!-- HN:43790456:start -->
-* [43790456](https://news.social-protocols.org/stats?id=43790456) #26 -> ['Trump 2028' hats and T-shirts for sale on US president's online store](https://www.theguardian.com/us-news/2025/apr/25/donald-trump-2028-merchandise-online-store)<!-- HN:43790456:end --><!-- HN:43790025:start -->
-* [43790025](https://news.social-protocols.org/stats?id=43790025) #13 11 points 7 comments -> [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)<!-- HN:43790025:end --><!-- HN:43790270:start -->
-* [43790270](https://news.social-protocols.org/stats?id=43790270) #9 18 points 8 comments -> [Commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)<!-- HN:43790270:end --><!-- HN:43792157:start -->
-* [43792157](https://news.social-protocols.org/stats?id=43792157) #3 90 points 60 comments -> [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)<!-- HN:43792157:end --><!-- HN:43791941:start -->
-* [43791941](https://news.social-protocols.org/stats?id=43791941) #9 32 points 27 comments -> [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)<!-- HN:43791941:end --><!-- HN:43790409:start -->
-* [43790409](https://news.social-protocols.org/stats?id=43790409) #16 32 points 32 comments -> [Prepper Disk](https://www.prepperdisk.com/)<!-- HN:43790409:end --><!-- HN:43785464:start -->
-* [43785464](https://news.social-protocols.org/stats?id=43785464) #25 145 points 90 comments -> [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)<!-- HN:43785464:end --><!-- HN:43793352:start -->
-* [43793352](https://news.social-protocols.org/stats?id=43793352) #1 18 points 0 comments -> [Tariffs are just a few flaps away now](https://flappytrump.net/)<!-- HN:43793352:end --><!-- HN:43793384:start -->
-* [43793384](https://news.social-protocols.org/stats?id=43793384) #10 12 points 6 comments -> [Don't fear getting fired if you have ADHD](https://claimingattention.substack.com/p/dont-fear-getting-fired-if-you-have)<!-- HN:43793384:end --><!-- HN:43794321:start -->
-* [43794321](https://news.social-protocols.org/stats?id=43794321) #16 4 points 0 comments -> [USDA Withdraws Proposed Salmonella Framework for Raw Poultry Products](https://www.federalregister.gov/documents/2025/04/25/2025-07187/salmonella-framework-for-raw-poultry-products)<!-- HN:43794321:end --><!-- HN:43789501:start -->
-* [43789501](https://news.social-protocols.org/stats?id=43789501) #13 81 points 30 comments -> [Petition to the Open Source Initiative: Publish the Full 2025 Election Results](https://codeberg.org/OSI-Concerns/election-results-2025#readme)<!-- HN:43789501:end --><!-- HN:43794217:start -->
-* [43794217](https://news.social-protocols.org/stats?id=43794217) #27 49 points 19 comments -> [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)<!-- HN:43794217:end --><!-- HN:43797699:start -->
-* [43797699](https://news.social-protocols.org/stats?id=43797699) #27 -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43797699:end --><!-- HN:43797941:start -->
-* [43797941](https://news.social-protocols.org/stats?id=43797941) #18 5 points 0 comments -> [The Secretary of Transportation Got Rid of Too Many Workers; Now Needs Them Back](https://www.jalopnik.com/1843532/too-many-dot-workers-quit/)<!-- HN:43797941:end --><!-- HN:43798155:start -->
-* [43798155](https://news.social-protocols.org/stats?id=43798155) #30 6 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43798155:end --><!-- HN:43799024:start -->
-* [43799024](https://news.social-protocols.org/stats?id=43799024) #28 9 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43799024:end --><!-- HN:43799227:start -->
-* [43799227](https://news.social-protocols.org/stats?id=43799227) #4 11 points 2 comments -> [Brand New Teslas Piling Up in Junk Yards](https://www.flyingpenguin.com/?p=45040)<!-- HN:43799227:end -->
 #### **Saturday, April 26, 2025**
 <!-- HN:43799747:start -->
 * [43799747](https://news.social-protocols.org/stats?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end --><!-- HN:43804277:start -->
