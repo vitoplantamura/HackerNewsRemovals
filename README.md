@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43869203](https://news.social-protocols.org/stats?id=43869203) #30 6 points 1 comments -> [The Chromium Security Paradox](https://www.island.io/blog/the-chromium-security-paradox)<!-- HN:43869203:end -->
 #### **Saturday, May 3, 2025**
 <!-- HN:43875403:start -->
-* [43875403](https://news.social-protocols.org/stats?id=43875403) #6 5 points 3 comments -> [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)<!-- HN:43875403:end -->
+* [43875403](https://news.social-protocols.org/stats?id=43875403) #6 5 points 3 comments -> [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)<!-- HN:43875403:end --><!-- HN:43875319:start -->
+* [43875319](https://news.social-protocols.org/stats?id=43875319) #25 8 points 1 comments -> [Exchange Fund Investor Defers $388K Taxes, Comes Out $278K Ahead Amid Volatility](https://usecache.com/companion/erics-journey-how-cache-helped-protect-wealth-as-the-market-turned)<!-- HN:43875319:end -->
