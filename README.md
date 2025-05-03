@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43870090](https://news.social-protocols.org/stats?id=43870090) #27 13 points 9 comments -> [Grand Theft Auto VI gets pushed back to May 26, 2026](https://arstechnica.com/gaming/2025/05/gta-vi-will-miss-2025-after-all-new-target-is-may-26-2026/)<!-- HN:43870090:end --><!-- HN:43870083:start -->
 * [43870083](https://news.social-protocols.org/stats?id=43870083) #29 10 points 2 comments -> [Opinion: Is a split imminent? – Synadia demands NATS back from the CNCF](https://www.heise.de/en/opinion/Opinion-Is-a-split-imminent-Synadia-demands-NATS-back-from-the-CNCF-10366963.html)<!-- HN:43870083:end --><!-- HN:43869203:start -->
 * [43869203](https://news.social-protocols.org/stats?id=43869203) #30 6 points 1 comments -> [The Chromium Security Paradox](https://www.island.io/blog/the-chromium-security-paradox)<!-- HN:43869203:end -->
+#### **Saturday, May 3, 2025**
+<!-- HN:43875403:start -->
+* [43875403](https://news.social-protocols.org/stats?id=43875403) #6 5 points 3 comments -> [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)<!-- HN:43875403:end -->
