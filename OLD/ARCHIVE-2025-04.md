@@ -420,3 +420,12 @@
 * [43798155](https://news.ycombinator.com/item?id=43798155) #30 6 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43798155:end --><!-- HN:43799024:start -->
 * [43799024](https://news.ycombinator.com/item?id=43799024) #28 9 points 0 comments -> [PhD Timeline](https://xkcd.com/3081/)<!-- HN:43799024:end --><!-- HN:43799227:start -->
 * [43799227](https://news.ycombinator.com/item?id=43799227) #4 11 points 2 comments -> [Brand New Teslas Piling Up in Junk Yards](https://www.flyingpenguin.com/?p=45040)<!-- HN:43799227:end -->
+#### **Saturday, April 26, 2025**
+<!-- HN:43799747:start -->
+* [43799747](https://news.ycombinator.com/item?id=43799747) #20 8 points 1 comments -> [Bankruptcy as Implicit Health Insurance](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20131408)<!-- HN:43799747:end --><!-- HN:43804277:start -->
+* [43804277](https://news.ycombinator.com/item?id=43804277) #17 8 points 3 comments -> [Why the Cassette Revival Is Thriving in Argentina's Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)<!-- HN:43804277:end --><!-- HN:43805278:start -->
+* [43805278](https://news.ycombinator.com/item?id=43805278) #22 4 points 0 comments -> [Getting arrested for not helping your previous employer](https://old.reddit.com/r/LegalAdviceUK/comments/1k8cawb/update_sacked_police_computer_misuseurgent/)<!-- HN:43805278:end --><!-- HN:43806345:start -->
+* [43806345](https://news.ycombinator.com/item?id=43806345) #29 5 points 0 comments -> [Tech Workers Are Just Like the Rest of Us: Miserable at Work](https://www.wsj.com/tech/tech-careers-job-market-changes)<!-- HN:43806345:end --><!-- HN:43806495:start -->
+* [43806495](https://news.ycombinator.com/item?id=43806495) #15 9 points 0 comments -> [The record-breaking tunnel being built from Denmark to Germany](https://www.bbc.com/news/articles/cy70y2x3xj6o)<!-- HN:43806495:end --><!-- HN:43806308:start -->
+* [43806308](https://news.ycombinator.com/item?id=43806308) #30 30 points 7 comments -> [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)<!-- HN:43806308:end --><!-- HN:43807813:start -->
+* [43807813](https://news.ycombinator.com/item?id=43807813) #17 -> [In DOGE's Hunt for Imaginary Censors, It Kills Actual Anti-Censorship Research](https://www.techdirt.com/2025/04/25/in-doges-hunt-for-imaginary-censors-it-kills-actual-anti-censorship-research/)<!-- HN:43807813:end -->
