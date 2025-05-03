@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 3, 2025**
 <!-- HN:43875403:start -->
 * [43875403](https://news.social-protocols.org/stats?id=43875403) #6 5 points 3 comments -> [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)<!-- HN:43875403:end --><!-- HN:43875319:start -->
-* [43875319](https://news.social-protocols.org/stats?id=43875319) #25 8 points 1 comments -> [Exchange Fund Investor Defers $388K Taxes, Comes Out $278K Ahead Amid Volatility](https://usecache.com/companion/erics-journey-how-cache-helped-protect-wealth-as-the-market-turned)<!-- HN:43875319:end -->
+* [43875319](https://news.social-protocols.org/stats?id=43875319) #25 8 points 1 comments -> [Exchange Fund Investor Defers $388K Taxes, Comes Out $278K Ahead Amid Volatility](https://usecache.com/companion/erics-journey-how-cache-helped-protect-wealth-as-the-market-turned)<!-- HN:43875319:end --><!-- HN:43876414:start -->
+* [43876414](https://news.social-protocols.org/stats?id=43876414) #8 9 points 1 comments -> [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)<!-- HN:43876414:end -->
