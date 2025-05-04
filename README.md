@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43880461](https://news.social-protocols.org/stats?id=43880461) #24 3 points 0 comments -> [Six Deadly Minutes: How Israeli soldiers killed 15 rescue workers in Gaza](https://www.nytimes.com/video/world/middleeast/100000010140613/israel-gaza-medics-attack-idf.html)<!-- HN:43880461:end -->
 #### **Sunday, May 4, 2025**
 <!-- HN:43883321:start -->
-* [43883321](https://news.social-protocols.org/stats?id=43883321) #28 8 points 0 comments -> [NEA Cancels Grants After Proposed Elimination of Agency](https://www.artnews.com/art-news/news/national-endowment-for-the-arts-cancels-grants-trump-1234740558/)<!-- HN:43883321:end -->
+* [43883321](https://news.social-protocols.org/stats?id=43883321) #28 8 points 0 comments -> [NEA Cancels Grants After Proposed Elimination of Agency](https://www.artnews.com/art-news/news/national-endowment-for-the-arts-cancels-grants-trump-1234740558/)<!-- HN:43883321:end --><!-- HN:43885659:start -->
+* [43885659](https://news.social-protocols.org/stats?id=43885659) #10 6 points 1 comments -> [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)<!-- HN:43885659:end -->
