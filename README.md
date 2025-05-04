@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, May 4, 2025**
 <!-- HN:43883321:start -->
 * [43883321](https://news.social-protocols.org/stats?id=43883321) #28 8 points 0 comments -> [NEA Cancels Grants After Proposed Elimination of Agency](https://www.artnews.com/art-news/news/national-endowment-for-the-arts-cancels-grants-trump-1234740558/)<!-- HN:43883321:end --><!-- HN:43885659:start -->
-* [43885659](https://news.social-protocols.org/stats?id=43885659) #10 6 points 1 comments -> [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)<!-- HN:43885659:end -->
+* [43885659](https://news.social-protocols.org/stats?id=43885659) #10 6 points 1 comments -> [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)<!-- HN:43885659:end --><!-- HN:43885794:start -->
+* [43885794](https://news.social-protocols.org/stats?id=43885794) #14 11 points 5 comments -> [Switch to a tiling-window-manager TODAY](https://github.com/uint23/sxwm)<!-- HN:43885794:end -->
