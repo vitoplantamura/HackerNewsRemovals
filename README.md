@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 5, 2025**
 <!-- HN:43890695:start -->
 * [43890695](https://news.social-protocols.org/stats?id=43890695) #28 12 points 2 comments -> [The Signal Clone the Trump Admin Uses Was Hacked](https://micahflee.com/the-signal-clone-the-trump-admin-uses-was-hacked/)<!-- HN:43890695:end --><!-- HN:43865209:start -->
-* [43865209](https://news.social-protocols.org/stats?id=43865209) #27 13 points 2 comments -> [Reconstructing dopamine's link to reward (2024)](https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/)<!-- HN:43865209:end -->
+* [43865209](https://news.social-protocols.org/stats?id=43865209) #27 13 points 2 comments -> [Reconstructing dopamine's link to reward (2024)](https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/)<!-- HN:43865209:end --><!-- HN:43890108:start -->
+* [43890108](https://news.social-protocols.org/stats?id=43890108) #25 23 points 3 comments -> [Censoring Social Media](https://www.tbray.org/ongoing/When/202x/2025/04/28/Censoring-Social-Media)<!-- HN:43890108:end -->
