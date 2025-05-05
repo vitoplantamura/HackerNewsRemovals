@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43890139](https://news.social-protocols.org/stats?id=43890139) #6 3 points 1 comments -> [An Enterprise-Level Retrieval-Augmented Generation System](https://comfyai.app/article/llm-applications/enterprise-level-rag-hands-on-practice-II)<!-- HN:43890139:end -->
 #### **Monday, May 5, 2025**
 <!-- HN:43890695:start -->
-* [43890695](https://news.social-protocols.org/stats?id=43890695) #28 12 points 2 comments -> [The Signal Clone the Trump Admin Uses Was Hacked](https://micahflee.com/the-signal-clone-the-trump-admin-uses-was-hacked/)<!-- HN:43890695:end -->
+* [43890695](https://news.social-protocols.org/stats?id=43890695) #28 12 points 2 comments -> [The Signal Clone the Trump Admin Uses Was Hacked](https://micahflee.com/the-signal-clone-the-trump-admin-uses-was-hacked/)<!-- HN:43890695:end --><!-- HN:43865209:start -->
+* [43865209](https://news.social-protocols.org/stats?id=43865209) #27 13 points 2 comments -> [Reconstructing dopamine's link to reward (2024)](https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/)<!-- HN:43865209:end -->
