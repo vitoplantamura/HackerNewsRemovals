@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, May 6, 2025**
 <!-- HN:43899959:start -->
 * [43899959](https://news.social-protocols.org/stats?id=43899959) #22 20 points 53 comments -> [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)<!-- HN:43899959:end --><!-- HN:43900264:start -->
-* [43900264](https://news.social-protocols.org/stats?id=43900264) #30 10 points 7 comments -> [I built a 7-day calendar app – no months, no years, just the next 7 days](https://weeklong.life/)<!-- HN:43900264:end -->
+* [43900264](https://news.social-protocols.org/stats?id=43900264) #30 10 points 7 comments -> [I built a 7-day calendar app – no months, no years, just the next 7 days](https://weeklong.life/)<!-- HN:43900264:end --><!-- HN:43900322:start -->
+* [43900322](https://news.social-protocols.org/stats?id=43900322) #28 15 points 1 comments -> [How Indian Colleges Casually Violate Human Rights](https://isomorphism.xyz/blog/2025/indian-colleges/)<!-- HN:43900322:end -->
