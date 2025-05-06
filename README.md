@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43900239](https://news.social-protocols.org/stats?id=43900239) #30 7 points 3 comments -> [A militarized conspiracy theorist group believes radars are 'weather weapons'](https://www.cnn.com/2025/05/05/weather/weather-weapons-nws-radar-attack)<!-- HN:43900239:end -->
 #### **Tuesday, May 6, 2025**
 <!-- HN:43899959:start -->
-* [43899959](https://news.social-protocols.org/stats?id=43899959) #22 20 points 53 comments -> [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)<!-- HN:43899959:end -->
+* [43899959](https://news.social-protocols.org/stats?id=43899959) #22 20 points 53 comments -> [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)<!-- HN:43899959:end --><!-- HN:43900264:start -->
+* [43900264](https://news.social-protocols.org/stats?id=43900264) #30 10 points 7 comments -> [I built a 7-day calendar app – no months, no years, just the next 7 days](https://weeklong.life/)<!-- HN:43900264:end -->
