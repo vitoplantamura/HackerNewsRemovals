@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43908770](https://news.social-protocols.org/stats?id=43908770) #9 33 points 40 comments -> [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)<!-- HN:43908770:end -->
 #### **Wednesday, May 7, 2025**
 <!-- HN:43910874:start -->
-* [43910874](https://news.social-protocols.org/stats?id=43910874) #30 9 points 2 comments -> [U.S. Orders Intelligence Agencies to Step Up Spying on Greenland](https://www.wsj.com/world/greenland-spying-us-intelligence-809c4ef2)<!-- HN:43910874:end -->
+* [43910874](https://news.social-protocols.org/stats?id=43910874) #30 9 points 2 comments -> [U.S. Orders Intelligence Agencies to Step Up Spying on Greenland](https://www.wsj.com/world/greenland-spying-us-intelligence-809c4ef2)<!-- HN:43910874:end --><!-- HN:43910794:start -->
+* [43910794](https://news.social-protocols.org/stats?id=43910794) #2 173 points 35 comments -> [FTC bans hidden fees for live events and short-term rentals, effective May 12](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/)<!-- HN:43910794:end -->
