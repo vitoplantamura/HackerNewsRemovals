@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43923331:start -->
 * [43923331](https://news.social-protocols.org/stats?id=43923331) #25 19 points 10 comments -> [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)<!-- HN:43923331:end --><!-- HN:43925319:start -->
 * [43925319](https://news.social-protocols.org/stats?id=43925319) #17 12 points 0 comments -> [What Money Can't Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)<!-- HN:43925319:end --><!-- HN:43924779:start -->
-* [43924779](https://news.social-protocols.org/stats?id=43924779) #18 21 points 8 comments -> [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)<!-- HN:43924779:end -->
+* [43924779](https://news.social-protocols.org/stats?id=43924779) #18 21 points 8 comments -> [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)<!-- HN:43924779:end --><!-- HN:43925911:start -->
+* [43925911](https://news.social-protocols.org/stats?id=43925911) #5 30 points 11 comments -> [Globalization did not hollow out the American middle class](https://www.noahpinion.blog/p/globalization-did-not-hollow-out)<!-- HN:43925911:end -->
