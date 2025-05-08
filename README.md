@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43920389](https://news.social-protocols.org/stats?id=43920389) #29 4 points 1 comments -> [After an Arizona man was shot, an AI video of him addresses his killer in court](https://www.npr.org/2025/05/07/g-s1-64640/ai-impact-statement-murder-victim)<!-- HN:43920389:end -->
 #### **Thursday, May 8, 2025**
 <!-- HN:43923331:start -->
-* [43923331](https://news.social-protocols.org/stats?id=43923331) #25 19 points 10 comments -> [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)<!-- HN:43923331:end -->
+* [43923331](https://news.social-protocols.org/stats?id=43923331) #25 19 points 10 comments -> [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)<!-- HN:43923331:end --><!-- HN:43925319:start -->
+* [43925319](https://news.social-protocols.org/stats?id=43925319) #17 12 points 0 comments -> [What Money Can't Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)<!-- HN:43925319:end -->
