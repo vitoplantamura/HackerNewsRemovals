@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43918596](https://news.social-protocols.org/stats?id=43918596) #7 49 points 22 comments -> [Social AI companions pose unacceptable risks to teens and children under 18](https://www.commonsensemedia.org/ai-ratings/social-ai-companions)<!-- HN:43918596:end --><!-- HN:43918600:start -->
 * [43918600](https://news.social-protocols.org/stats?id=43918600) #4 129 points 23 comments -> [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)<!-- HN:43918600:end --><!-- HN:43920389:start -->
 * [43920389](https://news.social-protocols.org/stats?id=43920389) #29 4 points 1 comments -> [After an Arizona man was shot, an AI video of him addresses his killer in court](https://www.npr.org/2025/05/07/g-s1-64640/ai-impact-statement-murder-victim)<!-- HN:43920389:end -->
+#### **Thursday, May 8, 2025**
+<!-- HN:43923331:start -->
+* [43923331](https://news.social-protocols.org/stats?id=43923331) #25 19 points 10 comments -> [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)<!-- HN:43923331:end -->
