@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, May 2, 2025**<!-- HN:43865372:start -->
-* [43865372](https://news.social-protocols.org/stats?id=43865372) #19 3 points 2 comments -> [Show HN: CapOS – A responsibility-gated OS stack with signed process execution](https://zenodo.org/communities/xtothepowerofinfinity/records)<!-- HN:43865372:end --><!-- HN:43868232:start -->
-* [43868232](https://news.social-protocols.org/stats?id=43868232) #3 -> [GPT-FoxNewsDad: A GPT designed to help tech/academia people with life struggles](https://chatgpt.com/g/g-6814740bd1cc81919d28a7c4b8db055d-gpt-foxnewsdad)<!-- HN:43868232:end --><!-- HN:43867613:start -->
-* [43867613](https://news.social-protocols.org/stats?id=43867613) #18 5 points 0 comments -> [Bundle Python with the z/OS base system](https://ibm-z-hardware-and-operating-systems.ideas.ibm.com/ideas/ZOS-I-3993)<!-- HN:43867613:end --><!-- HN:43870781:start -->
-* [43870781](https://news.social-protocols.org/stats?id=43870781) #16 11 points 5 comments -> [The Female Gaze](https://www.maryharrington.co.uk/p/the-female-gaze)<!-- HN:43870781:end --><!-- HN:43870090:start -->
-* [43870090](https://news.social-protocols.org/stats?id=43870090) #27 13 points 9 comments -> [Grand Theft Auto VI gets pushed back to May 26, 2026](https://arstechnica.com/gaming/2025/05/gta-vi-will-miss-2025-after-all-new-target-is-may-26-2026/)<!-- HN:43870090:end --><!-- HN:43870083:start -->
-* [43870083](https://news.social-protocols.org/stats?id=43870083) #29 10 points 2 comments -> [Opinion: Is a split imminent? – Synadia demands NATS back from the CNCF](https://www.heise.de/en/opinion/Opinion-Is-a-split-imminent-Synadia-demands-NATS-back-from-the-CNCF-10366963.html)<!-- HN:43870083:end --><!-- HN:43869203:start -->
-* [43869203](https://news.social-protocols.org/stats?id=43869203) #30 6 points 1 comments -> [The Chromium Security Paradox](https://www.island.io/blog/the-chromium-security-paradox)<!-- HN:43869203:end -->
 #### **Saturday, May 3, 2025**
 <!-- HN:43875403:start -->
 * [43875403](https://news.social-protocols.org/stats?id=43875403) #6 5 points 3 comments -> [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)<!-- HN:43875403:end --><!-- HN:43875319:start -->
