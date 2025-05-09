@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43932202](https://news.social-protocols.org/stats?id=43932202) #4 6 points 0 comments -> [Radiation Tolerant Software Framework for Space Applications](https://github.com/r0nlt/Space-Radiation-Tolerant)<!-- HN:43932202:end -->
 #### **Friday, May 9, 2025**
 <!-- HN:43932010:start -->
-* [43932010](https://news.social-protocols.org/stats?id=43932010) #30 9 points 1 comments -> [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)<!-- HN:43932010:end -->
+* [43932010](https://news.social-protocols.org/stats?id=43932010) #30 9 points 1 comments -> [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)<!-- HN:43932010:end --><!-- HN:43932278:start -->
+* [43932278](https://news.social-protocols.org/stats?id=43932278) #18 11 points 6 comments -> [Gender characteristics of service robots can influence customer decisions](https://www.psu.edu/news/health-and-human-development/story/gender-characteristics-service-robots-can-influence-customer)<!-- HN:43932278:end -->
