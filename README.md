@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43937396](https://news.social-protocols.org/stats?id=43937396) #19 7 points 1 comments -> ['Inheritance is an injustice': Why a 33-year-old redistributed €27M](https://www.lemonde.fr/en/economy/article/2025/05/08/inheritance-is-an-injustice-why-a-33-year-old-redistributed-27-million_6741060_19.html)<!-- HN:43937396:end --><!-- HN:43939834:start -->
 * [43939834](https://news.social-protocols.org/stats?id=43939834) #26 6 points 0 comments -> [Bluetooth 6.1](https://www.bluetooth.com/blog/delivering-on-the-bi-annual-release-schedule-bluetooth-core-6-1-is-here/)<!-- HN:43939834:end --><!-- HN:43909774:start -->
 * [43909774](https://news.social-protocols.org/stats?id=43909774) #16 13 points 0 comments -> [Some Thoughts on LCP eBook DRM](https://shkspr.mobi/blog/2025/03/some-thoughts-on-lcp-ebook-drm/)<!-- HN:43909774:end -->
+#### **Saturday, May 10, 2025**
+<!-- HN:43942928:start -->
+* [43942928](https://news.social-protocols.org/stats?id=43942928) #8 -> [Uber Driver app can get location in background without the permissions (How?)](https://developer.apple.com/forums/thread/783227)<!-- HN:43942928:end -->
