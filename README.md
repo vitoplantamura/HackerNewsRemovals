@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43909774](https://news.social-protocols.org/stats?id=43909774) #16 13 points 0 comments -> [Some Thoughts on LCP eBook DRM](https://shkspr.mobi/blog/2025/03/some-thoughts-on-lcp-ebook-drm/)<!-- HN:43909774:end -->
 #### **Saturday, May 10, 2025**
 <!-- HN:43942928:start -->
-* [43942928](https://news.social-protocols.org/stats?id=43942928) #8 -> [Uber Driver app can get location in background without the permissions (How?)](https://developer.apple.com/forums/thread/783227)<!-- HN:43942928:end -->
+* [43942928](https://news.social-protocols.org/stats?id=43942928) #8 -> [Uber Driver app can get location in background without the permissions (How?)](https://developer.apple.com/forums/thread/783227)<!-- HN:43942928:end --><!-- HN:43911197:start -->
+* [43911197](https://news.social-protocols.org/stats?id=43911197) #21 8 points 0 comments -> [Running Windows.exe on a Linux Brain: The Sysadmin's Guide to Neurodivergence](https://leantime.io/running-windows-exe-on-a-linux-brain-the-sysadmins-guide-to-neurodivergence/)<!-- HN:43911197:end -->
