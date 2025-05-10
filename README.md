@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 3, 2025**
-<!-- HN:43875403:start -->
-* [43875403](https://news.social-protocols.org/stats?id=43875403) #6 5 points 3 comments -> [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)<!-- HN:43875403:end --><!-- HN:43875319:start -->
-* [43875319](https://news.social-protocols.org/stats?id=43875319) #25 8 points 1 comments -> [Exchange Fund Investor Defers $388K Taxes, Comes Out $278K Ahead Amid Volatility](https://usecache.com/companion/erics-journey-how-cache-helped-protect-wealth-as-the-market-turned)<!-- HN:43875319:end --><!-- HN:43876414:start -->
-* [43876414](https://news.social-protocols.org/stats?id=43876414) #8 9 points 1 comments -> [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)<!-- HN:43876414:end --><!-- HN:43872990:start -->
-* [43872990](https://news.social-protocols.org/stats?id=43872990) #12 153 points 289 comments -> [The first driverless semis have started running regular longhaul routes](https://www.cnn.com/2025/05/01/business/first-driverless-semis-started-regular-routes)<!-- HN:43872990:end --><!-- HN:43877338:start -->
-* [43877338](https://news.social-protocols.org/stats?id=43877338) #13 33 points 52 comments -> [The number of new apartments is at a 50-year high, but states expect a slowdown](https://oregoncapitalchronicle.com/2025/05/02/the-number-of-new-apartments-is-at-a-50-year-high-but-states-expect-a-slowdown/)<!-- HN:43877338:end --><!-- HN:43880461:start -->
-* [43880461](https://news.social-protocols.org/stats?id=43880461) #24 3 points 0 comments -> [Six Deadly Minutes: How Israeli soldiers killed 15 rescue workers in Gaza](https://www.nytimes.com/video/world/middleeast/100000010140613/israel-gaza-medics-attack-idf.html)<!-- HN:43880461:end -->
 #### **Sunday, May 4, 2025**
 <!-- HN:43883321:start -->
 * [43883321](https://news.social-protocols.org/stats?id=43883321) #28 8 points 0 comments -> [NEA Cancels Grants After Proposed Elimination of Agency](https://www.artnews.com/art-news/news/national-endowment-for-the-arts-cancels-grants-trump-1234740558/)<!-- HN:43883321:end --><!-- HN:43885659:start -->
