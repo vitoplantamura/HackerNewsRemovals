@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43949108](https://news.social-protocols.org/stats?id=43949108) #22 17 points 3 comments -> [Everyone Is Cheating Their Way Through College](https://www.msn.com/en-us/news/technology/everyone-is-cheating-their-way-through-college/ar-AA1EjCRk)<!-- HN:43949108:end -->
 #### **Sunday, May 11, 2025**
 <!-- HN:43950081:start -->
-* [43950081](https://news.social-protocols.org/stats?id=43950081) #15 7 points 0 comments -> [Covid-19 mRNA Destroys over 60% of Non-Renewable Egg Supply](https://www.thefocalpoints.com/p/breaking-covid-19-mrna-shots-destroy)<!-- HN:43950081:end -->
+* [43950081](https://news.social-protocols.org/stats?id=43950081) #15 7 points 0 comments -> [Covid-19 mRNA Destroys over 60% of Non-Renewable Egg Supply](https://www.thefocalpoints.com/p/breaking-covid-19-mrna-shots-destroy)<!-- HN:43950081:end --><!-- HN:43950053:start -->
+* [43950053](https://news.social-protocols.org/stats?id=43950053) #5 6 points 0 comments -> [Why I didn't attend PyCon Australia 2024](https://www.lesinskis.com/pyconau-2024.html)<!-- HN:43950053:end -->
