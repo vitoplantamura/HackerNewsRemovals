@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, May 4, 2025**
-<!-- HN:43883321:start -->
-* [43883321](https://news.social-protocols.org/stats?id=43883321) #28 8 points 0 comments -> [NEA Cancels Grants After Proposed Elimination of Agency](https://www.artnews.com/art-news/news/national-endowment-for-the-arts-cancels-grants-trump-1234740558/)<!-- HN:43883321:end --><!-- HN:43885659:start -->
-* [43885659](https://news.social-protocols.org/stats?id=43885659) #10 6 points 1 comments -> [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)<!-- HN:43885659:end --><!-- HN:43885794:start -->
-* [43885794](https://news.social-protocols.org/stats?id=43885794) #14 11 points 5 comments -> [Switch to a tiling-window-manager TODAY](https://github.com/uint23/sxwm)<!-- HN:43885794:end --><!-- HN:43886706:start -->
-* [43886706](https://news.social-protocols.org/stats?id=43886706) #21 5 points 0 comments -> [El Paso Is Having Its Dustiest Year Since the Actual Dust Bowl](https://gizmodo.com/el-paso-is-having-its-dustiest-year-since-the-actual-dust-bowl-2000596987)<!-- HN:43886706:end --><!-- HN:43887446:start -->
-* [43887446](https://news.social-protocols.org/stats?id=43887446) #25 12 points 1 comments -> [Zuckerberg Sailed 5,300 Miles with Two Superyachts to Helicopter Up a Mountain](https://www.sustainability-times.com/sustainable-business/mark-zuckerberg-sailed-5300-miles-with-two-superyachts-only-to-helicopter-up-a-mountain-and-ski-down-in-billionaire-style/)<!-- HN:43887446:end --><!-- HN:43888907:start -->
-* [43888907](https://news.social-protocols.org/stats?id=43888907) #20 9 points 2 comments -> [NASA Proposal Would Shift Agency's Focus Away from Space Science](https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html)<!-- HN:43888907:end --><!-- HN:43888871:start -->
-* [43888871](https://news.social-protocols.org/stats?id=43888871) #15 14 points 6 comments -> [Why are there no thunderstorms in the UK?](https://www.onepotscience.com/why-are-there-no-thunderstorms-in-the-uk/)<!-- HN:43888871:end --><!-- HN:43889814:start -->
-* [43889814](https://news.social-protocols.org/stats?id=43889814) #24 15 points 1 comments -> [Tech hiring slows, unemployment rises, jobs report shows](https://www.computerworld.com/article/3976643/tech-hiring-slows-unemployment-rises-jobs-report-shows.html)<!-- HN:43889814:end --><!-- HN:43889311:start -->
-* [43889311](https://news.social-protocols.org/stats?id=43889311) #24 17 points 7 comments -> [The New Control Society](https://www.thenewatlantis.com/publications/the-new-control-society)<!-- HN:43889311:end --><!-- HN:43890139:start -->
-* [43890139](https://news.social-protocols.org/stats?id=43890139) #6 3 points 1 comments -> [An Enterprise-Level Retrieval-Augmented Generation System](https://comfyai.app/article/llm-applications/enterprise-level-rag-hands-on-practice-II)<!-- HN:43890139:end -->
 #### **Monday, May 5, 2025**
 <!-- HN:43890695:start -->
 * [43890695](https://news.social-protocols.org/stats?id=43890695) #28 12 points 2 comments -> [The Signal Clone the Trump Admin Uses Was Hacked](https://micahflee.com/the-signal-clone-the-trump-admin-uses-was-hacked/)<!-- HN:43890695:end --><!-- HN:43865209:start -->
