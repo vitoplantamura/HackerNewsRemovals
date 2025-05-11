@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43945324](https://news.social-protocols.org/stats?id=43945324) #18 4 points 0 comments -> [The Dave and Busters Anomaly](https://www.searchengine.show/the-dave-and-busters-anomaly/)<!-- HN:43945324:end --><!-- HN:43947161:start -->
 * [43947161](https://news.social-protocols.org/stats?id=43947161) #5 10 points 0 comments -> [Simon Willison's first blog on LLMs (2022)](https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/)<!-- HN:43947161:end --><!-- HN:43949108:start -->
 * [43949108](https://news.social-protocols.org/stats?id=43949108) #22 17 points 3 comments -> [Everyone Is Cheating Their Way Through College](https://www.msn.com/en-us/news/technology/everyone-is-cheating-their-way-through-college/ar-AA1EjCRk)<!-- HN:43949108:end -->
+#### **Sunday, May 11, 2025**
+<!-- HN:43950081:start -->
+* [43950081](https://news.social-protocols.org/stats?id=43950081) #15 7 points 0 comments -> [Covid-19 mRNA Destroys over 60% of Non-Renewable Egg Supply](https://www.thefocalpoints.com/p/breaking-covid-19-mrna-shots-destroy)<!-- HN:43950081:end -->
