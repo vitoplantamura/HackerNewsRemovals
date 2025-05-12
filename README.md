@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43957481](https://news.social-protocols.org/stats?id=43957481) #29 10 points 11 comments -> [Satellite will have to be turned off when it floats over the US](https://www.thecooldown.com/green-tech/biomass-satellite-carbon-capture-forests/)<!-- HN:43957481:end -->
 #### **Monday, May 12, 2025**
 <!-- HN:43958716:start -->
-* [43958716](https://news.social-protocols.org/stats?id=43958716) #15 50 points 23 comments -> [Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck](https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/)<!-- HN:43958716:end -->
+* [43958716](https://news.social-protocols.org/stats?id=43958716) #15 50 points 23 comments -> [Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck](https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/)<!-- HN:43958716:end --><!-- HN:43962197:start -->
+* [43962197](https://news.social-protocols.org/stats?id=43962197) #16 7 points 0 comments -> [Tesla hiring for Haskell Software engineer](https://old.reddit.com/r/haskell/comments/1kjimug/tesla_hiring_for_haskell_software_engineer/)<!-- HN:43962197:end -->
