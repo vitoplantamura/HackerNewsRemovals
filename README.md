@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43954436](https://news.social-protocols.org/stats?id=43954436) #29 4 points 3 comments -> [HunyuanVideo-I2V: 14B model turns an image into 720p video on 8GB GPU](https://wavespeed.ai/models/wavespeed-ai/hunyuan-video/i2v)<!-- HN:43954436:end --><!-- HN:43956630:start -->
 * [43956630](https://news.social-protocols.org/stats?id=43956630) #13 10 points 9 comments -> [The Paradoxes of Feminine Muscle](https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle)<!-- HN:43956630:end --><!-- HN:43957481:start -->
 * [43957481](https://news.social-protocols.org/stats?id=43957481) #29 10 points 11 comments -> [Satellite will have to be turned off when it floats over the US](https://www.thecooldown.com/green-tech/biomass-satellite-carbon-capture-forests/)<!-- HN:43957481:end -->
+#### **Monday, May 12, 2025**
+<!-- HN:43958716:start -->
+* [43958716](https://news.social-protocols.org/stats?id=43958716) #15 50 points 23 comments -> [Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck](https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/)<!-- HN:43958716:end -->
