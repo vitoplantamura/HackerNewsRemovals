@@ -117,5 +117,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43958716:start -->
 * [43958716](https://news.social-protocols.org/stats?id=43958716) #15 50 points 23 comments -> [Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck](https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/)<!-- HN:43958716:end --><!-- HN:43962037:start -->
 * [43962037](https://news.social-protocols.org/stats?id=43962037) #5 14 points 5 comments -> [When Compiler Engineers Act as Judges, What Can Possibly Go Wrong?](https://seylaw.blogspot.com/2025/05/when-compiler-engineers-act-as-judges.html)<!-- HN:43962037:end --><!-- HN:43962942:start -->
-* [43962942](https://news.social-protocols.org/stats?id=43962942) #4 95 points 63 comments -> [Just Fucking Use HTML](https://justfuckingusehtml.com)<!-- HN:43962942:end --><!-- HN:43965419:start -->
-* [43965419](https://news.social-protocols.org/stats?id=43965419) #29 12 points 5 comments -> [Access to the United States' President for Sale via Meme Coin](https://mastodon.social/@fiete/114495920458503045)<!-- HN:43965419:end -->
+* [43962942](https://news.social-protocols.org/stats?id=43962942) #4 95 points 63 comments -> [Just Fucking Use HTML](https://justfuckingusehtml.com)<!-- HN:43962942:end -->
