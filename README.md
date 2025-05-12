@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, May 5, 2025**
-<!-- HN:43890695:start -->
-* [43890695](https://news.social-protocols.org/stats?id=43890695) #28 12 points 2 comments -> [The Signal Clone the Trump Admin Uses Was Hacked](https://micahflee.com/the-signal-clone-the-trump-admin-uses-was-hacked/)<!-- HN:43890695:end --><!-- HN:43865209:start -->
-* [43865209](https://news.social-protocols.org/stats?id=43865209) #27 13 points 2 comments -> [Reconstructing dopamine's link to reward (2024)](https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/)<!-- HN:43865209:end --><!-- HN:43890108:start -->
-* [43890108](https://news.social-protocols.org/stats?id=43890108) #25 23 points 3 comments -> [Censoring Social Media](https://www.tbray.org/ongoing/When/202x/2025/04/28/Censoring-Social-Media)<!-- HN:43890108:end --><!-- HN:43894260:start -->
-* [43894260](https://news.social-protocols.org/stats?id=43894260) #1 9 points 0 comments -> [Management Habits Burning Out Your Best Engineers](https://techleaderslaunchpad.com/resources/blog/9-management-habits-quietly-burning-out-your-best-engineers)<!-- HN:43894260:end --><!-- HN:43894889:start -->
-* [43894889](https://news.social-protocols.org/stats?id=43894889) #25 5 points 0 comments -> [Trump's movie tariffs are designed to destroy the international film industry](https://www.theguardian.com/film/2025/may/05/trumps-movie-tariffs-are-designed-to-destroy-the-international-film-industry)<!-- HN:43894889:end --><!-- HN:43895786:start -->
-* [43895786](https://news.social-protocols.org/stats?id=43895786) #19 4 points 0 comments -> [Conservatives may self-rate as having better 'mental health' because of stigma](https://medicalxpress.com/news/2025-04-mental-health-stigma-term.html)<!-- HN:43895786:end --><!-- HN:43899687:start -->
-* [43899687](https://news.social-protocols.org/stats?id=43899687) #7 6 points 1 comments -> [You Meet More Perverts When You're Poor](https://peaked.substack.com/p/you-meet-more-perverts-when-youre)<!-- HN:43899687:end --><!-- HN:43900239:start -->
-* [43900239](https://news.social-protocols.org/stats?id=43900239) #30 7 points 3 comments -> [A militarized conspiracy theorist group believes radars are 'weather weapons'](https://www.cnn.com/2025/05/05/weather/weather-weapons-nws-radar-attack)<!-- HN:43900239:end -->
 #### **Tuesday, May 6, 2025**
 <!-- HN:43899959:start -->
 * [43899959](https://news.social-protocols.org/stats?id=43899959) #22 20 points 53 comments -> [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)<!-- HN:43899959:end --><!-- HN:43900322:start -->
