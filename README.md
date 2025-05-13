@@ -108,5 +108,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:43965099:start -->
 * [43965099](https://news.social-protocols.org/stats?id=43965099) #15 98 points 22 comments -> [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)<!-- HN:43965099:end --><!-- HN:43963868:start -->
 * [43963868](https://news.social-protocols.org/stats?id=43963868) #18 446 points 135 comments -> [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)<!-- HN:43963868:end --><!-- HN:43969274:start -->
-* [43969274](https://news.social-protocols.org/stats?id=43969274) #7 4 points 0 comments -> [I developed an AI clothing-changing tool. Would you like to take a look?](https://www.aioutfitgen.com)<!-- HN:43969274:end --><!-- HN:43969440:start -->
-* [43969440](https://news.social-protocols.org/stats?id=43969440) #28 28 points 40 comments -> [Why the 737 MAX Has Been Such a Headache for Boeing](https://www.jalopnik.com/1853477/boeing-737-max-incidents-aircraft-problems/)<!-- HN:43969440:end -->
+* [43969274](https://news.social-protocols.org/stats?id=43969274) #7 4 points 0 comments -> [I developed an AI clothing-changing tool. Would you like to take a look?](https://www.aioutfitgen.com)<!-- HN:43969274:end -->
