@@ -104,3 +104,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43962942](https://news.social-protocols.org/stats?id=43962942) #4 95 points 63 comments -> [Just Fucking Use HTML](https://justfuckingusehtml.com)<!-- HN:43962942:end --><!-- HN:43965354:start -->
 * [43965354](https://news.social-protocols.org/stats?id=43965354) #13 -> [U.S. Nuclear Emergency Support aircraft touched down in Pakistan](https://thecommunemag.com/egyptian-plane-with-boron-us-plane-checking-radioactivity-did-india-really-hit-pakistans-nuclear-centres/)<!-- HN:43965354:end --><!-- HN:43966422:start -->
 * [43966422](https://news.social-protocols.org/stats?id=43966422) #17 6 points 2 comments -> [A Proven Guide to Building Your Path to Success](https://diamantinoalmeida.com/career-strategy-a-proven-guide-to-building-your-path-to-success/)<!-- HN:43966422:end -->
+#### **Tuesday, May 13, 2025**
+<!-- HN:43965099:start -->
+* [43965099](https://news.social-protocols.org/stats?id=43965099) #15 98 points 22 comments -> [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)<!-- HN:43965099:end -->
