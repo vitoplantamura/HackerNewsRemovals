@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43976726](https://news.social-protocols.org/stats?id=43976726) #2 9 points 3 comments -> [Programmers Will Be Replaced by People with Ideas](https://www.cleverthinkingsoftware.com/programmers-will-be-replaced-by-people-with-ideas/)<!-- HN:43976726:end -->
 #### **Wednesday, May 14, 2025**
 <!-- HN:43979197:start -->
-* [43979197](https://news.social-protocols.org/stats?id=43979197) #9 16 points 14 comments -> [Less meat is nearly always better than sustainable meat](https://ourworldindata.org/less-meat-or-sustainable-meat)<!-- HN:43979197:end -->
+* [43979197](https://news.social-protocols.org/stats?id=43979197) #9 16 points 14 comments -> [Less meat is nearly always better than sustainable meat](https://ourworldindata.org/less-meat-or-sustainable-meat)<!-- HN:43979197:end --><!-- HN:43944844:start -->
+* [43944844](https://news.social-protocols.org/stats?id=43944844) #16 6 points 3 comments -> [Simplifying the Ethereum Layer 1](https://vitalik.eth.limo/general/2025/05/03/simplel1.html)<!-- HN:43944844:end -->
