@@ -111,3 +111,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43974565](https://news.social-protocols.org/stats?id=43974565) #23 18 points 8 comments -> [GOP Senator Introduces Bill to Make All Porn a Federal Crime](https://gizmodo.com/gop-senator-introduces-bill-to-make-all-porn-a-federal-crime-following-project-2025-playbook-2000600994)<!-- HN:43974565:end --><!-- HN:43975318:start -->
 * [43975318](https://news.social-protocols.org/stats?id=43975318) #12 44 points 16 comments -> [Sid Meier's Colonization](https://peyre.42web.io/Colonization/index.htm)<!-- HN:43975318:end --><!-- HN:43976726:start -->
 * [43976726](https://news.social-protocols.org/stats?id=43976726) #2 9 points 3 comments -> [Programmers Will Be Replaced by People with Ideas](https://www.cleverthinkingsoftware.com/programmers-will-be-replaced-by-people-with-ideas/)<!-- HN:43976726:end -->
+#### **Wednesday, May 14, 2025**
+<!-- HN:43979197:start -->
+* [43979197](https://news.social-protocols.org/stats?id=43979197) #9 16 points 14 comments -> [Less meat is nearly always better than sustainable meat](https://ourworldindata.org/less-meat-or-sustainable-meat)<!-- HN:43979197:end -->
