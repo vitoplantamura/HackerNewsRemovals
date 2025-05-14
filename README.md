@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 7, 2025**
-<!-- HN:43910874:start -->
-* [43910874](https://news.social-protocols.org/stats?id=43910874) #30 9 points 2 comments -> [U.S. Orders Intelligence Agencies to Step Up Spying on Greenland](https://www.wsj.com/world/greenland-spying-us-intelligence-809c4ef2)<!-- HN:43910874:end --><!-- HN:43910794:start -->
-* [43910794](https://news.social-protocols.org/stats?id=43910794) #2 173 points 35 comments -> [FTC bans hidden fees for live events and short-term rentals, effective May 12](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/)<!-- HN:43910794:end --><!-- HN:43913896:start -->
-* [43913896](https://news.social-protocols.org/stats?id=43913896) #3 55 points 1 comments -> [Agentic Editing in Zed](https://zed.dev/blog/fastest-ai-code-editor?e=60)<!-- HN:43913896:end --><!-- HN:43914034:start -->
-* [43914034](https://news.social-protocols.org/stats?id=43914034) #15 12 points 1 comments -> [Agentic Editing in Zed](https://zed.dev/agentic)<!-- HN:43914034:end --><!-- HN:43915070:start -->
-* [43915070](https://news.social-protocols.org/stats?id=43915070) #7 19 points 1 comments -> [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)<!-- HN:43915070:end --><!-- HN:43915365:start -->
-* [43915365](https://news.social-protocols.org/stats?id=43915365) #20 7 points 0 comments -> [Real ID now required in US after nearly 20 years of delays](https://www.theguardian.com/us-news/2025/may/07/real-id-domestic-flights)<!-- HN:43915365:end --><!-- HN:43918596:start -->
-* [43918596](https://news.social-protocols.org/stats?id=43918596) #7 49 points 22 comments -> [Social AI companions pose unacceptable risks to teens and children under 18](https://www.commonsensemedia.org/ai-ratings/social-ai-companions)<!-- HN:43918596:end --><!-- HN:43918600:start -->
-* [43918600](https://news.social-protocols.org/stats?id=43918600) #4 129 points 23 comments -> [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)<!-- HN:43918600:end --><!-- HN:43920389:start -->
-* [43920389](https://news.social-protocols.org/stats?id=43920389) #29 4 points 1 comments -> [After an Arizona man was shot, an AI video of him addresses his killer in court](https://www.npr.org/2025/05/07/g-s1-64640/ai-impact-statement-murder-victim)<!-- HN:43920389:end -->
 #### **Thursday, May 8, 2025**
 <!-- HN:43923331:start -->
 * [43923331](https://news.social-protocols.org/stats?id=43923331) #25 19 points 10 comments -> [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)<!-- HN:43923331:end --><!-- HN:43925319:start -->
