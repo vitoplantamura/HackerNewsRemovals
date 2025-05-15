@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, May 8, 2025**
-<!-- HN:43923331:start -->
-* [43923331](https://news.social-protocols.org/stats?id=43923331) #25 19 points 10 comments -> [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)<!-- HN:43923331:end --><!-- HN:43925319:start -->
-* [43925319](https://news.social-protocols.org/stats?id=43925319) #17 12 points 0 comments -> [What Money Can't Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)<!-- HN:43925319:end --><!-- HN:43924779:start -->
-* [43924779](https://news.social-protocols.org/stats?id=43924779) #18 21 points 8 comments -> [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)<!-- HN:43924779:end --><!-- HN:43925911:start -->
-* [43925911](https://news.social-protocols.org/stats?id=43925911) #5 30 points 11 comments -> [Globalization did not hollow out the American middle class](https://www.noahpinion.blog/p/globalization-did-not-hollow-out)<!-- HN:43925911:end --><!-- HN:43925427:start -->
-* [43925427](https://news.social-protocols.org/stats?id=43925427) #21 12 points 1 comments -> [BYD Sealion 7 surpass Tesla Model Y to be Australia's best-selling electric car](https://www.drive.com.au/news/byd-sealion-7-surpasses-tesla-model-y-to-become-australias-new-best-selling-electric-car/)<!-- HN:43925427:end --><!-- HN:43927318:start -->
-* [43927318](https://news.social-protocols.org/stats?id=43927318) #5 20 points 3 comments -> [Cybertruck owners won't get Autosteer feature](https://electrek.co/2025/05/07/tesla-bait-and-switch-cybertruck-owners-wont-get-autosteer-feature/)<!-- HN:43927318:end --><!-- HN:43928613:start -->
-* [43928613](https://news.social-protocols.org/stats?id=43928613) #27 10 points 5 comments -> [Robert Francis Prevost Is Chosen as First Pope from U.S.](https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news)<!-- HN:43928613:end --><!-- HN:43928742:start -->
-* [43928742](https://news.social-protocols.org/stats?id=43928742) #2 206 points 3 comments -> [Chicago native Cardinal Prevost elected pope, takes name Leo XIV](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/)<!-- HN:43928742:end --><!-- HN:43932202:start -->
-* [43932202](https://news.social-protocols.org/stats?id=43932202) #4 6 points 0 comments -> [Radiation Tolerant Software Framework for Space Applications](https://github.com/r0nlt/Space-Radiation-Tolerant)<!-- HN:43932202:end -->
 #### **Friday, May 9, 2025**
 <!-- HN:43932278:start -->
 * [43932278](https://news.social-protocols.org/stats?id=43932278) #18 11 points 6 comments -> [Gender characteristics of service robots can influence customer decisions](https://www.psu.edu/news/health-and-human-development/story/gender-characteristics-service-robots-can-influence-customer)<!-- HN:43932278:end --><!-- HN:43901081:start -->
@@ -125,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43987768](https://news.social-protocols.org/stats?id=43987768) #8 4 points 0 comments -> [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing)<!-- HN:43987768:end -->
 #### **Thursday, May 15, 2025**
 <!-- HN:43990107:start -->
-* [43990107](https://news.social-protocols.org/stats?id=43990107) #5 20 points 5 comments -> [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)<!-- HN:43990107:end -->
+* [43990107](https://news.social-protocols.org/stats?id=43990107) #5 20 points 5 comments -> [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)<!-- HN:43990107:end --><!-- HN:43950834:start -->
+* [43950834](https://news.social-protocols.org/stats?id=43950834) #21 8 points 4 comments -> [The AUCTUS A6: the chip enabling inexpensive DMR Radio (2021)](https://jhart99.com/auctus-a6/)<!-- HN:43950834:end -->
