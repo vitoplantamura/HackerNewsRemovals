@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, May 15, 2025**
 <!-- HN:43990107:start -->
 * [43990107](https://news.social-protocols.org/stats?id=43990107) #5 20 points 5 comments -> [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)<!-- HN:43990107:end --><!-- HN:43950834:start -->
-* [43950834](https://news.social-protocols.org/stats?id=43950834) #21 8 points 4 comments -> [The AUCTUS A6: the chip enabling inexpensive DMR Radio (2021)](https://jhart99.com/auctus-a6/)<!-- HN:43950834:end -->
+* [43950834](https://news.social-protocols.org/stats?id=43950834) #21 8 points 4 comments -> [The AUCTUS A6: the chip enabling inexpensive DMR Radio (2021)](https://jhart99.com/auctus-a6/)<!-- HN:43950834:end --><!-- HN:43990976:start -->
+* [43990976](https://news.social-protocols.org/stats?id=43990976) #6 15 points 7 comments -> [AI is like hyperprocessed foods for learning](https://blindsidenetworks.com/ai-is-like-hyperprocessed-food-for-learning/)<!-- HN:43990976:end -->
