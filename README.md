@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43985340](https://news.social-protocols.org/stats?id=43985340) #20 7 points 0 comments -> [A farewell to Ada with null (1992)](https://web.elastic.org/~fche/mirrors/old-usenet/ada-with-null)<!-- HN:43985340:end --><!-- HN:43985930:start -->
 * [43985930](https://news.social-protocols.org/stats?id=43985930) #4 45 points 3 comments -> [DeepMind unveils 'spectacular' general-purpose science AI](https://www.nature.com/articles/d41586-025-01523-z)<!-- HN:43985930:end --><!-- HN:43987768:start -->
 * [43987768](https://news.social-protocols.org/stats?id=43987768) #8 4 points 0 comments -> [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing)<!-- HN:43987768:end -->
+#### **Thursday, May 15, 2025**
+<!-- HN:43990107:start -->
+* [43990107](https://news.social-protocols.org/stats?id=43990107) #5 20 points 5 comments -> [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)<!-- HN:43990107:end -->
