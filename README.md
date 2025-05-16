@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, May 16, 2025**
 <!-- HN:44002932:start -->
 * [44002932](https://news.social-protocols.org/stats?id=44002932) #3 4 points 2 comments -> [You're misunderstanding DDD in Angular (and Front end)](https://www.angularspace.com/youre-misunderstanding-ddd-in-angular-and-frontend/)<!-- HN:44002932:end --><!-- HN:44002536:start -->
-* [44002536](https://news.social-protocols.org/stats?id=44002536) #27 80 points 1 comments -> [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)<!-- HN:44002536:end -->
+* [44002536](https://news.social-protocols.org/stats?id=44002536) #27 80 points 1 comments -> [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)<!-- HN:44002536:end --><!-- HN:44004568:start -->
+* [44004568](https://news.social-protocols.org/stats?id=44004568) #12 10 points 0 comments -> [The Mortality Impacts of Usaid Cuts](https://asteriskmag.substack.com/p/forecast-series-the-mortality-impacts)<!-- HN:44004568:end -->
