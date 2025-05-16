@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43957834](https://news.social-protocols.org/stats?id=43957834) #23 4 points 1 comments -> [They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)<!-- HN:43957834:end --><!-- HN:43996277:start -->
 * [43996277](https://news.social-protocols.org/stats?id=43996277) #27 13 points 0 comments -> [How we built our docs site](https://trophy.so/blog/how-we-built-our-developer-docs-with-mintlify-fern)<!-- HN:43996277:end --><!-- HN:43967550:start -->
 * [43967550](https://news.social-protocols.org/stats?id=43967550) #6 14 points 10 comments -> [ChatGPT could never get a PhD in geography](https://garymarcus.substack.com/p/chatgpt-blows-mapmaking-101)<!-- HN:43967550:end -->
+#### **Friday, May 16, 2025**
+<!-- HN:44002932:start -->
+* [44002932](https://news.social-protocols.org/stats?id=44002932) #3 4 points 2 comments -> [You're misunderstanding DDD in Angular (and Front end)](https://www.angularspace.com/youre-misunderstanding-ddd-in-angular-and-frontend/)<!-- HN:44002932:end -->
