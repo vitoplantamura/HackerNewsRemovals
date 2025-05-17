@@ -125,8 +125,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44002589](https://news.social-protocols.org/stats?id=44002589) #11 26 points 6 comments -> [Detecting Malicious Unicode](https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/)<!-- HN:44002589:end --><!-- HN:44008867:start -->
 * [44008867](https://news.social-protocols.org/stats?id=44008867) #12 32 points 4 comments -> [ChatGPT can accurately estimate Body Fat Percentage from photos](https://annaleptikon.substack.com/p/can-chatgpt-accurately-estimate-body)<!-- HN:44008867:end -->
 #### **Saturday, May 17, 2025**
-<!-- HN:44011381:start -->
-* [44011381](https://news.social-protocols.org/stats?id=44011381) #7 14 points 5 comments -> [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)<!-- HN:44011381:end --><!-- HN:44011474:start -->
+<!-- HN:44011474:start -->
 * [44011474](https://news.social-protocols.org/stats?id=44011474) #13 17 points 1 comments -> [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)<!-- HN:44011474:end --><!-- HN:43978825:start -->
 * [43978825](https://news.social-protocols.org/stats?id=43978825) #9 7 points 4 comments -> [The Airplane 'Barf Bag' Is a Genius Invention Most People Never Think About](https://www.theautopian.com/the-airplane-barf-bag-is-a-genius-invention-most-people-never-think-about-and-using-one-blew-my-mind/)<!-- HN:43978825:end --><!-- HN:44010922:start -->
 * [44010922](https://news.social-protocols.org/stats?id=44010922) #21 12 points 0 comments -> [Google worried it couldn't control how Israel uses Project Nimbus, files reveal](https://theintercept.com/2025/05/12/google-nimbus-israel-military-ai-human-rights/)<!-- HN:44010922:end -->
