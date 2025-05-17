@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44008867](https://news.social-protocols.org/stats?id=44008867) #12 32 points 4 comments -> [ChatGPT can accurately estimate Body Fat Percentage from photos](https://annaleptikon.substack.com/p/can-chatgpt-accurately-estimate-body)<!-- HN:44008867:end -->
 #### **Saturday, May 17, 2025**
 <!-- HN:44011381:start -->
-* [44011381](https://news.social-protocols.org/stats?id=44011381) #7 14 points 5 comments -> [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)<!-- HN:44011381:end -->
+* [44011381](https://news.social-protocols.org/stats?id=44011381) #7 14 points 5 comments -> [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)<!-- HN:44011381:end --><!-- HN:44011474:start -->
+* [44011474](https://news.social-protocols.org/stats?id=44011474) #13 17 points 1 comments -> [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)<!-- HN:44011474:end -->
