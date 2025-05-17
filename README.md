@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44008538](https://news.social-protocols.org/stats?id=44008538) #15 17 points 4 comments -> [Making code last a long time](https://twitter.com/jonathan_blow/status/1923414922484232404)<!-- HN:44008538:end --><!-- HN:44002589:start -->
 * [44002589](https://news.social-protocols.org/stats?id=44002589) #11 26 points 6 comments -> [Detecting Malicious Unicode](https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/)<!-- HN:44002589:end --><!-- HN:44008867:start -->
 * [44008867](https://news.social-protocols.org/stats?id=44008867) #12 32 points 4 comments -> [ChatGPT can accurately estimate Body Fat Percentage from photos](https://annaleptikon.substack.com/p/can-chatgpt-accurately-estimate-body)<!-- HN:44008867:end -->
+#### **Saturday, May 17, 2025**
+<!-- HN:44011381:start -->
+* [44011381](https://news.social-protocols.org/stats?id=44011381) #7 14 points 5 comments -> [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)<!-- HN:44011381:end -->
