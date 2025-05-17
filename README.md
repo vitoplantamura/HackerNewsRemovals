@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 10, 2025**
-<!-- HN:43942928:start -->
-* [43942928](https://news.social-protocols.org/stats?id=43942928) #8 -> [Uber Driver app can get location in background without the permissions (How?)](https://developer.apple.com/forums/thread/783227)<!-- HN:43942928:end --><!-- HN:43911197:start -->
-* [43911197](https://news.social-protocols.org/stats?id=43911197) #21 8 points 0 comments -> [Running Windows.exe on a Linux Brain: The Sysadmin's Guide to Neurodivergence](https://leantime.io/running-windows-exe-on-a-linux-brain-the-sysadmins-guide-to-neurodivergence/)<!-- HN:43911197:end --><!-- HN:43943871:start -->
-* [43943871](https://news.social-protocols.org/stats?id=43943871) #7 27 points 16 comments -> [Why should I care? or why punks are correct and old wise philosophers are wrong](https://abuseofnotation.github.io/moral-law/)<!-- HN:43943871:end --><!-- HN:43944809:start -->
-* [43944809](https://news.social-protocols.org/stats?id=43944809) #3 39 points 39 comments -> [The Fallacy of Techno-Feudalism](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism)<!-- HN:43944809:end --><!-- HN:43945324:start -->
-* [43945324](https://news.social-protocols.org/stats?id=43945324) #18 4 points 0 comments -> [The Dave and Busters Anomaly](https://www.searchengine.show/the-dave-and-busters-anomaly/)<!-- HN:43945324:end --><!-- HN:43947161:start -->
-* [43947161](https://news.social-protocols.org/stats?id=43947161) #5 10 points 0 comments -> [Simon Willison's first blog on LLMs (2022)](https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/)<!-- HN:43947161:end --><!-- HN:43949108:start -->
-* [43949108](https://news.social-protocols.org/stats?id=43949108) #22 17 points 3 comments -> [Everyone Is Cheating Their Way Through College](https://www.msn.com/en-us/news/technology/everyone-is-cheating-their-way-through-college/ar-AA1EjCRk)<!-- HN:43949108:end -->
 #### **Sunday, May 11, 2025**
 <!-- HN:43950081:start -->
 * [43950081](https://news.social-protocols.org/stats?id=43950081) #15 7 points 0 comments -> [Covid-19 mRNA Destroys over 60% of Non-Renewable Egg Supply](https://www.thefocalpoints.com/p/breaking-covid-19-mrna-shots-destroy)<!-- HN:43950081:end --><!-- HN:43950053:start -->
