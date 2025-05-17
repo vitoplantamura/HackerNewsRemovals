@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 17, 2025**
 <!-- HN:44011381:start -->
 * [44011381](https://news.social-protocols.org/stats?id=44011381) #7 14 points 5 comments -> [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)<!-- HN:44011381:end --><!-- HN:44011474:start -->
-* [44011474](https://news.social-protocols.org/stats?id=44011474) #13 17 points 1 comments -> [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)<!-- HN:44011474:end -->
+* [44011474](https://news.social-protocols.org/stats?id=44011474) #13 17 points 1 comments -> [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)<!-- HN:44011474:end --><!-- HN:44011693:start -->
+* [44011693](https://news.social-protocols.org/stats?id=44011693) #29 10 points 1 comments -> [Big Tech takes a harder line against worker activism, political dissent](https://www.washingtonpost.com/technology/2025/05/16/silicon-valley-workers-dissent-employment-layoffs-whistleblowers/)<!-- HN:44011693:end -->
