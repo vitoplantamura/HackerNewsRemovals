@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44018830](https://news.social-protocols.org/stats?id=44018830) #3 63 points 2 comments -> [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)<!-- HN:44018830:end --><!-- HN:44018886:start -->
 * [44018886](https://news.social-protocols.org/stats?id=44018886) #7 16 points 7 comments -> [Show HN: Chat with 19 years of HN](https://app.camelai.com/log-in?next=/hn/)<!-- HN:44018886:end --><!-- HN:44018922:start -->
 * [44018922](https://news.social-protocols.org/stats?id=44018922) #3 25 points 43 comments -> [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67)<!-- HN:44018922:end --><!-- HN:44018741:start -->
-* [44018741](https://news.social-protocols.org/stats?id=44018741) #9 73 points 11 comments -> [Pglocks.org](https://pglocks.org/)<!-- HN:44018741:end -->
+* [44018741](https://news.social-protocols.org/stats?id=44018741) #9 73 points 11 comments -> [Pglocks.org](https://pglocks.org/)<!-- HN:44018741:end --><!-- HN:44016336:start -->
+* [44016336](https://news.social-protocols.org/stats?id=44016336) #10 176 points 60 comments -> [Directory of MCP Servers](https://github.com/chatmcp/mcpso)<!-- HN:44016336:end -->
