@@ -133,5 +133,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, May 18, 2025**
 <!-- HN:44016356:start -->
 * [44016356](https://news.social-protocols.org/stats?id=44016356) #20 33 points 40 comments -> [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)<!-- HN:44016356:end --><!-- HN:44017739:start -->
-* [44017739](https://news.social-protocols.org/stats?id=44017739) #10 8 points 0 comments -> [Can V Deliver on Its Promises?](http://bitshifters.cc/2025/05/17/vlang.html)<!-- HN:44017739:end --><!-- HN:44018282:start -->
-* [44018282](https://news.social-protocols.org/stats?id=44018282) #5 14 points 0 comments -> [Beta.weather.gov](https://beta.weather.gov/)<!-- HN:44018282:end -->
+* [44017739](https://news.social-protocols.org/stats?id=44017739) #10 8 points 0 comments -> [Can V Deliver on Its Promises?](http://bitshifters.cc/2025/05/17/vlang.html)<!-- HN:44017739:end -->
