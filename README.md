@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44017490](https://news.social-protocols.org/stats?id=44017490) #24 5 points 0 comments -> [Google Chrome data leakage bug confirmed as actively exploited](https://www.scworld.com/news/google-chrome-bug-that-could-leak-sensitive-info-actively-exploited)<!-- HN:44017490:end -->
 #### **Sunday, May 18, 2025**
 <!-- HN:44016356:start -->
-* [44016356](https://news.social-protocols.org/stats?id=44016356) #20 33 points 40 comments -> [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)<!-- HN:44016356:end -->
+* [44016356](https://news.social-protocols.org/stats?id=44016356) #20 33 points 40 comments -> [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)<!-- HN:44016356:end --><!-- HN:44017739:start -->
+* [44017739](https://news.social-protocols.org/stats?id=44017739) #10 8 points 0 comments -> [Can V Deliver on Its Promises?](http://bitshifters.cc/2025/05/17/vlang.html)<!-- HN:44017739:end -->
