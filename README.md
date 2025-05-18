@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [43984285](https://news.social-protocols.org/stats?id=43984285) #19 15 points 5 comments -> [The Boring Company Achieves "Holy Grail" Zero-People-in-Tunnel Continuous Mining](https://gearmusk.com/2025/05/14/the-boring-company-zpit/)<!-- HN:43984285:end --><!-- HN:44017172:start -->
 * [44017172](https://news.social-protocols.org/stats?id=44017172) #22 7 points 0 comments -> [Jamie Lee Curtis publicly shamed Mark Zuckerberg to remove a deepfaked ad](https://www.engadget.com/social-media/jamie-lee-curtis-publicly-shamed-mark-zuckerberg-to-remove-a-deepfaked-ad-225448916.html)<!-- HN:44017172:end --><!-- HN:44017490:start -->
 * [44017490](https://news.social-protocols.org/stats?id=44017490) #24 5 points 0 comments -> [Google Chrome data leakage bug confirmed as actively exploited](https://www.scworld.com/news/google-chrome-bug-that-could-leak-sensitive-info-actively-exploited)<!-- HN:44017490:end -->
+#### **Sunday, May 18, 2025**
+<!-- HN:44016356:start -->
+* [44016356](https://news.social-protocols.org/stats?id=44016356) #20 33 points 40 comments -> [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)<!-- HN:44016356:end -->
