@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44023200](https://news.social-protocols.org/stats?id=44023200) #21 5 points 0 comments -> [Show HN: Vibe Coded GitHub PR Bot for Integrating a GitHub Action](https://vetpkg.dev/gha)<!-- HN:44023200:end --><!-- HN:44024699:start -->
 * [44024699](https://news.social-protocols.org/stats?id=44024699) #23 9 points 3 comments -> [Telegram CEO: French intelligence head asked me to ban Romanian conservatives](https://twitter.com/durov/status/1924187940122431572)<!-- HN:44024699:end --><!-- HN:44024870:start -->
 * [44024870](https://news.social-protocols.org/stats?id=44024870) #23 39 points 47 comments -> [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)<!-- HN:44024870:end -->
+#### **Monday, May 19, 2025**
+<!-- HN:44022106:start -->
+* [44022106](https://news.social-protocols.org/stats?id=44022106) #24 27 points 6 comments -> [Show HN: Train and deploy your own open-source humanoid in Python](https://github.com/kscalelabs/ksim-gym)<!-- HN:44022106:end -->
