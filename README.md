@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44024870](https://news.social-protocols.org/stats?id=44024870) #23 39 points 47 comments -> [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)<!-- HN:44024870:end -->
 #### **Monday, May 19, 2025**
 <!-- HN:44022106:start -->
-* [44022106](https://news.social-protocols.org/stats?id=44022106) #24 27 points 6 comments -> [Show HN: Train and deploy your own open-source humanoid in Python](https://github.com/kscalelabs/ksim-gym)<!-- HN:44022106:end -->
+* [44022106](https://news.social-protocols.org/stats?id=44022106) #24 27 points 6 comments -> [Show HN: Train and deploy your own open-source humanoid in Python](https://github.com/kscalelabs/ksim-gym)<!-- HN:44022106:end --><!-- HN:44001105:start -->
+* [44001105](https://news.social-protocols.org/stats?id=44001105) #23 8 points 2 comments -> [Green Fabrication of Sulfonium-Containing Bismuth Materials for X-Ray Detection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418626)<!-- HN:44001105:end -->
