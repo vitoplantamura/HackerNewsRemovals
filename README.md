@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44022106:start -->
 * [44022106](https://news.social-protocols.org/stats?id=44022106) #24 27 points 6 comments -> [Show HN: Train and deploy your own open-source humanoid in Python](https://github.com/kscalelabs/ksim-gym)<!-- HN:44022106:end --><!-- HN:44001105:start -->
 * [44001105](https://news.social-protocols.org/stats?id=44001105) #23 8 points 2 comments -> [Green Fabrication of Sulfonium-Containing Bismuth Materials for X-Ray Detection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418626)<!-- HN:44001105:end --><!-- HN:44003986:start -->
-* [44003986](https://news.social-protocols.org/stats?id=44003986) #23 7 points 8 comments -> [Npx Business Card](https://ashley.dev/posts/turning-feedback-into-features/)<!-- HN:44003986:end -->
+* [44003986](https://news.social-protocols.org/stats?id=44003986) #23 7 points 8 comments -> [Npx Business Card](https://ashley.dev/posts/turning-feedback-into-features/)<!-- HN:44003986:end --><!-- HN:44026335:start -->
+* [44026335](https://news.social-protocols.org/stats?id=44026335) #4 4 points 0 comments -> [The people stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)<!-- HN:44026335:end -->
