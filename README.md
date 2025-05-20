@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, May 20, 2025**
 <!-- HN:44035876:start -->
 * [44035876](https://news.social-protocols.org/stats?id=44035876) #4 26 points 3 comments -> [Claude Code in the Cloud (better than CodeX)](https://cloudcoding.ai/)<!-- HN:44035876:end --><!-- HN:44038812:start -->
-* [44038812](https://news.social-protocols.org/stats?id=44038812) #16 14 points 2 comments -> [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)<!-- HN:44038812:end -->
+* [44038812](https://news.social-protocols.org/stats?id=44038812) #16 14 points 2 comments -> [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)<!-- HN:44038812:end --><!-- HN:44039798:start -->
+* [44039798](https://news.social-protocols.org/stats?id=44039798) #10 7 points 8 comments -> [Show HN: Metal – stealth browser for enterprise automations](https://metalsecurity.io)<!-- HN:44039798:end -->
