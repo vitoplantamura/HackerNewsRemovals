@@ -156,3 +156,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44032124](https://news.social-protocols.org/stats?id=44032124) #25 49 points 16 comments -> [Company Reminder for Everyone to Talk Nicely About the Giant Plagiarism Machine](https://www.mcsweeneys.net/articles/a-company-reminder-for-everyone-to-talk-nicely-about-the-giant-plagiarism-machine)<!-- HN:44032124:end --><!-- HN:44035021:start -->
 * [44035021](https://news.social-protocols.org/stats?id=44035021) #13 11 points 1 comments -> [Definitive solution to the hardest problem in computing: P = NP?](https://www.researchgate.net/publication/391442238_A_Constructive_Proof_that_P_NP_via_Circuit-Resistant_Hash_Encodings_and_Local_Certification)<!-- HN:44035021:end --><!-- HN:44035274:start -->
 * [44035274](https://news.social-protocols.org/stats?id=44035274) #24 10 points 2 comments -> [Police pepper sprayed 93-year-old amputee during care home call, UK court told](https://www.rte.ie/news/uk/2025/0519/1513775-elderly-amputee-pepper-sprayed/)<!-- HN:44035274:end -->
+#### **Tuesday, May 20, 2025**
+<!-- HN:44035876:start -->
+* [44035876](https://news.social-protocols.org/stats?id=44035876) #4 26 points 3 comments -> [Claude Code in the Cloud (better than CodeX)](https://cloudcoding.ai/)<!-- HN:44035876:end -->
