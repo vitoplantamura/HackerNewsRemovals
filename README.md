@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44035274](https://news.social-protocols.org/stats?id=44035274) #24 10 points 2 comments -> [Police pepper sprayed 93-year-old amputee during care home call, UK court told](https://www.rte.ie/news/uk/2025/0519/1513775-elderly-amputee-pepper-sprayed/)<!-- HN:44035274:end -->
 #### **Tuesday, May 20, 2025**
 <!-- HN:44035876:start -->
-* [44035876](https://news.social-protocols.org/stats?id=44035876) #4 26 points 3 comments -> [Claude Code in the Cloud (better than CodeX)](https://cloudcoding.ai/)<!-- HN:44035876:end -->
+* [44035876](https://news.social-protocols.org/stats?id=44035876) #4 26 points 3 comments -> [Claude Code in the Cloud (better than CodeX)](https://cloudcoding.ai/)<!-- HN:44035876:end --><!-- HN:44038812:start -->
+* [44038812](https://news.social-protocols.org/stats?id=44038812) #16 14 points 2 comments -> [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)<!-- HN:44038812:end -->
