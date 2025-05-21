@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44040391](https://news.social-protocols.org/stats?id=44040391) #27 8 points 6 comments -> [CRLF Injection in `–proxy-header` allows extra HTTP headers (CWE-93)](https://hackerone.com/reports/3133379)<!-- HN:44040391:end --><!-- HN:44042311:start -->
 * [44042311](https://news.social-protocols.org/stats?id=44042311) #22 90 points 39 comments -> [If an AI agent can't figure out how your API works, neither can your users](https://stytch.com/blog/if-an-ai-agent-cant-figure-out-how-your-api-works-neither-can-your-users/)<!-- HN:44042311:end --><!-- HN:44044451:start -->
 * [44044451](https://news.social-protocols.org/stats?id=44044451) #2 123 points 1 comments -> [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/)<!-- HN:44044451:end -->
+#### **Wednesday, May 21, 2025**
+<!-- HN:44047074:start -->
+* [44047074](https://news.social-protocols.org/stats?id=44047074) #10 10 points 2 comments -> [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)<!-- HN:44047074:end -->
