@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44047074:start -->
 * [44047074](https://news.social-protocols.org/stats?id=44047074) #10 10 points 2 comments -> [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)<!-- HN:44047074:end --><!-- HN:44047888:start -->
 * [44047888](https://news.social-protocols.org/stats?id=44047888) #2 7 points 0 comments -> [I made a system to abolish subscriptions](https://www.joinares.com/)<!-- HN:44047888:end --><!-- HN:44047911:start -->
-* [44047911](https://news.social-protocols.org/stats?id=44047911) #20 3 points 0 comments -> [What if Vintage and Modern got together](https://www.jaydip.me/)<!-- HN:44047911:end -->
+* [44047911](https://news.social-protocols.org/stats?id=44047911) #20 3 points 0 comments -> [What if Vintage and Modern got together](https://www.jaydip.me/)<!-- HN:44047911:end --><!-- HN:44047307:start -->
+* [44047307](https://news.social-protocols.org/stats?id=44047307) #14 45 points 4 comments -> [Show HN: apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)<!-- HN:44047307:end -->
