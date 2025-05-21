@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, May 21, 2025**
 <!-- HN:44047074:start -->
 * [44047074](https://news.social-protocols.org/stats?id=44047074) #10 10 points 2 comments -> [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)<!-- HN:44047074:end --><!-- HN:44047888:start -->
-* [44047888](https://news.social-protocols.org/stats?id=44047888) #2 7 points 0 comments -> [I made a system to abolish subscriptions](https://www.joinares.com/)<!-- HN:44047888:end -->
+* [44047888](https://news.social-protocols.org/stats?id=44047888) #2 7 points 0 comments -> [I made a system to abolish subscriptions](https://www.joinares.com/)<!-- HN:44047888:end --><!-- HN:44047911:start -->
+* [44047911](https://news.social-protocols.org/stats?id=44047911) #20 3 points 0 comments -> [What if Vintage and Modern got together](https://www.jaydip.me/)<!-- HN:44047911:end -->
