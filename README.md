@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 14, 2025**
-<!-- HN:43979197:start -->
-* [43979197](https://news.social-protocols.org/stats?id=43979197) #9 16 points 14 comments -> [Less meat is nearly always better than sustainable meat](https://ourworldindata.org/less-meat-or-sustainable-meat)<!-- HN:43979197:end --><!-- HN:43944844:start -->
-* [43944844](https://news.social-protocols.org/stats?id=43944844) #16 6 points 3 comments -> [Simplifying the Ethereum Layer 1](https://vitalik.eth.limo/general/2025/05/03/simplel1.html)<!-- HN:43944844:end --><!-- HN:43982816:start -->
-* [43982816](https://news.social-protocols.org/stats?id=43982816) #16 14 points 5 comments -> [Databricks to Buy Startup Neon for $1B](https://www.wsj.com/articles/databricks-to-buy-startup-neon-for-1-billion-fdded971)<!-- HN:43982816:end --><!-- HN:43984132:start -->
-* [43984132](https://news.social-protocols.org/stats?id=43984132) #19 9 points 1 comments -> [US brain drain: the scientists seeking jobs abroad amid assault on research](https://www.nature.com/articles/d41586-025-01489-y)<!-- HN:43984132:end --><!-- HN:43984409:start -->
-* [43984409](https://news.social-protocols.org/stats?id=43984409) #26 3 points 0 comments -> [Making my app worse because of macOS privacy protections](https://lapcatsoftware.com/articles/2025/5/3.html)<!-- HN:43984409:end --><!-- HN:43984282:start -->
-* [43984282](https://news.social-protocols.org/stats?id=43984282) #27 5 points 0 comments -> [How to Secure Your Home Wi-Fi Network from Hackers](https://www.youtube.com/watch?v=W8EIahhrw-s)<!-- HN:43984282:end --><!-- HN:43981603:start -->
-* [43981603](https://news.social-protocols.org/stats?id=43981603) #16 13 points 5 comments -> [Show HN: Sam TTS – Recreates the classic Microsoft SAM voice in the browser](https://samtts.com)<!-- HN:43981603:end --><!-- HN:43985340:start -->
-* [43985340](https://news.social-protocols.org/stats?id=43985340) #20 7 points 0 comments -> [A farewell to Ada with null (1992)](https://web.elastic.org/~fche/mirrors/old-usenet/ada-with-null)<!-- HN:43985340:end --><!-- HN:43985930:start -->
-* [43985930](https://news.social-protocols.org/stats?id=43985930) #4 45 points 3 comments -> [DeepMind unveils 'spectacular' general-purpose science AI](https://www.nature.com/articles/d41586-025-01523-z)<!-- HN:43985930:end --><!-- HN:43987768:start -->
-* [43987768](https://news.social-protocols.org/stats?id=43987768) #8 4 points 0 comments -> [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing)<!-- HN:43987768:end -->
 #### **Thursday, May 15, 2025**
 <!-- HN:43990107:start -->
 * [43990107](https://news.social-protocols.org/stats?id=43990107) #5 20 points 5 comments -> [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)<!-- HN:43990107:end --><!-- HN:43950834:start -->
