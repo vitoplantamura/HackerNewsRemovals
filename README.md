@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44044451](https://news.social-protocols.org/stats?id=44044451) #2 123 points 1 comments -> [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/)<!-- HN:44044451:end -->
 #### **Wednesday, May 21, 2025**
 <!-- HN:44047074:start -->
-* [44047074](https://news.social-protocols.org/stats?id=44047074) #10 10 points 2 comments -> [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)<!-- HN:44047074:end -->
+* [44047074](https://news.social-protocols.org/stats?id=44047074) #10 10 points 2 comments -> [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)<!-- HN:44047074:end --><!-- HN:44047888:start -->
+* [44047888](https://news.social-protocols.org/stats?id=44047888) #2 7 points 0 comments -> [I made a system to abolish subscriptions](https://www.joinares.com/)<!-- HN:44047888:end -->
