@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, May 22, 2025**
 <!-- HN:44058408:start -->
 * [44058408](https://news.social-protocols.org/stats?id=44058408) #4 7 points 0 comments -> [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)<!-- HN:44058408:end --><!-- HN:44058557:start -->
-* [44058557](https://news.social-protocols.org/stats?id=44058557) #6 5 points 1 comments -> [Indian police trying to read minds of suspects, over neuroscientists' objections](https://www.science.org/content/article/indian-police-are-trying-read-minds-suspects-over-neuroscientists-objections)<!-- HN:44058557:end -->
+* [44058557](https://news.social-protocols.org/stats?id=44058557) #6 5 points 1 comments -> [Indian police trying to read minds of suspects, over neuroscientists' objections](https://www.science.org/content/article/indian-police-are-trying-read-minds-suspects-over-neuroscientists-objections)<!-- HN:44058557:end --><!-- HN:44027624:start -->
+* [44027624](https://news.social-protocols.org/stats?id=44027624) #25 53 points 48 comments -> [Google releases Material 3 Expressive, a more emotional UI design system](https://m3.material.io/blog/building-with-m3-expressive)<!-- HN:44027624:end -->
