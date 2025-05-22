@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44021086](https://news.social-protocols.org/stats?id=44021086) #19 6 points 1 comments -> [Surgical Knee Denervation for Treatment of Pain Caused by Primary Osteoarthritis](https://lww.com/_layouts/1033/OAKS.Journals/Error/JavaScript.html)<!-- HN:44021086:end -->
 #### **Thursday, May 22, 2025**
 <!-- HN:44058408:start -->
-* [44058408](https://news.social-protocols.org/stats?id=44058408) #4 7 points 0 comments -> [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)<!-- HN:44058408:end -->
+* [44058408](https://news.social-protocols.org/stats?id=44058408) #4 7 points 0 comments -> [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)<!-- HN:44058408:end --><!-- HN:44058557:start -->
+* [44058557](https://news.social-protocols.org/stats?id=44058557) #6 5 points 1 comments -> [Indian police trying to read minds of suspects, over neuroscientists' objections](https://www.science.org/content/article/indian-police-are-trying-read-minds-suspects-over-neuroscientists-objections)<!-- HN:44058557:end -->
