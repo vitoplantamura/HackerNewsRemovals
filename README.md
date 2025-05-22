@@ -135,3 +135,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44053042](https://news.social-protocols.org/stats?id=44053042) #22 4 points 0 comments -> [HuggingFace: Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/unit0/introduction)<!-- HN:44053042:end --><!-- HN:44055635:start -->
 * [44055635](https://news.social-protocols.org/stats?id=44055635) #14 5 points 0 comments -> [The EPA Isn't Killing Diesel–Tuners Are Killing Their Own Credibility](https://www.carsandhorsepower.com/featured/why-diesel-tuners-are-the-biggest-hypocrites-in-the-car-scene)<!-- HN:44055635:end --><!-- HN:44021086:start -->
 * [44021086](https://news.social-protocols.org/stats?id=44021086) #19 6 points 1 comments -> [Surgical Knee Denervation for Treatment of Pain Caused by Primary Osteoarthritis](https://lww.com/_layouts/1033/OAKS.Journals/Error/JavaScript.html)<!-- HN:44021086:end -->
+#### **Thursday, May 22, 2025**
+<!-- HN:44058408:start -->
+* [44058408](https://news.social-protocols.org/stats?id=44058408) #4 7 points 0 comments -> [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)<!-- HN:44058408:end -->
