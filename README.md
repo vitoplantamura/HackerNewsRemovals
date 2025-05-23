@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44066460](https://news.social-protocols.org/stats?id=44066460) #7 5 points 0 comments -> [It's So Over](https://itssoover.online/)<!-- HN:44066460:end --><!-- HN:44066597:start -->
 * [44066597](https://news.social-protocols.org/stats?id=44066597) #17 11 points 1 comments -> [Engineers and AI: ramblings of a small startup founder](https://labadal.com/blogs/ruminations/engineers-and-ai.html)<!-- HN:44066597:end --><!-- HN:44027711:start -->
 * [44027711](https://news.social-protocols.org/stats?id=44027711) #8 16 points 2 comments -> [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)<!-- HN:44027711:end -->
+#### **Friday, May 23, 2025**
+<!-- HN:44068463:start -->
+* [44068463](https://news.social-protocols.org/stats?id=44068463) #6 7 points 1 comments -> [The Relation of Boredom and Sadistic Aggression](https://www.researchgate.net/publication/344177987_On_the_relation_of_boredom_and_sadistic_aggression)<!-- HN:44068463:end -->
