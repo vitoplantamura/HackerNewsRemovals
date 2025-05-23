@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, May 23, 2025**
 <!-- HN:44068463:start -->
 * [44068463](https://news.social-protocols.org/stats?id=44068463) #6 7 points 1 comments -> [The Relation of Boredom and Sadistic Aggression](https://www.researchgate.net/publication/344177987_On_the_relation_of_boredom_and_sadistic_aggression)<!-- HN:44068463:end --><!-- HN:44068301:start -->
-* [44068301](https://news.social-protocols.org/stats?id=44068301) #25 5 points 5 comments -> [Shopify just launched a racing game built in threejs and React](https://www.shopify.com/ca/editions/summer2025/drive)<!-- HN:44068301:end -->
+* [44068301](https://news.social-protocols.org/stats?id=44068301) #25 5 points 5 comments -> [Shopify just launched a racing game built in threejs and React](https://www.shopify.com/ca/editions/summer2025/drive)<!-- HN:44068301:end --><!-- HN:44069540:start -->
+* [44069540](https://news.social-protocols.org/stats?id=44069540) #11 11 points 7 comments -> [Like Lovable but can make apps with gen-AI powered back ends](https://getcreatr.com/)<!-- HN:44069540:end -->
