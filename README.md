@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, May 16, 2025**
-<!-- HN:44002932:start -->
-* [44002932](https://news.social-protocols.org/stats?id=44002932) #3 4 points 2 comments -> [You're misunderstanding DDD in Angular (and Front end)](https://www.angularspace.com/youre-misunderstanding-ddd-in-angular-and-frontend/)<!-- HN:44002932:end --><!-- HN:44002536:start -->
-* [44002536](https://news.social-protocols.org/stats?id=44002536) #27 80 points 1 comments -> [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)<!-- HN:44002536:end --><!-- HN:44004568:start -->
-* [44004568](https://news.social-protocols.org/stats?id=44004568) #12 10 points 0 comments -> [The Mortality Impacts of Usaid Cuts](https://asteriskmag.substack.com/p/forecast-series-the-mortality-impacts)<!-- HN:44004568:end --><!-- HN:44004224:start -->
-* [44004224](https://news.social-protocols.org/stats?id=44004224) #20 29 points 20 comments -> [Prompts for our Grok chat assistant and grok bot on X](https://github.com/xai-org/grok-prompts)<!-- HN:44004224:end --><!-- HN:44005801:start -->
-* [44005801](https://news.social-protocols.org/stats?id=44005801) #8 3 points 2 comments -> [A Critical Examination of Prayers](https://www.rxjourney.net/a-critical-examination-of-prayers)<!-- HN:44005801:end --><!-- HN:44007063:start -->
-* [44007063](https://news.social-protocols.org/stats?id=44007063) #29 3 points 0 comments -> [Why Ups Trucks Don't Turn Left (2014)](https://priceonomics.com/why-ups-trucks-dont-turn-left/)<!-- HN:44007063:end --><!-- HN:44007256:start -->
-* [44007256](https://news.social-protocols.org/stats?id=44007256) #28 3 points 0 comments -> [Consumer sentiment slides to second-lowest on record](https://www.cnbc.com/2025/05/16/consumer-sentiment-may-inflation-expectations-tariffs.html)<!-- HN:44007256:end --><!-- HN:44009017:start -->
-* [44009017](https://news.social-protocols.org/stats?id=44009017) #9 4 points 0 comments -> [Do It for 20 Minutes](https://0x30.dev/posts/do-it-for-20-minutes/do-it-for-20-minutes/)<!-- HN:44009017:end --><!-- HN:44008538:start -->
-* [44008538](https://news.social-protocols.org/stats?id=44008538) #15 17 points 4 comments -> [Making code last a long time](https://twitter.com/jonathan_blow/status/1923414922484232404)<!-- HN:44008538:end --><!-- HN:44002589:start -->
-* [44002589](https://news.social-protocols.org/stats?id=44002589) #11 26 points 6 comments -> [Detecting Malicious Unicode](https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/)<!-- HN:44002589:end --><!-- HN:44008867:start -->
-* [44008867](https://news.social-protocols.org/stats?id=44008867) #12 32 points 4 comments -> [ChatGPT can accurately estimate Body Fat Percentage from photos](https://annaleptikon.substack.com/p/can-chatgpt-accurately-estimate-body)<!-- HN:44008867:end -->
 #### **Saturday, May 17, 2025**
 <!-- HN:44011474:start -->
 * [44011474](https://news.social-protocols.org/stats?id=44011474) #13 17 points 1 comments -> [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)<!-- HN:44011474:end --><!-- HN:43978825:start -->
