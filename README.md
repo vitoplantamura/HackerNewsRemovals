@@ -144,5 +144,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, May 23, 2025**
 <!-- HN:44068463:start -->
 * [44068463](https://news.social-protocols.org/stats?id=44068463) #6 7 points 1 comments -> [The Relation of Boredom and Sadistic Aggression](https://www.researchgate.net/publication/344177987_On_the_relation_of_boredom_and_sadistic_aggression)<!-- HN:44068463:end --><!-- HN:44068301:start -->
-* [44068301](https://news.social-protocols.org/stats?id=44068301) #25 5 points 5 comments -> [Shopify just launched a racing game built in threejs and React](https://www.shopify.com/ca/editions/summer2025/drive)<!-- HN:44068301:end --><!-- HN:44068891:start -->
-* [44068891](https://news.social-protocols.org/stats?id=44068891) #3 10 points 0 comments -> [Building Twice: A clone of Once by 37signals](https://stanko.io/building-twice-a-clone-of-once-gJKxLYCe26Ak)<!-- HN:44068891:end -->
+* [44068301](https://news.social-protocols.org/stats?id=44068301) #25 5 points 5 comments -> [Shopify just launched a racing game built in threejs and React](https://www.shopify.com/ca/editions/summer2025/drive)<!-- HN:44068301:end -->
