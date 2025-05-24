@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44076088](https://news.social-protocols.org/stats?id=44076088) #29 5 points 0 comments -> [Lidar Can Permanently Damage Your Phone's Camera](https://www.jalopnik.com/1866994/lidar-permanently-damage-phone-camera/)<!-- HN:44076088:end --><!-- HN:44075235:start -->
 * [44075235](https://news.social-protocols.org/stats?id=44075235) #21 16 points 3 comments -> [Comparison of Spreadsheet Software](https://grid.is/blog/comparison-of-spreadsheet-software)<!-- HN:44075235:end --><!-- HN:44051069:start -->
 * [44051069](https://news.social-protocols.org/stats?id=44051069) #26 4 points 0 comments -> [Does Field Ordering Affect Model Performance?](https://blog.kallyaleksiev.net/does-field-ordering-affect-model-performance)<!-- HN:44051069:end -->
-#### **Saturday, May 24, 2025**
+#### **Saturday, May 24, 2025**<!-- HN:44080014:start -->
+* [44080014](https://news.social-protocols.org/stats?id=44080014) #25 5 points 0 comments -> [Google's new AI video tool floods internet with real-looking clips](https://www.axios.com/2025/05/23/google-ai-videos-veo-3)<!-- HN:44080014:end -->
