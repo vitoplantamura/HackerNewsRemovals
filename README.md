@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 17, 2025**
-<!-- HN:44011474:start -->
-* [44011474](https://news.social-protocols.org/stats?id=44011474) #13 17 points 1 comments -> [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)<!-- HN:44011474:end --><!-- HN:43978825:start -->
-* [43978825](https://news.social-protocols.org/stats?id=43978825) #9 7 points 4 comments -> [The Airplane 'Barf Bag' Is a Genius Invention Most People Never Think About](https://www.theautopian.com/the-airplane-barf-bag-is-a-genius-invention-most-people-never-think-about-and-using-one-blew-my-mind/)<!-- HN:43978825:end --><!-- HN:44011281:start -->
-* [44011281](https://news.social-protocols.org/stats?id=44011281) #29 16 points 7 comments -> [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)<!-- HN:44011281:end --><!-- HN:44012709:start -->
-* [44012709](https://news.social-protocols.org/stats?id=44012709) #7 4 points 1 comments -> [OpenAI Codex Coding Agent](https://openai-codex.dev/)<!-- HN:44012709:end --><!-- HN:44012933:start -->
-* [44012933](https://news.social-protocols.org/stats?id=44012933) #28 30 points 9 comments -> [A Critical Look at "A Critical Look at MCP."](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)<!-- HN:44012933:end --><!-- HN:44013821:start -->
-* [44013821](https://news.social-protocols.org/stats?id=44013821) #30 7 points 1 comments -> [Moody's downgrades United States credit rating](https://www.cnbc.com/2025/05/16/moodys-downgrades-united-states-credit-rating-on-increase-in-government-debt.html)<!-- HN:44013821:end --><!-- HN:44011669:start -->
-* [44011669](https://news.social-protocols.org/stats?id=44011669) #12 133 points 57 comments -> [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)<!-- HN:44011669:end --><!-- HN:43977890:start -->
-* [43977890](https://news.social-protocols.org/stats?id=43977890) #21 35 points 40 comments -> [Why Moderna Merged Its Tech and HR Departments](https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a)<!-- HN:43977890:end --><!-- HN:44015683:start -->
-* [44015683](https://news.social-protocols.org/stats?id=44015683) #3 6 points 0 comments -> [Switch to EU](https://switch-to.eu/en)<!-- HN:44015683:end --><!-- HN:44015632:start -->
-* [44015632](https://news.social-protocols.org/stats?id=44015632) #4 8 points 1 comments -> [Best open source LLMs for Enterprise](https://www.enterprisebot.ai/blog/the-best-open-source-llms-for-enterprise)<!-- HN:44015632:end --><!-- HN:44013205:start -->
-* [44013205](https://news.social-protocols.org/stats?id=44013205) #30 6 points 0 comments -> [A brief history of Mac architecture transitions](https://eclecticlight.co/2025/05/17/a-brief-history-of-architecture-transitions/)<!-- HN:44013205:end --><!-- HN:44016648:start -->
-* [44016648](https://news.social-protocols.org/stats?id=44016648) #26 3 points 0 comments -> [UK hospitals doubt Palantir utility: We'd 'lose functionality rather than gain'](https://www.theregister.com/2025/05/16/nhs_hospitals_palantir/)<!-- HN:44016648:end --><!-- HN:43984285:start -->
-* [43984285](https://news.social-protocols.org/stats?id=43984285) #19 15 points 5 comments -> [The Boring Company Achieves "Holy Grail" Zero-People-in-Tunnel Continuous Mining](https://gearmusk.com/2025/05/14/the-boring-company-zpit/)<!-- HN:43984285:end --><!-- HN:44017172:start -->
-* [44017172](https://news.social-protocols.org/stats?id=44017172) #22 7 points 0 comments -> [Jamie Lee Curtis publicly shamed Mark Zuckerberg to remove a deepfaked ad](https://www.engadget.com/social-media/jamie-lee-curtis-publicly-shamed-mark-zuckerberg-to-remove-a-deepfaked-ad-225448916.html)<!-- HN:44017172:end --><!-- HN:44017490:start -->
-* [44017490](https://news.social-protocols.org/stats?id=44017490) #24 5 points 0 comments -> [Google Chrome data leakage bug confirmed as actively exploited](https://www.scworld.com/news/google-chrome-bug-that-could-leak-sensitive-info-actively-exploited)<!-- HN:44017490:end -->
 #### **Sunday, May 18, 2025**
 <!-- HN:44016356:start -->
 * [44016356](https://news.social-protocols.org/stats?id=44016356) #20 33 points 40 comments -> [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)<!-- HN:44016356:end --><!-- HN:44017739:start -->
