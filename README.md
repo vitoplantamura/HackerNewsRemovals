@@ -146,5 +146,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44075235](https://news.social-protocols.org/stats?id=44075235) #21 16 points 3 comments -> [Comparison of Spreadsheet Software](https://grid.is/blog/comparison-of-spreadsheet-software)<!-- HN:44075235:end --><!-- HN:44051069:start -->
 * [44051069](https://news.social-protocols.org/stats?id=44051069) #26 4 points 0 comments -> [Does Field Ordering Affect Model Performance?](https://blog.kallyaleksiev.net/does-field-ordering-affect-model-performance)<!-- HN:44051069:end -->
 #### **Saturday, May 24, 2025**
-<!-- HN:44078413:start -->
-* [44078413](https://news.social-protocols.org/stats?id=44078413) #29 16 points 4 comments -> [Boeing reaches deal to avoid prosecution over deadly 737 MAX crashes](https://www.cnbc.com/2025/05/23/boeing-737-max-crashes-doj.html)<!-- HN:44078413:end -->
