@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, May 18, 2025**
-<!-- HN:44016356:start -->
-* [44016356](https://news.social-protocols.org/stats?id=44016356) #20 33 points 40 comments -> [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)<!-- HN:44016356:end --><!-- HN:44017739:start -->
-* [44017739](https://news.social-protocols.org/stats?id=44017739) #10 8 points 0 comments -> [Can V Deliver on Its Promises?](http://bitshifters.cc/2025/05/17/vlang.html)<!-- HN:44017739:end --><!-- HN:44018247:start -->
-* [44018247](https://news.social-protocols.org/stats?id=44018247) #5 91 points 21 comments -> [Tornado warnings delayed because of DOGE cuts](https://www.mesoscalenews.com/p/tornado-warnings-delayed-because)<!-- HN:44018247:end --><!-- HN:44018830:start -->
-* [44018830](https://news.social-protocols.org/stats?id=44018830) #3 63 points 2 comments -> [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)<!-- HN:44018830:end --><!-- HN:44018922:start -->
-* [44018922](https://news.social-protocols.org/stats?id=44018922) #3 25 points 43 comments -> [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67)<!-- HN:44018922:end --><!-- HN:44018741:start -->
-* [44018741](https://news.social-protocols.org/stats?id=44018741) #9 73 points 11 comments -> [Pglocks.org](https://pglocks.org/)<!-- HN:44018741:end --><!-- HN:44016336:start -->
-* [44016336](https://news.social-protocols.org/stats?id=44016336) #10 176 points 60 comments -> [Directory of MCP Servers](https://github.com/chatmcp/mcpso)<!-- HN:44016336:end --><!-- HN:44021098:start -->
-* [44021098](https://news.social-protocols.org/stats?id=44021098) #20 -> [Bill Maher tells Americans to stop pretending they have 'deeply held beliefs'](https://www.foxnews.com/media/bill-maher-tells-americans-stop-pretending-have-core-convictions-deeply-held-beliefs)<!-- HN:44021098:end --><!-- HN:44020855:start -->
-* [44020855](https://news.social-protocols.org/stats?id=44020855) #21 29 points 41 comments -> [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)<!-- HN:44020855:end --><!-- HN:44023295:start -->
-* [44023295](https://news.social-protocols.org/stats?id=44023295) #29 5 points 0 comments -> [Google fixes high severity Chrome flaw with public exploit](https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/)<!-- HN:44023295:end --><!-- HN:44023348:start -->
-* [44023348](https://news.social-protocols.org/stats?id=44023348) #21 7 points 0 comments -> [Grok's 'white genocide' responses show gen AI tampered with 'at will'](https://www.cnbc.com/2025/05/17/groks-white-genocide-responses-show-gen-ai-tampered-with-at-will.html)<!-- HN:44023348:end --><!-- HN:44023200:start -->
-* [44023200](https://news.social-protocols.org/stats?id=44023200) #21 5 points 0 comments -> [Show HN: Vibe Coded GitHub PR Bot for Integrating a GitHub Action](https://vetpkg.dev/gha)<!-- HN:44023200:end --><!-- HN:44024699:start -->
-* [44024699](https://news.social-protocols.org/stats?id=44024699) #23 9 points 3 comments -> [Telegram CEO: French intelligence head asked me to ban Romanian conservatives](https://twitter.com/durov/status/1924187940122431572)<!-- HN:44024699:end --><!-- HN:44024870:start -->
-* [44024870](https://news.social-protocols.org/stats?id=44024870) #23 39 points 47 comments -> [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)<!-- HN:44024870:end -->
 #### **Monday, May 19, 2025**
 <!-- HN:44022106:start -->
 * [44022106](https://news.social-protocols.org/stats?id=44022106) #24 27 points 6 comments -> [Show HN: Train and deploy your own open-source humanoid in Python](https://github.com/kscalelabs/ksim-gym)<!-- HN:44022106:end --><!-- HN:44001105:start -->
