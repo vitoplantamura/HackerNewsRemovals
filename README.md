@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44081673](https://news.social-protocols.org/stats?id=44081673) #16 6 points 1 comments -> [From Hosts.txt to Modern Internet Infrastructure](https://axonshield.com/from-hoststxt-to-modern-internet-infrastructure)<!-- HN:44081673:end --><!-- HN:44082498:start -->
 * [44082498](https://news.social-protocols.org/stats?id=44082498) #2 15 points 4 comments -> [Please don't upload my code to GitHub](https://nogithub.codeberg.page/)<!-- HN:44082498:end --><!-- HN:44083241:start -->
 * [44083241](https://news.social-protocols.org/stats?id=44083241) #1 6 points 0 comments -> [Bloom's two sigma problem (2020)](https://nintil.com/bloom-sigma)<!-- HN:44083241:end -->
+#### **Sunday, May 25, 2025**
+<!-- HN:44085094:start -->
+* [44085094](https://news.social-protocols.org/stats?id=44085094) #20 10 points 0 comments -> [J](https://blog.cloudflare.com/welcome-to-connectivity-cloud/)<!-- HN:44085094:end -->
