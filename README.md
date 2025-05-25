@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, May 25, 2025**
 <!-- HN:44085094:start -->
 * [44085094](https://news.social-protocols.org/stats?id=44085094) #20 10 points 0 comments -> [J](https://blog.cloudflare.com/welcome-to-connectivity-cloud/)<!-- HN:44085094:end --><!-- HN:44084352:start -->
-* [44084352](https://news.social-protocols.org/stats?id=44084352) #30 46 points 25 comments -> ['Crypto king' turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)<!-- HN:44084352:end -->
+* [44084352](https://news.social-protocols.org/stats?id=44084352) #30 46 points 25 comments -> ['Crypto king' turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)<!-- HN:44084352:end --><!-- HN:44085354:start -->
+* [44085354](https://news.social-protocols.org/stats?id=44085354) #10 13 points 6 comments -> [Job Hunting Scripts](https://github.com/CajuM/jobhunt)<!-- HN:44085354:end -->
