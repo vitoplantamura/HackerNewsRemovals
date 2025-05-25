@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44085094:start -->
 * [44085094](https://news.social-protocols.org/stats?id=44085094) #20 10 points 0 comments -> [J](https://blog.cloudflare.com/welcome-to-connectivity-cloud/)<!-- HN:44085094:end --><!-- HN:44084352:start -->
 * [44084352](https://news.social-protocols.org/stats?id=44084352) #30 46 points 25 comments -> ['Crypto king' turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)<!-- HN:44084352:end --><!-- HN:44085354:start -->
-* [44085354](https://news.social-protocols.org/stats?id=44085354) #10 13 points 6 comments -> [Job Hunting Scripts](https://github.com/CajuM/jobhunt)<!-- HN:44085354:end -->
+* [44085354](https://news.social-protocols.org/stats?id=44085354) #10 13 points 6 comments -> [Job Hunting Scripts](https://github.com/CajuM/jobhunt)<!-- HN:44085354:end --><!-- HN:44085891:start -->
+* [44085891](https://news.social-protocols.org/stats?id=44085891) #13 4 points 0 comments -> [Global population growth is now slowing rapidly. Is it better for environment?](https://theconversation.com/global-population-growth-is-now-slowing-rapidly-will-a-falling-population-be-better-for-the-environment-235781)<!-- HN:44085891:end -->
