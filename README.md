@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 26, 2025**
 <!-- HN:44073933:start -->
 * [44073933](https://news.social-protocols.org/stats?id=44073933) #6 -> [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)<!-- HN:44073933:end --><!-- HN:44071154:start -->
-* [44071154](https://news.social-protocols.org/stats?id=44071154) #15 12 points 7 comments -> [Airhull lets electric boats glide on a layer of air](https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html)<!-- HN:44071154:end -->
+* [44071154](https://news.social-protocols.org/stats?id=44071154) #15 12 points 7 comments -> [Airhull lets electric boats glide on a layer of air](https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html)<!-- HN:44071154:end --><!-- HN:44074775:start -->
+* [44074775](https://news.social-protocols.org/stats?id=44074775) #7 19 points 40 comments -> [Big Banks Explore Venturing into Crypto World Together with Joint Stablecoin](https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e)<!-- HN:44074775:end -->
