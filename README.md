@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44092134](https://news.social-protocols.org/stats?id=44092134) #19 14 points 13 comments -> [The Grugbrained CEO](https://www.sam-rodriques.com/post/the-grugbrained-ceo)<!-- HN:44092134:end -->
 #### **Monday, May 26, 2025**
 <!-- HN:44073933:start -->
-* [44073933](https://news.social-protocols.org/stats?id=44073933) #6 -> [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)<!-- HN:44073933:end -->
+* [44073933](https://news.social-protocols.org/stats?id=44073933) #6 -> [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)<!-- HN:44073933:end --><!-- HN:44071154:start -->
+* [44071154](https://news.social-protocols.org/stats?id=44071154) #15 12 points 7 comments -> [Airhull lets electric boats glide on a layer of air](https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html)<!-- HN:44071154:end -->
