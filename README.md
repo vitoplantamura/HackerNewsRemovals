@@ -136,3 +136,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44090815](https://news.social-protocols.org/stats?id=44090815) #30 8 points 1 comments -> [Microsoft engineer fired for disrupting CEO Nadella's speech at Build 2025](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-software-engineer-fired-for-disrupting-ceo-satya-nadellas-speech-at-build-2025-says-cant-open-/articleshow/121360389.cms)<!-- HN:44090815:end --><!-- HN:44070671:start -->
 * [44070671](https://news.social-protocols.org/stats?id=44070671) #26 8 points 3 comments -> [What happens after you run Git push?](https://www.blacksmith.sh/blog/security)<!-- HN:44070671:end --><!-- HN:44092134:start -->
 * [44092134](https://news.social-protocols.org/stats?id=44092134) #19 14 points 13 comments -> [The Grugbrained CEO](https://www.sam-rodriques.com/post/the-grugbrained-ceo)<!-- HN:44092134:end -->
+#### **Monday, May 26, 2025**
+<!-- HN:44073933:start -->
+* [44073933](https://news.social-protocols.org/stats?id=44073933) #6 -> [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)<!-- HN:44073933:end -->
