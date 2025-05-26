@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44073933:start -->
 * [44073933](https://news.social-protocols.org/stats?id=44073933) #6 -> [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)<!-- HN:44073933:end --><!-- HN:44071154:start -->
 * [44071154](https://news.social-protocols.org/stats?id=44071154) #15 12 points 7 comments -> [Airhull lets electric boats glide on a layer of air](https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html)<!-- HN:44071154:end --><!-- HN:44097050:start -->
-* [44097050](https://news.social-protocols.org/stats?id=44097050) #2 27 points 3 comments -> [Show HN: Podman Desktop a 100% free OSS alternative to Docker Desktop](https://podman-desktop.io/)<!-- HN:44097050:end -->
+* [44097050](https://news.social-protocols.org/stats?id=44097050) #2 27 points 3 comments -> [Show HN: Podman Desktop a 100% free OSS alternative to Docker Desktop](https://podman-desktop.io/)<!-- HN:44097050:end --><!-- HN:44097565:start -->
+* [44097565](https://news.social-protocols.org/stats?id=44097565) #13 11 points 1 comments -> [The cost of AI is being paid in deserts far from Silicon Valley](https://restofworld.org/2025/ai-resource-extraction-chile-indigenous-communities/)<!-- HN:44097565:end -->
