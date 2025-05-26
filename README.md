@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, May 19, 2025**
-<!-- HN:44022106:start -->
-* [44022106](https://news.social-protocols.org/stats?id=44022106) #24 27 points 6 comments -> [Show HN: Train and deploy your own open-source humanoid in Python](https://github.com/kscalelabs/ksim-gym)<!-- HN:44022106:end --><!-- HN:44001105:start -->
-* [44001105](https://news.social-protocols.org/stats?id=44001105) #23 8 points 2 comments -> [Green Fabrication of Sulfonium-Containing Bismuth Materials for X-Ray Detection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418626)<!-- HN:44001105:end --><!-- HN:44003986:start -->
-* [44003986](https://news.social-protocols.org/stats?id=44003986) #23 7 points 8 comments -> [Npx Business Card](https://ashley.dev/posts/turning-feedback-into-features/)<!-- HN:44003986:end --><!-- HN:44025851:start -->
-* [44025851](https://news.social-protocols.org/stats?id=44025851) #28 23 points 4 comments -> [The Utter Flimsiness of XAI's Processes](https://smol.news/p/the-utter-flimsiness-of-xais-processes)<!-- HN:44025851:end --><!-- HN:44027997:start -->
-* [44027997](https://news.social-protocols.org/stats?id=44027997) #5 29 points 14 comments -> [Reading "Business" Books Is a Waste of Time](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)<!-- HN:44027997:end --><!-- HN:44029713:start -->
-* [44029713](https://news.social-protocols.org/stats?id=44029713) #23 21 points 5 comments -> [Oregon spent funds meant for addiction services on prosecutors, police gadgets](https://www.theguardian.com/us-news/2025/may/19/oregon-addiction-spending)<!-- HN:44029713:end --><!-- HN:44030377:start -->
-* [44030377](https://news.social-protocols.org/stats?id=44030377) #23 6 points 0 comments -> [Tesla Regret Syndrome](https://www.seattletimes.com/seattle-news/protests-take-a-satirical-approach-in-tesla-regret-syndrome-ad/)<!-- HN:44030377:end --><!-- HN:44028483:start -->
-* [44028483](https://news.social-protocols.org/stats?id=44028483) #16 40 points 2 comments -> [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics/)<!-- HN:44028483:end --><!-- HN:44031386:start -->
-* [44031386](https://news.social-protocols.org/stats?id=44031386) #5 6 points 0 comments -> [Politic opinion in your Software is a grave Security Threat](https://vitonsky.net/blog/2024/06/20/politics-in-software/)<!-- HN:44031386:end --><!-- HN:44030417:start -->
-* [44030417](https://news.social-protocols.org/stats?id=44030417) #19 16 points 2 comments -> [Oops, I accidentally vibe-coded a ChatGPT client for my Apple Watch](https://richarddas.com/blog/chatgpt-client-for-apple-watch/)<!-- HN:44030417:end --><!-- HN:44031641:start -->
-* [44031641](https://news.social-protocols.org/stats?id=44031641) #8 4 points 0 comments -> [Wake Up, America!](https://opip.lol/wake-up-america/)<!-- HN:44031641:end --><!-- HN:44032124:start -->
-* [44032124](https://news.social-protocols.org/stats?id=44032124) #25 49 points 16 comments -> [Company Reminder for Everyone to Talk Nicely About the Giant Plagiarism Machine](https://www.mcsweeneys.net/articles/a-company-reminder-for-everyone-to-talk-nicely-about-the-giant-plagiarism-machine)<!-- HN:44032124:end --><!-- HN:44035021:start -->
-* [44035021](https://news.social-protocols.org/stats?id=44035021) #13 11 points 1 comments -> [Definitive solution to the hardest problem in computing: P = NP?](https://www.researchgate.net/publication/391442238_A_Constructive_Proof_that_P_NP_via_Circuit-Resistant_Hash_Encodings_and_Local_Certification)<!-- HN:44035021:end --><!-- HN:44035274:start -->
-* [44035274](https://news.social-protocols.org/stats?id=44035274) #24 10 points 2 comments -> [Police pepper sprayed 93-year-old amputee during care home call, UK court told](https://www.rte.ie/news/uk/2025/0519/1513775-elderly-amputee-pepper-sprayed/)<!-- HN:44035274:end -->
 #### **Tuesday, May 20, 2025**
 <!-- HN:44035876:start -->
 * [44035876](https://news.social-protocols.org/stats?id=44035876) #4 26 points 3 comments -> [Claude Code in the Cloud (better than CodeX)](https://cloudcoding.ai/)<!-- HN:44035876:end --><!-- HN:44038812:start -->
