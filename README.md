@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, May 27, 2025**
 <!-- HN:44079313:start -->
 * [44079313](https://news.social-protocols.org/stats?id=44079313) #8 10 points 2 comments -> [Black Mirror was a warmup act - OpenAI pivots into hardware](https://garymarcus.substack.com/p/black-mirror-was-a-warmup-act)<!-- HN:44079313:end --><!-- HN:44102376:start -->
-* [44102376](https://news.social-protocols.org/stats?id=44102376) #4 103 points 15 comments -> [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)<!-- HN:44102376:end -->
+* [44102376](https://news.social-protocols.org/stats?id=44102376) #4 103 points 15 comments -> [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)<!-- HN:44102376:end --><!-- HN:44081475:start -->
+* [44081475](https://news.social-protocols.org/stats?id=44081475) #22 -> [Ask HN: Data aligment optimization in dav1d vs. rav1d](https://code.videolan.org/videolan/dav1d/-/merge_requests/1788)<!-- HN:44081475:end -->
