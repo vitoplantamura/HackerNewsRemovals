@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44099096](https://news.social-protocols.org/stats?id=44099096) #14 171 points 34 comments -> [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)<!-- HN:44099096:end -->
 #### **Tuesday, May 27, 2025**
 <!-- HN:44079313:start -->
-* [44079313](https://news.social-protocols.org/stats?id=44079313) #8 10 points 2 comments -> [Black Mirror was a warmup act - OpenAI pivots into hardware](https://garymarcus.substack.com/p/black-mirror-was-a-warmup-act)<!-- HN:44079313:end -->
+* [44079313](https://news.social-protocols.org/stats?id=44079313) #8 10 points 2 comments -> [Black Mirror was a warmup act - OpenAI pivots into hardware](https://garymarcus.substack.com/p/black-mirror-was-a-warmup-act)<!-- HN:44079313:end --><!-- HN:44102376:start -->
+* [44102376](https://news.social-protocols.org/stats?id=44102376) #4 103 points 15 comments -> [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)<!-- HN:44102376:end -->
