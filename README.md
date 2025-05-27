@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44100429](https://news.social-protocols.org/stats?id=44100429) #19 8 points 0 comments -> [UAE becomes first to offer ChatGPT Plus to every resident and citizen](https://www.thearabianstories.com/2025/05/25/free-ai-for-all-uae-becomes-first-to-offer-chatgpt-plus-to-every-resident-and-citizen/)<!-- HN:44100429:end --><!-- HN:44100278:start -->
 * [44100278](https://news.social-protocols.org/stats?id=44100278) #24 3 points 0 comments -> [Show HN: XOff an open source Chrome extension to change X links to Xcancel](https://codeberg.org/nice222/Xoff)<!-- HN:44100278:end --><!-- HN:44099096:start -->
 * [44099096](https://news.social-protocols.org/stats?id=44099096) #14 171 points 34 comments -> [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)<!-- HN:44099096:end -->
+#### **Tuesday, May 27, 2025**
+<!-- HN:44079313:start -->
+* [44079313](https://news.social-protocols.org/stats?id=44079313) #8 10 points 2 comments -> [Black Mirror was a warmup act - OpenAI pivots into hardware](https://garymarcus.substack.com/p/black-mirror-was-a-warmup-act)<!-- HN:44079313:end -->
