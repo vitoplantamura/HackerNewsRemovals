@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44110220](https://news.social-protocols.org/stats?id=44110220) #3 7 points 1 comments -> [Chuuchuu - Train travel, made smart](https://www.chuuchuu.com/)<!-- HN:44110220:end -->
 #### **Wednesday, May 28, 2025**
 <!-- HN:44112152:start -->
-* [44112152](https://news.social-protocols.org/stats?id=44112152) #20 3 points 4 comments -> [MailDock: Cold Email Infrastructure](https://maildock.io/)<!-- HN:44112152:end -->
+* [44112152](https://news.social-protocols.org/stats?id=44112152) #20 3 points 4 comments -> [MailDock: Cold Email Infrastructure](https://maildock.io/)<!-- HN:44112152:end --><!-- HN:44087008:start -->
+* [44087008](https://news.social-protocols.org/stats?id=44087008) #27 10 points 0 comments -> [Restoring Vangelis's Performance Sequencers](https://zyklus-mps.com/about)<!-- HN:44087008:end -->
