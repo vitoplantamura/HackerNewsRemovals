@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44109078](https://news.social-protocols.org/stats?id=44109078) #23 14 points 2 comments -> [Signal to Windows Recall: Drop Dead](https://www.computerworld.com/article/3994265/signal-to-windows-recall-drop-dead.html)<!-- HN:44109078:end --><!-- HN:44109239:start -->
 * [44109239](https://news.social-protocols.org/stats?id=44109239) #4 14 points 6 comments -> [Women 3x More Likely to Lose Job to AI Than Men, UN Study Finds](https://www.allsides.com/story/economy-and-jobs-women-3x-more-likely-lose-job-ai-men-un-study-finds)<!-- HN:44109239:end --><!-- HN:44110220:start -->
 * [44110220](https://news.social-protocols.org/stats?id=44110220) #3 7 points 1 comments -> [Chuuchuu - Train travel, made smart](https://www.chuuchuu.com/)<!-- HN:44110220:end -->
+#### **Wednesday, May 28, 2025**
+<!-- HN:44112152:start -->
+* [44112152](https://news.social-protocols.org/stats?id=44112152) #20 3 points 4 comments -> [MailDock: Cold Email Infrastructure](https://maildock.io/)<!-- HN:44112152:end -->
