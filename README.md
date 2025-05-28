@@ -134,4 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, May 28, 2025**
 <!-- HN:44112152:start -->
 * [44112152](https://news.social-protocols.org/stats?id=44112152) #20 3 points 4 comments -> [MailDock: Cold Email Infrastructure](https://maildock.io/)<!-- HN:44112152:end --><!-- HN:44087008:start -->
-* [44087008](https://news.social-protocols.org/stats?id=44087008) #27 10 points 0 comments -> [Restoring Vangelis's Performance Sequencers](https://zyklus-mps.com/about)<!-- HN:44087008:end -->
+* [44087008](https://news.social-protocols.org/stats?id=44087008) #27 10 points 0 comments -> [Restoring Vangelis's Performance Sequencers](https://zyklus-mps.com/about)<!-- HN:44087008:end --><!-- HN:44112554:start -->
+* [44112554](https://news.social-protocols.org/stats?id=44112554) #10 5 points 0 comments -> [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/12.3/)<!-- HN:44112554:end --><!-- HN:44112753:start -->
+* [44112753](https://news.social-protocols.org/stats?id=44112753) #24 4 points 1 comments -> [EXT4 for Linux 6.16 Brings a Change Yielding "Stupendous Performance"](https://www.phoronix.com/news/Linux-6.16-EXT4-Performance)<!-- HN:44112753:end -->
