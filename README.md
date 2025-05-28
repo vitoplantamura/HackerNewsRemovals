@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 21, 2025**
-<!-- HN:44047074:start -->
-* [44047074](https://news.social-protocols.org/stats?id=44047074) #10 10 points 2 comments -> [LLM-D: Kubernetes-Native Distributed Inference at Scale](https://github.com/llm-d/llm-d)<!-- HN:44047074:end --><!-- HN:44047888:start -->
-* [44047888](https://news.social-protocols.org/stats?id=44047888) #2 7 points 0 comments -> [I made a system to abolish subscriptions](https://www.joinares.com/)<!-- HN:44047888:end --><!-- HN:44047911:start -->
-* [44047911](https://news.social-protocols.org/stats?id=44047911) #20 3 points 0 comments -> [What if Vintage and Modern got together](https://www.jaydip.me/)<!-- HN:44047911:end --><!-- HN:44047307:start -->
-* [44047307](https://news.social-protocols.org/stats?id=44047307) #14 45 points 4 comments -> [Show HN: apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)<!-- HN:44047307:end --><!-- HN:44048366:start -->
-* [44048366](https://news.social-protocols.org/stats?id=44048366) #15 6 points 6 comments -> [Show HN: Lipu sona – Toki Pona Learn the language of simplicity](https://sekor.eu.org/lipusona/)<!-- HN:44048366:end --><!-- HN:44048069:start -->
-* [44048069](https://news.social-protocols.org/stats?id=44048069) #14 28 points 40 comments -> [The Future of Junior Software Engineering Roles](https://adventuresincoding.substack.com/p/the-future-of-junior-software-engineering)<!-- HN:44048069:end --><!-- HN:44023081:start -->
-* [44023081](https://news.social-protocols.org/stats?id=44023081) #20 44 points 13 comments -> [Someone got an LLM running on a Commodore 64 from 1982, and it runs as well](https://www.xda-developers.com/llm-running-commodore-64/)<!-- HN:44023081:end --><!-- HN:44051184:start -->
-* [44051184](https://news.social-protocols.org/stats?id=44051184) #27 9 points 8 comments -> [Coinbase says its data breach affects at least 69,000 customers](https://techcrunch.com/2025/05/21/coinbase-says-its-data-breach-affects-at-least-69000-customers/)<!-- HN:44051184:end --><!-- HN:44019374:start -->
-* [44019374](https://news.social-protocols.org/stats?id=44019374) #2 19 points 9 comments -> [Show HN: Keep track of why you muted someone on X](https://github.com/klntsky/x-user-note)<!-- HN:44019374:end --><!-- HN:44052850:start -->
-* [44052850](https://news.social-protocols.org/stats?id=44052850) #3 13 points 1 comments -> [Gender bias towards women entrepreneurs by VCs – a randomized response survey](https://www.tandfonline.com/doi/full/10.1080/13691066.2025.2493049)<!-- HN:44052850:end --><!-- HN:44053042:start -->
-* [44053042](https://news.social-protocols.org/stats?id=44053042) #22 4 points 0 comments -> [HuggingFace: Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/unit0/introduction)<!-- HN:44053042:end --><!-- HN:44055635:start -->
-* [44055635](https://news.social-protocols.org/stats?id=44055635) #14 5 points 0 comments -> [The EPA Isn't Killing Diesel–Tuners Are Killing Their Own Credibility](https://www.carsandhorsepower.com/featured/why-diesel-tuners-are-the-biggest-hypocrites-in-the-car-scene)<!-- HN:44055635:end --><!-- HN:44021086:start -->
-* [44021086](https://news.social-protocols.org/stats?id=44021086) #19 6 points 1 comments -> [Surgical Knee Denervation for Treatment of Pain Caused by Primary Osteoarthritis](https://lww.com/_layouts/1033/OAKS.Journals/Error/JavaScript.html)<!-- HN:44021086:end -->
 #### **Thursday, May 22, 2025**
 <!-- HN:44058408:start -->
 * [44058408](https://news.social-protocols.org/stats?id=44058408) #4 7 points 0 comments -> [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)<!-- HN:44058408:end --><!-- HN:44058557:start -->
