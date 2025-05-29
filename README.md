@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44121939:start -->
 * [44121939](https://news.social-protocols.org/stats?id=44121939) #1 14 points 1 comments -> [I Lived Through Collapse. America Is Already There](https://indi.ca/i-lived-through-collapse-america-is-already-there/)<!-- HN:44121939:end --><!-- HN:44122305:start -->
 * [44122305](https://news.social-protocols.org/stats?id=44122305) #16 10 points 1 comments -> [Anthropic CEO: AI could wipe out half of entry-level jobs](https://www.businessinsider.com/anthropic-ceo-warning-ai-could-eliminate-jobs-2025-5)<!-- HN:44122305:end --><!-- HN:44121891:start -->
-* [44121891](https://news.social-protocols.org/stats?id=44121891) #17 3 points 0 comments -> [Sky, Natural Computing for the Macintosh](https://sky.app/)<!-- HN:44121891:end -->
+* [44121891](https://news.social-protocols.org/stats?id=44121891) #17 3 points 0 comments -> [Sky, Natural Computing for the Macintosh](https://sky.app/)<!-- HN:44121891:end --><!-- HN:44125183:start -->
+* [44125183](https://news.social-protocols.org/stats?id=44125183) #14 35 points 14 comments -> [The MAHA Report Cites Studies That Don't Exist](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors)<!-- HN:44125183:end -->
