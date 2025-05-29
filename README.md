@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44118375](https://news.social-protocols.org/stats?id=44118375) #22 11 points 0 comments -> [LLM Shibboleths determine AI effectiveness](https://www.moderndescartes.com/essays/llm_shibboleths/)<!-- HN:44118375:end --><!-- HN:44117225:start -->
 * [44117225](https://news.social-protocols.org/stats?id=44117225) #16 36 points 41 comments -> [Why is it so hard to get families to live in community houses?](https://supernuclear.substack.com/p/why-is-it-so-hard-to-get-families)<!-- HN:44117225:end --><!-- HN:44120381:start -->
 * [44120381](https://news.social-protocols.org/stats?id=44120381) #11 6 points 3 comments -> [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/abs/2305.09515)<!-- HN:44120381:end -->
+#### **Thursday, May 29, 2025**
+<!-- HN:44121939:start -->
+* [44121939](https://news.social-protocols.org/stats?id=44121939) #1 14 points 1 comments -> [I Lived Through Collapse. America Is Already There](https://indi.ca/i-lived-through-collapse-america-is-already-there/)<!-- HN:44121939:end -->
