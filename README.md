@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44120381](https://news.social-protocols.org/stats?id=44120381) #11 6 points 3 comments -> [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/abs/2305.09515)<!-- HN:44120381:end -->
 #### **Thursday, May 29, 2025**
 <!-- HN:44121939:start -->
-* [44121939](https://news.social-protocols.org/stats?id=44121939) #1 14 points 1 comments -> [I Lived Through Collapse. America Is Already There](https://indi.ca/i-lived-through-collapse-america-is-already-there/)<!-- HN:44121939:end -->
+* [44121939](https://news.social-protocols.org/stats?id=44121939) #1 14 points 1 comments -> [I Lived Through Collapse. America Is Already There](https://indi.ca/i-lived-through-collapse-america-is-already-there/)<!-- HN:44121939:end --><!-- HN:44122305:start -->
+* [44122305](https://news.social-protocols.org/stats?id=44122305) #16 10 points 1 comments -> [Anthropic CEO: AI could wipe out half of entry-level jobs](https://www.businessinsider.com/anthropic-ceo-warning-ai-could-eliminate-jobs-2025-5)<!-- HN:44122305:end -->
