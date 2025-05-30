@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44127653](https://news.social-protocols.org/stats?id=44127653) #22 57 points 43 comments -> [Show HN: Open-source, visual-first Cursor for Designers](https://beta.onlook.com/)<!-- HN:44127653:end --><!-- HN:44128971:start -->
 * [44128971](https://news.social-protocols.org/stats?id=44128971) #24 31 points 14 comments -> [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)<!-- HN:44128971:end --><!-- HN:44130928:start -->
 * [44130928](https://news.social-protocols.org/stats?id=44130928) #4 30 points 15 comments -> [SQL Workbench – Republicans not welcome](https://www.sql-workbench.eu/)<!-- HN:44130928:end -->
+#### **Friday, May 30, 2025**
+<!-- HN:44131810:start -->
+* [44131810](https://news.social-protocols.org/stats?id=44131810) #2 9 points 0 comments -> [The MAGA revolution threatens Boston, America's most innovative place](https://www.economist.com/united-states/2025/05/18/the-maga-revolution-threatens-americas-most-innovative-place)<!-- HN:44131810:end -->
