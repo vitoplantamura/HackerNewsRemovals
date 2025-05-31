@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 31, 2025**<!-- HN:44141746:start -->
 * [44141746](https://news.social-protocols.org/stats?id=44141746) #2 9 points 3 comments -> [Next.js: The "Versatile" React Framework That Can't Handle Dynamic Routes](https://github.com/vercel/next.js/discussions/64660)<!-- HN:44141746:end --><!-- HN:44112627:start -->
 * [44112627](https://news.social-protocols.org/stats?id=44112627) #18 10 points 9 comments -> [Neolithic 'sun stones' sacrificed in Denmark revives sun after volcanic eruption](https://archaeologymag.com/2025/01/neolithic-sun-stones-sacrificed-in-denmark/)<!-- HN:44112627:end --><!-- HN:44112974:start -->
-* [44112974](https://news.social-protocols.org/stats?id=44112974) #20 9 points 6 comments -> [Show HN: Circle Crop Image](https://circlecropimage.io/)<!-- HN:44112974:end -->
+* [44112974](https://news.social-protocols.org/stats?id=44112974) #20 9 points 6 comments -> [Show HN: Circle Crop Image](https://circlecropimage.io/)<!-- HN:44112974:end --><!-- HN:44142667:start -->
+* [44142667](https://news.social-protocols.org/stats?id=44142667) #25 5 points 0 comments -> [Germany Is Using AI to Erase Pro-Palestinian Speech](https://jacobin.com/2025/05/germany-ai-palestine-israel-antisemitism)<!-- HN:44142667:end -->
