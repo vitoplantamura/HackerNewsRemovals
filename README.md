@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 24, 2025**<!-- HN:44080014:start -->
-* [44080014](https://news.social-protocols.org/stats?id=44080014) #25 5 points 0 comments -> [Google's new AI video tool floods internet with real-looking clips](https://www.axios.com/2025/05/23/google-ai-videos-veo-3)<!-- HN:44080014:end --><!-- HN:44080063:start -->
-* [44080063](https://news.social-protocols.org/stats?id=44080063) #7 10 points 0 comments -> [99% of AI Startups Will Be Dead by 2026 – Here's Why](https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968)<!-- HN:44080063:end --><!-- HN:44050898:start -->
-* [44050898](https://news.social-protocols.org/stats?id=44050898) #9 14 points 0 comments -> [KVMs with DisplayPort and USB over USB-C](https://rubenerd.com/kvms-with-displayport-and-usb-over-usb-c/)<!-- HN:44050898:end --><!-- HN:44080416:start -->
-* [44080416](https://news.social-protocols.org/stats?id=44080416) #13 3 points 0 comments -> [PubSub and RPC with dynamic types in Rust](https://www.jakobmeier.ch/blogging/Untapped-Rust.html)<!-- HN:44080416:end --><!-- HN:44079822:start -->
-* [44079822](https://news.social-protocols.org/stats?id=44079822) #6 15 points 0 comments -> [HHS Finds Columbia University in Violation of Federal Civil Rights Law](https://www.hhs.gov/press-room/ocr-columbia-violates-federal-civil-rights-law.html)<!-- HN:44079822:end --><!-- HN:44081434:start -->
-* [44081434](https://news.social-protocols.org/stats?id=44081434) #22 4 points 1 comments -> [Vintner making wine in Catalonia since 1870 may have to move to higher altitudes](https://www.theguardian.com/business/2025/may/17/top-winemaker-spanish-vineyards-climate-crisis-familia-torres)<!-- HN:44081434:end --><!-- HN:44081532:start -->
-* [44081532](https://news.social-protocols.org/stats?id=44081532) #5 3 points 0 comments -> [Prompt Driven Development: What I learnt vibe coding a project in the real world](https://capgemini.github.io/ai/prompt-driven-development/)<!-- HN:44081532:end --><!-- HN:44081673:start -->
-* [44081673](https://news.social-protocols.org/stats?id=44081673) #16 6 points 1 comments -> [From Hosts.txt to Modern Internet Infrastructure](https://axonshield.com/from-hoststxt-to-modern-internet-infrastructure)<!-- HN:44081673:end --><!-- HN:44082498:start -->
-* [44082498](https://news.social-protocols.org/stats?id=44082498) #2 15 points 4 comments -> [Please don't upload my code to GitHub](https://nogithub.codeberg.page/)<!-- HN:44082498:end --><!-- HN:44083241:start -->
-* [44083241](https://news.social-protocols.org/stats?id=44083241) #1 6 points 0 comments -> [Bloom's two sigma problem (2020)](https://nintil.com/bloom-sigma)<!-- HN:44083241:end -->
 #### **Sunday, May 25, 2025**
 <!-- HN:44085094:start -->
 * [44085094](https://news.social-protocols.org/stats?id=44085094) #20 10 points 0 comments -> [J](https://blog.cloudflare.com/welcome-to-connectivity-cloud/)<!-- HN:44085094:end --><!-- HN:44084352:start -->
