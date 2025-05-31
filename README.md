@@ -122,5 +122,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44139325](https://news.social-protocols.org/stats?id=44139325) #9 14 points 5 comments -> [Mercury's High Risk, High Rewards Strategy Runs into Regulatory Reality](https://fintechbusinessweekly.substack.com/p/mercurys-high-risk-high-rewards-strategy)<!-- HN:44139325:end --><!-- HN:44140285:start -->
 * [44140285](https://news.social-protocols.org/stats?id=44140285) #3 14 points 2 comments -> [Governor Tina Kotek signs legislation to end child marriage in Oregon](https://www.nwprogressive.org/weblog/2025/05/done-governor-tina-kotek-signs-legislation-to-end-child-marriage-in-oregon.html)<!-- HN:44140285:end -->
 #### **Saturday, May 31, 2025**
-<!-- HN:44139765:start -->
-* [44139765](https://news.social-protocols.org/stats?id=44139765) #25 25 points 29 comments -> [How to Automate Software Engineering](https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/)<!-- HN:44139765:end -->
