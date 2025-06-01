@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 1, 2025**
 <!-- HN:44147206:start -->
 * [44147206](https://news.social-protocols.org/stats?id=44147206) #19 14 points 4 comments -> [I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)<!-- HN:44147206:end --><!-- HN:44148818:start -->
-* [44148818](https://news.social-protocols.org/stats?id=44148818) #5 7 points 2 comments -> [Welcome to the age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses)<!-- HN:44148818:end -->
+* [44148818](https://news.social-protocols.org/stats?id=44148818) #5 7 points 2 comments -> [Welcome to the age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses)<!-- HN:44148818:end --><!-- HN:44149320:start -->
+* [44149320](https://news.social-protocols.org/stats?id=44149320) #26 5 points 2 comments -> [JD Vance has changed his name multiple times over the years](https://fortune.com/article/what-is-jd-vance-real-name-origin-john-david-hamel/)<!-- HN:44149320:end -->
