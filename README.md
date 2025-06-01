@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, May 25, 2025**
-<!-- HN:44085094:start -->
-* [44085094](https://news.social-protocols.org/stats?id=44085094) #20 10 points 0 comments -> [J](https://blog.cloudflare.com/welcome-to-connectivity-cloud/)<!-- HN:44085094:end --><!-- HN:44084352:start -->
-* [44084352](https://news.social-protocols.org/stats?id=44084352) #30 46 points 25 comments -> ['Crypto king' turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)<!-- HN:44084352:end --><!-- HN:44085354:start -->
-* [44085354](https://news.social-protocols.org/stats?id=44085354) #10 13 points 6 comments -> [Job Hunting Scripts](https://github.com/CajuM/jobhunt)<!-- HN:44085354:end --><!-- HN:44085891:start -->
-* [44085891](https://news.social-protocols.org/stats?id=44085891) #13 4 points 0 comments -> [Global population growth is now slowing rapidly. Is it better for environment?](https://theconversation.com/global-population-growth-is-now-slowing-rapidly-will-a-falling-population-be-better-for-the-environment-235781)<!-- HN:44085891:end --><!-- HN:44053949:start -->
-* [44053949](https://news.social-protocols.org/stats?id=44053949) #20 15 points 6 comments -> [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)<!-- HN:44053949:end --><!-- HN:44087178:start -->
-* [44087178](https://news.social-protocols.org/stats?id=44087178) #9 23 points 5 comments -> [From Philosophy to Power: The Misuse of René Girard by Peter Thiel, J.D. Vance](https://salmagundi.skidmore.edu/articles/1176-from-philosophy-to-power)<!-- HN:44087178:end --><!-- HN:44087926:start -->
-* [44087926](https://news.social-protocols.org/stats?id=44087926) #4 10 points 11 comments -> [Trump's Middle East AI Deal: "Just Count the Server Racks"](https://www.chinatalk.media/p/about-that-ai-middle-east-deal)<!-- HN:44087926:end --><!-- HN:44090815:start -->
-* [44090815](https://news.social-protocols.org/stats?id=44090815) #30 8 points 1 comments -> [Microsoft engineer fired for disrupting CEO Nadella's speech at Build 2025](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-software-engineer-fired-for-disrupting-ceo-satya-nadellas-speech-at-build-2025-says-cant-open-/articleshow/121360389.cms)<!-- HN:44090815:end --><!-- HN:44070671:start -->
-* [44070671](https://news.social-protocols.org/stats?id=44070671) #26 8 points 3 comments -> [What happens after you run Git push?](https://www.blacksmith.sh/blog/security)<!-- HN:44070671:end --><!-- HN:44092134:start -->
-* [44092134](https://news.social-protocols.org/stats?id=44092134) #19 14 points 13 comments -> [The Grugbrained CEO](https://www.sam-rodriques.com/post/the-grugbrained-ceo)<!-- HN:44092134:end -->
 #### **Monday, May 26, 2025**
 <!-- HN:44073933:start -->
 * [44073933](https://news.social-protocols.org/stats?id=44073933) #6 -> [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)<!-- HN:44073933:end --><!-- HN:44071154:start -->
