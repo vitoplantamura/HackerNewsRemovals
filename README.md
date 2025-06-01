@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44116925](https://news.social-protocols.org/stats?id=44116925) #10 9 points 2 comments -> [Building the Bucket Linear Agent](https://bucket.co/blog/building-the-bucket-linear-agent)<!-- HN:44116925:end -->
 #### **Sunday, June 1, 2025**
 <!-- HN:44147206:start -->
-* [44147206](https://news.social-protocols.org/stats?id=44147206) #19 14 points 4 comments -> [I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)<!-- HN:44147206:end -->
+* [44147206](https://news.social-protocols.org/stats?id=44147206) #19 14 points 4 comments -> [I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)<!-- HN:44147206:end --><!-- HN:44148818:start -->
+* [44148818](https://news.social-protocols.org/stats?id=44148818) #5 7 points 2 comments -> [Welcome to the age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses)<!-- HN:44148818:end -->
