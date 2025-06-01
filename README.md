@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44146233](https://news.social-protocols.org/stats?id=44146233) #22 3 points 0 comments -> [Why Meta is in trouble in Nigeria](https://theconversation.com/why-meta-is-in-trouble-in-nigeria-and-what-this-means-for-facebook-instagram-and-whatsapp-users-257048)<!-- HN:44146233:end --><!-- HN:44146650:start -->
 * [44146650](https://news.social-protocols.org/stats?id=44146650) #30 6 points 3 comments -> [For Some Recent Graduates, the A.I. Job Apocalypse May Already Be Here](https://www.nytimes.com/2025/05/30/technology/ai-jobs-college-graduates.html)<!-- HN:44146650:end --><!-- HN:44116925:start -->
 * [44116925](https://news.social-protocols.org/stats?id=44116925) #10 9 points 2 comments -> [Building the Bucket Linear Agent](https://bucket.co/blog/building-the-bucket-linear-agent)<!-- HN:44116925:end -->
+#### **Sunday, June 1, 2025**
+<!-- HN:44147206:start -->
+* [44147206](https://news.social-protocols.org/stats?id=44147206) #19 14 points 4 comments -> [I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)<!-- HN:44147206:end -->
