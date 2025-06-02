@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, May 26, 2025**
-<!-- HN:44073933:start -->
-* [44073933](https://news.social-protocols.org/stats?id=44073933) #6 -> [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)<!-- HN:44073933:end --><!-- HN:44071154:start -->
-* [44071154](https://news.social-protocols.org/stats?id=44071154) #15 12 points 7 comments -> [Airhull lets electric boats glide on a layer of air](https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html)<!-- HN:44071154:end --><!-- HN:44097050:start -->
-* [44097050](https://news.social-protocols.org/stats?id=44097050) #2 27 points 3 comments -> [Show HN: Podman Desktop a 100% free OSS alternative to Docker Desktop](https://podman-desktop.io/)<!-- HN:44097050:end --><!-- HN:44097565:start -->
-* [44097565](https://news.social-protocols.org/stats?id=44097565) #13 11 points 1 comments -> [The cost of AI is being paid in deserts far from Silicon Valley](https://restofworld.org/2025/ai-resource-extraction-chile-indigenous-communities/)<!-- HN:44097565:end --><!-- HN:44097311:start -->
-* [44097311](https://news.social-protocols.org/stats?id=44097311) #3 11 points 6 comments -> [As a programmer, get your math sorted](https://www.csprimer.in/series/dm)<!-- HN:44097311:end --><!-- HN:44097539:start -->
-* [44097539](https://news.social-protocols.org/stats?id=44097539) #3 17 points 4 comments -> ["Grok 3's Think mode identifies as Claude 3.5 Sonnet](https://www.websmithing.com/2025/05/24/grok-3-accidentally-reveals-its-actually-running-claude-3-5-sonnet/)<!-- HN:44097539:end --><!-- HN:44097076:start -->
-* [44097076](https://news.social-protocols.org/stats?id=44097076) #3 1 points 0 comments -> [Show HN: Scholtz – Find customers and users that want your product](https://scholtz.ai/welcome)<!-- HN:44097076:end --><!-- HN:44097350:start -->
-* [44097350](https://news.social-protocols.org/stats?id=44097350) #17 16 points 41 comments -> [$64B of data center projects blocked or delayed amid local opposition](https://www.datacenterwatch.org/report)<!-- HN:44097350:end --><!-- HN:44100429:start -->
-* [44100429](https://news.social-protocols.org/stats?id=44100429) #19 8 points 0 comments -> [UAE becomes first to offer ChatGPT Plus to every resident and citizen](https://www.thearabianstories.com/2025/05/25/free-ai-for-all-uae-becomes-first-to-offer-chatgpt-plus-to-every-resident-and-citizen/)<!-- HN:44100429:end --><!-- HN:44100278:start -->
-* [44100278](https://news.social-protocols.org/stats?id=44100278) #24 3 points 0 comments -> [Show HN: XOff an open source Chrome extension to change X links to Xcancel](https://codeberg.org/nice222/Xoff)<!-- HN:44100278:end --><!-- HN:44099096:start -->
-* [44099096](https://news.social-protocols.org/stats?id=44099096) #14 171 points 34 comments -> [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)<!-- HN:44099096:end -->
 #### **Tuesday, May 27, 2025**
 <!-- HN:44079313:start -->
 * [44079313](https://news.social-protocols.org/stats?id=44079313) #8 10 points 2 comments -> [Black Mirror was a warmup act - OpenAI pivots into hardware](https://garymarcus.substack.com/p/black-mirror-was-a-warmup-act)<!-- HN:44079313:end --><!-- HN:44102376:start -->
