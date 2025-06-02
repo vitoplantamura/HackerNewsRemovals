@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 2, 2025**
 <!-- HN:44155227:start -->
 * [44155227](https://news.social-protocols.org/stats?id=44155227) #2 5 points 2 comments -> [I Miss My Fan Regulator](https://rishikeshs.com/fan-regulator/)<!-- HN:44155227:end --><!-- HN:44155243:start -->
-* [44155243](https://news.social-protocols.org/stats?id=44155243) #10 7 points 0 comments -> [Exponential Functions and Euler's Formula](http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html)<!-- HN:44155243:end -->
+* [44155243](https://news.social-protocols.org/stats?id=44155243) #10 7 points 0 comments -> [Exponential Functions and Euler's Formula](http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html)<!-- HN:44155243:end --><!-- HN:44156381:start -->
+* [44156381](https://news.social-protocols.org/stats?id=44156381) #9 22 points 9 comments -> [Time to Rethink PostgreSQL Storage](https://www.ubicloud.com/blog/time-to-rethink-postgresql-storage)<!-- HN:44156381:end -->
