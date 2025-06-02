@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44153649](https://news.social-protocols.org/stats?id=44153649) #10 3 points 1 comments -> [Claude Code: An Agentic cleanroom analysis](https://southbridge-research.notion.site/Claude-Code-An-Agentic-cleanroom-analysis-2055fec70db1802d85e5e78d7ddeecfd)<!-- HN:44153649:end -->
 #### **Monday, June 2, 2025**
 <!-- HN:44155227:start -->
-* [44155227](https://news.social-protocols.org/stats?id=44155227) #2 5 points 2 comments -> [I Miss My Fan Regulator](https://rishikeshs.com/fan-regulator/)<!-- HN:44155227:end -->
+* [44155227](https://news.social-protocols.org/stats?id=44155227) #2 5 points 2 comments -> [I Miss My Fan Regulator](https://rishikeshs.com/fan-regulator/)<!-- HN:44155227:end --><!-- HN:44155243:start -->
+* [44155243](https://news.social-protocols.org/stats?id=44155243) #10 7 points 0 comments -> [Exponential Functions and Euler's Formula](http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html)<!-- HN:44155243:end -->
