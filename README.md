@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44153907](https://news.social-protocols.org/stats?id=44153907) #14 14 points 1 comments -> [Far-right websites got hacked and defaced; 6.5 terabytes of data got leaked](https://ddosecrets.com/article/psyclone-media)<!-- HN:44153907:end --><!-- HN:44154007:start -->
 * [44154007](https://news.social-protocols.org/stats?id=44154007) #3 9 points 0 comments -> [Starship: Dead End?](https://www.planetearthandbeyond.co/p/starship-dead-end)<!-- HN:44154007:end --><!-- HN:44153649:start -->
 * [44153649](https://news.social-protocols.org/stats?id=44153649) #10 3 points 1 comments -> [Claude Code: An Agentic cleanroom analysis](https://southbridge-research.notion.site/Claude-Code-An-Agentic-cleanroom-analysis-2055fec70db1802d85e5e78d7ddeecfd)<!-- HN:44153649:end -->
+#### **Monday, June 2, 2025**
+<!-- HN:44155227:start -->
+* [44155227](https://news.social-protocols.org/stats?id=44155227) #2 5 points 2 comments -> [I Miss My Fan Regulator](https://rishikeshs.com/fan-regulator/)<!-- HN:44155227:end -->
