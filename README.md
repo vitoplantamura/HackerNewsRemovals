@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44132741](https://news.social-protocols.org/stats?id=44132741) #18 9 points 1 comments -> [Pianocorder (2022)](https://www.pianocorder.info/)<!-- HN:44132741:end --><!-- HN:44157618:start -->
 * [44157618](https://news.social-protocols.org/stats?id=44157618) #26 64 points 12 comments -> [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)<!-- HN:44157618:end --><!-- HN:44163750:start -->
 * [44163750](https://news.social-protocols.org/stats?id=44163750) #10 14 points 0 comments -> [FEMA staff baffled after head said he was unaware of US hurricane season](https://www.reuters.com/world/us/fema-staff-confused-after-head-said-he-was-unaware-us-hurricane-season-sources-2025-06-02/)<!-- HN:44163750:end -->
+#### **Tuesday, June 3, 2025**
+<!-- HN:44164724:start -->
+* [44164724](https://news.social-protocols.org/stats?id=44164724) #14 4 points 0 comments -> [The Atari ST, Everyone's Second Favourite 16-Bit Home Computer, Turns 40](https://www.timeextension.com/news/2025/06/anniversary-the-atari-st-everyones-second-favourite-16-bit-home-computer-turns-40)<!-- HN:44164724:end -->
