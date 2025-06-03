@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, June 3, 2025**
 <!-- HN:44164724:start -->
 * [44164724](https://news.social-protocols.org/stats?id=44164724) #14 4 points 0 comments -> [The Atari ST, Everyone's Second Favourite 16-Bit Home Computer, Turns 40](https://www.timeextension.com/news/2025/06/anniversary-the-atari-st-everyones-second-favourite-16-bit-home-computer-turns-40)<!-- HN:44164724:end --><!-- HN:44165573:start -->
-* [44165573](https://news.social-protocols.org/stats?id=44165573) #8 5 points 0 comments -> [New FEMA chief told staff he didn't know about Atlantic hurricane season](https://www.chron.com/news/article/hurricane-season-fema-chief-20357861.php)<!-- HN:44165573:end -->
+* [44165573](https://news.social-protocols.org/stats?id=44165573) #8 5 points 0 comments -> [New FEMA chief told staff he didn't know about Atlantic hurricane season](https://www.chron.com/news/article/hurricane-season-fema-chief-20357861.php)<!-- HN:44165573:end --><!-- HN:44165830:start -->
+* [44165830](https://news.social-protocols.org/stats?id=44165830) #20 6 points 0 comments -> [Apple Appeals EU's March Ruling on 'Interoperability' Requirements Under the DMA](https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements)<!-- HN:44165830:end -->
