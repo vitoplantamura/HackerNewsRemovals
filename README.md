@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44175940:start -->
 * [44175940](https://news.social-protocols.org/stats?id=44175940) #25 110 points 18 comments -> [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)<!-- HN:44175940:end --><!-- HN:44177860:start -->
 * [44177860](https://news.social-protocols.org/stats?id=44177860) #19 7 points 1 comments -> [Tiananmen Square Massacre – Facts, Fiction and Propaganda](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/)<!-- HN:44177860:end --><!-- HN:44178147:start -->
-* [44178147](https://news.social-protocols.org/stats?id=44178147) #7 30 points 42 comments -> [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)<!-- HN:44178147:end -->
+* [44178147](https://news.social-protocols.org/stats?id=44178147) #7 30 points 42 comments -> [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)<!-- HN:44178147:end --><!-- HN:44179057:start -->
+* [44179057](https://news.social-protocols.org/stats?id=44179057) #6 4 points 0 comments -> [Show HN: I built an AI girlfriend – no back end required](https://github.com/vlgithub17/skapi-love-chatbot)<!-- HN:44179057:end -->
