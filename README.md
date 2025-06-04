@@ -120,5 +120,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, June 4, 2025**
 <!-- HN:44175940:start -->
 * [44175940](https://news.social-protocols.org/stats?id=44175940) #25 110 points 18 comments -> [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)<!-- HN:44175940:end --><!-- HN:44177860:start -->
-* [44177860](https://news.social-protocols.org/stats?id=44177860) #19 7 points 1 comments -> [Tiananmen Square Massacre – Facts, Fiction and Propaganda](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/)<!-- HN:44177860:end --><!-- HN:44176653:start -->
-* [44176653](https://news.social-protocols.org/stats?id=44176653) #27 29 points 5 comments -> [Out of His League and Clueless: NIH Staffers Speak Out on Director Bhattacharya](https://www.importantcontext.news/p/out-of-his-depth-sold-his-soul-clueless)<!-- HN:44176653:end -->
+* [44177860](https://news.social-protocols.org/stats?id=44177860) #19 7 points 1 comments -> [Tiananmen Square Massacre – Facts, Fiction and Propaganda](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/)<!-- HN:44177860:end -->
