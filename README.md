@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 28, 2025**
-<!-- HN:44112152:start -->
-* [44112152](https://news.social-protocols.org/stats?id=44112152) #20 3 points 4 comments -> [MailDock: Cold Email Infrastructure](https://maildock.io/)<!-- HN:44112152:end --><!-- HN:44087008:start -->
-* [44087008](https://news.social-protocols.org/stats?id=44087008) #27 10 points 0 comments -> [Restoring Vangelis's Performance Sequencers](https://zyklus-mps.com/about)<!-- HN:44087008:end --><!-- HN:44112554:start -->
-* [44112554](https://news.social-protocols.org/stats?id=44112554) #10 5 points 0 comments -> [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/12.3/)<!-- HN:44112554:end --><!-- HN:44112753:start -->
-* [44112753](https://news.social-protocols.org/stats?id=44112753) #24 4 points 1 comments -> [EXT4 for Linux 6.16 Brings a Change Yielding "Stupendous Performance"](https://www.phoronix.com/news/Linux-6.16-EXT4-Performance)<!-- HN:44112753:end --><!-- HN:44112982:start -->
-* [44112982](https://news.social-protocols.org/stats?id=44112982) #2 9 points 1 comments -> [The Captcha Paradox](https://talkingrobot.com/2025/05/the-captcha-paradox/)<!-- HN:44112982:end --><!-- HN:44113954:start -->
-* [44113954](https://news.social-protocols.org/stats?id=44113954) #1 13 points 12 comments -> [We Tested 7 Languages Under Extreme Load and Only One Didn't Crash](https://freedium.cfd/https://medium.com/@codeperfect/we-tested-7-languages-under-extreme-load-and-only-one-didnt-crash-it-wasn-t-what-we-expected-67f84c79dc34)<!-- HN:44113954:end --><!-- HN:44113789:start -->
-* [44113789](https://news.social-protocols.org/stats?id=44113789) #9 28 points 12 comments -> [Vibe coding for teams, thoughts to date](https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html)<!-- HN:44113789:end --><!-- HN:44114777:start -->
-* [44114777](https://news.social-protocols.org/stats?id=44114777) #26 4 points 0 comments -> [SCOTUS Releases Long-Awaited Ethics Code: One Page That Says "Try Your Best"](https://sites.google.com/view/annnewsforamerica/scotus-releases-long-awaited-ethics-code-consisting-of-one-page-that-says?authuser=0)<!-- HN:44114777:end --><!-- HN:44114589:start -->
-* [44114589](https://news.social-protocols.org/stats?id=44114589) #23 16 points 40 comments -> [Driverless Semi Trucks Are Here, with Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)<!-- HN:44114589:end --><!-- HN:44115261:start -->
-* [44115261](https://news.social-protocols.org/stats?id=44115261) #17 5 points 1 comments -> [Half the world population could be diabetic or insulin resistant by 2050](https://fortune.com/2025/05/26/half-the-world-population-potentially-diabetic-or-insulin-resistant-by-2050/)<!-- HN:44115261:end --><!-- HN:44115326:start -->
-* [44115326](https://news.social-protocols.org/stats?id=44115326) #26 12 points 2 comments -> [The Colorado River is running low. The picture looks even worse underground](https://www.washingtonpost.com/climate-environment/2025/05/27/american-west-drought-water-colorado-river/)<!-- HN:44115326:end --><!-- HN:44118375:start -->
-* [44118375](https://news.social-protocols.org/stats?id=44118375) #22 11 points 0 comments -> [LLM Shibboleths determine AI effectiveness](https://www.moderndescartes.com/essays/llm_shibboleths/)<!-- HN:44118375:end --><!-- HN:44117225:start -->
-* [44117225](https://news.social-protocols.org/stats?id=44117225) #16 36 points 41 comments -> [Why is it so hard to get families to live in community houses?](https://supernuclear.substack.com/p/why-is-it-so-hard-to-get-families)<!-- HN:44117225:end --><!-- HN:44120381:start -->
-* [44120381](https://news.social-protocols.org/stats?id=44120381) #11 6 points 3 comments -> [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/abs/2305.09515)<!-- HN:44120381:end -->
 #### **Thursday, May 29, 2025**
 <!-- HN:44121939:start -->
 * [44121939](https://news.social-protocols.org/stats?id=44121939) #1 14 points 1 comments -> [I Lived Through Collapse. America Is Already There](https://indi.ca/i-lived-through-collapse-america-is-already-there/)<!-- HN:44121939:end --><!-- HN:44122305:start -->
