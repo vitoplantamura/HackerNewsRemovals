@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44169314](https://news.social-protocols.org/stats?id=44169314) #20 242 points 5 comments -> [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)<!-- HN:44169314:end --><!-- HN:44174266:start -->
 * [44174266](https://news.social-protocols.org/stats?id=44174266) #20 3 points 0 comments -> [How we wrap external C and C++ libraries in Rust](https://www.evolvebenchmark.com/blog-posts/how-we-wrap-external-c-and-cpp-libraries-in-rust)<!-- HN:44174266:end --><!-- HN:44175255:start -->
 * [44175255](https://news.social-protocols.org/stats?id=44175255) #21 4 points 0 comments -> [Claude Pro users now have Research and Integrations](https://twitter.com/AnthropicAI/status/1929950252376998139)<!-- HN:44175255:end -->
+#### **Wednesday, June 4, 2025**
+<!-- HN:44176653:start -->
+* [44176653](https://news.social-protocols.org/stats?id=44176653) #9 -> [Out of His League and Clueless: NIH Staffers Speak Out on Director Bhattacharya](https://www.importantcontext.news/p/out-of-his-depth-sold-his-soul-clueless)<!-- HN:44176653:end -->
