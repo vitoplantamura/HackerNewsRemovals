@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44175255](https://news.social-protocols.org/stats?id=44175255) #21 4 points 0 comments -> [Claude Pro users now have Research and Integrations](https://twitter.com/AnthropicAI/status/1929950252376998139)<!-- HN:44175255:end -->
 #### **Wednesday, June 4, 2025**
 <!-- HN:44175940:start -->
-* [44175940](https://news.social-protocols.org/stats?id=44175940) #25 110 points 18 comments -> [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)<!-- HN:44175940:end -->
+* [44175940](https://news.social-protocols.org/stats?id=44175940) #25 110 points 18 comments -> [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)<!-- HN:44175940:end --><!-- HN:44177860:start -->
+* [44177860](https://news.social-protocols.org/stats?id=44177860) #19 7 points 1 comments -> [Tiananmen Square Massacre – Facts, Fiction and Propaganda](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/)<!-- HN:44177860:end -->
