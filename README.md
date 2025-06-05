@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, May 29, 2025**
-<!-- HN:44121939:start -->
-* [44121939](https://news.social-protocols.org/stats?id=44121939) #1 14 points 1 comments -> [I Lived Through Collapse. America Is Already There](https://indi.ca/i-lived-through-collapse-america-is-already-there/)<!-- HN:44121939:end --><!-- HN:44122305:start -->
-* [44122305](https://news.social-protocols.org/stats?id=44122305) #16 10 points 1 comments -> [Anthropic CEO: AI could wipe out half of entry-level jobs](https://www.businessinsider.com/anthropic-ceo-warning-ai-could-eliminate-jobs-2025-5)<!-- HN:44122305:end --><!-- HN:44121891:start -->
-* [44121891](https://news.social-protocols.org/stats?id=44121891) #17 3 points 0 comments -> [Sky, Natural Computing for the Macintosh](https://sky.app/)<!-- HN:44121891:end --><!-- HN:44125183:start -->
-* [44125183](https://news.social-protocols.org/stats?id=44125183) #14 35 points 14 comments -> [The MAHA Report Cites Studies That Don't Exist](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors)<!-- HN:44125183:end --><!-- HN:44125493:start -->
-* [44125493](https://news.social-protocols.org/stats?id=44125493) #30 9 points 2 comments -> [RFK Jr. says he may bar scientists from publishing in top medical journals](https://www.washingtonpost.com/health/2025/05/28/rfk-jr-ban-journals-lancet-jama/)<!-- HN:44125493:end --><!-- HN:44125874:start -->
-* [44125874](https://news.social-protocols.org/stats?id=44125874) #29 3 points 0 comments -> [DeepSeek-R1-0528 performance improvements](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528/blob/main/README.md)<!-- HN:44125874:end --><!-- HN:44127956:start -->
-* [44127956](https://news.social-protocols.org/stats?id=44127956) #4 -> [Human coders are still better than LLMs](https://www.antirez.com/news/153)<!-- HN:44127956:end --><!-- HN:44128971:start -->
-* [44128971](https://news.social-protocols.org/stats?id=44128971) #24 31 points 14 comments -> [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)<!-- HN:44128971:end --><!-- HN:44130928:start -->
-* [44130928](https://news.social-protocols.org/stats?id=44130928) #4 30 points 15 comments -> [SQL Workbench – Republicans not welcome](https://www.sql-workbench.eu/)<!-- HN:44130928:end -->
 #### **Friday, May 30, 2025**
 <!-- HN:44131766:start -->
 * [44131766](https://news.social-protocols.org/stats?id=44131766) #27 12 points 1 comments -> [US Economy Shrinks 0.2% on Weaker Spending, Larger Trade Impact](https://www.bloomberg.com/news/articles/2025-05-29/us-economy-shrinks-0-2-on-weaker-spending-larger-trade-impact)<!-- HN:44131766:end --><!-- HN:44132093:start -->
