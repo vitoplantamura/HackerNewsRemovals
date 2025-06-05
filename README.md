@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44185841](https://news.social-protocols.org/stats?id=44185841) #10 14 points 25 comments -> [One thing Tesla and Comma.ai overlooked in self-driving](https://deepdream.substack.com/p/one-thing-tesla-and-commaai-overlooked)<!-- HN:44185841:end -->
 #### **Thursday, June 5, 2025**
 <!-- HN:44186891:start -->
-* [44186891](https://news.social-protocols.org/stats?id=44186891) #25 14 points 0 comments -> [Court denies Apple appeal in Epic Games case, keeping App Store changes in place](https://www.cnbc.com/2025/06/04/apple-appeal-epic-games-app-store.html)<!-- HN:44186891:end -->
+* [44186891](https://news.social-protocols.org/stats?id=44186891) #25 14 points 0 comments -> [Court denies Apple appeal in Epic Games case, keeping App Store changes in place](https://www.cnbc.com/2025/06/04/apple-appeal-epic-games-app-store.html)<!-- HN:44186891:end --><!-- HN:44187062:start -->
+* [44187062](https://news.social-protocols.org/stats?id=44187062) #10 10 points 1 comments -> [How big tech monopolies made the internet worse](https://www.cascadepbs.org/news/2025/06/how-big-tech-monopolies-made-internet-worse)<!-- HN:44187062:end -->
