@@ -121,8 +121,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44182297](https://news.social-protocols.org/stats?id=44182297) #23 8 points 0 comments -> [Haribo recalls sweets in the Netherlands after traces of cannabis found](https://www.theguardian.com/world/2025/may/29/haribo-recalls-sweets-in-the-netherlands-after-traces-of-cannabis-found)<!-- HN:44182297:end --><!-- HN:44182371:start -->
 * [44182371](https://news.social-protocols.org/stats?id=44182371) #6 6 points 0 comments -> [AI Devs are the new "Campfire Guitarist"](https://www.funkaey.com/blog/AI-Devs-are-the-new-campfire-guitarists)<!-- HN:44182371:end --><!-- HN:44182275:start -->
 * [44182275](https://news.social-protocols.org/stats?id=44182275) #22 10 points 13 comments -> [Teenage Engineering lets you pick what you want to pay for an OP-1 Field](https://teenage.engineering/)<!-- HN:44182275:end --><!-- HN:44184011:start -->
-* [44184011](https://news.social-protocols.org/stats?id=44184011) #30 7 points 0 comments -> [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)<!-- HN:44184011:end --><!-- HN:44184305:start -->
-* [44184305](https://news.social-protocols.org/stats?id=44184305) #17 193 points 163 comments -> [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)<!-- HN:44184305:end --><!-- HN:44185841:start -->
+* [44184011](https://news.social-protocols.org/stats?id=44184011) #30 7 points 0 comments -> [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)<!-- HN:44184011:end --><!-- HN:44185841:start -->
 * [44185841](https://news.social-protocols.org/stats?id=44185841) #10 14 points 25 comments -> [One thing Tesla and Comma.ai overlooked in self-driving](https://deepdream.substack.com/p/one-thing-tesla-and-commaai-overlooked)<!-- HN:44185841:end -->
 #### **Thursday, June 5, 2025**
 <!-- HN:44186891:start -->
