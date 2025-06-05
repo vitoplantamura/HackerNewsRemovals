@@ -135,3 +135,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44184011](https://news.social-protocols.org/stats?id=44184011) #30 7 points 0 comments -> [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)<!-- HN:44184011:end --><!-- HN:44184305:start -->
 * [44184305](https://news.social-protocols.org/stats?id=44184305) #17 193 points 163 comments -> [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)<!-- HN:44184305:end --><!-- HN:44185841:start -->
 * [44185841](https://news.social-protocols.org/stats?id=44185841) #10 14 points 25 comments -> [One thing Tesla and Comma.ai overlooked in self-driving](https://deepdream.substack.com/p/one-thing-tesla-and-commaai-overlooked)<!-- HN:44185841:end -->
+#### **Thursday, June 5, 2025**
+<!-- HN:44186891:start -->
+* [44186891](https://news.social-protocols.org/stats?id=44186891) #25 14 points 0 comments -> [Court denies Apple appeal in Epic Games case, keeping App Store changes in place](https://www.cnbc.com/2025/06/04/apple-appeal-epic-games-app-store.html)<!-- HN:44186891:end -->
