@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44193782](https://news.social-protocols.org/stats?id=44193782) #14 31 points 41 comments -> [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)<!-- HN:44193782:end --><!-- HN:44194796:start -->
 * [44194796](https://news.social-protocols.org/stats?id=44194796) #26 6 points 4 comments -> [Busting the Myth That the Canadian Federal Govt Has Hurt Alberta's Oil Industry](https://thetyee.ca/Analysis/2025/05/15/Busting-Myth-Ottawa-Hurt-Alberta-Oil-Industry/)<!-- HN:44194796:end -->
 #### **Friday, June 6, 2025**<!-- HN:44197347:start -->
-* [44197347](https://news.social-protocols.org/stats?id=44197347) #29 18 points 7 comments -> [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)<!-- HN:44197347:end -->
+* [44197347](https://news.social-protocols.org/stats?id=44197347) #29 18 points 7 comments -> [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)<!-- HN:44197347:end --><!-- HN:44198049:start -->
+* [44198049](https://news.social-protocols.org/stats?id=44198049) #26 17 points 6 comments -> [Switch 2 rooted on day 1](https://bsky.app/profile/retr0.id/post/3lqtwrndzf22w)<!-- HN:44198049:end -->
