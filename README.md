@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44192443](https://news.social-protocols.org/stats?id=44192443) #29 30 points 41 comments -> [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)<!-- HN:44192443:end --><!-- HN:44193782:start -->
 * [44193782](https://news.social-protocols.org/stats?id=44193782) #14 31 points 41 comments -> [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)<!-- HN:44193782:end --><!-- HN:44194796:start -->
 * [44194796](https://news.social-protocols.org/stats?id=44194796) #26 6 points 4 comments -> [Busting the Myth That the Canadian Federal Govt Has Hurt Alberta's Oil Industry](https://thetyee.ca/Analysis/2025/05/15/Busting-Myth-Ottawa-Hurt-Alberta-Oil-Industry/)<!-- HN:44194796:end -->
+#### **Friday, June 6, 2025**
+<!-- HN:44197347:start -->
+* [44197347](https://news.social-protocols.org/stats?id=44197347) #5 11 points 2 comments -> [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)<!-- HN:44197347:end -->
