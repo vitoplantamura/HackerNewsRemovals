@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, June 7, 2025**
 <!-- HN:44204162:start -->
 * [44204162](https://news.social-protocols.org/stats?id=44204162) #24 16 points 3 comments -> [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)<!-- HN:44204162:end --><!-- HN:44206007:start -->
-* [44206007](https://news.social-protocols.org/stats?id=44206007) #17 16 points 12 comments -> [Dear High Schoolers, Time Is Precious](https://byronsharman.com/blog/dear-high-schoolers)<!-- HN:44206007:end -->
+* [44206007](https://news.social-protocols.org/stats?id=44206007) #17 16 points 12 comments -> [Dear High Schoolers, Time Is Precious](https://byronsharman.com/blog/dear-high-schoolers)<!-- HN:44206007:end --><!-- HN:44203444:start -->
+* [44203444](https://news.social-protocols.org/stats?id=44203444) #30 61 points 42 comments -> [A leaderless NASA faces its biggest-ever cuts](https://www.economist.com/science-and-technology/2025/06/04/a-leaderless-nasa-faces-its-biggest-ever-cuts)<!-- HN:44203444:end -->
