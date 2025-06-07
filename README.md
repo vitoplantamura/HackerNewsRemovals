@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 31, 2025**<!-- HN:44141746:start -->
-* [44141746](https://news.social-protocols.org/stats?id=44141746) #2 9 points 3 comments -> [Next.js: The "Versatile" React Framework That Can't Handle Dynamic Routes](https://github.com/vercel/next.js/discussions/64660)<!-- HN:44141746:end --><!-- HN:44112627:start -->
-* [44112627](https://news.social-protocols.org/stats?id=44112627) #18 10 points 9 comments -> [Neolithic 'sun stones' sacrificed in Denmark revives sun after volcanic eruption](https://archaeologymag.com/2025/01/neolithic-sun-stones-sacrificed-in-denmark/)<!-- HN:44112627:end --><!-- HN:44112974:start -->
-* [44112974](https://news.social-protocols.org/stats?id=44112974) #20 9 points 6 comments -> [Show HN: Circle Crop Image](https://circlecropimage.io/)<!-- HN:44112974:end --><!-- HN:44113613:start -->
-* [44113613](https://news.social-protocols.org/stats?id=44113613) #23 14 points 3 comments -> [Claude 4 vs. Gemini 2.5 Pro: A Developer's Deep Dive Comparison](https://forgecode.dev/blog/claude-sonnet-4-vs-gemini-2-5-pro-preview-coding-comparison/)<!-- HN:44113613:end --><!-- HN:44143857:start -->
-* [44143857](https://news.social-protocols.org/stats?id=44143857) #29 3 points 0 comments -> [AI didn't kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html)<!-- HN:44143857:end --><!-- HN:44144970:start -->
-* [44144970](https://news.social-protocols.org/stats?id=44144970) #20 6 points 0 comments -> [Indian AI Startup Worth Billions Turns Out to Be Biggest Scam](https://propakistani.pk/2025/05/29/indian-ai-startup-worth-billions-turns-out-to-be-biggest-scam-ever/)<!-- HN:44144970:end --><!-- HN:44146233:start -->
-* [44146233](https://news.social-protocols.org/stats?id=44146233) #22 3 points 0 comments -> [Why Meta is in trouble in Nigeria](https://theconversation.com/why-meta-is-in-trouble-in-nigeria-and-what-this-means-for-facebook-instagram-and-whatsapp-users-257048)<!-- HN:44146233:end --><!-- HN:44146650:start -->
-* [44146650](https://news.social-protocols.org/stats?id=44146650) #30 6 points 3 comments -> [For Some Recent Graduates, the A.I. Job Apocalypse May Already Be Here](https://www.nytimes.com/2025/05/30/technology/ai-jobs-college-graduates.html)<!-- HN:44146650:end --><!-- HN:44116925:start -->
-* [44116925](https://news.social-protocols.org/stats?id=44116925) #10 9 points 2 comments -> [Building the Bucket Linear Agent](https://bucket.co/blog/building-the-bucket-linear-agent)<!-- HN:44116925:end -->
 #### **Sunday, June 1, 2025**
 <!-- HN:44147206:start -->
 * [44147206](https://news.social-protocols.org/stats?id=44147206) #19 14 points 4 comments -> [I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)<!-- HN:44147206:end --><!-- HN:44148818:start -->
