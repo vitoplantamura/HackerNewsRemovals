@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44201829](https://news.social-protocols.org/stats?id=44201829) #5 83 points 50 comments -> [Why Bell Labs Worked](https://links.fabiomanganiello.com/share/683ee70d0409e6.66273547)<!-- HN:44201829:end --><!-- HN:44205207:start -->
 * [44205207](https://news.social-protocols.org/stats?id=44205207) #27 9 points 1 comments -> [600 Miles from the North Pole on a boat. My Starlink Mini is at 171 mbit/s](https://old.reddit.com/r/Starlink/comments/1l0im21/currently_about_600_miles_from_the_north_pole_on/)<!-- HN:44205207:end --><!-- HN:44205976:start -->
 * [44205976](https://news.social-protocols.org/stats?id=44205976) #7 7 points 0 comments -> [Higher education is shockingly right-wing](https://drafts.interfluidity.com/2023/03/01/higher-education-is-shockingly-right-wing/index.html)<!-- HN:44205976:end -->
+#### **Saturday, June 7, 2025**
+<!-- HN:44204162:start -->
+* [44204162](https://news.social-protocols.org/stats?id=44204162) #24 16 points 3 comments -> [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)<!-- HN:44204162:end -->
