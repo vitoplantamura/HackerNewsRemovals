@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44205976](https://news.social-protocols.org/stats?id=44205976) #7 7 points 0 comments -> [Higher education is shockingly right-wing](https://drafts.interfluidity.com/2023/03/01/higher-education-is-shockingly-right-wing/index.html)<!-- HN:44205976:end -->
 #### **Saturday, June 7, 2025**
 <!-- HN:44204162:start -->
-* [44204162](https://news.social-protocols.org/stats?id=44204162) #24 16 points 3 comments -> [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)<!-- HN:44204162:end -->
+* [44204162](https://news.social-protocols.org/stats?id=44204162) #24 16 points 3 comments -> [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)<!-- HN:44204162:end --><!-- HN:44206007:start -->
+* [44206007](https://news.social-protocols.org/stats?id=44206007) #17 16 points 12 comments -> [Dear High Schoolers, Time Is Precious](https://byronsharman.com/blog/dear-high-schoolers)<!-- HN:44206007:end -->
