@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44212532](https://news.social-protocols.org/stats?id=44212532) #10 20 points 9 comments -> [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)<!-- HN:44212532:end -->
 #### **Sunday, June 8, 2025**
 <!-- HN:44213363:start -->
-* [44213363](https://news.social-protocols.org/stats?id=44213363) #5 15 points 7 comments -> [Don't Panic, but Douglas Adams Predicted a Lot of This](https://krisstgabriel.substack.com/p/dont-panic-but-douglas-adams-predicted)<!-- HN:44213363:end -->
+* [44213363](https://news.social-protocols.org/stats?id=44213363) #5 15 points 7 comments -> [Don't Panic, but Douglas Adams Predicted a Lot of This](https://krisstgabriel.substack.com/p/dont-panic-but-douglas-adams-predicted)<!-- HN:44213363:end --><!-- HN:44213418:start -->
+* [44213418](https://news.social-protocols.org/stats?id=44213418) #4 6 points 3 comments -> [ChatGPT AI Can Be Fooled to Reveal Secrets](https://texttoslides.ai/blog/chatgpt-ai-reveals-secrets)<!-- HN:44213418:end -->
