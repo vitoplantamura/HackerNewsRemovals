@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44213363:start -->
 * [44213363](https://news.social-protocols.org/stats?id=44213363) #5 15 points 7 comments -> [Don't Panic, but Douglas Adams Predicted a Lot of This](https://krisstgabriel.substack.com/p/dont-panic-but-douglas-adams-predicted)<!-- HN:44213363:end --><!-- HN:44213418:start -->
 * [44213418](https://news.social-protocols.org/stats?id=44213418) #4 6 points 3 comments -> [ChatGPT AI Can Be Fooled to Reveal Secrets](https://texttoslides.ai/blog/chatgpt-ai-reveals-secrets)<!-- HN:44213418:end --><!-- HN:44214889:start -->
-* [44214889](https://news.social-protocols.org/stats?id=44214889) #3 65 points 34 comments -> [Re: My AI skeptic friends are all nuts](https://skarlso.github.io/2025/06/07/re-my-ai-skeptic-friends-are-all-nuts/)<!-- HN:44214889:end -->
+* [44214889](https://news.social-protocols.org/stats?id=44214889) #3 65 points 34 comments -> [Re: My AI skeptic friends are all nuts](https://skarlso.github.io/2025/06/07/re-my-ai-skeptic-friends-are-all-nuts/)<!-- HN:44214889:end --><!-- HN:44215131:start -->
+* [44215131](https://news.social-protocols.org/stats?id=44215131) #2 20 points 6 comments -> [A Knockout Blow for LLMs?](https://garymarcus.substack.com/p/a-knockout-blow-for-llms)<!-- HN:44215131:end -->
