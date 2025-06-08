@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, June 1, 2025**
-<!-- HN:44147206:start -->
-* [44147206](https://news.social-protocols.org/stats?id=44147206) #19 14 points 4 comments -> [I Lost My Backpack with Passports and Laptop](https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports)<!-- HN:44147206:end --><!-- HN:44148818:start -->
-* [44148818](https://news.social-protocols.org/stats?id=44148818) #5 7 points 2 comments -> [Welcome to the age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses)<!-- HN:44148818:end --><!-- HN:44149320:start -->
-* [44149320](https://news.social-protocols.org/stats?id=44149320) #26 5 points 2 comments -> [JD Vance has changed his name multiple times over the years](https://fortune.com/article/what-is-jd-vance-real-name-origin-john-david-hamel/)<!-- HN:44149320:end --><!-- HN:44124443:start -->
-* [44124443](https://news.social-protocols.org/stats?id=44124443) #15 17 points 14 comments -> [A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition](https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/)<!-- HN:44124443:end --><!-- HN:44149000:start -->
-* [44149000](https://news.social-protocols.org/stats?id=44149000) #16 83 points 1 comments -> [I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)<!-- HN:44149000:end --><!-- HN:44128652:start -->
-* [44128652](https://news.social-protocols.org/stats?id=44128652) #4 11 points 3 comments -> [FOSS 3-2-1 Backup from SD-Card to Cloud](https://github.com/chrfrenning/zentransfer-desktop)<!-- HN:44128652:end --><!-- HN:44125598:start -->
-* [44125598](https://news.social-protocols.org/stats?id=44125598) #9 40 points 11 comments -> [Show HN: I compressed 10k PDFs into a 1.4GB video for LLM memory](https://github.com/Olow304/memvid)<!-- HN:44125598:end --><!-- HN:44152084:start -->
-* [44152084](https://news.social-protocols.org/stats?id=44152084) #21 38 points 16 comments -> [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)<!-- HN:44152084:end --><!-- HN:44153315:start -->
-* [44153315](https://news.social-protocols.org/stats?id=44153315) #23 8 points 7 comments -> [Louisiana lawmakers push 'chemtrail' ban legislation through the House](https://www.fox8live.com/2025/05/30/louisiana-lawmakers-push-chemtrail-ban-legislation-through-house/)<!-- HN:44153315:end --><!-- HN:44153907:start -->
-* [44153907](https://news.social-protocols.org/stats?id=44153907) #14 14 points 1 comments -> [Far-right websites got hacked and defaced; 6.5 terabytes of data got leaked](https://ddosecrets.com/article/psyclone-media)<!-- HN:44153907:end --><!-- HN:44154007:start -->
-* [44154007](https://news.social-protocols.org/stats?id=44154007) #3 9 points 0 comments -> [Starship: Dead End?](https://www.planetearthandbeyond.co/p/starship-dead-end)<!-- HN:44154007:end --><!-- HN:44153649:start -->
-* [44153649](https://news.social-protocols.org/stats?id=44153649) #10 3 points 1 comments -> [Claude Code: An Agentic cleanroom analysis](https://southbridge-research.notion.site/Claude-Code-An-Agentic-cleanroom-analysis-2055fec70db1802d85e5e78d7ddeecfd)<!-- HN:44153649:end -->
 #### **Monday, June 2, 2025**
 <!-- HN:44155227:start -->
 * [44155227](https://news.social-protocols.org/stats?id=44155227) #2 5 points 2 comments -> [I Miss My Fan Regulator](https://rishikeshs.com/fan-regulator/)<!-- HN:44155227:end --><!-- HN:44155243:start -->
