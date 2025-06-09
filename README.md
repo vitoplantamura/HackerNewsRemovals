@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44220076](https://news.social-protocols.org/stats?id=44220076) #22 4 points 3 comments -> [America's infatuation with boy geniuses and 'Great Men' is ruining us](https://www.theguardian.com/us-news/ng-interactive/2025/jun/08/boy-geniuses-great-men-trump)<!-- HN:44220076:end -->
 #### **Monday, June 9, 2025**
 <!-- HN:44220349:start -->
-* [44220349](https://news.social-protocols.org/stats?id=44220349) #3 7 points 0 comments -> [It's OK not to be fat](https://www.noahpinion.blog/p/its-ok-not-to-be-fat)<!-- HN:44220349:end -->
+* [44220349](https://news.social-protocols.org/stats?id=44220349) #3 7 points 0 comments -> [It's OK not to be fat](https://www.noahpinion.blog/p/its-ok-not-to-be-fat)<!-- HN:44220349:end --><!-- HN:44220577:start -->
+* [44220577](https://news.social-protocols.org/stats?id=44220577) #5 16 points 0 comments -> [Los Angeles Stands Up to ICE: A Firsthand Report on the Clashes of June 6](https://crimethinc.com/2025/06/08/los-angeles-stands-up-to-ice-a-firsthand-report-on-the-clashes-of-june-6)<!-- HN:44220577:end -->
