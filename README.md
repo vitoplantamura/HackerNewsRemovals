@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 2, 2025**
-<!-- HN:44155227:start -->
-* [44155227](https://news.social-protocols.org/stats?id=44155227) #2 5 points 2 comments -> [I Miss My Fan Regulator](https://rishikeshs.com/fan-regulator/)<!-- HN:44155227:end --><!-- HN:44155243:start -->
-* [44155243](https://news.social-protocols.org/stats?id=44155243) #10 7 points 0 comments -> [Exponential Functions and Euler's Formula](http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html)<!-- HN:44155243:end --><!-- HN:44156381:start -->
-* [44156381](https://news.social-protocols.org/stats?id=44156381) #9 22 points 9 comments -> [Time to Rethink PostgreSQL Storage](https://www.ubicloud.com/blog/time-to-rethink-postgresql-storage)<!-- HN:44156381:end --><!-- HN:44156570:start -->
-* [44156570](https://news.social-protocols.org/stats?id=44156570) #3 10 points 9 comments -> [AI-first – We're just 6 months away from AGI](https://revontulet.dev/p/2025-ai-first/)<!-- HN:44156570:end --><!-- HN:44156297:start -->
-* [44156297](https://news.social-protocols.org/stats?id=44156297) #20 44 points 40 comments -> [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)<!-- HN:44156297:end --><!-- HN:44157086:start -->
-* [44157086](https://news.social-protocols.org/stats?id=44157086) #18 24 points 1 comments -> [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv)<!-- HN:44157086:end --><!-- HN:44132741:start -->
-* [44132741](https://news.social-protocols.org/stats?id=44132741) #18 9 points 1 comments -> [Pianocorder (2022)](https://www.pianocorder.info/)<!-- HN:44132741:end --><!-- HN:44157618:start -->
-* [44157618](https://news.social-protocols.org/stats?id=44157618) #26 64 points 12 comments -> [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)<!-- HN:44157618:end --><!-- HN:44163750:start -->
-* [44163750](https://news.social-protocols.org/stats?id=44163750) #10 14 points 0 comments -> [FEMA staff baffled after head said he was unaware of US hurricane season](https://www.reuters.com/world/us/fema-staff-confused-after-head-said-he-was-unaware-us-hurricane-season-sources-2025-06-02/)<!-- HN:44163750:end -->
 #### **Tuesday, June 3, 2025**
 <!-- HN:44164724:start -->
 * [44164724](https://news.social-protocols.org/stats?id=44164724) #14 4 points 0 comments -> [The Atari ST, Everyone's Second Favourite 16-Bit Home Computer, Turns 40](https://www.timeextension.com/news/2025/06/anniversary-the-atari-st-everyones-second-favourite-16-bit-home-computer-turns-40)<!-- HN:44164724:end --><!-- HN:44165573:start -->
