@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44217707](https://news.social-protocols.org/stats?id=44217707) #24 27 points 7 comments -> [Futa – A functionally useless AI terminal assistant](https://github.com/nail-e/futa)<!-- HN:44217707:end --><!-- HN:44219772:start -->
 * [44219772](https://news.social-protocols.org/stats?id=44219772) #4 6 points 0 comments -> [Eight US states seek to outlaw chemtrails – even though they aren't real](https://www.theguardian.com/us-news/2025/jun/08/chemtrails-us-states-legislation)<!-- HN:44219772:end --><!-- HN:44220076:start -->
 * [44220076](https://news.social-protocols.org/stats?id=44220076) #22 4 points 3 comments -> [America's infatuation with boy geniuses and 'Great Men' is ruining us](https://www.theguardian.com/us-news/ng-interactive/2025/jun/08/boy-geniuses-great-men-trump)<!-- HN:44220076:end -->
+#### **Monday, June 9, 2025**
+<!-- HN:44220349:start -->
+* [44220349](https://news.social-protocols.org/stats?id=44220349) #3 7 points 0 comments -> [It's OK not to be fat](https://www.noahpinion.blog/p/its-ok-not-to-be-fat)<!-- HN:44220349:end -->
