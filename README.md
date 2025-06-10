@@ -147,3 +147,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44229005](https://news.social-protocols.org/stats?id=44229005) #28 4 points 1 comments -> [Why Tesla's full self-driving is a scam](https://www.carsandhorsepower.com/featured/musk-promised-robotaxis-but-tesla-s-fsd-can-t-even-turn-left)<!-- HN:44229005:end --><!-- HN:44229306:start -->
 * [44229306](https://news.social-protocols.org/stats?id=44229306) #29 10 points 3 comments -> [Apple: AI suffers "complete accuracy collapse" in face of complex problems](https://www.theguardian.com/technology/artificialintelligenceai)<!-- HN:44229306:end --><!-- HN:44230182:start -->
 * [44230182](https://news.social-protocols.org/stats?id=44230182) #14 12 points 2 comments -> [Marines mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)<!-- HN:44230182:end -->
+#### **Tuesday, June 10, 2025**
+<!-- HN:44230512:start -->
+* [44230512](https://news.social-protocols.org/stats?id=44230512) #8 14 points 7 comments -> [The Posse Comitatus Act Explained](https://www.brennancenter.org/our-work/research-reports/posse-comitatus-act-explained)<!-- HN:44230512:end -->
