@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, June 3, 2025**
-<!-- HN:44164724:start -->
-* [44164724](https://news.social-protocols.org/stats?id=44164724) #14 4 points 0 comments -> [The Atari ST, Everyone's Second Favourite 16-Bit Home Computer, Turns 40](https://www.timeextension.com/news/2025/06/anniversary-the-atari-st-everyones-second-favourite-16-bit-home-computer-turns-40)<!-- HN:44164724:end --><!-- HN:44165573:start -->
-* [44165573](https://news.social-protocols.org/stats?id=44165573) #8 5 points 0 comments -> [New FEMA chief told staff he didn't know about Atlantic hurricane season](https://www.chron.com/news/article/hurricane-season-fema-chief-20357861.php)<!-- HN:44165573:end --><!-- HN:44165830:start -->
-* [44165830](https://news.social-protocols.org/stats?id=44165830) #20 6 points 0 comments -> [Apple Appeals EU's March Ruling on 'Interoperability' Requirements Under the DMA](https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements)<!-- HN:44165830:end --><!-- HN:44167089:start -->
-* [44167089](https://news.social-protocols.org/stats?id=44167089) #17 28 points 40 comments -> [Rsync's defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)<!-- HN:44167089:end --><!-- HN:44169050:start -->
-* [44169050](https://news.social-protocols.org/stats?id=44169050) #15 76 points 62 comments -> [NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates](https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html)<!-- HN:44169050:end --><!-- HN:44168835:start -->
-* [44168835](https://news.social-protocols.org/stats?id=44168835) #30 68 points 32 comments -> [Claude has learned how to jailbreak Cursor](https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702)<!-- HN:44168835:end --><!-- HN:44170822:start -->
-* [44170822](https://news.social-protocols.org/stats?id=44170822) #11 14 points 2 comments -> [PlayDiffusion – Next-Generation AI Voice Inpainting Technology](https://playdiffusion.com)<!-- HN:44170822:end --><!-- HN:44170600:start -->
-* [44170600](https://news.social-protocols.org/stats?id=44170600) #20 14 points 0 comments -> [Making Magic with MCP: From Data Retrieval to Real Analysis and Insights](https://jellyfish.co/blog/how-ably-makes-magic-with-jellyfishs-mcp/)<!-- HN:44170600:end --><!-- HN:44168705:start -->
-* [44168705](https://news.social-protocols.org/stats?id=44168705) #26 19 points 6 comments -> [What Is "Seeing" in Astrophotography? The Science Behind Atmospheric Turbulence](https://astroimagery.com/astronomy/what-does-seeing-mean-in-astrophotography/)<!-- HN:44168705:end --><!-- HN:44169314:start -->
-* [44169314](https://news.social-protocols.org/stats?id=44169314) #20 242 points 5 comments -> [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)<!-- HN:44169314:end --><!-- HN:44174266:start -->
-* [44174266](https://news.social-protocols.org/stats?id=44174266) #20 3 points 0 comments -> [How we wrap external C and C++ libraries in Rust](https://www.evolvebenchmark.com/blog-posts/how-we-wrap-external-c-and-cpp-libraries-in-rust)<!-- HN:44174266:end --><!-- HN:44175255:start -->
-* [44175255](https://news.social-protocols.org/stats?id=44175255) #21 4 points 0 comments -> [Claude Pro users now have Research and Integrations](https://twitter.com/AnthropicAI/status/1929950252376998139)<!-- HN:44175255:end -->
 #### **Wednesday, June 4, 2025**
 <!-- HN:44175940:start -->
 * [44175940](https://news.social-protocols.org/stats?id=44175940) #25 110 points 18 comments -> [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)<!-- HN:44175940:end --><!-- HN:44177860:start -->
