@@ -133,6 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44229005](https://news.social-protocols.org/stats?id=44229005) #28 4 points 1 comments -> [Why Tesla's full self-driving is a scam](https://www.carsandhorsepower.com/featured/musk-promised-robotaxis-but-tesla-s-fsd-can-t-even-turn-left)<!-- HN:44229005:end --><!-- HN:44229306:start -->
 * [44229306](https://news.social-protocols.org/stats?id=44229306) #29 10 points 3 comments -> [Apple: AI suffers "complete accuracy collapse" in face of complex problems](https://www.theguardian.com/technology/artificialintelligenceai)<!-- HN:44229306:end -->
 #### **Tuesday, June 10, 2025**
-<!-- HN:44230512:start -->
-* [44230512](https://news.social-protocols.org/stats?id=44230512) #8 14 points 7 comments -> [The Posse Comitatus Act Explained](https://www.brennancenter.org/our-work/research-reports/posse-comitatus-act-explained)<!-- HN:44230512:end --><!-- HN:44229778:start -->
+<!-- HN:44229778:start -->
 * [44229778](https://news.social-protocols.org/stats?id=44229778) #28 256 points 144 comments -> [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)<!-- HN:44229778:end -->
