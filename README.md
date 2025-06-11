@@ -128,5 +128,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44240247](https://news.social-protocols.org/stats?id=44240247) #26 4 points 0 comments -> [Database Sharding: How does it work and do you need it?](https://www.datacamp.com/blog/database-sharding)<!-- HN:44240247:end -->
 #### **Wednesday, June 11, 2025**
 <!-- HN:44244340:start -->
-* [44244340](https://news.social-protocols.org/stats?id=44244340) #11 36 points 29 comments -> [What MS-DOS Can Do That Linux Can't](http://webarchive.me/geocities/SiliconValley/2072/dosvslnx.htm)<!-- HN:44244340:end --><!-- HN:44245731:start -->
-* [44245731](https://news.social-protocols.org/stats?id=44245731) #15 45 points 24 comments -> [Steve Jobs would have fired everyone](https://twitter.com/greggertruck/status/1932173476879888556)<!-- HN:44245731:end -->
+* [44244340](https://news.social-protocols.org/stats?id=44244340) #11 36 points 29 comments -> [What MS-DOS Can Do That Linux Can't](http://webarchive.me/geocities/SiliconValley/2072/dosvslnx.htm)<!-- HN:44244340:end -->
