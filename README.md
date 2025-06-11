@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44238532](https://news.social-protocols.org/stats?id=44238532) #26 4 points 1 comments -> [Gnome infrastructure is now sponsored by AWS](https://foundation.gnome.org/2025/06/10/gnome-has-a-new-infrastructure-partner-welcome-aws/)<!-- HN:44238532:end --><!-- HN:44238556:start -->
 * [44238556](https://news.social-protocols.org/stats?id=44238556) #28 4 points 1 comments -> [Google's AI search features are killing traffic to publishers](https://techcrunch.com/2025/06/10/googles-ai-overviews-are-killing-traffic-for-publishers/)<!-- HN:44238556:end --><!-- HN:44240247:start -->
 * [44240247](https://news.social-protocols.org/stats?id=44240247) #26 4 points 0 comments -> [Database Sharding: How does it work and do you need it?](https://www.datacamp.com/blog/database-sharding)<!-- HN:44240247:end -->
+#### **Wednesday, June 11, 2025**
+<!-- HN:44244340:start -->
+* [44244340](https://news.social-protocols.org/stats?id=44244340) #11 36 points 29 comments -> [What MS-DOS Can Do That Linux Can't](http://webarchive.me/geocities/SiliconValley/2072/dosvslnx.htm)<!-- HN:44244340:end -->
