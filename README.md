@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, June 4, 2025**
-<!-- HN:44175940:start -->
-* [44175940](https://news.social-protocols.org/stats?id=44175940) #25 110 points 18 comments -> [Meta pauses mobile port tracking tech on Android after researchers cry foul](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)<!-- HN:44175940:end --><!-- HN:44177860:start -->
-* [44177860](https://news.social-protocols.org/stats?id=44177860) #19 7 points 1 comments -> [Tiananmen Square Massacre – Facts, Fiction and Propaganda](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/)<!-- HN:44177860:end --><!-- HN:44178147:start -->
-* [44178147](https://news.social-protocols.org/stats?id=44178147) #7 30 points 42 comments -> [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)<!-- HN:44178147:end --><!-- HN:44179057:start -->
-* [44179057](https://news.social-protocols.org/stats?id=44179057) #6 4 points 0 comments -> [Show HN: I built an AI girlfriend – no back end required](https://github.com/vlgithub17/skapi-love-chatbot)<!-- HN:44179057:end --><!-- HN:44179710:start -->
-* [44179710](https://news.social-protocols.org/stats?id=44179710) #6 5 points 0 comments -> [What Doge Didn't Do](https://www.eatingpolicy.com/p/what-doge-didnt-do)<!-- HN:44179710:end --><!-- HN:44178877:start -->
-* [44178877](https://news.social-protocols.org/stats?id=44178877) #12 11 points 0 comments -> [Connect Claude to your own apps](https://www.aluxian.com/connect-claude-to-your-own-apps/)<!-- HN:44178877:end --><!-- HN:44180110:start -->
-* [44180110](https://news.social-protocols.org/stats?id=44180110) #25 5 points 0 comments -> [FEMA Is Not Prepared](https://www.theatlantic.com/newsletters/archive/2025/06/fema-preparation-hurricane-season-richardson/683025/)<!-- HN:44180110:end --><!-- HN:44180772:start -->
-* [44180772](https://news.social-protocols.org/stats?id=44180772) #6 6 points 3 comments -> [What Is Post-Fascism?](https://www.jhiblog.org/2025/06/04/what-is-post-fascism/)<!-- HN:44180772:end --><!-- HN:44180607:start -->
-* [44180607](https://news.social-protocols.org/stats?id=44180607) #5 7 points 4 comments -> [Globally Based – all-in-one platform for travel management](https://globallybased.com)<!-- HN:44180607:end --><!-- HN:44181449:start -->
-* [44181449](https://news.social-protocols.org/stats?id=44181449) #3 20 points 12 comments -> [Against "Against Life Extension"](https://www.alexkesin.com/p/contra-fukuyama-on-against-life-extension)<!-- HN:44181449:end --><!-- HN:44182297:start -->
-* [44182297](https://news.social-protocols.org/stats?id=44182297) #23 8 points 0 comments -> [Haribo recalls sweets in the Netherlands after traces of cannabis found](https://www.theguardian.com/world/2025/may/29/haribo-recalls-sweets-in-the-netherlands-after-traces-of-cannabis-found)<!-- HN:44182297:end --><!-- HN:44182371:start -->
-* [44182371](https://news.social-protocols.org/stats?id=44182371) #6 6 points 0 comments -> [AI Devs are the new "Campfire Guitarist"](https://www.funkaey.com/blog/AI-Devs-are-the-new-campfire-guitarists)<!-- HN:44182371:end --><!-- HN:44182275:start -->
-* [44182275](https://news.social-protocols.org/stats?id=44182275) #22 10 points 13 comments -> [Teenage Engineering lets you pick what you want to pay for an OP-1 Field](https://teenage.engineering/)<!-- HN:44182275:end --><!-- HN:44184011:start -->
-* [44184011](https://news.social-protocols.org/stats?id=44184011) #30 7 points 0 comments -> [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)<!-- HN:44184011:end --><!-- HN:44185841:start -->
-* [44185841](https://news.social-protocols.org/stats?id=44185841) #10 14 points 25 comments -> [One thing Tesla and Comma.ai overlooked in self-driving](https://deepdream.substack.com/p/one-thing-tesla-and-commaai-overlooked)<!-- HN:44185841:end -->
 #### **Thursday, June 5, 2025**
 <!-- HN:44186891:start -->
 * [44186891](https://news.social-protocols.org/stats?id=44186891) #25 14 points 0 comments -> [Court denies Apple appeal in Epic Games case, keeping App Store changes in place](https://www.cnbc.com/2025/06/04/apple-appeal-epic-games-app-store.html)<!-- HN:44186891:end --><!-- HN:44187062:start -->
