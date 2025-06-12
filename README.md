@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, June 12, 2025**
 <!-- HN:44253533:start -->
 * [44253533](https://news.social-protocols.org/stats?id=44253533) #30 7 points 1 comments -> [Zuckerberg created the saddest place on the internet with Meta AI's public feed](https://www.businessinsider.com/mark-zuckerberg-meta-ai-chatbot-discover-feed-depressing-why-2025-6)<!-- HN:44253533:end --><!-- HN:44253807:start -->
-* [44253807](https://news.social-protocols.org/stats?id=44253807) #29 7 points 0 comments -> [Polystyrene nanoplastics disrupt the intestinal microenvironment](https://www.nature.com/articles/s41467-025-59884-y)<!-- HN:44253807:end -->
+* [44253807](https://news.social-protocols.org/stats?id=44253807) #29 7 points 0 comments -> [Polystyrene nanoplastics disrupt the intestinal microenvironment](https://www.nature.com/articles/s41467-025-59884-y)<!-- HN:44253807:end --><!-- HN:44256242:start -->
+* [44256242](https://news.social-protocols.org/stats?id=44256242) #12 23 points 10 comments -> [First Boeing 787 Dreamliner Crash](https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad)<!-- HN:44256242:end -->
