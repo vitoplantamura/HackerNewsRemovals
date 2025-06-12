@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44247292](https://news.social-protocols.org/stats?id=44247292) #12 13 points 6 comments -> [Rewriting Unix Philosophy for the Post-AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era)<!-- HN:44247292:end --><!-- HN:44249932:start -->
 * [44249932](https://news.social-protocols.org/stats?id=44249932) #27 12 points 2 comments -> [Fervo Energy Drills 15,000', 520 F Geothermal Well in 16 Drilling Days](https://www.businesswire.com/news/home/20250610223846/en/Fervo-Energy-Drills-15000-FT-500F-Geothermal-Well-Pushing-the-Envelope-for-EGS-Deployment)<!-- HN:44249932:end --><!-- HN:44217776:start -->
 * [44217776](https://news.social-protocols.org/stats?id=44217776) #18 6 points 0 comments -> [Struggle for Monarchy on the U.S.-Mexican Border](http://madmonarchist.blogspot.com/2013/02/struggle-for-monarchy-on-us-mexican.html)<!-- HN:44217776:end -->
+#### **Thursday, June 12, 2025**
+<!-- HN:44253533:start -->
+* [44253533](https://news.social-protocols.org/stats?id=44253533) #30 7 points 1 comments -> [Zuckerberg created the saddest place on the internet with Meta AI's public feed](https://www.businessinsider.com/mark-zuckerberg-meta-ai-chatbot-discover-feed-depressing-why-2025-6)<!-- HN:44253533:end -->
