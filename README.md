@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44263460](https://news.social-protocols.org/stats?id=44263460) #23 4 points 1 comments -> [A Primer on US Healthcare](https://www.generativevalue.com/p/a-primer-on-us-healthcare)<!-- HN:44263460:end -->
 #### **Friday, June 13, 2025**
 <!-- HN:44261577:start -->
-* [44261577](https://news.social-protocols.org/stats?id=44261577) #18 -> [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)<!-- HN:44261577:end -->
+* [44261577](https://news.social-protocols.org/stats?id=44261577) #18 -> [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)<!-- HN:44261577:end --><!-- HN:44264529:start -->
+* [44264529](https://news.social-protocols.org/stats?id=44264529) #24 3 points 1 comments -> [Vibe Coding Is Coming for Engineering Jobs](https://www.wired.com/story/vibe-coding-engineering-apocalypse/)<!-- HN:44264529:end -->
