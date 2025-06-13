@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, June 6, 2025**<!-- HN:44198049:start -->
-* [44198049](https://news.social-protocols.org/stats?id=44198049) #26 17 points 6 comments -> [Switch 2 rooted on day 1](https://bsky.app/profile/retr0.id/post/3lqtwrndzf22w)<!-- HN:44198049:end --><!-- HN:44198116:start -->
-* [44198116](https://news.social-protocols.org/stats?id=44198116) #19 16 points 4 comments -> [Twenty Years of TiddlyWiki (2024)](https://tiddlywiki.com/#History%20of%20TiddlyWiki:HelloThere%20%5B%5BQuick%20Start%5D%5D%20%5B%5BFind%20Out%20More%5D%5D%20%5B%5BHistory%20of%20TiddlyWiki%5D%5D%20%5B%5BTiddlyWiki%20on%20the%20Web%5D%5D%20%5B%5BTestimonials%20and%20Reviews%5D%5D%20GettingStarted%20Community)<!-- HN:44198116:end --><!-- HN:44199502:start -->
-* [44199502](https://news.social-protocols.org/stats?id=44199502) #5 36 points 25 comments -> [The X.Org Server just got forked (announcing XLibre)](https://github.com/X11Libre/xserver/commits/xlibre/prepare/)<!-- HN:44199502:end --><!-- HN:44199662:start -->
-* [44199662](https://news.social-protocols.org/stats?id=44199662) #1 34 points 1 comments -> [Fuzzer Blind Spots (Meet Jepsen)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)<!-- HN:44199662:end --><!-- HN:44200189:start -->
-* [44200189](https://news.social-protocols.org/stats?id=44200189) #27 3 points 0 comments -> [MBA Harvard Feels Undervalued](https://old.reddit.com/r/MBA/comments/1l3dscm/comment/mw02rnr/)<!-- HN:44200189:end --><!-- HN:44200602:start -->
-* [44200602](https://news.social-protocols.org/stats?id=44200602) #2 6 points 1 comments -> [Teenage Engineering lets you pick the price for their OP-1f](https://teenage.engineering/)<!-- HN:44200602:end --><!-- HN:44201658:start -->
-* [44201658](https://news.social-protocols.org/stats?id=44201658) #5 7 points 5 comments -> [I built a retro hacker game. It's free. Feedback?](https://blacklight.dev/)<!-- HN:44201658:end --><!-- HN:44201829:start -->
-* [44201829](https://news.social-protocols.org/stats?id=44201829) #5 83 points 50 comments -> [Why Bell Labs Worked](https://links.fabiomanganiello.com/share/683ee70d0409e6.66273547)<!-- HN:44201829:end --><!-- HN:44205207:start -->
-* [44205207](https://news.social-protocols.org/stats?id=44205207) #27 9 points 1 comments -> [600 Miles from the North Pole on a boat. My Starlink Mini is at 171 mbit/s](https://old.reddit.com/r/Starlink/comments/1l0im21/currently_about_600_miles_from_the_north_pole_on/)<!-- HN:44205207:end --><!-- HN:44205976:start -->
-* [44205976](https://news.social-protocols.org/stats?id=44205976) #7 7 points 0 comments -> [Higher education is shockingly right-wing](https://drafts.interfluidity.com/2023/03/01/higher-education-is-shockingly-right-wing/index.html)<!-- HN:44205976:end -->
 #### **Saturday, June 7, 2025**
 <!-- HN:44204162:start -->
 * [44204162](https://news.social-protocols.org/stats?id=44204162) #24 16 points 3 comments -> [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)<!-- HN:44204162:end --><!-- HN:44206007:start -->
