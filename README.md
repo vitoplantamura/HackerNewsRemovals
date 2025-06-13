@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, June 13, 2025**
 <!-- HN:44261577:start -->
 * [44261577](https://news.social-protocols.org/stats?id=44261577) #18 -> [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)<!-- HN:44261577:end --><!-- HN:44264529:start -->
-* [44264529](https://news.social-protocols.org/stats?id=44264529) #24 3 points 1 comments -> [Vibe Coding Is Coming for Engineering Jobs](https://www.wired.com/story/vibe-coding-engineering-apocalypse/)<!-- HN:44264529:end -->
+* [44264529](https://news.social-protocols.org/stats?id=44264529) #24 3 points 1 comments -> [Vibe Coding Is Coming for Engineering Jobs](https://www.wired.com/story/vibe-coding-engineering-apocalypse/)<!-- HN:44264529:end --><!-- HN:44267060:start -->
+* [44267060](https://news.social-protocols.org/stats?id=44267060) #8 28 points 40 comments -> [Andrew Ng says vibe coding is a bad name for a real and exhausting job](https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6)<!-- HN:44267060:end -->
