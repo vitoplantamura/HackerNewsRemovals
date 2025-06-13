@@ -133,3 +133,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44260717](https://news.social-protocols.org/stats?id=44260717) #24 16 points 3 comments -> [Twitch Is Down](https://status.twitch.com)<!-- HN:44260717:end --><!-- HN:44262383:start -->
 * [44262383](https://news.social-protocols.org/stats?id=44262383) #5 22 points 14 comments -> [Cursor goes rogue in YOLO mode, deletes itself and everything else](https://www.machine.news/it-felt-like-ultron-took-over-cursor-goes-rogue-in-yolo-mode-deletes-itself-and-everything-else/)<!-- HN:44262383:end --><!-- HN:44263460:start -->
 * [44263460](https://news.social-protocols.org/stats?id=44263460) #23 4 points 1 comments -> [A Primer on US Healthcare](https://www.generativevalue.com/p/a-primer-on-us-healthcare)<!-- HN:44263460:end -->
+#### **Friday, June 13, 2025**
+<!-- HN:44261577:start -->
+* [44261577](https://news.social-protocols.org/stats?id=44261577) #18 -> [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)<!-- HN:44261577:end -->
