@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, June 7, 2025**
-<!-- HN:44204162:start -->
-* [44204162](https://news.social-protocols.org/stats?id=44204162) #24 16 points 3 comments -> [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)<!-- HN:44204162:end --><!-- HN:44206007:start -->
-* [44206007](https://news.social-protocols.org/stats?id=44206007) #17 16 points 12 comments -> [Dear High Schoolers, Time Is Precious](https://byronsharman.com/blog/dear-high-schoolers)<!-- HN:44206007:end --><!-- HN:44203444:start -->
-* [44203444](https://news.social-protocols.org/stats?id=44203444) #30 61 points 42 comments -> [A leaderless NASA faces its biggest-ever cuts](https://www.economist.com/science-and-technology/2025/06/04/a-leaderless-nasa-faces-its-biggest-ever-cuts)<!-- HN:44203444:end --><!-- HN:44207442:start -->
-* [44207442](https://news.social-protocols.org/stats?id=44207442) #22 56 points 11 comments -> [Tesla AI VP Milan Kovac Resigns After 9 Years Leading FSD and Optimus Projects](https://gearmusk.com/2025/06/07/tesla-ai-vp-milan-kovac-resigns/)<!-- HN:44207442:end --><!-- HN:44207676:start -->
-* [44207676](https://news.social-protocols.org/stats?id=44207676) #3 -> [I built a knowledge system that gives AI perfect codebase memory](https://github.com/Muvon/octocode)<!-- HN:44207676:end --><!-- HN:44207304:start -->
-* [44207304](https://news.social-protocols.org/stats?id=44207304) #27 23 points 34 comments -> [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7)<!-- HN:44207304:end --><!-- HN:44209883:start -->
-* [44209883](https://news.social-protocols.org/stats?id=44209883) #21 6 points 1 comments -> [The Spectacle of "Building"](https://fakepixels.substack.com/p/the-spectacle-of-building)<!-- HN:44209883:end --><!-- HN:44212133:start -->
-* [44212133](https://news.social-protocols.org/stats?id=44212133) #22 4 points 1 comments -> [Bill Atkinson Dies from Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)<!-- HN:44212133:end --><!-- HN:44211933:start -->
-* [44211933](https://news.social-protocols.org/stats?id=44211933) #24 7 points 3 comments -> [Europe's Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?](https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/)<!-- HN:44211933:end --><!-- HN:44212532:start -->
-* [44212532](https://news.social-protocols.org/stats?id=44212532) #10 20 points 9 comments -> [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)<!-- HN:44212532:end -->
 #### **Sunday, June 8, 2025**
 <!-- HN:44213363:start -->
 * [44213363](https://news.social-protocols.org/stats?id=44213363) #5 15 points 7 comments -> [Don't Panic, but Douglas Adams Predicted a Lot of This](https://krisstgabriel.substack.com/p/dont-panic-but-douglas-adams-predicted)<!-- HN:44213363:end --><!-- HN:44213418:start -->
