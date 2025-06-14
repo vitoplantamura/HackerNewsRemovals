@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44271191](https://news.social-protocols.org/stats?id=44271191) #4 57 points 1 comments -> [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)<!-- HN:44271191:end -->
 #### **Saturday, June 14, 2025**<!-- HN:44208938:start -->
 * [44208938](https://news.social-protocols.org/stats?id=44208938) #25 94 points 43 comments -> [The concurrency trap: How an atomic counter stalled a pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)<!-- HN:44208938:end --><!-- HN:44252409:start -->
-* [44252409](https://news.social-protocols.org/stats?id=44252409) #23 27 points 23 comments -> [AI Isn't Magic, It's Maths](https://zerofluff.substack.com/p/ai-isnt-magic-its-maths)<!-- HN:44252409:end -->
+* [44252409](https://news.social-protocols.org/stats?id=44252409) #23 27 points 23 comments -> [AI Isn't Magic, It's Maths](https://zerofluff.substack.com/p/ai-isnt-magic-its-maths)<!-- HN:44252409:end --><!-- HN:44273067:start -->
+* [44273067](https://news.social-protocols.org/stats?id=44273067) #29 72 points 2 comments -> [U.S. Army bringing in big tech executives as lieutenant colonels](https://taskandpurpose.com/military-life/army-reserve-lt-col-tech-execs/)<!-- HN:44273067:end -->
