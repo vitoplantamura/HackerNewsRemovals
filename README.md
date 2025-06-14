@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44270660](https://news.social-protocols.org/stats?id=44270660) #16 11 points 6 comments -> [I'm the CTO of Palantir. Today I Join the Army](https://www.thefp.com/p/im-the-cto-of-palantir-today-i-join)<!-- HN:44270660:end --><!-- HN:44271712:start -->
 * [44271712](https://news.social-protocols.org/stats?id=44271712) #26 6 points 0 comments -> [Silicon Valley tech execs are joining the US Army Reserve](https://techcrunch.com/2025/06/13/silicon-valley-tech-execs-are-joining-the-us-army-reserve/)<!-- HN:44271712:end --><!-- HN:44271191:start -->
 * [44271191](https://news.social-protocols.org/stats?id=44271191) #4 57 points 1 comments -> [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)<!-- HN:44271191:end -->
+#### **Saturday, June 14, 2025**
+<!-- HN:44252409:start -->
+* [44252409](https://news.social-protocols.org/stats?id=44252409) #2 12 points 3 comments -> [AI Isn't Magic, It's Maths](https://zerofluff.substack.com/p/ai-isnt-magic-its-maths)<!-- HN:44252409:end -->
