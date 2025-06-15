@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44235612](https://news.social-protocols.org/stats?id=44235612) #22 152 points 268 comments -> [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)<!-- HN:44235612:end -->
 #### **Sunday, June 15, 2025**
 <!-- HN:44279325:start -->
-* [44279325](https://news.social-protocols.org/stats?id=44279325) #5 27 points 11 comments -> [I used ChatGPT to learn programming from zero and built a video generation SaaS](https://www.vidmakerpro.com/)<!-- HN:44279325:end -->
+* [44279325](https://news.social-protocols.org/stats?id=44279325) #5 27 points 11 comments -> [I used ChatGPT to learn programming from zero and built a video generation SaaS](https://www.vidmakerpro.com/)<!-- HN:44279325:end --><!-- HN:44280588:start -->
+* [44280588](https://news.social-protocols.org/stats?id=44280588) #25 15 points 1 comments -> [The Tech Plutocrats Dreaming of a Right-Wing San Francisco (2024)](https://newrepublic.com/article/178675/garry-tan-tech-san-francisco)<!-- HN:44280588:end -->
