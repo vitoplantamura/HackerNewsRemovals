@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44278279](https://news.social-protocols.org/stats?id=44278279) #20 3 points 0 comments -> [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)<!-- HN:44278279:end --><!-- HN:44278608:start -->
 * [44278608](https://news.social-protocols.org/stats?id=44278608) #21 5 points 0 comments -> [Why AI and SQL Go Together Like Peanut Butter and Jelly](https://thenewstack.io/why-ai-and-sql-go-together-like-peanut-butter-and-jelly/)<!-- HN:44278608:end --><!-- HN:44235612:start -->
 * [44235612](https://news.social-protocols.org/stats?id=44235612) #22 152 points 268 comments -> [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)<!-- HN:44235612:end -->
+#### **Sunday, June 15, 2025**
+<!-- HN:44279325:start -->
+* [44279325](https://news.social-protocols.org/stats?id=44279325) #5 27 points 11 comments -> [I used ChatGPT to learn programming from zero and built a video generation SaaS](https://www.vidmakerpro.com/)<!-- HN:44279325:end -->
