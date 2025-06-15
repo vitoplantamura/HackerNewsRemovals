@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 15, 2025**
 <!-- HN:44279325:start -->
 * [44279325](https://news.social-protocols.org/stats?id=44279325) #5 27 points 11 comments -> [I used ChatGPT to learn programming from zero and built a video generation SaaS](https://www.vidmakerpro.com/)<!-- HN:44279325:end --><!-- HN:44280588:start -->
-* [44280588](https://news.social-protocols.org/stats?id=44280588) #25 15 points 1 comments -> [The Tech Plutocrats Dreaming of a Right-Wing San Francisco (2024)](https://newrepublic.com/article/178675/garry-tan-tech-san-francisco)<!-- HN:44280588:end -->
+* [44280588](https://news.social-protocols.org/stats?id=44280588) #25 15 points 1 comments -> [The Tech Plutocrats Dreaming of a Right-Wing San Francisco (2024)](https://newrepublic.com/article/178675/garry-tan-tech-san-francisco)<!-- HN:44280588:end --><!-- HN:44277764:start -->
+* [44277764](https://news.social-protocols.org/stats?id=44277764) #16 36 points 6 comments -> [Infineon security microcontroller flaw enabled extraction of TPM secret keys](https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers)<!-- HN:44277764:end -->
