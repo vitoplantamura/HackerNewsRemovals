@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, June 8, 2025**
-<!-- HN:44213363:start -->
-* [44213363](https://news.social-protocols.org/stats?id=44213363) #5 15 points 7 comments -> [Don't Panic, but Douglas Adams Predicted a Lot of This](https://krisstgabriel.substack.com/p/dont-panic-but-douglas-adams-predicted)<!-- HN:44213363:end --><!-- HN:44213418:start -->
-* [44213418](https://news.social-protocols.org/stats?id=44213418) #4 6 points 3 comments -> [ChatGPT AI Can Be Fooled to Reveal Secrets](https://texttoslides.ai/blog/chatgpt-ai-reveals-secrets)<!-- HN:44213418:end --><!-- HN:44214889:start -->
-* [44214889](https://news.social-protocols.org/stats?id=44214889) #3 65 points 34 comments -> [Re: My AI skeptic friends are all nuts](https://skarlso.github.io/2025/06/07/re-my-ai-skeptic-friends-are-all-nuts/)<!-- HN:44214889:end --><!-- HN:44214386:start -->
-* [44214386](https://news.social-protocols.org/stats?id=44214386) #17 48 points 18 comments -> [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to)<!-- HN:44214386:end --><!-- HN:44214311:start -->
-* [44214311](https://news.social-protocols.org/stats?id=44214311) #18 178 points 41 comments -> [Louis Rossmann: We've started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)<!-- HN:44214311:end --><!-- HN:44215273:start -->
-* [44215273](https://news.social-protocols.org/stats?id=44215273) #2 112 points 5 comments -> [The Illusion of Thinking: Strengths and Limitations of Reasoning Models](https://machinelearning.apple.com/research/illusion-of-thinking)<!-- HN:44215273:end --><!-- HN:44218107:start -->
-* [44218107](https://news.social-protocols.org/stats?id=44218107) #19 9 points 4 comments -> [I was enjoying a midnight swim. My girlfriend kissed me and the nightmare began](https://www.theguardian.com/lifeandstyle/2025/jun/08/i-was-enjoying-a-midnight-swim-then-my-girlfriend-kissed-me-and-the-nightmare-began)<!-- HN:44218107:end --><!-- HN:44218369:start -->
-* [44218369](https://news.social-protocols.org/stats?id=44218369) #17 21 points 13 comments -> [College Students Are Using 'No Contact Orders' to Block Each Other in Real Life](https://www.wsj.com/us-news/education/college-students-are-using-no-contact-orders-to-block-each-other-in-real-life-4e3272b1)<!-- HN:44218369:end --><!-- HN:44218668:start -->
-* [44218668](https://news.social-protocols.org/stats?id=44218668) #19 4 points 0 comments -> [The Dogs of Chernobyl Are Experiencing Rapid Evolution, Study Suggests](https://www.popularmechanics.com/science/animals/a64969223/chernobyl-dogs-dna-rapid-evolution/)<!-- HN:44218668:end --><!-- HN:44219189:start -->
-* [44219189](https://news.social-protocols.org/stats?id=44219189) #20 4 points 0 comments -> [What next after vibe coding](https://mastodon.social/@nixCraft/114649024218795319)<!-- HN:44219189:end --><!-- HN:44217707:start -->
-* [44217707](https://news.social-protocols.org/stats?id=44217707) #24 27 points 7 comments -> [Futa – A functionally useless AI terminal assistant](https://github.com/nail-e/futa)<!-- HN:44217707:end --><!-- HN:44219772:start -->
-* [44219772](https://news.social-protocols.org/stats?id=44219772) #4 6 points 0 comments -> [Eight US states seek to outlaw chemtrails – even though they aren't real](https://www.theguardian.com/us-news/2025/jun/08/chemtrails-us-states-legislation)<!-- HN:44219772:end --><!-- HN:44220076:start -->
-* [44220076](https://news.social-protocols.org/stats?id=44220076) #22 4 points 3 comments -> [America's infatuation with boy geniuses and 'Great Men' is ruining us](https://www.theguardian.com/us-news/ng-interactive/2025/jun/08/boy-geniuses-great-men-trump)<!-- HN:44220076:end -->
 #### **Monday, June 9, 2025**
 <!-- HN:44220349:start -->
 * [44220349](https://news.social-protocols.org/stats?id=44220349) #3 7 points 0 comments -> [It's OK not to be fat](https://www.noahpinion.blog/p/its-ok-not-to-be-fat)<!-- HN:44220349:end --><!-- HN:44220577:start -->
