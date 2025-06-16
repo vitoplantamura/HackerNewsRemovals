@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 16, 2025**
 <!-- HN:44285503:start -->
 * [44285503](https://news.social-protocols.org/stats?id=44285503) #4 14 points 7 comments -> [Coding agents have crossed a chasm](https://blog.singleton.io/posts/2025-06-14-coding-agents-cross-a-chasm/)<!-- HN:44285503:end --><!-- HN:44286078:start -->
-* [44286078](https://news.social-protocols.org/stats?id=44286078) #1 31 points 19 comments -> [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)<!-- HN:44286078:end -->
+* [44286078](https://news.social-protocols.org/stats?id=44286078) #1 31 points 19 comments -> [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)<!-- HN:44286078:end --><!-- HN:44264362:start -->
+* [44264362](https://news.social-protocols.org/stats?id=44264362) #3 20 points 6 comments -> [Being a Force Multiplier](https://substack.com/home/post/p-165651243)<!-- HN:44264362:end -->
