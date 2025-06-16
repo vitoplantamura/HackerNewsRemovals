@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44284322](https://news.social-protocols.org/stats?id=44284322) #30 3 points 0 comments -> [Brain implant breakthrough helps ALS man talk – and sing – again](https://newatlas.com/medical-tech/brain-implant-bci-als-talk-sing/)<!-- HN:44284322:end --><!-- HN:44284261:start -->
 * [44284261](https://news.social-protocols.org/stats?id=44284261) #25 17 points 5 comments -> [Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift](https://www.infoq.com/news/2025/06/apple-swift-migration/)<!-- HN:44284261:end --><!-- HN:44285116:start -->
 * [44285116](https://news.social-protocols.org/stats?id=44285116) #24 29 points 3 comments -> ['No Kings' Protests Across the United States](https://www.nytimes.com/2025/06/14/us/protests-cities-no-kings.html)<!-- HN:44285116:end -->
+#### **Monday, June 16, 2025**
+<!-- HN:44285503:start -->
+* [44285503](https://news.social-protocols.org/stats?id=44285503) #4 14 points 7 comments -> [Coding agents have crossed a chasm](https://blog.singleton.io/posts/2025-06-14-coding-agents-cross-a-chasm/)<!-- HN:44285503:end -->
