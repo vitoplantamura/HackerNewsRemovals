@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 9, 2025**
-<!-- HN:44220349:start -->
-* [44220349](https://news.social-protocols.org/stats?id=44220349) #3 7 points 0 comments -> [It's OK not to be fat](https://www.noahpinion.blog/p/its-ok-not-to-be-fat)<!-- HN:44220349:end --><!-- HN:44220577:start -->
-* [44220577](https://news.social-protocols.org/stats?id=44220577) #5 16 points 0 comments -> [Los Angeles Stands Up to ICE: A Firsthand Report on the Clashes of June 6](https://crimethinc.com/2025/06/08/los-angeles-stands-up-to-ice-a-firsthand-report-on-the-clashes-of-june-6)<!-- HN:44220577:end --><!-- HN:44220997:start -->
-* [44220997](https://news.social-protocols.org/stats?id=44220997) #18 13 points 9 comments -> [One Man Armies](https://quarter--mile.com/One-Man-Armies)<!-- HN:44220997:end --><!-- HN:44222609:start -->
-* [44222609](https://news.social-protocols.org/stats?id=44222609) #1 10 points 2 comments -> [Whether having a baby ruins your life or not](https://goodanger.substack.com/p/on-whether-having-a-baby-ruins-your)<!-- HN:44222609:end --><!-- HN:44222839:start -->
-* [44222839](https://news.social-protocols.org/stats?id=44222839) #3 6 points 1 comments -> [We came to be ruled by Death Eaters (2014)](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)<!-- HN:44222839:end --><!-- HN:44211273:start -->
-* [44211273](https://news.social-protocols.org/stats?id=44211273) #21 469 points 217 comments -> [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)<!-- HN:44211273:end --><!-- HN:44222584:start -->
-* [44222584](https://news.social-protocols.org/stats?id=44222584) #27 9 points 0 comments -> [Tunnel SSH Traffic over HTTPS](https://www.youtube.com/watch?v=AAjrZ6qGCm0)<!-- HN:44222584:end --><!-- HN:44225543:start -->
-* [44225543](https://news.social-protocols.org/stats?id=44225543) #6 11 points 4 comments -> [Vibe code isn't meant to be reviewed](https://monadical.com/posts/vibe-code-how-to-stay-in-control.html)<!-- HN:44225543:end --><!-- HN:44226131:start -->
-* [44226131](https://news.social-protocols.org/stats?id=44226131) #12 4 points 0 comments -> [Show HN: Alternative Open-Source Openrouter](https://llmgateway.io)<!-- HN:44226131:end --><!-- HN:44227314:start -->
-* [44227314](https://news.social-protocols.org/stats?id=44227314) #26 5 points 2 comments -> [YouTube will "protect free expression" by pulling back on content moderation](https://arstechnica.com/gadgets/2025/06/youtube-adopts-looser-moderation-policy-for-videos-about-elections-gender-and-more/)<!-- HN:44227314:end --><!-- HN:44228311:start -->
-* [44228311](https://news.social-protocols.org/stats?id=44228311) #16 8 points 8 comments -> [Universal Basic Income isn't about free money – it's about a freer life](https://medium.com/blog/universal-basic-income-isnt-about-free-money-it-s-about-a-freer-life-48dc2ea69f20)<!-- HN:44228311:end --><!-- HN:44229005:start -->
-* [44229005](https://news.social-protocols.org/stats?id=44229005) #28 4 points 1 comments -> [Why Tesla's full self-driving is a scam](https://www.carsandhorsepower.com/featured/musk-promised-robotaxis-but-tesla-s-fsd-can-t-even-turn-left)<!-- HN:44229005:end --><!-- HN:44229306:start -->
-* [44229306](https://news.social-protocols.org/stats?id=44229306) #29 10 points 3 comments -> [Apple: AI suffers "complete accuracy collapse" in face of complex problems](https://www.theguardian.com/technology/artificialintelligenceai)<!-- HN:44229306:end -->
 #### **Tuesday, June 10, 2025**
 <!-- HN:44229778:start -->
 * [44229778](https://news.social-protocols.org/stats?id=44229778) #28 256 points 144 comments -> [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)<!-- HN:44229778:end --><!-- HN:44232487:start -->
