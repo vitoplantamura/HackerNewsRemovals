@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, June 17, 2025**
 <!-- HN:44294299:start -->
 * [44294299](https://news.social-protocols.org/stats?id=44294299) #10 12 points 1 comments -> [Your Texas LLC Won't Protect You from Blue State Labor Laws](https://upcactus.com/blog/your-Texas-LLC-won-t-protect-you-from-Blue-State-Labor-Laws)<!-- HN:44294299:end --><!-- HN:44295977:start -->
-* [44295977](https://news.social-protocols.org/stats?id=44295977) #16 5 points 2 comments -> [She Won. They Didn't Just Change the Machines. They Rewired the Election](https://substack.com/inbox/post/165658733)<!-- HN:44295977:end -->
+* [44295977](https://news.social-protocols.org/stats?id=44295977) #16 5 points 2 comments -> [She Won. They Didn't Just Change the Machines. They Rewired the Election](https://substack.com/inbox/post/165658733)<!-- HN:44295977:end --><!-- HN:44296087:start -->
+* [44296087](https://news.social-protocols.org/stats?id=44296087) #4 24 points 1 comments -> [Defense Department signs OpenAI for $200M 'frontier AI' pilot project](https://www.theregister.com/2025/06/17/dod_openai_contract/)<!-- HN:44296087:end -->
