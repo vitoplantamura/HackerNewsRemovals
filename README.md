@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44291750](https://news.social-protocols.org/stats?id=44291750) #19 6 points 0 comments -> [The React-Killer Is Born](https://medium.com/@resti.guay/juris-object-first-web-development-a-new-paradigm-for-reactive-user-interfaces-721a5a734732)<!-- HN:44291750:end --><!-- HN:44290207:start -->
 * [44290207](https://news.social-protocols.org/stats?id=44290207) #25 18 points 0 comments -> [Show HN: Trieve CLI – Terminal-Based LLM Agent Loop with Search Tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)<!-- HN:44290207:end --><!-- HN:44291630:start -->
 * [44291630](https://news.social-protocols.org/stats?id=44291630) #28 126 points 181 comments -> [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)<!-- HN:44291630:end -->
+#### **Tuesday, June 17, 2025**
+<!-- HN:44294299:start -->
+* [44294299](https://news.social-protocols.org/stats?id=44294299) #10 12 points 1 comments -> [Your Texas LLC Won't Protect You from Blue State Labor Laws](https://upcactus.com/blog/your-Texas-LLC-won-t-protect-you-from-Blue-State-Labor-Laws)<!-- HN:44294299:end -->
