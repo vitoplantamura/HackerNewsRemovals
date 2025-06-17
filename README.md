@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, June 10, 2025**
-<!-- HN:44229778:start -->
-* [44229778](https://news.social-protocols.org/stats?id=44229778) #28 256 points 144 comments -> [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)<!-- HN:44229778:end --><!-- HN:44232487:start -->
-* [44232487](https://news.social-protocols.org/stats?id=44232487) #19 8 points 5 comments -> [macOS Tahoe 26 makes the Mac more capable, productive, and intelligent](https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/)<!-- HN:44232487:end --><!-- HN:44234189:start -->
-* [44234189](https://news.social-protocols.org/stats?id=44234189) #19 16 points 12 comments -> [How to not use AI to code for you](https://mandaputtra.id/posts/how-to-not-using-ai-to-code/)<!-- HN:44234189:end --><!-- HN:44234552:start -->
-* [44234552](https://news.social-protocols.org/stats?id=44234552) #3 170 points 84 comments -> [The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice](https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet)<!-- HN:44234552:end --><!-- HN:44235129:start -->
-* [44235129](https://news.social-protocols.org/stats?id=44235129) #22 8 points 0 comments -> [IBM to build first large-scale, error-corrected quantum computer by 2028](https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/)<!-- HN:44235129:end --><!-- HN:44236079:start -->
-* [44236079](https://news.social-protocols.org/stats?id=44236079) #22 3 points 0 comments -> [Building an Assembly Line for Origami Pigeons](https://hackaday.com/2025/06/09/building-an-assembly-line-for-origami-pigeons/)<!-- HN:44236079:end --><!-- HN:44238532:start -->
-* [44238532](https://news.social-protocols.org/stats?id=44238532) #26 4 points 1 comments -> [Gnome infrastructure is now sponsored by AWS](https://foundation.gnome.org/2025/06/10/gnome-has-a-new-infrastructure-partner-welcome-aws/)<!-- HN:44238532:end --><!-- HN:44238556:start -->
-* [44238556](https://news.social-protocols.org/stats?id=44238556) #28 4 points 1 comments -> [Google's AI search features are killing traffic to publishers](https://techcrunch.com/2025/06/10/googles-ai-overviews-are-killing-traffic-for-publishers/)<!-- HN:44238556:end --><!-- HN:44240247:start -->
-* [44240247](https://news.social-protocols.org/stats?id=44240247) #26 4 points 0 comments -> [Database Sharding: How does it work and do you need it?](https://www.datacamp.com/blog/database-sharding)<!-- HN:44240247:end -->
 #### **Wednesday, June 11, 2025**
 <!-- HN:44244340:start -->
 * [44244340](https://news.social-protocols.org/stats?id=44244340) #11 36 points 29 comments -> [What MS-DOS Can Do That Linux Can't](http://webarchive.me/geocities/SiliconValley/2072/dosvslnx.htm)<!-- HN:44244340:end --><!-- HN:44245731:start -->
