@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44301874](https://news.social-protocols.org/stats?id=44301874) #24 6 points 0 comments -> [Israel Built Its Case for War on New Intelligence. The U.S. Didn't Buy It](https://www.wsj.com/world/middle-east/israel-built-its-case-for-war-with-iran-on-new-intelligence-the-u-s-didnt-buy-it-55592e81)<!-- HN:44301874:end --><!-- HN:44302461:start -->
 * [44302461](https://news.social-protocols.org/stats?id=44302461) #15 -> [New York City mayoral candidate Brad Lander arrested at immigration court](https://www.theguardian.com/us-news/2025/jun/17/brad-lander-arrested-new-york-city-comptroller)<!-- HN:44302461:end --><!-- HN:44303929:start -->
 * [44303929](https://news.social-protocols.org/stats?id=44303929) #20 11 points 0 comments -> [Apple: Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-my/122756)<!-- HN:44303929:end -->
+#### **Wednesday, June 18, 2025**
+<!-- HN:44307257:start -->
+* [44307257](https://news.social-protocols.org/stats?id=44307257) #1 103 points 75 comments -> [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)<!-- HN:44307257:end -->
