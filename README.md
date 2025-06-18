@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44303929](https://news.social-protocols.org/stats?id=44303929) #20 11 points 0 comments -> [Apple: Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-my/122756)<!-- HN:44303929:end -->
 #### **Wednesday, June 18, 2025**
 <!-- HN:44307257:start -->
-* [44307257](https://news.social-protocols.org/stats?id=44307257) #1 103 points 75 comments -> [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)<!-- HN:44307257:end -->
+* [44307257](https://news.social-protocols.org/stats?id=44307257) #1 103 points 75 comments -> [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)<!-- HN:44307257:end --><!-- HN:44307057:start -->
+* [44307057](https://news.social-protocols.org/stats?id=44307057) #4 52 points 15 comments -> [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)<!-- HN:44307057:end -->
