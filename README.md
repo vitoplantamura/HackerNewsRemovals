@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, June 18, 2025**
 <!-- HN:44307257:start -->
 * [44307257](https://news.social-protocols.org/stats?id=44307257) #1 103 points 75 comments -> [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)<!-- HN:44307257:end --><!-- HN:44307057:start -->
-* [44307057](https://news.social-protocols.org/stats?id=44307057) #4 52 points 15 comments -> [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)<!-- HN:44307057:end -->
+* [44307057](https://news.social-protocols.org/stats?id=44307057) #4 52 points 15 comments -> [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)<!-- HN:44307057:end --><!-- HN:44308041:start -->
+* [44308041](https://news.social-protocols.org/stats?id=44308041) #30 9 points 4 comments -> [Iran is going offline to prevent purported Israeli cyberattacks](https://www.theverge.com/politics/688875/iran-cutting-off-internet-israel-war)<!-- HN:44308041:end -->
