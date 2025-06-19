@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, June 19, 2025**
 <!-- HN:44315409:start -->
 * [44315409](https://news.social-protocols.org/stats?id=44315409) #21 6 points 0 comments -> [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)<!-- HN:44315409:end --><!-- HN:44315400:start -->
-* [44315400](https://news.social-protocols.org/stats?id=44315400) #6 14 points 1 comments -> [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)<!-- HN:44315400:end -->
+* [44315400](https://news.social-protocols.org/stats?id=44315400) #6 14 points 1 comments -> [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)<!-- HN:44315400:end --><!-- HN:44317041:start -->
+* [44317041](https://news.social-protocols.org/stats?id=44317041) #7 12 points 10 comments -> [A Deep Dive into OpenAPI](https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi)<!-- HN:44317041:end -->
