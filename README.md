@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, June 12, 2025**
-<!-- HN:44253533:start -->
-* [44253533](https://news.social-protocols.org/stats?id=44253533) #30 7 points 1 comments -> [Zuckerberg created the saddest place on the internet with Meta AI's public feed](https://www.businessinsider.com/mark-zuckerberg-meta-ai-chatbot-discover-feed-depressing-why-2025-6)<!-- HN:44253533:end --><!-- HN:44253807:start -->
-* [44253807](https://news.social-protocols.org/stats?id=44253807) #29 7 points 0 comments -> [Polystyrene nanoplastics disrupt the intestinal microenvironment](https://www.nature.com/articles/s41467-025-59884-y)<!-- HN:44253807:end --><!-- HN:44256242:start -->
-* [44256242](https://news.social-protocols.org/stats?id=44256242) #12 23 points 10 comments -> [First Boeing 787 Dreamliner Crash](https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad)<!-- HN:44256242:end --><!-- HN:44256844:start -->
-* [44256844](https://news.social-protocols.org/stats?id=44256844) #11 6 points 1 comments -> [AI coding tools are like that helpful but untrustworthy friend, devs say](https://www.theregister.com/2025/06/12/devs_mostly_welcome_ai_coding/)<!-- HN:44256844:end --><!-- HN:44256169:start -->
-* [44256169](https://news.social-protocols.org/stats?id=44256169) #15 42 points 41 comments -> [Brazil's Supreme Court makes social media liable for user content](https://economictimes.indiatimes.com/tech/technology/brazils-supreme-court-justices-agree-to-make-social-media-companies-liable-for-user-content/articleshow/121791147.cms?from=mdr)<!-- HN:44256169:end --><!-- HN:44257796:start -->
-* [44257796](https://news.social-protocols.org/stats?id=44257796) #3 8 points 0 comments -> [The Mass Trauma of Porn](https://www.afterbabel.com/p/the-mass-trauma-of-porn)<!-- HN:44257796:end --><!-- HN:44258895:start -->
-* [44258895](https://news.social-protocols.org/stats?id=44258895) #11 7 points 0 comments -> [South Korea Lab Makes Bird Flu 100% Lethal in Mammals](https://virologyj.biomedcentral.com/articles/10.1186/s12985-025-02811-w)<!-- HN:44258895:end --><!-- HN:44259095:start -->
-* [44259095](https://news.social-protocols.org/stats?id=44259095) #3 11 points 4 comments -> [Your Job used to impress people. That era just ended](https://carmenvankerckhove.substack.com/p/your-job-used-to-impress-people-that)<!-- HN:44259095:end --><!-- HN:44258541:start -->
-* [44258541](https://news.social-protocols.org/stats?id=44258541) #21 18 points 17 comments -> [Becoming an AI-Native Engineer](https://rfitz.io/blog/becoming-ai-native-engineer/)<!-- HN:44258541:end --><!-- HN:44259001:start -->
-* [44259001](https://news.social-protocols.org/stats?id=44259001) #29 226 points 231 comments -> [Trump's NASA cuts would destroy decades of science and wipe out its future](https://www.latimes.com/business/story/2025-06-09/trumps-nasa-cuts-would-destroy-decades-of-science-and-wipe-out-its-future)<!-- HN:44259001:end --><!-- HN:44260717:start -->
-* [44260717](https://news.social-protocols.org/stats?id=44260717) #24 16 points 3 comments -> [Twitch Is Down](https://status.twitch.com)<!-- HN:44260717:end --><!-- HN:44262383:start -->
-* [44262383](https://news.social-protocols.org/stats?id=44262383) #5 22 points 14 comments -> [Cursor goes rogue in YOLO mode, deletes itself and everything else](https://www.machine.news/it-felt-like-ultron-took-over-cursor-goes-rogue-in-yolo-mode-deletes-itself-and-everything-else/)<!-- HN:44262383:end --><!-- HN:44263460:start -->
-* [44263460](https://news.social-protocols.org/stats?id=44263460) #23 4 points 1 comments -> [A Primer on US Healthcare](https://www.generativevalue.com/p/a-primer-on-us-healthcare)<!-- HN:44263460:end -->
 #### **Friday, June 13, 2025**
 <!-- HN:44261577:start -->
 * [44261577](https://news.social-protocols.org/stats?id=44261577) #18 -> [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)<!-- HN:44261577:end --><!-- HN:44264529:start -->
