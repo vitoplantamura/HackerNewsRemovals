@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44309550](https://news.social-protocols.org/stats?id=44309550) #25 17 points 11 comments -> [Why China is giving away its tech for free](https://www.economist.com/business/2025/06/17/why-china-is-giving-away-its-tech-for-free)<!-- HN:44309550:end --><!-- HN:44311040:start -->
 * [44311040](https://news.social-protocols.org/stats?id=44311040) #14 15 points 11 comments -> [ChatGPT is my static site generator](https://notes.npilk.com/chatgpt-is-my-ssg)<!-- HN:44311040:end --><!-- HN:44311509:start -->
 * [44311509](https://news.social-protocols.org/stats?id=44311509) #1 211 points 134 comments -> [Andrej Karpathy's talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)<!-- HN:44311509:end -->
+#### **Thursday, June 19, 2025**
+<!-- HN:44315409:start -->
+* [44315409](https://news.social-protocols.org/stats?id=44315409) #21 6 points 0 comments -> [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)<!-- HN:44315409:end -->
