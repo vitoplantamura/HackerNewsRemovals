@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44317663](https://news.social-protocols.org/stats?id=44317663) #16 43 points 25 comments -> [How Close to Black Mirror Are We?](https://www.howclosetoblackmirror.com/)<!-- HN:44317663:end --><!-- HN:44318330:start -->
 * [44318330](https://news.social-protocols.org/stats?id=44318330) #22 15 points 1 comments -> [How My Reporting on the Columbia Protests Led to My Deportation](https://www.newyorker.com/news/the-lede/how-my-reporting-on-the-columbia-protests-led-to-my-deportation)<!-- HN:44318330:end --><!-- HN:44318219:start -->
 * [44318219](https://news.social-protocols.org/stats?id=44318219) #28 4 points 0 comments -> [US safety board wants Boeing 737 MAX engine warnings over smoke entering cockpit](https://www.reuters.com/world/us/ntsb-wants-action-cfm-leap-1b-engines-over-smoke-entering-cockpit-2025-06-18/)<!-- HN:44318219:end -->
+#### **Friday, June 20, 2025**
+<!-- HN:44323982:start -->
+* [44323982](https://news.social-protocols.org/stats?id=44323982) #13 7 points 1 comments -> [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)<!-- HN:44323982:end -->
