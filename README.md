@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44318219](https://news.social-protocols.org/stats?id=44318219) #28 4 points 0 comments -> [US safety board wants Boeing 737 MAX engine warnings over smoke entering cockpit](https://www.reuters.com/world/us/ntsb-wants-action-cfm-leap-1b-engines-over-smoke-entering-cockpit-2025-06-18/)<!-- HN:44318219:end -->
 #### **Friday, June 20, 2025**
 <!-- HN:44323982:start -->
-* [44323982](https://news.social-protocols.org/stats?id=44323982) #13 7 points 1 comments -> [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)<!-- HN:44323982:end -->
+* [44323982](https://news.social-protocols.org/stats?id=44323982) #13 7 points 1 comments -> [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)<!-- HN:44323982:end --><!-- HN:44296659:start -->
+* [44296659](https://news.social-protocols.org/stats?id=44296659) #18 8 points 1 comments -> [A real fixed-point decimal crate in Rust](https://github.com/WuBingzheng/primitive_fixed_point_decimal)<!-- HN:44296659:end -->
