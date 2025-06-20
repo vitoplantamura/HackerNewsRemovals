@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, June 13, 2025**
-<!-- HN:44261577:start -->
-* [44261577](https://news.social-protocols.org/stats?id=44261577) #18 -> [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)<!-- HN:44261577:end --><!-- HN:44264529:start -->
-* [44264529](https://news.social-protocols.org/stats?id=44264529) #24 3 points 1 comments -> [Vibe Coding Is Coming for Engineering Jobs](https://www.wired.com/story/vibe-coding-engineering-apocalypse/)<!-- HN:44264529:end --><!-- HN:44267060:start -->
-* [44267060](https://news.social-protocols.org/stats?id=44267060) #8 28 points 40 comments -> [Andrew Ng says vibe coding is a bad name for a real and exhausting job](https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6)<!-- HN:44267060:end --><!-- HN:44267371:start -->
-* [44267371](https://news.social-protocols.org/stats?id=44267371) #27 25 points 40 comments -> [They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html)<!-- HN:44267371:end --><!-- HN:44267091:start -->
-* [44267091](https://news.social-protocols.org/stats?id=44267091) #9 114 points 75 comments -> [The European public DNS that makes your Internet safer](https://www.dns0.eu)<!-- HN:44267091:end --><!-- HN:44270660:start -->
-* [44270660](https://news.social-protocols.org/stats?id=44270660) #16 11 points 6 comments -> [I'm the CTO of Palantir. Today I Join the Army](https://www.thefp.com/p/im-the-cto-of-palantir-today-i-join)<!-- HN:44270660:end --><!-- HN:44271712:start -->
-* [44271712](https://news.social-protocols.org/stats?id=44271712) #26 6 points 0 comments -> [Silicon Valley tech execs are joining the US Army Reserve](https://techcrunch.com/2025/06/13/silicon-valley-tech-execs-are-joining-the-us-army-reserve/)<!-- HN:44271712:end --><!-- HN:44271191:start -->
-* [44271191](https://news.social-protocols.org/stats?id=44271191) #4 57 points 1 comments -> [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)<!-- HN:44271191:end -->
 #### **Saturday, June 14, 2025**<!-- HN:44208938:start -->
 * [44208938](https://news.social-protocols.org/stats?id=44208938) #25 94 points 43 comments -> [The concurrency trap: How an atomic counter stalled a pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)<!-- HN:44208938:end --><!-- HN:44252409:start -->
 * [44252409](https://news.social-protocols.org/stats?id=44252409) #23 27 points 23 comments -> [AI Isn't Magic, It's Maths](https://zerofluff.substack.com/p/ai-isnt-magic-its-maths)<!-- HN:44252409:end --><!-- HN:44273067:start -->
