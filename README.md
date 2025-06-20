@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, June 20, 2025**
 <!-- HN:44323982:start -->
 * [44323982](https://news.social-protocols.org/stats?id=44323982) #13 7 points 1 comments -> [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)<!-- HN:44323982:end --><!-- HN:44296659:start -->
-* [44296659](https://news.social-protocols.org/stats?id=44296659) #18 8 points 1 comments -> [A real fixed-point decimal crate in Rust](https://github.com/WuBingzheng/primitive_fixed_point_decimal)<!-- HN:44296659:end -->
+* [44296659](https://news.social-protocols.org/stats?id=44296659) #18 8 points 1 comments -> [A real fixed-point decimal crate in Rust](https://github.com/WuBingzheng/primitive_fixed_point_decimal)<!-- HN:44296659:end --><!-- HN:44327270:start -->
+* [44327270](https://news.social-protocols.org/stats?id=44327270) #30 3 points 0 comments -> [Attack on Oxford City Council exposes 21 years of election worker data](https://www.theregister.com/2025/06/20/oxford_city_council_breach/)<!-- HN:44327270:end -->
