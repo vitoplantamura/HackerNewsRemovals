@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44332049](https://news.social-protocols.org/stats?id=44332049) #29 6 points 6 comments -> [U.S. Wealth Distribution (Including Billionaires)](https://joshworth.com/dev/wealthgap/)<!-- HN:44332049:end -->
 #### **Saturday, June 21, 2025**
 <!-- HN:44332912:start -->
-* [44332912](https://news.social-protocols.org/stats?id=44332912) #22 49 points 41 comments -> [Drinks in glass bottles contain more microplastics than those in other container](https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers)<!-- HN:44332912:end -->
+* [44332912](https://news.social-protocols.org/stats?id=44332912) #22 49 points 41 comments -> [Drinks in glass bottles contain more microplastics than those in other container](https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers)<!-- HN:44332912:end --><!-- HN:44333077:start -->
+* [44333077](https://news.social-protocols.org/stats?id=44333077) #19 12 points 7 comments -> [AtomicOS – A security-first OS with real crypto and deterministic language](https://github.com/ipenas-cl/AtomicOs)<!-- HN:44333077:end -->
