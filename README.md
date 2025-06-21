@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44330755](https://news.social-protocols.org/stats?id=44330755) #15 89 points 91 comments -> [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)<!-- HN:44330755:end --><!-- HN:44332205:start -->
 * [44332205](https://news.social-protocols.org/stats?id=44332205) #16 9 points 1 comments -> [DocuSign sends Cease and Desist to free SaaS developer](https://twitter.com/AzianMike/status/1935671153076678983)<!-- HN:44332205:end --><!-- HN:44332049:start -->
 * [44332049](https://news.social-protocols.org/stats?id=44332049) #29 6 points 6 comments -> [U.S. Wealth Distribution (Including Billionaires)](https://joshworth.com/dev/wealthgap/)<!-- HN:44332049:end -->
+#### **Saturday, June 21, 2025**
+<!-- HN:44332912:start -->
+* [44332912](https://news.social-protocols.org/stats?id=44332912) #22 49 points 41 comments -> [Drinks in glass bottles contain more microplastics than those in other container](https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers)<!-- HN:44332912:end -->
