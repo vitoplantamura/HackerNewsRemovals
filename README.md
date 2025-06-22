@@ -83,8 +83,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44311040](https://news.social-protocols.org/stats?id=44311040) #14 15 points 11 comments -> [ChatGPT is my static site generator](https://notes.npilk.com/chatgpt-is-my-ssg)<!-- HN:44311040:end --><!-- HN:44311509:start -->
 * [44311509](https://news.social-protocols.org/stats?id=44311509) #1 211 points 134 comments -> [Andrej Karpathy's talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)<!-- HN:44311509:end -->
 #### **Thursday, June 19, 2025**
-<!-- HN:44315409:start -->
-* [44315409](https://news.social-protocols.org/stats?id=44315409) #21 6 points 0 comments -> [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)<!-- HN:44315409:end --><!-- HN:44315400:start -->
+<!-- HN:44315400:start -->
 * [44315400](https://news.social-protocols.org/stats?id=44315400) #6 14 points 1 comments -> [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)<!-- HN:44315400:end --><!-- HN:44317041:start -->
 * [44317041](https://news.social-protocols.org/stats?id=44317041) #7 12 points 10 comments -> [A Deep Dive into OpenAPI](https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi)<!-- HN:44317041:end --><!-- HN:44317663:start -->
 * [44317663](https://news.social-protocols.org/stats?id=44317663) #16 43 points 25 comments -> [How Close to Black Mirror Are We?](https://www.howclosetoblackmirror.com/)<!-- HN:44317663:end --><!-- HN:44318330:start -->
