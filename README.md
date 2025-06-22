@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44339343](https://news.social-protocols.org/stats?id=44339343) #25 3 points 1 comments -> [XOR's Shader Arsenal: A collection of various tiny shaders](https://www.xordev.com/arsenal)<!-- HN:44339343:end -->
 #### **Sunday, June 22, 2025**
 <!-- HN:44333187:start -->
-* [44333187](https://news.social-protocols.org/stats?id=44333187) #25 249 points 160 comments -> [Plastic bag bans and fees reduce harmful bag litter on shorelines](https://www.science.org/doi/10.1126/science.adp9274)<!-- HN:44333187:end -->
+* [44333187](https://news.social-protocols.org/stats?id=44333187) #25 249 points 160 comments -> [Plastic bag bans and fees reduce harmful bag litter on shorelines](https://www.science.org/doi/10.1126/science.adp9274)<!-- HN:44333187:end --><!-- HN:44341462:start -->
+* [44341462](https://news.social-protocols.org/stats?id=44341462) #10 13 points 5 comments -> [Publishing a Docker Container for MS Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry)<!-- HN:44341462:end -->
