@@ -117,6 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44337383](https://news.social-protocols.org/stats?id=44337383) #20 9 points 1 comments -> [A White Nationalist Wrote a Law Paper Promoting Racist Views. Won Him an Award](https://www.nytimes.com/2025/06/21/us/white-supremacist-university-of-florida-paper.html)<!-- HN:44337383:end --><!-- HN:44339343:start -->
 * [44339343](https://news.social-protocols.org/stats?id=44339343) #25 3 points 1 comments -> [XOR's Shader Arsenal: A collection of various tiny shaders](https://www.xordev.com/arsenal)<!-- HN:44339343:end -->
 #### **Sunday, June 22, 2025**
-<!-- HN:44341808:start -->
-* [44341808](https://news.social-protocols.org/stats?id=44341808) #3 27 points 2 comments -> [America officially goes to war with Iran](https://twitter.com/america/status/1936581313424707894)<!-- HN:44341808:end --><!-- HN:44333187:start -->
+<!-- HN:44333187:start -->
 * [44333187](https://news.social-protocols.org/stats?id=44333187) #25 249 points 160 comments -> [Plastic bag bans and fees reduce harmful bag litter on shorelines](https://www.science.org/doi/10.1126/science.adp9274)<!-- HN:44333187:end -->
