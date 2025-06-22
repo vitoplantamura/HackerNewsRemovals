@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, June 15, 2025**
-<!-- HN:44279325:start -->
-* [44279325](https://news.social-protocols.org/stats?id=44279325) #5 27 points 11 comments -> [I used ChatGPT to learn programming from zero and built a video generation SaaS](https://www.vidmakerpro.com/)<!-- HN:44279325:end --><!-- HN:44280588:start -->
-* [44280588](https://news.social-protocols.org/stats?id=44280588) #25 15 points 1 comments -> [The Tech Plutocrats Dreaming of a Right-Wing San Francisco (2024)](https://newrepublic.com/article/178675/garry-tan-tech-san-francisco)<!-- HN:44280588:end --><!-- HN:44277764:start -->
-* [44277764](https://news.social-protocols.org/stats?id=44277764) #16 36 points 6 comments -> [Infineon security microcontroller flaw enabled extraction of TPM secret keys](https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers)<!-- HN:44277764:end --><!-- HN:44280952:start -->
-* [44280952](https://news.social-protocols.org/stats?id=44280952) #22 6 points 1 comments -> [Coinbase, famously a "no politics" company in 2020, sponsors a military parade](https://old.reddit.com/r/Military/comments/1lblspo/thanks_to_our_sponsor_coinbase/)<!-- HN:44280952:end --><!-- HN:44282142:start -->
-* [44282142](https://news.social-protocols.org/stats?id=44282142) #6 9 points 0 comments -> [Competitive Hormone Supplementation Is Shaping America's Future Business Titans](https://letter.palladiummag.com/p/competitive-hormone-supplementation)<!-- HN:44282142:end --><!-- HN:44281996:start -->
-* [44281996](https://news.social-protocols.org/stats?id=44281996) #9 7 points 4 comments -> [Show HN: PromptForge – A minimal AI SaaS to generate better GPT prompts](https://forge-ai-interface.lovable.app/)<!-- HN:44281996:end --><!-- HN:44282960:start -->
-* [44282960](https://news.social-protocols.org/stats?id=44282960) #17 7 points 1 comments -> [The unions are (finally) coming for big tech](https://leaddev.com/leadership/unions-finally-coming-big-tech)<!-- HN:44282960:end --><!-- HN:44284322:start -->
-* [44284322](https://news.social-protocols.org/stats?id=44284322) #30 3 points 0 comments -> [Brain implant breakthrough helps ALS man talk – and sing – again](https://newatlas.com/medical-tech/brain-implant-bci-als-talk-sing/)<!-- HN:44284322:end --><!-- HN:44284261:start -->
-* [44284261](https://news.social-protocols.org/stats?id=44284261) #25 17 points 5 comments -> [Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift](https://www.infoq.com/news/2025/06/apple-swift-migration/)<!-- HN:44284261:end --><!-- HN:44285116:start -->
-* [44285116](https://news.social-protocols.org/stats?id=44285116) #24 29 points 3 comments -> ['No Kings' Protests Across the United States](https://www.nytimes.com/2025/06/14/us/protests-cities-no-kings.html)<!-- HN:44285116:end -->
 #### **Monday, June 16, 2025**
 <!-- HN:44285503:start -->
 * [44285503](https://news.social-protocols.org/stats?id=44285503) #4 14 points 7 comments -> [Coding agents have crossed a chasm](https://blog.singleton.io/posts/2025-06-14-coding-agents-cross-a-chasm/)<!-- HN:44285503:end --><!-- HN:44286078:start -->
