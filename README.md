@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44324735](https://news.social-protocols.org/stats?id=44324735) #14 4 points 7 comments -> [Our support ticket volume was overwhelming,so we built an AI to handle 80% of it](https://www.kasp.chat/)<!-- HN:44324735:end -->
 #### **Monday, June 23, 2025**
 <!-- HN:44351865:start -->
-* [44351865](https://news.social-protocols.org/stats?id=44351865) #20 8 points 4 comments -> [Republican representative's ectopic pregnancy clashes with Florida abortion law](https://www.theguardian.com/us-news/2025/jun/22/kat-cammack-republican-florida-abortion-law-ectopic-pregnancy)<!-- HN:44351865:end -->
+* [44351865](https://news.social-protocols.org/stats?id=44351865) #20 8 points 4 comments -> [Republican representative's ectopic pregnancy clashes with Florida abortion law](https://www.theguardian.com/us-news/2025/jun/22/kat-cammack-republican-florida-abortion-law-ectopic-pregnancy)<!-- HN:44351865:end --><!-- HN:44351310:start -->
+* [44351310](https://news.social-protocols.org/stats?id=44351310) #28 15 points 7 comments -> [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)<!-- HN:44351310:end -->
