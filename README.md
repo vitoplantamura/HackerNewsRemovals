@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 16, 2025**
-<!-- HN:44285503:start -->
-* [44285503](https://news.social-protocols.org/stats?id=44285503) #4 14 points 7 comments -> [Coding agents have crossed a chasm](https://blog.singleton.io/posts/2025-06-14-coding-agents-cross-a-chasm/)<!-- HN:44285503:end --><!-- HN:44286078:start -->
-* [44286078](https://news.social-protocols.org/stats?id=44286078) #1 31 points 19 comments -> [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)<!-- HN:44286078:end --><!-- HN:44264362:start -->
-* [44264362](https://news.social-protocols.org/stats?id=44264362) #3 20 points 6 comments -> [Being a Force Multiplier](https://substack.com/home/post/p-165651243)<!-- HN:44264362:end --><!-- HN:44287984:start -->
-* [44287984](https://news.social-protocols.org/stats?id=44287984) #2 13 points 6 comments -> [The Illusion of Thinking: A Reality Check on AI Reasoning](https://leotsem.com/blog/the-illusion-of-thinking/)<!-- HN:44287984:end --><!-- HN:44288000:start -->
-* [44288000](https://news.social-protocols.org/stats?id=44288000) #6 65 points 41 comments -> [Tesla blows past stopped school bus and hits kid-sized dummies in FSD tests](https://www.engadget.com/transportation/tesla-blows-past-stopped-school-bus-and-hits-kid-sized-dummies-in-full-self-driving-tests-183756251.html)<!-- HN:44288000:end --><!-- HN:44289833:start -->
-* [44289833](https://news.social-protocols.org/stats?id=44289833) #18 3 points 2 comments -> [WhatsApp adds ads to the status screen](https://techcrunch.com/2025/06/16/whatsapp-is-adding-ads-to-the-status-screen/)<!-- HN:44289833:end --><!-- HN:44290759:start -->
-* [44290759](https://news.social-protocols.org/stats?id=44290759) #23 5 points 1 comments -> [This is nuts. When’s the crash?](https://www.ft.com/content/80019dab-78ab-4dbd-b6c5-a54ce953532f)<!-- HN:44290759:end --><!-- HN:44289944:start -->
-* [44289944](https://news.social-protocols.org/stats?id=44289944) #7 20 points 1 comments -> [How the first electric grid was built](https://www.worksinprogress.news/p/how-the-worlds-first-electric-grid)<!-- HN:44289944:end --><!-- HN:44291750:start -->
-* [44291750](https://news.social-protocols.org/stats?id=44291750) #19 6 points 0 comments -> [The React-Killer Is Born](https://medium.com/@resti.guay/juris-object-first-web-development-a-new-paradigm-for-reactive-user-interfaces-721a5a734732)<!-- HN:44291750:end --><!-- HN:44291630:start -->
-* [44291630](https://news.social-protocols.org/stats?id=44291630) #28 126 points 181 comments -> [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)<!-- HN:44291630:end -->
 #### **Tuesday, June 17, 2025**
 <!-- HN:44294299:start -->
 * [44294299](https://news.social-protocols.org/stats?id=44294299) #10 12 points 1 comments -> [Your Texas LLC Won't Protect You from Blue State Labor Laws](https://upcactus.com/blog/your-Texas-LLC-won-t-protect-you-from-Blue-State-Labor-Laws)<!-- HN:44294299:end --><!-- HN:44295977:start -->
