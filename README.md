@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44349933](https://news.social-protocols.org/stats?id=44349933) #2 -> [AI API Prices are 90% Subsidized](https://tinyml.substack.com/p/the-unsustainable-economics-of-llm)<!-- HN:44349933:end --><!-- HN:44350437:start -->
 * [44350437](https://news.social-protocols.org/stats?id=44350437) #9 27 points 3 comments -> [Wait, Why Is Israel Allowed to Have Nukes?](https://www.currentaffairs.org/news/wait-why-is-israel-allowed-to-have-nukes)<!-- HN:44350437:end --><!-- HN:44324735:start -->
 * [44324735](https://news.social-protocols.org/stats?id=44324735) #14 4 points 7 comments -> [Our support ticket volume was overwhelming,so we built an AI to handle 80% of it](https://www.kasp.chat/)<!-- HN:44324735:end -->
+#### **Monday, June 23, 2025**
+<!-- HN:44351865:start -->
+* [44351865](https://news.social-protocols.org/stats?id=44351865) #20 8 points 4 comments -> [Republican representative's ectopic pregnancy clashes with Florida abortion law](https://www.theguardian.com/us-news/2025/jun/22/kat-cammack-republican-florida-abortion-law-ectopic-pregnancy)<!-- HN:44351865:end -->
