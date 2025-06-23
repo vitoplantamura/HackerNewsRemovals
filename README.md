@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 23, 2025**
 <!-- HN:44351865:start -->
 * [44351865](https://news.social-protocols.org/stats?id=44351865) #20 8 points 4 comments -> [Republican representative's ectopic pregnancy clashes with Florida abortion law](https://www.theguardian.com/us-news/2025/jun/22/kat-cammack-republican-florida-abortion-law-ectopic-pregnancy)<!-- HN:44351865:end --><!-- HN:44351310:start -->
-* [44351310](https://news.social-protocols.org/stats?id=44351310) #28 15 points 7 comments -> [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)<!-- HN:44351310:end -->
+* [44351310](https://news.social-protocols.org/stats?id=44351310) #28 15 points 7 comments -> [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)<!-- HN:44351310:end --><!-- HN:44353184:start -->
+* [44353184](https://news.social-protocols.org/stats?id=44353184) #24 4 points 0 comments -> [IDF data reveals 377,000 Palestinians unaccounted for](https://medium.com/@m4xim1l1an/the-grim-arithmetic-idf-data-reveals-377-000-palestinians-unaccounted-for-59f747490e61)<!-- HN:44353184:end -->
