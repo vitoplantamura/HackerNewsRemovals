@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, June 18, 2025**
-<!-- HN:44307257:start -->
-* [44307257](https://news.social-protocols.org/stats?id=44307257) #1 103 points 75 comments -> [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)<!-- HN:44307257:end --><!-- HN:44307057:start -->
-* [44307057](https://news.social-protocols.org/stats?id=44307057) #4 52 points 15 comments -> [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)<!-- HN:44307057:end --><!-- HN:44308041:start -->
-* [44308041](https://news.social-protocols.org/stats?id=44308041) #30 9 points 4 comments -> [Iran is going offline to prevent purported Israeli cyberattacks](https://www.theverge.com/politics/688875/iran-cutting-off-internet-israel-war)<!-- HN:44308041:end --><!-- HN:44308122:start -->
-* [44308122](https://news.social-protocols.org/stats?id=44308122) #30 10 points 0 comments -> [Google May Charge a Fee to Provide Source Code for Android Binaries](https://source.android.com/opensourcerequest)<!-- HN:44308122:end --><!-- HN:44309847:start -->
-* [44309847](https://news.social-protocols.org/stats?id=44309847) #20 5 points 0 comments -> [Governments are ditching Windows and Microsoft Office](https://www.windowscentral.com/software-apps/windows-11/goverments-are-ditching-windows-and-microsoft-office-new-letter-reveals-the-real-costs-of-switching-to-windows-11)<!-- HN:44309847:end --><!-- HN:44309550:start -->
-* [44309550](https://news.social-protocols.org/stats?id=44309550) #25 17 points 11 comments -> [Why China is giving away its tech for free](https://www.economist.com/business/2025/06/17/why-china-is-giving-away-its-tech-for-free)<!-- HN:44309550:end --><!-- HN:44311040:start -->
-* [44311040](https://news.social-protocols.org/stats?id=44311040) #14 15 points 11 comments -> [ChatGPT is my static site generator](https://notes.npilk.com/chatgpt-is-my-ssg)<!-- HN:44311040:end --><!-- HN:44311509:start -->
-* [44311509](https://news.social-protocols.org/stats?id=44311509) #1 211 points 134 comments -> [Andrej Karpathy's talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)<!-- HN:44311509:end -->
 #### **Thursday, June 19, 2025**
 <!-- HN:44315400:start -->
 * [44315400](https://news.social-protocols.org/stats?id=44315400) #6 14 points 1 comments -> [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)<!-- HN:44315400:end --><!-- HN:44317041:start -->
