@@ -115,5 +115,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44382519](https://news.social-protocols.org/stats?id=44382519) #13 11 points 5 comments -> [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)<!-- HN:44382519:end -->
 #### **Thursday, June 26, 2025**
 <!-- HN:44355003:start -->
-* [44355003](https://news.social-protocols.org/stats?id=44355003) #17 15 points 2 comments -> [Introduction to error handling strategies in Go](https://go-monk.beehiiv.com/p/error-handling)<!-- HN:44355003:end --><!-- HN:44351912:start -->
-* [44351912](https://news.social-protocols.org/stats?id=44351912) #5 12 points 0 comments -> [The symbol of earthly good, and the immediate object of toil](https://crookedtimber.org/2025/06/23/the-symbol-of-earthly-good-and-the-immediate-object-of-toil/)<!-- HN:44351912:end -->
+* [44355003](https://news.social-protocols.org/stats?id=44355003) #17 15 points 2 comments -> [Introduction to error handling strategies in Go](https://go-monk.beehiiv.com/p/error-handling)<!-- HN:44355003:end -->
