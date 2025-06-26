@@ -240,3 +240,10 @@
 * [44309550](https://news.ycombinator.com/item?id=44309550) #25 17 points 11 comments -> [Why China is giving away its tech for free](https://www.economist.com/business/2025/06/17/why-china-is-giving-away-its-tech-for-free)<!-- HN:44309550:end --><!-- HN:44311040:start -->
 * [44311040](https://news.ycombinator.com/item?id=44311040) #14 15 points 11 comments -> [ChatGPT is my static site generator](https://notes.npilk.com/chatgpt-is-my-ssg)<!-- HN:44311040:end --><!-- HN:44311509:start -->
 * [44311509](https://news.ycombinator.com/item?id=44311509) #1 211 points 134 comments -> [Andrej Karpathy's talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)<!-- HN:44311509:end -->
+#### **Thursday, June 19, 2025**
+<!-- HN:44315400:start -->
+* [44315400](https://news.ycombinator.com/item?id=44315400) #6 14 points 1 comments -> [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)<!-- HN:44315400:end --><!-- HN:44317041:start -->
+* [44317041](https://news.ycombinator.com/item?id=44317041) #7 12 points 10 comments -> [A Deep Dive into OpenAPI](https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi)<!-- HN:44317041:end --><!-- HN:44317663:start -->
+* [44317663](https://news.ycombinator.com/item?id=44317663) #16 43 points 25 comments -> [How Close to Black Mirror Are We?](https://www.howclosetoblackmirror.com/)<!-- HN:44317663:end --><!-- HN:44318330:start -->
+* [44318330](https://news.ycombinator.com/item?id=44318330) #22 15 points 1 comments -> [How My Reporting on the Columbia Protests Led to My Deportation](https://www.newyorker.com/news/the-lede/how-my-reporting-on-the-columbia-protests-led-to-my-deportation)<!-- HN:44318330:end --><!-- HN:44318219:start -->
+* [44318219](https://news.ycombinator.com/item?id=44318219) #28 4 points 0 comments -> [US safety board wants Boeing 737 MAX engine warnings over smoke entering cockpit](https://www.reuters.com/world/us/ntsb-wants-action-cfm-leap-1b-engines-over-smoke-entering-cockpit-2025-06-18/)<!-- HN:44318219:end -->
