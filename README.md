@@ -103,3 +103,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44355923](https://news.social-protocols.org/stats?id=44355923) #7 29 points 42 comments -> [What Happens When Hertz's AI Scanner Finds Damage on Your Rental](https://www.thedrive.com/news/this-is-what-happens-when-hertzs-ai-scanner-finds-damage-on-your-rental)<!-- HN:44355923:end --><!-- HN:44352990:start -->
 * [44352990](https://news.social-protocols.org/stats?id=44352990) #24 9 points 2 comments -> [Low Overhead Allocation Sampling in a Garbage Collected Virtual Machine](https://arxiv.org/abs/2506.16883)<!-- HN:44352990:end --><!-- HN:44392414:start -->
 * [44392414](https://news.social-protocols.org/stats?id=44392414) #26 4 points 0 comments -> [BBC to start charging US-based consumers for news and TV coverage](https://www.theguardian.com/media/2025/jun/26/bbc-usa-paid-subscription-news)<!-- HN:44392414:end -->
+#### **Friday, June 27, 2025**
+<!-- HN:44391711:start -->
+* [44391711](https://news.social-protocols.org/stats?id=44391711) #25 65 points 43 comments -> [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)<!-- HN:44391711:end -->
