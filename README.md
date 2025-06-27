@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, June 27, 2025**
 <!-- HN:44391711:start -->
 * [44391711](https://news.social-protocols.org/stats?id=44391711) #25 65 points 43 comments -> [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)<!-- HN:44391711:end --><!-- HN:44393270:start -->
-* [44393270](https://news.social-protocols.org/stats?id=44393270) #24 9 points 0 comments -> [Canadian dies while in ICE custody in Florida, U.S. agency says](https://www.cbc.ca/lite/story/1.7571876)<!-- HN:44393270:end -->
+* [44393270](https://news.social-protocols.org/stats?id=44393270) #24 9 points 0 comments -> [Canadian dies while in ICE custody in Florida, U.S. agency says](https://www.cbc.ca/lite/story/1.7571876)<!-- HN:44393270:end --><!-- HN:44392274:start -->
+* [44392274](https://news.social-protocols.org/stats?id=44392274) #20 28 points 15 comments -> [Thomas Aquinas – The world is divine](https://ralphammer.com/thomas-aquinas-the-world-is-divine/)<!-- HN:44392274:end -->
