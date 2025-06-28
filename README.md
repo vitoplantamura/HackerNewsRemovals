@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, June 21, 2025**
-<!-- HN:44332912:start -->
-* [44332912](https://news.social-protocols.org/stats?id=44332912) #22 49 points 41 comments -> [Drinks in glass bottles contain more microplastics than those in other container](https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers)<!-- HN:44332912:end --><!-- HN:44333077:start -->
-* [44333077](https://news.social-protocols.org/stats?id=44333077) #19 12 points 7 comments -> [AtomicOS – A security-first OS with real crypto and deterministic language](https://github.com/ipenas-cl/AtomicOs)<!-- HN:44333077:end --><!-- HN:44307388:start -->
-* [44307388](https://news.social-protocols.org/stats?id=44307388) #16 30 points 40 comments -> [I Dropped the Production Database on a Friday Night](https://vince.beehiiv.com/p/how-i-dropped-the-production-database-on-a-friday-night)<!-- HN:44307388:end --><!-- HN:44333921:start -->
-* [44333921](https://news.social-protocols.org/stats?id=44333921) #30 40 points 40 comments -> [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000)<!-- HN:44333921:end --><!-- HN:44337114:start -->
-* [44337114](https://news.social-protocols.org/stats?id=44337114) #30 4 points 2 comments -> [I've ditched HR to free my company from the DEI police](https://nypost.com/2025/06/20/opinion/ive-ditched-hr-to-free-my-company-from-the-dei-police/)<!-- HN:44337114:end --><!-- HN:44337383:start -->
-* [44337383](https://news.social-protocols.org/stats?id=44337383) #20 9 points 1 comments -> [A White Nationalist Wrote a Law Paper Promoting Racist Views. Won Him an Award](https://www.nytimes.com/2025/06/21/us/white-supremacist-university-of-florida-paper.html)<!-- HN:44337383:end --><!-- HN:44339343:start -->
-* [44339343](https://news.social-protocols.org/stats?id=44339343) #25 3 points 1 comments -> [XOR's Shader Arsenal: A collection of various tiny shaders](https://www.xordev.com/arsenal)<!-- HN:44339343:end -->
 #### **Sunday, June 22, 2025**
 <!-- HN:44333187:start -->
 * [44333187](https://news.social-protocols.org/stats?id=44333187) #25 249 points 160 comments -> [Plastic bag bans and fees reduce harmful bag litter on shorelines](https://www.science.org/doi/10.1126/science.adp9274)<!-- HN:44333187:end --><!-- HN:44341462:start -->
