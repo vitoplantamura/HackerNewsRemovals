@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44399416](https://news.social-protocols.org/stats?id=44399416) #17 5 points 0 comments -> [Run Coverage on Tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)<!-- HN:44399416:end --><!-- HN:44400481:start -->
 * [44400481](https://news.social-protocols.org/stats?id=44400481) #12 8 points 4 comments -> [You can now buy personally Human Attention for $5](https://momentarily.online/)<!-- HN:44400481:end -->
 #### **Saturday, June 28, 2025**<!-- HN:44402887:start -->
-* [44402887](https://news.social-protocols.org/stats?id=44402887) #12 16 points 2 comments -> [I will fix your vibe-coded MVP – sgnt.ai](https://sgnt.ai/p/vibe-coded/)<!-- HN:44402887:end -->
+* [44402887](https://news.social-protocols.org/stats?id=44402887) #12 16 points 2 comments -> [I will fix your vibe-coded MVP – sgnt.ai](https://sgnt.ai/p/vibe-coded/)<!-- HN:44402887:end --><!-- HN:44367640:start -->
+* [44367640](https://news.social-protocols.org/stats?id=44367640) #8 9 points 3 comments -> [Show HN: La Touche Musicale PianoConvert](https://latouchemusicale.com/en/apps/pianoconvert/)<!-- HN:44367640:end -->
