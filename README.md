@@ -71,8 +71,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44358625](https://news.social-protocols.org/stats?id=44358625) #16 12 points 5 comments -> [X blocked a paid user for no reason for "5-7 days" or forever](https://substack.com/home/post/p-166662797)<!-- HN:44358625:end -->
 #### **Tuesday, June 24, 2025**
 <!-- HN:44361130:start -->
-* [44361130](https://news.social-protocols.org/stats?id=44361130) #23 28 points 41 comments -> [How many PhDs does world need? Doctoral graduates outnumber academia jobs](https://www.nature.com/articles/d41586-025-01855-w)<!-- HN:44361130:end --><!-- HN:44367539:start -->
-* [44367539](https://news.social-protocols.org/stats?id=44367539) #13 3 points 0 comments -> [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)<!-- HN:44367539:end --><!-- HN:44368811:start -->
+* [44361130](https://news.social-protocols.org/stats?id=44361130) #23 28 points 41 comments -> [How many PhDs does world need? Doctoral graduates outnumber academia jobs](https://www.nature.com/articles/d41586-025-01855-w)<!-- HN:44361130:end --><!-- HN:44368811:start -->
 * [44368811](https://news.social-protocols.org/stats?id=44368811) #22 11 points 4 comments -> [YouTube star Mikayla Raines dies by suicide, and her husband blames online abuse](https://www.nbcnews.com/news/obituaries/youtube-star-mikayla-raines-dies-suicide-29-husband-blames-online-abus-rcna214720)<!-- HN:44368811:end -->
 #### **Wednesday, June 25, 2025**
 <!-- HN:44372163:start -->
