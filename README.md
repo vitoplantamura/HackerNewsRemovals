@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44400378](https://news.social-protocols.org/stats?id=44400378) #24 3 points 0 comments -> [Supreme Court overturns 5th Circuit ruling that upended Universal Service Fund](https://arstechnica.com/tech-policy/2025/06/supreme-court-saves-universal-service-fund-rules-fcc-fee-is-not-illegal-tax/)<!-- HN:44400378:end --><!-- HN:44399416:start -->
 * [44399416](https://news.social-protocols.org/stats?id=44399416) #17 5 points 0 comments -> [Run Coverage on Tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)<!-- HN:44399416:end --><!-- HN:44400481:start -->
 * [44400481](https://news.social-protocols.org/stats?id=44400481) #12 8 points 4 comments -> [You can now buy personally Human Attention for $5](https://momentarily.online/)<!-- HN:44400481:end -->
+#### **Saturday, June 28, 2025**
+<!-- HN:44402380:start -->
+* [44402380](https://news.social-protocols.org/stats?id=44402380) #2 62 points 23 comments -> [Why Does Kars4Kids Sends Most of Its Money to One Town in New Jersey? (2023)](https://www.mossplanet.news/p/why-does-kars4kids-sends-most-of)<!-- HN:44402380:end -->
