@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44400378](https://news.social-protocols.org/stats?id=44400378) #24 3 points 0 comments -> [Supreme Court overturns 5th Circuit ruling that upended Universal Service Fund](https://arstechnica.com/tech-policy/2025/06/supreme-court-saves-universal-service-fund-rules-fcc-fee-is-not-illegal-tax/)<!-- HN:44400378:end --><!-- HN:44399416:start -->
 * [44399416](https://news.social-protocols.org/stats?id=44399416) #17 5 points 0 comments -> [Run Coverage on Tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)<!-- HN:44399416:end --><!-- HN:44400481:start -->
 * [44400481](https://news.social-protocols.org/stats?id=44400481) #12 8 points 4 comments -> [You can now buy personally Human Attention for $5](https://momentarily.online/)<!-- HN:44400481:end -->
-#### **Saturday, June 28, 2025**
+#### **Saturday, June 28, 2025**<!-- HN:44402896:start -->
+* [44402896](https://news.social-protocols.org/stats?id=44402896) #29 42 points 10 comments -> [IDF Soldiers Confess: Ordered to Shoot Unarmed Gazans at Aid Site](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)<!-- HN:44402896:end -->
