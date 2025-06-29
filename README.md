@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, June 22, 2025**
-<!-- HN:44333187:start -->
-* [44333187](https://news.social-protocols.org/stats?id=44333187) #25 249 points 160 comments -> [Plastic bag bans and fees reduce harmful bag litter on shorelines](https://www.science.org/doi/10.1126/science.adp9274)<!-- HN:44333187:end --><!-- HN:44341462:start -->
-* [44341462](https://news.social-protocols.org/stats?id=44341462) #10 13 points 5 comments -> [Publishing a Docker Container for MS Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry)<!-- HN:44341462:end --><!-- HN:44341678:start -->
-* [44341678](https://news.social-protocols.org/stats?id=44341678) #19 260 points 2 comments -> [U.S. strikes Iran's nuclear facilities](https://www.axios.com/2025/06/21/us-strike-iran-nuclear-israel-trump)<!-- HN:44341678:end --><!-- HN:44315409:start -->
-* [44315409](https://news.social-protocols.org/stats?id=44315409) #21 11 points 0 comments -> [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)<!-- HN:44315409:end --><!-- HN:44348857:start -->
-* [44348857](https://news.social-protocols.org/stats?id=44348857) #2 -> [The Jumping Frenchmen of Maine](https://www.amusingplanet.com/2025/06/the-jumping-frenchmen-of-maine.html)<!-- HN:44348857:end --><!-- HN:44349655:start -->
-* [44349655](https://news.social-protocols.org/stats?id=44349655) #16 8 points 0 comments -> [Lawrence Yun on the State of U.S. Housing Market](https://www.c-span.org/program/washington-journal/lawrence-yun-on-the-state-of-us-housing-market/661482)<!-- HN:44349655:end --><!-- HN:44349933:start -->
-* [44349933](https://news.social-protocols.org/stats?id=44349933) #2 -> [AI API Prices are 90% Subsidized](https://tinyml.substack.com/p/the-unsustainable-economics-of-llm)<!-- HN:44349933:end --><!-- HN:44350437:start -->
-* [44350437](https://news.social-protocols.org/stats?id=44350437) #9 27 points 3 comments -> [Wait, Why Is Israel Allowed to Have Nukes?](https://www.currentaffairs.org/news/wait-why-is-israel-allowed-to-have-nukes)<!-- HN:44350437:end --><!-- HN:44324735:start -->
-* [44324735](https://news.social-protocols.org/stats?id=44324735) #14 4 points 7 comments -> [Our support ticket volume was overwhelming,so we built an AI to handle 80% of it](https://www.kasp.chat/)<!-- HN:44324735:end -->
 #### **Monday, June 23, 2025**
 <!-- HN:44351865:start -->
 * [44351865](https://news.social-protocols.org/stats?id=44351865) #20 8 points 4 comments -> [Republican representative's ectopic pregnancy clashes with Florida abortion law](https://www.theguardian.com/us-news/2025/jun/22/kat-cammack-republican-florida-abortion-law-ectopic-pregnancy)<!-- HN:44351865:end --><!-- HN:44351310:start -->
