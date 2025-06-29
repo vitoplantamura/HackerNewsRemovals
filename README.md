@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 29, 2025**
 <!-- HN:44406768:start -->
 * [44406768](https://news.social-protocols.org/stats?id=44406768) #22 31 points 40 comments -> [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)<!-- HN:44406768:end --><!-- HN:44410159:start -->
-* [44410159](https://news.social-protocols.org/stats?id=44410159) #27 14 points 5 comments -> [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)<!-- HN:44410159:end -->
+* [44410159](https://news.social-protocols.org/stats?id=44410159) #27 14 points 5 comments -> [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)<!-- HN:44410159:end --><!-- HN:44411021:start -->
+* [44411021](https://news.social-protocols.org/stats?id=44411021) #24 5 points 0 comments -> [A Gazan mother feeds her twins lentils instead of milk as blockade continues](https://truthforge.substack.com/p/a-gazan-mother-feeds-her-twins-lentils)<!-- HN:44411021:end -->
