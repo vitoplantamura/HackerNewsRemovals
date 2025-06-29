@@ -112,5 +112,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44346141](https://news.social-protocols.org/stats?id=44346141) #18 204 points 122 comments -> [Engineer creates ad block for the real world with augmented reality glasses](https://www.tomshardware.com/maker-stem/engineer-creates-ad-block-for-the-real-world-with-augmented-reality-glasses-no-more-products-or-branding-in-your-everyday-life)<!-- HN:44346141:end -->
 #### **Sunday, June 29, 2025**
 <!-- HN:44406768:start -->
-* [44406768](https://news.social-protocols.org/stats?id=44406768) #22 31 points 40 comments -> [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)<!-- HN:44406768:end --><!-- HN:44409878:start -->
-* [44409878](https://news.social-protocols.org/stats?id=44409878) #21 7 points 0 comments -> [Vancouver man says institutions unable to recognize new Indigenous street name](https://globalnews.ca/news/11265368/vancouver-man-institutions-new-indigenous-street-name/)<!-- HN:44409878:end -->
+* [44406768](https://news.social-protocols.org/stats?id=44406768) #22 31 points 40 comments -> [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)<!-- HN:44406768:end -->
