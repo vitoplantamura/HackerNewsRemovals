@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44417629](https://news.social-protocols.org/stats?id=44417629) #19 7 points 3 comments -> [The End of US Democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)<!-- HN:44417629:end -->
 #### **Monday, June 30, 2025**
 <!-- HN:44417846:start -->
-* [44417846](https://news.social-protocols.org/stats?id=44417846) #14 -> [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)<!-- HN:44417846:end -->
+* [44417846](https://news.social-protocols.org/stats?id=44417846) #14 -> [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)<!-- HN:44417846:end --><!-- HN:44414853:start -->
+* [44414853](https://news.social-protocols.org/stats?id=44414853) #28 284 points 132 comments -> [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)<!-- HN:44414853:end -->
