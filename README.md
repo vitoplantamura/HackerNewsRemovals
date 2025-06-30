@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44415145](https://news.social-protocols.org/stats?id=44415145) #9 11 points 3 comments -> [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)<!-- HN:44415145:end --><!-- HN:44415563:start -->
 * [44415563](https://news.social-protocols.org/stats?id=44415563) #24 9 points 1 comments -> [The Asymmetry of Destruction](https://passingtime.substack.com/p/the-asymmetry-of-destruction)<!-- HN:44415563:end --><!-- HN:44417629:start -->
 * [44417629](https://news.social-protocols.org/stats?id=44417629) #19 7 points 3 comments -> [The End of US Democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)<!-- HN:44417629:end -->
+#### **Monday, June 30, 2025**
+<!-- HN:44417846:start -->
+* [44417846](https://news.social-protocols.org/stats?id=44417846) #14 -> [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)<!-- HN:44417846:end -->
