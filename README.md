@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 23, 2025**
-<!-- HN:44351865:start -->
-* [44351865](https://news.social-protocols.org/stats?id=44351865) #20 8 points 4 comments -> [Republican representative's ectopic pregnancy clashes with Florida abortion law](https://www.theguardian.com/us-news/2025/jun/22/kat-cammack-republican-florida-abortion-law-ectopic-pregnancy)<!-- HN:44351865:end --><!-- HN:44351310:start -->
-* [44351310](https://news.social-protocols.org/stats?id=44351310) #28 15 points 7 comments -> [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)<!-- HN:44351310:end --><!-- HN:44353184:start -->
-* [44353184](https://news.social-protocols.org/stats?id=44353184) #24 4 points 0 comments -> [IDF data reveals 377,000 Palestinians unaccounted for](https://medium.com/@m4xim1l1an/the-grim-arithmetic-idf-data-reveals-377-000-palestinians-unaccounted-for-59f747490e61)<!-- HN:44353184:end --><!-- HN:44324319:start -->
-* [44324319](https://news.social-protocols.org/stats?id=44324319) #26 6 points 2 comments -> [Encounters with Reality on Christine Rosen's the Extinction of Experience](https://thepointmag.com/criticism/encounters-with-reality/)<!-- HN:44324319:end --><!-- HN:44353408:start -->
-* [44353408](https://news.social-protocols.org/stats?id=44353408) #18 29 points 15 comments -> [OpenAI and Jony Ive's "io" brand has disappeared](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)<!-- HN:44353408:end --><!-- HN:44329556:start -->
-* [44329556](https://news.social-protocols.org/stats?id=44329556) #23 7 points 4 comments -> [2048 in bash with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)<!-- HN:44329556:end --><!-- HN:44354250:start -->
-* [44354250](https://news.social-protocols.org/stats?id=44354250) #4 8 points 3 comments -> [Where is Iran's uranium? Questions remain over stash of enriched material](https://www.ft.com/content/12a864cc-eeb8-4725-aed8-5ddff9ac588e)<!-- HN:44354250:end --><!-- HN:44354684:start -->
-* [44354684](https://news.social-protocols.org/stats?id=44354684) #26 28 points 34 comments -> [The Gender Attractiveness Gap](https://www.biorxiv.org/content/10.1101/2025.05.21.655261v1)<!-- HN:44354684:end --><!-- HN:44355438:start -->
-* [44355438](https://news.social-protocols.org/stats?id=44355438) #26 4 points 1 comments -> [Men, Where Have You Gone? Please Come Back](https://www.nytimes.com/2025/06/20/style/modern-love-men-where-have-you-gone-please-come-back.html)<!-- HN:44355438:end --><!-- HN:44353760:start -->
-* [44353760](https://news.social-protocols.org/stats?id=44353760) #18 11 points 0 comments -> [Real-world performance comparison of ebtree/cebtree/rbtree](http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html)<!-- HN:44353760:end --><!-- HN:44355750:start -->
-* [44355750](https://news.social-protocols.org/stats?id=44355750) #30 39 points 24 comments -> [Gov. Greg Abbott vetoes THC ban](https://www.texastribune.org/2025/06/22/texas-thc-ban-bill-greg-abbott-veto-senate-bill-3/)<!-- HN:44355750:end --><!-- HN:44356509:start -->
-* [44356509](https://news.social-protocols.org/stats?id=44356509) #2 40 points 8 comments -> [Don't trust Cloudflare with your personal data](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)<!-- HN:44356509:end --><!-- HN:44358625:start -->
-* [44358625](https://news.social-protocols.org/stats?id=44358625) #16 12 points 5 comments -> [X blocked a paid user for no reason for "5-7 days" or forever](https://substack.com/home/post/p-166662797)<!-- HN:44358625:end -->
 #### **Tuesday, June 24, 2025**
 <!-- HN:44361130:start -->
 * [44361130](https://news.social-protocols.org/stats?id=44361130) #23 28 points 41 comments -> [How many PhDs does world need? Doctoral graduates outnumber academia jobs](https://www.nature.com/articles/d41586-025-01855-w)<!-- HN:44361130:end --><!-- HN:44368811:start -->
