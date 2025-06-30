@@ -115,5 +115,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 30, 2025**
 <!-- HN:44417846:start -->
 * [44417846](https://news.social-protocols.org/stats?id=44417846) #14 -> [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)<!-- HN:44417846:end --><!-- HN:44414853:start -->
-* [44414853](https://news.social-protocols.org/stats?id=44414853) #28 284 points 132 comments -> [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)<!-- HN:44414853:end --><!-- HN:44414171:start -->
-* [44414171](https://news.social-protocols.org/stats?id=44414171) #11 103 points 84 comments -> [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/)<!-- HN:44414171:end -->
+* [44414853](https://news.social-protocols.org/stats?id=44414853) #28 284 points 132 comments -> [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)<!-- HN:44414853:end -->
