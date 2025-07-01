@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44428518](https://news.social-protocols.org/stats?id=44428518) #25 -> [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)<!-- HN:44428518:end -->
 #### **Tuesday, July 1, 2025**<!-- HN:44429190:start -->
 * [44429190](https://news.social-protocols.org/stats?id=44429190) #7 12 points 3 comments -> [Taste Is the New Intelligence](https://wildbarestepf.substack.com/p/taste-is-the-new-intelligence)<!-- HN:44429190:end --><!-- HN:44406866:start -->
-* [44406866](https://news.social-protocols.org/stats?id=44406866) #30 8 points 2 comments -> [Making a $20 smart boombox [video]](https://www.youtube.com/watch?v=P3XCPywlXBI)<!-- HN:44406866:end -->
+* [44406866](https://news.social-protocols.org/stats?id=44406866) #30 8 points 2 comments -> [Making a $20 smart boombox [video]](https://www.youtube.com/watch?v=P3XCPywlXBI)<!-- HN:44406866:end --><!-- HN:44403117:start -->
+* [44403117](https://news.social-protocols.org/stats?id=44403117) #25 7 points 1 comments -> [Beneath the canopy: Pioneering satellite reveals rainforests' hidden worlds](https://www.bbc.co.uk/news/resources/idt-d7353b50-0fea-46ba-8495-ae9e25192cfe)<!-- HN:44403117:end -->
