@@ -119,5 +119,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44424456](https://news.social-protocols.org/stats?id=44424456) #18 13 points 6 comments -> [Make Fun of Them](https://www.wheresyoured.at/make-fun-of-them/)<!-- HN:44424456:end --><!-- HN:44428518:start -->
 * [44428518](https://news.social-protocols.org/stats?id=44428518) #25 -> [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)<!-- HN:44428518:end -->
 #### **Tuesday, July 1, 2025**
-<!-- HN:44429190:start -->
-* [44429190](https://news.social-protocols.org/stats?id=44429190) #4 8 points 2 comments -> [Taste Is the New Intelligence](https://wildbarestepf.substack.com/p/taste-is-the-new-intelligence)<!-- HN:44429190:end -->
