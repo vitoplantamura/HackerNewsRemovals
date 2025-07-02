@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44435477](https://news.social-protocols.org/stats?id=44435477) #16 4 points 0 comments -> [Online shopping see biggest slowdown in over decade as tariffs disrupt ecommerce](https://www.cnbc.com/2025/07/01/online-retail-sees-biggest-slowdown-in-decade-tariffs-hit-e-commerce.html)<!-- HN:44435477:end -->
 #### **Wednesday, July 2, 2025**
 <!-- HN:44439306:start -->
-* [44439306](https://news.social-protocols.org/stats?id=44439306) #8 4 points 0 comments -> [Profiting from Genocide](https://chrishedges.substack.com/p/profiting-from-genocide)<!-- HN:44439306:end -->
+* [44439306](https://news.social-protocols.org/stats?id=44439306) #8 4 points 0 comments -> [Profiting from Genocide](https://chrishedges.substack.com/p/profiting-from-genocide)<!-- HN:44439306:end --><!-- HN:44439513:start -->
+* [44439513](https://news.social-protocols.org/stats?id=44439513) #6 21 points 1 comments -> [RFK Jr.'s health department calls Nature "junk science," cancels subscriptions](https://arstechnica.com/health/2025/07/rfk-jr-s-health-department-calls-nature-junk-science-cancels-subscriptions/)<!-- HN:44439513:end -->
