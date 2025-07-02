@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, June 25, 2025**
-<!-- HN:44372163:start -->
-* [44372163](https://news.social-protocols.org/stats?id=44372163) #24 14 points 1 comments -> [Post-Attack Assessment of First 12 Days of Israeli Strikes on Iran Nuclear](https://isis-online.org/isis-reports/post-attack-assessment-of-the-first-12-days-of-israeli-strikes-on-iranian-nuclear-facilities)<!-- HN:44372163:end --><!-- HN:44372767:start -->
-* [44372767](https://news.social-protocols.org/stats?id=44372767) #10 17 points 14 comments -> [Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty](https://512pixels.net/2025/06/finder-icon-fixed/)<!-- HN:44372767:end --><!-- HN:44336577:start -->
-* [44336577](https://news.social-protocols.org/stats?id=44336577) #19 8 points 0 comments -> [Controversial Plant Propagation Hack That Has Gardeners Divided](https://www.bhg.com/what-is-proplifting-11753036)<!-- HN:44336577:end --><!-- HN:44373754:start -->
-* [44373754](https://news.social-protocols.org/stats?id=44373754) #3 68 points 27 comments -> [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli/)<!-- HN:44373754:end --><!-- HN:44376398:start -->
-* [44376398](https://news.social-protocols.org/stats?id=44376398) #4 23 points 42 comments -> [Kid gamers to adult gamblers? Investigation of childhood gaming and YA gambling](https://www.tandfonline.com/doi/full/10.1080/14459795.2025.2488867)<!-- HN:44376398:end --><!-- HN:44373504:start -->
-* [44373504](https://news.social-protocols.org/stats?id=44373504) #2 545 points 1 comments -> [A new PNG spec](https://www.programmax.net/articles/png-is-back/)<!-- HN:44373504:end --><!-- HN:44377031:start -->
-* [44377031](https://news.social-protocols.org/stats?id=44377031) #4 32 points 1 comments -> [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)<!-- HN:44377031:end --><!-- HN:44376530:start -->
-* [44376530](https://news.social-protocols.org/stats?id=44376530) #22 31 points 5 comments -> [Disposable E-Cigarettes More Toxic Than Traditional Cigarettes](https://www.ucdavis.edu/news/disposable-e-cigarettes-more-toxic-traditional-cigarettes)<!-- HN:44376530:end --><!-- HN:44380541:start -->
-* [44380541](https://news.social-protocols.org/stats?id=44380541) #26 9 points 1 comments -> [Google removes fact checking from search results](https://developers.google.com/search/blog/2025/06/simplifying-search-results)<!-- HN:44380541:end --><!-- HN:44381302:start -->
-* [44381302](https://news.social-protocols.org/stats?id=44381302) #24 7 points 1 comments -> [Broken by Design: Systemd](https://ewontfix.com/14/)<!-- HN:44381302:end --><!-- HN:44382519:start -->
-* [44382519](https://news.social-protocols.org/stats?id=44382519) #13 11 points 5 comments -> [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)<!-- HN:44382519:end -->
 #### **Thursday, June 26, 2025**
 <!-- HN:44355003:start -->
 * [44355003](https://news.social-protocols.org/stats?id=44355003) #17 15 points 2 comments -> [Introduction to error handling strategies in Go](https://go-monk.beehiiv.com/p/error-handling)<!-- HN:44355003:end --><!-- HN:44386328:start -->
