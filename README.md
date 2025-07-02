@@ -117,5 +117,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 2, 2025**
 <!-- HN:44439306:start -->
 * [44439306](https://news.social-protocols.org/stats?id=44439306) #8 4 points 0 comments -> [Profiting from Genocide](https://chrishedges.substack.com/p/profiting-from-genocide)<!-- HN:44439306:end --><!-- HN:44439513:start -->
-* [44439513](https://news.social-protocols.org/stats?id=44439513) #6 21 points 1 comments -> [RFK Jr.'s health department calls Nature "junk science," cancels subscriptions](https://arstechnica.com/health/2025/07/rfk-jr-s-health-department-calls-nature-junk-science-cancels-subscriptions/)<!-- HN:44439513:end --><!-- HN:44439242:start -->
-* [44439242](https://news.social-protocols.org/stats?id=44439242) #3 13 points 2 comments -> [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)<!-- HN:44439242:end -->
+* [44439513](https://news.social-protocols.org/stats?id=44439513) #6 21 points 1 comments -> [RFK Jr.'s health department calls Nature "junk science," cancels subscriptions](https://arstechnica.com/health/2025/07/rfk-jr-s-health-department-calls-nature-junk-science-cancels-subscriptions/)<!-- HN:44439513:end -->
