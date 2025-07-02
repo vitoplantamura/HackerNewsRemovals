@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44431873](https://news.social-protocols.org/stats?id=44431873) #21 23 points 21 comments -> [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)<!-- HN:44431873:end --><!-- HN:44433990:start -->
 * [44433990](https://news.social-protocols.org/stats?id=44433990) #19 -> [Effects of USAID defunding on mortality projections up to 2030](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01186-9/fulltext)<!-- HN:44433990:end --><!-- HN:44435477:start -->
 * [44435477](https://news.social-protocols.org/stats?id=44435477) #16 4 points 0 comments -> [Online shopping see biggest slowdown in over decade as tariffs disrupt ecommerce](https://www.cnbc.com/2025/07/01/online-retail-sees-biggest-slowdown-in-decade-tariffs-hit-e-commerce.html)<!-- HN:44435477:end -->
+#### **Wednesday, July 2, 2025**
+<!-- HN:44439306:start -->
+* [44439306](https://news.social-protocols.org/stats?id=44439306) #8 4 points 0 comments -> [Profiting from Genocide](https://chrishedges.substack.com/p/profiting-from-genocide)<!-- HN:44439306:end -->
