@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, June 26, 2025**
-<!-- HN:44355003:start -->
-* [44355003](https://news.social-protocols.org/stats?id=44355003) #17 15 points 2 comments -> [Introduction to error handling strategies in Go](https://go-monk.beehiiv.com/p/error-handling)<!-- HN:44355003:end --><!-- HN:44386328:start -->
-* [44386328](https://news.social-protocols.org/stats?id=44386328) #29 5 points 2 comments -> [CC Signals: A New Social Contract for the Age of AI](https://creativecommons.org/2025/06/25/introducing-cc-signals-a-new-social-contract-for-the-age-of-ai/)<!-- HN:44386328:end --><!-- HN:44352990:start -->
-* [44352990](https://news.social-protocols.org/stats?id=44352990) #24 9 points 2 comments -> [Low Overhead Allocation Sampling in a Garbage Collected Virtual Machine](https://arxiv.org/abs/2506.16883)<!-- HN:44352990:end --><!-- HN:44392414:start -->
-* [44392414](https://news.social-protocols.org/stats?id=44392414) #26 4 points 0 comments -> [BBC to start charging US-based consumers for news and TV coverage](https://www.theguardian.com/media/2025/jun/26/bbc-usa-paid-subscription-news)<!-- HN:44392414:end -->
 #### **Friday, June 27, 2025**
 <!-- HN:44391711:start -->
 * [44391711](https://news.social-protocols.org/stats?id=44391711) #25 65 points 43 comments -> [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)<!-- HN:44391711:end --><!-- HN:44393270:start -->
