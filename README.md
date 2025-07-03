@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44444556](https://news.social-protocols.org/stats?id=44444556) #12 16 points 10 comments -> [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)<!-- HN:44444556:end --><!-- HN:44445042:start -->
 * [44445042](https://news.social-protocols.org/stats?id=44445042) #29 20 points 12 comments -> [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)<!-- HN:44445042:end -->
 #### **Thursday, July 3, 2025**<!-- HN:44452140:start -->
-* [44452140](https://news.social-protocols.org/stats?id=44452140) #27 9 points 6 comments -> [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)<!-- HN:44452140:end -->
+* [44452140](https://news.social-protocols.org/stats?id=44452140) #27 9 points 6 comments -> [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)<!-- HN:44452140:end --><!-- HN:44450937:start -->
+* [44450937](https://news.social-protocols.org/stats?id=44450937) #20 29 points 40 comments -> [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)<!-- HN:44450937:end -->
