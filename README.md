@@ -121,5 +121,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44444556](https://news.social-protocols.org/stats?id=44444556) #12 16 points 10 comments -> [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)<!-- HN:44444556:end --><!-- HN:44445042:start -->
 * [44445042](https://news.social-protocols.org/stats?id=44445042) #29 20 points 12 comments -> [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)<!-- HN:44445042:end -->
 #### **Thursday, July 3, 2025**
-<!-- HN:44450789:start -->
-* [44450789](https://news.social-protocols.org/stats?id=44450789) #28 32 points 1 comments -> [Gaza: Doctors Under Attack review – this crucial film is the stuff of nightmares](https://www.theguardian.com/tv-and-radio/2025/jul/03/gaza-doctors-under-attack-review-channel-4-crucial-film-stuff-of-nightmares)<!-- HN:44450789:end -->
