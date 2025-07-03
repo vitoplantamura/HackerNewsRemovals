@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44445042](https://news.social-protocols.org/stats?id=44445042) #29 20 points 12 comments -> [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)<!-- HN:44445042:end -->
 #### **Thursday, July 3, 2025**<!-- HN:44452140:start -->
 * [44452140](https://news.social-protocols.org/stats?id=44452140) #27 9 points 6 comments -> [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)<!-- HN:44452140:end --><!-- HN:44450937:start -->
-* [44450937](https://news.social-protocols.org/stats?id=44450937) #20 29 points 40 comments -> [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)<!-- HN:44450937:end -->
+* [44450937](https://news.social-protocols.org/stats?id=44450937) #20 29 points 40 comments -> [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)<!-- HN:44450937:end --><!-- HN:44453527:start -->
+* [44453527](https://news.social-protocols.org/stats?id=44453527) #8 4 points 0 comments -> [Far-Right Extremists Use Minecraft to Gamify Radicalisation](https://gnet-research.org/2025/07/02/playing-with-hate-how-far-right-extremists-use-minecraft-to-gamify-radicalisation/)<!-- HN:44453527:end -->
