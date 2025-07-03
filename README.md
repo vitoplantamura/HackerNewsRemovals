@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44442020](https://news.social-protocols.org/stats?id=44442020) #30 3 points 1 comments -> [Gemini mirrored the user. Claude said "I love you." We recorded the drift](https://drive.proton.me/urls/QZQ6QN5AVM#xp94MAFlT8gD)<!-- HN:44442020:end --><!-- HN:44444556:start -->
 * [44444556](https://news.social-protocols.org/stats?id=44444556) #12 16 points 10 comments -> [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)<!-- HN:44444556:end --><!-- HN:44445042:start -->
 * [44445042](https://news.social-protocols.org/stats?id=44445042) #29 20 points 12 comments -> [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)<!-- HN:44445042:end -->
-#### **Thursday, July 3, 2025**
+#### **Thursday, July 3, 2025**<!-- HN:44450812:start -->
+* [44450812](https://news.social-protocols.org/stats?id=44450812) #15 28 points 40 comments -> [The Uncertain Future of Coding Careers and Why I'm Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)<!-- HN:44450812:end -->
