@@ -107,3 +107,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44453317](https://news.social-protocols.org/stats?id=44453317) #23 6 points 0 comments -> [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)<!-- HN:44453317:end --><!-- HN:44456389:start -->
 * [44456389](https://news.social-protocols.org/stats?id=44456389) #10 37 points 29 comments -> [EBAF – eBPF Based Ad Firewall](https://github.com/Kazedaa/eBAF)<!-- HN:44456389:end --><!-- HN:44457949:start -->
 * [44457949](https://news.social-protocols.org/stats?id=44457949) #29 5 points 0 comments -> [Samsung delays $44B Texas chip fab – sources: 'there are no customers'](https://www.tomshardware.com/tech-industry/semiconductors/samsung-delays-usd44-billion-texas-chip-fab-sources-say-completion-halted-because-there-are-no-customers)<!-- HN:44457949:end -->
+#### **Friday, July 4, 2025**
+<!-- HN:44461158:start -->
+* [44461158](https://news.social-protocols.org/stats?id=44461158) #13 49 points 26 comments -> [White House claims expansive power to nullify TikTok ban and other laws](https://www.nytimes.com/2025/07/03/us/politics/trump-bondi-tiktok-executive-power.html)<!-- HN:44461158:end -->
