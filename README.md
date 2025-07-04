@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 4, 2025**
 <!-- HN:44461158:start -->
 * [44461158](https://news.social-protocols.org/stats?id=44461158) #13 49 points 26 comments -> [White House claims expansive power to nullify TikTok ban and other laws](https://www.nytimes.com/2025/07/03/us/politics/trump-bondi-tiktok-executive-power.html)<!-- HN:44461158:end --><!-- HN:44461368:start -->
-* [44461368](https://news.social-protocols.org/stats?id=44461368) #30 36 points 13 comments -> [Google says "not a security vulnerability", quickly fixes without attribution](https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ)<!-- HN:44461368:end -->
+* [44461368](https://news.social-protocols.org/stats?id=44461368) #30 36 points 13 comments -> [Google says "not a security vulnerability", quickly fixes without attribution](https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ)<!-- HN:44461368:end --><!-- HN:44462361:start -->
+* [44462361](https://news.social-protocols.org/stats?id=44462361) #9 6 points 0 comments -> [Show HN: Soham Agent – Write cold emails like Soham Parekh](https://buildthatidea.com/sohamagent/6c604d4f-caac-475f-b489-d568210f905a)<!-- HN:44462361:end -->
