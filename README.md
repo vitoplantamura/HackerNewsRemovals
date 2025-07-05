@@ -108,5 +108,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44468083](https://news.social-protocols.org/stats?id=44468083) #21 30 points 16 comments -> [Tesla's Cybertruck flop is historic. The brand collapse is even worse](https://www.dailykos.com/stories/2025/7/3/2331384/-Tesla-s-Cybertruck-flop-is-historic-The-brand-collapse-is-even-worse)<!-- HN:44468083:end -->
 #### **Saturday, July 5, 2025**
 <!-- HN:44466896:start -->
-* [44466896](https://news.social-protocols.org/stats?id=44466896) #9 124 points 4 comments -> [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)<!-- HN:44466896:end --><!-- HN:44445227:start -->
-* [44445227](https://news.social-protocols.org/stats?id=44445227) #13 21 points 40 comments -> [I convinced my K8s team to go AWS serverless. Spoiler, they didn't](https://medium.com/@dnsearching/how-i-convinced-my-k8s-team-to-go-aws-serverless-5104e880e7a4)<!-- HN:44445227:end -->
+* [44466896](https://news.social-protocols.org/stats?id=44466896) #9 124 points 4 comments -> [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)<!-- HN:44466896:end -->
