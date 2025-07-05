@@ -106,3 +106,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44462361](https://news.social-protocols.org/stats?id=44462361) #9 6 points 0 comments -> [Show HN: Soham Agent – Write cold emails like Soham Parekh](https://buildthatidea.com/sohamagent/6c604d4f-caac-475f-b489-d568210f905a)<!-- HN:44462361:end --><!-- HN:44466737:start -->
 * [44466737](https://news.social-protocols.org/stats?id=44466737) #2 12 points 0 comments -> [There's No Undo Button for Our Fallen Democracy](https://kottke.org/25/07/theres-no-undo-button-for-our-fallen-democracy)<!-- HN:44466737:end --><!-- HN:44468083:start -->
 * [44468083](https://news.social-protocols.org/stats?id=44468083) #21 30 points 16 comments -> [Tesla's Cybertruck flop is historic. The brand collapse is even worse](https://www.dailykos.com/stories/2025/7/3/2331384/-Tesla-s-Cybertruck-flop-is-historic-The-brand-collapse-is-even-worse)<!-- HN:44468083:end -->
+#### **Saturday, July 5, 2025**
+<!-- HN:44466896:start -->
+* [44466896](https://news.social-protocols.org/stats?id=44466896) #9 124 points 4 comments -> [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)<!-- HN:44466896:end -->
