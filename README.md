@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 5, 2025**
 <!-- HN:44466896:start -->
 * [44466896](https://news.social-protocols.org/stats?id=44466896) #9 124 points 4 comments -> [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)<!-- HN:44466896:end --><!-- HN:44432215:start -->
-* [44432215](https://news.social-protocols.org/stats?id=44432215) #17 12 points 0 comments -> [Show HN: Semcheck – AI Tool for checking implementation follows spec](https://github.com/rejot-dev/semcheck)<!-- HN:44432215:end -->
+* [44432215](https://news.social-protocols.org/stats?id=44432215) #17 12 points 0 comments -> [Show HN: Semcheck – AI Tool for checking implementation follows spec](https://github.com/rejot-dev/semcheck)<!-- HN:44432215:end --><!-- HN:44469798:start -->
+* [44469798](https://news.social-protocols.org/stats?id=44469798) #16 32 points 16 comments -> [Amiga Linux (1993)](https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk)<!-- HN:44469798:end -->
