@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, June 28, 2025**<!-- HN:44402887:start -->
-* [44402887](https://news.social-protocols.org/stats?id=44402887) #12 16 points 2 comments -> [I will fix your vibe-coded MVP – sgnt.ai](https://sgnt.ai/p/vibe-coded/)<!-- HN:44402887:end --><!-- HN:44367640:start -->
-* [44367640](https://news.social-protocols.org/stats?id=44367640) #8 9 points 3 comments -> [Show HN: La Touche Musicale PianoConvert](https://latouchemusicale.com/en/apps/pianoconvert/)<!-- HN:44367640:end --><!-- HN:44405655:start -->
-* [44405655](https://news.social-protocols.org/stats?id=44405655) #5 3 points 2 comments -> [The American Dream Is Broken. This $50M Bet Could Help Rebuild It](https://denver-frederick.com/2025/06/24/the-american-dream-is-broken-this-50-million-bet-could-help-rebuild-it/)<!-- HN:44405655:end --><!-- HN:44406360:start -->
-* [44406360](https://news.social-protocols.org/stats?id=44406360) #14 16 points 17 comments -> [Lima Site 85: How a CIA Helicopter Defended a Secret U.S. Radar Facility](https://www.aviacionline.com/lima-site-85-how-a-cia-helicopter-defended-a-secret-us-radar-facility)<!-- HN:44406360:end --><!-- HN:44406749:start -->
-* [44406749](https://news.social-protocols.org/stats?id=44406749) #16 21 points 24 comments -> [BYU study: Why some people choose not to use artificial intelligence](https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence)<!-- HN:44406749:end --><!-- HN:44376075:start -->
-* [44376075](https://news.social-protocols.org/stats?id=44376075) #24 17 points 11 comments -> [Show HN: A Go service that exposes a FIFO message queue in RAM](https://github.com/raiyanyahya/zapq)<!-- HN:44376075:end --><!-- HN:44346141:start -->
-* [44346141](https://news.social-protocols.org/stats?id=44346141) #18 204 points 122 comments -> [Engineer creates ad block for the real world with augmented reality glasses](https://www.tomshardware.com/maker-stem/engineer-creates-ad-block-for-the-real-world-with-augmented-reality-glasses-no-more-products-or-branding-in-your-everyday-life)<!-- HN:44346141:end -->
 #### **Sunday, June 29, 2025**
 <!-- HN:44406768:start -->
 * [44406768](https://news.social-protocols.org/stats?id=44406768) #22 31 points 40 comments -> [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)<!-- HN:44406768:end --><!-- HN:44410159:start -->
