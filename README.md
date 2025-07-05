@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44468083](https://news.social-protocols.org/stats?id=44468083) #21 30 points 16 comments -> [Tesla's Cybertruck flop is historic. The brand collapse is even worse](https://www.dailykos.com/stories/2025/7/3/2331384/-Tesla-s-Cybertruck-flop-is-historic-The-brand-collapse-is-even-worse)<!-- HN:44468083:end -->
 #### **Saturday, July 5, 2025**
 <!-- HN:44466896:start -->
-* [44466896](https://news.social-protocols.org/stats?id=44466896) #9 124 points 4 comments -> [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)<!-- HN:44466896:end -->
+* [44466896](https://news.social-protocols.org/stats?id=44466896) #9 124 points 4 comments -> [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)<!-- HN:44466896:end --><!-- HN:44470503:start -->
+* [44470503](https://news.social-protocols.org/stats?id=44470503) #30 39 points 10 comments -> [The terrifying truth about why Tesla's cars keep crashing](https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing)<!-- HN:44470503:end -->
