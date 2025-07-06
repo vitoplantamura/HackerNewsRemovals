@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44473711](https://news.social-protocols.org/stats?id=44473711) #4 48 points 17 comments -> [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)<!-- HN:44473711:end --><!-- HN:44474460:start -->
 * [44474460](https://news.social-protocols.org/stats?id=44474460) #4 7 points 1 comments -> [Two years ago today, Meta launched Threads. Does the world need this app?](https://stylestitches.substack.com/p/who-really-needs-threads)<!-- HN:44474460:end --><!-- HN:44473590:start -->
 * [44473590](https://news.social-protocols.org/stats?id=44473590) #14 157 points 58 comments -> [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)<!-- HN:44473590:end -->
+#### **Sunday, July 6, 2025**
+<!-- HN:44476502:start -->
+* [44476502](https://news.social-protocols.org/stats?id=44476502) #3 6 points 3 comments -> [I Shipped a macOS App Built by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)<!-- HN:44476502:end -->
