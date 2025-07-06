@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44473590](https://news.social-protocols.org/stats?id=44473590) #14 157 points 58 comments -> [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)<!-- HN:44473590:end -->
 #### **Sunday, July 6, 2025**
 <!-- HN:44476502:start -->
-* [44476502](https://news.social-protocols.org/stats?id=44476502) #3 6 points 3 comments -> [I Shipped a macOS App Built by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)<!-- HN:44476502:end -->
+* [44476502](https://news.social-protocols.org/stats?id=44476502) #3 6 points 3 comments -> [I Shipped a macOS App Built by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)<!-- HN:44476502:end --><!-- HN:44476774:start -->
+* [44476774](https://news.social-protocols.org/stats?id=44476774) #12 15 points 4 comments -> ['It's too late': David Suzuki says the fight against climate change is lost](https://www.ipolitics.ca/2025/07/02/its-too-late-david-suzuki-says-the-fight-against-climate-change-is-lost/)<!-- HN:44476774:end -->
