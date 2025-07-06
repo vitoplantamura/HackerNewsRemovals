@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, June 29, 2025**
-<!-- HN:44406768:start -->
-* [44406768](https://news.social-protocols.org/stats?id=44406768) #22 31 points 40 comments -> [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)<!-- HN:44406768:end --><!-- HN:44410159:start -->
-* [44410159](https://news.social-protocols.org/stats?id=44410159) #27 14 points 5 comments -> [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)<!-- HN:44410159:end --><!-- HN:44411021:start -->
-* [44411021](https://news.social-protocols.org/stats?id=44411021) #24 5 points 0 comments -> [A Gazan mother feeds her twins lentils instead of milk as blockade continues](https://truthforge.substack.com/p/a-gazan-mother-feeds-her-twins-lentils)<!-- HN:44411021:end --><!-- HN:44411083:start -->
-* [44411083](https://news.social-protocols.org/stats?id=44411083) #23 7 points 0 comments -> [Calling white middle-aged women Karen 'borders on racism'](https://www.thetimes.com/uk/law/article/calling-white-middle-aged-women-karen-borders-on-racism-b6wccb9g6)<!-- HN:44411083:end --><!-- HN:44410616:start -->
-* [44410616](https://news.social-protocols.org/stats?id=44410616) #17 32 points 40 comments -> [Brave creates new TLD on the blockchain](https://brave.com/blog/brave-tld/)<!-- HN:44410616:end --><!-- HN:44412308:start -->
-* [44412308](https://news.social-protocols.org/stats?id=44412308) #4 8 points 3 comments -> [A Framework for Recognizing Emergent Consciousness in AI](https://habr.com/en/articles/922894/)<!-- HN:44412308:end --><!-- HN:44408459:start -->
-* [44408459](https://news.social-protocols.org/stats?id=44408459) #15 85 points 39 comments -> [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)<!-- HN:44408459:end --><!-- HN:44412296:start -->
-* [44412296](https://news.social-protocols.org/stats?id=44412296) #29 6 points 0 comments -> [On the capacity, performance, and reliability of microSD cards](https://www.bahjeez.com/the-great-microsd-card-survey/)<!-- HN:44412296:end --><!-- HN:44412120:start -->
-* [44412120](https://news.social-protocols.org/stats?id=44412120) #25 13 points 5 comments -> [Toyota RAV4 topples Tesla Model Y as best-selling car](https://www.carexpert.com.au/car-news/toyota-rav4-topples-tesla-model-y-as-worlds-best-selling-car)<!-- HN:44412120:end --><!-- HN:44414286:start -->
-* [44414286](https://news.social-protocols.org/stats?id=44414286) #16 18 points 2 comments -> [Ok now this is just ridiculous](https://mastodon.social/@czeins/114739403773350112)<!-- HN:44414286:end --><!-- HN:44414895:start -->
-* [44414895](https://news.social-protocols.org/stats?id=44414895) #10 13 points 0 comments -> [Budapest Pride Parade Was Bigger Than Ever, Despite Orban's Ban](https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html)<!-- HN:44414895:end --><!-- HN:44414553:start -->
-* [44414553](https://news.social-protocols.org/stats?id=44414553) #7 5 points 0 comments -> [Analysing the Death Toll from the Hamas-Run Ministry of Health in Gaza [pdf]](https://henryjacksonsociety.org/wp-content/uploads/2024/12/HJS-Questionable-Counting-%E2%80%93-Hamas-Report-web-v2.pdf)<!-- HN:44414553:end --><!-- HN:44415145:start -->
-* [44415145](https://news.social-protocols.org/stats?id=44415145) #9 11 points 3 comments -> [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)<!-- HN:44415145:end --><!-- HN:44415563:start -->
-* [44415563](https://news.social-protocols.org/stats?id=44415563) #24 9 points 1 comments -> [The Asymmetry of Destruction](https://passingtime.substack.com/p/the-asymmetry-of-destruction)<!-- HN:44415563:end --><!-- HN:44417629:start -->
-* [44417629](https://news.social-protocols.org/stats?id=44417629) #19 7 points 3 comments -> [The End of US Democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)<!-- HN:44417629:end -->
 #### **Monday, June 30, 2025**
 <!-- HN:44417846:start -->
 * [44417846](https://news.social-protocols.org/stats?id=44417846) #14 -> [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)<!-- HN:44417846:end --><!-- HN:44414853:start -->
