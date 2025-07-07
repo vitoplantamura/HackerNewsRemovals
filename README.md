@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 30, 2025**
-<!-- HN:44417846:start -->
-* [44417846](https://news.social-protocols.org/stats?id=44417846) #14 -> [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)<!-- HN:44417846:end --><!-- HN:44414853:start -->
-* [44414853](https://news.social-protocols.org/stats?id=44414853) #28 284 points 132 comments -> [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)<!-- HN:44414853:end --><!-- HN:44420436:start -->
-* [44420436](https://news.social-protocols.org/stats?id=44420436) #30 6 points 3 comments -> [Louvre shuts down with staff sounding the alarm on mass tourism](https://www.washingtonpost.com/world/2025/06/16/louvre-museum-paris-closed-lines-delay/2b303a16-4a9f-11f0-8fff-262d6ec54ab9_story.html)<!-- HN:44420436:end --><!-- HN:44421749:start -->
-* [44421749](https://news.social-protocols.org/stats?id=44421749) #15 15 points 2 comments -> [GOP Bill Adds Surprise Tax That Could Cripple Wind and Solar Power](https://www.nytimes.com/2025/06/29/climate/gop-bill-adds-surprise-tax-that-could-cripple-wind-and-solar-power.html)<!-- HN:44421749:end --><!-- HN:44422209:start -->
-* [44422209](https://news.social-protocols.org/stats?id=44422209) #17 4 points 1 comments -> ['Bloodiest 21st century war': New study finds Gaza's real death toll nears 100k](https://thecradle.co/articles-id/31631)<!-- HN:44422209:end --><!-- HN:44422040:start -->
-* [44422040](https://news.social-protocols.org/stats?id=44422040) #15 109 points 137 comments -> [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)<!-- HN:44422040:end --><!-- HN:44424456:start -->
-* [44424456](https://news.social-protocols.org/stats?id=44424456) #18 13 points 6 comments -> [Make Fun of Them](https://www.wheresyoured.at/make-fun-of-them/)<!-- HN:44424456:end --><!-- HN:44428518:start -->
-* [44428518](https://news.social-protocols.org/stats?id=44428518) #25 -> [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)<!-- HN:44428518:end -->
 #### **Tuesday, July 1, 2025**<!-- HN:44429190:start -->
 * [44429190](https://news.social-protocols.org/stats?id=44429190) #7 12 points 3 comments -> [Taste Is the New Intelligence](https://wildbarestepf.substack.com/p/taste-is-the-new-intelligence)<!-- HN:44429190:end --><!-- HN:44406866:start -->
 * [44406866](https://news.social-protocols.org/stats?id=44406866) #30 8 points 2 comments -> [Making a $20 smart boombox [video]](https://www.youtube.com/watch?v=P3XCPywlXBI)<!-- HN:44406866:end --><!-- HN:44403117:start -->
@@ -118,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44481964](https://news.social-protocols.org/stats?id=44481964) #24 16 points 2 comments -> [ChatGPT is pushing people towards mania, psychosis and death](https://www.the-independent.com/tech/chatgpt-psychosis-ai-therapy-chatbot-b2781202.html)<!-- HN:44481964:end -->
 #### **Monday, July 7, 2025**
 <!-- HN:44482611:start -->
-* [44482611](https://news.social-protocols.org/stats?id=44482611) #22 66 points 4 comments -> [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)<!-- HN:44482611:end -->
+* [44482611](https://news.social-protocols.org/stats?id=44482611) #22 66 points 4 comments -> [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)<!-- HN:44482611:end --><!-- HN:44485027:start -->
+* [44485027](https://news.social-protocols.org/stats?id=44485027) #10 24 points 3 comments -> ["Do not highlight any negatives"](https://www.google.com/search?q=%22do+not+highlight+any+negatives%22+site%3Aarxiv.org)<!-- HN:44485027:end -->
