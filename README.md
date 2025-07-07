@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44480389](https://news.social-protocols.org/stats?id=44480389) #26 7 points 0 comments -> [Guide to Ukraine's Long Range Attack Drones](http://www.hisutton.com/Ukraine-OWA-UAVs.html)<!-- HN:44480389:end --><!-- HN:44481949:start -->
 * [44481949](https://news.social-protocols.org/stats?id=44481949) #20 4 points 0 comments -> [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)<!-- HN:44481949:end --><!-- HN:44481964:start -->
 * [44481964](https://news.social-protocols.org/stats?id=44481964) #24 16 points 2 comments -> [ChatGPT is pushing people towards mania, psychosis and death](https://www.the-independent.com/tech/chatgpt-psychosis-ai-therapy-chatbot-b2781202.html)<!-- HN:44481964:end -->
+#### **Monday, July 7, 2025**
+<!-- HN:44482611:start -->
+* [44482611](https://news.social-protocols.org/stats?id=44482611) #22 66 points 4 comments -> [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)<!-- HN:44482611:end -->
