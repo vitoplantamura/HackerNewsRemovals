@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 7, 2025**
 <!-- HN:44482611:start -->
 * [44482611](https://news.social-protocols.org/stats?id=44482611) #22 66 points 4 comments -> [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)<!-- HN:44482611:end --><!-- HN:44485027:start -->
-* [44485027](https://news.social-protocols.org/stats?id=44485027) #10 24 points 3 comments -> ["Do not highlight any negatives"](https://www.google.com/search?q=%22do+not+highlight+any+negatives%22+site%3Aarxiv.org)<!-- HN:44485027:end -->
+* [44485027](https://news.social-protocols.org/stats?id=44485027) #10 24 points 3 comments -> ["Do not highlight any negatives"](https://www.google.com/search?q=%22do+not+highlight+any+negatives%22+site%3Aarxiv.org)<!-- HN:44485027:end --><!-- HN:44486193:start -->
+* [44486193](https://news.social-protocols.org/stats?id=44486193) #20 15 points 28 comments -> [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)<!-- HN:44486193:end -->
