@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, July 8, 2025**<!-- HN:44497844:start -->
 * [44497844](https://news.social-protocols.org/stats?id=44497844) #21 31 points 40 comments -> [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)<!-- HN:44497844:end --><!-- HN:44501034:start -->
 * [44501034](https://news.social-protocols.org/stats?id=44501034) #19 60 points 41 comments -> [Zorin OS](https://zorin.com/os/)<!-- HN:44501034:end --><!-- HN:44501743:start -->
-* [44501743](https://news.social-protocols.org/stats?id=44501743) #7 12 points 0 comments -> [AnyBlox: A Framework for Self-Decoding Datasets [pdf]](https://gienieczko.com/anyblox-paper)<!-- HN:44501743:end -->
+* [44501743](https://news.social-protocols.org/stats?id=44501743) #7 12 points 0 comments -> [AnyBlox: A Framework for Self-Decoding Datasets [pdf]](https://gienieczko.com/anyblox-paper)<!-- HN:44501743:end --><!-- HN:44503585:start -->
+* [44503585](https://news.social-protocols.org/stats?id=44503585) #5 3 points 0 comments -> [roons: A kit for building mechanical computers](https://whomtech.com/roons/)<!-- HN:44503585:end -->
