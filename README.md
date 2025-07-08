@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44494117](https://news.social-protocols.org/stats?id=44494117) #11 3 points 1 comments -> [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)<!-- HN:44494117:end --><!-- HN:44494401:start -->
 * [44494401](https://news.social-protocols.org/stats?id=44494401) #27 4 points 1 comments -> [An Open Letter to the Leadership of Sequoia Capital](https://shaunmaguire.fyi/)<!-- HN:44494401:end -->
 #### **Tuesday, July 8, 2025**<!-- HN:44497844:start -->
-* [44497844](https://news.social-protocols.org/stats?id=44497844) #21 31 points 40 comments -> [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)<!-- HN:44497844:end -->
+* [44497844](https://news.social-protocols.org/stats?id=44497844) #21 31 points 40 comments -> [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)<!-- HN:44497844:end --><!-- HN:44501034:start -->
+* [44501034](https://news.social-protocols.org/stats?id=44501034) #19 60 points 41 comments -> [Zorin OS](https://zorin.com/os/)<!-- HN:44501034:end -->
