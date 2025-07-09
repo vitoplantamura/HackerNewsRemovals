@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 9, 2025**
 <!-- HN:44505675:start -->
 * [44505675](https://news.social-protocols.org/stats?id=44505675) #18 212 points 98 comments -> [US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)<!-- HN:44505675:end --><!-- HN:44506991:start -->
-* [44506991](https://news.social-protocols.org/stats?id=44506991) #4 9 points 0 comments -> [40 Hot Swedish AI Startups](https://www.di.se/digital/here-are-the-swedish-ai-companies-everyone-is-talking-about/)<!-- HN:44506991:end -->
+* [44506991](https://news.social-protocols.org/stats?id=44506991) #4 9 points 0 comments -> [40 Hot Swedish AI Startups](https://www.di.se/digital/here-are-the-swedish-ai-companies-everyone-is-talking-about/)<!-- HN:44506991:end --><!-- HN:44483917:start -->
+* [44483917](https://news.social-protocols.org/stats?id=44483917) #10 10 points 2 comments -> [The Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)<!-- HN:44483917:end -->
