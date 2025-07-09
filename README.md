@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44503221](https://news.social-protocols.org/stats?id=44503221) #25 10 points 0 comments -> [Show HN: OpenAPI mocks that don't suck – realistic test data, quick setup](https://beeceptor.com/openapi-mock-server/)<!-- HN:44503221:end -->
 #### **Wednesday, July 9, 2025**
 <!-- HN:44505675:start -->
-* [44505675](https://news.social-protocols.org/stats?id=44505675) #18 212 points 98 comments -> [US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)<!-- HN:44505675:end -->
+* [44505675](https://news.social-protocols.org/stats?id=44505675) #18 212 points 98 comments -> [US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)<!-- HN:44505675:end --><!-- HN:44506991:start -->
+* [44506991](https://news.social-protocols.org/stats?id=44506991) #4 9 points 0 comments -> [40 Hot Swedish AI Startups](https://www.di.se/digital/here-are-the-swedish-ai-companies-everyone-is-talking-about/)<!-- HN:44506991:end -->
