@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, July 2, 2025**
-<!-- HN:44439306:start -->
-* [44439306](https://news.social-protocols.org/stats?id=44439306) #8 4 points 0 comments -> [Profiting from Genocide](https://chrishedges.substack.com/p/profiting-from-genocide)<!-- HN:44439306:end --><!-- HN:44439513:start -->
-* [44439513](https://news.social-protocols.org/stats?id=44439513) #6 21 points 1 comments -> [RFK Jr.'s health department calls Nature "junk science," cancels subscriptions](https://arstechnica.com/health/2025/07/rfk-jr-s-health-department-calls-nature-junk-science-cancels-subscriptions/)<!-- HN:44439513:end --><!-- HN:44439730:start -->
-* [44439730](https://news.social-protocols.org/stats?id=44439730) #6 4 points 3 comments -> [Are Young People Having Enough Sex?](https://www.newyorker.com/magazine/2025/06/30/the-case-against-the-sexual-revolution-louise-perry-book-review-the-second-coming-carter-sherman)<!-- HN:44439730:end --><!-- HN:44440419:start -->
-* [44440419](https://news.social-protocols.org/stats?id=44440419) #2 8 points 2 comments -> [Working too much? EU law says you're entitled to more rest.:)](https://nureti.com/blog/things-you-did-not-know-eu-time-directive/)<!-- HN:44440419:end --><!-- HN:44440464:start -->
-* [44440464](https://news.social-protocols.org/stats?id=44440464) #10 10 points 0 comments -> [The first American 'scientific refugees' arrive in France](https://www.politico.eu/article/meet-first-academic-refugees-fleeing-us-france-science-program/)<!-- HN:44440464:end --><!-- HN:44440362:start -->
-* [44440362](https://news.social-protocols.org/stats?id=44440362) #30 9 points 3 comments -> [Why Big Tech Turned Against Democrats – and Democracy](https://paulkrugman.substack.com/p/why-big-tech-turned-against-democrats)<!-- HN:44440362:end --><!-- HN:44440556:start -->
-* [44440556](https://news.social-protocols.org/stats?id=44440556) #16 6 points 1 comments -> [Hydrogen sulphide gas restricts SARS-CoV-2 replication in host cells](https://iisc.ac.in/hydrogen-sulphide-gas-restricts-sars-cov-2-replication-in-host-cells/)<!-- HN:44440556:end --><!-- HN:44442020:start -->
-* [44442020](https://news.social-protocols.org/stats?id=44442020) #30 3 points 1 comments -> [Gemini mirrored the user. Claude said "I love you." We recorded the drift](https://drive.proton.me/urls/QZQ6QN5AVM#xp94MAFlT8gD)<!-- HN:44442020:end --><!-- HN:44444556:start -->
-* [44444556](https://news.social-protocols.org/stats?id=44444556) #12 16 points 10 comments -> [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)<!-- HN:44444556:end --><!-- HN:44445042:start -->
-* [44445042](https://news.social-protocols.org/stats?id=44445042) #29 20 points 12 comments -> [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)<!-- HN:44445042:end -->
 #### **Thursday, July 3, 2025**<!-- HN:44452140:start -->
 * [44452140](https://news.social-protocols.org/stats?id=44452140) #27 9 points 6 comments -> [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)<!-- HN:44452140:end --><!-- HN:44450937:start -->
 * [44450937](https://news.social-protocols.org/stats?id=44450937) #20 29 points 40 comments -> [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)<!-- HN:44450937:end --><!-- HN:44453527:start -->
