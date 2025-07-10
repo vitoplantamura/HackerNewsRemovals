@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44512799](https://news.social-protocols.org/stats?id=44512799) #30 7 points 3 comments -> [OpenAI's open language model is imminent](https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad)<!-- HN:44512799:end -->
 #### **Thursday, July 10, 2025**
 <!-- HN:44515650:start -->
-* [44515650](https://news.social-protocols.org/stats?id=44515650) #30 6 points 1 comments -> [Show HN: I built a social media app at 11 using AI and a phone](https://app--woo-short-78d020b9.base44.app)<!-- HN:44515650:end -->
+* [44515650](https://news.social-protocols.org/stats?id=44515650) #30 6 points 1 comments -> [Show HN: I built a social media app at 11 using AI and a phone](https://app--woo-short-78d020b9.base44.app)<!-- HN:44515650:end --><!-- HN:44516317:start -->
+* [44516317](https://news.social-protocols.org/stats?id=44516317) #22 4 points 0 comments -> [The case for building operator interfaces before AI agents](https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building)<!-- HN:44516317:end -->
