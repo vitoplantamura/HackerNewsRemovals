@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44515650:start -->
 * [44515650](https://news.social-protocols.org/stats?id=44515650) #30 6 points 1 comments -> [Show HN: I built a social media app at 11 using AI and a phone](https://app--woo-short-78d020b9.base44.app)<!-- HN:44515650:end --><!-- HN:44516317:start -->
 * [44516317](https://news.social-protocols.org/stats?id=44516317) #22 4 points 0 comments -> [The case for building operator interfaces before AI agents](https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building)<!-- HN:44516317:end --><!-- HN:44516586:start -->
-* [44516586](https://news.social-protocols.org/stats?id=44516586) #20 4 points 0 comments -> [The Persecution of Francesca Albanese](https://chrishedges.substack.com/p/the-persecution-of-francesca-albanese)<!-- HN:44516586:end -->
+* [44516586](https://news.social-protocols.org/stats?id=44516586) #20 4 points 0 comments -> [The Persecution of Francesca Albanese](https://chrishedges.substack.com/p/the-persecution-of-francesca-albanese)<!-- HN:44516586:end --><!-- HN:44517055:start -->
+* [44517055](https://news.social-protocols.org/stats?id=44517055) #11 59 points 41 comments -> [Grok 4 Launch [video]](https://twitter.com/xai/status/1943158495588815072)<!-- HN:44517055:end -->
