@@ -105,3 +105,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44510656](https://news.social-protocols.org/stats?id=44510656) #24 3 points 1 comments -> [Skia Graphite: Chrome's rasterization back end for the future](https://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html)<!-- HN:44510656:end --><!-- HN:44509790:start -->
 * [44509790](https://news.social-protocols.org/stats?id=44509790) #30 21 points 3 comments -> [Jurisdiction Is Nearly Irrelevant to the Security of Encrypted Messaging Apps](https://soatok.blog/2025/07/09/jurisdiction-is-nearly-irrelevant-to-the-security-of-encrypted-messaging-apps/)<!-- HN:44509790:end --><!-- HN:44512799:start -->
 * [44512799](https://news.social-protocols.org/stats?id=44512799) #30 7 points 3 comments -> [OpenAI's open language model is imminent](https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad)<!-- HN:44512799:end -->
+#### **Thursday, July 10, 2025**
+<!-- HN:44515650:start -->
+* [44515650](https://news.social-protocols.org/stats?id=44515650) #30 6 points 1 comments -> [Show HN: I built a social media app at 11 using AI and a phone](https://app--woo-short-78d020b9.base44.app)<!-- HN:44515650:end -->
