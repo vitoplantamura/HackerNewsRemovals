@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 11, 2025**
 <!-- HN:44527301:start -->
 * [44527301](https://news.social-protocols.org/stats?id=44527301) #20 10 points 1 comments -> [Over 2,000 senior staff set to leave NASA under agency push](https://www.politico.com/news/2025/07/09/nasa-staff-departures-00444674?cdmc=2zglpgOF21PefXUKP0PbPaLZDC0&refcode2=2zglpgOF21PefXUKP0PbPaLZDC0&refcodecdmc=2zglpgOF21PefXUKP0PbPaLZDC0)<!-- HN:44527301:end --><!-- HN:44527930:start -->
-* [44527930](https://news.social-protocols.org/stats?id=44527930) #24 7 points 1 comments -> [Man Afraid to Ride Subway Named Head of NASA](https://www.rollingstone.com/politics/politics-news/trump-sean-duffy-interim-nasa-administrator-1235382413/)<!-- HN:44527930:end -->
+* [44527930](https://news.social-protocols.org/stats?id=44527930) #24 7 points 1 comments -> [Man Afraid to Ride Subway Named Head of NASA](https://www.rollingstone.com/politics/politics-news/trump-sean-duffy-interim-nasa-administrator-1235382413/)<!-- HN:44527930:end --><!-- HN:44528536:start -->
+* [44528536](https://news.social-protocols.org/stats?id=44528536) #14 8 points 5 comments -> [SEO Is Dead. Long Live Geo](https://substack.gauravvohra.com/p/search-is-dead-long-live-llms-winning-in-the-era-of-llms-ai-overviews-and-geo)<!-- HN:44528536:end -->
