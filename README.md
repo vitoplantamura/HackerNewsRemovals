@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44525582](https://news.social-protocols.org/stats?id=44525582) #2 9 points 1 comments -> [The AI Con](https://thecon.ai/)<!-- HN:44525582:end --><!-- HN:44524571:start -->
 * [44524571](https://news.social-protocols.org/stats?id=44524571) #10 27 points 41 comments -> [Working with the UK Government to Protect Children Online](https://bsky.social/about/blog/07-10-2025-age-assurance)<!-- HN:44524571:end --><!-- HN:44523830:start -->
 * [44523830](https://news.social-protocols.org/stats?id=44523830) #28 14 points 0 comments -> [Exploiting a 20 years old NTFS Vulnerability](https://swarm.ptsecurity.com/buried-in-the-log-exploiting-a-20-years-old-ntfs-vulnerability/)<!-- HN:44523830:end -->
+#### **Friday, July 11, 2025**
+<!-- HN:44526220:start -->
+* [44526220](https://news.social-protocols.org/stats?id=44526220) #24 50 points 40 comments -> [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)<!-- HN:44526220:end -->
