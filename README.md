@@ -113,7 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44524571](https://news.social-protocols.org/stats?id=44524571) #10 27 points 41 comments -> [Working with the UK Government to Protect Children Online](https://bsky.social/about/blog/07-10-2025-age-assurance)<!-- HN:44524571:end --><!-- HN:44523830:start -->
 * [44523830](https://news.social-protocols.org/stats?id=44523830) #28 14 points 0 comments -> [Exploiting a 20 years old NTFS Vulnerability](https://swarm.ptsecurity.com/buried-in-the-log-exploiting-a-20-years-old-ntfs-vulnerability/)<!-- HN:44523830:end -->
 #### **Friday, July 11, 2025**
-<!-- HN:44526220:start -->
-* [44526220](https://news.social-protocols.org/stats?id=44526220) #24 50 points 40 comments -> [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)<!-- HN:44526220:end --><!-- HN:44527301:start -->
+<!-- HN:44527301:start -->
 * [44527301](https://news.social-protocols.org/stats?id=44527301) #20 10 points 1 comments -> [Over 2,000 senior staff set to leave NASA under agency push](https://www.politico.com/news/2025/07/09/nasa-staff-departures-00444674?cdmc=2zglpgOF21PefXUKP0PbPaLZDC0&refcode2=2zglpgOF21PefXUKP0PbPaLZDC0&refcodecdmc=2zglpgOF21PefXUKP0PbPaLZDC0)<!-- HN:44527301:end --><!-- HN:44527930:start -->
 * [44527930](https://news.social-protocols.org/stats?id=44527930) #24 7 points 1 comments -> [Man Afraid to Ride Subway Named Head of NASA](https://www.rollingstone.com/politics/politics-news/trump-sean-duffy-interim-nasa-administrator-1235382413/)<!-- HN:44527930:end -->
