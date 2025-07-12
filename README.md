@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, July 5, 2025**
-<!-- HN:44466896:start -->
-* [44466896](https://news.social-protocols.org/stats?id=44466896) #9 124 points 4 comments -> [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)<!-- HN:44466896:end --><!-- HN:44469798:start -->
-* [44469798](https://news.social-protocols.org/stats?id=44469798) #16 32 points 16 comments -> [Amiga Linux (1993)](https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk)<!-- HN:44469798:end --><!-- HN:44470803:start -->
-* [44470803](https://news.social-protocols.org/stats?id=44470803) #12 49 points 17 comments -> [French City of Lyon Kicks Out Microsoft](https://news.itsfoss.com/french-city-replaces-microsoft/)<!-- HN:44470803:end --><!-- HN:44471861:start -->
-* [44471861](https://news.social-protocols.org/stats?id=44471861) #27 5 points 1 comments -> [Cars' Forward Blind Zones Are Worse Now Than 25 Years Ago](https://www.caranddriver.com/news/a65219830/car-blind-zones-study-iihs/)<!-- HN:44471861:end --><!-- HN:44432895:start -->
-* [44432895](https://news.social-protocols.org/stats?id=44432895) #1 33 points 2 comments -> [How AI on Microcontrollers Works: Operators and Kernels](https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/)<!-- HN:44432895:end --><!-- HN:44472884:start -->
-* [44472884](https://news.social-protocols.org/stats?id=44472884) #21 6 points 0 comments -> [Before releasing a new AI model Sam Altman would be put into a Server room](https://twitter.com/the_yanco/status/1941388896387875282)<!-- HN:44472884:end --><!-- HN:44473098:start -->
-* [44473098](https://news.social-protocols.org/stats?id=44473098) #26 7 points 2 comments -> [Musk and co should ask AI what defines intelligence. They may learn something](https://observer.co.uk/news/columnists/article/musk-and-co-should-ask-an-ai-what-defines-intelligence-they-may-learn-something)<!-- HN:44473098:end --><!-- HN:44473436:start -->
-* [44473436](https://news.social-protocols.org/stats?id=44473436) #9 7 points 7 comments -> [How U.S. Tourists Are Dealing with a New Animosity Overseas](https://www.wsj.com/lifestyle/travel/american-international-travel-tips-0a70af73)<!-- HN:44473436:end --><!-- HN:44473638:start -->
-* [44473638](https://news.social-protocols.org/stats?id=44473638) #5 -> [The "Big Beautiful Bill" destroys science, freedom, equality, and democracy](https://news.immunologic.org/p/rip-america-or-at-least-the-american)<!-- HN:44473638:end --><!-- HN:44473677:start -->
-* [44473677](https://news.social-protocols.org/stats?id=44473677) #10 40 points 8 comments -> [Goodbye to All That – My Resignation from the FBI](https://www.lawfaremedia.org/article/goodbye-to-all-that)<!-- HN:44473677:end --><!-- HN:44473711:start -->
-* [44473711](https://news.social-protocols.org/stats?id=44473711) #4 48 points 17 comments -> [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)<!-- HN:44473711:end --><!-- HN:44474460:start -->
-* [44474460](https://news.social-protocols.org/stats?id=44474460) #4 7 points 1 comments -> [Two years ago today, Meta launched Threads. Does the world need this app?](https://stylestitches.substack.com/p/who-really-needs-threads)<!-- HN:44474460:end --><!-- HN:44473590:start -->
-* [44473590](https://news.social-protocols.org/stats?id=44473590) #14 157 points 58 comments -> [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)<!-- HN:44473590:end -->
 #### **Sunday, July 6, 2025**
 <!-- HN:44476502:start -->
 * [44476502](https://news.social-protocols.org/stats?id=44476502) #3 6 points 3 comments -> [I Shipped a macOS App Built by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)<!-- HN:44476502:end --><!-- HN:44476774:start -->
