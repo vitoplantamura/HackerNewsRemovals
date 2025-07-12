@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44531561](https://news.social-protocols.org/stats?id=44531561) #4 89 points 53 comments -> ['Click-to-cancel' rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)<!-- HN:44531561:end --><!-- HN:44536572:start -->
 * [44536572](https://news.social-protocols.org/stats?id=44536572) #26 6 points 1 comments -> [Dutch Childcare Benefits Scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)<!-- HN:44536572:end --><!-- HN:44536691:start -->
 * [44536691](https://news.social-protocols.org/stats?id=44536691) #19 44 points 28 comments -> [Air India Flight 171 Accident Preliminary Report [pdf]](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)<!-- HN:44536691:end -->
-#### **Saturday, July 12, 2025**
+#### **Saturday, July 12, 2025**<!-- HN:44541001:start -->
+* [44541001](https://news.social-protocols.org/stats?id=44541001) #5 19 points 12 comments -> [Revival: There appears to be media consensus: "Bluesky is dead."](https://netwars.pelicancrossing.net/2025/06/27/revival/)<!-- HN:44541001:end -->
