@@ -112,5 +112,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44536572](https://news.social-protocols.org/stats?id=44536572) #26 6 points 1 comments -> [Dutch Childcare Benefits Scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)<!-- HN:44536572:end --><!-- HN:44536691:start -->
 * [44536691](https://news.social-protocols.org/stats?id=44536691) #19 44 points 28 comments -> [Air India Flight 171 Accident Preliminary Report [pdf]](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)<!-- HN:44536691:end -->
 #### **Saturday, July 12, 2025**
-<!-- HN:44539294:start -->
-* [44539294](https://news.social-protocols.org/stats?id=44539294) #26 18 points 5 comments -> [Before Tragedy, Texas Repeatedly Rejected Pleas for Flood Alarm Funding](https://www.nytimes.com/2025/07/10/us/politics/texas-flood-alarm-system.html)<!-- HN:44539294:end -->
