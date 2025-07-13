@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 13, 2025**
 <!-- HN:44543508:start -->
 * [44543508](https://news.social-protocols.org/stats?id=44543508) #7 346 points 2 comments -> [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)<!-- HN:44543508:end --><!-- HN:44548252:start -->
-* [44548252](https://news.social-protocols.org/stats?id=44548252) #5 21 points 3 comments -> [Gmail AI hallucinates, distorts email contents](https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html)<!-- HN:44548252:end -->
+* [44548252](https://news.social-protocols.org/stats?id=44548252) #5 21 points 3 comments -> [Gmail AI hallucinates, distorts email contents](https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html)<!-- HN:44548252:end --><!-- HN:44550210:start -->
+* [44550210](https://news.social-protocols.org/stats?id=44550210) #22 -> [Who Goes MAGA?](https://www.techdirt.com/2025/07/08/who-goes-maga/)<!-- HN:44550210:end -->
