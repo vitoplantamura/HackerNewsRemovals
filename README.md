@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, July 6, 2025**
-<!-- HN:44476502:start -->
-* [44476502](https://news.social-protocols.org/stats?id=44476502) #3 6 points 3 comments -> [I Shipped a macOS App Built by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)<!-- HN:44476502:end --><!-- HN:44476774:start -->
-* [44476774](https://news.social-protocols.org/stats?id=44476774) #12 15 points 4 comments -> ['It's too late': David Suzuki says the fight against climate change is lost](https://www.ipolitics.ca/2025/07/02/its-too-late-david-suzuki-says-the-fight-against-climate-change-is-lost/)<!-- HN:44476774:end --><!-- HN:44477394:start -->
-* [44477394](https://news.social-protocols.org/stats?id=44477394) #19 -> [I live in TX and TX needs to do better. Global warming cannot be denied](https://www.cnn.com/2025/07/05/climate/texas-flooding-forecast-response)<!-- HN:44477394:end --><!-- HN:44477648:start -->
-* [44477648](https://news.social-protocols.org/stats?id=44477648) #24 9 points 2 comments -> [As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas](https://www.nytimes.com/2025/07/05/us/politics/texas-floods-warnings-vacancies.html)<!-- HN:44477648:end --><!-- HN:44477512:start -->
-* [44477512](https://news.social-protocols.org/stats?id=44477512) #7 19 points 8 comments -> [Zuck's Haul: Tracking Meta's AI Talent Acquisitions](https://zuckshaul.com)<!-- HN:44477512:end --><!-- HN:44477785:start -->
-* [44477785](https://news.social-protocols.org/stats?id=44477785) #7 6 points 0 comments -> [Anubis – Open-Source Web AI Firewall Utility](https://github.com/TecharoHQ/anubis)<!-- HN:44477785:end --><!-- HN:44478737:start -->
-* [44478737](https://news.social-protocols.org/stats?id=44478737) #11 34 points 29 comments -> [Triffin Dilemma: How the US Genius Act Could Trigger a 'Digital Nixon Shock](https://www.haebom.dev/archive?tl=en&post=943zqpmqrk14g2wnvy87)<!-- HN:44478737:end --><!-- HN:44480389:start -->
-* [44480389](https://news.social-protocols.org/stats?id=44480389) #26 7 points 0 comments -> [Guide to Ukraine's Long Range Attack Drones](http://www.hisutton.com/Ukraine-OWA-UAVs.html)<!-- HN:44480389:end --><!-- HN:44481949:start -->
-* [44481949](https://news.social-protocols.org/stats?id=44481949) #20 4 points 0 comments -> [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)<!-- HN:44481949:end --><!-- HN:44481964:start -->
-* [44481964](https://news.social-protocols.org/stats?id=44481964) #24 16 points 2 comments -> [ChatGPT is pushing people towards mania, psychosis and death](https://www.the-independent.com/tech/chatgpt-psychosis-ai-therapy-chatbot-b2781202.html)<!-- HN:44481964:end -->
 #### **Monday, July 7, 2025**
 <!-- HN:44482611:start -->
 * [44482611](https://news.social-protocols.org/stats?id=44482611) #22 66 points 4 comments -> [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)<!-- HN:44482611:end --><!-- HN:44485027:start -->
