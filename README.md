@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44545823](https://news.social-protocols.org/stats?id=44545823) #26 4 points 1 comments -> [He became the first Black mayor of a town. A white minority locked him out](https://www.theguardian.com/us-news/2023/aug/26/black-mayor-alabama-town-locked-out)<!-- HN:44545823:end -->
 #### **Sunday, July 13, 2025**
 <!-- HN:44543508:start -->
-* [44543508](https://news.social-protocols.org/stats?id=44543508) #7 346 points 2 comments -> [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)<!-- HN:44543508:end -->
+* [44543508](https://news.social-protocols.org/stats?id=44543508) #7 346 points 2 comments -> [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)<!-- HN:44543508:end --><!-- HN:44548252:start -->
+* [44548252](https://news.social-protocols.org/stats?id=44548252) #5 21 points 3 comments -> [Gmail AI hallucinates, distorts email contents](https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html)<!-- HN:44548252:end -->
