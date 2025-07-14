@@ -112,4 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44556845:start -->
 * [44556845](https://news.social-protocols.org/stats?id=44556845) #12 17 points 1 comments -> [O3 and Grok 4 Accidentally Vindicated Neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)<!-- HN:44556845:end --><!-- HN:44557230:start -->
 * [44557230](https://news.social-protocols.org/stats?id=44557230) #11 7 points 0 comments -> [Violent sex offender speaking at Debconf 25 [video]](https://www.youtube.com/watch?v=-j9uXmtgUnk)<!-- HN:44557230:end --><!-- HN:44558358:start -->
-* [44558358](https://news.social-protocols.org/stats?id=44558358) #1 9 points 1 comments -> ["AI discourse" is a joke](https://purplesyringa.moe/blog/ai-discourse-is-a-joke/)<!-- HN:44558358:end -->
+* [44558358](https://news.social-protocols.org/stats?id=44558358) #1 9 points 1 comments -> ["AI discourse" is a joke](https://purplesyringa.moe/blog/ai-discourse-is-a-joke/)<!-- HN:44558358:end --><!-- HN:44558235:start -->
+* [44558235](https://news.social-protocols.org/stats?id=44558235) #9 73 points 62 comments -> [Google is tracking you even when you use DuckDuckGo](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)<!-- HN:44558235:end --><!-- HN:44558328:start -->
+* [44558328](https://news.social-protocols.org/stats?id=44558328) #19 18 points 4 comments -> [putty.org is not run by the PuTTY developers](https://hachyderm.io/@simontatham/114846017785770922)<!-- HN:44558328:end -->
