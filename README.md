@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44523189](https://news.social-protocols.org/stats?id=44523189) #12 17 points 2 comments -> [LLMs show cultural theory was right about the death of the author](https://www.programmablemutter.com/p/cultural-theory-was-right-about-the)<!-- HN:44523189:end -->
 #### **Monday, July 14, 2025**
 <!-- HN:44556845:start -->
-* [44556845](https://news.social-protocols.org/stats?id=44556845) #12 17 points 1 comments -> [O3 and Grok 4 Accidentally Vindicated Neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)<!-- HN:44556845:end -->
+* [44556845](https://news.social-protocols.org/stats?id=44556845) #12 17 points 1 comments -> [O3 and Grok 4 Accidentally Vindicated Neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)<!-- HN:44556845:end --><!-- HN:44557230:start -->
+* [44557230](https://news.social-protocols.org/stats?id=44557230) #11 7 points 0 comments -> [Violent sex offender speaking at Debconf 25 [video]](https://www.youtube.com/watch?v=-j9uXmtgUnk)<!-- HN:44557230:end -->
