@@ -61,3 +61,12 @@
 * [44480389](https://news.ycombinator.com/item?id=44480389) #26 7 points 0 comments -> [Guide to Ukraine's Long Range Attack Drones](http://www.hisutton.com/Ukraine-OWA-UAVs.html)<!-- HN:44480389:end --><!-- HN:44481949:start -->
 * [44481949](https://news.ycombinator.com/item?id=44481949) #20 4 points 0 comments -> [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)<!-- HN:44481949:end --><!-- HN:44481964:start -->
 * [44481964](https://news.ycombinator.com/item?id=44481964) #24 16 points 2 comments -> [ChatGPT is pushing people towards mania, psychosis and death](https://www.the-independent.com/tech/chatgpt-psychosis-ai-therapy-chatbot-b2781202.html)<!-- HN:44481964:end -->
+#### **Monday, July 7, 2025**
+<!-- HN:44482611:start -->
+* [44482611](https://news.ycombinator.com/item?id=44482611) #22 66 points 4 comments -> [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)<!-- HN:44482611:end --><!-- HN:44485027:start -->
+* [44485027](https://news.ycombinator.com/item?id=44485027) #10 24 points 3 comments -> ["Do not highlight any negatives"](https://www.google.com/search?q=%22do+not+highlight+any+negatives%22+site%3Aarxiv.org)<!-- HN:44485027:end --><!-- HN:44486193:start -->
+* [44486193](https://news.ycombinator.com/item?id=44486193) #20 15 points 28 comments -> [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)<!-- HN:44486193:end --><!-- HN:44480284:start -->
+* [44480284](https://news.ycombinator.com/item?id=44480284) #28 118 points 2 comments -> [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)<!-- HN:44480284:end --><!-- HN:44485336:start -->
+* [44485336](https://news.ycombinator.com/item?id=44485336) #27 61 points 12 comments -> [There's a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)<!-- HN:44485336:end --><!-- HN:44494117:start -->
+* [44494117](https://news.ycombinator.com/item?id=44494117) #11 3 points 1 comments -> [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)<!-- HN:44494117:end --><!-- HN:44494401:start -->
+* [44494401](https://news.ycombinator.com/item?id=44494401) #27 4 points 1 comments -> [An Open Letter to the Leadership of Sequoia Capital](https://shaunmaguire.fyi/)<!-- HN:44494401:end -->

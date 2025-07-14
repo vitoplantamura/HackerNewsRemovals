@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, July 7, 2025**
-<!-- HN:44482611:start -->
-* [44482611](https://news.social-protocols.org/stats?id=44482611) #22 66 points 4 comments -> [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)<!-- HN:44482611:end --><!-- HN:44485027:start -->
-* [44485027](https://news.social-protocols.org/stats?id=44485027) #10 24 points 3 comments -> ["Do not highlight any negatives"](https://www.google.com/search?q=%22do+not+highlight+any+negatives%22+site%3Aarxiv.org)<!-- HN:44485027:end --><!-- HN:44486193:start -->
-* [44486193](https://news.social-protocols.org/stats?id=44486193) #20 15 points 28 comments -> [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)<!-- HN:44486193:end --><!-- HN:44480284:start -->
-* [44480284](https://news.social-protocols.org/stats?id=44480284) #28 118 points 2 comments -> [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)<!-- HN:44480284:end --><!-- HN:44485336:start -->
-* [44485336](https://news.social-protocols.org/stats?id=44485336) #27 61 points 12 comments -> [There's a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)<!-- HN:44485336:end --><!-- HN:44494117:start -->
-* [44494117](https://news.social-protocols.org/stats?id=44494117) #11 3 points 1 comments -> [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)<!-- HN:44494117:end --><!-- HN:44494401:start -->
-* [44494401](https://news.social-protocols.org/stats?id=44494401) #27 4 points 1 comments -> [An Open Letter to the Leadership of Sequoia Capital](https://shaunmaguire.fyi/)<!-- HN:44494401:end -->
 #### **Tuesday, July 8, 2025**<!-- HN:44497844:start -->
 * [44497844](https://news.social-protocols.org/stats?id=44497844) #21 31 points 40 comments -> [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)<!-- HN:44497844:end --><!-- HN:44501743:start -->
 * [44501743](https://news.social-protocols.org/stats?id=44501743) #7 12 points 0 comments -> [AnyBlox: A Framework for Self-Decoding Datasets [pdf]](https://gienieczko.com/anyblox-paper)<!-- HN:44501743:end --><!-- HN:44503585:start -->
