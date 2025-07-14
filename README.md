@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44551026](https://news.social-protocols.org/stats?id=44551026) #28 4 points 0 comments -> [What are we missing out on when we think Transformer is unreasonable in biology?](https://dmf-archive.github.io/docs/posts/form-follows-function-2/)<!-- HN:44551026:end --><!-- HN:44518879:start -->
 * [44518879](https://news.social-protocols.org/stats?id=44518879) #21 7 points 2 comments -> [Experience the Ultimate Sand Blast Block Puzzle – Play Now](https://sand-blast-block-puzzle.com)<!-- HN:44518879:end --><!-- HN:44523189:start -->
 * [44523189](https://news.social-protocols.org/stats?id=44523189) #12 17 points 2 comments -> [LLMs show cultural theory was right about the death of the author](https://www.programmablemutter.com/p/cultural-theory-was-right-about-the)<!-- HN:44523189:end -->
+#### **Monday, July 14, 2025**
+<!-- HN:44555317:start -->
+* [44555317](https://news.social-protocols.org/stats?id=44555317) #24 22 points 13 comments -> [The Scourge of Arial](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)<!-- HN:44555317:end -->
