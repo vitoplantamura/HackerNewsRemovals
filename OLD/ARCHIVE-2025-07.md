@@ -70,3 +70,9 @@
 * [44485336](https://news.ycombinator.com/item?id=44485336) #27 61 points 12 comments -> [There's a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)<!-- HN:44485336:end --><!-- HN:44494117:start -->
 * [44494117](https://news.ycombinator.com/item?id=44494117) #11 3 points 1 comments -> [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)<!-- HN:44494117:end --><!-- HN:44494401:start -->
 * [44494401](https://news.ycombinator.com/item?id=44494401) #27 4 points 1 comments -> [An Open Letter to the Leadership of Sequoia Capital](https://shaunmaguire.fyi/)<!-- HN:44494401:end -->
+#### **Tuesday, July 8, 2025**<!-- HN:44497844:start -->
+* [44497844](https://news.ycombinator.com/item?id=44497844) #21 31 points 40 comments -> [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)<!-- HN:44497844:end --><!-- HN:44501743:start -->
+* [44501743](https://news.ycombinator.com/item?id=44501743) #7 12 points 0 comments -> [AnyBlox: A Framework for Self-Decoding Datasets [pdf]](https://gienieczko.com/anyblox-paper)<!-- HN:44501743:end --><!-- HN:44503585:start -->
+* [44503585](https://news.ycombinator.com/item?id=44503585) #5 3 points 0 comments -> [roons: A kit for building mechanical computers](https://whomtech.com/roons/)<!-- HN:44503585:end --><!-- HN:44472877:start -->
+* [44472877](https://news.ycombinator.com/item?id=44472877) #8 10 points 1 comments -> [How to Save a Dog](https://www.newyorker.com/news/the-weekend-essay/how-to-save-a-dog)<!-- HN:44472877:end --><!-- HN:44503221:start -->
+* [44503221](https://news.ycombinator.com/item?id=44503221) #25 10 points 0 comments -> [Show HN: OpenAPI mocks that don't suck – realistic test data, quick setup](https://beeceptor.com/openapi-mock-server/)<!-- HN:44503221:end -->
