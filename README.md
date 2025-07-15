@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44563290](https://news.social-protocols.org/stats?id=44563290) #21 21 points 1 comments -> [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)<!-- HN:44563290:end --><!-- HN:44564941:start -->
 * [44564941](https://news.social-protocols.org/stats?id=44564941) #29 63 points 18 comments -> [Grok 4 Heavy ($300/mo) returns its surname and no other text: "Hitler"](https://twitter.com/goodside/status/1944266466875826617)<!-- HN:44564941:end --><!-- HN:44565548:start -->
 * [44565548](https://news.social-protocols.org/stats?id=44565548) #12 -> [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)<!-- HN:44565548:end -->
-#### **Tuesday, July 15, 2025**
+#### **Tuesday, July 15, 2025**<!-- HN:44568666:start -->
+* [44568666](https://news.social-protocols.org/stats?id=44568666) #7 9 points 4 comments -> [We Tested 7 Languages Under Extreme Load and Only One Didn't Crash](https://freedium.cfd/https:/medium.com/@codeperfect/we-tested-7-languages-under-extreme-load-and-only-one-didnt-crash-it-wasn-t-what-we-expected-67f84c79dc34)<!-- HN:44568666:end -->
