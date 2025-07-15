@@ -116,5 +116,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44563290](https://news.social-protocols.org/stats?id=44563290) #21 21 points 1 comments -> [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)<!-- HN:44563290:end --><!-- HN:44564941:start -->
 * [44564941](https://news.social-protocols.org/stats?id=44564941) #29 63 points 18 comments -> [Grok 4 Heavy ($300/mo) returns its surname and no other text: "Hitler"](https://twitter.com/goodside/status/1944266466875826617)<!-- HN:44564941:end --><!-- HN:44565548:start -->
 * [44565548](https://news.social-protocols.org/stats?id=44565548) #12 -> [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)<!-- HN:44565548:end -->
-#### **Tuesday, July 15, 2025**<!-- HN:44567599:start -->
-* [44567599](https://news.social-protocols.org/stats?id=44567599) #10 -> [The Israeli Plot to Extinguish the Journalists Documenting Genocide](https://theintercept.com/2025/07/03/israel-palestine-journalists-killing-gaza/)<!-- HN:44567599:end -->
+#### **Tuesday, July 15, 2025**
