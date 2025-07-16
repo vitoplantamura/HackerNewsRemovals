@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 16, 2025**
 <!-- HN:44577263:start -->
 * [44577263](https://news.social-protocols.org/stats?id=44577263) #28 9 points 2 comments -> [Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks](https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/)<!-- HN:44577263:end --><!-- HN:44578308:start -->
-* [44578308](https://news.social-protocols.org/stats?id=44578308) #2 7 points 1 comments -> [Plasma Bigscreen – open-source user interface for TV](https://plasma-bigscreen.org)<!-- HN:44578308:end -->
+* [44578308](https://news.social-protocols.org/stats?id=44578308) #2 7 points 1 comments -> [Plasma Bigscreen – open-source user interface for TV](https://plasma-bigscreen.org)<!-- HN:44578308:end --><!-- HN:44578558:start -->
+* [44578558](https://news.social-protocols.org/stats?id=44578558) #9 6 points 5 comments -> [Run LLM Agents as Microservices with One-Click Deployment](https://agentainer.io/)<!-- HN:44578558:end -->
