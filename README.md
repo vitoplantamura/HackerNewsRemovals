@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44574204](https://news.social-protocols.org/stats?id=44574204) #5 60 points 1 comments -> [Mistralai/Voxtral-Mini-3B-2507 · Hugging Face](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)<!-- HN:44574204:end --><!-- HN:44574095:start -->
 * [44574095](https://news.social-protocols.org/stats?id=44574095) #3 125 points 2 comments -> [Encrypting Files with Passkeys and Age](https://words.filippo.io/passkey-encryption/)<!-- HN:44574095:end --><!-- HN:44576762:start -->
 * [44576762](https://news.social-protocols.org/stats?id=44576762) #12 23 points 10 comments -> [Huawei's star AI model was built on burnout and plagiarism](https://the-open-source-ward.ghost.io/the-pangu-illusion-how-huaweis-star-ai-model-was-built-on-burnout-betrayal-and-open-source-theft/)<!-- HN:44576762:end -->
+#### **Wednesday, July 16, 2025**
+<!-- HN:44577263:start -->
+* [44577263](https://news.social-protocols.org/stats?id=44577263) #28 9 points 2 comments -> [Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks](https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/)<!-- HN:44577263:end -->
