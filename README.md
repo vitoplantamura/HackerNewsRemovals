@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, July 17, 2025**
 <!-- HN:44589650:start -->
 * [44589650](https://news.social-protocols.org/stats?id=44589650) #9 3 points 1 comments -> [Theory of Everything: Solved](https://github.com/Cosmolalia/TOE)<!-- HN:44589650:end --><!-- HN:44590617:start -->
-* [44590617](https://news.social-protocols.org/stats?id=44590617) #15 11 points 6 comments -> [TikTok, AliExpress and WeChat ignore your GDPR rights](https://noyb.eu/en/how-tiktok-aliexpress-wechat-ignore-your-gdpr-rights)<!-- HN:44590617:end -->
+* [44590617](https://news.social-protocols.org/stats?id=44590617) #15 11 points 6 comments -> [TikTok, AliExpress and WeChat ignore your GDPR rights](https://noyb.eu/en/how-tiktok-aliexpress-wechat-ignore-your-gdpr-rights)<!-- HN:44590617:end --><!-- HN:44590422:start -->
+* [44590422](https://news.social-protocols.org/stats?id=44590422) #9 32 points 41 comments -> [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)<!-- HN:44590422:end -->
