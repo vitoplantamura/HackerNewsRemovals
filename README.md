@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44578558](https://news.social-protocols.org/stats?id=44578558) #9 6 points 5 comments -> [Run LLM Agents as Microservices with One-Click Deployment](https://agentainer.io/)<!-- HN:44578558:end --><!-- HN:44580777:start -->
 * [44580777](https://news.social-protocols.org/stats?id=44580777) #14 7 points 1 comments -> [What Jane Street did was plain old-fashioned manipulation](https://thefederal.com/category/business/jane-street-fo-markets-whistleblower-mayank-bansal-197061)<!-- HN:44580777:end --><!-- HN:44585286:start -->
 * [44585286](https://news.social-protocols.org/stats?id=44585286) #3 12 points 2 comments -> [The party trick called LLM](https://destaatvanhetweb.nl/2025/07/12/the-party-trick-called-llm-blowing-away-smoke-and-break-some-mirrors/)<!-- HN:44585286:end -->
+#### **Thursday, July 17, 2025**
+<!-- HN:44588492:start -->
+* [44588492](https://news.social-protocols.org/stats?id=44588492) #10 41 points 18 comments -> [Onlycats](https://onlycats.gg/)<!-- HN:44588492:end -->
