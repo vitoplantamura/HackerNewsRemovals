@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, July 17, 2025**
 <!-- HN:44589650:start -->
 * [44589650](https://news.social-protocols.org/stats?id=44589650) #9 3 points 1 comments -> [Theory of Everything: Solved](https://github.com/Cosmolalia/TOE)<!-- HN:44589650:end --><!-- HN:44590422:start -->
-* [44590422](https://news.social-protocols.org/stats?id=44590422) #9 32 points 41 comments -> [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)<!-- HN:44590422:end -->
+* [44590422](https://news.social-protocols.org/stats?id=44590422) #9 32 points 41 comments -> [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)<!-- HN:44590422:end --><!-- HN:44589833:start -->
+* [44589833](https://news.social-protocols.org/stats?id=44589833) #29 31 points 13 comments -> [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)<!-- HN:44589833:end -->
