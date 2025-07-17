@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44585286](https://news.social-protocols.org/stats?id=44585286) #3 12 points 2 comments -> [The party trick called LLM](https://destaatvanhetweb.nl/2025/07/12/the-party-trick-called-llm-blowing-away-smoke-and-break-some-mirrors/)<!-- HN:44585286:end -->
 #### **Thursday, July 17, 2025**
 <!-- HN:44589650:start -->
-* [44589650](https://news.social-protocols.org/stats?id=44589650) #9 3 points 1 comments -> [Theory of Everything: Solved](https://github.com/Cosmolalia/TOE)<!-- HN:44589650:end -->
+* [44589650](https://news.social-protocols.org/stats?id=44589650) #9 3 points 1 comments -> [Theory of Everything: Solved](https://github.com/Cosmolalia/TOE)<!-- HN:44589650:end --><!-- HN:44590617:start -->
+* [44590617](https://news.social-protocols.org/stats?id=44590617) #15 11 points 6 comments -> [TikTok, AliExpress and WeChat ignore your GDPR rights](https://noyb.eu/en/how-tiktok-aliexpress-wechat-ignore-your-gdpr-rights)<!-- HN:44590617:end -->
