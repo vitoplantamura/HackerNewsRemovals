@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, July 10, 2025**
-<!-- HN:44515650:start -->
-* [44515650](https://news.social-protocols.org/stats?id=44515650) #30 6 points 1 comments -> [Show HN: I built a social media app at 11 using AI and a phone](https://app--woo-short-78d020b9.base44.app)<!-- HN:44515650:end --><!-- HN:44516586:start -->
-* [44516586](https://news.social-protocols.org/stats?id=44516586) #20 4 points 0 comments -> [The Persecution of Francesca Albanese](https://chrishedges.substack.com/p/the-persecution-of-francesca-albanese)<!-- HN:44516586:end --><!-- HN:44517927:start -->
-* [44517927](https://news.social-protocols.org/stats?id=44517927) #11 9 points 1 comments -> [I made a parody of enterprise AI chatbots](https://github.com/muratcanozdemir/chatgpt-parody)<!-- HN:44517927:end --><!-- HN:44520105:start -->
-* [44520105](https://news.social-protocols.org/stats?id=44520105) #21 20 points 5 comments -> [YouTube prepares crackdown on mass-produced videos as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/)<!-- HN:44520105:end --><!-- HN:44519596:start -->
-* [44519596](https://news.social-protocols.org/stats?id=44519596) #4 38 points 16 comments -> [Magic .env files built for sharing: Human-first, AI-friendly](https://varlock.dev/)<!-- HN:44519596:end --><!-- HN:44520297:start -->
-* [44520297](https://news.social-protocols.org/stats?id=44520297) #26 14 points 16 comments -> [The Birth-Rate Crisis Isn't as Bad as You've Heard–It's Worse](https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/)<!-- HN:44520297:end --><!-- HN:44520466:start -->
-* [44520466](https://news.social-protocols.org/stats?id=44520466) #13 10 points 6 comments -> [ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More](https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)<!-- HN:44520466:end --><!-- HN:44521923:start -->
-* [44521923](https://news.social-protocols.org/stats?id=44521923) #11 -> [X's CEO is out after failing at basically everything she claimed she wanted](https://www.theverge.com/twitter/703606/x-ceo-linda-yaccarino-elon-musk-out-step-down-twitter)<!-- HN:44521923:end --><!-- HN:44523273:start -->
-* [44523273](https://news.social-protocols.org/stats?id=44523273) #16 9 points 0 comments -> ["America, something's up" Walmart shoppers mystified by widespread outages](https://www.dailydot.com/news/walmart-july-7-outage/)<!-- HN:44523273:end --><!-- HN:44525582:start -->
-* [44525582](https://news.social-protocols.org/stats?id=44525582) #2 9 points 1 comments -> [The AI Con](https://thecon.ai/)<!-- HN:44525582:end --><!-- HN:44524571:start -->
-* [44524571](https://news.social-protocols.org/stats?id=44524571) #10 27 points 41 comments -> [Working with the UK Government to Protect Children Online](https://bsky.social/about/blog/07-10-2025-age-assurance)<!-- HN:44524571:end --><!-- HN:44523830:start -->
-* [44523830](https://news.social-protocols.org/stats?id=44523830) #28 14 points 0 comments -> [Exploiting a 20 years old NTFS Vulnerability](https://swarm.ptsecurity.com/buried-in-the-log-exploiting-a-20-years-old-ntfs-vulnerability/)<!-- HN:44523830:end -->
 #### **Friday, July 11, 2025**
 <!-- HN:44527301:start -->
 * [44527301](https://news.social-protocols.org/stats?id=44527301) #20 10 points 1 comments -> [Over 2,000 senior staff set to leave NASA under agency push](https://www.politico.com/news/2025/07/09/nasa-staff-departures-00444674?cdmc=2zglpgOF21PefXUKP0PbPaLZDC0&refcode2=2zglpgOF21PefXUKP0PbPaLZDC0&refcodecdmc=2zglpgOF21PefXUKP0PbPaLZDC0)<!-- HN:44527301:end --><!-- HN:44527930:start -->
