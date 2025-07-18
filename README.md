@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44598752](https://news.social-protocols.org/stats?id=44598752) #30 8 points 6 comments -> [White House Prepares Executive Order Targeting 'Woke AI'](https://www.wsj.com/tech/ai/white-house-prepares-executive-order-targeting-woke-ai-e68e8e24)<!-- HN:44598752:end -->
 #### **Friday, July 18, 2025**
 <!-- HN:44599936:start -->
-* [44599936](https://news.social-protocols.org/stats?id=44599936) #20 12 points 2 comments -> [Felix Baumgartner, who jumped from edge of space, dies in paragliding accident](https://www.theguardian.com/sport/2025/jul/18/skydive-pioneer-felix-baumgartner-who-jumped-from-edge-of-space-dies-in-paragliding-accident)<!-- HN:44599936:end -->
+* [44599936](https://news.social-protocols.org/stats?id=44599936) #20 12 points 2 comments -> [Felix Baumgartner, who jumped from edge of space, dies in paragliding accident](https://www.theguardian.com/sport/2025/jul/18/skydive-pioneer-felix-baumgartner-who-jumped-from-edge-of-space-dies-in-paragliding-accident)<!-- HN:44599936:end --><!-- HN:44603096:start -->
+* [44603096](https://news.social-protocols.org/stats?id=44603096) #8 15 points 40 comments -> [Crypto's Wild West Era Is Over](https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148)<!-- HN:44603096:end -->
