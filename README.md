@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44590350](https://news.social-protocols.org/stats?id=44590350) #28 132 points 66 comments -> [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)<!-- HN:44590350:end --><!-- HN:44598716:start -->
 * [44598716](https://news.social-protocols.org/stats?id=44598716) #25 7 points 0 comments -> [What I Witnessed Inside an ICE Women's Prison](https://www.vanityfair.com/news/story/rumeysa-ozturk-what-i-witnessed-inside-an-ice-womens-prison)<!-- HN:44598716:end --><!-- HN:44598752:start -->
 * [44598752](https://news.social-protocols.org/stats?id=44598752) #30 8 points 6 comments -> [White House Prepares Executive Order Targeting 'Woke AI'](https://www.wsj.com/tech/ai/white-house-prepares-executive-order-targeting-woke-ai-e68e8e24)<!-- HN:44598752:end -->
+#### **Friday, July 18, 2025**
+<!-- HN:44599936:start -->
+* [44599936](https://news.social-protocols.org/stats?id=44599936) #20 12 points 2 comments -> [Felix Baumgartner, who jumped from edge of space, dies in paragliding accident](https://www.theguardian.com/sport/2025/jul/18/skydive-pioneer-felix-baumgartner-who-jumped-from-edge-of-space-dies-in-paragliding-accident)<!-- HN:44599936:end -->
