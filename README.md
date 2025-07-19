@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 19, 2025**
 <!-- HN:44610623:start -->
 * [44610623](https://news.social-protocols.org/stats?id=44610623) #17 60 points 40 comments -> [I'm Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)<!-- HN:44610623:end --><!-- HN:44613511:start -->
-* [44613511](https://news.social-protocols.org/stats?id=44613511) #8 6 points 1 comments -> [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)<!-- HN:44613511:end -->
+* [44613511](https://news.social-protocols.org/stats?id=44613511) #8 6 points 1 comments -> [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)<!-- HN:44613511:end --><!-- HN:44614764:start -->
+* [44614764](https://news.social-protocols.org/stats?id=44614764) #23 9 points 1 comments -> [Google Helped Israel Spread War Propaganda to 45M Europeans](https://scheerpost.com/2025/07/17/exclusive-google-helped-israel-spread-war-propaganda-to-45-million-europeans/)<!-- HN:44614764:end -->
