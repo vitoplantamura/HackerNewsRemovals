@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, July 12, 2025**<!-- HN:44541001:start -->
-* [44541001](https://news.social-protocols.org/stats?id=44541001) #5 19 points 12 comments -> [Revival: There appears to be media consensus: "Bluesky is dead."](https://netwars.pelicancrossing.net/2025/06/27/revival/)<!-- HN:44541001:end --><!-- HN:44542029:start -->
-* [44542029](https://news.social-protocols.org/stats?id=44542029) #28 5 points 0 comments -> [Grok 4 will always snitch on you and email the feds if it suspects wrongdoing](https://www.neowin.net/news/grok-4-will-always-snitch-on-you-and-email-the-feds-if-it-suspects-wrongdoing-report-says/)<!-- HN:44542029:end --><!-- HN:44510717:start -->
-* [44510717](https://news.social-protocols.org/stats?id=44510717) #23 23 points 40 comments -> [Only on Nantucket: The Curious Case of the "Stolen" Mercedes](https://nantucketcurrent.com/news/only-on-nantucket-the-curious-case-of-the)<!-- HN:44510717:end --><!-- HN:44544518:start -->
-* [44544518](https://news.social-protocols.org/stats?id=44544518) #30 5 points 0 comments -> [Nodegram](https://nodegram.org/)<!-- HN:44544518:end --><!-- HN:44545823:start -->
-* [44545823](https://news.social-protocols.org/stats?id=44545823) #26 4 points 1 comments -> [He became the first Black mayor of a town. A white minority locked him out](https://www.theguardian.com/us-news/2023/aug/26/black-mayor-alabama-town-locked-out)<!-- HN:44545823:end -->
 #### **Sunday, July 13, 2025**
 <!-- HN:44543508:start -->
 * [44543508](https://news.social-protocols.org/stats?id=44543508) #7 346 points 2 comments -> [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)<!-- HN:44543508:end --><!-- HN:44548252:start -->
