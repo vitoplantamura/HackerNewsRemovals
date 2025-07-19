@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44608468](https://news.social-protocols.org/stats?id=44608468) #3 14 points 8 comments -> [Everything You Need to Know About Grok 4](https://forgecode.dev/blog/grok-4-initial-impression/)<!-- HN:44608468:end --><!-- HN:44608669:start -->
 * [44608669](https://news.social-protocols.org/stats?id=44608669) #27 8 points 0 comments -> [Lookism](https://en.wikipedia.org/wiki/Lookism)<!-- HN:44608669:end --><!-- HN:44576314:start -->
 * [44576314](https://news.social-protocols.org/stats?id=44576314) #17 5 points 1 comments -> [I call them "Loop Bots"](https://www.imaurer.com/blog/posts/2025-07-15-i-call-them-loop-bots/)<!-- HN:44576314:end -->
+#### **Saturday, July 19, 2025**
+<!-- HN:44610623:start -->
+* [44610623](https://news.social-protocols.org/stats?id=44610623) #17 60 points 40 comments -> [I'm Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)<!-- HN:44610623:end -->
