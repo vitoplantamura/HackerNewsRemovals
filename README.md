@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44576314](https://news.social-protocols.org/stats?id=44576314) #17 5 points 1 comments -> [I call them "Loop Bots"](https://www.imaurer.com/blog/posts/2025-07-15-i-call-them-loop-bots/)<!-- HN:44576314:end -->
 #### **Saturday, July 19, 2025**
 <!-- HN:44610623:start -->
-* [44610623](https://news.social-protocols.org/stats?id=44610623) #17 60 points 40 comments -> [I'm Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)<!-- HN:44610623:end -->
+* [44610623](https://news.social-protocols.org/stats?id=44610623) #17 60 points 40 comments -> [I'm Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)<!-- HN:44610623:end --><!-- HN:44613511:start -->
+* [44613511](https://news.social-protocols.org/stats?id=44613511) #8 6 points 1 comments -> [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)<!-- HN:44613511:end -->
