@@ -124,7 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44616486](https://news.social-protocols.org/stats?id=44616486) #29 33 points 40 comments -> [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)<!-- HN:44616486:end --><!-- HN:44613629:start -->
 * [44613629](https://news.social-protocols.org/stats?id=44613629) #3 135 points 2 comments -> [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/)<!-- HN:44613629:end --><!-- HN:44619258:start -->
 * [44619258](https://news.social-protocols.org/stats?id=44619258) #4 17 points 41 comments -> [The Future of Ultra-Fast Passenger Travel](https://spaceambition.substack.com/p/beyond-the-sound-barrier)<!-- HN:44619258:end -->
-#### **Sunday, July 20, 2025**<!-- HN:44620606:start -->
-* [44620606](https://news.social-protocols.org/stats?id=44620606) #13 35 points 42 comments -> [Beyond Meat Fights for Survival](https://foodinstitute.com/focus/beyond-meat-fights-for-survival/)<!-- HN:44620606:end --><!-- HN:44621029:start -->
+#### **Sunday, July 20, 2025**<!-- HN:44621029:start -->
 * [44621029](https://news.social-protocols.org/stats?id=44621029) #5 43 points 5 comments -> [Data and Democracy: Charting Assault on American Democracy and a Path Forward](https://data4democracy.substack.com/p/on-data-and-democracy-mid-year-roundup)<!-- HN:44621029:end --><!-- HN:44617910:start -->
 * [44617910](https://news.social-protocols.org/stats?id=44617910) #21 153 points 16 comments -> [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)<!-- HN:44617910:end -->
