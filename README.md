@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, July 13, 2025**
-<!-- HN:44543508:start -->
-* [44543508](https://news.social-protocols.org/stats?id=44543508) #7 346 points 2 comments -> [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)<!-- HN:44543508:end --><!-- HN:44548252:start -->
-* [44548252](https://news.social-protocols.org/stats?id=44548252) #5 21 points 3 comments -> [Gmail AI hallucinates, distorts email contents](https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html)<!-- HN:44548252:end --><!-- HN:44550210:start -->
-* [44550210](https://news.social-protocols.org/stats?id=44550210) #22 -> [Who Goes MAGA?](https://www.techdirt.com/2025/07/08/who-goes-maga/)<!-- HN:44550210:end --><!-- HN:44550964:start -->
-* [44550964](https://news.social-protocols.org/stats?id=44550964) #28 4 points 1 comments -> [Iranian official claims Israel used 'occult and supernatural spirits' during war](https://www.jpost.com/middle-east/iran-news/article-860798)<!-- HN:44550964:end --><!-- HN:44551810:start -->
-* [44551810](https://news.social-protocols.org/stats?id=44551810) #15 8 points 1 comments -> [Entire HR team terminated after manager's own resume fails automated screening](https://economictimes.indiatimes.com/news/india/from-hiring-to-firing-entire-hr-team-terminated-after-managers-resume-fails-automated-screening/articleshow/113812083.cms?from=mdr)<!-- HN:44551810:end --><!-- HN:44551839:start -->
-* [44551839](https://news.social-protocols.org/stats?id=44551839) #5 8 points 2 comments -> [An official Swedish AI service was misused to create a greeting for Adolf Hitler](https://iconofsweden.com/article/moderates-withdraw-ai-service-after-controversial-misuse)<!-- HN:44551839:end --><!-- HN:44552222:start -->
-* [44552222](https://news.social-protocols.org/stats?id=44552222) #19 11 points 2 comments -> [Strap In, Vision Pro Owners](https://spiral.spyglass.org/p/strap-in-vision-pro-owners)<!-- HN:44552222:end --><!-- HN:44551026:start -->
-* [44551026](https://news.social-protocols.org/stats?id=44551026) #28 4 points 0 comments -> [What are we missing out on when we think Transformer is unreasonable in biology?](https://dmf-archive.github.io/docs/posts/form-follows-function-2/)<!-- HN:44551026:end --><!-- HN:44518879:start -->
-* [44518879](https://news.social-protocols.org/stats?id=44518879) #21 7 points 2 comments -> [Experience the Ultimate Sand Blast Block Puzzle – Play Now](https://sand-blast-block-puzzle.com)<!-- HN:44518879:end --><!-- HN:44523189:start -->
-* [44523189](https://news.social-protocols.org/stats?id=44523189) #12 17 points 2 comments -> [LLMs show cultural theory was right about the death of the author](https://www.programmablemutter.com/p/cultural-theory-was-right-about-the)<!-- HN:44523189:end -->
 #### **Monday, July 14, 2025**
 <!-- HN:44556845:start -->
 * [44556845](https://news.social-protocols.org/stats?id=44556845) #12 17 points 1 comments -> [O3 and Grok 4 Accidentally Vindicated Neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)<!-- HN:44556845:end --><!-- HN:44557230:start -->
