@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 20, 2025**<!-- HN:44617910:start -->
 * [44617910](https://news.social-protocols.org/stats?id=44617910) #21 153 points 16 comments -> [MCP Security Vulnerabilities and Attack Vectors](https://forgecode.dev/blog/prevent-attacks-on-mcp/)<!-- HN:44617910:end --><!-- HN:44591332:start -->
 * [44591332](https://news.social-protocols.org/stats?id=44591332) #13 9 points 1 comments -> [C++ Trailing Return Types (2022)](https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html)<!-- HN:44591332:end --><!-- HN:44622725:start -->
-* [44622725](https://news.social-protocols.org/stats?id=44622725) #19 16 points 3 comments -> [Replit goes rogue and deletes our entire database](https://twitter.com/jasonlk/status/1946069562723897802)<!-- HN:44622725:end -->
+* [44622725](https://news.social-protocols.org/stats?id=44622725) #19 16 points 3 comments -> [Replit goes rogue and deletes our entire database](https://twitter.com/jasonlk/status/1946069562723897802)<!-- HN:44622725:end --><!-- HN:44623801:start -->
+* [44623801](https://news.social-protocols.org/stats?id=44623801) #6 3 points 1 comments -> [Genesis Protocol: The first communication protocol for digital life](https://genesis-protocol.org/)<!-- HN:44623801:end -->
