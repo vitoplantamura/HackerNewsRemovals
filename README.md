@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, July 14, 2025**
-<!-- HN:44556845:start -->
-* [44556845](https://news.social-protocols.org/stats?id=44556845) #12 17 points 1 comments -> [O3 and Grok 4 Accidentally Vindicated Neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)<!-- HN:44556845:end --><!-- HN:44557230:start -->
-* [44557230](https://news.social-protocols.org/stats?id=44557230) #11 7 points 0 comments -> [Violent sex offender speaking at Debconf 25 [video]](https://www.youtube.com/watch?v=-j9uXmtgUnk)<!-- HN:44557230:end --><!-- HN:44558358:start -->
-* [44558358](https://news.social-protocols.org/stats?id=44558358) #1 9 points 1 comments -> ["AI discourse" is a joke](https://purplesyringa.moe/blog/ai-discourse-is-a-joke/)<!-- HN:44558358:end --><!-- HN:44558235:start -->
-* [44558235](https://news.social-protocols.org/stats?id=44558235) #9 73 points 62 comments -> [Google is tracking you even when you use DuckDuckGo](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)<!-- HN:44558235:end --><!-- HN:44558328:start -->
-* [44558328](https://news.social-protocols.org/stats?id=44558328) #19 18 points 4 comments -> [putty.org is not run by the PuTTY developers](https://hachyderm.io/@simontatham/114846017785770922)<!-- HN:44558328:end --><!-- HN:44559205:start -->
-* [44559205](https://news.social-protocols.org/stats?id=44559205) #27 6 points 0 comments -> [Ada in top Tiobe Index July 2025 programming languages](https://www.tiobe.com/tiobe-index/)<!-- HN:44559205:end --><!-- HN:44560489:start -->
-* [44560489](https://news.social-protocols.org/stats?id=44560489) #1 42 points 8 comments -> [Show HN: TechBro Generator – Generate Satirical TechBro Posts](https://techbrogenerator.netlify.app/)<!-- HN:44560489:end --><!-- HN:44561431:start -->
-* [44561431](https://news.social-protocols.org/stats?id=44561431) #20 11 points 3 comments -> [What happens when a brand built for sport loses some of its focus?](https://doinghandstands.substack.com/p/the-recovery-run)<!-- HN:44561431:end --><!-- HN:44563290:start -->
-* [44563290](https://news.social-protocols.org/stats?id=44563290) #21 21 points 1 comments -> [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)<!-- HN:44563290:end --><!-- HN:44564941:start -->
-* [44564941](https://news.social-protocols.org/stats?id=44564941) #29 63 points 18 comments -> [Grok 4 Heavy ($300/mo) returns its surname and no other text: "Hitler"](https://twitter.com/goodside/status/1944266466875826617)<!-- HN:44564941:end --><!-- HN:44565548:start -->
-* [44565548](https://news.social-protocols.org/stats?id=44565548) #12 -> [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)<!-- HN:44565548:end -->
 #### **Tuesday, July 15, 2025**<!-- HN:44568666:start -->
 * [44568666](https://news.social-protocols.org/stats?id=44568666) #7 9 points 4 comments -> [We Tested 7 Languages Under Extreme Load and Only One Didn't Crash](https://freedium.cfd/https:/medium.com/@codeperfect/we-tested-7-languages-under-extreme-load-and-only-one-didnt-crash-it-wasn-t-what-we-expected-67f84c79dc34)<!-- HN:44568666:end --><!-- HN:44570021:start -->
 * [44570021](https://news.social-protocols.org/stats?id=44570021) #7 17 points 2 comments -> [Google's Reverse Acquihire of Windsurf and the Future of AI Developer Tools](https://www.qodo.ai/blog/googles-reverse-acquihire-of-windsurf-a-glimpse-into-the-future-of-ai-developer-tools/)<!-- HN:44570021:end --><!-- HN:44567008:start -->
