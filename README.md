@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44630872:start -->
 * [44630872](https://news.social-protocols.org/stats?id=44630872) #26 6 points 1 comments -> [Europe has more heat deaths per year than the United States loses to gun deaths](https://www.perplexity.ai/search/europe-has-more-heat-deaths-pe-BDS6xdorS4.4x2WrCC9mAQ)<!-- HN:44630872:end --><!-- HN:44631053:start -->
 * [44631053](https://news.social-protocols.org/stats?id=44631053) #9 3 points 5 comments -> [Hi guys, any thought on this project?](https://founder-hub-waitlist.vercel.app/)<!-- HN:44631053:end --><!-- HN:44631091:start -->
-* [44631091](https://news.social-protocols.org/stats?id=44631091) #17 4 points 1 comments -> [HTTP/1.1 Must Die – The Desync Endgame Begins](https://http1mustdie.com/)<!-- HN:44631091:end -->
+* [44631091](https://news.social-protocols.org/stats?id=44631091) #17 4 points 1 comments -> [HTTP/1.1 Must Die – The Desync Endgame Begins](https://http1mustdie.com/)<!-- HN:44631091:end --><!-- HN:44632575:start -->
+* [44632575](https://news.social-protocols.org/stats?id=44632575) #21 86 points 41 comments -> [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)<!-- HN:44632575:end -->
