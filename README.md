@@ -125,8 +125,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44629349](https://news.social-protocols.org/stats?id=44629349) #8 -> [Show HN: A tool that generates nice photos for guys who dislike posing for pics](https://vibeflirting.com)<!-- HN:44629349:end --><!-- HN:44630075:start -->
 * [44630075](https://news.social-protocols.org/stats?id=44630075) #27 12 points 1 comments -> [OpenAI Ignored IMO Request, Announced Math Results Before Closing Ceremony](https://twitter.com/mihonarium/status/1946880931723194389)<!-- HN:44630075:end -->
 #### **Monday, July 21, 2025**
-<!-- HN:44630760:start -->
-* [44630760](https://news.social-protocols.org/stats?id=44630760) #5 8 points 7 comments -> [Man wearing heavy metallic necklace dies after being sucked into MRI machine](https://www.bbc.com/news/articles/cx2n39dvp0po)<!-- HN:44630760:end --><!-- HN:44630872:start -->
+<!-- HN:44630872:start -->
 * [44630872](https://news.social-protocols.org/stats?id=44630872) #26 6 points 1 comments -> [Europe has more heat deaths per year than the United States loses to gun deaths](https://www.perplexity.ai/search/europe-has-more-heat-deaths-pe-BDS6xdorS4.4x2WrCC9mAQ)<!-- HN:44630872:end --><!-- HN:44631053:start -->
 * [44631053](https://news.social-protocols.org/stats?id=44631053) #9 3 points 5 comments -> [Hi guys, any thought on this project?](https://founder-hub-waitlist.vercel.app/)<!-- HN:44631053:end --><!-- HN:44631091:start -->
 * [44631091](https://news.social-protocols.org/stats?id=44631091) #17 4 points 1 comments -> [HTTP/1.1 Must Die – The Desync Endgame Begins](https://http1mustdie.com/)<!-- HN:44631091:end -->
