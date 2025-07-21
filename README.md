@@ -127,5 +127,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 21, 2025**
 <!-- HN:44630760:start -->
 * [44630760](https://news.social-protocols.org/stats?id=44630760) #5 8 points 7 comments -> [Man wearing heavy metallic necklace dies after being sucked into MRI machine](https://www.bbc.com/news/articles/cx2n39dvp0po)<!-- HN:44630760:end --><!-- HN:44630872:start -->
-* [44630872](https://news.social-protocols.org/stats?id=44630872) #26 6 points 1 comments -> [Europe has more heat deaths per year than the United States loses to gun deaths](https://www.perplexity.ai/search/europe-has-more-heat-deaths-pe-BDS6xdorS4.4x2WrCC9mAQ)<!-- HN:44630872:end --><!-- HN:44630815:start -->
-* [44630815](https://news.social-protocols.org/stats?id=44630815) #3 12 points 5 comments -> [iMessage integration in Claude can hijack the model to do anything](https://www.generalanalysis.com/blog/imessage-stripe-exploit)<!-- HN:44630815:end -->
+* [44630872](https://news.social-protocols.org/stats?id=44630872) #26 6 points 1 comments -> [Europe has more heat deaths per year than the United States loses to gun deaths](https://www.perplexity.ai/search/europe-has-more-heat-deaths-pe-BDS6xdorS4.4x2WrCC9mAQ)<!-- HN:44630872:end -->
