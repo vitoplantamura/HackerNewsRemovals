@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44628060](https://news.social-protocols.org/stats?id=44628060) #30 39 points 9 comments -> [Allentown man said to have died in ICE custody is alive in Guatemala](https://www.mcall.com/2025/07/18/luis-leon-allentown-grandfather-ice-guatemala/)<!-- HN:44628060:end --><!-- HN:44629349:start -->
 * [44629349](https://news.social-protocols.org/stats?id=44629349) #8 -> [Show HN: A tool that generates nice photos for guys who dislike posing for pics](https://vibeflirting.com)<!-- HN:44629349:end --><!-- HN:44630075:start -->
 * [44630075](https://news.social-protocols.org/stats?id=44630075) #27 12 points 1 comments -> [OpenAI Ignored IMO Request, Announced Math Results Before Closing Ceremony](https://twitter.com/mihonarium/status/1946880931723194389)<!-- HN:44630075:end -->
+#### **Monday, July 21, 2025**
+<!-- HN:44630760:start -->
+* [44630760](https://news.social-protocols.org/stats?id=44630760) #5 8 points 7 comments -> [Man wearing heavy metallic necklace dies after being sucked into MRI machine](https://www.bbc.com/news/articles/cx2n39dvp0po)<!-- HN:44630760:end -->
