@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44641363:start -->
 * [44641363](https://news.social-protocols.org/stats?id=44641363) #29 30 points 15 comments -> [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)<!-- HN:44641363:end --><!-- HN:44607125:start -->
 * [44607125](https://news.social-protocols.org/stats?id=44607125) #12 12 points 12 comments -> [He Rewrote Everything in Rust – Then We Got Fired](https://medium.com/@ThreadSafeDiaries/he-rewrote-everything-in-rust-then-we-got-fired-293e3e16c2d3)<!-- HN:44607125:end --><!-- HN:44644428:start -->
-* [44644428](https://news.social-protocols.org/stats?id=44644428) #21 3 points 0 comments -> [Raft Consensus Algorithms](https://blog.outlandish.claims/p/raft-consensus-algorithms)<!-- HN:44644428:end -->
+* [44644428](https://news.social-protocols.org/stats?id=44644428) #21 3 points 0 comments -> [Raft Consensus Algorithms](https://blog.outlandish.claims/p/raft-consensus-algorithms)<!-- HN:44644428:end --><!-- HN:44649713:start -->
+* [44649713](https://news.social-protocols.org/stats?id=44649713) #9 7 points 0 comments -> [The Case for Sabotage](https://collectiveactionintech.substack.com/p/the-case-for-sabotage)<!-- HN:44649713:end -->
