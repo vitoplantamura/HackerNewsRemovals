@@ -140,3 +140,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44640005](https://news.social-protocols.org/stats?id=44640005) #9 24 points 41 comments -> [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)<!-- HN:44640005:end --><!-- HN:44639949:start -->
 * [44639949](https://news.social-protocols.org/stats?id=44639949) #14 20 points 7 comments -> [Africa's gigantic $80B dam could transform entire continent](https://en.clickpetroleoegas.com.br/maior-que-a-barragem-tres-gargantas-da-china-o-gigantesco-megaprojeto-africano-de-us-80-bilhoes-que-pode-revolucionar-a-energia-e-transformar-um-continente-inteiro/)<!-- HN:44639949:end --><!-- HN:44641173:start -->
 * [44641173](https://news.social-protocols.org/stats?id=44641173) #22 4 points 0 comments -> [Sexual Offender or Not?](https://facecrime.io/)<!-- HN:44641173:end -->
+#### **Tuesday, July 22, 2025**
+<!-- HN:44641363:start -->
+* [44641363](https://news.social-protocols.org/stats?id=44641363) #29 30 points 15 comments -> [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)<!-- HN:44641363:end -->
