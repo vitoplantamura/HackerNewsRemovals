@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44644428](https://news.social-protocols.org/stats?id=44644428) #21 3 points 0 comments -> [Raft Consensus Algorithms](https://blog.outlandish.claims/p/raft-consensus-algorithms)<!-- HN:44644428:end --><!-- HN:44649713:start -->
 * [44649713](https://news.social-protocols.org/stats?id=44649713) #9 7 points 0 comments -> [The Case for Sabotage](https://collectiveactionintech.substack.com/p/the-case-for-sabotage)<!-- HN:44649713:end --><!-- HN:44651041:start -->
 * [44651041](https://news.social-protocols.org/stats?id=44651041) #30 9 points 0 comments -> [AFP's last journalists in Gaza are starving to death](https://twitter.com/SDJ_AFP/status/1947609875183215005)<!-- HN:44651041:end -->
+#### **Wednesday, July 23, 2025**
+<!-- HN:44653899:start -->
+* [44653899](https://news.social-protocols.org/stats?id=44653899) #27 5 points 5 comments -> [You lose 23 minutes of focus every Google or GPT use;](https://www.wagoo.ai/)<!-- HN:44653899:end -->
