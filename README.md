@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44651041](https://news.social-protocols.org/stats?id=44651041) #30 9 points 0 comments -> [AFP's last journalists in Gaza are starving to death](https://twitter.com/SDJ_AFP/status/1947609875183215005)<!-- HN:44651041:end -->
 #### **Wednesday, July 23, 2025**
 <!-- HN:44653899:start -->
-* [44653899](https://news.social-protocols.org/stats?id=44653899) #27 5 points 5 comments -> [You lose 23 minutes of focus every Google or GPT use;](https://www.wagoo.ai/)<!-- HN:44653899:end -->
+* [44653899](https://news.social-protocols.org/stats?id=44653899) #27 5 points 5 comments -> [You lose 23 minutes of focus every Google or GPT use;](https://www.wagoo.ai/)<!-- HN:44653899:end --><!-- HN:44654493:start -->
+* [44654493](https://news.social-protocols.org/stats?id=44654493) #7 29 points 41 comments -> [Why does raising the retirement age hurt young people?](https://www.governance.fyi/p/why-does-raising-the-retirement-age)<!-- HN:44654493:end -->
