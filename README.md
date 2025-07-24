@@ -117,8 +117,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44663021](https://news.social-protocols.org/stats?id=44663021) #27 96 points 37 comments -> [ICE block founder's wife fired by DOJ in retaliation for the app](https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214)<!-- HN:44663021:end --><!-- HN:44621551:start -->
 * [44621551](https://news.social-protocols.org/stats?id=44621551) #30 9 points 0 comments -> [Magnetic Components Directory Website](https://magdir.com)<!-- HN:44621551:end -->
 #### **Thursday, July 24, 2025**
-<!-- HN:44625493:start -->
-* [44625493](https://news.social-protocols.org/stats?id=44625493) #12 33 points 41 comments -> [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)<!-- HN:44625493:end --><!-- HN:44630028:start -->
+<!-- HN:44630028:start -->
 * [44630028](https://news.social-protocols.org/stats?id=44630028) #26 10 points 17 comments -> [Thawing vacuum-packed fish correctly](https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing)<!-- HN:44630028:end --><!-- HN:44670727:start -->
 * [44670727](https://news.social-protocols.org/stats?id=44670727) #26 -> [Instagram Temporarily Suspends Zohran Mamdani's Account](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)<!-- HN:44670727:end --><!-- HN:44670947:start -->
 * [44670947](https://news.social-protocols.org/stats?id=44670947) #16 14 points 4 comments -> [Yet another bad three months as Tesla reports its Q2 2025 results](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sell-fewer-cars-and-carbon-credits-make-less-money/)<!-- HN:44670947:end --><!-- HN:44671284:start -->
