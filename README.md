@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, July 24, 2025**
 <!-- HN:44625493:start -->
 * [44625493](https://news.social-protocols.org/stats?id=44625493) #12 33 points 41 comments -> [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)<!-- HN:44625493:end --><!-- HN:44630028:start -->
-* [44630028](https://news.social-protocols.org/stats?id=44630028) #26 10 points 17 comments -> [Thawing vacuum-packed fish correctly](https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing)<!-- HN:44630028:end -->
+* [44630028](https://news.social-protocols.org/stats?id=44630028) #26 10 points 17 comments -> [Thawing vacuum-packed fish correctly](https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing)<!-- HN:44630028:end --><!-- HN:44629300:start -->
+* [44629300](https://news.social-protocols.org/stats?id=44629300) #12 34 points 40 comments -> [Vanishing home field advantage in English football](https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html)<!-- HN:44629300:end -->
