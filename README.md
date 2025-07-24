@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44662658](https://news.social-protocols.org/stats?id=44662658) #14 18 points 5 comments -> [Why Do Victims of Massacres Go to Their Deaths?](https://www.benlandautaylor.com/p/why-do-victims-of-massacres-go-quietly)<!-- HN:44662658:end --><!-- HN:44663021:start -->
 * [44663021](https://news.social-protocols.org/stats?id=44663021) #27 96 points 37 comments -> [ICE block founder's wife fired by DOJ in retaliation for the app](https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214)<!-- HN:44663021:end --><!-- HN:44621551:start -->
 * [44621551](https://news.social-protocols.org/stats?id=44621551) #30 9 points 0 comments -> [Magnetic Components Directory Website](https://magdir.com)<!-- HN:44621551:end -->
+#### **Thursday, July 24, 2025**
+<!-- HN:44625493:start -->
+* [44625493](https://news.social-protocols.org/stats?id=44625493) #12 33 points 41 comments -> [Bus Bunching](https://www.futilitycloset.com/2025/07/12/bus-bunching/)<!-- HN:44625493:end -->
