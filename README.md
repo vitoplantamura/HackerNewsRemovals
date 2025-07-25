@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44675697](https://news.social-protocols.org/stats?id=44675697) #10 45 points 25 comments -> [Games: No sex, please. we're credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)<!-- HN:44675697:end -->
 #### **Friday, July 25, 2025**
 <!-- HN:44634110:start -->
-* [44634110](https://news.social-protocols.org/stats?id=44634110) #16 10 points 2 comments -> [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)<!-- HN:44634110:end -->
+* [44634110](https://news.social-protocols.org/stats?id=44634110) #16 10 points 2 comments -> [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)<!-- HN:44634110:end --><!-- HN:44632369:start -->
+* [44632369](https://news.social-protocols.org/stats?id=44632369) #19 14 points 3 comments -> [Information Warfare](https://yuxi.ml/sketches/posts/info-warfare/)<!-- HN:44632369:end -->
