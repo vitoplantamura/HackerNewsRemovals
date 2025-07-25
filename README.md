@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, July 18, 2025**
-<!-- HN:44599936:start -->
-* [44599936](https://news.social-protocols.org/stats?id=44599936) #20 12 points 2 comments -> [Felix Baumgartner, who jumped from edge of space, dies in paragliding accident](https://www.theguardian.com/sport/2025/jul/18/skydive-pioneer-felix-baumgartner-who-jumped-from-edge-of-space-dies-in-paragliding-accident)<!-- HN:44599936:end --><!-- HN:44603096:start -->
-* [44603096](https://news.social-protocols.org/stats?id=44603096) #8 15 points 40 comments -> [Crypto's Wild West Era Is Over](https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148)<!-- HN:44603096:end --><!-- HN:44606117:start -->
-* [44606117](https://news.social-protocols.org/stats?id=44606117) #28 7 points 3 comments -> [The Number Go Up Rule: Why America Can't Fix Anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)<!-- HN:44606117:end --><!-- HN:44607878:start -->
-* [44607878](https://news.social-protocols.org/stats?id=44607878) #9 -> [The Amazon Layoffs You Didn't See Coming](https://thejobchicksinsideredge.substack.com/p/inside-amazons-offshoring-playbook)<!-- HN:44607878:end --><!-- HN:44608006:start -->
-* [44608006](https://news.social-protocols.org/stats?id=44608006) #30 4 points 0 comments -> ['Gaza: Doctors Under Attack', a film that the BBC refused to air is out now](https://zeteo.com/p/watch-now-gaza-doctors-under-attack)<!-- HN:44608006:end --><!-- HN:44608468:start -->
-* [44608468](https://news.social-protocols.org/stats?id=44608468) #3 14 points 8 comments -> [Everything You Need to Know About Grok 4](https://forgecode.dev/blog/grok-4-initial-impression/)<!-- HN:44608468:end --><!-- HN:44608669:start -->
-* [44608669](https://news.social-protocols.org/stats?id=44608669) #27 8 points 0 comments -> [Lookism](https://en.wikipedia.org/wiki/Lookism)<!-- HN:44608669:end --><!-- HN:44576314:start -->
-* [44576314](https://news.social-protocols.org/stats?id=44576314) #17 5 points 1 comments -> [I call them "Loop Bots"](https://www.imaurer.com/blog/posts/2025-07-15-i-call-them-loop-bots/)<!-- HN:44576314:end -->
 #### **Saturday, July 19, 2025**
 <!-- HN:44610623:start -->
 * [44610623](https://news.social-protocols.org/stats?id=44610623) #17 60 points 40 comments -> [I'm Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)<!-- HN:44610623:end --><!-- HN:44613511:start -->
@@ -127,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44670624](https://news.social-protocols.org/stats?id=44670624) #7 188 points 2 comments -> [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)<!-- HN:44670624:end --><!-- HN:44633809:start -->
 * [44633809](https://news.social-protocols.org/stats?id=44633809) #22 14 points 1 comments -> [Global earthquake detection and warning using Android phones](https://doi.org/10.1126/science.ads4779)<!-- HN:44633809:end --><!-- HN:44675697:start -->
 * [44675697](https://news.social-protocols.org/stats?id=44675697) #10 45 points 25 comments -> [Games: No sex, please. we're credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)<!-- HN:44675697:end -->
+#### **Friday, July 25, 2025**
+<!-- HN:44634110:start -->
+* [44634110](https://news.social-protocols.org/stats?id=44634110) #16 10 points 2 comments -> [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)<!-- HN:44634110:end -->
