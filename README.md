@@ -114,7 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44683447](https://news.social-protocols.org/stats?id=44683447) #23 55 points 67 comments -> [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)<!-- HN:44683447:end -->
 #### **Saturday, July 26, 2025**
 <!-- HN:44691896:start -->
-* [44691896](https://news.social-protocols.org/stats?id=44691896) #27 70 points 20 comments -> [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)<!-- HN:44691896:end --><!-- HN:44656472:start -->
-* [44656472](https://news.social-protocols.org/stats?id=44656472) #24 33 points 40 comments -> [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)<!-- HN:44656472:end --><!-- HN:44692827:start -->
+* [44691896](https://news.social-protocols.org/stats?id=44691896) #27 70 points 20 comments -> [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)<!-- HN:44691896:end --><!-- HN:44692827:start -->
 * [44692827](https://news.social-protocols.org/stats?id=44692827) #7 24 points 41 comments -> [Donate to the Treasury to help pay down the $36.7T public debt](https://www.pay.gov/public/form/start/23779454)<!-- HN:44692827:end --><!-- HN:44693528:start -->
 * [44693528](https://news.social-protocols.org/stats?id=44693528) #5 -> [Thailand's F-16s and Gripens jointly bomb Cambodian indirect fire positions](https://www.nationthailand.com/news/asean/40053114)<!-- HN:44693528:end -->
