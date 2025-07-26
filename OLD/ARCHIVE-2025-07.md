@@ -204,3 +204,14 @@
 * [44608468](https://news.ycombinator.com/item?id=44608468) #3 14 points 8 comments -> [Everything You Need to Know About Grok 4](https://forgecode.dev/blog/grok-4-initial-impression/)<!-- HN:44608468:end --><!-- HN:44608669:start -->
 * [44608669](https://news.ycombinator.com/item?id=44608669) #27 8 points 0 comments -> [Lookism](https://en.wikipedia.org/wiki/Lookism)<!-- HN:44608669:end --><!-- HN:44576314:start -->
 * [44576314](https://news.ycombinator.com/item?id=44576314) #17 5 points 1 comments -> [I call them "Loop Bots"](https://www.imaurer.com/blog/posts/2025-07-15-i-call-them-loop-bots/)<!-- HN:44576314:end -->
+#### **Saturday, July 19, 2025**
+<!-- HN:44610623:start -->
+* [44610623](https://news.ycombinator.com/item?id=44610623) #17 60 points 40 comments -> [I'm Rebelling Against the Algorithm](https://varunraghu.com/im-rebelling-against-the-algorithm/)<!-- HN:44610623:end --><!-- HN:44613511:start -->
+* [44613511](https://news.ycombinator.com/item?id=44613511) #8 6 points 1 comments -> [Free BDSM Test – Discover Your True Role](https://bdsmtest.pro/)<!-- HN:44613511:end --><!-- HN:44614764:start -->
+* [44614764](https://news.ycombinator.com/item?id=44614764) #23 9 points 1 comments -> [Google Helped Israel Spread War Propaganda to 45M Europeans](https://scheerpost.com/2025/07/17/exclusive-google-helped-israel-spread-war-propaganda-to-45-million-europeans/)<!-- HN:44614764:end --><!-- HN:44614969:start -->
+* [44614969](https://news.ycombinator.com/item?id=44614969) #18 10 points 2 comments -> [OpenAI achieved gold medal-level performance on the 2025 IMO](https://twitter.com/polynoamial/status/1946478249187377206)<!-- HN:44614969:end --><!-- HN:44614853:start -->
+* [44614853](https://news.ycombinator.com/item?id=44614853) #15 16 points 5 comments -> [Show HN: I wanted better book recommendations – so I made Lorekeep](https://www.lorekeep.io/)<!-- HN:44614853:end --><!-- HN:44616595:start -->
+* [44616595](https://news.ycombinator.com/item?id=44616595) #6 50 points 38 comments -> [Known Bad Email Clients](https://www.emailprivacytester.com/badClients)<!-- HN:44616595:end --><!-- HN:44616788:start -->
+* [44616788](https://news.ycombinator.com/item?id=44616788) #10 16 points 0 comments -> [Puck: 'Was Colbert's Cancellation "Economic" for CBS?'](https://puck.news/was-colberts-cancellation-really-economic-for-cbs/)<!-- HN:44616788:end --><!-- HN:44616486:start -->
+* [44616486](https://news.ycombinator.com/item?id=44616486) #29 33 points 40 comments -> [What is the richest country in 2025?](https://www.economist.com/graphic-detail/2025/07/18/what-is-the-richest-country-in-the-world-in-2025)<!-- HN:44616486:end --><!-- HN:44613629:start -->
+* [44613629](https://news.ycombinator.com/item?id=44613629) #3 135 points 2 comments -> [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/)<!-- HN:44613629:end -->
