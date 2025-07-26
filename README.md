@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44681883](https://news.social-protocols.org/stats?id=44681883) #14 6 points 0 comments -> ["Whites-only" community plotting expansion to another US state](https://www.independent.co.uk/news/world/americas/return-to-the-land-whites-only-community-b2795213.html)<!-- HN:44681883:end --><!-- HN:44685616:start -->
 * [44685616](https://news.social-protocols.org/stats?id=44685616) #17 8 points 3 comments -> [Guns and Violence](https://rajivsethi.substack.com/p/guns-violence)<!-- HN:44685616:end --><!-- HN:44683447:start -->
 * [44683447](https://news.social-protocols.org/stats?id=44683447) #23 55 points 67 comments -> [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)<!-- HN:44683447:end -->
+#### **Saturday, July 26, 2025**
+<!-- HN:44691896:start -->
+* [44691896](https://news.social-protocols.org/stats?id=44691896) #27 70 points 20 comments -> [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)<!-- HN:44691896:end -->
