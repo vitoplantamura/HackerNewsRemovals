@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 26, 2025**
 <!-- HN:44691896:start -->
 * [44691896](https://news.social-protocols.org/stats?id=44691896) #27 70 points 20 comments -> [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)<!-- HN:44691896:end --><!-- HN:44656472:start -->
-* [44656472](https://news.social-protocols.org/stats?id=44656472) #24 33 points 40 comments -> [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)<!-- HN:44656472:end -->
+* [44656472](https://news.social-protocols.org/stats?id=44656472) #24 33 points 40 comments -> [Generic Containers in C: Vec](https://uecker.codeberg.page/2025-07-20.html)<!-- HN:44656472:end --><!-- HN:44692827:start -->
+* [44692827](https://news.social-protocols.org/stats?id=44692827) #7 24 points 41 comments -> [Donate to the Treasury to help pay down the $36.7T public debt](https://www.pay.gov/public/form/start/23779454)<!-- HN:44692827:end -->
