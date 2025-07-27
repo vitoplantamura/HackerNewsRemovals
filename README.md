@@ -113,5 +113,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 27, 2025**
 <!-- HN:44698750:start -->
 * [44698750](https://news.social-protocols.org/stats?id=44698750) #18 5 points 1 comments -> [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)<!-- HN:44698750:end --><!-- HN:44700173:start -->
-* [44700173](https://news.social-protocols.org/stats?id=44700173) #27 7 points 0 comments -> [Has the Russian intelligence service penetrated Telegram?](https://www.perplexity.ai/search/is-there-evidence-that-suggest-FMgkZrx3SHONR2v1wSC.zg)<!-- HN:44700173:end --><!-- HN:44701477:start -->
-* [44701477](https://news.social-protocols.org/stats?id=44701477) #15 -> [US Government takes $1B from nuclear modernization for gold-plated jet](https://www.nytimes.com/2025/07/27/us/politics/air-force-one-trump-cost.html)<!-- HN:44701477:end -->
+* [44700173](https://news.social-protocols.org/stats?id=44700173) #27 7 points 0 comments -> [Has the Russian intelligence service penetrated Telegram?](https://www.perplexity.ai/search/is-there-evidence-that-suggest-FMgkZrx3SHONR2v1wSC.zg)<!-- HN:44700173:end -->
