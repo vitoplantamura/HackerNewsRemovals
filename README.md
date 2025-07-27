@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44697089](https://news.social-protocols.org/stats?id=44697089) #9 6 points 0 comments -> [Gwyneth Paltrow Hired as Astronomer's "Spokesperson" in Wake of Kiss Cam](https://consequence.net/2025/07/gwyneth-paltrow-astronomer-video/)<!-- HN:44697089:end -->
 #### **Sunday, July 27, 2025**
 <!-- HN:44698750:start -->
-* [44698750](https://news.social-protocols.org/stats?id=44698750) #18 5 points 1 comments -> [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)<!-- HN:44698750:end -->
+* [44698750](https://news.social-protocols.org/stats?id=44698750) #18 5 points 1 comments -> [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)<!-- HN:44698750:end --><!-- HN:44700173:start -->
+* [44700173](https://news.social-protocols.org/stats?id=44700173) #27 7 points 0 comments -> [Has the Russian intelligence service penetrated Telegram?](https://www.perplexity.ai/search/is-there-evidence-that-suggest-FMgkZrx3SHONR2v1wSC.zg)<!-- HN:44700173:end -->
