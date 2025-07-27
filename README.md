@@ -110,3 +110,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44696922](https://news.social-protocols.org/stats?id=44696922) #7 4 points 2 comments -> [The Coming Age of Super Entertainment and Super Porn](https://vutran.substack.com/p/the-dopamine-machine-the-coming-age)<!-- HN:44696922:end --><!-- HN:44647134:start -->
 * [44647134](https://news.social-protocols.org/stats?id=44647134) #24 4 points 0 comments -> [Why are we pretending AI is going to take all the jobs?](https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going)<!-- HN:44647134:end --><!-- HN:44697089:start -->
 * [44697089](https://news.social-protocols.org/stats?id=44697089) #9 6 points 0 comments -> [Gwyneth Paltrow Hired as Astronomer's "Spokesperson" in Wake of Kiss Cam](https://consequence.net/2025/07/gwyneth-paltrow-astronomer-video/)<!-- HN:44697089:end -->
+#### **Sunday, July 27, 2025**
+<!-- HN:44698750:start -->
+* [44698750](https://news.social-protocols.org/stats?id=44698750) #18 5 points 1 comments -> [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)<!-- HN:44698750:end -->
