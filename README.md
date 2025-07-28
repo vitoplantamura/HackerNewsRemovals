@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, July 21, 2025**
-<!-- HN:44630872:start -->
-* [44630872](https://news.social-protocols.org/stats?id=44630872) #26 6 points 1 comments -> [Europe has more heat deaths per year than the United States loses to gun deaths](https://www.perplexity.ai/search/europe-has-more-heat-deaths-pe-BDS6xdorS4.4x2WrCC9mAQ)<!-- HN:44630872:end --><!-- HN:44631053:start -->
-* [44631053](https://news.social-protocols.org/stats?id=44631053) #9 3 points 5 comments -> [Hi guys, any thought on this project?](https://founder-hub-waitlist.vercel.app/)<!-- HN:44631053:end --><!-- HN:44631091:start -->
-* [44631091](https://news.social-protocols.org/stats?id=44631091) #17 4 points 1 comments -> [HTTP/1.1 Must Die – The Desync Endgame Begins](https://http1mustdie.com/)<!-- HN:44631091:end --><!-- HN:44632575:start -->
-* [44632575](https://news.social-protocols.org/stats?id=44632575) #21 86 points 41 comments -> [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)<!-- HN:44632575:end --><!-- HN:44633228:start -->
-* [44633228](https://news.social-protocols.org/stats?id=44633228) #12 9 points 4 comments -> [The Missing Guide to Prompt Engineering](https://appetals.com/promptguide/)<!-- HN:44633228:end --><!-- HN:44633902:start -->
-* [44633902](https://news.social-protocols.org/stats?id=44633902) #17 26 points 41 comments -> [France launches criminal probe of X over alleged algorithm 'manipulation' X says](https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00)<!-- HN:44633902:end --><!-- HN:44634373:start -->
-* [44634373](https://news.social-protocols.org/stats?id=44634373) #2 8 points 2 comments -> [HTTP/1.1 Must Die](https://http1mustdie.com/)<!-- HN:44634373:end --><!-- HN:44634664:start -->
-* [44634664](https://news.social-protocols.org/stats?id=44634664) #2 8 points 1 comments -> [Coldplayed: A New Verb Is Born After Viral Coldplay Concert Scandal](https://suntechpulse.com/coldplayed-a-new-verb-is-born-after-viral-coldplay-concert-scandal/)<!-- HN:44634664:end --><!-- HN:44630815:start -->
-* [44630815](https://news.social-protocols.org/stats?id=44630815) #29 75 points 49 comments -> [Claude jailbroken to mint unlimited Stripe coupons](https://www.generalanalysis.com/blog/imessage-stripe-exploit)<!-- HN:44630815:end --><!-- HN:44635324:start -->
-* [44635324](https://news.social-protocols.org/stats?id=44635324) #1 -> [The €43B EU CHIPS Act gets green light. – TechHQ](https://techhq.com/news/the-e43-billion-eu-chips-act-gets-green-light-from-european-nations-whats-next/)<!-- HN:44635324:end --><!-- HN:44634734:start -->
-* [44634734](https://news.social-protocols.org/stats?id=44634734) #23 35 points 40 comments -> [Cryptocurrency exchanges begin offering tokenized securities](https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018)<!-- HN:44634734:end --><!-- HN:44640005:start -->
-* [44640005](https://news.social-protocols.org/stats?id=44640005) #9 24 points 41 comments -> [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)<!-- HN:44640005:end --><!-- HN:44639949:start -->
-* [44639949](https://news.social-protocols.org/stats?id=44639949) #14 20 points 7 comments -> [Africa's gigantic $80B dam could transform entire continent](https://en.clickpetroleoegas.com.br/maior-que-a-barragem-tres-gargantas-da-china-o-gigantesco-megaprojeto-africano-de-us-80-bilhoes-que-pode-revolucionar-a-energia-e-transformar-um-continente-inteiro/)<!-- HN:44639949:end --><!-- HN:44641173:start -->
-* [44641173](https://news.social-protocols.org/stats?id=44641173) #22 4 points 0 comments -> [Sexual Offender or Not?](https://facecrime.io/)<!-- HN:44641173:end -->
 #### **Tuesday, July 22, 2025**
 <!-- HN:44641363:start -->
 * [44641363](https://news.social-protocols.org/stats?id=44641363) #29 30 points 15 comments -> [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)<!-- HN:44641363:end --><!-- HN:44607125:start -->
