@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44704391](https://news.social-protocols.org/stats?id=44704391) #19 37 points 20 comments -> [The Evilization of Google–and What to Do About It](https://billdembski.substack.com/p/the-evilization-of-googleand-what)<!-- HN:44704391:end -->
 #### **Monday, July 28, 2025**
 <!-- HN:44704319:start -->
-* [44704319](https://news.social-protocols.org/stats?id=44704319) #28 8 points 0 comments -> [Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon](https://www.science.org/doi/10.1126/sciadv.adv1585)<!-- HN:44704319:end -->
+* [44704319](https://news.social-protocols.org/stats?id=44704319) #28 8 points 0 comments -> [Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon](https://www.science.org/doi/10.1126/sciadv.adv1585)<!-- HN:44704319:end --><!-- HN:44704305:start -->
+* [44704305](https://news.social-protocols.org/stats?id=44704305) #23 27 points 1 comments -> [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)<!-- HN:44704305:end -->
