@@ -245,3 +245,10 @@
 * [44640005](https://news.ycombinator.com/item?id=44640005) #9 24 points 41 comments -> [The special hell of Bolt, Europe's Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app)<!-- HN:44640005:end --><!-- HN:44639949:start -->
 * [44639949](https://news.ycombinator.com/item?id=44639949) #14 20 points 7 comments -> [Africa's gigantic $80B dam could transform entire continent](https://en.clickpetroleoegas.com.br/maior-que-a-barragem-tres-gargantas-da-china-o-gigantesco-megaprojeto-africano-de-us-80-bilhoes-que-pode-revolucionar-a-energia-e-transformar-um-continente-inteiro/)<!-- HN:44639949:end --><!-- HN:44641173:start -->
 * [44641173](https://news.ycombinator.com/item?id=44641173) #22 4 points 0 comments -> [Sexual Offender or Not?](https://facecrime.io/)<!-- HN:44641173:end -->
+#### **Tuesday, July 22, 2025**
+<!-- HN:44641363:start -->
+* [44641363](https://news.ycombinator.com/item?id=44641363) #29 30 points 15 comments -> [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)<!-- HN:44641363:end --><!-- HN:44607125:start -->
+* [44607125](https://news.ycombinator.com/item?id=44607125) #12 12 points 12 comments -> [He Rewrote Everything in Rust – Then We Got Fired](https://medium.com/@ThreadSafeDiaries/he-rewrote-everything-in-rust-then-we-got-fired-293e3e16c2d3)<!-- HN:44607125:end --><!-- HN:44644428:start -->
+* [44644428](https://news.ycombinator.com/item?id=44644428) #21 3 points 0 comments -> [Raft Consensus Algorithms](https://blog.outlandish.claims/p/raft-consensus-algorithms)<!-- HN:44644428:end --><!-- HN:44649713:start -->
+* [44649713](https://news.ycombinator.com/item?id=44649713) #9 7 points 0 comments -> [The Case for Sabotage](https://collectiveactionintech.substack.com/p/the-case-for-sabotage)<!-- HN:44649713:end --><!-- HN:44651041:start -->
+* [44651041](https://news.ycombinator.com/item?id=44651041) #30 9 points 0 comments -> [AFP's last journalists in Gaza are starving to death](https://twitter.com/SDJ_AFP/status/1947609875183215005)<!-- HN:44651041:end -->
