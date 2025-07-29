@@ -107,3 +107,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44712107](https://news.social-protocols.org/stats?id=44712107) #12 5 points 8 comments -> [AI for Coding: Why Most Developers Are Getting It Wrong](https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/)<!-- HN:44712107:end --><!-- HN:44712459:start -->
 * [44712459](https://news.social-protocols.org/stats?id=44712459) #17 79 points 74 comments -> [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)<!-- HN:44712459:end --><!-- HN:44712831:start -->
 * [44712831](https://news.social-protocols.org/stats?id=44712831) #17 21 points 10 comments -> [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)<!-- HN:44712831:end -->
+#### **Tuesday, July 29, 2025**
+<!-- HN:44688738:start -->
+* [44688738](https://news.social-protocols.org/stats?id=44688738) #18 35 points 41 comments -> [Tour de France confronts a new threat: Are cyclists using tiny motors?](https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/)<!-- HN:44688738:end -->
