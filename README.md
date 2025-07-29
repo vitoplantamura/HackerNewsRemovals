@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44712831](https://news.social-protocols.org/stats?id=44712831) #17 21 points 10 comments -> [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)<!-- HN:44712831:end -->
 #### **Tuesday, July 29, 2025**
 <!-- HN:44718686:start -->
-* [44718686](https://news.social-protocols.org/stats?id=44718686) #2 11 points 11 comments -> [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)<!-- HN:44718686:end -->
+* [44718686](https://news.social-protocols.org/stats?id=44718686) #2 11 points 11 comments -> [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)<!-- HN:44718686:end --><!-- HN:44721604:start -->
+* [44721604](https://news.social-protocols.org/stats?id=44721604) #24 27 points 3 comments -> [Palestinian who helped make Oscar-winning No Other Land killed in West Bank](https://www.theguardian.com/world/2025/jul/29/palestinian-awdah-hathaleen-oscar-winning-no-other-land-killed-in-west-bank)<!-- HN:44721604:end -->
