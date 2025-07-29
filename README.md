@@ -108,7 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44712459](https://news.social-protocols.org/stats?id=44712459) #17 79 points 74 comments -> [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)<!-- HN:44712459:end --><!-- HN:44712831:start -->
 * [44712831](https://news.social-protocols.org/stats?id=44712831) #17 21 points 10 comments -> [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)<!-- HN:44712831:end -->
 #### **Tuesday, July 29, 2025**
-<!-- HN:44688738:start -->
-* [44688738](https://news.social-protocols.org/stats?id=44688738) #18 35 points 41 comments -> [Tour de France confronts a new threat: Are cyclists using tiny motors?](https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/)<!-- HN:44688738:end --><!-- HN:44714994:start -->
+<!-- HN:44714994:start -->
 * [44714994](https://news.social-protocols.org/stats?id=44714994) #28 27 points 40 comments -> [Why not Matrix (2023)](https://telegra.ph/why-not-matrix-08-07)<!-- HN:44714994:end --><!-- HN:44718686:start -->
 * [44718686](https://news.social-protocols.org/stats?id=44718686) #2 11 points 11 comments -> [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)<!-- HN:44718686:end -->
