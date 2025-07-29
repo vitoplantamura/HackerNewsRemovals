@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, July 29, 2025**
 <!-- HN:44688738:start -->
 * [44688738](https://news.social-protocols.org/stats?id=44688738) #18 35 points 41 comments -> [Tour de France confronts a new threat: Are cyclists using tiny motors?](https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/)<!-- HN:44688738:end --><!-- HN:44714994:start -->
-* [44714994](https://news.social-protocols.org/stats?id=44714994) #28 27 points 40 comments -> [Why not Matrix (2023)](https://telegra.ph/why-not-matrix-08-07)<!-- HN:44714994:end -->
+* [44714994](https://news.social-protocols.org/stats?id=44714994) #28 27 points 40 comments -> [Why not Matrix (2023)](https://telegra.ph/why-not-matrix-08-07)<!-- HN:44714994:end --><!-- HN:44718686:start -->
+* [44718686](https://news.social-protocols.org/stats?id=44718686) #2 11 points 11 comments -> [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)<!-- HN:44718686:end -->
