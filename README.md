@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44727066](https://news.social-protocols.org/stats?id=44727066) #6 25 points 25 comments -> [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)<!-- HN:44727066:end -->
 #### **Wednesday, July 30, 2025**<!-- HN:44732216:start -->
 * [44732216](https://news.social-protocols.org/stats?id=44732216) #6 5 points 0 comments -> [Show HN: I built a free backlink exchange marketplace](https://launchigniter.com/link-exchange)<!-- HN:44732216:end --><!-- HN:44731883:start -->
-* [44731883](https://news.social-protocols.org/stats?id=44731883) #5 19 points 33 comments -> [One diet soda a day increases type 2 diabetes risk by 38%](https://newatlas.com/diet-nutrition/one-drink-diabetes-risk/)<!-- HN:44731883:end -->
+* [44731883](https://news.social-protocols.org/stats?id=44731883) #5 19 points 33 comments -> [One diet soda a day increases type 2 diabetes risk by 38%](https://newatlas.com/diet-nutrition/one-drink-diabetes-risk/)<!-- HN:44731883:end --><!-- HN:44732939:start -->
+* [44732939](https://news.social-protocols.org/stats?id=44732939) #3 7 points 1 comments -> [Track how much money AIPAC spent to buy Congress](https://www.trackaipac.com)<!-- HN:44732939:end -->
