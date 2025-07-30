@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, July 23, 2025**
-<!-- HN:44653899:start -->
-* [44653899](https://news.social-protocols.org/stats?id=44653899) #27 5 points 5 comments -> [You lose 23 minutes of focus every Google or GPT use;](https://www.wagoo.ai/)<!-- HN:44653899:end --><!-- HN:44654493:start -->
-* [44654493](https://news.social-protocols.org/stats?id=44654493) #7 29 points 41 comments -> [Why does raising the retirement age hurt young people?](https://www.governance.fyi/p/why-does-raising-the-retirement-age)<!-- HN:44654493:end --><!-- HN:44632500:start -->
-* [44632500](https://news.social-protocols.org/stats?id=44632500) #19 33 points 40 comments -> [Java is still worth learning](https://empatheticdeveloper.wordpress.com/2025/07/20/why-java-is-still-worth-learning-in-2025-a-developers-25-year-journey/)<!-- HN:44632500:end --><!-- HN:44657028:start -->
-* [44657028](https://news.social-protocols.org/stats?id=44657028) #24 -> [AFP journalists warn their 'last reporters will die' in current Gaza conditions](https://apnews.com/article/gaza-hunger-journalists-food-afp-32c19db56ddf9f3e6a847c76a676c7c9)<!-- HN:44657028:end --><!-- HN:44657133:start -->
-* [44657133](https://news.social-protocols.org/stats?id=44657133) #10 -> [How to Start Prop Firm Trading with Minimal Capital?](https://propfirmplus.com/)<!-- HN:44657133:end --><!-- HN:44657261:start -->
-* [44657261](https://news.social-protocols.org/stats?id=44657261) #22 9 points 0 comments -> [Wick Effect](https://en.wikipedia.org/wiki/Wick_effect)<!-- HN:44657261:end --><!-- HN:44657694:start -->
-* [44657694](https://news.social-protocols.org/stats?id=44657694) #4 6 points 4 comments -> [Short Google](https://tompccs.github.io/blog/2025/07/23/short-google.html)<!-- HN:44657694:end --><!-- HN:44658112:start -->
-* [44658112](https://news.social-protocols.org/stats?id=44658112) #21 10 points 6 comments -> [Are we witnessing the final days of Mozilla?](https://lunduke.locals.com/post/7132314/are-we-witnessing-the-final-days-of-mozilla)<!-- HN:44658112:end --><!-- HN:44658458:start -->
-* [44658458](https://news.social-protocols.org/stats?id=44658458) #20 23 points 40 comments -> [Are we Trek yet? – A guide for how close we are to Star Trek technology](https://arewetrekyet.com/)<!-- HN:44658458:end --><!-- HN:44658573:start -->
-* [44658573](https://news.social-protocols.org/stats?id=44658573) #13 12 points 12 comments -> [How younger people interact with the modern internet](https://social.restless.systems/@CursedSilicon/114899888735166987)<!-- HN:44658573:end --><!-- HN:44662658:start -->
-* [44662658](https://news.social-protocols.org/stats?id=44662658) #14 18 points 5 comments -> [Why Do Victims of Massacres Go to Their Deaths?](https://www.benlandautaylor.com/p/why-do-victims-of-massacres-go-quietly)<!-- HN:44662658:end --><!-- HN:44663021:start -->
-* [44663021](https://news.social-protocols.org/stats?id=44663021) #27 96 points 37 comments -> [ICE block founder's wife fired by DOJ in retaliation for the app](https://www.newsweek.com/iceblock-app-founder-wife-fired-doj-carolyn-feinstein-2102214)<!-- HN:44663021:end --><!-- HN:44621551:start -->
-* [44621551](https://news.social-protocols.org/stats?id=44621551) #30 9 points 0 comments -> [Magnetic Components Directory Website](https://magdir.com)<!-- HN:44621551:end -->
 #### **Thursday, July 24, 2025**
 <!-- HN:44630028:start -->
 * [44630028](https://news.social-protocols.org/stats?id=44630028) #26 10 points 17 comments -> [Thawing vacuum-packed fish correctly](https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing)<!-- HN:44630028:end --><!-- HN:44670727:start -->
