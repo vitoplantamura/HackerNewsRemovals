@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44725437](https://news.social-protocols.org/stats?id=44725437) #20 14 points 0 comments -> [UK to recognise Palestinian state in September unless Israel accepts ceasefire](https://www.theguardian.com/politics/2025/jul/29/uk-to-recognise-state-of-palestine-in-september-unless-israel-holds-to-a-ceasefire)<!-- HN:44725437:end --><!-- HN:44726921:start -->
 * [44726921](https://news.social-protocols.org/stats?id=44726921) #11 13 points 6 comments -> [Why CI/CD Still Doesn't Include Continuous Documentation?](https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/)<!-- HN:44726921:end --><!-- HN:44727066:start -->
 * [44727066](https://news.social-protocols.org/stats?id=44727066) #6 25 points 25 comments -> [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)<!-- HN:44727066:end -->
-#### **Wednesday, July 30, 2025**
+#### **Wednesday, July 30, 2025**<!-- HN:44732216:start -->
+* [44732216](https://news.social-protocols.org/stats?id=44732216) #6 5 points 0 comments -> [Show HN: I built a free backlink exchange marketplace](https://launchigniter.com/link-exchange)<!-- HN:44732216:end -->
