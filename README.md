@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44725437](https://news.social-protocols.org/stats?id=44725437) #20 14 points 0 comments -> [UK to recognise Palestinian state in September unless Israel accepts ceasefire](https://www.theguardian.com/politics/2025/jul/29/uk-to-recognise-state-of-palestine-in-september-unless-israel-holds-to-a-ceasefire)<!-- HN:44725437:end --><!-- HN:44726921:start -->
 * [44726921](https://news.social-protocols.org/stats?id=44726921) #11 13 points 6 comments -> [Why CI/CD Still Doesn't Include Continuous Documentation?](https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/)<!-- HN:44726921:end --><!-- HN:44727066:start -->
 * [44727066](https://news.social-protocols.org/stats?id=44727066) #6 25 points 25 comments -> [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)<!-- HN:44727066:end -->
+#### **Wednesday, July 30, 2025**
+<!-- HN:44731958:start -->
+* [44731958](https://news.social-protocols.org/stats?id=44731958) #14 34 points 5 comments -> [Oscar-Winning 'No Other Land' Awdah Hathaleen Killed by Israeli Settler](https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler)<!-- HN:44731958:end -->
