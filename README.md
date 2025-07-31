@@ -104,5 +104,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44739117](https://news.social-protocols.org/stats?id=44739117) #7 23 points 15 comments -> [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)<!-- HN:44739117:end -->
 #### **Thursday, July 31, 2025**
 <!-- HN:44704052:start -->
-* [44704052](https://news.social-protocols.org/stats?id=44704052) #29 9 points 5 comments -> [Boston Dynamics' Atlas does backflips (lesson and breakdown)](https://app.vidyaarthi.ai/ai-tutor?session_id=2YBSyF3WNzMNn_80jygEp&action=replay&shared=true)<!-- HN:44704052:end --><!-- HN:44746326:start -->
-* [44746326](https://news.social-protocols.org/stats?id=44746326) #5 12 points 3 comments -> [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)<!-- HN:44746326:end -->
+* [44704052](https://news.social-protocols.org/stats?id=44704052) #29 9 points 5 comments -> [Boston Dynamics' Atlas does backflips (lesson and breakdown)](https://app.vidyaarthi.ai/ai-tutor?session_id=2YBSyF3WNzMNn_80jygEp&action=replay&shared=true)<!-- HN:44704052:end -->
