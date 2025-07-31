@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44735359](https://news.social-protocols.org/stats?id=44735359) #6 -> [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)<!-- HN:44735359:end --><!-- HN:44737839:start -->
 * [44737839](https://news.social-protocols.org/stats?id=44737839) #29 13 points 2 comments -> [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)<!-- HN:44737839:end --><!-- HN:44739117:start -->
 * [44739117](https://news.social-protocols.org/stats?id=44739117) #7 23 points 15 comments -> [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)<!-- HN:44739117:end -->
+#### **Thursday, July 31, 2025**
+<!-- HN:44704052:start -->
+* [44704052](https://news.social-protocols.org/stats?id=44704052) #29 9 points 5 comments -> [Boston Dynamics' Atlas does backflips (lesson and breakdown)](https://app.vidyaarthi.ai/ai-tutor?session_id=2YBSyF3WNzMNn_80jygEp&action=replay&shared=true)<!-- HN:44704052:end -->
