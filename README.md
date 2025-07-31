@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, July 24, 2025**
-<!-- HN:44630028:start -->
-* [44630028](https://news.social-protocols.org/stats?id=44630028) #26 10 points 17 comments -> [Thawing vacuum-packed fish correctly](https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing)<!-- HN:44630028:end --><!-- HN:44670727:start -->
-* [44670727](https://news.social-protocols.org/stats?id=44670727) #26 -> [Instagram Temporarily Suspends Zohran Mamdani's Account](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)<!-- HN:44670727:end --><!-- HN:44670947:start -->
-* [44670947](https://news.social-protocols.org/stats?id=44670947) #16 14 points 4 comments -> [Yet another bad three months as Tesla reports its Q2 2025 results](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sell-fewer-cars-and-carbon-credits-make-less-money/)<!-- HN:44670947:end --><!-- HN:44671284:start -->
-* [44671284](https://news.social-protocols.org/stats?id=44671284) #22 9 points 0 comments -> [We Need a European Sovereign Tech Fund](https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/)<!-- HN:44671284:end --><!-- HN:44672136:start -->
-* [44672136](https://news.social-protocols.org/stats?id=44672136) #16 -> [Instagram Suspends Mamdani for 3 Hours, Cites 'National Interest'](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)<!-- HN:44672136:end --><!-- HN:44670624:start -->
-* [44670624](https://news.social-protocols.org/stats?id=44670624) #7 188 points 2 comments -> [AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it](https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative)<!-- HN:44670624:end --><!-- HN:44633809:start -->
-* [44633809](https://news.social-protocols.org/stats?id=44633809) #22 14 points 1 comments -> [Global earthquake detection and warning using Android phones](https://doi.org/10.1126/science.ads4779)<!-- HN:44633809:end --><!-- HN:44675697:start -->
-* [44675697](https://news.social-protocols.org/stats?id=44675697) #10 45 points 25 comments -> [Games: No sex, please. we're credit card companies](https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/)<!-- HN:44675697:end -->
 #### **Friday, July 25, 2025**
 <!-- HN:44634110:start -->
 * [44634110](https://news.social-protocols.org/stats?id=44634110) #16 10 points 2 comments -> [AI groups spend to replace low-cost 'data labellers' with high-paid experts](https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8)<!-- HN:44634110:end --><!-- HN:44632369:start -->
