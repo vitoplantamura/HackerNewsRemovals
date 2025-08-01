@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 1, 2025**
 <!-- HN:44751258:start -->
 * [44751258](https://news.social-protocols.org/stats?id=44751258) #12 14 points 4 comments -> [Comprehensive Overview of the Identity Management Ecosystem in 2025](https://guptadeepak.com/understanding-the-complete-identity-management-ecosystem/)<!-- HN:44751258:end --><!-- HN:44752051:start -->
-* [44752051](https://news.social-protocols.org/stats?id=44752051) #11 8 points 0 comments -> [We Asked 100 AI Models to Write Code](https://www.veracode.com/blog/genai-code-security-report/)<!-- HN:44752051:end -->
+* [44752051](https://news.social-protocols.org/stats?id=44752051) #11 8 points 0 comments -> [We Asked 100 AI Models to Write Code](https://www.veracode.com/blog/genai-code-security-report/)<!-- HN:44752051:end --><!-- HN:44750817:start -->
+* [44750817](https://news.social-protocols.org/stats?id=44750817) #25 38 points 40 comments -> [Age Verification Doesn't Need to Be a Privacy Footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)<!-- HN:44750817:end -->
