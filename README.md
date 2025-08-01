@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44746326](https://news.social-protocols.org/stats?id=44746326) #21 19 points 11 comments -> [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)<!-- HN:44746326:end -->
 #### **Friday, August 1, 2025**
 <!-- HN:44751258:start -->
-* [44751258](https://news.social-protocols.org/stats?id=44751258) #12 14 points 4 comments -> [Comprehensive Overview of the Identity Management Ecosystem in 2025](https://guptadeepak.com/understanding-the-complete-identity-management-ecosystem/)<!-- HN:44751258:end -->
+* [44751258](https://news.social-protocols.org/stats?id=44751258) #12 14 points 4 comments -> [Comprehensive Overview of the Identity Management Ecosystem in 2025](https://guptadeepak.com/understanding-the-complete-identity-management-ecosystem/)<!-- HN:44751258:end --><!-- HN:44752051:start -->
+* [44752051](https://news.social-protocols.org/stats?id=44752051) #11 8 points 0 comments -> [We Asked 100 AI Models to Write Code](https://www.veracode.com/blog/genai-code-security-report/)<!-- HN:44752051:end -->
