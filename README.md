@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, August 2, 2025**
 <!-- HN:44762504:start -->
 * [44762504](https://news.social-protocols.org/stats?id=44762504) #16 39 points 24 comments -> [JSON is not a YAML subset (2022)](https://john-millikin.com/json-is-not-a-yaml-subset)<!-- HN:44762504:end --><!-- HN:44765939:start -->
-* [44765939](https://news.social-protocols.org/stats?id=44765939) #7 27 points 10 comments -> [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)<!-- HN:44765939:end -->
+* [44765939](https://news.social-protocols.org/stats?id=44765939) #7 27 points 10 comments -> [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)<!-- HN:44765939:end --><!-- HN:44766313:start -->
+* [44766313](https://news.social-protocols.org/stats?id=44766313) #4 31 points 2 comments -> [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)<!-- HN:44766313:end -->
