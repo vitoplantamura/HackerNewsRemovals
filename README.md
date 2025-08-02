@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, July 26, 2025**
-<!-- HN:44691896:start -->
-* [44691896](https://news.social-protocols.org/stats?id=44691896) #27 70 points 20 comments -> [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)<!-- HN:44691896:end --><!-- HN:44692827:start -->
-* [44692827](https://news.social-protocols.org/stats?id=44692827) #7 24 points 41 comments -> [Donate to the Treasury to help pay down the $36.7T public debt](https://www.pay.gov/public/form/start/23779454)<!-- HN:44692827:end --><!-- HN:44693528:start -->
-* [44693528](https://news.social-protocols.org/stats?id=44693528) #5 -> [Thailand's F-16s and Gripens jointly bomb Cambodian indirect fire positions](https://www.nationthailand.com/news/asean/40053114)<!-- HN:44693528:end --><!-- HN:44693078:start -->
-* [44693078](https://news.social-protocols.org/stats?id=44693078) #12 53 points 34 comments -> [Fuck dopamine, we're voluntarily breaking our own brains](https://anushkakarmakar.substack.com/p/35-fuck-dopamine)<!-- HN:44693078:end --><!-- HN:44694248:start -->
-* [44694248](https://news.social-protocols.org/stats?id=44694248) #24 5 points 0 comments -> [The Worst ICE Agents Are Coming](https://www.thebulwark.com/p/the-worst-ice-agents-are-coming-170b-budget-hiring-training)<!-- HN:44694248:end --><!-- HN:44695159:start -->
-* [44695159](https://news.social-protocols.org/stats?id=44695159) #3 29 points 9 comments -> [Is the Interstellar Object 3I/Atlas Alien Technology?](https://arxiv.org/abs/2507.12213)<!-- HN:44695159:end --><!-- HN:44695692:start -->
-* [44695692](https://news.social-protocols.org/stats?id=44695692) #25 5 points 0 comments -> [Aid drops to Gaza 'inefficient and a distraction' with starvation deepening](https://www.theguardian.com/world/live/2025/jul/26/israel-gaza-war-palestinian-state-palestine-middle-east-latest-news-updates)<!-- HN:44695692:end --><!-- HN:44696922:start -->
-* [44696922](https://news.social-protocols.org/stats?id=44696922) #7 4 points 2 comments -> [The Coming Age of Super Entertainment and Super Porn](https://vutran.substack.com/p/the-dopamine-machine-the-coming-age)<!-- HN:44696922:end --><!-- HN:44647134:start -->
-* [44647134](https://news.social-protocols.org/stats?id=44647134) #24 4 points 0 comments -> [Why are we pretending AI is going to take all the jobs?](https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going)<!-- HN:44647134:end --><!-- HN:44697089:start -->
-* [44697089](https://news.social-protocols.org/stats?id=44697089) #9 6 points 0 comments -> [Gwyneth Paltrow Hired as Astronomer's "Spokesperson" in Wake of Kiss Cam](https://consequence.net/2025/07/gwyneth-paltrow-astronomer-video/)<!-- HN:44697089:end -->
 #### **Sunday, July 27, 2025**
 <!-- HN:44698750:start -->
 * [44698750](https://news.social-protocols.org/stats?id=44698750) #18 5 points 1 comments -> [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)<!-- HN:44698750:end --><!-- HN:44700173:start -->
