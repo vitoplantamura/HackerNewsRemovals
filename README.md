@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44762157](https://news.social-protocols.org/stats?id=44762157) #19 5 points 1 comments -> [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)<!-- HN:44762157:end -->
 #### **Saturday, August 2, 2025**
 <!-- HN:44762504:start -->
-* [44762504](https://news.social-protocols.org/stats?id=44762504) #16 39 points 24 comments -> [JSON is not a YAML subset (2022)](https://john-millikin.com/json-is-not-a-yaml-subset)<!-- HN:44762504:end -->
+* [44762504](https://news.social-protocols.org/stats?id=44762504) #16 39 points 24 comments -> [JSON is not a YAML subset (2022)](https://john-millikin.com/json-is-not-a-yaml-subset)<!-- HN:44762504:end --><!-- HN:44765939:start -->
+* [44765939](https://news.social-protocols.org/stats?id=44765939) #7 27 points 10 comments -> [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)<!-- HN:44765939:end -->
