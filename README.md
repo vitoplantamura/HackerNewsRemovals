@@ -98,3 +98,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44759237](https://news.social-protocols.org/stats?id=44759237) #26 4 points 0 comments -> [Show HN: The platform making SEO simpler, cheaper, and more effective](https://idiotproofseo.com/)<!-- HN:44759237:end --><!-- HN:44760740:start -->
 * [44760740](https://news.social-protocols.org/stats?id=44760740) #14 4 points 0 comments -> [The Economy? He died five years ago](https://daverupert.com/2025/08/the-economy-he-died-five-years-ago/)<!-- HN:44760740:end --><!-- HN:44762157:start -->
 * [44762157](https://news.social-protocols.org/stats?id=44762157) #19 5 points 1 comments -> [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)<!-- HN:44762157:end -->
+#### **Saturday, August 2, 2025**
+<!-- HN:44762504:start -->
+* [44762504](https://news.social-protocols.org/stats?id=44762504) #16 39 points 24 comments -> [JSON is not a YAML subset (2022)](https://john-millikin.com/json-is-not-a-yaml-subset)<!-- HN:44762504:end -->
