@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, July 27, 2025**
-<!-- HN:44698750:start -->
-* [44698750](https://news.social-protocols.org/stats?id=44698750) #18 5 points 1 comments -> [The Electron E1 Processor](https://www.efficient.computer/announcing-electron-e1-processor)<!-- HN:44698750:end --><!-- HN:44700173:start -->
-* [44700173](https://news.social-protocols.org/stats?id=44700173) #27 7 points 0 comments -> [Has the Russian intelligence service penetrated Telegram?](https://www.perplexity.ai/search/is-there-evidence-that-suggest-FMgkZrx3SHONR2v1wSC.zg)<!-- HN:44700173:end --><!-- HN:44661402:start -->
-* [44661402](https://news.social-protocols.org/stats?id=44661402) #13 13 points 3 comments -> [Base58 versus Base85 Encoding](https://www.johndcook.com/blog/2025/07/23/base58-base85/)<!-- HN:44661402:end --><!-- HN:44701579:start -->
-* [44701579](https://news.social-protocols.org/stats?id=44701579) #15 36 points 7 comments -> [No](https://olu.online/no/)<!-- HN:44701579:end --><!-- HN:44664179:start -->
-* [44664179](https://news.social-protocols.org/stats?id=44664179) #25 7 points 6 comments -> [Book Review: Nixon's Memoirs](https://justismills.substack.com/p/book-review-nixons-memoirs)<!-- HN:44664179:end --><!-- HN:44703613:start -->
-* [44703613](https://news.social-protocols.org/stats?id=44703613) #10 22 points 2 comments -> [Tom Lehrer, song satirist and mathematician, dies at 97](https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d)<!-- HN:44703613:end --><!-- HN:44704989:start -->
-* [44704989](https://news.social-protocols.org/stats?id=44704989) #24 8 points 7 comments -> [As Women Take over a Male-Dominated Field, the Pay Drops](https://www.nytimes.com/2016/03/20/upshot/as-women-take-over-a-male-dominated-field-the-pay-drops.html)<!-- HN:44704989:end --><!-- HN:44704391:start -->
-* [44704391](https://news.social-protocols.org/stats?id=44704391) #19 37 points 20 comments -> [The Evilization of Google–and What to Do About It](https://billdembski.substack.com/p/the-evilization-of-googleand-what)<!-- HN:44704391:end -->
 #### **Monday, July 28, 2025**
 <!-- HN:44704319:start -->
 * [44704319](https://news.social-protocols.org/stats?id=44704319) #28 8 points 0 comments -> [Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon](https://www.science.org/doi/10.1126/sciadv.adv1585)<!-- HN:44704319:end --><!-- HN:44704305:start -->
