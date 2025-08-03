@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44767947](https://news.social-protocols.org/stats?id=44767947) #15 33 points 1 comments -> [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)<!-- HN:44767947:end --><!-- HN:44770485:start -->
 * [44770485](https://news.social-protocols.org/stats?id=44770485) #3 -> [Chilling warnings from 1930s Europe: "Reality is stronger than all our wishes"](https://www.doomsdayscenario.co/p/fleeing-one-step-ahead-of-fascism-fbcf5ac4661dca77)<!-- HN:44770485:end --><!-- HN:44770874:start -->
 * [44770874](https://news.social-protocols.org/stats?id=44770874) #21 4 points 0 comments -> [GrapheneOS Is a Cult (German)](https://www.onli-blogging.de/2546/GrapheneOS-ist-ein-gefaehrlicher-Kult.html)<!-- HN:44770874:end -->
+#### **Sunday, August 3, 2025**
+<!-- HN:44774121:start -->
+* [44774121](https://news.social-protocols.org/stats?id=44774121) #15 62 points 36 comments -> [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)<!-- HN:44774121:end -->
