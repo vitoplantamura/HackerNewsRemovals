@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 3, 2025**
 <!-- HN:44774121:start -->
 * [44774121](https://news.social-protocols.org/stats?id=44774121) #15 62 points 36 comments -> [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)<!-- HN:44774121:end --><!-- HN:44775596:start -->
-* [44775596](https://news.social-protocols.org/stats?id=44775596) #12 26 points 8 comments -> [Tesla loses Autopilot wrongful death case in $329M verdict](https://arstechnica.com/cars/2025/08/tesla-loses-autopilot-wrongful-death-case-in-329-million-verdict/)<!-- HN:44775596:end -->
+* [44775596](https://news.social-protocols.org/stats?id=44775596) #12 26 points 8 comments -> [Tesla loses Autopilot wrongful death case in $329M verdict](https://arstechnica.com/cars/2025/08/tesla-loses-autopilot-wrongful-death-case-in-329-million-verdict/)<!-- HN:44775596:end --><!-- HN:44775987:start -->
+* [44775987](https://news.social-protocols.org/stats?id=44775987) #9 9 points 3 comments -> [Why you're going to see more swimming pools in strip malls](https://thehustle.co/originals/why-youre-going-to-see-a-lot-more-swimming-pools-in-strip-malls)<!-- HN:44775987:end -->
