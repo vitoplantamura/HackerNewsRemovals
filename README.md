@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, July 28, 2025**
-<!-- HN:44704319:start -->
-* [44704319](https://news.social-protocols.org/stats?id=44704319) #28 8 points 0 comments -> [Electrified dry reforming of methane on Ni-La2O3–loaded activated carbon](https://www.science.org/doi/10.1126/sciadv.adv1585)<!-- HN:44704319:end --><!-- HN:44704305:start -->
-* [44704305](https://news.social-protocols.org/stats?id=44704305) #23 27 points 1 comments -> [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)<!-- HN:44704305:end --><!-- HN:44707040:start -->
-* [44707040](https://news.social-protocols.org/stats?id=44707040) #28 4 points 8 comments -> [Self-host is just waiting for its iPhone moment](https://www.robertmao.com/blog/en/self-hosting-isnt-dead-its-just-waiting-for-its-iphone-moment)<!-- HN:44707040:end --><!-- HN:44708884:start -->
-* [44708884](https://news.social-protocols.org/stats?id=44708884) #30 41 points 40 comments -> [Generative AI. "Slop Generators, are unsuitable for use [ ]"](https://asahilinux.org/docs/project/policies/slop/)<!-- HN:44708884:end --><!-- HN:44712107:start -->
-* [44712107](https://news.social-protocols.org/stats?id=44712107) #12 5 points 8 comments -> [AI for Coding: Why Most Developers Are Getting It Wrong](https://www.ksred.com/ai-for-coding-why-most-developers-are-getting-it-wrong-and-how-to-get-it-right/)<!-- HN:44712107:end --><!-- HN:44712459:start -->
-* [44712459](https://news.social-protocols.org/stats?id=44712459) #17 79 points 74 comments -> [NASA faces brain drain as thousands exit under voluntary resignation scheme](https://www.theregister.com/2025/07/28/nasa_voluntary_exits/)<!-- HN:44712459:end --><!-- HN:44712831:start -->
-* [44712831](https://news.social-protocols.org/stats?id=44712831) #17 21 points 10 comments -> [The Rise of Vibeinsecurity](https://vibeinsecurity.com/)<!-- HN:44712831:end -->
 #### **Tuesday, July 29, 2025**
 <!-- HN:44718686:start -->
 * [44718686](https://news.social-protocols.org/stats?id=44718686) #2 11 points 11 comments -> [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)<!-- HN:44718686:end --><!-- HN:44721604:start -->
