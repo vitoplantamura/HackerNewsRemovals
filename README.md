@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44780706](https://news.social-protocols.org/stats?id=44780706) #24 12 points 0 comments -> [Texas House Democrats flee state in bid to block GOP proposed congressional map](https://www.texastribune.org/2025/08/03/texas-democrats-quorum-break-redistricting-map/)<!-- HN:44780706:end -->
 #### **Monday, August 4, 2025**
 <!-- HN:44781772:start -->
-* [44781772](https://news.social-protocols.org/stats?id=44781772) #11 7 points 0 comments -> [The Demon that Wears my Face](https://mirawelner.com/posts/demon.html)<!-- HN:44781772:end -->
+* [44781772](https://news.social-protocols.org/stats?id=44781772) #11 7 points 0 comments -> [The Demon that Wears my Face](https://mirawelner.com/posts/demon.html)<!-- HN:44781772:end --><!-- HN:44780544:start -->
+* [44780544](https://news.social-protocols.org/stats?id=44780544) #14 42 points 40 comments -> [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)<!-- HN:44780544:end -->
