@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44779071](https://news.social-protocols.org/stats?id=44779071) #29 3 points 1 comments -> [The Worst Programmer I Know (2023)](https://dannorth.net/blog/the-worst-programmer/)<!-- HN:44779071:end --><!-- HN:44780244:start -->
 * [44780244](https://news.social-protocols.org/stats?id=44780244) #30 7 points 2 comments -> [US woman jailed over North Korea remote-work scam](https://www.theguardian.com/us-news/2025/aug/03/ninety-laptops-millions-of-dollars-us-woman-jailed-for-role-in-north-korea-remote-work-scam)<!-- HN:44780244:end --><!-- HN:44780706:start -->
 * [44780706](https://news.social-protocols.org/stats?id=44780706) #24 12 points 0 comments -> [Texas House Democrats flee state in bid to block GOP proposed congressional map](https://www.texastribune.org/2025/08/03/texas-democrats-quorum-break-redistricting-map/)<!-- HN:44780706:end -->
+#### **Monday, August 4, 2025**
+<!-- HN:44781772:start -->
+* [44781772](https://news.social-protocols.org/stats?id=44781772) #11 7 points 0 comments -> [The Demon that Wears my Face](https://mirawelner.com/posts/demon.html)<!-- HN:44781772:end -->
