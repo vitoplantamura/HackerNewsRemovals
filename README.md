@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44781772:start -->
 * [44781772](https://news.social-protocols.org/stats?id=44781772) #11 7 points 0 comments -> [The Demon that Wears my Face](https://mirawelner.com/posts/demon.html)<!-- HN:44781772:end --><!-- HN:44783895:start -->
 * [44783895](https://news.social-protocols.org/stats?id=44783895) #25 6 points 1 comments -> [BBC finds electrocuted, drowned and starved cats in online torture groups](https://www.bbc.com/news/articles/c5yp9w5kyw7o)<!-- HN:44783895:end --><!-- HN:44784809:start -->
-* [44784809](https://news.social-protocols.org/stats?id=44784809) #3 11 points 4 comments -> [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)<!-- HN:44784809:end -->
+* [44784809](https://news.social-protocols.org/stats?id=44784809) #3 11 points 4 comments -> [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)<!-- HN:44784809:end --><!-- HN:44785080:start -->
+* [44785080](https://news.social-protocols.org/stats?id=44785080) #8 35 points 41 comments -> [Is the Interstellar Object 3I/Atlas Alien Technology? [pdf]](https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf)<!-- HN:44785080:end -->
