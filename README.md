@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 5, 2025**
 <!-- HN:44766893:start -->
 * [44766893](https://news.social-protocols.org/stats?id=44766893) #6 27 points 41 comments -> [What'll happen if we spend nearly $3T on data centres no one needs?](https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce)<!-- HN:44766893:end --><!-- HN:44794135:start -->
-* [44794135](https://news.social-protocols.org/stats?id=44794135) #5 3 points 1 comments -> [Oxmiq Labs Inc.: Re-Architecting the GPU Stack: From Atoms to Agents](https://oxmiq.ai/press)<!-- HN:44794135:end -->
+* [44794135](https://news.social-protocols.org/stats?id=44794135) #5 3 points 1 comments -> [Oxmiq Labs Inc.: Re-Architecting the GPU Stack: From Atoms to Agents](https://oxmiq.ai/press)<!-- HN:44794135:end --><!-- HN:44797264:start -->
+* [44797264](https://news.social-protocols.org/stats?id=44797264) #9 10 points 6 comments -> [GitHub CEO Warns Developers: "Either Embrace AI or Get Out of This Career"](https://www.finalroundai.com/blog/github-ceo-thomas-dohmke-warns-developers-embrace-ai-or-quit)<!-- HN:44797264:end -->
