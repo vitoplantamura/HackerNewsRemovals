@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44787777](https://news.social-protocols.org/stats?id=44787777) #12 3 points 1 comments -> [Rethinking how we measure AI intelligence](https://blog.google/technology/ai/kaggle-game-arena/)<!-- HN:44787777:end --><!-- HN:44791969:start -->
 * [44791969](https://news.social-protocols.org/stats?id=44791969) #16 10 points 2 comments -> [An Investigation into the Firm at the Heart of the Democratic Spam Machine](https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation)<!-- HN:44791969:end --><!-- HN:44792163:start -->
 * [44792163](https://news.social-protocols.org/stats?id=44792163) #7 12 points 5 comments -> [Tesla Diner](https://www.tesla.com/tesla-diner)<!-- HN:44792163:end -->
+#### **Tuesday, August 5, 2025**
+<!-- HN:44766893:start -->
+* [44766893](https://news.social-protocols.org/stats?id=44766893) #6 27 points 41 comments -> [What'll happen if we spend nearly $3T on data centres no one needs?](https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce)<!-- HN:44766893:end -->
