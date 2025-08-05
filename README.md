@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, July 29, 2025**
-<!-- HN:44718686:start -->
-* [44718686](https://news.social-protocols.org/stats?id=44718686) #2 11 points 11 comments -> [Every American Is Bilingual](https://justevilenough.com/every-american-is-bilingual/)<!-- HN:44718686:end --><!-- HN:44721604:start -->
-* [44721604](https://news.social-protocols.org/stats?id=44721604) #24 27 points 3 comments -> [Palestinian who helped make Oscar-winning No Other Land killed in West Bank](https://www.theguardian.com/world/2025/jul/29/palestinian-awdah-hathaleen-oscar-winning-no-other-land-killed-in-west-bank)<!-- HN:44721604:end --><!-- HN:44722701:start -->
-* [44722701](https://news.social-protocols.org/stats?id=44722701) #5 10 points 13 comments -> [Detached Point Arithmetic](https://github.com/Pedantic-Research-Limited/DPA)<!-- HN:44722701:end --><!-- HN:44724663:start -->
-* [44724663](https://news.social-protocols.org/stats?id=44724663) #10 12 points 2 comments -> [The IPCC: Can it regain its credibility?](https://www.meer.com/en/91051-the-ipcc-can-it-regain-its-credibility)<!-- HN:44724663:end --><!-- HN:44725437:start -->
-* [44725437](https://news.social-protocols.org/stats?id=44725437) #20 14 points 0 comments -> [UK to recognise Palestinian state in September unless Israel accepts ceasefire](https://www.theguardian.com/politics/2025/jul/29/uk-to-recognise-state-of-palestine-in-september-unless-israel-holds-to-a-ceasefire)<!-- HN:44725437:end --><!-- HN:44726921:start -->
-* [44726921](https://news.social-protocols.org/stats?id=44726921) #11 13 points 6 comments -> [Why CI/CD Still Doesn't Include Continuous Documentation?](https://deepdocs.dev/why-ci-cd-still-doesnt-include-continuous-documentation/)<!-- HN:44726921:end --><!-- HN:44727066:start -->
-* [44727066](https://news.social-protocols.org/stats?id=44727066) #6 25 points 25 comments -> [The half-life of tech skills](https://haraldagterhuis.substack.com/p/the-great-skills-decay)<!-- HN:44727066:end -->
 #### **Wednesday, July 30, 2025**<!-- HN:44732216:start -->
 * [44732216](https://news.social-protocols.org/stats?id=44732216) #6 5 points 0 comments -> [Show HN: I built a free backlink exchange marketplace](https://launchigniter.com/link-exchange)<!-- HN:44732216:end --><!-- HN:44731883:start -->
 * [44731883](https://news.social-protocols.org/stats?id=44731883) #5 19 points 33 comments -> [One diet soda a day increases type 2 diabetes risk by 38%](https://newatlas.com/diet-nutrition/one-drink-diabetes-risk/)<!-- HN:44731883:end --><!-- HN:44732939:start -->
