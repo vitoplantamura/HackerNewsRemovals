@@ -107,5 +107,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44804269](https://news.social-protocols.org/stats?id=44804269) #17 5 points 2 comments -> [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)<!-- HN:44804269:end -->
 #### **Wednesday, August 6, 2025**
 <!-- HN:44807088:start -->
-* [44807088](https://news.social-protocols.org/stats?id=44807088) #7 5 points 0 comments -> [Resistance to Politically-Ordered Gerrymandering in Texas](https://riggedredistricting.com)<!-- HN:44807088:end --><!-- HN:44806379:start -->
-* [44806379](https://news.social-protocols.org/stats?id=44806379) #3 47 points 3 comments -> [Meta eavesdropped on period-tracker app's users, SF jury rules](https://www.sfgate.com/tech/article/meta-eavesdropped-period-tracker-app-20803399.php)<!-- HN:44806379:end -->
+* [44807088](https://news.social-protocols.org/stats?id=44807088) #7 5 points 0 comments -> [Resistance to Politically-Ordered Gerrymandering in Texas](https://riggedredistricting.com)<!-- HN:44807088:end -->
