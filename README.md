@@ -105,3 +105,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44802790](https://news.social-protocols.org/stats?id=44802790) #8 13 points 2 comments -> [You Should Probably Leave Substack](https://leavesubstack.com/)<!-- HN:44802790:end --><!-- HN:44803065:start -->
 * [44803065](https://news.social-protocols.org/stats?id=44803065) #19 11 points 6 comments -> [A Zoo in Denmark Wants to Feed Your Pets to Its Predators](https://www.nytimes.com/2025/08/04/science/zoos-denmark-food-pets.html)<!-- HN:44803065:end --><!-- HN:44804269:start -->
 * [44804269](https://news.social-protocols.org/stats?id=44804269) #17 5 points 2 comments -> [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)<!-- HN:44804269:end -->
+#### **Wednesday, August 6, 2025**
+<!-- HN:44807088:start -->
+* [44807088](https://news.social-protocols.org/stats?id=44807088) #7 5 points 0 comments -> [Resistance to Politically-Ordered Gerrymandering in Texas](https://riggedredistricting.com)<!-- HN:44807088:end -->
