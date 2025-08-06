@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, July 30, 2025**<!-- HN:44732216:start -->
-* [44732216](https://news.social-protocols.org/stats?id=44732216) #6 5 points 0 comments -> [Show HN: I built a free backlink exchange marketplace](https://launchigniter.com/link-exchange)<!-- HN:44732216:end --><!-- HN:44731883:start -->
-* [44731883](https://news.social-protocols.org/stats?id=44731883) #5 19 points 33 comments -> [One diet soda a day increases type 2 diabetes risk by 38%](https://newatlas.com/diet-nutrition/one-drink-diabetes-risk/)<!-- HN:44731883:end --><!-- HN:44732939:start -->
-* [44732939](https://news.social-protocols.org/stats?id=44732939) #3 7 points 1 comments -> [Track how much money AIPAC spent to buy Congress](https://www.trackaipac.com)<!-- HN:44732939:end --><!-- HN:44732893:start -->
-* [44732893](https://news.social-protocols.org/stats?id=44732893) #15 10 points 1 comments -> [New York Times rolls back claims about viral photo of starving Gaza boy](https://nypost.com/2025/07/29/media/new-york-times-stunningly-rolls-back-claims-about-viral-photo-of-starving-gaza-boy/)<!-- HN:44732893:end --><!-- HN:44733313:start -->
-* [44733313](https://news.social-protocols.org/stats?id=44733313) #27 3 points 0 comments -> [Hamas's propaganda war: Israel battles famine allegations](https://nationalpost.com/news/hamass-propaganda-war-israel-battles-famine-allegations)<!-- HN:44733313:end --><!-- HN:44733445:start -->
-* [44733445](https://news.social-protocols.org/stats?id=44733445) #9 13 points 3 comments -> [We have appended an Editors' Note about Mohammed Zakaria, a child in Gaza](https://twitter.com/NYTimesPR/status/1950311365756817690)<!-- HN:44733445:end --><!-- HN:44732994:start -->
-* [44732994](https://news.social-protocols.org/stats?id=44732994) #30 5 points 0 comments -> [Figma S-1, the Figma OS, Figma's AI Potential](https://stratechery.com/2025/figma-s-1-the-figma-os-figmas-ai-potential/)<!-- HN:44732994:end --><!-- HN:44733944:start -->
-* [44733944](https://news.social-protocols.org/stats?id=44733944) #28 8 points 2 comments -> [The fringe movement punishing officials with fake debt claims](https://www.latimes.com/california/story/2025-07-30/fake-filings-real-consequences-how-paper-terrorism-is-burying-a-state-system-with-bogus-claims)<!-- HN:44733944:end --><!-- HN:44735359:start -->
-* [44735359](https://news.social-protocols.org/stats?id=44735359) #6 -> [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)<!-- HN:44735359:end --><!-- HN:44737839:start -->
-* [44737839](https://news.social-protocols.org/stats?id=44737839) #29 13 points 2 comments -> [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)<!-- HN:44737839:end --><!-- HN:44739117:start -->
-* [44739117](https://news.social-protocols.org/stats?id=44739117) #7 23 points 15 comments -> [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)<!-- HN:44739117:end -->
 #### **Thursday, July 31, 2025**
 <!-- HN:44704052:start -->
 * [44704052](https://news.social-protocols.org/stats?id=44704052) #29 9 points 5 comments -> [Boston Dynamics' Atlas does backflips (lesson and breakdown)](https://app.vidyaarthi.ai/ai-tutor?session_id=2YBSyF3WNzMNn_80jygEp&action=replay&shared=true)<!-- HN:44704052:end --><!-- HN:44746272:start -->
