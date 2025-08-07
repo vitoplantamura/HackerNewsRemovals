@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44812521](https://news.social-protocols.org/stats?id=44812521) #30 7 points 1 comments -> [Meta violated privacy laws by collecting menstrual health data](https://techcrunch.com/2025/08/05/jury-rules-meta-violated-california-privacy-laws-by-collecting-menstrual-health-data-from-flo/)<!-- HN:44812521:end --><!-- HN:44816889:start -->
 * [44816889](https://news.social-protocols.org/stats?id=44816889) #18 3 points 0 comments -> [Show HN: AsyncStatus CLI – post status updates from your terminal (open-source)](https://github.com/AsyncStatus/asyncstatus/tree/main/apps/cli)<!-- HN:44816889:end --><!-- HN:44818748:start -->
 * [44818748](https://news.social-protocols.org/stats?id=44818748) #11 7 points 2 comments -> [I'm tired of stupid people treating me like I'm an idiot](https://whatwelost.substack.com/p/im-tired-of-stupid-people-treating)<!-- HN:44818748:end -->
+#### **Thursday, August 7, 2025**
+<!-- HN:44776058:start -->
+* [44776058](https://news.social-protocols.org/stats?id=44776058) #20 7 points 0 comments -> [That Squiggly, Treacherous Line](https://fi-le.net/squiggly/)<!-- HN:44776058:end -->
