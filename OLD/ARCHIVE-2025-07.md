@@ -336,3 +336,8 @@
 * [44735359](https://news.ycombinator.com/item?id=44735359) #6 -> [Startup failed. Relationship ended. 29 lessons from the wreckage](https://burnedchris.com/blog/29-lessons)<!-- HN:44735359:end --><!-- HN:44737839:start -->
 * [44737839](https://news.ycombinator.com/item?id=44737839) #29 13 points 2 comments -> [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)<!-- HN:44737839:end --><!-- HN:44739117:start -->
 * [44739117](https://news.ycombinator.com/item?id=44739117) #7 23 points 15 comments -> [Actions Reflect Your Priorities](https://tombrady.com/posts/your-actions-reflect-your-priorities)<!-- HN:44739117:end -->
+#### **Thursday, July 31, 2025**
+<!-- HN:44704052:start -->
+* [44704052](https://news.ycombinator.com/item?id=44704052) #29 9 points 5 comments -> [Boston Dynamics' Atlas does backflips (lesson and breakdown)](https://app.vidyaarthi.ai/ai-tutor?session_id=2YBSyF3WNzMNn_80jygEp&action=replay&shared=true)<!-- HN:44704052:end --><!-- HN:44746272:start -->
+* [44746272](https://news.ycombinator.com/item?id=44746272) #9 5 points 1 comments -> [Italy Armed to the Teeth: My Top Nine Poliziotteschi](https://multiglom.com/2020/04/12/italy-armed-to-the-teeth-my-top-ten-poliziotteschi/)<!-- HN:44746272:end --><!-- HN:44746326:start -->
+* [44746326](https://news.ycombinator.com/item?id=44746326) #21 19 points 11 comments -> [Do PE firms create value? How?](https://www.gain.pro/insight-reports/value-creation)<!-- HN:44746326:end -->
