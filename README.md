@@ -118,4 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 7, 2025**
 <!-- HN:44776058:start -->
 * [44776058](https://news.social-protocols.org/stats?id=44776058) #20 7 points 0 comments -> [That Squiggly, Treacherous Line](https://fi-le.net/squiggly/)<!-- HN:44776058:end --><!-- HN:44773480:start -->
-* [44773480](https://news.social-protocols.org/stats?id=44773480) #27 23 points 40 comments -> [Converting Existing Users to systemd-homed](https://systemd.io/CONVERTING_TO_HOMED/)<!-- HN:44773480:end -->
+* [44773480](https://news.social-protocols.org/stats?id=44773480) #27 23 points 40 comments -> [Converting Existing Users to systemd-homed](https://systemd.io/CONVERTING_TO_HOMED/)<!-- HN:44773480:end --><!-- HN:44819709:start -->
+* [44819709](https://news.social-protocols.org/stats?id=44819709) #15 4 points 1 comments -> [Do you understand racial discrimination?](https://www.racialterms.com/)<!-- HN:44819709:end --><!-- HN:44819425:start -->
+* [44819425](https://news.social-protocols.org/stats?id=44819425) #26 3 points 1 comments -> [I'm tired of stupid people treating me like I'm an idiot](https://whatwelost.substack.com/p/im-tired-of-stupid-people-treating)<!-- HN:44819425:end -->
