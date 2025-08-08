@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44826095](https://news.social-protocols.org/stats?id=44826095) #24 23 points 7 comments -> [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)<!-- HN:44826095:end --><!-- HN:44826463:start -->
 * [44826463](https://news.social-protocols.org/stats?id=44826463) #10 165 points 103 comments -> [Live: GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)<!-- HN:44826463:end --><!-- HN:44829144:start -->
 * [44829144](https://news.social-protocols.org/stats?id=44829144) #15 53 points 16 comments -> [GPT-5 Demo Mistake About Bernoulli Effect](https://bren.blog/gpt-5-demo-mistake-about-bernoulli-effect)<!-- HN:44829144:end -->
+#### **Friday, August 8, 2025**
+<!-- HN:44784495:start -->
+* [44784495](https://news.social-protocols.org/stats?id=44784495) #9 9 points 2 comments -> [Lessons from writing a Kubernetes Security book](https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037)<!-- HN:44784495:end -->
