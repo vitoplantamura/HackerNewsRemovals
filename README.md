@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44784495:start -->
 * [44784495](https://news.social-protocols.org/stats?id=44784495) #9 9 points 2 comments -> [Lessons from writing a Kubernetes Security book](https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037)<!-- HN:44784495:end --><!-- HN:44834442:start -->
 * [44834442](https://news.social-protocols.org/stats?id=44834442) #4 6 points 1 comments -> [GPT-5 thinks that Windsurf's original name was OpenAI](https://chatgpt.com/share/6895a143-b770-8002-8826-823e45f04c79)<!-- HN:44834442:end --><!-- HN:44835806:start -->
-* [44835806](https://news.social-protocols.org/stats?id=44835806) #5 29 points 42 comments -> [Amtrak NextGen Acela Debuts on August 28](https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/)<!-- HN:44835806:end -->
+* [44835806](https://news.social-protocols.org/stats?id=44835806) #5 29 points 42 comments -> [Amtrak NextGen Acela Debuts on August 28](https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/)<!-- HN:44835806:end --><!-- HN:44836196:start -->
+* [44836196](https://news.social-protocols.org/stats?id=44836196) #29 50 points 14 comments -> [Apple's Favoritism to Fastmail](https://xcancel.com/mxroute/status/1952890684660203830)<!-- HN:44836196:end -->
