@@ -119,5 +119,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44840982](https://news.social-protocols.org/stats?id=44840982) #28 38 points 40 comments -> [Disney 1985 film The Black Cauldron was an experiment that failed](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)<!-- HN:44840982:end -->
 #### **Saturday, August 9, 2025**
 <!-- HN:44843105:start -->
-* [44843105](https://news.social-protocols.org/stats?id=44843105) #5 6 points 0 comments -> [The Desperate Struggle to Squeeze Aid into a Starving Gaz](https://share.google/lwSKW8yEyTcCMaDrs)<!-- HN:44843105:end --><!-- HN:44843605:start -->
-* [44843605](https://news.social-protocols.org/stats?id=44843605) #22 64 points 40 comments -> [Let's properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)<!-- HN:44843605:end -->
+* [44843105](https://news.social-protocols.org/stats?id=44843105) #5 6 points 0 comments -> [The Desperate Struggle to Squeeze Aid into a Starving Gaz](https://share.google/lwSKW8yEyTcCMaDrs)<!-- HN:44843105:end -->
