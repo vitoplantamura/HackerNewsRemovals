@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 2, 2025**
-<!-- HN:44762504:start -->
-* [44762504](https://news.social-protocols.org/stats?id=44762504) #16 39 points 24 comments -> [JSON is not a YAML subset (2022)](https://john-millikin.com/json-is-not-a-yaml-subset)<!-- HN:44762504:end --><!-- HN:44765939:start -->
-* [44765939](https://news.social-protocols.org/stats?id=44765939) #7 27 points 10 comments -> [EU kills Android bootloader unlock starting August 1](https://xiaomitime.com/eu-kills-android-bootloader-unlock-starting-august-1-59449/)<!-- HN:44765939:end --><!-- HN:44766313:start -->
-* [44766313](https://news.social-protocols.org/stats?id=44766313) #4 31 points 2 comments -> [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)<!-- HN:44766313:end --><!-- HN:44737759:start -->
-* [44737759](https://news.social-protocols.org/stats?id=44737759) #21 4 points 2 comments -> [Microsoft Has a Surface Laptop 'Smurface Edition' for Smurfs Fans](https://www.theverge.com/news/715741/microsoft-surface-laptop-smurface-edition)<!-- HN:44737759:end --><!-- HN:44765193:start -->
-* [44765193](https://news.social-protocols.org/stats?id=44765193) #3 58 points 66 comments -> [At $250M, top AI salaries dwarf the Manhattan Project and the Space Race](https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/)<!-- HN:44765193:end --><!-- HN:44727871:start -->
-* [44727871](https://news.social-protocols.org/stats?id=44727871) #28 13 points 1 comments -> [Palo Alto Networks closing on over $20B acquisition of CyberArk](https://www.calcalistech.com/ctechnews/article/hksugkiwxe)<!-- HN:44727871:end --><!-- HN:44768302:start -->
-* [44768302](https://news.social-protocols.org/stats?id=44768302) #22 22 points 40 comments -> [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)<!-- HN:44768302:end --><!-- HN:44767003:start -->
-* [44767003](https://news.social-protocols.org/stats?id=44767003) #8 163 points 1 comments -> [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)<!-- HN:44767003:end --><!-- HN:44767947:start -->
-* [44767947](https://news.social-protocols.org/stats?id=44767947) #15 33 points 1 comments -> [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)<!-- HN:44767947:end --><!-- HN:44770485:start -->
-* [44770485](https://news.social-protocols.org/stats?id=44770485) #3 -> [Chilling warnings from 1930s Europe: "Reality is stronger than all our wishes"](https://www.doomsdayscenario.co/p/fleeing-one-step-ahead-of-fascism-fbcf5ac4661dca77)<!-- HN:44770485:end --><!-- HN:44770874:start -->
-* [44770874](https://news.social-protocols.org/stats?id=44770874) #21 4 points 0 comments -> [GrapheneOS Is a Cult (German)](https://www.onli-blogging.de/2546/GrapheneOS-ist-ein-gefaehrlicher-Kult.html)<!-- HN:44770874:end -->
 #### **Sunday, August 3, 2025**
 <!-- HN:44774121:start -->
 * [44774121](https://news.social-protocols.org/stats?id=44774121) #15 62 points 36 comments -> [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)<!-- HN:44774121:end --><!-- HN:44775596:start -->
