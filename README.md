@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44840982](https://news.social-protocols.org/stats?id=44840982) #28 38 points 40 comments -> [Disney 1985 film The Black Cauldron was an experiment that failed](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)<!-- HN:44840982:end -->
 #### **Saturday, August 9, 2025**
 <!-- HN:44843105:start -->
-* [44843105](https://news.social-protocols.org/stats?id=44843105) #5 6 points 0 comments -> [The Desperate Struggle to Squeeze Aid into a Starving Gaz](https://share.google/lwSKW8yEyTcCMaDrs)<!-- HN:44843105:end -->
+* [44843105](https://news.social-protocols.org/stats?id=44843105) #5 6 points 0 comments -> [The Desperate Struggle to Squeeze Aid into a Starving Gaz](https://share.google/lwSKW8yEyTcCMaDrs)<!-- HN:44843105:end --><!-- HN:44845776:start -->
+* [44845776](https://news.social-protocols.org/stats?id=44845776) #3 -> [DOGE's "Efficiency" Theater: Wasted $21.7B While Destroying Life-Saving Programs](https://www.techdirt.com/2025/08/08/doges-efficiency-theater-wasted-21-7-billion-while-destroying-life-saving-programs-based-on-conspiracy-theories/)<!-- HN:44845776:end -->
