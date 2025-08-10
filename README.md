@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44846413](https://news.social-protocols.org/stats?id=44846413) #28 10 points 2 comments -> [Reuters reports that the entry-level software eng job market has collapsed](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)<!-- HN:44846413:end --><!-- HN:44846544:start -->
 * [44846544](https://news.social-protocols.org/stats?id=44846544) #12 14 points 18 comments -> [Why Cargo Check Is So Slow](https://eveeifyeve.pages.dev/blogs/cargo-check-slow.mdx/)<!-- HN:44846544:end --><!-- HN:44848706:start -->
 * [44848706](https://news.social-protocols.org/stats?id=44848706) #10 25 points 42 comments -> [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)<!-- HN:44848706:end -->
-#### **Sunday, August 10, 2025**
+#### **Sunday, August 10, 2025**<!-- HN:44854623:start -->
+* [44854623](https://news.social-protocols.org/stats?id=44854623) #15 6 points 2 comments -> [The 5 stages of SaaS Death](https://arnon.dk/the-5-stages-of-saas-death/)<!-- HN:44854623:end -->
