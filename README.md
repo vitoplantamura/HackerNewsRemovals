@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44846544](https://news.social-protocols.org/stats?id=44846544) #12 14 points 18 comments -> [Why Cargo Check Is So Slow](https://eveeifyeve.pages.dev/blogs/cargo-check-slow.mdx/)<!-- HN:44846544:end --><!-- HN:44849845:start -->
 * [44849845](https://news.social-protocols.org/stats?id=44849845) #7 -> [Jen Pawol becomes first woman to umpire a Major League Baseball game](https://apnews.com/article/pawol-female-umpire-marlins-braves-0ae34533ea49f1e400a1c39e8be6f30e)<!-- HN:44849845:end --><!-- HN:44848706:start -->
 * [44848706](https://news.social-protocols.org/stats?id=44848706) #10 25 points 42 comments -> [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)<!-- HN:44848706:end -->
+#### **Sunday, August 10, 2025**
+<!-- HN:44851557:start -->
+* [44851557](https://news.social-protocols.org/stats?id=44851557) #4 140 points 91 comments -> [GPT-5: Overdue, overhyped and underwhelming. And that's not the worst of it](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming)<!-- HN:44851557:end -->
