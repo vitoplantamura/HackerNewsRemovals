@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, August 3, 2025**
-<!-- HN:44774121:start -->
-* [44774121](https://news.social-protocols.org/stats?id=44774121) #15 62 points 36 comments -> [Useful AI coding guide with Claude Code](https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code)<!-- HN:44774121:end --><!-- HN:44775596:start -->
-* [44775596](https://news.social-protocols.org/stats?id=44775596) #12 26 points 8 comments -> [Tesla loses Autopilot wrongful death case in $329M verdict](https://arstechnica.com/cars/2025/08/tesla-loses-autopilot-wrongful-death-case-in-329-million-verdict/)<!-- HN:44775596:end --><!-- HN:44775987:start -->
-* [44775987](https://news.social-protocols.org/stats?id=44775987) #9 9 points 3 comments -> [Why you're going to see more swimming pools in strip malls](https://thehustle.co/originals/why-youre-going-to-see-a-lot-more-swimming-pools-in-strip-malls)<!-- HN:44775987:end --><!-- HN:44776574:start -->
-* [44776574](https://news.social-protocols.org/stats?id=44776574) #2 46 points 14 comments -> [One Third of the Web Will Stop Working in 4 Days](https://lowendbox.com/blog/one-third-of-the-web-will-stop-working-in-4-days-massive-scale-cdn-compromise-starts-wednesday/)<!-- HN:44776574:end --><!-- HN:44777584:start -->
-* [44777584](https://news.social-protocols.org/stats?id=44777584) #2 11 points 1 comments -> [How OpenAI Is Turning Monopoly Money into Real Debt](https://saturn.land/monopoly-money.html)<!-- HN:44777584:end --><!-- HN:44778088:start -->
-* [44778088](https://news.social-protocols.org/stats?id=44778088) #14 9 points 4 comments -> [Time Theft at the Terminal](https://marginalrevolution.com/marginalrevolution/2025/08/time-theft-at-the-terminal.html)<!-- HN:44778088:end --><!-- HN:44778408:start -->
-* [44778408](https://news.social-protocols.org/stats?id=44778408) #3 8 points 4 comments -> [We Paid Users $300K to Upload Their Camera Rolls, Homework, and Dashcam Footage](https://www.kled.ai/)<!-- HN:44778408:end --><!-- HN:44746062:start -->
-* [44746062](https://news.social-protocols.org/stats?id=44746062) #29 10 points 0 comments -> [Show HN: Implementation of DDPM (Denoising Diffusion Probabilistic Models)](https://github.com/alenMangattu/DDPM-Denoising-Diffusion-Probabilistic-Models)<!-- HN:44746062:end --><!-- HN:44778534:start -->
-* [44778534](https://news.social-protocols.org/stats?id=44778534) #4 -> [How to Leave Substack](https://leavesubstack.com/)<!-- HN:44778534:end --><!-- HN:44779686:start -->
-* [44779686](https://news.social-protocols.org/stats?id=44779686) #8 12 points 4 comments -> [In the Future All Food Will Be Cooked in a Microwave](https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/)<!-- HN:44779686:end --><!-- HN:44779071:start -->
-* [44779071](https://news.social-protocols.org/stats?id=44779071) #29 3 points 1 comments -> [The Worst Programmer I Know (2023)](https://dannorth.net/blog/the-worst-programmer/)<!-- HN:44779071:end --><!-- HN:44780244:start -->
-* [44780244](https://news.social-protocols.org/stats?id=44780244) #30 7 points 2 comments -> [US woman jailed over North Korea remote-work scam](https://www.theguardian.com/us-news/2025/aug/03/ninety-laptops-millions-of-dollars-us-woman-jailed-for-role-in-north-korea-remote-work-scam)<!-- HN:44780244:end --><!-- HN:44780706:start -->
-* [44780706](https://news.social-protocols.org/stats?id=44780706) #24 12 points 0 comments -> [Texas House Democrats flee state in bid to block GOP proposed congressional map](https://www.texastribune.org/2025/08/03/texas-democrats-quorum-break-redistricting-map/)<!-- HN:44780706:end -->
 #### **Monday, August 4, 2025**
 <!-- HN:44781772:start -->
 * [44781772](https://news.social-protocols.org/stats?id=44781772) #11 7 points 0 comments -> [The Demon that Wears my Face](https://mirawelner.com/posts/demon.html)<!-- HN:44781772:end --><!-- HN:44783895:start -->
