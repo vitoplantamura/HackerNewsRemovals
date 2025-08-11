@@ -36,3 +36,12 @@
 * [44779071](https://news.ycombinator.com/item?id=44779071) #29 3 points 1 comments -> [The Worst Programmer I Know (2023)](https://dannorth.net/blog/the-worst-programmer/)<!-- HN:44779071:end --><!-- HN:44780244:start -->
 * [44780244](https://news.ycombinator.com/item?id=44780244) #30 7 points 2 comments -> [US woman jailed over North Korea remote-work scam](https://www.theguardian.com/us-news/2025/aug/03/ninety-laptops-millions-of-dollars-us-woman-jailed-for-role-in-north-korea-remote-work-scam)<!-- HN:44780244:end --><!-- HN:44780706:start -->
 * [44780706](https://news.ycombinator.com/item?id=44780706) #24 12 points 0 comments -> [Texas House Democrats flee state in bid to block GOP proposed congressional map](https://www.texastribune.org/2025/08/03/texas-democrats-quorum-break-redistricting-map/)<!-- HN:44780706:end -->
+#### **Monday, August 4, 2025**
+<!-- HN:44781772:start -->
+* [44781772](https://news.ycombinator.com/item?id=44781772) #11 7 points 0 comments -> [The Demon that Wears my Face](https://mirawelner.com/posts/demon.html)<!-- HN:44781772:end --><!-- HN:44783895:start -->
+* [44783895](https://news.ycombinator.com/item?id=44783895) #25 6 points 1 comments -> [BBC finds electrocuted, drowned and starved cats in online torture groups](https://www.bbc.com/news/articles/c5yp9w5kyw7o)<!-- HN:44783895:end --><!-- HN:44784809:start -->
+* [44784809](https://news.ycombinator.com/item?id=44784809) #3 11 points 4 comments -> [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)<!-- HN:44784809:end --><!-- HN:44785093:start -->
+* [44785093](https://news.ycombinator.com/item?id=44785093) #18 28 points 23 comments -> [Why I'm Leaving NixOS After a Year?](https://www.rugu.dev/en/blog/leaving-nixos/)<!-- HN:44785093:end --><!-- HN:44787777:start -->
+* [44787777](https://news.ycombinator.com/item?id=44787777) #12 3 points 1 comments -> [Rethinking how we measure AI intelligence](https://blog.google/technology/ai/kaggle-game-arena/)<!-- HN:44787777:end --><!-- HN:44791969:start -->
+* [44791969](https://news.ycombinator.com/item?id=44791969) #16 10 points 2 comments -> [An Investigation into the Firm at the Heart of the Democratic Spam Machine](https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation)<!-- HN:44791969:end --><!-- HN:44792163:start -->
+* [44792163](https://news.ycombinator.com/item?id=44792163) #7 12 points 5 comments -> [Tesla Diner](https://www.tesla.com/tesla-diner)<!-- HN:44792163:end -->

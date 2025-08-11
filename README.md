@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, August 4, 2025**
-<!-- HN:44781772:start -->
-* [44781772](https://news.social-protocols.org/stats?id=44781772) #11 7 points 0 comments -> [The Demon that Wears my Face](https://mirawelner.com/posts/demon.html)<!-- HN:44781772:end --><!-- HN:44783895:start -->
-* [44783895](https://news.social-protocols.org/stats?id=44783895) #25 6 points 1 comments -> [BBC finds electrocuted, drowned and starved cats in online torture groups](https://www.bbc.com/news/articles/c5yp9w5kyw7o)<!-- HN:44783895:end --><!-- HN:44784809:start -->
-* [44784809](https://news.social-protocols.org/stats?id=44784809) #3 11 points 4 comments -> [Every Reason Why I Hate AI and You Should Too](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)<!-- HN:44784809:end --><!-- HN:44785093:start -->
-* [44785093](https://news.social-protocols.org/stats?id=44785093) #18 28 points 23 comments -> [Why I'm Leaving NixOS After a Year?](https://www.rugu.dev/en/blog/leaving-nixos/)<!-- HN:44785093:end --><!-- HN:44787777:start -->
-* [44787777](https://news.social-protocols.org/stats?id=44787777) #12 3 points 1 comments -> [Rethinking how we measure AI intelligence](https://blog.google/technology/ai/kaggle-game-arena/)<!-- HN:44787777:end --><!-- HN:44791969:start -->
-* [44791969](https://news.social-protocols.org/stats?id=44791969) #16 10 points 2 comments -> [An Investigation into the Firm at the Heart of the Democratic Spam Machine](https://data4democracy.substack.com/p/the-mothership-vortex-an-investigation)<!-- HN:44791969:end --><!-- HN:44792163:start -->
-* [44792163](https://news.social-protocols.org/stats?id=44792163) #7 12 points 5 comments -> [Tesla Diner](https://www.tesla.com/tesla-diner)<!-- HN:44792163:end -->
 #### **Tuesday, August 5, 2025**
 <!-- HN:44766893:start -->
 * [44766893](https://news.social-protocols.org/stats?id=44766893) #6 27 points 41 comments -> [What'll happen if we spend nearly $3T on data centres no one needs?](https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce)<!-- HN:44766893:end --><!-- HN:44794135:start -->
