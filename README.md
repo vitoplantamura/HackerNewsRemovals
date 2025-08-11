@@ -113,5 +113,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44858915](https://news.social-protocols.org/stats?id=44858915) #29 -> [Prominent Al Jazeera journalist killed in Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)<!-- HN:44858915:end --><!-- HN:44819346:start -->
 * [44819346](https://news.social-protocols.org/stats?id=44819346) #13 4 points 3 comments -> [Microsoft's Windows XP Crocs](https://www.theverge.com/microsoft/717965/microsoft-crocs-windows-xp-bliss-wallpaper-theme)<!-- HN:44819346:end -->
 #### **Monday, August 11, 2025**
-<!-- HN:44859807:start -->
-* [44859807](https://news.social-protocols.org/stats?id=44859807) #24 175 points 84 comments -> [Tesla remotely deactivates rapper's vehicle for singing about the Cybertruck](https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk)<!-- HN:44859807:end -->
