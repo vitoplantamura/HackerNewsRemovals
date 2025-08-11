@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44858944](https://news.social-protocols.org/stats?id=44858944) #26 12 points 0 comments -> [Israel Killed the last journalist sanding In North Gaza](https://twitter.com/AnasAlSharif0/status/1954670507128914219)<!-- HN:44858944:end --><!-- HN:44858915:start -->
 * [44858915](https://news.social-protocols.org/stats?id=44858915) #29 -> [Prominent Al Jazeera journalist killed in Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)<!-- HN:44858915:end --><!-- HN:44819346:start -->
 * [44819346](https://news.social-protocols.org/stats?id=44819346) #13 4 points 3 comments -> [Microsoft's Windows XP Crocs](https://www.theverge.com/microsoft/717965/microsoft-crocs-windows-xp-bliss-wallpaper-theme)<!-- HN:44819346:end -->
-#### **Monday, August 11, 2025**
+#### **Monday, August 11, 2025**<!-- HN:44860589:start -->
+* [44860589](https://news.social-protocols.org/stats?id=44860589) #23 8 points 0 comments -> [Five journalists killed in targeted Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)<!-- HN:44860589:end -->
