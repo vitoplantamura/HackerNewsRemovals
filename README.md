@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 5, 2025**
-<!-- HN:44766893:start -->
-* [44766893](https://news.social-protocols.org/stats?id=44766893) #6 27 points 41 comments -> [What'll happen if we spend nearly $3T on data centres no one needs?](https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce)<!-- HN:44766893:end --><!-- HN:44794135:start -->
-* [44794135](https://news.social-protocols.org/stats?id=44794135) #5 3 points 1 comments -> [Oxmiq Labs Inc.: Re-Architecting the GPU Stack: From Atoms to Agents](https://oxmiq.ai/press)<!-- HN:44794135:end --><!-- HN:44797264:start -->
-* [44797264](https://news.social-protocols.org/stats?id=44797264) #9 10 points 6 comments -> [GitHub CEO Warns Developers: "Either Embrace AI or Get Out of This Career"](https://www.finalroundai.com/blog/github-ceo-thomas-dohmke-warns-developers-embrace-ai-or-quit)<!-- HN:44797264:end --><!-- HN:44798601:start -->
-* [44798601](https://news.social-protocols.org/stats?id=44798601) #30 11 points 1 comments -> [Doge wasted $21.7B in taxpayer funds, according to Senate report](https://www.msnbc.com/top-stories/latest/doge-federal-employees-reductions-in-force-rif-rcna222536)<!-- HN:44798601:end --><!-- HN:44799435:start -->
-* [44799435](https://news.social-protocols.org/stats?id=44799435) #25 200 points 3 comments -> [GitHub Pull Requests Are Down](https://github.com/github/site-policy/pull/582)<!-- HN:44799435:end --><!-- HN:44802790:start -->
-* [44802790](https://news.social-protocols.org/stats?id=44802790) #8 13 points 2 comments -> [You Should Probably Leave Substack](https://leavesubstack.com/)<!-- HN:44802790:end --><!-- HN:44803065:start -->
-* [44803065](https://news.social-protocols.org/stats?id=44803065) #19 11 points 6 comments -> [A Zoo in Denmark Wants to Feed Your Pets to Its Predators](https://www.nytimes.com/2025/08/04/science/zoos-denmark-food-pets.html)<!-- HN:44803065:end --><!-- HN:44804269:start -->
-* [44804269](https://news.social-protocols.org/stats?id=44804269) #17 5 points 2 comments -> [Trouble with Elections: Everything We Thought We Knew About Democracy Is Wrong](https://democracycreative.substack.com/p/the-trouble-with-elections)<!-- HN:44804269:end -->
 #### **Wednesday, August 6, 2025**
 <!-- HN:44807088:start -->
 * [44807088](https://news.social-protocols.org/stats?id=44807088) #7 5 points 0 comments -> [Resistance to Politically-Ordered Gerrymandering in Texas](https://riggedredistricting.com)<!-- HN:44807088:end --><!-- HN:44806764:start -->
