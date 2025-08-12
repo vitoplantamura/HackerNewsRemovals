@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44866970](https://news.social-protocols.org/stats?id=44866970) #17 23 points 9 comments -> [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)<!-- HN:44866970:end --><!-- HN:44863487:start -->
 * [44863487](https://news.social-protocols.org/stats?id=44863487) #1 618 points 203 comments -> [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)<!-- HN:44863487:end --><!-- HN:44870502:start -->
 * [44870502](https://news.social-protocols.org/stats?id=44870502) #23 8 points 1 comments -> [The GPT-5 rollout has been a big mess](https://arstechnica.com/information-technology/2025/08/the-gpt-5-rollout-has-been-a-big-mess/)<!-- HN:44870502:end -->
+#### **Tuesday, August 12, 2025**
+<!-- HN:44833223:start -->
+* [44833223](https://news.social-protocols.org/stats?id=44833223) #22 7 points 2 comments -> [Dollar Street – Photos from families with different incomes](https://www.gapminder.org/dollar-street)<!-- HN:44833223:end -->
