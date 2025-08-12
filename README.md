@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44870502](https://news.social-protocols.org/stats?id=44870502) #23 8 points 1 comments -> [The GPT-5 rollout has been a big mess](https://arstechnica.com/information-technology/2025/08/the-gpt-5-rollout-has-been-a-big-mess/)<!-- HN:44870502:end -->
 #### **Tuesday, August 12, 2025**
 <!-- HN:44833223:start -->
-* [44833223](https://news.social-protocols.org/stats?id=44833223) #22 7 points 2 comments -> [Dollar Street – Photos from families with different incomes](https://www.gapminder.org/dollar-street)<!-- HN:44833223:end -->
+* [44833223](https://news.social-protocols.org/stats?id=44833223) #22 7 points 2 comments -> [Dollar Street – Photos from families with different incomes](https://www.gapminder.org/dollar-street)<!-- HN:44833223:end --><!-- HN:44838029:start -->
+* [44838029](https://news.social-protocols.org/stats?id=44838029) #16 14 points 12 comments -> [You're Wrong About Dates – and Your Code Is Lying to You](https://metaduck.com/youre-wrong-about-dates/)<!-- HN:44838029:end -->
