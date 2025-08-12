@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:44833223:start -->
 * [44833223](https://news.social-protocols.org/stats?id=44833223) #22 7 points 2 comments -> [Dollar Street – Photos from families with different incomes](https://www.gapminder.org/dollar-street)<!-- HN:44833223:end --><!-- HN:44838029:start -->
 * [44838029](https://news.social-protocols.org/stats?id=44838029) #16 14 points 12 comments -> [You're Wrong About Dates – and Your Code Is Lying to You](https://metaduck.com/youre-wrong-about-dates/)<!-- HN:44838029:end --><!-- HN:44843774:start -->
-* [44843774](https://news.social-protocols.org/stats?id=44843774) #8 21 points 2 comments -> [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)<!-- HN:44843774:end -->
+* [44843774](https://news.social-protocols.org/stats?id=44843774) #8 21 points 2 comments -> [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)<!-- HN:44843774:end --><!-- HN:44836560:start -->
+* [44836560](https://news.social-protocols.org/stats?id=44836560) #14 6 points 0 comments -> [OOP is not Design Patterns](https://iaziz786.com/blog/oop-is-not-design-patterns/)<!-- HN:44836560:end -->
