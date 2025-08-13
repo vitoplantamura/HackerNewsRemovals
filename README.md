@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44878744](https://news.social-protocols.org/stats?id=44878744) #20 17 points 3 comments -> [OpenAI Burns the Boats](https://ethanding.substack.com/p/openai-burns-the-boats)<!-- HN:44878744:end --><!-- HN:44881440:start -->
 * [44881440](https://news.social-protocols.org/stats?id=44881440) #24 12 points 18 comments -> [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)<!-- HN:44881440:end -->
 #### **Wednesday, August 13, 2025**<!-- HN:44883585:start -->
-* [44883585](https://news.social-protocols.org/stats?id=44883585) #16 29 points 17 comments -> [Please Don't Promote Wayland](https://stoppromotingwayland.netlify.app/)<!-- HN:44883585:end -->
+* [44883585](https://news.social-protocols.org/stats?id=44883585) #16 29 points 17 comments -> [Please Don't Promote Wayland](https://stoppromotingwayland.netlify.app/)<!-- HN:44883585:end --><!-- HN:44883083:start -->
+* [44883083](https://news.social-protocols.org/stats?id=44883083) #5 34 points 18 comments -> [Scapegoating the Algorithm America's epistemic challenges run deeper than social](https://asteriskmag.com/issues/11/scapegoating-the-algorithm)<!-- HN:44883083:end -->
