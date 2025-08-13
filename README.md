@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, August 13, 2025**<!-- HN:44883585:start -->
 * [44883585](https://news.social-protocols.org/stats?id=44883585) #16 29 points 17 comments -> [Please Don't Promote Wayland](https://stoppromotingwayland.netlify.app/)<!-- HN:44883585:end --><!-- HN:44884107:start -->
 * [44884107](https://news.social-protocols.org/stats?id=44884107) #12 23 points 24 comments -> [GPT-5 is a joke. Will it matter?](https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter)<!-- HN:44884107:end --><!-- HN:44885367:start -->
-* [44885367](https://news.social-protocols.org/stats?id=44885367) #18 22 points 8 comments -> [Sheet0, a data agent transform webpages to structured spreadsheets](https://www.sheet0.com/)<!-- HN:44885367:end -->
+* [44885367](https://news.social-protocols.org/stats?id=44885367) #18 22 points 8 comments -> [Sheet0, a data agent transform webpages to structured spreadsheets](https://www.sheet0.com/)<!-- HN:44885367:end --><!-- HN:44887830:start -->
+* [44887830](https://news.social-protocols.org/stats?id=44887830) #5 38 points 9 comments -> [The number of ICE flights is skyrocketing – but the planes are harder to track](https://www.cnn.com/2025/08/13/politics/ice-flights-locations-tracking-maps)<!-- HN:44887830:end -->
