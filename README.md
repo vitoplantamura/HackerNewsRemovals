@@ -110,5 +110,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44881440](https://news.social-protocols.org/stats?id=44881440) #24 12 points 18 comments -> [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)<!-- HN:44881440:end -->
 #### **Wednesday, August 13, 2025**<!-- HN:44883585:start -->
 * [44883585](https://news.social-protocols.org/stats?id=44883585) #16 29 points 17 comments -> [Please Don't Promote Wayland](https://stoppromotingwayland.netlify.app/)<!-- HN:44883585:end --><!-- HN:44884107:start -->
-* [44884107](https://news.social-protocols.org/stats?id=44884107) #12 23 points 24 comments -> [GPT-5 is a joke. Will it matter?](https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter)<!-- HN:44884107:end --><!-- HN:44850976:start -->
-* [44850976](https://news.social-protocols.org/stats?id=44850976) #20 26 points 40 comments -> [Fixing a loud PSU fan without dying](https://chameth.com/fixing-a-loud-psu-fan-without-dying/)<!-- HN:44850976:end -->
+* [44884107](https://news.social-protocols.org/stats?id=44884107) #12 23 points 24 comments -> [GPT-5 is a joke. Will it matter?](https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter)<!-- HN:44884107:end -->
