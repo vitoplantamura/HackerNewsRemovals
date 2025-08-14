@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44892580](https://news.social-protocols.org/stats?id=44892580) #25 43 points 29 comments -> [Fuse is 95% cheaper and 10x faster than NFS](https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/)<!-- HN:44892580:end --><!-- HN:44889073:start -->
 * [44889073](https://news.social-protocols.org/stats?id=44889073) #5 172 points 70 comments -> [Pebble Time 2* Design Reveal](https://ericmigi.com/blog/pebble-time-2-design-reveal/)<!-- HN:44889073:end --><!-- HN:44892497:start -->
 * [44892497](https://news.social-protocols.org/stats?id=44892497) #25 46 points 6 comments -> [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)<!-- HN:44892497:end -->
-#### **Thursday, August 14, 2025**
+#### **Thursday, August 14, 2025**<!-- HN:44897802:start -->
+* [44897802](https://news.social-protocols.org/stats?id=44897802) #2 8 points 1 comments -> [Optimizing Your Debian 13 Desktop](https://teejeetech.com/2025/08/14/debian_13_tips/)<!-- HN:44897802:end -->
