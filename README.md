@@ -114,5 +114,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44889073](https://news.social-protocols.org/stats?id=44889073) #5 172 points 70 comments -> [Pebble Time 2* Design Reveal](https://ericmigi.com/blog/pebble-time-2-design-reveal/)<!-- HN:44889073:end --><!-- HN:44892497:start -->
 * [44892497](https://news.social-protocols.org/stats?id=44892497) #25 46 points 6 comments -> [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)<!-- HN:44892497:end -->
 #### **Thursday, August 14, 2025**
-<!-- HN:44897392:start -->
-* [44897392](https://news.social-protocols.org/stats?id=44897392) #24 7 points 0 comments -> [Israeli Gaza attacks kill 61 in 24 hours as three children die of hunger](https://www.aljazeera.com/news/2025/8/13/israeli-attacks-kill-123-in-gaza-as-three-more-children-die-of-hunger)<!-- HN:44897392:end -->
