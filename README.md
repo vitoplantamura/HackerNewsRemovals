@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, August 7, 2025**
-<!-- HN:44776058:start -->
-* [44776058](https://news.social-protocols.org/stats?id=44776058) #20 7 points 0 comments -> [That Squiggly, Treacherous Line](https://fi-le.net/squiggly/)<!-- HN:44776058:end --><!-- HN:44819709:start -->
-* [44819709](https://news.social-protocols.org/stats?id=44819709) #15 4 points 1 comments -> [Do you understand racial discrimination?](https://www.racialterms.com/)<!-- HN:44819709:end --><!-- HN:44819425:start -->
-* [44819425](https://news.social-protocols.org/stats?id=44819425) #26 3 points 1 comments -> [I'm tired of stupid people treating me like I'm an idiot](https://whatwelost.substack.com/p/im-tired-of-stupid-people-treating)<!-- HN:44819425:end --><!-- HN:44821204:start -->
-* [44821204](https://news.social-protocols.org/stats?id=44821204) #2 8 points 0 comments -> [Tech for Palestine](https://techforpalestine.org/)<!-- HN:44821204:end --><!-- HN:44821551:start -->
-* [44821551](https://news.social-protocols.org/stats?id=44821551) #23 14 points 9 comments -> [Israel is reportedly storing Palestinian phone calls on Microsoft servers](https://www.engadget.com/big-tech/israel-is-reportedly-storing-millions-of-palestinian-phone-calls-on-microsoft-servers-161127912.html)<!-- HN:44821551:end --><!-- HN:44821351:start -->
-* [44821351](https://news.social-protocols.org/stats?id=44821351) #2 23 points 31 comments -> ["I met a founder who writes 10k lines of code a day thanks to AI"](https://twitter.com/paulg/status/1953289830982664236)<!-- HN:44821351:end --><!-- HN:44823260:start -->
-* [44823260](https://news.social-protocols.org/stats?id=44823260) #6 30 points 5 comments -> ["AI hype" is the true AI product](https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is)<!-- HN:44823260:end --><!-- HN:44824583:start -->
-* [44824583](https://news.social-protocols.org/stats?id=44824583) #8 37 points 20 comments -> [No One Is Working](https://www.humaninvariant.com/blog/working)<!-- HN:44824583:end --><!-- HN:44826095:start -->
-* [44826095](https://news.social-protocols.org/stats?id=44826095) #24 23 points 7 comments -> [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)<!-- HN:44826095:end --><!-- HN:44826463:start -->
-* [44826463](https://news.social-protocols.org/stats?id=44826463) #10 165 points 103 comments -> [Live: GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)<!-- HN:44826463:end --><!-- HN:44829144:start -->
-* [44829144](https://news.social-protocols.org/stats?id=44829144) #15 53 points 16 comments -> [GPT-5 Demo Mistake About Bernoulli Effect](https://bren.blog/gpt-5-demo-mistake-about-bernoulli-effect)<!-- HN:44829144:end -->
 #### **Friday, August 8, 2025**
 <!-- HN:44784495:start -->
 * [44784495](https://news.social-protocols.org/stats?id=44784495) #9 9 points 2 comments -> [Lessons from writing a Kubernetes Security book](https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037)<!-- HN:44784495:end --><!-- HN:44834442:start -->
