@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44906397](https://news.social-protocols.org/stats?id=44906397) #29 6 points 2 comments -> [Palantir might be the most overvalued firm of all time](https://www.economist.com/finance-and-economics/2025/08/12/palantir-might-be-the-most-overvalued-firm-of-all-time)<!-- HN:44906397:end -->
 #### **Friday, August 15, 2025**
 <!-- HN:44911394:start -->
-* [44911394](https://news.social-protocols.org/stats?id=44911394) #3 9 points 0 comments -> [The AI Job Swindle](https://therectangle.substack.com/p/the-great-ai-job-swindle)<!-- HN:44911394:end -->
+* [44911394](https://news.social-protocols.org/stats?id=44911394) #3 9 points 0 comments -> [The AI Job Swindle](https://therectangle.substack.com/p/the-great-ai-job-swindle)<!-- HN:44911394:end --><!-- HN:44911325:start -->
+* [44911325](https://news.social-protocols.org/stats?id=44911325) #2 10 points 12 comments -> [It is time to 'Correct the Map'](https://correctthemap.org/)<!-- HN:44911325:end -->
