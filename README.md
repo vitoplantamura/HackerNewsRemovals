@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44903290](https://news.social-protocols.org/stats?id=44903290) #2 59 points 16 comments -> [Meta appoints anti-LGBTQ+ conspiracy theorist Robby Starbuck as AI bias advisor](https://www.thepinknews.com/2025/08/14/meta-robby-starbuck-ai/)<!-- HN:44903290:end --><!-- HN:44898955:start -->
 * [44898955](https://news.social-protocols.org/stats?id=44898955) #12 158 points 1 comments -> [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)<!-- HN:44898955:end --><!-- HN:44906397:start -->
 * [44906397](https://news.social-protocols.org/stats?id=44906397) #29 6 points 2 comments -> [Palantir might be the most overvalued firm of all time](https://www.economist.com/finance-and-economics/2025/08/12/palantir-might-be-the-most-overvalued-firm-of-all-time)<!-- HN:44906397:end -->
+#### **Friday, August 15, 2025**
+<!-- HN:44911394:start -->
+* [44911394](https://news.social-protocols.org/stats?id=44911394) #3 9 points 0 comments -> [The AI Job Swindle](https://therectangle.substack.com/p/the-great-ai-job-swindle)<!-- HN:44911394:end -->
