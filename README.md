@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 8, 2025**
-<!-- HN:44784495:start -->
-* [44784495](https://news.social-protocols.org/stats?id=44784495) #9 9 points 2 comments -> [Lessons from writing a Kubernetes Security book](https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037)<!-- HN:44784495:end --><!-- HN:44834442:start -->
-* [44834442](https://news.social-protocols.org/stats?id=44834442) #4 6 points 1 comments -> [GPT-5 thinks that Windsurf's original name was OpenAI](https://chatgpt.com/share/6895a143-b770-8002-8826-823e45f04c79)<!-- HN:44834442:end --><!-- HN:44835806:start -->
-* [44835806](https://news.social-protocols.org/stats?id=44835806) #5 29 points 42 comments -> [Amtrak NextGen Acela Debuts on August 28](https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/)<!-- HN:44835806:end --><!-- HN:44837015:start -->
-* [44837015](https://news.social-protocols.org/stats?id=44837015) #22 33 points 3 comments -> [Supreme Court Prepares to End Voting Rights as We Know Them](https://www.motherjones.com/politics/2025/08/voting-rights-act-supreme-court-2/)<!-- HN:44837015:end --><!-- HN:44838263:start -->
-* [44838263](https://news.social-protocols.org/stats?id=44838263) #20 -> [Grok's 'spicy' video setting instantly made me Taylor Swift nude deepfakes](https://www.theverge.com/report/718975/xai-grok-imagine-taylor-swifty-deepfake-nudes)<!-- HN:44838263:end --><!-- HN:44838431:start -->
-* [44838431](https://news.social-protocols.org/stats?id=44838431) #3 55 points 19 comments -> [AWS's sudden removal of a 10-year account and all of its data: lessons learned](https://www.suramya.com/blog/2025/08/lessons-learnt-from-aws-deleting-a-10-year-account-and-all-that-data-without-warning/)<!-- HN:44838431:end --><!-- HN:44839554:start -->
-* [44839554](https://news.social-protocols.org/stats?id=44839554) #25 7 points 0 comments -> [Why the Far Right Hates Churchill](https://www.wsj.com/politics/why-the-far-right-hates-churchill-20fdc710)<!-- HN:44839554:end --><!-- HN:44839459:start -->
-* [44839459](https://news.social-protocols.org/stats?id=44839459) #5 43 points 3 comments -> [I clustered four Framework Mainboards to test LLMs](https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms)<!-- HN:44839459:end --><!-- HN:44793981:start -->
-* [44793981](https://news.social-protocols.org/stats?id=44793981) #21 4 points 0 comments -> [The Anatomy of the Most Affordable Travel T-Shirt](https://www.carryology.com/travel/the-anatomy-of-the-worlds-most-affordable-travel-t-shirt/)<!-- HN:44793981:end --><!-- HN:44840993:start -->
-* [44840993](https://news.social-protocols.org/stats?id=44840993) #11 7 points 3 comments -> [GPT-5 Under Fire: Red Teaming OpenAI's Model Reveals Surprising Weaknesses](https://splx.ai/blog/gpt-5-red-teaming-results)<!-- HN:44840993:end --><!-- HN:44840982:start -->
-* [44840982](https://news.social-protocols.org/stats?id=44840982) #28 38 points 40 comments -> [Disney 1985 film The Black Cauldron was an experiment that failed](https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney)<!-- HN:44840982:end -->
 #### **Saturday, August 9, 2025**
 <!-- HN:44843105:start -->
 * [44843105](https://news.social-protocols.org/stats?id=44843105) #5 6 points 0 comments -> [The Desperate Struggle to Squeeze Aid into a Starving Gaz](https://share.google/lwSKW8yEyTcCMaDrs)<!-- HN:44843105:end --><!-- HN:44845776:start -->
