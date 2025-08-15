@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 15, 2025**
 <!-- HN:44911394:start -->
 * [44911394](https://news.social-protocols.org/stats?id=44911394) #3 9 points 0 comments -> [The AI Job Swindle](https://therectangle.substack.com/p/the-great-ai-job-swindle)<!-- HN:44911394:end --><!-- HN:44911325:start -->
-* [44911325](https://news.social-protocols.org/stats?id=44911325) #2 10 points 12 comments -> [It is time to 'Correct the Map'](https://correctthemap.org/)<!-- HN:44911325:end -->
+* [44911325](https://news.social-protocols.org/stats?id=44911325) #2 10 points 12 comments -> [It is time to 'Correct the Map'](https://correctthemap.org/)<!-- HN:44911325:end --><!-- HN:44911872:start -->
+* [44911872](https://news.social-protocols.org/stats?id=44911872) #30 4 points 0 comments -> [Review: Dating Men in the Bay Area](https://www.astralcodexten.com/p/your-review-dating-men-in-the-bay)<!-- HN:44911872:end -->
