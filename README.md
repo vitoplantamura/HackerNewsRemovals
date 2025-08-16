@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, August 16, 2025**
 <!-- HN:44894302:start -->
 * [44894302](https://news.social-protocols.org/stats?id=44894302) #22 7 points 1 comments -> [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)<!-- HN:44894302:end --><!-- HN:44920245:start -->
-* [44920245](https://news.social-protocols.org/stats?id=44920245) #2 9 points 0 comments -> [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)<!-- HN:44920245:end -->
+* [44920245](https://news.social-protocols.org/stats?id=44920245) #2 9 points 0 comments -> [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)<!-- HN:44920245:end --><!-- HN:44922929:start -->
+* [44922929](https://news.social-protocols.org/stats?id=44922929) #5 29 points 40 comments -> [Should You Take Creatine?](https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine)<!-- HN:44922929:end -->
