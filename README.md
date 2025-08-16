@@ -117,5 +117,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, August 16, 2025**
 <!-- HN:44894302:start -->
 * [44894302](https://news.social-protocols.org/stats?id=44894302) #22 7 points 1 comments -> [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)<!-- HN:44894302:end --><!-- HN:44920245:start -->
-* [44920245](https://news.social-protocols.org/stats?id=44920245) #2 9 points 0 comments -> [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)<!-- HN:44920245:end --><!-- HN:44922333:start -->
-* [44922333](https://news.social-protocols.org/stats?id=44922333) #14 14 points 8 comments -> [African Union joins calls to end use of Mercator map that shrinks Africa's size](https://www.theguardian.com/world/2025/aug/15/african-union-true-size-world-map-replace-mercator-version)<!-- HN:44922333:end -->
+* [44920245](https://news.social-protocols.org/stats?id=44920245) #2 9 points 0 comments -> [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)<!-- HN:44920245:end -->
