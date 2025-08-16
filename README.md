@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 9, 2025**
-<!-- HN:44843105:start -->
-* [44843105](https://news.social-protocols.org/stats?id=44843105) #5 6 points 0 comments -> [The Desperate Struggle to Squeeze Aid into a Starving Gaz](https://share.google/lwSKW8yEyTcCMaDrs)<!-- HN:44843105:end --><!-- HN:44845776:start -->
-* [44845776](https://news.social-protocols.org/stats?id=44845776) #3 -> [DOGE's "Efficiency" Theater: Wasted $21.7B While Destroying Life-Saving Programs](https://www.techdirt.com/2025/08/08/doges-efficiency-theater-wasted-21-7-billion-while-destroying-life-saving-programs-based-on-conspiracy-theories/)<!-- HN:44845776:end --><!-- HN:44845966:start -->
-* [44845966](https://news.social-protocols.org/stats?id=44845966) #2 8 points 2 comments -> [Show HN: Kimi K2 – Powerful Open-Source AI](https://kimik2ai.app)<!-- HN:44845966:end --><!-- HN:44845327:start -->
-* [44845327](https://news.social-protocols.org/stats?id=44845327) #23 3 points 0 comments -> [Gptoss120B – OpenAI Open Source Large Language Model GPT-OSS-120B Official Site](https://gptoss120b.app/)<!-- HN:44845327:end --><!-- HN:44846360:start -->
-* [44846360](https://news.social-protocols.org/stats?id=44846360) #5 -> [The conservative women who are having it all](https://www.wsj.com/lifestyle/relationships/the-conservative-women-who-are-having-it-all-84077b73)<!-- HN:44846360:end --><!-- HN:44846413:start -->
-* [44846413](https://news.social-protocols.org/stats?id=44846413) #28 10 points 2 comments -> [Reuters reports that the entry-level software eng job market has collapsed](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)<!-- HN:44846413:end --><!-- HN:44846544:start -->
-* [44846544](https://news.social-protocols.org/stats?id=44846544) #12 14 points 18 comments -> [Why Cargo Check Is So Slow](https://eveeifyeve.pages.dev/blogs/cargo-check-slow.mdx/)<!-- HN:44846544:end --><!-- HN:44848706:start -->
-* [44848706](https://news.social-protocols.org/stats?id=44848706) #10 25 points 42 comments -> [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)<!-- HN:44848706:end -->
 #### **Sunday, August 10, 2025**<!-- HN:44854623:start -->
 * [44854623](https://news.social-protocols.org/stats?id=44854623) #15 6 points 2 comments -> [The 5 stages of SaaS Death](https://arnon.dk/the-5-stages-of-saas-death/)<!-- HN:44854623:end --><!-- HN:44855530:start -->
 * [44855530](https://news.social-protocols.org/stats?id=44855530) #29 18 points 10 comments -> [NASA finds multi-billion-year-old 'coral' on Mars](https://www.livescience.com/space/mars/nasa-finds-multi-billion-year-old-coral-on-mars)<!-- HN:44855530:end --><!-- HN:44857135:start -->
