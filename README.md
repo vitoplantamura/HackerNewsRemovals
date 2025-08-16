@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44917011](https://news.social-protocols.org/stats?id=44917011) #13 -> [ICE Adds Random Person to Group Chat, Exposes Details of Manhunt in Real-Time](https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/)<!-- HN:44917011:end -->
 #### **Saturday, August 16, 2025**
 <!-- HN:44894302:start -->
-* [44894302](https://news.social-protocols.org/stats?id=44894302) #22 7 points 1 comments -> [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)<!-- HN:44894302:end -->
+* [44894302](https://news.social-protocols.org/stats?id=44894302) #22 7 points 1 comments -> [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)<!-- HN:44894302:end --><!-- HN:44920245:start -->
+* [44920245](https://news.social-protocols.org/stats?id=44920245) #2 9 points 0 comments -> [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)<!-- HN:44920245:end -->
