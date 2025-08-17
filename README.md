@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44925531](https://news.social-protocols.org/stats?id=44925531) #16 11 points 1 comments -> [Testosterone Didn't Rapidly Decline](https://twitter.com/cremieuxrecueil/status/1956769175646396714)<!-- HN:44925531:end --><!-- HN:44901485:start -->
 * [44901485](https://news.social-protocols.org/stats?id=44901485) #26 3 points 0 comments -> [Why Remediation Is the Hardest Problem in NHI Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)<!-- HN:44901485:end -->
 #### **Sunday, August 17, 2025**<!-- HN:44928504:start -->
-* [44928504](https://news.social-protocols.org/stats?id=44928504) #30 -> [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)<!-- HN:44928504:end -->
+* [44928504](https://news.social-protocols.org/stats?id=44928504) #30 -> [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)<!-- HN:44928504:end --><!-- HN:44928937:start -->
+* [44928937](https://news.social-protocols.org/stats?id=44928937) #6 19 points 8 comments -> [In one command use 500 open source tools](https://www.x-cmd.com/)<!-- HN:44928937:end -->
