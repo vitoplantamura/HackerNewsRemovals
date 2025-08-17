@@ -122,6 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44901485](https://news.social-protocols.org/stats?id=44901485) #26 3 points 0 comments -> [Why Remediation Is the Hardest Problem in NHI Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)<!-- HN:44901485:end -->
 #### **Sunday, August 17, 2025**<!-- HN:44928504:start -->
 * [44928504](https://news.social-protocols.org/stats?id=44928504) #30 -> [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)<!-- HN:44928504:end --><!-- HN:44928937:start -->
-* [44928937](https://news.social-protocols.org/stats?id=44928937) #6 19 points 8 comments -> [In one command use 500 open source tools](https://www.x-cmd.com/)<!-- HN:44928937:end --><!-- HN:44929424:start -->
-* [44929424](https://news.social-protocols.org/stats?id=44929424) #10 6 points 0 comments -> [OpenAI Misled You on RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)<!-- HN:44929424:end --><!-- HN:44929986:start -->
+* [44928937](https://news.social-protocols.org/stats?id=44928937) #6 19 points 8 comments -> [In one command use 500 open source tools](https://www.x-cmd.com/)<!-- HN:44928937:end --><!-- HN:44929986:start -->
 * [44929986](https://news.social-protocols.org/stats?id=44929986) #12 71 points 45 comments -> [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)<!-- HN:44929986:end -->
