@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 17, 2025**<!-- HN:44928504:start -->
 * [44928504](https://news.social-protocols.org/stats?id=44928504) #30 -> [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)<!-- HN:44928504:end --><!-- HN:44928937:start -->
 * [44928937](https://news.social-protocols.org/stats?id=44928937) #6 19 points 8 comments -> [In one command use 500 open source tools](https://www.x-cmd.com/)<!-- HN:44928937:end --><!-- HN:44929986:start -->
-* [44929986](https://news.social-protocols.org/stats?id=44929986) #12 71 points 45 comments -> [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)<!-- HN:44929986:end -->
+* [44929986](https://news.social-protocols.org/stats?id=44929986) #12 71 points 45 comments -> [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)<!-- HN:44929986:end --><!-- HN:44885127:start -->
+* [44885127](https://news.social-protocols.org/stats?id=44885127) #26 42 points 40 comments -> [Why Love Matters Most](https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules)<!-- HN:44885127:end -->
