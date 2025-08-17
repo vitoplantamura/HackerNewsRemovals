@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44925262](https://news.social-protocols.org/stats?id=44925262) #9 30 points 10 comments -> [My boss fired me over WhatsApp while he was on vacation in Honolulu](https://ginoz.bearblog.dev/my-boss-fired-me-over-whatsapp-while-he-was-on-vacation-in-honolulu/)<!-- HN:44925262:end --><!-- HN:44925531:start -->
 * [44925531](https://news.social-protocols.org/stats?id=44925531) #16 11 points 1 comments -> [Testosterone Didn't Rapidly Decline](https://twitter.com/cremieuxrecueil/status/1956769175646396714)<!-- HN:44925531:end --><!-- HN:44901485:start -->
 * [44901485](https://news.social-protocols.org/stats?id=44901485) #26 3 points 0 comments -> [Why Remediation Is the Hardest Problem in NHI Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)<!-- HN:44901485:end -->
+#### **Sunday, August 17, 2025**
+<!-- HN:44927311:start -->
+* [44927311](https://news.social-protocols.org/stats?id=44927311) #24 -> [When Fascism Comes Wrapped in the Flag and Carrying a Cross](https://wisewolfmedia.substack.com/p/it-cant-happen-here-sinclair-lewis)<!-- HN:44927311:end -->
