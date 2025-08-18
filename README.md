@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, August 11, 2025**<!-- HN:44860589:start -->
-* [44860589](https://news.social-protocols.org/stats?id=44860589) #23 8 points 0 comments -> [Five journalists killed in targeted Israeli airstrike on Gaza](https://www.theguardian.com/world/2025/aug/10/prominent-al-jazeera-journalist-killed-in-israeli-airstrike-on-gaza)<!-- HN:44860589:end --><!-- HN:44862263:start -->
-* [44862263](https://news.social-protocols.org/stats?id=44862263) #2 8 points 2 comments -> [Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR](https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant)<!-- HN:44862263:end --><!-- HN:44827617:start -->
-* [44827617](https://news.social-protocols.org/stats?id=44827617) #22 7 points 6 comments -> [Against the UUID](https://github.com/firasd/alphadec/blob/main/docs/against-the-uuid.md)<!-- HN:44827617:end --><!-- HN:44863303:start -->
-* [44863303](https://news.social-protocols.org/stats?id=44863303) #6 28 points 40 comments -> [Why Is Web Performance Undervalued?](https://blaines-blog.com/post-2)<!-- HN:44863303:end --><!-- HN:44863568:start -->
-* [44863568](https://news.social-protocols.org/stats?id=44863568) #19 28 points 40 comments -> [Justice Dept. Settles with Greystar to End Participation in Algorithmic Pricing](https://www.justice.gov/opa/pr/justice-department-reaches-proposed-settlement-greystar-largest-us-landlord-end-its)<!-- HN:44863568:end --><!-- HN:44864171:start -->
-* [44864171](https://news.social-protocols.org/stats?id=44864171) #14 10 points 0 comments -> [Whistleblow HN: Ollama is being deceitful and everyone should know](https://github.com/ollama/ollama/issues/11714)<!-- HN:44864171:end --><!-- HN:44865319:start -->
-* [44865319](https://news.social-protocols.org/stats?id=44865319) #27 9 points 0 comments -> [Hard Drive Shortage in Canada?](https://www.vogons.org/viewtopic.php?t=107758)<!-- HN:44865319:end --><!-- HN:44866970:start -->
-* [44866970](https://news.social-protocols.org/stats?id=44866970) #17 23 points 9 comments -> [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)<!-- HN:44866970:end --><!-- HN:44863487:start -->
-* [44863487](https://news.social-protocols.org/stats?id=44863487) #1 618 points 203 comments -> [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)<!-- HN:44863487:end --><!-- HN:44870502:start -->
-* [44870502](https://news.social-protocols.org/stats?id=44870502) #23 8 points 1 comments -> [The GPT-5 rollout has been a big mess](https://arstechnica.com/information-technology/2025/08/the-gpt-5-rollout-has-been-a-big-mess/)<!-- HN:44870502:end -->
 #### **Tuesday, August 12, 2025**
 <!-- HN:44833223:start -->
 * [44833223](https://news.social-protocols.org/stats?id=44833223) #22 7 points 2 comments -> [Dollar Street – Photos from families with different incomes](https://www.gapminder.org/dollar-street)<!-- HN:44833223:end --><!-- HN:44838029:start -->
