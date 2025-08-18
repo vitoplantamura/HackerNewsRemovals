@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 18, 2025**
 <!-- HN:44937191:start -->
 * [44937191](https://news.social-protocols.org/stats?id=44937191) #12 5 points 4 comments -> [Show HN: 500+ Golang Interview Questions Quiz](https://applyre.com/resources/500-interview-questions/golang/)<!-- HN:44937191:end --><!-- HN:44902731:start -->
-* [44902731](https://news.social-protocols.org/stats?id=44902731) #12 28 points 15 comments -> [How Keeta processes 11M financial transactions per second with Spanner](https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner)<!-- HN:44902731:end -->
+* [44902731](https://news.social-protocols.org/stats?id=44902731) #12 28 points 15 comments -> [How Keeta processes 11M financial transactions per second with Spanner](https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner)<!-- HN:44902731:end --><!-- HN:44938618:start -->
+* [44938618](https://news.social-protocols.org/stats?id=44938618) #3 12 points 5 comments -> [We accidentally built the wrong internet](https://karimjedda.com/we-accidentally-built-the-wrong-internet/)<!-- HN:44938618:end -->
