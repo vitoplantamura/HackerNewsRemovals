@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44934988](https://news.social-protocols.org/stats?id=44934988) #4 16 points 7 comments -> [Show HN: A iOS Native Bluesky App](https://github.com/0xatrilla/LiquidSky)<!-- HN:44934988:end -->
 #### **Monday, August 18, 2025**
 <!-- HN:44937191:start -->
-* [44937191](https://news.social-protocols.org/stats?id=44937191) #12 5 points 4 comments -> [Show HN: 500+ Golang Interview Questions Quiz](https://applyre.com/resources/500-interview-questions/golang/)<!-- HN:44937191:end -->
+* [44937191](https://news.social-protocols.org/stats?id=44937191) #12 5 points 4 comments -> [Show HN: 500+ Golang Interview Questions Quiz](https://applyre.com/resources/500-interview-questions/golang/)<!-- HN:44937191:end --><!-- HN:44902731:start -->
+* [44902731](https://news.social-protocols.org/stats?id=44902731) #12 28 points 15 comments -> [How Keeta processes 11M financial transactions per second with Spanner](https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner)<!-- HN:44902731:end -->
