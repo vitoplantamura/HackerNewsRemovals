@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44933326](https://news.social-protocols.org/stats?id=44933326) #27 9 points 4 comments -> [Anxiety about the economy forcing U.S. employers to yank budgets for raises](https://fortune.com/2025/08/12/economy-anxiety-compensation-budgets-inflation/)<!-- HN:44933326:end --><!-- HN:44934685:start -->
 * [44934685](https://news.social-protocols.org/stats?id=44934685) #13 7 points 7 comments -> [JOMO – The Joy of Missing Out](https://jomo.lol)<!-- HN:44934685:end --><!-- HN:44934988:start -->
 * [44934988](https://news.social-protocols.org/stats?id=44934988) #4 16 points 7 comments -> [Show HN: A iOS Native Bluesky App](https://github.com/0xatrilla/LiquidSky)<!-- HN:44934988:end -->
+#### **Monday, August 18, 2025**
+<!-- HN:44937191:start -->
+* [44937191](https://news.social-protocols.org/stats?id=44937191) #12 5 points 4 comments -> [Show HN: 500+ Golang Interview Questions Quiz](https://applyre.com/resources/500-interview-questions/golang/)<!-- HN:44937191:end -->
