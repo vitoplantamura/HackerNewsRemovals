@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44940646](https://news.social-protocols.org/stats?id=44940646) #11 26 points 40 comments -> [The Coming Robot Home Invasion](https://www.andykessler.com/andy_kessler/2025/08/wsj-home-robots.html)<!-- HN:44940646:end --><!-- HN:44943545:start -->
 * [44943545](https://news.social-protocols.org/stats?id=44943545) #29 25 points 1 comments -> [US helped Netanyahu's cyber chief evade child sex crime charges: Report](https://www.presstv.ir/Detail/2025/08/17/753255/Trump-admin--helped-Netanyahu%E2%80%99s-cyber-chief-go-free-after-his-arrest-for-child-sex-crimes--Report)<!-- HN:44943545:end --><!-- HN:44945785:start -->
 * [44945785](https://news.social-protocols.org/stats?id=44945785) #23 3 points 0 comments -> [Customer churn is rarely about your product – it's your shitty support](https://www.synthicai.com)<!-- HN:44945785:end -->
+#### **Tuesday, August 19, 2025**
+<!-- HN:44947331:start -->
+* [44947331](https://news.social-protocols.org/stats?id=44947331) #7 15 points 4 comments -> [Global Warming Has Accelerated: Are the United Nations and the Public Informed?](https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494#abstract)<!-- HN:44947331:end -->
