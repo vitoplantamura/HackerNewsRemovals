@@ -125,3 +125,12 @@
 * [44866970](https://news.ycombinator.com/item?id=44866970) #17 23 points 9 comments -> [Cloudflare Is Not a CDN](https://magecdn.com/blog/2025/08/11/cloudflare-not-a-cdn/)<!-- HN:44866970:end --><!-- HN:44863487:start -->
 * [44863487](https://news.ycombinator.com/item?id=44863487) #1 618 points 203 comments -> [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)<!-- HN:44863487:end --><!-- HN:44870502:start -->
 * [44870502](https://news.ycombinator.com/item?id=44870502) #23 8 points 1 comments -> [The GPT-5 rollout has been a big mess](https://arstechnica.com/information-technology/2025/08/the-gpt-5-rollout-has-been-a-big-mess/)<!-- HN:44870502:end -->
+#### **Tuesday, August 12, 2025**
+<!-- HN:44833223:start -->
+* [44833223](https://news.ycombinator.com/item?id=44833223) #22 7 points 2 comments -> [Dollar Street – Photos from families with different incomes](https://www.gapminder.org/dollar-street)<!-- HN:44833223:end --><!-- HN:44838029:start -->
+* [44838029](https://news.ycombinator.com/item?id=44838029) #16 14 points 12 comments -> [You're Wrong About Dates – and Your Code Is Lying to You](https://metaduck.com/youre-wrong-about-dates/)<!-- HN:44838029:end --><!-- HN:44843774:start -->
+* [44843774](https://news.ycombinator.com/item?id=44843774) #8 21 points 2 comments -> [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)<!-- HN:44843774:end --><!-- HN:44836560:start -->
+* [44836560](https://news.ycombinator.com/item?id=44836560) #14 6 points 0 comments -> [OOP is not Design Patterns](https://iaziz786.com/blog/oop-is-not-design-patterns/)<!-- HN:44836560:end --><!-- HN:44876743:start -->
+* [44876743](https://news.ycombinator.com/item?id=44876743) #20 6 points 1 comments -> [Entry-Level Jobs Are Disappearing Fast Because of AI](https://www.finalroundai.com/blog/entry-level-jobs-disappearing-fast-because-of-ai)<!-- HN:44876743:end --><!-- HN:44878744:start -->
+* [44878744](https://news.ycombinator.com/item?id=44878744) #20 17 points 3 comments -> [OpenAI Burns the Boats](https://ethanding.substack.com/p/openai-burns-the-boats)<!-- HN:44878744:end --><!-- HN:44881440:start -->
+* [44881440](https://news.ycombinator.com/item?id=44881440) #24 12 points 18 comments -> [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)<!-- HN:44881440:end -->

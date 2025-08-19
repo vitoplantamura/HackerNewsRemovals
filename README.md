@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 12, 2025**
-<!-- HN:44833223:start -->
-* [44833223](https://news.social-protocols.org/stats?id=44833223) #22 7 points 2 comments -> [Dollar Street – Photos from families with different incomes](https://www.gapminder.org/dollar-street)<!-- HN:44833223:end --><!-- HN:44838029:start -->
-* [44838029](https://news.social-protocols.org/stats?id=44838029) #16 14 points 12 comments -> [You're Wrong About Dates – and Your Code Is Lying to You](https://metaduck.com/youre-wrong-about-dates/)<!-- HN:44838029:end --><!-- HN:44843774:start -->
-* [44843774](https://news.social-protocols.org/stats?id=44843774) #8 21 points 2 comments -> [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)<!-- HN:44843774:end --><!-- HN:44836560:start -->
-* [44836560](https://news.social-protocols.org/stats?id=44836560) #14 6 points 0 comments -> [OOP is not Design Patterns](https://iaziz786.com/blog/oop-is-not-design-patterns/)<!-- HN:44836560:end --><!-- HN:44876743:start -->
-* [44876743](https://news.social-protocols.org/stats?id=44876743) #20 6 points 1 comments -> [Entry-Level Jobs Are Disappearing Fast Because of AI](https://www.finalroundai.com/blog/entry-level-jobs-disappearing-fast-because-of-ai)<!-- HN:44876743:end --><!-- HN:44878744:start -->
-* [44878744](https://news.social-protocols.org/stats?id=44878744) #20 17 points 3 comments -> [OpenAI Burns the Boats](https://ethanding.substack.com/p/openai-burns-the-boats)<!-- HN:44878744:end --><!-- HN:44881440:start -->
-* [44881440](https://news.social-protocols.org/stats?id=44881440) #24 12 points 18 comments -> [Show HN: I accidentally built a startup idea validation tool](https://validationly.com/)<!-- HN:44881440:end -->
 #### **Wednesday, August 13, 2025**<!-- HN:44883585:start -->
 * [44883585](https://news.social-protocols.org/stats?id=44883585) #16 29 points 17 comments -> [Please Don't Promote Wayland](https://stoppromotingwayland.netlify.app/)<!-- HN:44883585:end --><!-- HN:44884107:start -->
 * [44884107](https://news.social-protocols.org/stats?id=44884107) #12 23 points 24 comments -> [GPT-5 is a joke. Will it matter?](https://www.bloodinthemachine.com/p/gpt-5-is-a-joke-will-it-matter)<!-- HN:44884107:end --><!-- HN:44885367:start -->
