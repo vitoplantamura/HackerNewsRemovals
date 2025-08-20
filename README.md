@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44920437](https://news.social-protocols.org/stats?id=44920437) #22 8 points 3 comments -> [C# vs. Java int: Primitive type semantics, runtime behavior and tribal knowledge](https://msiyer.com/csharp-vs-java-int-primitive-type-semantics-runtime-behavior-and-tribal-knowledge/)<!-- HN:44920437:end -->
 #### **Wednesday, August 20, 2025**
 <!-- HN:44957520:start -->
-* [44957520](https://news.social-protocols.org/stats?id=44957520) #11 11 points 12 comments -> [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)<!-- HN:44957520:end -->
+* [44957520](https://news.social-protocols.org/stats?id=44957520) #11 11 points 12 comments -> [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)<!-- HN:44957520:end --><!-- HN:44958452:start -->
+* [44958452](https://news.social-protocols.org/stats?id=44958452) #8 8 points 1 comments -> [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)<!-- HN:44958452:end -->
