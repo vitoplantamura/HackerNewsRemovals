@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44953971](https://news.social-protocols.org/stats?id=44953971) #25 9 points 2 comments -> [Small Objects, Big Gains: Benchmarking Tigris Against AWS S3 and Cloudflare R2](https://www.tigrisdata.com/blog/benchmark-small-objects/)<!-- HN:44953971:end --><!-- HN:44956098:start -->
 * [44956098](https://news.social-protocols.org/stats?id=44956098) #17 5 points 2 comments -> [Stop Paywalling SSO: It Is a Basic Right, Not an Enterprise Perk](https://oneuptime.com/blog/post/2025-08-19-sso-is-a-security-basic-not-an-enterprise-perk/view)<!-- HN:44956098:end --><!-- HN:44920437:start -->
 * [44920437](https://news.social-protocols.org/stats?id=44920437) #22 8 points 3 comments -> [C# vs. Java int: Primitive type semantics, runtime behavior and tribal knowledge](https://msiyer.com/csharp-vs-java-int-primitive-type-semantics-runtime-behavior-and-tribal-knowledge/)<!-- HN:44920437:end -->
+#### **Wednesday, August 20, 2025**
+<!-- HN:44957520:start -->
+* [44957520](https://news.social-protocols.org/stats?id=44957520) #11 11 points 12 comments -> [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)<!-- HN:44957520:end -->
