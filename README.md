@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, August 20, 2025**
 <!-- HN:44957520:start -->
 * [44957520](https://news.social-protocols.org/stats?id=44957520) #11 11 points 12 comments -> [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)<!-- HN:44957520:end --><!-- HN:44958452:start -->
-* [44958452](https://news.social-protocols.org/stats?id=44958452) #8 8 points 1 comments -> [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)<!-- HN:44958452:end -->
+* [44958452](https://news.social-protocols.org/stats?id=44958452) #8 8 points 1 comments -> [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)<!-- HN:44958452:end --><!-- HN:44958506:start -->
+* [44958506](https://news.social-protocols.org/stats?id=44958506) #8 14 points 7 comments -> [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)<!-- HN:44958506:end -->
