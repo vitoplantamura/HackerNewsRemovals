@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 21, 2025**
 <!-- HN:44968457:start -->
 * [44968457](https://news.social-protocols.org/stats?id=44968457) #22 -> [At least 64 have been killed since dawn on Wednesday, including 19 aid seekers](https://www.aljazeera.com/news/liveblog/2025/8/20/live-israel-yet-to-reply-to-gaza-ceasefire-almost-19000-children-killed)<!-- HN:44968457:end --><!-- HN:44974717:start -->
-* [44974717](https://news.social-protocols.org/stats?id=44974717) #16 8 points 1 comments -> [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)<!-- HN:44974717:end -->
+* [44974717](https://news.social-protocols.org/stats?id=44974717) #16 8 points 1 comments -> [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)<!-- HN:44974717:end --><!-- HN:44977543:start -->
+* [44977543](https://news.social-protocols.org/stats?id=44977543) #12 12 points 8 comments -> [In Defense of Car-Centered Society](https://sweatofthebrow.blogspot.com/2025/08/in-defense-of-car-centered-society.html)<!-- HN:44977543:end -->
