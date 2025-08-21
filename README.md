@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 21, 2025**
 <!-- HN:44968457:start -->
 * [44968457](https://news.social-protocols.org/stats?id=44968457) #22 -> [At least 64 have been killed since dawn on Wednesday, including 19 aid seekers](https://www.aljazeera.com/news/liveblog/2025/8/20/live-israel-yet-to-reply-to-gaza-ceasefire-almost-19000-children-killed)<!-- HN:44968457:end --><!-- HN:44974717:start -->
-* [44974717](https://news.social-protocols.org/stats?id=44974717) #16 8 points 1 comments -> [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)<!-- HN:44974717:end -->
+* [44974717](https://news.social-protocols.org/stats?id=44974717) #16 8 points 1 comments -> [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)<!-- HN:44974717:end --><!-- HN:44975122:start -->
+* [44975122](https://news.social-protocols.org/stats?id=44975122) #25 12 points 1 comments -> [Israeli military's own data indicates civilian death rate of 83% in Gaza war](https://www.theguardian.com/world/ng-interactive/2025/aug/21/revealed-israeli-militarys-own-data-indicates-civilian-death-rate-of-83-in-gaza-war)<!-- HN:44975122:end -->
