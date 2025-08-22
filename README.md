@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 22, 2025**
 <!-- HN:44981383:start -->
 * [44981383](https://news.social-protocols.org/stats?id=44981383) #9 24 points 42 comments -> [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)<!-- HN:44981383:end --><!-- HN:44981572:start -->
-* [44981572](https://news.social-protocols.org/stats?id=44981572) #26 8 points 2 comments -> [Nano Banana](https://nanobanana.ai/)<!-- HN:44981572:end -->
+* [44981572](https://news.social-protocols.org/stats?id=44981572) #26 8 points 2 comments -> [Nano Banana](https://nanobanana.ai/)<!-- HN:44981572:end --><!-- HN:44982631:start -->
+* [44982631](https://news.social-protocols.org/stats?id=44982631) #16 -> [Gaza City and Surrounding Areas Are Officially Under Famine, Monitors Say](https://www.nytimes.com/2025/08/22/world/middleeast/famine-gaza-city-israel.html)<!-- HN:44982631:end -->
