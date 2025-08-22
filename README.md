@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 15, 2025**
-<!-- HN:44911394:start -->
-* [44911394](https://news.social-protocols.org/stats?id=44911394) #3 9 points 0 comments -> [The AI Job Swindle](https://therectangle.substack.com/p/the-great-ai-job-swindle)<!-- HN:44911394:end --><!-- HN:44911325:start -->
-* [44911325](https://news.social-protocols.org/stats?id=44911325) #2 10 points 12 comments -> [It is time to 'Correct the Map'](https://correctthemap.org/)<!-- HN:44911325:end --><!-- HN:44911872:start -->
-* [44911872](https://news.social-protocols.org/stats?id=44911872) #30 4 points 0 comments -> [Review: Dating Men in the Bay Area](https://www.astralcodexten.com/p/your-review-dating-men-in-the-bay)<!-- HN:44911872:end --><!-- HN:44913726:start -->
-* [44913726](https://news.social-protocols.org/stats?id=44913726) #15 12 points 7 comments -> [Have you ever noticed that people dressed better in the past?](https://twitter.com/dieworkwear/status/1955756224030630264)<!-- HN:44913726:end --><!-- HN:44913606:start -->
-* [44913606](https://news.social-protocols.org/stats?id=44913606) #11 18 points 6 comments -> [SC's proposed nuclear reboot: 'We're going to finish these reactors'](https://scdailygazette.com/2025/08/14/sen-graham-on-scs-proposed-nuclear-reboot-were-going-to-finish-these-reactors/)<!-- HN:44913606:end --><!-- HN:44914435:start -->
-* [44914435](https://news.social-protocols.org/stats?id=44914435) #13 43 points 28 comments -> [German court declares Karl Marx's teachings unconstitutional](https://harici.com.tr/en/german-court-declares-karl-marxs-teachings-unconstitutional/)<!-- HN:44914435:end --><!-- HN:44915015:start -->
-* [44915015](https://news.social-protocols.org/stats?id=44915015) #15 34 points 12 comments -> [Are We Creating Entrepreneurs or Just Privileged Risk-Takers?](https://luolink.substack.com/p/the-million-dollar-safety-net-how)<!-- HN:44915015:end --><!-- HN:44915090:start -->
-* [44915090](https://news.social-protocols.org/stats?id=44915090) #13 28 points 8 comments -> [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)<!-- HN:44915090:end --><!-- HN:44917011:start -->
-* [44917011](https://news.social-protocols.org/stats?id=44917011) #13 -> [ICE Adds Random Person to Group Chat, Exposes Details of Manhunt in Real-Time](https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/)<!-- HN:44917011:end -->
 #### **Saturday, August 16, 2025**
 <!-- HN:44894302:start -->
 * [44894302](https://news.social-protocols.org/stats?id=44894302) #22 7 points 1 comments -> [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)<!-- HN:44894302:end --><!-- HN:44920245:start -->
