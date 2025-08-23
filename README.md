@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44985207](https://news.social-protocols.org/stats?id=44985207) #17 116 points 106 comments -> [A Guide to Gen AI / LLM Vibecoding for Expert Programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)<!-- HN:44985207:end -->
 #### **Saturday, August 23, 2025**<!-- HN:44993874:start -->
 * [44993874](https://news.social-protocols.org/stats?id=44993874) #16 15 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:44993874:end --><!-- HN:44994515:start -->
-* [44994515](https://news.social-protocols.org/stats?id=44994515) #7 5 points 6 comments -> [Asking three LLMs a simple question](https://sethops1.net/post/asking-three-llms-a-simple-question/)<!-- HN:44994515:end -->
+* [44994515](https://news.social-protocols.org/stats?id=44994515) #7 5 points 6 comments -> [Asking three LLMs a simple question](https://sethops1.net/post/asking-three-llms-a-simple-question/)<!-- HN:44994515:end --><!-- HN:44949203:start -->
+* [44949203](https://news.social-protocols.org/stats?id=44949203) #27 16 points 2 comments -> [Embedding Text Documents with Qwen3](https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3)<!-- HN:44949203:end -->
