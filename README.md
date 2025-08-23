@@ -99,4 +99,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44986087](https://news.social-protocols.org/stats?id=44986087) #14 42 points 25 comments -> [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)<!-- HN:44986087:end --><!-- HN:44987692:start -->
 * [44987692](https://news.social-protocols.org/stats?id=44987692) #7 36 points 14 comments -> [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)<!-- HN:44987692:end --><!-- HN:44985207:start -->
 * [44985207](https://news.social-protocols.org/stats?id=44985207) #17 116 points 106 comments -> [A Guide to Gen AI / LLM Vibecoding for Expert Programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)<!-- HN:44985207:end -->
-#### **Saturday, August 23, 2025**
+#### **Saturday, August 23, 2025**<!-- HN:44993874:start -->
+* [44993874](https://news.social-protocols.org/stats?id=44993874) #16 15 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:44993874:end -->
