@@ -101,5 +101,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44985207](https://news.social-protocols.org/stats?id=44985207) #17 116 points 106 comments -> [A Guide to Gen AI / LLM Vibecoding for Expert Programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)<!-- HN:44985207:end -->
 #### **Saturday, August 23, 2025**
 <!-- HN:44955923:start -->
-* [44955923](https://news.social-protocols.org/stats?id=44955923) #9 33 points 40 comments -> [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)<!-- HN:44955923:end --><!-- HN:44990986:start -->
-* [44990986](https://news.social-protocols.org/stats?id=44990986) #6 14 points 7 comments -> [I don't buy Macs anymore](https://jasonsaidwhat.substack.com/p/the-story-of-why-i-dont-buy-macs)<!-- HN:44990986:end -->
+* [44955923](https://news.social-protocols.org/stats?id=44955923) #9 33 points 40 comments -> [From M1 MacBook to Arch Linux: A month-long experiment that became permanenent](https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/)<!-- HN:44955923:end -->
