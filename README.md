@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 16, 2025**
-<!-- HN:44894302:start -->
-* [44894302](https://news.social-protocols.org/stats?id=44894302) #22 7 points 1 comments -> [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)<!-- HN:44894302:end --><!-- HN:44920245:start -->
-* [44920245](https://news.social-protocols.org/stats?id=44920245) #2 9 points 0 comments -> [Single Sign on for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)<!-- HN:44920245:end --><!-- HN:44922929:start -->
-* [44922929](https://news.social-protocols.org/stats?id=44922929) #5 29 points 40 comments -> [Should You Take Creatine?](https://www.economist.com/science-and-technology/2025/07/11/should-you-take-creatine)<!-- HN:44922929:end --><!-- HN:44922241:start -->
-* [44922241](https://news.social-protocols.org/stats?id=44922241) #21 147 points 130 comments -> [Microsoft keeps adding stuff into Windows we don't need](https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/)<!-- HN:44922241:end --><!-- HN:44895263:start -->
-* [44895263](https://news.social-protocols.org/stats?id=44895263) #21 8 points 1 comments -> [Our Paint – A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html)<!-- HN:44895263:end --><!-- HN:44923543:start -->
-* [44923543](https://news.social-protocols.org/stats?id=44923543) #4 4 points 0 comments -> [Climate Action Tracker](https://climateactiontracker.org/)<!-- HN:44923543:end --><!-- HN:44922342:start -->
-* [44922342](https://news.social-protocols.org/stats?id=44922342) #18 29 points 40 comments -> [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)<!-- HN:44922342:end --><!-- HN:44923703:start -->
-* [44923703](https://news.social-protocols.org/stats?id=44923703) #13 -> [Satoshi Nakamoto Translated into English Means "Central Intelligence"](https://wisewolfmedia.substack.com/p/did-the-cia-create-bitcoin)<!-- HN:44923703:end --><!-- HN:44923277:start -->
-* [44923277](https://news.social-protocols.org/stats?id=44923277) #28 9 points 4 comments -> [The catfishing scam putting fans and female golfers in danger](https://www.nytimes.com/athletic/6554056/2025/08/15/womens-golf-catfishing-social-media-stalking-cases/)<!-- HN:44923277:end --><!-- HN:44923957:start -->
-* [44923957](https://news.social-protocols.org/stats?id=44923957) #23 21 points 10 comments -> [SpaceX Gets Billions from the Government, Gives Little to Nothing Back in Taxes](https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html)<!-- HN:44923957:end --><!-- HN:44925262:start -->
-* [44925262](https://news.social-protocols.org/stats?id=44925262) #9 30 points 10 comments -> [My boss fired me over WhatsApp while he was on vacation in Honolulu](https://ginoz.bearblog.dev/my-boss-fired-me-over-whatsapp-while-he-was-on-vacation-in-honolulu/)<!-- HN:44925262:end --><!-- HN:44925531:start -->
-* [44925531](https://news.social-protocols.org/stats?id=44925531) #16 11 points 1 comments -> [Testosterone Didn't Rapidly Decline](https://twitter.com/cremieuxrecueil/status/1956769175646396714)<!-- HN:44925531:end --><!-- HN:44901485:start -->
-* [44901485](https://news.social-protocols.org/stats?id=44901485) #26 3 points 0 comments -> [Why Remediation Is the Hardest Problem in NHI Security](https://www.token.security/blog/why-remediation-is-the-hardest-problem-in-nhi-security)<!-- HN:44901485:end -->
 #### **Sunday, August 17, 2025**<!-- HN:44928504:start -->
 * [44928504](https://news.social-protocols.org/stats?id=44928504) #30 -> [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)<!-- HN:44928504:end --><!-- HN:44928937:start -->
 * [44928937](https://news.social-protocols.org/stats?id=44928937) #6 19 points 8 comments -> [In one command use 500 open source tools](https://www.x-cmd.com/)<!-- HN:44928937:end --><!-- HN:44929986:start -->
