@@ -98,3 +98,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44994835](https://news.social-protocols.org/stats?id=44994835) #27 15 points 1 comments -> [Marital happiness = lovemaking rate – argument rate [pdf]](https://www.cmu.edu/dietrich/sds/docs/dawes/the-robust-beauty-of-improper-linear-models-in-decision-making.pdf)<!-- HN:44994835:end --><!-- HN:44996058:start -->
 * [44996058](https://news.social-protocols.org/stats?id=44996058) #11 39 points 32 comments -> [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)<!-- HN:44996058:end --><!-- HN:44963521:start -->
 * [44963521](https://news.social-protocols.org/stats?id=44963521) #20 17 points 0 comments -> [Disk sampling on a sphere](https://observablehq.com/@jrus/spheredisksample)<!-- HN:44963521:end -->
+#### **Sunday, August 24, 2025**
+<!-- HN:45000400:start -->
+* [45000400](https://news.social-protocols.org/stats?id=45000400) #21 11 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:45000400:end -->
