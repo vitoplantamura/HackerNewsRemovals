@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, August 17, 2025**<!-- HN:44928504:start -->
-* [44928504](https://news.social-protocols.org/stats?id=44928504) #30 -> [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)<!-- HN:44928504:end --><!-- HN:44928937:start -->
-* [44928937](https://news.social-protocols.org/stats?id=44928937) #6 19 points 8 comments -> [In one command use 500 open source tools](https://www.x-cmd.com/)<!-- HN:44928937:end --><!-- HN:44929986:start -->
-* [44929986](https://news.social-protocols.org/stats?id=44929986) #12 71 points 45 comments -> [Simulator of the life of a 30-year-old in the UK](https://nicksimulator.com/)<!-- HN:44929986:end --><!-- HN:44931303:start -->
-* [44931303](https://news.social-protocols.org/stats?id=44931303) #19 8 points 0 comments -> [Wozniak pops up in a comment thread about his 'bad decision' to sell his stock](https://www.pcgamer.com/gaming-industry/on-his-75th-birthday-apple-legend-steve-wozniak-pops-up-in-a-comment-thread-about-his-bad-decision-to-sell-his-stock-in-the-80s-with-a-devastatingly-zen-reply-i-gave-all-my-apple-wealth-away-because-wealth-and-power-are-not-what-i-live-for/)<!-- HN:44931303:end --><!-- HN:44892080:start -->
-* [44892080](https://news.social-protocols.org/stats?id=44892080) #17 13 points 10 comments -> [We Hit 100% GPU Utilization–and Then Made It 3× Faster by Not Using It](https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3)<!-- HN:44892080:end --><!-- HN:44933175:start -->
-* [44933175](https://news.social-protocols.org/stats?id=44933175) #18 3 points 0 comments -> [Show HN: DNC – A Decentralized Economic Protocol (No Blockchain)](https://github.com/POlLLOGAMER/DNC-DIAC-NET-CHAIN)<!-- HN:44933175:end --><!-- HN:44933435:start -->
-* [44933435](https://news.social-protocols.org/stats?id=44933435) #2 69 points 17 comments -> [iOS 18.5 silently triggers Bluetooth and GPS data collection – no user consent](https://github.com/JGoyd/iOS-18.5-Bluetooth-Privacy-Vuln)<!-- HN:44933435:end --><!-- HN:44933326:start -->
-* [44933326](https://news.social-protocols.org/stats?id=44933326) #27 9 points 4 comments -> [Anxiety about the economy forcing U.S. employers to yank budgets for raises](https://fortune.com/2025/08/12/economy-anxiety-compensation-budgets-inflation/)<!-- HN:44933326:end --><!-- HN:44934685:start -->
-* [44934685](https://news.social-protocols.org/stats?id=44934685) #13 7 points 7 comments -> [JOMO – The Joy of Missing Out](https://jomo.lol)<!-- HN:44934685:end --><!-- HN:44934988:start -->
-* [44934988](https://news.social-protocols.org/stats?id=44934988) #4 16 points 7 comments -> [Show HN: A iOS Native Bluesky App](https://github.com/0xatrilla/LiquidSky)<!-- HN:44934988:end -->
 #### **Monday, August 18, 2025**
 <!-- HN:44937191:start -->
 * [44937191](https://news.social-protocols.org/stats?id=44937191) #12 5 points 4 comments -> [Show HN: 500+ Golang Interview Questions Quiz](https://applyre.com/resources/500-interview-questions/golang/)<!-- HN:44937191:end --><!-- HN:44902731:start -->
