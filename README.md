@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [44963521](https://news.social-protocols.org/stats?id=44963521) #20 17 points 0 comments -> [Disk sampling on a sphere](https://observablehq.com/@jrus/spheredisksample)<!-- HN:44963521:end -->
 #### **Sunday, August 24, 2025**
 <!-- HN:45000400:start -->
-* [45000400](https://news.social-protocols.org/stats?id=45000400) #21 11 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:45000400:end -->
+* [45000400](https://news.social-protocols.org/stats?id=45000400) #21 11 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:45000400:end --><!-- HN:44977960:start -->
+* [44977960](https://news.social-protocols.org/stats?id=44977960) #6 9 points 5 comments -> [Open Source Maintenance Fee business model example from WiX Toolset](https://github.com/wixtoolset)<!-- HN:44977960:end -->
