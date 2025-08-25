@@ -100,3 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45006468](https://news.social-protocols.org/stats?id=45006468) #15 -> [Walmart Fires VP for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)<!-- HN:45006468:end --><!-- HN:45006507:start -->
 * [45006507](https://news.social-protocols.org/stats?id=45006507) #10 7 points 1 comments -> [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)<!-- HN:45006507:end --><!-- HN:45008323:start -->
 * [45008323](https://news.social-protocols.org/stats?id=45008323) #22 35 points 14 comments -> [2.5B Gmail users endangered after Google database hack](https://www.pcworld.com/article/2880822/2-5-billion-gmail-users-endangered-after-google-database-hack.html)<!-- HN:45008323:end -->
+#### **Monday, August 25, 2025**
+<!-- HN:45008406:start -->
+* [45008406](https://news.social-protocols.org/stats?id=45008406) #30 14 points 1 comments -> [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)<!-- HN:45008406:end -->
