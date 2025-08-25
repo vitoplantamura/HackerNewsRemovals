@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, August 18, 2025**
-<!-- HN:44937191:start -->
-* [44937191](https://news.social-protocols.org/stats?id=44937191) #12 5 points 4 comments -> [Show HN: 500+ Golang Interview Questions Quiz](https://applyre.com/resources/500-interview-questions/golang/)<!-- HN:44937191:end --><!-- HN:44902731:start -->
-* [44902731](https://news.social-protocols.org/stats?id=44902731) #12 28 points 15 comments -> [How Keeta processes 11M financial transactions per second with Spanner](https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner)<!-- HN:44902731:end --><!-- HN:44938618:start -->
-* [44938618](https://news.social-protocols.org/stats?id=44938618) #3 12 points 5 comments -> [We accidentally built the wrong internet](https://karimjedda.com/we-accidentally-built-the-wrong-internet/)<!-- HN:44938618:end --><!-- HN:44940551:start -->
-* [44940551](https://news.social-protocols.org/stats?id=44940551) #5 9 points 8 comments -> [Discussing politics at work: Don't, just don't](https://betterthanrandom.substack.com/p/discussing-politics-at-work)<!-- HN:44940551:end --><!-- HN:44941750:start -->
-* [44941750](https://news.social-protocols.org/stats?id=44941750) #30 11 points 4 comments -> [Apple Finally Destroyed Steve Jobs’ Vision of the iPad. Good](https://www.wired.com/story/apple-finally-destroyed-steve-jobss-vision-of-the-ipad-good/)<!-- HN:44941750:end --><!-- HN:44941755:start -->
-* [44941755](https://news.social-protocols.org/stats?id=44941755) #13 4 points 0 comments -> [Show HN: Open-Source Framework for Real-Time AI Video Avatars](https://github.com/videosdk-community/ai-avatar-demo)<!-- HN:44941755:end --><!-- HN:44941907:start -->
-* [44941907](https://news.social-protocols.org/stats?id=44941907) #30 -> [The administration's assault on science feels eerily Soviet](https://grist.org/politics/the-trump-administrations-assault-on-science-feels-eerily-soviet/)<!-- HN:44941907:end --><!-- HN:44940646:start -->
-* [44940646](https://news.social-protocols.org/stats?id=44940646) #11 26 points 40 comments -> [The Coming Robot Home Invasion](https://www.andykessler.com/andy_kessler/2025/08/wsj-home-robots.html)<!-- HN:44940646:end --><!-- HN:44943545:start -->
-* [44943545](https://news.social-protocols.org/stats?id=44943545) #29 25 points 1 comments -> [US helped Netanyahu's cyber chief evade child sex crime charges: Report](https://www.presstv.ir/Detail/2025/08/17/753255/Trump-admin--helped-Netanyahu%E2%80%99s-cyber-chief-go-free-after-his-arrest-for-child-sex-crimes--Report)<!-- HN:44943545:end --><!-- HN:44945785:start -->
-* [44945785](https://news.social-protocols.org/stats?id=44945785) #23 3 points 0 comments -> [Customer churn is rarely about your product – it's your shitty support](https://www.synthicai.com)<!-- HN:44945785:end -->
 #### **Tuesday, August 19, 2025**<!-- HN:44949059:start -->
 * [44949059](https://news.social-protocols.org/stats?id=44949059) #30 5 points 0 comments -> ["Stop children using VPNs to watch porn", UK politicians told](https://www.bbc.co.uk/news/articles/cn438z3ejxyo)<!-- HN:44949059:end --><!-- HN:44950886:start -->
 * [44950886](https://news.social-protocols.org/stats?id=44950886) #10 4 points 0 comments -> [Vibecoding my personal site into the 512KB Club](https://www.calvinbarker.com/blog/vibecoding-my-personal-site-into-the-512kb-club)<!-- HN:44950886:end --><!-- HN:44951204:start -->
