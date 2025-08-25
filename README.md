@@ -102,5 +102,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 25, 2025**
 <!-- HN:45008406:start -->
 * [45008406](https://news.social-protocols.org/stats?id=45008406) #30 14 points 1 comments -> [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)<!-- HN:45008406:end --><!-- HN:45005954:start -->
-* [45005954](https://news.social-protocols.org/stats?id=45005954) #28 30 points 2 comments -> [Y Combinator says Apple's App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)<!-- HN:45005954:end --><!-- HN:45008733:start -->
-* [45008733](https://news.social-protocols.org/stats?id=45008733) #1 38 points 5 comments -> [Using acetaminophen during pregnancy may increase childrens autism and ADHD risk](https://hsph.harvard.edu/news/using-acetaminophen-during-pregnancy-may-increase-childrens-autism-and-adhd-risk/)<!-- HN:45008733:end -->
+* [45005954](https://news.social-protocols.org/stats?id=45005954) #28 30 points 2 comments -> [Y Combinator says Apple's App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)<!-- HN:45005954:end -->
