@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45008323](https://news.social-protocols.org/stats?id=45008323) #22 35 points 14 comments -> [2.5B Gmail users endangered after Google database hack](https://www.pcworld.com/article/2880822/2-5-billion-gmail-users-endangered-after-google-database-hack.html)<!-- HN:45008323:end -->
 #### **Monday, August 25, 2025**
 <!-- HN:45008406:start -->
-* [45008406](https://news.social-protocols.org/stats?id=45008406) #30 14 points 1 comments -> [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)<!-- HN:45008406:end -->
+* [45008406](https://news.social-protocols.org/stats?id=45008406) #30 14 points 1 comments -> [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)<!-- HN:45008406:end --><!-- HN:45005954:start -->
+* [45005954](https://news.social-protocols.org/stats?id=45005954) #28 30 points 2 comments -> [Y Combinator says Apple's App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)<!-- HN:45005954:end -->
