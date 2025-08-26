@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 19, 2025**<!-- HN:44949059:start -->
-* [44949059](https://news.social-protocols.org/stats?id=44949059) #30 5 points 0 comments -> ["Stop children using VPNs to watch porn", UK politicians told](https://www.bbc.co.uk/news/articles/cn438z3ejxyo)<!-- HN:44949059:end --><!-- HN:44950886:start -->
-* [44950886](https://news.social-protocols.org/stats?id=44950886) #10 4 points 0 comments -> [Vibecoding my personal site into the 512KB Club](https://www.calvinbarker.com/blog/vibecoding-my-personal-site-into-the-512kb-club)<!-- HN:44950886:end --><!-- HN:44951204:start -->
-* [44951204](https://news.social-protocols.org/stats?id=44951204) #3 20 points 12 comments -> [Ballot Hand Counts Lead to Inaccuracy](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)<!-- HN:44951204:end --><!-- HN:44951681:start -->
-* [44951681](https://news.social-protocols.org/stats?id=44951681) #26 22 points 7 comments -> [U.K. 30-Year Yield Tops U.S. as Pressure Mounts on Government Borrowing](https://www.coindesk.com/markets/2025/08/19/u-k-30-year-yield-tops-u-s-as-pressure-mounts-on-government-borrowing)<!-- HN:44951681:end --><!-- HN:44952240:start -->
-* [44952240](https://news.social-protocols.org/stats?id=44952240) #6 32 points 3 comments -> [Google President Praised MAGA Speech Slamming 'Climate Extremist Agenda'](https://www.desmog.com/2025/08/19/google-president-praised-maga-speech-slamming-climate-extremist-agenda/)<!-- HN:44952240:end --><!-- HN:44953971:start -->
-* [44953971](https://news.social-protocols.org/stats?id=44953971) #25 9 points 2 comments -> [Small Objects, Big Gains: Benchmarking Tigris Against AWS S3 and Cloudflare R2](https://www.tigrisdata.com/blog/benchmark-small-objects/)<!-- HN:44953971:end --><!-- HN:44956098:start -->
-* [44956098](https://news.social-protocols.org/stats?id=44956098) #17 5 points 2 comments -> [Stop Paywalling SSO: It Is a Basic Right, Not an Enterprise Perk](https://oneuptime.com/blog/post/2025-08-19-sso-is-a-security-basic-not-an-enterprise-perk/view)<!-- HN:44956098:end --><!-- HN:44920437:start -->
-* [44920437](https://news.social-protocols.org/stats?id=44920437) #22 8 points 3 comments -> [C# vs. Java int: Primitive type semantics, runtime behavior and tribal knowledge](https://msiyer.com/csharp-vs-java-int-primitive-type-semantics-runtime-behavior-and-tribal-knowledge/)<!-- HN:44920437:end -->
 #### **Wednesday, August 20, 2025**
 <!-- HN:44957520:start -->
 * [44957520](https://news.social-protocols.org/stats?id=44957520) #11 11 points 12 comments -> [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)<!-- HN:44957520:end --><!-- HN:44958452:start -->
