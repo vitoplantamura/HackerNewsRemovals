@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45017930](https://news.social-protocols.org/stats?id=45017930) #7 5 points 0 comments -> [By Birth Alone: The Original Meaning of Birthright Citizenship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5394605)<!-- HN:45017930:end --><!-- HN:45018343:start -->
 * [45018343](https://news.social-protocols.org/stats?id=45018343) #4 98 points 1 comments -> [Google to require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)<!-- HN:45018343:end --><!-- HN:45019513:start -->
 * [45019513](https://news.social-protocols.org/stats?id=45019513) #27 14 points 0 comments -> [How the Richest People in America Avoid Paying Taxes](https://www.theatlantic.com/economy/archive/2025/08/billionaire-tax-study/683987/)<!-- HN:45019513:end -->
-#### **Tuesday, August 26, 2025**
+#### **Tuesday, August 26, 2025**<!-- HN:45020866:start -->
+* [45020866](https://news.social-protocols.org/stats?id=45020866) #30 45 points 46 comments -> [MAID in Canada](https://nathansnelgrove.com/2025/08/maid-in-canada)<!-- HN:45020866:end -->
