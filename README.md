@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45029203](https://news.social-protocols.org/stats?id=45029203) #13 8 points 0 comments -> [Google Release Nano Banana](https://blog.google/intl/en-mena/product-updates/explore-get-answers/nano-banana-image-editing-in-gemini-just-got-a-major-upgrade/)<!-- HN:45029203:end --><!-- HN:45028163:start -->
 * [45028163](https://news.social-protocols.org/stats?id=45028163) #19 24 points 25 comments -> [Apple´s Tim Cook battle results](https://hugston.com/articles/Apple_2016_Stand_Was_Never_About_One_Case)<!-- HN:45028163:end --><!-- HN:45032686:start -->
 * [45032686](https://news.social-protocols.org/stats?id=45032686) #13 6 points 1 comments -> ['Less Fun Than a Barrel of Crackers'](https://johnmccoy.org/2025/08/25/less-fun-than-a-barrel-of-crackers/)<!-- HN:45032686:end -->
+#### **Wednesday, August 27, 2025**
+<!-- HN:45035336:start -->
+* [45035336](https://news.social-protocols.org/stats?id=45035336) #2 14 points 1 comments -> [Hire Palestinian Tech Talent](https://apricotinternational.org/)<!-- HN:45035336:end -->
