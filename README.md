@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, August 20, 2025**
-<!-- HN:44957520:start -->
-* [44957520](https://news.social-protocols.org/stats?id=44957520) #11 11 points 12 comments -> [Avi Loeb: Is 3I/Atlas Our Turing Test by a Superior Alien Intelligence?](https://avi-loeb.medium.com/is-3i-atlas-our-turing-test-by-a-superior-alien-intelligence-32bfd838a9f2)<!-- HN:44957520:end --><!-- HN:44958452:start -->
-* [44958452](https://news.social-protocols.org/stats?id=44958452) #8 8 points 1 comments -> [The Troubling Lines That Columbia Is Drawing](https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing)<!-- HN:44958452:end --><!-- HN:44958506:start -->
-* [44958506](https://news.social-protocols.org/stats?id=44958506) #8 14 points 7 comments -> [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)<!-- HN:44958506:end --><!-- HN:44956774:start -->
-* [44956774](https://news.social-protocols.org/stats?id=44956774) #14 85 points 1 comments -> [How to Scale Your Model: How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)<!-- HN:44956774:end --><!-- HN:44961584:start -->
-* [44961584](https://news.social-protocols.org/stats?id=44961584) #12 -> [RFK Jr. is waging a misguided war on mRNA vaccine technology](https://www.wsj.com/opinion/rfk-jr-mrna-vaccines-hhs-covid-jay-bhattacharya-e9fa1ac3)<!-- HN:44961584:end -->
 #### **Thursday, August 21, 2025**
 <!-- HN:44968457:start -->
 * [44968457](https://news.social-protocols.org/stats?id=44968457) #22 -> [At least 64 have been killed since dawn on Wednesday, including 19 aid seekers](https://www.aljazeera.com/news/liveblog/2025/8/20/live-israel-yet-to-reply-to-gaza-ceasefire-almost-19000-children-killed)<!-- HN:44968457:end --><!-- HN:44974717:start -->
