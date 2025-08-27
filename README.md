@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45032686](https://news.social-protocols.org/stats?id=45032686) #13 6 points 1 comments -> ['Less Fun Than a Barrel of Crackers'](https://johnmccoy.org/2025/08/25/less-fun-than-a-barrel-of-crackers/)<!-- HN:45032686:end -->
 #### **Wednesday, August 27, 2025**
 <!-- HN:45035336:start -->
-* [45035336](https://news.social-protocols.org/stats?id=45035336) #2 14 points 1 comments -> [Hire Palestinian Tech Talent](https://apricotinternational.org/)<!-- HN:45035336:end -->
+* [45035336](https://news.social-protocols.org/stats?id=45035336) #2 14 points 1 comments -> [Hire Palestinian Tech Talent](https://apricotinternational.org/)<!-- HN:45035336:end --><!-- HN:45035684:start -->
+* [45035684](https://news.social-protocols.org/stats?id=45035684) #4 40 points 40 comments -> [AI coding made me faster, but I can't code to music anymore](https://www.praf.me/ai-coding)<!-- HN:45035684:end -->
