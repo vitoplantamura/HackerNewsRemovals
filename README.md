@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45041779](https://news.social-protocols.org/stats?id=45041779) #22 28 points 40 comments -> [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)<!-- HN:45041779:end --><!-- HN:45042831:start -->
 * [45042831](https://news.social-protocols.org/stats?id=45042831) #18 5 points 2 comments -> [Show HN: Whose p*nis is that now? Probably the weirdest website I've ever made](https://whosepenis.com/pages/fun)<!-- HN:45042831:end --><!-- HN:45046124:start -->
 * [45046124](https://news.social-protocols.org/stats?id=45046124) #23 20 points 3 comments -> [Asahi Linux Lead Developer Steps Down](https://linuxiac.com/asahi-linux-lead-developer-steps-down/)<!-- HN:45046124:end -->
-#### **Thursday, August 28, 2025**
+#### **Thursday, August 28, 2025**<!-- HN:45047549:start -->
+* [45047549](https://news.social-protocols.org/stats?id=45047549) #29 9 points 0 comments -> [White House fires CDC director Monarez after she refuses to resign](https://www.cnbc.com/2025/08/27/cdc-director-susan-monarez-.html)<!-- HN:45047549:end -->
