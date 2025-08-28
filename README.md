@@ -116,5 +116,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45042831](https://news.social-protocols.org/stats?id=45042831) #18 5 points 2 comments -> [Show HN: Whose p*nis is that now? Probably the weirdest website I've ever made](https://whosepenis.com/pages/fun)<!-- HN:45042831:end --><!-- HN:45046124:start -->
 * [45046124](https://news.social-protocols.org/stats?id=45046124) #23 20 points 3 comments -> [Asahi Linux Lead Developer Steps Down](https://linuxiac.com/asahi-linux-lead-developer-steps-down/)<!-- HN:45046124:end -->
 #### **Thursday, August 28, 2025**<!-- HN:45049320:start -->
-* [45049320](https://news.social-protocols.org/stats?id=45049320) #3 14 points 16 comments -> [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)<!-- HN:45049320:end --><!-- HN:45014275:start -->
-* [45014275](https://news.social-protocols.org/stats?id=45014275) #28 18 points 40 comments -> [What Is Synthetic Gasoline?](https://iere.org/what-is-synthetic-gasoline/)<!-- HN:45014275:end -->
+* [45049320](https://news.social-protocols.org/stats?id=45049320) #3 14 points 16 comments -> [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)<!-- HN:45049320:end -->
