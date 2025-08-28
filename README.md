@@ -117,5 +117,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45042611](https://news.social-protocols.org/stats?id=45042611) #23 36 points 40 comments -> [Astrophysicists Find No 'Hair' on Black Holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)<!-- HN:45042611:end --><!-- HN:45046124:start -->
 * [45046124](https://news.social-protocols.org/stats?id=45046124) #23 20 points 3 comments -> [Asahi Linux Lead Developer Steps Down](https://linuxiac.com/asahi-linux-lead-developer-steps-down/)<!-- HN:45046124:end -->
 #### **Thursday, August 28, 2025**
-<!-- HN:45047129:start -->
-* [45047129](https://news.social-protocols.org/stats?id=45047129) #1 -> [The National Design Studio Is a Scam](https://www.chrbutler.com/the-national-design-studio-is-a-scam)<!-- HN:45047129:end -->
