@@ -230,3 +230,8 @@
 * [44958506](https://news.ycombinator.com/item?id=44958506) #8 14 points 7 comments -> [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)<!-- HN:44958506:end --><!-- HN:44956774:start -->
 * [44956774](https://news.ycombinator.com/item?id=44956774) #14 85 points 1 comments -> [How to Scale Your Model: How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)<!-- HN:44956774:end --><!-- HN:44961584:start -->
 * [44961584](https://news.ycombinator.com/item?id=44961584) #12 -> [RFK Jr. is waging a misguided war on mRNA vaccine technology](https://www.wsj.com/opinion/rfk-jr-mrna-vaccines-hhs-covid-jay-bhattacharya-e9fa1ac3)<!-- HN:44961584:end -->
+#### **Thursday, August 21, 2025**
+<!-- HN:44968457:start -->
+* [44968457](https://news.ycombinator.com/item?id=44968457) #22 -> [At least 64 have been killed since dawn on Wednesday, including 19 aid seekers](https://www.aljazeera.com/news/liveblog/2025/8/20/live-israel-yet-to-reply-to-gaza-ceasefire-almost-19000-children-killed)<!-- HN:44968457:end --><!-- HN:44974717:start -->
+* [44974717](https://news.ycombinator.com/item?id=44974717) #16 8 points 1 comments -> [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)<!-- HN:44974717:end --><!-- HN:44977543:start -->
+* [44977543](https://news.ycombinator.com/item?id=44977543) #12 12 points 8 comments -> [In Defense of Car-Centered Society](https://sweatofthebrow.blogspot.com/2025/08/in-defense-of-car-centered-society.html)<!-- HN:44977543:end -->

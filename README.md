@@ -43,11 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, August 21, 2025**
-<!-- HN:44968457:start -->
-* [44968457](https://news.social-protocols.org/stats?id=44968457) #22 -> [At least 64 have been killed since dawn on Wednesday, including 19 aid seekers](https://www.aljazeera.com/news/liveblog/2025/8/20/live-israel-yet-to-reply-to-gaza-ceasefire-almost-19000-children-killed)<!-- HN:44968457:end --><!-- HN:44974717:start -->
-* [44974717](https://news.social-protocols.org/stats?id=44974717) #16 8 points 1 comments -> [AI SRE Needs More Than AI: It Needs Operational Context](https://rootly.com/blog/ai-sre-needs-more-than-ai-it-needs-operational-context)<!-- HN:44974717:end --><!-- HN:44977543:start -->
-* [44977543](https://news.social-protocols.org/stats?id=44977543) #12 12 points 8 comments -> [In Defense of Car-Centered Society](https://sweatofthebrow.blogspot.com/2025/08/in-defense-of-car-centered-society.html)<!-- HN:44977543:end -->
 #### **Friday, August 22, 2025**
 <!-- HN:44981383:start -->
 * [44981383](https://news.social-protocols.org/stats?id=44981383) #9 24 points 42 comments -> [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)<!-- HN:44981383:end --><!-- HN:44981572:start -->
