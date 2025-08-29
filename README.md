@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45058483:start -->
 * [45058483](https://news.social-protocols.org/stats?id=45058483) #29 11 points 8 comments -> [I researched every attempt to stop fascism in history. The success rate is 0%](https://cmarmitage.substack.com/p/i-researched-every-attempt-to-stop)<!-- HN:45058483:end --><!-- HN:45058762:start -->
 * [45058762](https://news.social-protocols.org/stats?id=45058762) #3 -> [Deep Zionism](https://scottaaronson.blog/?p=9082)<!-- HN:45058762:end --><!-- HN:45058241:start -->
-* [45058241](https://news.social-protocols.org/stats?id=45058241) #14 19 points 4 comments -> [Bad Craziness](https://www.math.columbia.edu/~woit/wordpress/?p=15191)<!-- HN:45058241:end -->
+* [45058241](https://news.social-protocols.org/stats?id=45058241) #14 19 points 4 comments -> [Bad Craziness](https://www.math.columbia.edu/~woit/wordpress/?p=15191)<!-- HN:45058241:end --><!-- HN:45058844:start -->
+* [45058844](https://news.social-protocols.org/stats?id=45058844) #8 4 points 2 comments -> [Deep Zionism](https://scottaaronson.blog/?p=9082)<!-- HN:45058844:end -->
