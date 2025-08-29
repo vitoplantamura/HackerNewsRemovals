@@ -111,8 +111,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45052980](https://news.social-protocols.org/stats?id=45052980) #27 47 points 37 comments -> [Brazil offers America a lesson in democratic maturity](https://www.economist.com/leaders/2025/08/28/brazil-offers-america-a-lesson-in-democratic-maturity)<!-- HN:45052980:end --><!-- HN:45054482:start -->
 * [45054482](https://news.social-protocols.org/stats?id=45054482) #7 15 points 3 comments -> [GPT-realtime and Realtime API updates](https://openai.com/index/introducing-gpt-realtime/)<!-- HN:45054482:end --><!-- HN:45055450:start -->
 * [45055450](https://news.social-protocols.org/stats?id=45055450) #7 32 points 1 comments -> [CDC director has been ousted just weeks after Senate confirmation](https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/)<!-- HN:45055450:end --><!-- HN:45054648:start -->
-* [45054648](https://news.social-protocols.org/stats?id=45054648) #12 19 points 1 comments -> [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)<!-- HN:45054648:end --><!-- HN:45057002:start -->
-* [45057002](https://news.social-protocols.org/stats?id=45057002) #14 17 points 40 comments -> [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)<!-- HN:45057002:end --><!-- HN:45057984:start -->
+* [45054648](https://news.social-protocols.org/stats?id=45054648) #12 19 points 1 comments -> [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)<!-- HN:45054648:end --><!-- HN:45057984:start -->
 * [45057984](https://news.social-protocols.org/stats?id=45057984) #6 5 points 0 comments -> [Deep Zionism](https://scottaaronson.blog/?p=9082)<!-- HN:45057984:end -->
 #### **Friday, August 29, 2025**
 <!-- HN:45058483:start -->
