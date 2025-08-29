@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 22, 2025**
-<!-- HN:44981383:start -->
-* [44981383](https://news.social-protocols.org/stats?id=44981383) #9 24 points 42 comments -> [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)<!-- HN:44981383:end --><!-- HN:44981572:start -->
-* [44981572](https://news.social-protocols.org/stats?id=44981572) #26 8 points 2 comments -> [Nano Banana](https://nanobanana.ai/)<!-- HN:44981572:end --><!-- HN:44982631:start -->
-* [44982631](https://news.social-protocols.org/stats?id=44982631) #16 -> [Gaza City and Surrounding Areas Are Officially Under Famine, Monitors Say](https://www.nytimes.com/2025/08/22/world/middleeast/famine-gaza-city-israel.html)<!-- HN:44982631:end --><!-- HN:44983301:start -->
-* [44983301](https://news.social-protocols.org/stats?id=44983301) #21 7 points 1 comments -> [Bloomberg DMCA'd gamersnexus GPU smuggling documentary for quoting the President [video]](https://www.youtube.com/watch?v=6RJvrTC6oTI)<!-- HN:44983301:end --><!-- HN:44984045:start -->
-* [44984045](https://news.social-protocols.org/stats?id=44984045) #21 9 points 0 comments -> [DMCA Used to Take Down GamersNexus Nvidia Smuggling Expose](https://twitter.com/GamersNexus/status/1958503184546111536)<!-- HN:44984045:end --><!-- HN:44984596:start -->
-* [44984596](https://news.social-protocols.org/stats?id=44984596) #20 5 points 2 comments -> [NIMBYs threaten to sink Project Sail, a $17B datacenter development in Georgia](https://www.theregister.com/2025/08/22/georgia_datacenter_pushback/)<!-- HN:44984596:end --><!-- HN:44985028:start -->
-* [44985028](https://news.social-protocols.org/stats?id=44985028) #21 35 points 17 comments -> [US to review all 55M visas to check if holders broke rules](https://www.bbc.com/news/articles/cvg04gm92d3o)<!-- HN:44985028:end --><!-- HN:44986087:start -->
-* [44986087](https://news.social-protocols.org/stats?id=44986087) #14 42 points 25 comments -> [My development team costs $41.73 a month](https://philipotoole.com/my-development-team-costs-41-73-a-month/)<!-- HN:44986087:end --><!-- HN:44987692:start -->
-* [44987692](https://news.social-protocols.org/stats?id=44987692) #7 36 points 14 comments -> [Essential Reading for Agentic Engineers – August 2025](https://steipete.me/posts/2025/essential-reading-august-2025)<!-- HN:44987692:end --><!-- HN:44985207:start -->
-* [44985207](https://news.social-protocols.org/stats?id=44985207) #17 116 points 106 comments -> [A Guide to Gen AI / LLM Vibecoding for Expert Programmers](https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/)<!-- HN:44985207:end -->
 #### **Saturday, August 23, 2025**<!-- HN:44993874:start -->
 * [44993874](https://news.social-protocols.org/stats?id=44993874) #16 15 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:44993874:end --><!-- HN:44994515:start -->
 * [44994515](https://news.social-protocols.org/stats?id=44994515) #7 5 points 6 comments -> [Asking three LLMs a simple question](https://sethops1.net/post/asking-three-llms-a-simple-question/)<!-- HN:44994515:end --><!-- HN:44949203:start -->
