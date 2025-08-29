@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45054648](https://news.social-protocols.org/stats?id=45054648) #12 19 points 1 comments -> [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)<!-- HN:45054648:end --><!-- HN:45057002:start -->
 * [45057002](https://news.social-protocols.org/stats?id=45057002) #14 17 points 40 comments -> [There Goes the American Muscle Car](https://thedispatch.com/article/dodge-challenger-muscle-cars/)<!-- HN:45057002:end --><!-- HN:45057984:start -->
 * [45057984](https://news.social-protocols.org/stats?id=45057984) #6 5 points 0 comments -> [Deep Zionism](https://scottaaronson.blog/?p=9082)<!-- HN:45057984:end -->
+#### **Friday, August 29, 2025**
+<!-- HN:45058483:start -->
+* [45058483](https://news.social-protocols.org/stats?id=45058483) #29 11 points 8 comments -> [I researched every attempt to stop fascism in history. The success rate is 0%](https://cmarmitage.substack.com/p/i-researched-every-attempt-to-stop)<!-- HN:45058483:end -->
