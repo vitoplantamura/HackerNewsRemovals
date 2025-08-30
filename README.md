@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 23, 2025**<!-- HN:44993874:start -->
-* [44993874](https://news.social-protocols.org/stats?id=44993874) #16 15 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:44993874:end --><!-- HN:44994515:start -->
-* [44994515](https://news.social-protocols.org/stats?id=44994515) #7 5 points 6 comments -> [Asking three LLMs a simple question](https://sethops1.net/post/asking-three-llms-a-simple-question/)<!-- HN:44994515:end --><!-- HN:44949203:start -->
-* [44949203](https://news.social-protocols.org/stats?id=44949203) #27 16 points 2 comments -> [Embedding Text Documents with Qwen3](https://www.daft.ai/blog/embedding-millions-of-text-documents-with-qwen3)<!-- HN:44949203:end --><!-- HN:44994217:start -->
-* [44994217](https://news.social-protocols.org/stats?id=44994217) #20 24 points 40 comments -> [California teens are ditching office jobs – and making $100K before they turn 21](https://www.sfgate.com/bayarea/article/young-adults-changing-career-paths-ai-20824566.php)<!-- HN:44994217:end --><!-- HN:44993761:start -->
-* [44993761](https://news.social-protocols.org/stats?id=44993761) #7 30 points 9 comments -> [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)<!-- HN:44993761:end --><!-- HN:44995168:start -->
-* [44995168](https://news.social-protocols.org/stats?id=44995168) #22 26 points 40 comments -> [Self-driving cars begin testing on NYC streets](https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/)<!-- HN:44995168:end --><!-- HN:44994835:start -->
-* [44994835](https://news.social-protocols.org/stats?id=44994835) #27 15 points 1 comments -> [Marital happiness = lovemaking rate – argument rate [pdf]](https://www.cmu.edu/dietrich/sds/docs/dawes/the-robust-beauty-of-improper-linear-models-in-decision-making.pdf)<!-- HN:44994835:end --><!-- HN:44996058:start -->
-* [44996058](https://news.social-protocols.org/stats?id=44996058) #11 39 points 32 comments -> [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)<!-- HN:44996058:end --><!-- HN:44963521:start -->
-* [44963521](https://news.social-protocols.org/stats?id=44963521) #20 17 points 0 comments -> [Disk sampling on a sphere](https://observablehq.com/@jrus/spheredisksample)<!-- HN:44963521:end -->
 #### **Sunday, August 24, 2025**
 <!-- HN:45000400:start -->
 * [45000400](https://news.social-protocols.org/stats?id=45000400) #21 11 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:45000400:end --><!-- HN:44977960:start -->
