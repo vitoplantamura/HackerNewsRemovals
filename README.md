@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45067395](https://news.social-protocols.org/stats?id=45067395) #18 -> [Hardware Flaw in Apple A16 Chip: Debug Logic Active on Production Devices](https://github.com/JGoyd/A16-FuseBypass)<!-- HN:45067395:end --><!-- HN:45069361:start -->
 * [45069361](https://news.social-protocols.org/stats?id=45069361) #29 16 points 19 comments -> [AI is ummasking ICE officers. Can Washington do anything about it?](https://www.politico.com/news/2025/08/29/ai-unmasking-ice-officers-00519478)<!-- HN:45069361:end -->
 #### **Saturday, August 30, 2025**<!-- HN:45035817:start -->
-* [45035817](https://news.social-protocols.org/stats?id=45035817) #17 8 points 1 comments -> [Anatomy of a Python Loop](https://orencodes.io/anatomy-of-a-python-loop/)<!-- HN:45035817:end -->
+* [45035817](https://news.social-protocols.org/stats?id=45035817) #17 8 points 1 comments -> [Anatomy of a Python Loop](https://orencodes.io/anatomy-of-a-python-loop/)<!-- HN:45035817:end --><!-- HN:45072170:start -->
+* [45072170](https://news.social-protocols.org/stats?id=45072170) #6 5 points 1 comments -> [Free AI Tool Removes Image Backgrounds in Seconds](https://nanobananas.site/tools/background-removal)<!-- HN:45072170:end -->
