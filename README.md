@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45066889](https://news.social-protocols.org/stats?id=45066889) #30 8 points 3 comments -> [JPMorgan Restricts Employees from Using ChatGPT](https://www.wsj.com/articles/jpmorgan-restricts-employees-from-using-chatgpt-2da5dc34)<!-- HN:45066889:end --><!-- HN:45067395:start -->
 * [45067395](https://news.social-protocols.org/stats?id=45067395) #18 -> [Hardware Flaw in Apple A16 Chip: Debug Logic Active on Production Devices](https://github.com/JGoyd/A16-FuseBypass)<!-- HN:45067395:end --><!-- HN:45069361:start -->
 * [45069361](https://news.social-protocols.org/stats?id=45069361) #29 16 points 19 comments -> [AI is ummasking ICE officers. Can Washington do anything about it?](https://www.politico.com/news/2025/08/29/ai-unmasking-ice-officers-00519478)<!-- HN:45069361:end -->
-#### **Saturday, August 30, 2025**
+#### **Saturday, August 30, 2025**<!-- HN:45035817:start -->
+* [45035817](https://news.social-protocols.org/stats?id=45035817) #17 8 points 1 comments -> [Anatomy of a Python Loop](https://orencodes.io/anatomy-of-a-python-loop/)<!-- HN:45035817:end -->
