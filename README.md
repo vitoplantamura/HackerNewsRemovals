@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45069361](https://news.social-protocols.org/stats?id=45069361) #29 16 points 19 comments -> [AI is ummasking ICE officers. Can Washington do anything about it?](https://www.politico.com/news/2025/08/29/ai-unmasking-ice-officers-00519478)<!-- HN:45069361:end -->
 #### **Saturday, August 30, 2025**<!-- HN:45035817:start -->
 * [45035817](https://news.social-protocols.org/stats?id=45035817) #17 8 points 1 comments -> [Anatomy of a Python Loop](https://orencodes.io/anatomy-of-a-python-loop/)<!-- HN:45035817:end --><!-- HN:45072170:start -->
-* [45072170](https://news.social-protocols.org/stats?id=45072170) #6 5 points 1 comments -> [Free AI Tool Removes Image Backgrounds in Seconds](https://nanobananas.site/tools/background-removal)<!-- HN:45072170:end -->
+* [45072170](https://news.social-protocols.org/stats?id=45072170) #6 5 points 1 comments -> [Free AI Tool Removes Image Backgrounds in Seconds](https://nanobananas.site/tools/background-removal)<!-- HN:45072170:end --><!-- HN:45072599:start -->
+* [45072599](https://news.social-protocols.org/stats?id=45072599) #28 7 points 1 comments -> [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)<!-- HN:45072599:end -->
