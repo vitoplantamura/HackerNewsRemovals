@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, August 24, 2025**
-<!-- HN:45000400:start -->
-* [45000400](https://news.social-protocols.org/stats?id=45000400) #21 11 points 2 comments -> [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)<!-- HN:45000400:end --><!-- HN:44977960:start -->
-* [44977960](https://news.social-protocols.org/stats?id=44977960) #6 9 points 5 comments -> [Open Source Maintenance Fee business model example from WiX Toolset](https://github.com/wixtoolset)<!-- HN:44977960:end --><!-- HN:45002403:start -->
-* [45002403](https://news.social-protocols.org/stats?id=45002403) #24 6 points 1 comments -> [Israeli army database suggests at least 83% of Gaza dead were civilians](https://www.972mag.com/israeli-intelligence-database-83-percent-civilians-militants/)<!-- HN:45002403:end --><!-- HN:45002806:start -->
-* [45002806](https://news.social-protocols.org/stats?id=45002806) #23 9 points 1 comments -> [Declaration of famine in Gaza lays bare Israel's disregard for humanitarian duty](https://www.theguardian.com/world/2025/aug/24/gaza-famine-declaration-israel-humanitarian-duty-analysis)<!-- HN:45002806:end --><!-- HN:44967396:start -->
-* [44967396](https://news.social-protocols.org/stats?id=44967396) #17 12 points 1 comments -> [Go-away – Customizable, conditional challenges to incoming requests](https://git.gammaspectra.live/git/go-away/wiki/Challenges)<!-- HN:44967396:end --><!-- HN:45003819:start -->
-* [45003819](https://news.social-protocols.org/stats?id=45003819) #7 103 points 21 comments -> [ICE Uses Celebrity Loophole to Hide Deportation Flights](https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/)<!-- HN:45003819:end --><!-- HN:45003360:start -->
-* [45003360](https://news.social-protocols.org/stats?id=45003360) #6 -> [Show HN: Clearcam – Add AI object detection to Your IP CCTV cameras in a minute](https://github.com/roryclear/clearcam)<!-- HN:45003360:end --><!-- HN:44971867:start -->
-* [44971867](https://news.social-protocols.org/stats?id=44971867) #5 35 points 11 comments -> [NASA's Juno Mission Leaves Legacy of Science at Jupiter](https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/)<!-- HN:44971867:end --><!-- HN:45006468:start -->
-* [45006468](https://news.social-protocols.org/stats?id=45006468) #15 -> [Walmart Fires VP for Taking Daily Kickbacks Starting from $30K](https://www.ctol.digital/news/walmart-fires-vp-kickbacks-terminates-1200-contractors/)<!-- HN:45006468:end --><!-- HN:45006507:start -->
-* [45006507](https://news.social-protocols.org/stats?id=45006507) #10 7 points 1 comments -> [How Does a Firewall Work Step by Step](https://kalilinuxtutorials.com/how-firewall-works-step-by-step/)<!-- HN:45006507:end --><!-- HN:45008323:start -->
-* [45008323](https://news.social-protocols.org/stats?id=45008323) #22 35 points 14 comments -> [2.5B Gmail users endangered after Google database hack](https://www.pcworld.com/article/2880822/2-5-billion-gmail-users-endangered-after-google-database-hack.html)<!-- HN:45008323:end -->
 #### **Monday, August 25, 2025**
 <!-- HN:45008406:start -->
 * [45008406](https://news.social-protocols.org/stats?id=45008406) #30 14 points 1 comments -> [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)<!-- HN:45008406:end --><!-- HN:45005954:start -->
