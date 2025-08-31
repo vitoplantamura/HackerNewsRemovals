@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45077631](https://news.social-protocols.org/stats?id=45077631) #25 23 points 31 comments -> [U.S. guided-missile cruiser crosses Panama Canal, warships deployed to Venezuela](https://www.cbsnews.com/news/us-guided-missile-cruiser-panama-canal-warships-deployed-venezuela/)<!-- HN:45077631:end -->
 #### **Sunday, August 31, 2025**
 <!-- HN:45078598:start -->
-* [45078598](https://news.social-protocols.org/stats?id=45078598) #1 70 points 52 comments -> [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)<!-- HN:45078598:end -->
+* [45078598](https://news.social-protocols.org/stats?id=45078598) #1 70 points 52 comments -> [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)<!-- HN:45078598:end --><!-- HN:45080819:start -->
+* [45080819](https://news.social-protocols.org/stats?id=45080819) #3 9 points 3 comments -> [I Don't Like "AI"](https://ian.mccowan.space/2024/07/22/ai/)<!-- HN:45080819:end -->
