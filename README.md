@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45078598:start -->
 * [45078598](https://news.social-protocols.org/stats?id=45078598) #1 70 points 52 comments -> [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)<!-- HN:45078598:end --><!-- HN:45080819:start -->
 * [45080819](https://news.social-protocols.org/stats?id=45080819) #3 9 points 3 comments -> [I Don't Like "AI"](https://ian.mccowan.space/2024/07/22/ai/)<!-- HN:45080819:end --><!-- HN:45080222:start -->
-* [45080222](https://news.social-protocols.org/stats?id=45080222) #13 10 points 7 comments -> [Show HN: Q.js – Smaller than React/Vue, yet more powerful (40KB gzipped)](https://github.com/Qbix/Q.js)<!-- HN:45080222:end -->
+* [45080222](https://news.social-protocols.org/stats?id=45080222) #13 10 points 7 comments -> [Show HN: Q.js – Smaller than React/Vue, yet more powerful (40KB gzipped)](https://github.com/Qbix/Q.js)<!-- HN:45080222:end --><!-- HN:45081703:start -->
+* [45081703](https://news.social-protocols.org/stats?id=45081703) #17 42 points 40 comments -> [Sometimes Software Is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)<!-- HN:45081703:end -->
