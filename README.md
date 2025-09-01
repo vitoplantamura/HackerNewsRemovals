@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45055065](https://news.social-protocols.org/stats?id=45055065) #16 7 points 1 comments -> [Cricket, Fandom, and the Unspoken Price of Fantasy Gaming](https://uselessmbaguy.substack.com/p/cricket-fandom-and-the-unspoken-price)<!-- HN:45055065:end -->
 #### **Monday, September 1, 2025**
 <!-- HN:45088988:start -->
-* [45088988](https://news.social-protocols.org/stats?id=45088988) #30 7 points 0 comments -> [Alarm as US far-right extremists eye drones for use in domestic attacks](https://www.theguardian.com/us-news/2025/aug/30/us-far-right-extremists-drones)<!-- HN:45088988:end -->
+* [45088988](https://news.social-protocols.org/stats?id=45088988) #30 7 points 0 comments -> [Alarm as US far-right extremists eye drones for use in domestic attacks](https://www.theguardian.com/us-news/2025/aug/30/us-far-right-extremists-drones)<!-- HN:45088988:end --><!-- HN:45088977:start -->
+* [45088977](https://news.social-protocols.org/stats?id=45088977) #3 29 points 18 comments -> [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)<!-- HN:45088977:end -->
