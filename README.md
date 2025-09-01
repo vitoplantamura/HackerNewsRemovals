@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, September 1, 2025**
 <!-- HN:45088988:start -->
 * [45088988](https://news.social-protocols.org/stats?id=45088988) #30 7 points 0 comments -> [Alarm as US far-right extremists eye drones for use in domestic attacks](https://www.theguardian.com/us-news/2025/aug/30/us-far-right-extremists-drones)<!-- HN:45088988:end --><!-- HN:45088977:start -->
-* [45088977](https://news.social-protocols.org/stats?id=45088977) #3 29 points 18 comments -> [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)<!-- HN:45088977:end -->
+* [45088977](https://news.social-protocols.org/stats?id=45088977) #3 29 points 18 comments -> [Substack just killed the creator economy](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy)<!-- HN:45088977:end --><!-- HN:45090007:start -->
+* [45090007](https://news.social-protocols.org/stats?id=45090007) #12 6 points 1 comments -> [Catholic churches in France have a bad landlord: the French government](https://thecatholicherald.com/article/catholic-churches-in-france-suffer-from-a-bad-landlord-the-french-government)<!-- HN:45090007:end -->
