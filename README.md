@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45084822](https://news.social-protocols.org/stats?id=45084822) #25 6 points 2 comments -> [Why Dishwashers Are Quietly Disappearing from American Homes](https://www.gadgetreview.com/why-dishwashers-are-quietly-disappearing-from-american-homes)<!-- HN:45084822:end --><!-- HN:45050908:start -->
 * [45050908](https://news.social-protocols.org/stats?id=45050908) #22 30 points 2 comments -> [The Case for Crazy Philanthropy](https://www.palladiummag.com/2025/08/22/the-case-for-crazy-philanthropy/)<!-- HN:45050908:end --><!-- HN:45055065:start -->
 * [45055065](https://news.social-protocols.org/stats?id=45055065) #16 7 points 1 comments -> [Cricket, Fandom, and the Unspoken Price of Fantasy Gaming](https://uselessmbaguy.substack.com/p/cricket-fandom-and-the-unspoken-price)<!-- HN:45055065:end -->
+#### **Monday, September 1, 2025**
+<!-- HN:45088988:start -->
+* [45088988](https://news.social-protocols.org/stats?id=45088988) #30 7 points 0 comments -> [Alarm as US far-right extremists eye drones for use in domestic attacks](https://www.theguardian.com/us-news/2025/aug/30/us-far-right-extremists-drones)<!-- HN:45088988:end -->
