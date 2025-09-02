@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45096359](https://news.social-protocols.org/stats?id=45096359) #18 -> [Gaza: AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)<!-- HN:45096359:end -->
 #### **Tuesday, September 2, 2025**
 <!-- HN:45098262:start -->
-* [45098262](https://news.social-protocols.org/stats?id=45098262) #29 8 points 1 comments -> [PewDiePie has a GitHub now](https://github.com/pewdiepie-archdaemon)<!-- HN:45098262:end -->
+* [45098262](https://news.social-protocols.org/stats?id=45098262) #29 8 points 1 comments -> [PewDiePie has a GitHub now](https://github.com/pewdiepie-archdaemon)<!-- HN:45098262:end --><!-- HN:45099619:start -->
+* [45099619](https://news.social-protocols.org/stats?id=45099619) #16 21 points 14 comments -> [Vibe-Coding as We Need to Eat Our Own Dog Food](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)<!-- HN:45099619:end -->
