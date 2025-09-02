@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45094156](https://news.social-protocols.org/stats?id=45094156) #15 4 points 1 comments -> [AI Couldn't Build My iPhone Podcast App](https://beard.fm/blog/ai-failed-my-podcast-app)<!-- HN:45094156:end --><!-- HN:45094785:start -->
 * [45094785](https://news.social-protocols.org/stats?id=45094785) #16 11 points 1 comments -> [Our Genocide](https://www.btselem.org/publications/202507_our_genocide)<!-- HN:45094785:end --><!-- HN:45096359:start -->
 * [45096359](https://news.social-protocols.org/stats?id=45096359) #18 -> [Gaza: AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)<!-- HN:45096359:end -->
+#### **Tuesday, September 2, 2025**
+<!-- HN:45098262:start -->
+* [45098262](https://news.social-protocols.org/stats?id=45098262) #29 8 points 1 comments -> [PewDiePie has a GitHub now](https://github.com/pewdiepie-archdaemon)<!-- HN:45098262:end -->
