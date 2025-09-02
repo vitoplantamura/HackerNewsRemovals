@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 2, 2025**
 <!-- HN:45098262:start -->
 * [45098262](https://news.social-protocols.org/stats?id=45098262) #29 8 points 1 comments -> [PewDiePie has a GitHub now](https://github.com/pewdiepie-archdaemon)<!-- HN:45098262:end --><!-- HN:45099619:start -->
-* [45099619](https://news.social-protocols.org/stats?id=45099619) #16 21 points 14 comments -> [Vibe-Coding as We Need to Eat Our Own Dog Food](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)<!-- HN:45099619:end -->
+* [45099619](https://news.social-protocols.org/stats?id=45099619) #16 21 points 14 comments -> [Vibe-Coding as We Need to Eat Our Own Dog Food](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)<!-- HN:45099619:end --><!-- HN:45100801:start -->
+* [45100801](https://news.social-protocols.org/stats?id=45100801) #2 13 points 0 comments -> [Five armed police officers arrest writer Graham Linehan in the UK for 3 tweets](https://grahamlinehan.substack.com/p/i-just-got-arrested-again)<!-- HN:45100801:end -->
