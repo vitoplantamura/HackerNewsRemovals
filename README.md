@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, August 27, 2025**
-<!-- HN:45035336:start -->
-* [45035336](https://news.social-protocols.org/stats?id=45035336) #2 14 points 1 comments -> [Hire Palestinian Tech Talent](https://apricotinternational.org/)<!-- HN:45035336:end --><!-- HN:45035741:start -->
-* [45035741](https://news.social-protocols.org/stats?id=45035741) #25 39 points 3 comments -> [We have become an authoritarian state, and our top newsrooms are in denial](https://presswatchers.org/2025/08/we-have-become-an-authoritarian-state-and-our-top-newsrooms-are-in-denial/)<!-- HN:45035741:end --><!-- HN:45038529:start -->
-* [45038529](https://news.social-protocols.org/stats?id=45038529) #20 14 points 1 comments -> [Money Can't Buy You Love: The Story Behind Elon Musk's Berghain Rejection](https://berlinguide.de/money-cant-buy-you-love-the-story-behind-elon-musks-berghain-rejection/)<!-- HN:45038529:end --><!-- HN:45039228:start -->
-* [45039228](https://news.social-protocols.org/stats?id=45039228) #12 4 points 15 comments -> [A vibe-coding tool for serious developers](https://appjet.ai)<!-- HN:45039228:end --><!-- HN:45041906:start -->
-* [45041906](https://news.social-protocols.org/stats?id=45041906) #10 10 points 8 comments -> [I built a production app in a week by managing a swarm of 20 AI agents](https://zachwills.net/i-managed-a-swarm-of-20-ai-agents-for-a-week-here-are-the-8-rules-i-learned/)<!-- HN:45041906:end --><!-- HN:45038653:start -->
-* [45038653](https://news.social-protocols.org/stats?id=45038653) #1 467 points 250 comments -> [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)<!-- HN:45038653:end --><!-- HN:45041779:start -->
-* [45041779](https://news.social-protocols.org/stats?id=45041779) #22 28 points 40 comments -> [Desktop Linux Keeps Winning the Wrong Battles](https://www.howtogeek.com/desktop-linux-keeps-winning-the-wrong-battles/)<!-- HN:45041779:end --><!-- HN:45042831:start -->
-* [45042831](https://news.social-protocols.org/stats?id=45042831) #18 5 points 2 comments -> [Show HN: Whose p*nis is that now? Probably the weirdest website I've ever made](https://whosepenis.com/pages/fun)<!-- HN:45042831:end --><!-- HN:45046124:start -->
-* [45046124](https://news.social-protocols.org/stats?id=45046124) #23 20 points 3 comments -> [Asahi Linux Lead Developer Steps Down](https://linuxiac.com/asahi-linux-lead-developer-steps-down/)<!-- HN:45046124:end -->
 #### **Thursday, August 28, 2025**<!-- HN:45049320:start -->
 * [45049320](https://news.social-protocols.org/stats?id=45049320) #3 14 points 16 comments -> [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)<!-- HN:45049320:end --><!-- HN:45007857:start -->
 * [45007857](https://news.social-protocols.org/stats?id=45007857) #30 19 points 24 comments -> [A Ritzy L.A. Enclave Learned a Bitter Lesson About the Limits of Its Wealth](https://www.nytimes.com/2025/08/24/magazine/landfill-calabasas-los-angeles-wildfire-ash.html)<!-- HN:45007857:end --><!-- HN:45051777:start -->
