@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45104330](https://news.social-protocols.org/stats?id=45104330) #20 10 points 8 comments -> [US stocks fall as bond sell-off spills into equities](https://subs.ft.com/products)<!-- HN:45104330:end --><!-- HN:45104879:start -->
 * [45104879](https://news.social-protocols.org/stats?id=45104879) #25 5 points 4 comments -> [Belgium to Recognise Palestinian State](https://www.theguardian.com/world/live/2025/sep/02/middle-east-crisis-israel-gaza-palestine-un-belgium-live-news-updates)<!-- HN:45104879:end --><!-- HN:45106903:start -->
 * [45106903](https://news.social-protocols.org/stats?id=45106903) #30 156 points 52 comments -> [ICE obtains access to Israeli-made spyware that hack phones and encrypted apps](https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware)<!-- HN:45106903:end -->
+#### **Wednesday, September 3, 2025**
+<!-- HN:45115549:start -->
+* [45115549](https://news.social-protocols.org/stats?id=45115549) #22 20 points 40 comments -> [No place in children's hands: &lt;16s in UK to be banned from buying energy drinks](https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health)<!-- HN:45115549:end -->
