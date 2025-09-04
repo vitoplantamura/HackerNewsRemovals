@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, August 28, 2025**<!-- HN:45049320:start -->
-* [45049320](https://news.social-protocols.org/stats?id=45049320) #3 14 points 16 comments -> [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)<!-- HN:45049320:end --><!-- HN:45007857:start -->
-* [45007857](https://news.social-protocols.org/stats?id=45007857) #30 19 points 24 comments -> [A Ritzy L.A. Enclave Learned a Bitter Lesson About the Limits of Its Wealth](https://www.nytimes.com/2025/08/24/magazine/landfill-calabasas-los-angeles-wildfire-ash.html)<!-- HN:45007857:end --><!-- HN:45051777:start -->
-* [45051777](https://news.social-protocols.org/stats?id=45051777) #8 17 points 9 comments -> [LLMs solving problems OCR+NLP couldn't](https://cloudsquid.substack.com/p/ocr-is-legacy-tech)<!-- HN:45051777:end --><!-- HN:45052242:start -->
-* [45052242](https://news.social-protocols.org/stats?id=45052242) #16 19 points 40 comments -> [US to put economic data on 9 blockchains](https://www.bloomberg.com/news/articles/2025-08-28/us-puts-gdp-data-on-the-blockchain-in-trump-crypto-push)<!-- HN:45052242:end --><!-- HN:45053226:start -->
-* [45053226](https://news.social-protocols.org/stats?id=45053226) #3 44 points 17 comments -> [The Stock Market Is Selling the Fed's Independence Because ZIRP Broke the World](https://www.splinter.com/the-stock-market-is-selling-its-soul-and-the-feds-independence-to-trump-because-zirp-broke-the-world)<!-- HN:45053226:end --><!-- HN:45052980:start -->
-* [45052980](https://news.social-protocols.org/stats?id=45052980) #27 47 points 37 comments -> [Brazil offers America a lesson in democratic maturity](https://www.economist.com/leaders/2025/08/28/brazil-offers-america-a-lesson-in-democratic-maturity)<!-- HN:45052980:end --><!-- HN:45054482:start -->
-* [45054482](https://news.social-protocols.org/stats?id=45054482) #7 15 points 3 comments -> [GPT-realtime and Realtime API updates](https://openai.com/index/introducing-gpt-realtime/)<!-- HN:45054482:end --><!-- HN:45055450:start -->
-* [45055450](https://news.social-protocols.org/stats?id=45055450) #7 32 points 1 comments -> [CDC director has been ousted just weeks after Senate confirmation](https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/)<!-- HN:45055450:end --><!-- HN:45054648:start -->
-* [45054648](https://news.social-protocols.org/stats?id=45054648) #12 19 points 1 comments -> [In Search of AI Psychosis](https://www.astralcodexten.com/p/in-search-of-ai-psychosis)<!-- HN:45054648:end --><!-- HN:45057984:start -->
-* [45057984](https://news.social-protocols.org/stats?id=45057984) #6 5 points 0 comments -> [Deep Zionism](https://scottaaronson.blog/?p=9082)<!-- HN:45057984:end -->
 #### **Friday, August 29, 2025**
 <!-- HN:45058483:start -->
 * [45058483](https://news.social-protocols.org/stats?id=45058483) #29 11 points 8 comments -> [I researched every attempt to stop fascism in history. The success rate is 0%](https://cmarmitage.substack.com/p/i-researched-every-attempt-to-stop)<!-- HN:45058483:end --><!-- HN:45058762:start -->
