@@ -110,5 +110,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45115549:start -->
 * [45115549](https://news.social-protocols.org/stats?id=45115549) #22 20 points 40 comments -> [No place in children's hands: &lt;16s in UK to be banned from buying energy drinks](https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health)<!-- HN:45115549:end -->
 #### **Thursday, September 4, 2025**
-<!-- HN:45121824:start -->
-* [45121824](https://news.social-protocols.org/stats?id=45121824) #2 20 points 40 comments -> [Not Paying with Cash](https://rubenerd.com/not-paying-with-cash/)<!-- HN:45121824:end -->
