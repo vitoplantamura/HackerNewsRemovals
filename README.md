@@ -99,3 +99,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45127232](https://news.social-protocols.org/stats?id=45127232) #8 76 points 32 comments -> [Browser Company (makers of Arc browser) Acquired By Atlassian for $610M](https://browsercompany.substack.com/p/your-tuesday-in-2030)<!-- HN:45127232:end --><!-- HN:45126500:start -->
 * [45126500](https://news.social-protocols.org/stats?id=45126500) #13 64 points 18 comments -> [The company behind the Dia and Arc browsers is being acquired](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian)<!-- HN:45126500:end --><!-- HN:45132729:start -->
 * [45132729](https://news.social-protocols.org/stats?id=45132729) #13 28 points 9 comments -> [They blew up a boat far offshore, killed eleven people, and called it justice](https://mitchthelawyer.substack.com/p/they-blew-up-a-boat-far-offshore)<!-- HN:45132729:end -->
+#### **Friday, September 5, 2025**
+<!-- HN:45094324:start -->
+* [45094324](https://news.social-protocols.org/stats?id=45094324) #5 46 points 1 comments -> [The Unix Conspiracy](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)<!-- HN:45094324:end -->
