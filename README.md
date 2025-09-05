@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45132729](https://news.social-protocols.org/stats?id=45132729) #13 28 points 9 comments -> [They blew up a boat far offshore, killed eleven people, and called it justice](https://mitchthelawyer.substack.com/p/they-blew-up-a-boat-far-offshore)<!-- HN:45132729:end -->
 #### **Friday, September 5, 2025**
 <!-- HN:45094324:start -->
-* [45094324](https://news.social-protocols.org/stats?id=45094324) #5 46 points 1 comments -> [The Unix Conspiracy](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)<!-- HN:45094324:end -->
+* [45094324](https://news.social-protocols.org/stats?id=45094324) #5 46 points 1 comments -> [The Unix Conspiracy](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)<!-- HN:45094324:end --><!-- HN:45134212:start -->
+* [45134212](https://news.social-protocols.org/stats?id=45134212) #3 44 points 10 comments -> [MIT says AI isn't replacing you it's just wasting your boss's money](https://www.interviewquery.com/p/mit-ai-isnt-replacing-workers-just-wasting-money)<!-- HN:45134212:end -->
