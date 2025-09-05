@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 5, 2025**
 <!-- HN:45094324:start -->
 * [45094324](https://news.social-protocols.org/stats?id=45094324) #5 46 points 1 comments -> [The Unix Conspiracy](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)<!-- HN:45094324:end --><!-- HN:45134212:start -->
-* [45134212](https://news.social-protocols.org/stats?id=45134212) #3 44 points 10 comments -> [MIT says AI isn't replacing you it's just wasting your boss's money](https://www.interviewquery.com/p/mit-ai-isnt-replacing-workers-just-wasting-money)<!-- HN:45134212:end -->
+* [45134212](https://news.social-protocols.org/stats?id=45134212) #3 44 points 10 comments -> [MIT says AI isn't replacing you it's just wasting your boss's money](https://www.interviewquery.com/p/mit-ai-isnt-replacing-workers-just-wasting-money)<!-- HN:45134212:end --><!-- HN:45134438:start -->
+* [45134438](https://news.social-protocols.org/stats?id=45134438) #11 6 points 0 comments -> [simonw has vibe-coded 124 useful tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/)<!-- HN:45134438:end -->
