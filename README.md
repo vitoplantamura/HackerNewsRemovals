@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, September 6, 2025**
 <!-- HN:45102536:start -->
 * [45102536](https://news.social-protocols.org/stats?id=45102536) #22 16 points 0 comments -> [Everything About Bitflags: How to store up to 32 booleans in one value?](https://neg4n.dev/blog/everything-about-bitflags)<!-- HN:45102536:end --><!-- HN:45149330:start -->
-* [45149330](https://news.social-protocols.org/stats?id=45149330) #12 14 points 10 comments -> [Vibe Coding Through the Berghain Challenge](https://www.nibzard.com/berghain/)<!-- HN:45149330:end -->
+* [45149330](https://news.social-protocols.org/stats?id=45149330) #12 14 points 10 comments -> [Vibe Coding Through the Berghain Challenge](https://www.nibzard.com/berghain/)<!-- HN:45149330:end --><!-- HN:45150749:start -->
+* [45150749](https://news.social-protocols.org/stats?id=45150749) #18 4 points 0 comments -> [Stock buybacks are stock swindles](https://pluralistic.net/2025/09/06/computer-says-huh/#invisible-handcuffs)<!-- HN:45150749:end -->
