@@ -100,3 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45140991](https://news.social-protocols.org/stats?id=45140991) #8 6 points 0 comments -> [USA Cycling bans transgender athletes from female categories beginning Sep. 15](https://www.cyclingweekly.com/news/usa-cycling-bans-transgender-athletes-from-female-categories-beginning-september-15-2025)<!-- HN:45140991:end --><!-- HN:45108026:start -->
 * [45108026](https://news.social-protocols.org/stats?id=45108026) #29 8 points 0 comments -> [How to Spot (and Fix) 5 Common Performance Bottlenecks in Pandas Workflows](https://developer.nvidia.com/blog/how-to-spot-and-fix-5-common-performance-bottlenecks-in-pandas-workflows/)<!-- HN:45108026:end --><!-- HN:45143481:start -->
 * [45143481](https://news.social-protocols.org/stats?id=45143481) #12 12 points 3 comments -> [Boys vs. Women: Male High School Athletes vs. Female Olympians](https://boysvswomen.com/?2016)<!-- HN:45143481:end -->
+#### **Saturday, September 6, 2025**
+<!-- HN:45102536:start -->
+* [45102536](https://news.social-protocols.org/stats?id=45102536) #22 16 points 0 comments -> [Everything About Bitflags: How to store up to 32 booleans in one value?](https://neg4n.dev/blog/everything-about-bitflags)<!-- HN:45102536:end -->
