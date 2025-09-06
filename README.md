@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 30, 2025**<!-- HN:45035817:start -->
-* [45035817](https://news.social-protocols.org/stats?id=45035817) #17 8 points 1 comments -> [Anatomy of a Python Loop](https://orencodes.io/anatomy-of-a-python-loop/)<!-- HN:45035817:end --><!-- HN:45072170:start -->
-* [45072170](https://news.social-protocols.org/stats?id=45072170) #6 5 points 1 comments -> [Free AI Tool Removes Image Backgrounds in Seconds](https://nanobananas.site/tools/background-removal)<!-- HN:45072170:end --><!-- HN:45072599:start -->
-* [45072599](https://news.social-protocols.org/stats?id=45072599) #28 7 points 1 comments -> [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)<!-- HN:45072599:end --><!-- HN:45024406:start -->
-* [45024406](https://news.social-protocols.org/stats?id=45024406) #9 13 points 0 comments -> [Who Gives a Sheaf?](https://www.youtube.com/playlist?list=PLnNqTHlK5sGJrRvH0YBxE4Oe1M9EoSTPQ)<!-- HN:45024406:end --><!-- HN:45071847:start -->
-* [45071847](https://news.social-protocols.org/stats?id=45071847) #22 22 points 9 comments -> [I sat down with Werner Vogels, the CTO of Amazon](https://everton.xyz/i-sat-down-with-werner-vogels/)<!-- HN:45071847:end --><!-- HN:45074840:start -->
-* [45074840](https://news.social-protocols.org/stats?id=45074840) #15 16 points 1 comments -> [Americans Are Having Less Sex](https://www.wsj.com/lifestyle/relationships/americans-are-having-less-sex-than-ever-785973ce)<!-- HN:45074840:end --><!-- HN:45075666:start -->
-* [45075666](https://news.social-protocols.org/stats?id=45075666) #11 4 points 3 comments -> [AWS has finally made SQS a viable queuing solution](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/)<!-- HN:45075666:end --><!-- HN:45075796:start -->
-* [45075796](https://news.social-protocols.org/stats?id=45075796) #14 11 points 3 comments -> [Reuters stopped sharing Gaza locations after IDF strikes killed many journalists](https://www.nbcnews.com/world/gaza/news-group-stopped-sharing-gaza-locations-israel-many-journalists-kill-rcna227687)<!-- HN:45075796:end --><!-- HN:45075571:start -->
-* [45075571](https://news.social-protocols.org/stats?id=45075571) #15 18 points 20 comments -> [The V Programming Language](https://vlang.io/)<!-- HN:45075571:end --><!-- HN:45077631:start -->
-* [45077631](https://news.social-protocols.org/stats?id=45077631) #25 23 points 31 comments -> [U.S. guided-missile cruiser crosses Panama Canal, warships deployed to Venezuela](https://www.cbsnews.com/news/us-guided-missile-cruiser-panama-canal-warships-deployed-venezuela/)<!-- HN:45077631:end -->
 #### **Sunday, August 31, 2025**
 <!-- HN:45078598:start -->
 * [45078598](https://news.social-protocols.org/stats?id=45078598) #1 70 points 52 comments -> [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)<!-- HN:45078598:end --><!-- HN:45080819:start -->
