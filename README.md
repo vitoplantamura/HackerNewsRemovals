@@ -98,3 +98,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45151573](https://news.social-protocols.org/stats?id=45151573) #7 7 points 0 comments -> [Study: Hashtags and humour are used to spread extreme content on social media](https://news.ku.dk/all_news/2025/09/hashtags-and-humour-are-used-to-spread-extreme-content-on-social-media/)<!-- HN:45151573:end --><!-- HN:45151539:start -->
 * [45151539](https://news.social-protocols.org/stats?id=45151539) #17 10 points 1 comments -> [Microsoft BASIC, now open source](https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html)<!-- HN:45151539:end --><!-- HN:45151686:start -->
 * [45151686](https://news.social-protocols.org/stats?id=45151686) #18 11 points 0 comments -> [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)<!-- HN:45151686:end -->
+#### **Sunday, September 7, 2025**
+<!-- HN:45154176:start -->
+* [45154176](https://news.social-protocols.org/stats?id=45154176) #3 111 points 1 comments -> [mitchivin.com](https://mitchivin.com/)<!-- HN:45154176:end -->
