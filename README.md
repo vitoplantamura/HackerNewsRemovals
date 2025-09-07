@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, September 7, 2025**
 <!-- HN:45154176:start -->
 * [45154176](https://news.social-protocols.org/stats?id=45154176) #3 111 points 1 comments -> [mitchivin.com](https://mitchivin.com/)<!-- HN:45154176:end --><!-- HN:45117718:start -->
-* [45117718](https://news.social-protocols.org/stats?id=45117718) #11 35 points 2 comments -> [Reveal – Read Eval Visualize Loop for Clojure](https://vlaaad.github.io/reveal/)<!-- HN:45117718:end -->
+* [45117718](https://news.social-protocols.org/stats?id=45117718) #11 35 points 2 comments -> [Reveal – Read Eval Visualize Loop for Clojure](https://vlaaad.github.io/reveal/)<!-- HN:45117718:end --><!-- HN:45156660:start -->
+* [45156660](https://news.social-protocols.org/stats?id=45156660) #8 13 points 4 comments -> [Nominees: The fastest legal way to lose your company](https://johnnydoe.is/threads/nominees-the-fastest-legal-way-to-lose-your-company.42278/)<!-- HN:45156660:end -->
