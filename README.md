@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, August 31, 2025**
-<!-- HN:45078598:start -->
-* [45078598](https://news.social-protocols.org/stats?id=45078598) #1 70 points 52 comments -> [New Huawei 96GB GPU](https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo)<!-- HN:45078598:end --><!-- HN:45080819:start -->
-* [45080819](https://news.social-protocols.org/stats?id=45080819) #3 9 points 3 comments -> [I Don't Like "AI"](https://ian.mccowan.space/2024/07/22/ai/)<!-- HN:45080819:end --><!-- HN:45080222:start -->
-* [45080222](https://news.social-protocols.org/stats?id=45080222) #13 10 points 7 comments -> [Show HN: Q.js – Smaller than React/Vue, yet more powerful (40KB gzipped)](https://github.com/Qbix/Q.js)<!-- HN:45080222:end --><!-- HN:45081561:start -->
-* [45081561](https://news.social-protocols.org/stats?id=45081561) #16 5 points 0 comments -> [Show HN: Banana AI – Completely free Nano Banana image editing](https://banana-ai.org/)<!-- HN:45081561:end --><!-- HN:45083023:start -->
-* [45083023](https://news.social-protocols.org/stats?id=45083023) #14 5 points 2 comments -> [Great Barrier Reef Is Still Doing Fine Despite 'Cataclysmic' Bleaching Events](https://co2coalition.org/2025/08/08/the-great-barrier-reef-is-still-doing-fine-despite-cataclysmic-bleaching-events/)<!-- HN:45083023:end --><!-- HN:45051523:start -->
-* [45051523](https://news.social-protocols.org/stats?id=45051523) #22 3 points 0 comments -> [ECG Interpretation Tools Compared – Why PMcardio Stands Out](https://www.powerfulmedical.com/blog/ecg-interpretation-tools-compared-why-pmcardio-stands-out/)<!-- HN:45051523:end --><!-- HN:45084822:start -->
-* [45084822](https://news.social-protocols.org/stats?id=45084822) #25 6 points 2 comments -> [Why Dishwashers Are Quietly Disappearing from American Homes](https://www.gadgetreview.com/why-dishwashers-are-quietly-disappearing-from-american-homes)<!-- HN:45084822:end --><!-- HN:45050908:start -->
-* [45050908](https://news.social-protocols.org/stats?id=45050908) #22 30 points 2 comments -> [The Case for Crazy Philanthropy](https://www.palladiummag.com/2025/08/22/the-case-for-crazy-philanthropy/)<!-- HN:45050908:end --><!-- HN:45055065:start -->
-* [45055065](https://news.social-protocols.org/stats?id=45055065) #16 7 points 1 comments -> [Cricket, Fandom, and the Unspoken Price of Fantasy Gaming](https://uselessmbaguy.substack.com/p/cricket-fandom-and-the-unspoken-price)<!-- HN:45055065:end -->
 #### **Monday, September 1, 2025**
 <!-- HN:45088988:start -->
 * [45088988](https://news.social-protocols.org/stats?id=45088988) #30 7 points 0 comments -> [Alarm as US far-right extremists eye drones for use in domestic attacks](https://www.theguardian.com/us-news/2025/aug/30/us-far-right-extremists-drones)<!-- HN:45088988:end --><!-- HN:45088977:start -->
