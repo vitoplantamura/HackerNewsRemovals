@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45151686](https://news.social-protocols.org/stats?id=45151686) #18 11 points 0 comments -> [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)<!-- HN:45151686:end -->
 #### **Sunday, September 7, 2025**
 <!-- HN:45154176:start -->
-* [45154176](https://news.social-protocols.org/stats?id=45154176) #3 111 points 1 comments -> [mitchivin.com](https://mitchivin.com/)<!-- HN:45154176:end -->
+* [45154176](https://news.social-protocols.org/stats?id=45154176) #3 111 points 1 comments -> [mitchivin.com](https://mitchivin.com/)<!-- HN:45154176:end --><!-- HN:45117718:start -->
+* [45117718](https://news.social-protocols.org/stats?id=45117718) #11 35 points 2 comments -> [Reveal – Read Eval Visualize Loop for Clojure](https://vlaaad.github.io/reveal/)<!-- HN:45117718:end -->
