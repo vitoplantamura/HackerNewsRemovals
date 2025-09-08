@@ -97,5 +97,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45162110](https://news.social-protocols.org/stats?id=45162110) #14 20 points 10 comments -> [Print GitHub Repositories as Books](https://gitprint.me/)<!-- HN:45162110:end -->
 #### **Monday, September 8, 2025**<!-- HN:45164026:start -->
 * [45164026](https://news.social-protocols.org/stats?id=45164026) #6 8 points 3 comments -> [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)<!-- HN:45164026:end --><!-- HN:45164104:start -->
-* [45164104](https://news.social-protocols.org/stats?id=45164104) #18 37 points 20 comments -> [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)<!-- HN:45164104:end --><!-- HN:45164444:start -->
-* [45164444](https://news.social-protocols.org/stats?id=45164444) #20 43 points 41 comments -> ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)<!-- HN:45164444:end -->
+* [45164104](https://news.social-protocols.org/stats?id=45164104) #18 37 points 20 comments -> [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)<!-- HN:45164104:end -->
