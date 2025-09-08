@@ -95,3 +95,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45160947](https://news.social-protocols.org/stats?id=45160947) #17 31 points 10 comments -> [Apple's A17 Pro Chip Ships with Hardware Flaw](https://github.com/JGoyd/Apple-Silicon-A17-Flaw)<!-- HN:45160947:end --><!-- HN:45161097:start -->
 * [45161097](https://news.social-protocols.org/stats?id=45161097) #10 5 points 6 comments -> [Show HN: The World After 3, 5, 10, 25, 50, and 100 Years Ft. AI](https://www.mandar.cloud/blog.html)<!-- HN:45161097:end --><!-- HN:45162110:start -->
 * [45162110](https://news.social-protocols.org/stats?id=45162110) #14 20 points 10 comments -> [Print GitHub Repositories as Books](https://gitprint.me/)<!-- HN:45162110:end -->
+#### **Monday, September 8, 2025**
+<!-- HN:45163043:start -->
+* [45163043](https://news.social-protocols.org/stats?id=45163043) #9 41 points 40 comments -> [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)<!-- HN:45163043:end -->
