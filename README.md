@@ -96,4 +96,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45161097](https://news.social-protocols.org/stats?id=45161097) #10 5 points 6 comments -> [Show HN: The World After 3, 5, 10, 25, 50, and 100 Years Ft. AI](https://www.mandar.cloud/blog.html)<!-- HN:45161097:end --><!-- HN:45162110:start -->
 * [45162110](https://news.social-protocols.org/stats?id=45162110) #14 20 points 10 comments -> [Print GitHub Repositories as Books](https://gitprint.me/)<!-- HN:45162110:end -->
 #### **Monday, September 8, 2025**<!-- HN:45164026:start -->
-* [45164026](https://news.social-protocols.org/stats?id=45164026) #6 8 points 3 comments -> [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)<!-- HN:45164026:end -->
+* [45164026](https://news.social-protocols.org/stats?id=45164026) #6 8 points 3 comments -> [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)<!-- HN:45164026:end --><!-- HN:45164104:start -->
+* [45164104](https://news.social-protocols.org/stats?id=45164104) #18 37 points 20 comments -> [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)<!-- HN:45164104:end -->
