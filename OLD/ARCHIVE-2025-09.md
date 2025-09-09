@@ -12,3 +12,13 @@
 * [45094156](https://news.ycombinator.com/item?id=45094156) #15 4 points 1 comments -> [AI Couldn't Build My iPhone Podcast App](https://beard.fm/blog/ai-failed-my-podcast-app)<!-- HN:45094156:end --><!-- HN:45094785:start -->
 * [45094785](https://news.ycombinator.com/item?id=45094785) #16 11 points 1 comments -> [Our Genocide](https://www.btselem.org/publications/202507_our_genocide)<!-- HN:45094785:end --><!-- HN:45096359:start -->
 * [45096359](https://news.ycombinator.com/item?id=45096359) #18 -> [Gaza: AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)<!-- HN:45096359:end -->
+#### **Tuesday, September 2, 2025**
+<!-- HN:45098262:start -->
+* [45098262](https://news.ycombinator.com/item?id=45098262) #29 8 points 1 comments -> [PewDiePie has a GitHub now](https://github.com/pewdiepie-archdaemon)<!-- HN:45098262:end --><!-- HN:45099619:start -->
+* [45099619](https://news.ycombinator.com/item?id=45099619) #16 21 points 14 comments -> [Vibe-Coding as We Need to Eat Our Own Dog Food](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)<!-- HN:45099619:end --><!-- HN:45100801:start -->
+* [45100801](https://news.ycombinator.com/item?id=45100801) #2 13 points 0 comments -> [Five armed police officers arrest writer Graham Linehan in the UK for 3 tweets](https://grahamlinehan.substack.com/p/i-just-got-arrested-again)<!-- HN:45100801:end --><!-- HN:45100163:start -->
+* [45100163](https://news.ycombinator.com/item?id=45100163) #9 32 points 40 comments -> [A motto for programmers: "Tuere usorem, data, veritatem"](https://koas.dev/a-motto-for-programming/)<!-- HN:45100163:end --><!-- HN:45067251:start -->
+* [45067251](https://news.ycombinator.com/item?id=45067251) #29 48 points 32 comments -> [Memory is slow, Disk is fast – Part 1](https://www.bitflux.ai/blog/memory-is-slow-part1/)<!-- HN:45067251:end --><!-- HN:45104330:start -->
+* [45104330](https://news.ycombinator.com/item?id=45104330) #20 10 points 8 comments -> [US stocks fall as bond sell-off spills into equities](https://subs.ft.com/products)<!-- HN:45104330:end --><!-- HN:45104879:start -->
+* [45104879](https://news.ycombinator.com/item?id=45104879) #25 5 points 4 comments -> [Belgium to Recognise Palestinian State](https://www.theguardian.com/world/live/2025/sep/02/middle-east-crisis-israel-gaza-palestine-un-belgium-live-news-updates)<!-- HN:45104879:end --><!-- HN:45106903:start -->
+* [45106903](https://news.ycombinator.com/item?id=45106903) #30 156 points 52 comments -> [ICE obtains access to Israeli-made spyware that hack phones and encrypted apps](https://www.theguardian.com/us-news/2025/sep/02/trump-immigration-ice-israeli-spyware)<!-- HN:45106903:end -->
