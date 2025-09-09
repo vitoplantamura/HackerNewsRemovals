@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45174397](https://news.social-protocols.org/stats?id=45174397) #7 39 points 10 comments -> [US Holocaust museum removes anti-genocide post after being corelatted with Gaza](https://hyperallergic.com/1040088/los-angeles-holocaust-museum-walks-back-never-again-statement-sparking-outcry/)<!-- HN:45174397:end -->
 #### **Tuesday, September 9, 2025**
 <!-- HN:45173933:start -->
-* [45173933](https://news.social-protocols.org/stats?id=45173933) #21 63 points 14 comments -> [World Nuclear Association Welcomes Microsoft Corporation as Newest Member](https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member)<!-- HN:45173933:end -->
+* [45173933](https://news.social-protocols.org/stats?id=45173933) #21 63 points 14 comments -> [World Nuclear Association Welcomes Microsoft Corporation as Newest Member](https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member)<!-- HN:45173933:end --><!-- HN:45177043:start -->
+* [45177043](https://news.social-protocols.org/stats?id=45177043) #12 8 points 2 comments -> [Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)<!-- HN:45177043:end -->
