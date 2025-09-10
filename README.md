@@ -106,3 +106,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45186723](https://news.social-protocols.org/stats?id=45186723) #16 5 points 0 comments -> [Devs Cancel Claude Code En Masse – But Why?](https://www.aiengineering.report/p/devs-cancel-claude-code-en-masse)<!-- HN:45186723:end --><!-- HN:45187765:start -->
 * [45187765](https://news.social-protocols.org/stats?id=45187765) #7 15 points 0 comments -> [AI Darwin Awards 2025](https://aidarwinawards.org/index.html)<!-- HN:45187765:end --><!-- HN:45189700:start -->
 * [45189700](https://news.social-protocols.org/stats?id=45189700) #22 7 points 1 comments -> [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)<!-- HN:45189700:end -->
+#### **Wednesday, September 10, 2025**
+<!-- HN:45160727:start -->
+* [45160727](https://news.social-protocols.org/stats?id=45160727) #10 20 points 40 comments -> [She puts the Lord in 'vanlord.' Palo Alto wants to ban her business](https://sanjosespotlight.com/she-puts-the-lord-in-vanlord-palo-alto-wants-to-ban-her-business/)<!-- HN:45160727:end -->
