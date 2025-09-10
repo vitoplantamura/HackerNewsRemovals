@@ -43,9 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, September 3, 2025**
-<!-- HN:45115549:start -->
-* [45115549](https://news.social-protocols.org/stats?id=45115549) #22 20 points 40 comments -> [No place in children's hands: &lt;16s in UK to be banned from buying energy drinks](https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health)<!-- HN:45115549:end -->
 #### **Thursday, September 4, 2025**<!-- HN:45126567:start -->
 * [45126567](https://news.social-protocols.org/stats?id=45126567) #8 -> [Google's $45M contract to spread Netanyahu's propaganda](https://jackpoulson.substack.com/p/googles-45-million-contract-with)<!-- HN:45126567:end --><!-- HN:45127636:start -->
 * [45127636](https://news.social-protocols.org/stats?id=45127636) #20 140 points 62 comments -> [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)<!-- HN:45127636:end --><!-- HN:45127232:start -->
