@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45189700](https://news.social-protocols.org/stats?id=45189700) #22 7 points 1 comments -> [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)<!-- HN:45189700:end -->
 #### **Wednesday, September 10, 2025**
 <!-- HN:45160727:start -->
-* [45160727](https://news.social-protocols.org/stats?id=45160727) #10 20 points 40 comments -> [She puts the Lord in 'vanlord.' Palo Alto wants to ban her business](https://sanjosespotlight.com/she-puts-the-lord-in-vanlord-palo-alto-wants-to-ban-her-business/)<!-- HN:45160727:end -->
+* [45160727](https://news.social-protocols.org/stats?id=45160727) #10 20 points 40 comments -> [She puts the Lord in 'vanlord.' Palo Alto wants to ban her business](https://sanjosespotlight.com/she-puts-the-lord-in-vanlord-palo-alto-wants-to-ban-her-business/)<!-- HN:45160727:end --><!-- HN:45194973:start -->
+* [45194973](https://news.social-protocols.org/stats?id=45194973) #25 4 points 0 comments -> [The Gaza family torn apart by IDF snipers from Chicago and Munich](https://www.theguardian.com/world/2025/sep/09/the-gaza-family-torn-apart-by-idf-snipers-from-chicago-and-munich)<!-- HN:45194973:end -->
