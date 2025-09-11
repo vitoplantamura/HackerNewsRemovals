@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45202537](https://news.social-protocols.org/stats?id=45202537) #10 5 points 1 comments -> [X Open Sourced Algorithm Code, So I analyzed it to learn how to grow on X](https://supabird.io/articles/how-to-grow-on-x-what-we-learned-from-their-algorithm-reveal)<!-- HN:45202537:end -->
 #### **Thursday, September 11, 2025**<!-- HN:45209487:start -->
 * [45209487](https://news.social-protocols.org/stats?id=45209487) #17 13 points 10 comments -> [How Does the Cycle of Political Violence End? Here's What an Expert Says](https://www.politico.com/news/magazine/2025/06/02/political-violence-boulder-attack-00381778)<!-- HN:45209487:end --><!-- HN:45213448:start -->
-* [45213448](https://news.social-protocols.org/stats?id=45213448) #16 12 points 1 comments -> [The Reichstag Fire](https://en.wikipedia.org/wiki/Reichstag_fire)<!-- HN:45213448:end -->
+* [45213448](https://news.social-protocols.org/stats?id=45213448) #16 12 points 1 comments -> [The Reichstag Fire](https://en.wikipedia.org/wiki/Reichstag_fire)<!-- HN:45213448:end --><!-- HN:45215143:start -->
+* [45215143](https://news.social-protocols.org/stats?id=45215143) #16 8 points 0 comments -> [Gaza: The AI Human Laboratory](https://www.thecairoreview.com/essays/gaza-israels-ai-human-laboratory/)<!-- HN:45215143:end -->
