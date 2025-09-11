@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 11, 2025**<!-- HN:45209487:start -->
 * [45209487](https://news.social-protocols.org/stats?id=45209487) #17 13 points 10 comments -> [How Does the Cycle of Political Violence End? Here's What an Expert Says](https://www.politico.com/news/magazine/2025/06/02/political-violence-boulder-attack-00381778)<!-- HN:45209487:end --><!-- HN:45211527:start -->
 * [45211527](https://news.social-protocols.org/stats?id=45211527) #25 27 points 40 comments -> [Teens are adjusting to the smartphone ban](https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban)<!-- HN:45211527:end --><!-- HN:45167601:start -->
-* [45167601](https://news.social-protocols.org/stats?id=45167601) #10 29 points 40 comments -> [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)<!-- HN:45167601:end -->
+* [45167601](https://news.social-protocols.org/stats?id=45167601) #10 29 points 40 comments -> [The Rise and Demise of RSS](https://twobithistory.org/2018/12/18/rss.html)<!-- HN:45167601:end --><!-- HN:45213448:start -->
+* [45213448](https://news.social-protocols.org/stats?id=45213448) #16 12 points 1 comments -> [The Reichstag Fire](https://en.wikipedia.org/wiki/Reichstag_fire)<!-- HN:45213448:end -->
