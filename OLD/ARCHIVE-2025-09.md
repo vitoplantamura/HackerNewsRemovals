@@ -25,3 +25,9 @@
 #### **Wednesday, September 3, 2025**
 <!-- HN:45115549:start -->
 * [45115549](https://news.ycombinator.com/item?id=45115549) #22 20 points 40 comments -> [No place in children's hands: &lt;16s in UK to be banned from buying energy drinks](https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health)<!-- HN:45115549:end -->
+#### **Thursday, September 4, 2025**<!-- HN:45126567:start -->
+* [45126567](https://news.ycombinator.com/item?id=45126567) #8 -> [Google's $45M contract to spread Netanyahu's propaganda](https://jackpoulson.substack.com/p/googles-45-million-contract-with)<!-- HN:45126567:end --><!-- HN:45127636:start -->
+* [45127636](https://news.ycombinator.com/item?id=45127636) #20 140 points 62 comments -> [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)<!-- HN:45127636:end --><!-- HN:45127232:start -->
+* [45127232](https://news.ycombinator.com/item?id=45127232) #8 76 points 32 comments -> [Browser Company (makers of Arc browser) Acquired By Atlassian for $610M](https://browsercompany.substack.com/p/your-tuesday-in-2030)<!-- HN:45127232:end --><!-- HN:45126500:start -->
+* [45126500](https://news.ycombinator.com/item?id=45126500) #13 64 points 18 comments -> [The company behind the Dia and Arc browsers is being acquired](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian)<!-- HN:45126500:end --><!-- HN:45132729:start -->
+* [45132729](https://news.ycombinator.com/item?id=45132729) #13 28 points 9 comments -> [They blew up a boat far offshore, killed eleven people, and called it justice](https://mitchthelawyer.substack.com/p/they-blew-up-a-boat-far-offshore)<!-- HN:45132729:end -->
