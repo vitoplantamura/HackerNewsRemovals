@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45215534](https://news.social-protocols.org/stats?id=45215534) #27 19 points 8 comments -> [C# Will Become F# – Gautier Talks About Microsoft Technology](https://gautiertalksmicrosoft.wordpress.com/2025/04/13/c-will-become-f/)<!-- HN:45215534:end -->
 #### **Friday, September 12, 2025**
 <!-- HN:45219909:start -->
-* [45219909](https://news.social-protocols.org/stats?id=45219909) #5 9 points 6 comments -> [Decompiling the GPL violated Linux kernel using Evolutionary Algorithms](https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/)<!-- HN:45219909:end -->
+* [45219909](https://news.social-protocols.org/stats?id=45219909) #5 9 points 6 comments -> [Decompiling the GPL violated Linux kernel using Evolutionary Algorithms](https://far.chickenkiller.com/computing/decompiling-the-kernel-using-ea/)<!-- HN:45219909:end --><!-- HN:45221006:start -->
+* [45221006](https://news.social-protocols.org/stats?id=45221006) #28 9 points 2 comments -> [Netherlands will boycott Eurovision 2026 if Israel participates](https://nltimes.nl/2025/09/12/netherlands-will-boycott-2026-eurovision-israel-participates-says-broadcaster)<!-- HN:45221006:end -->
