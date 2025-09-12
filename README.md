@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, September 5, 2025**
-<!-- HN:45094324:start -->
-* [45094324](https://news.social-protocols.org/stats?id=45094324) #5 46 points 1 comments -> [The Unix Conspiracy](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)<!-- HN:45094324:end --><!-- HN:45134212:start -->
-* [45134212](https://news.social-protocols.org/stats?id=45134212) #3 44 points 10 comments -> [MIT says AI isn't replacing you it's just wasting your boss's money](https://www.interviewquery.com/p/mit-ai-isnt-replacing-workers-just-wasting-money)<!-- HN:45134212:end --><!-- HN:45134438:start -->
-* [45134438](https://news.social-protocols.org/stats?id=45134438) #11 6 points 0 comments -> [simonw has vibe-coded 124 useful tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/)<!-- HN:45134438:end --><!-- HN:45134771:start -->
-* [45134771](https://news.social-protocols.org/stats?id=45134771) #11 10 points 11 comments -> [Expanding Economic Opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai/)<!-- HN:45134771:end --><!-- HN:45092621:start -->
-* [45092621](https://news.social-protocols.org/stats?id=45092621) #8 25 points 5 comments -> [Show HN: First Half of "Swimming in Tech Debt" (book about tech debt)](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)<!-- HN:45092621:end --><!-- HN:45135895:start -->
-* [45135895](https://news.social-protocols.org/stats?id=45135895) #10 5 points 0 comments -> [To what extent is the war in Gaza justified?](https://mathsandsoundingoff.wordpress.com/2025/06/23/to-what-extent-is-the-war-in-gaza-justified/)<!-- HN:45135895:end --><!-- HN:45139122:start -->
-* [45139122](https://news.social-protocols.org/stats?id=45139122) #4 10 points 8 comments -> [Why Browser Company at $610M is cheap](https://bigtechpr.substack.com/p/why-browser-co-610m-is-cheap)<!-- HN:45139122:end --><!-- HN:45095591:start -->
-* [45095591](https://news.social-protocols.org/stats?id=45095591) #29 26 points 7 comments -> [The Diffusion Dilemma](https://arenamag.com/articles/the-diffusion-dilemma)<!-- HN:45095591:end --><!-- HN:45140991:start -->
-* [45140991](https://news.social-protocols.org/stats?id=45140991) #8 6 points 0 comments -> [USA Cycling bans transgender athletes from female categories beginning Sep. 15](https://www.cyclingweekly.com/news/usa-cycling-bans-transgender-athletes-from-female-categories-beginning-september-15-2025)<!-- HN:45140991:end --><!-- HN:45108026:start -->
-* [45108026](https://news.social-protocols.org/stats?id=45108026) #29 8 points 0 comments -> [How to Spot (and Fix) 5 Common Performance Bottlenecks in Pandas Workflows](https://developer.nvidia.com/blog/how-to-spot-and-fix-5-common-performance-bottlenecks-in-pandas-workflows/)<!-- HN:45108026:end --><!-- HN:45143481:start -->
-* [45143481](https://news.social-protocols.org/stats?id=45143481) #12 12 points 3 comments -> [Boys vs. Women: Male High School Athletes vs. Female Olympians](https://boysvswomen.com/?2016)<!-- HN:45143481:end -->
 #### **Saturday, September 6, 2025**
 <!-- HN:45102536:start -->
 * [45102536](https://news.social-protocols.org/stats?id=45102536) #22 16 points 0 comments -> [Everything About Bitflags: How to store up to 32 booleans in one value?](https://neg4n.dev/blog/everything-about-bitflags)<!-- HN:45102536:end --><!-- HN:45149330:start -->
