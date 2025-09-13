@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 6, 2025**
-<!-- HN:45102536:start -->
-* [45102536](https://news.social-protocols.org/stats?id=45102536) #22 16 points 0 comments -> [Everything About Bitflags: How to store up to 32 booleans in one value?](https://neg4n.dev/blog/everything-about-bitflags)<!-- HN:45102536:end --><!-- HN:45149330:start -->
-* [45149330](https://news.social-protocols.org/stats?id=45149330) #12 14 points 10 comments -> [Vibe Coding Through the Berghain Challenge](https://www.nibzard.com/berghain/)<!-- HN:45149330:end --><!-- HN:45150749:start -->
-* [45150749](https://news.social-protocols.org/stats?id=45150749) #18 4 points 0 comments -> [Stock buybacks are stock swindles](https://pluralistic.net/2025/09/06/computer-says-huh/#invisible-handcuffs)<!-- HN:45150749:end --><!-- HN:45148572:start -->
-* [45148572](https://news.social-protocols.org/stats?id=45148572) #15 43 points 2 comments -> [Tylenol-maker shares hit after report RFK Jr will suggest autism link](https://www.bbc.com/news/articles/cx25l92q9xgo)<!-- HN:45148572:end --><!-- HN:45151573:start -->
-* [45151573](https://news.social-protocols.org/stats?id=45151573) #7 7 points 0 comments -> [Study: Hashtags and humour are used to spread extreme content on social media](https://news.ku.dk/all_news/2025/09/hashtags-and-humour-are-used-to-spread-extreme-content-on-social-media/)<!-- HN:45151573:end --><!-- HN:45151539:start -->
-* [45151539](https://news.social-protocols.org/stats?id=45151539) #17 10 points 1 comments -> [Microsoft BASIC, now open source](https://www.pcworld.com/article/2898698/microsofts-first-ever-programming-language-was-just-open-sourced.html)<!-- HN:45151539:end --><!-- HN:45151686:start -->
-* [45151686](https://news.social-protocols.org/stats?id=45151686) #18 11 points 0 comments -> [Ghost sharks grow forehead teeth to help them have sex](https://news.ufl.edu/2025/09/ghost-shark-teeth/)<!-- HN:45151686:end -->
 #### **Sunday, September 7, 2025**
 <!-- HN:45154176:start -->
 * [45154176](https://news.social-protocols.org/stats?id=45154176) #3 111 points 1 comments -> [mitchivin.com](https://mitchivin.com/)<!-- HN:45154176:end --><!-- HN:45117718:start -->
