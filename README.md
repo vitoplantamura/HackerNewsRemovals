@@ -99,3 +99,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45221423](https://news.social-protocols.org/stats?id=45221423) #24 37 points 42 comments -> [AI Startup Founders Tout a Winning Formula–No Booze, No Sleep, No Fun](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406)<!-- HN:45221423:end --><!-- HN:45223913:start -->
 * [45223913](https://news.social-protocols.org/stats?id=45223913) #6 27 points 15 comments -> [The Rise of AI Cults](https://wisewolfmedia.substack.com/p/the-rise-of-ai-cults-truth-terminal)<!-- HN:45223913:end --><!-- HN:45226066:start -->
 * [45226066](https://news.social-protocols.org/stats?id=45226066) #18 11 points 16 comments -> [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)<!-- HN:45226066:end -->
+#### **Saturday, September 13, 2025**
+<!-- HN:45227134:start -->
+* [45227134](https://news.social-protocols.org/stats?id=45227134) #29 22 points 40 comments -> [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)<!-- HN:45227134:end -->
