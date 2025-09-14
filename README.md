@@ -94,3 +94,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45231631](https://news.social-protocols.org/stats?id=45231631) #17 6 points 1 comments -> [Get Out of Technology](https://geohot.github.io//blog/jekyll/update/2025/09/13/get-out-of-technology.html)<!-- HN:45231631:end --><!-- HN:45232289:start -->
 * [45232289](https://news.social-protocols.org/stats?id=45232289) #8 3 points 3 comments -> [I made an online version of the love money game](https://lovemoney-game.xyz)<!-- HN:45232289:end --><!-- HN:45236212:start -->
 * [45236212](https://news.social-protocols.org/stats?id=45236212) #21 9 points 0 comments -> [Mamdani, If Elected Mayor, Pledges to Order N.Y.P.D. To Arrest Netanyahu](https://www.nytimes.com/2025/09/12/nyregion/mamdani-arrest-netanyahu-nyc-mayor.html)<!-- HN:45236212:end -->
+#### **Sunday, September 14, 2025**
+<!-- HN:45236454:start -->
+* [45236454](https://news.social-protocols.org/stats?id=45236454) #5 4 points 1 comments -> [US/* time zone deprecation affects fresh Debian 12 installs](https://rachelbythebay.com/w/2025/09/12/tz/)<!-- HN:45236454:end -->
