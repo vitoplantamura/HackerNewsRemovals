@@ -97,4 +97,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, September 14, 2025**
 <!-- HN:45236454:start -->
 * [45236454](https://news.social-protocols.org/stats?id=45236454) #5 4 points 1 comments -> [US/* time zone deprecation affects fresh Debian 12 installs](https://rachelbythebay.com/w/2025/09/12/tz/)<!-- HN:45236454:end --><!-- HN:45196874:start -->
-* [45196874](https://news.social-protocols.org/stats?id=45196874) #25 10 points 4 comments -> [Presence in VR should show tiny people, not user avatars](https://interconnected.org/home/2022/05/03/landscape)<!-- HN:45196874:end -->
+* [45196874](https://news.social-protocols.org/stats?id=45196874) #25 10 points 4 comments -> [Presence in VR should show tiny people, not user avatars](https://interconnected.org/home/2022/05/03/landscape)<!-- HN:45196874:end --><!-- HN:45237785:start -->
+* [45237785](https://news.social-protocols.org/stats?id=45237785) #16 8 points 6 comments -> [ChatGPT Sent Me to the ER](https://benorenstein.substack.com/p/chatgpt-sent-me-to-the-er)<!-- HN:45237785:end -->
