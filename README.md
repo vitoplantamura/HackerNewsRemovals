@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, September 7, 2025**
-<!-- HN:45154176:start -->
-* [45154176](https://news.social-protocols.org/stats?id=45154176) #3 111 points 1 comments -> [mitchivin.com](https://mitchivin.com/)<!-- HN:45154176:end --><!-- HN:45117718:start -->
-* [45117718](https://news.social-protocols.org/stats?id=45117718) #11 35 points 2 comments -> [Reveal – Read Eval Visualize Loop for Clojure](https://vlaaad.github.io/reveal/)<!-- HN:45117718:end --><!-- HN:45156660:start -->
-* [45156660](https://news.social-protocols.org/stats?id=45156660) #8 13 points 4 comments -> [Nominees: The fastest legal way to lose your company](https://johnnydoe.is/threads/nominees-the-fastest-legal-way-to-lose-your-company.42278/)<!-- HN:45156660:end --><!-- HN:45157748:start -->
-* [45157748](https://news.social-protocols.org/stats?id=45157748) #12 14 points 13 comments -> [ChatGPT is NOT a LLM – GPT is](https://www.vincirufus.com/posts/chatgpt-is-not-an-llm/)<!-- HN:45157748:end --><!-- HN:45158525:start -->
-* [45158525](https://news.social-protocols.org/stats?id=45158525) #21 37 points 18 comments -> [Chrome extension that replaces occurrences of 'the cloud' with 'my butt'](https://github.com/panicsteve/cloud-to-butt)<!-- HN:45158525:end --><!-- HN:45158597:start -->
-* [45158597](https://news.social-protocols.org/stats?id=45158597) #30 12 points 1 comments -> [The Expression Problem and its solution](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)<!-- HN:45158597:end --><!-- HN:45160947:start -->
-* [45160947](https://news.social-protocols.org/stats?id=45160947) #17 31 points 10 comments -> [Apple's A17 Pro Chip Ships with Hardware Flaw](https://github.com/JGoyd/Apple-Silicon-A17-Flaw)<!-- HN:45160947:end --><!-- HN:45161097:start -->
-* [45161097](https://news.social-protocols.org/stats?id=45161097) #10 5 points 6 comments -> [Show HN: The World After 3, 5, 10, 25, 50, and 100 Years Ft. AI](https://www.mandar.cloud/blog.html)<!-- HN:45161097:end --><!-- HN:45162110:start -->
-* [45162110](https://news.social-protocols.org/stats?id=45162110) #14 20 points 10 comments -> [Print GitHub Repositories as Books](https://gitprint.me/)<!-- HN:45162110:end -->
 #### **Monday, September 8, 2025**<!-- HN:45164026:start -->
 * [45164026](https://news.social-protocols.org/stats?id=45164026) #6 8 points 3 comments -> [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)<!-- HN:45164026:end --><!-- HN:45164104:start -->
 * [45164104](https://news.social-protocols.org/stats?id=45164104) #18 37 points 20 comments -> [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)<!-- HN:45164104:end --><!-- HN:45157020:start -->
