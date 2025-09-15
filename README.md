@@ -99,5 +99,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45242645](https://news.social-protocols.org/stats?id=45242645) #23 22 points 18 comments -> [Show HN: DriftDB – An experimental append-only database with time-travel queries](https://github.com/DavidLiedle/DriftDB)<!-- HN:45242645:end -->
 #### **Monday, September 15, 2025**
 <!-- HN:45244733:start -->
-* [45244733](https://news.social-protocols.org/stats?id=45244733) #7 43 points 21 comments -> [Rebutting 33 False Claims About Solar, Wind, and Electric Vehicles](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=1218&context=sabin_climate_change)<!-- HN:45244733:end --><!-- HN:45246282:start -->
-* [45246282](https://news.social-protocols.org/stats?id=45246282) #9 37 points 3 comments -> [US taxpayers to pay billions in fuel subsidies thanks to Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)<!-- HN:45246282:end -->
+* [45244733](https://news.social-protocols.org/stats?id=45244733) #7 43 points 21 comments -> [Rebutting 33 False Claims About Solar, Wind, and Electric Vehicles](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=1218&context=sabin_climate_change)<!-- HN:45244733:end -->
