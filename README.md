@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, September 8, 2025**<!-- HN:45164026:start -->
-* [45164026](https://news.social-protocols.org/stats?id=45164026) #6 8 points 3 comments -> [Cloud Storage Is Full Email Scam: What It Is and How to Protect Yourself](https://malwaretips.com/blogs/your-cloud-storage-is-full-email-scam/)<!-- HN:45164026:end --><!-- HN:45164104:start -->
-* [45164104](https://news.social-protocols.org/stats?id=45164104) #18 37 points 20 comments -> [Computers Are for Girls – Datagubbe.se](https://datagubbe.se/girls/)<!-- HN:45164104:end --><!-- HN:45157020:start -->
-* [45157020](https://news.social-protocols.org/stats?id=45157020) #18 395 points 239 comments -> [Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app](https://molecheck.info/)<!-- HN:45157020:end --><!-- HN:45165902:start -->
-* [45165902](https://news.social-protocols.org/stats?id=45165902) #16 9 points 1 comments -> [50k art hoes will save San Francisco](https://twitter.com/taotechic/status/1964551131977437674)<!-- HN:45165902:end --><!-- HN:45139228:start -->
-* [45139228](https://news.social-protocols.org/stats?id=45139228) #17 -> [How big are our embeddings now and why?](https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/)<!-- HN:45139228:end --><!-- HN:45167913:start -->
-* [45167913](https://news.social-protocols.org/stats?id=45167913) #11 36 points 40 comments -> [Tesla Wants Out of the Car Business](https://www.theatlantic.com/technology/archive/2025/09/tesla-elon-musk-master-plan-robotaxi/684122/)<!-- HN:45167913:end --><!-- HN:45171564:start -->
-* [45171564](https://news.social-protocols.org/stats?id=45171564) #8 14 points 1 comments -> [Color NPM Package Compromised](https://fasterthanli.me/articles/color-npm-package-compromised)<!-- HN:45171564:end --><!-- HN:45171361:start -->
-* [45171361](https://news.social-protocols.org/stats?id=45171361) #17 29 points 20 comments -> [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/)<!-- HN:45171361:end --><!-- HN:45172270:start -->
-* [45172270](https://news.social-protocols.org/stats?id=45172270) #15 26 points 4 comments -> [The Job Market Is Hell](https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/)<!-- HN:45172270:end --><!-- HN:45172942:start -->
-* [45172942](https://news.social-protocols.org/stats?id=45172942) #10 -> [Spanish PM Pedro Sánchez says Israel is 'exterminating a defenceless people'](https://www.theguardian.com/world/2025/sep/08/spanish-pm-pedro-sanchez-israel-exterminating-defenceless-people-gaza)<!-- HN:45172942:end --><!-- HN:45172414:start -->
-* [45172414](https://news.social-protocols.org/stats?id=45172414) #29 7 points 2 comments -> [iPhone app alerts users to nearby ICE sightings](https://www.cnn.com/2025/06/30/tech/iceblock-app-trump-immigration-crackdown)<!-- HN:45172414:end --><!-- HN:45174397:start -->
-* [45174397](https://news.social-protocols.org/stats?id=45174397) #7 39 points 10 comments -> [US Holocaust museum removes anti-genocide post after being corelatted with Gaza](https://hyperallergic.com/1040088/los-angeles-holocaust-museum-walks-back-never-again-statement-sparking-outcry/)<!-- HN:45174397:end -->
 #### **Tuesday, September 9, 2025**
 <!-- HN:45173933:start -->
 * [45173933](https://news.social-protocols.org/stats?id=45173933) #21 63 points 14 comments -> [World Nuclear Association Welcomes Microsoft Corporation as Newest Member](https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member)<!-- HN:45173933:end --><!-- HN:45177043:start -->
