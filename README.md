@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, September 9, 2025**
-<!-- HN:45173933:start -->
-* [45173933](https://news.social-protocols.org/stats?id=45173933) #21 63 points 14 comments -> [World Nuclear Association Welcomes Microsoft Corporation as Newest Member](https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member)<!-- HN:45173933:end --><!-- HN:45177043:start -->
-* [45177043](https://news.social-protocols.org/stats?id=45177043) #12 8 points 2 comments -> [Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)<!-- HN:45177043:end --><!-- HN:45178389:start -->
-* [45178389](https://news.social-protocols.org/stats?id=45178389) #1 122 points 32 comments -> [Mistral AI raises €1.7B to accelerate technological progress with AI](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)<!-- HN:45178389:end --><!-- HN:45181775:start -->
-* [45181775](https://news.social-protocols.org/stats?id=45181775) #28 5 points 3 comments -> [Israel bombs Qatar, targeting Hamas leadership](https://www.reuters.com/world/middle-east/several-blasts-heard-qatars-doha-israeli-media-says-hamas-leadership-targeted-2025-09-09/)<!-- HN:45181775:end --><!-- HN:45180584:start -->
-* [45180584](https://news.social-protocols.org/stats?id=45180584) #15 14 points 1 comments -> [I ran Claude in a loop for 3 months, and it created a genz programming language](https://ghuntley.com/cursed/)<!-- HN:45180584:end --><!-- HN:45182137:start -->
-* [45182137](https://news.social-protocols.org/stats?id=45182137) #30 6 points 0 comments -> [Zohran Mamdani Is Part of Municipal Socialism's Long History](https://jacobin.com/2025/08/mamdani-municipal-socialism-history-cities/)<!-- HN:45182137:end --><!-- HN:45186723:start -->
-* [45186723](https://news.social-protocols.org/stats?id=45186723) #16 5 points 0 comments -> [Devs Cancel Claude Code En Masse – But Why?](https://www.aiengineering.report/p/devs-cancel-claude-code-en-masse)<!-- HN:45186723:end --><!-- HN:45187765:start -->
-* [45187765](https://news.social-protocols.org/stats?id=45187765) #7 15 points 0 comments -> [AI Darwin Awards 2025](https://aidarwinawards.org/index.html)<!-- HN:45187765:end --><!-- HN:45189700:start -->
-* [45189700](https://news.social-protocols.org/stats?id=45189700) #22 7 points 1 comments -> [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)<!-- HN:45189700:end -->
 #### **Wednesday, September 10, 2025**
 <!-- HN:45160727:start -->
 * [45160727](https://news.social-protocols.org/stats?id=45160727) #10 20 points 40 comments -> [She puts the Lord in 'vanlord.' Palo Alto wants to ban her business](https://sanjosespotlight.com/she-puts-the-lord-in-vanlord-palo-alto-wants-to-ban-her-business/)<!-- HN:45160727:end --><!-- HN:45194973:start -->
