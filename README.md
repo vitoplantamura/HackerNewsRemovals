@@ -93,3 +93,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45251995](https://news.social-protocols.org/stats?id=45251995) #11 64 points 21 comments -> [The U.S. Government's Extraordinary Pursuit of Kilmar Ábrego García](https://www.newyorker.com/news/the-lede/the-us-governments-extraordinary-pursuit-of-kilmar-abrego-garcia)<!-- HN:45251995:end --><!-- HN:45249287:start -->
 * [45249287](https://news.social-protocols.org/stats?id=45249287) #1 633 points 251 comments -> [Hosting a WebSite on a Disposable Vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)<!-- HN:45249287:end --><!-- HN:45255288:start -->
 * [45255288](https://news.social-protocols.org/stats?id=45255288) #19 8 points 1 comments -> [Charlie Kirk Assassination Sparks Social Media Crackdown](https://www.kenklippenstein.com/p/charlie-kirk-assassination-sparks)<!-- HN:45255288:end -->
+#### **Tuesday, September 16, 2025**
+<!-- HN:45256229:start -->
+* [45256229](https://news.social-protocols.org/stats?id=45256229) #21 19 points 5 comments -> [Fighting human trafficking with self-contained applications](https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/)<!-- HN:45256229:end -->
