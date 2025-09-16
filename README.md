@@ -96,5 +96,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 16, 2025**
 <!-- HN:45256229:start -->
 * [45256229](https://news.social-protocols.org/stats?id=45256229) #21 19 points 5 comments -> [Fighting human trafficking with self-contained applications](https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/)<!-- HN:45256229:end --><!-- HN:45256729:start -->
-* [45256729](https://news.social-protocols.org/stats?id=45256729) #12 5 points 0 comments -> [FBI investigates social media accounts appearing have prior knowledge shooting](https://thepostmillennial.com/fbi-investigates-social-media-accounts-appearing-to-have-knowledge-of-charlie-kirk-shooting-beforehand-report)<!-- HN:45256729:end --><!-- HN:45259134:start -->
-* [45259134](https://news.social-protocols.org/stats?id=45259134) #26 29 points 13 comments -> [AP Live: View from Gaza as Israel Begins Expanded Operation in Gaza City](https://www.youtube.com/watch?v=autLCRVLwsQ)<!-- HN:45259134:end -->
+* [45256729](https://news.social-protocols.org/stats?id=45256729) #12 5 points 0 comments -> [FBI investigates social media accounts appearing have prior knowledge shooting](https://thepostmillennial.com/fbi-investigates-social-media-accounts-appearing-to-have-knowledge-of-charlie-kirk-shooting-beforehand-report)<!-- HN:45256729:end -->
