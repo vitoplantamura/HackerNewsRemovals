@@ -98,3 +98,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45266401](https://news.social-protocols.org/stats?id=45266401) #15 6 points 2 comments -> [Does Pam Bondi know what free speech is?](https://thespectator.com/topic/pam-bondi-know-what-free-speech/)<!-- HN:45266401:end --><!-- HN:45265937:start -->
 * [45265937](https://news.social-protocols.org/stats?id=45265937) #4 43 points 3 comments -> [Live Updates: Shai-Hulud, the Most Dangerous NPM Breach in History](https://www.koi.security/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor)<!-- HN:45265937:end --><!-- HN:45268830:start -->
 * [45268830](https://news.social-protocols.org/stats?id=45268830) #11 5 points 0 comments -> [Study Shows Number of Childless Women in the U.S. Continues to Rise](https://www.unh.edu/unhtoday/news/release/2025/09/15/study-shows-number-childless-women-us-continues-rise)<!-- HN:45268830:end -->
+#### **Wednesday, September 17, 2025**
+<!-- HN:45270965:start -->
+* [45270965](https://news.social-protocols.org/stats?id=45270965) #13 37 points 41 comments -> [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)<!-- HN:45270965:end -->
