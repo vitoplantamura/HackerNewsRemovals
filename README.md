@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 17, 2025**<!-- HN:45271180:start -->
 * [45271180](https://news.social-protocols.org/stats?id=45271180) #9 22 points 1 comments -> [Java 25 General Availability](https://jdk.java.net/25/)<!-- HN:45271180:end --><!-- HN:45274290:start -->
 * [45274290](https://news.social-protocols.org/stats?id=45274290) #9 5 points 3 comments -> [Political Violence Makes No Sense](https://avi-loeb.medium.com/political-violence-makes-no-sense-cee20addd441)<!-- HN:45274290:end --><!-- HN:45276099:start -->
-* [45276099](https://news.social-protocols.org/stats?id=45276099) #11 13 points 5 comments -> [AI Coding: A Sober Review](https://www.ubicloud.com/blog/ai-coding-a-sober-review)<!-- HN:45276099:end -->
+* [45276099](https://news.social-protocols.org/stats?id=45276099) #11 13 points 5 comments -> [AI Coding: A Sober Review](https://www.ubicloud.com/blog/ai-coding-a-sober-review)<!-- HN:45276099:end --><!-- HN:45276614:start -->
+* [45276614](https://news.social-protocols.org/stats?id=45276614) #24 86 points 2 comments -> [A single adblock filter may have caused YouTube's global view drop](https://github.com/easylist/easylist/issues/22375)<!-- HN:45276614:end -->
