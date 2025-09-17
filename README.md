@@ -99,4 +99,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45265937](https://news.social-protocols.org/stats?id=45265937) #4 43 points 3 comments -> [Live Updates: Shai-Hulud, the Most Dangerous NPM Breach in History](https://www.koi.security/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor)<!-- HN:45265937:end --><!-- HN:45268830:start -->
 * [45268830](https://news.social-protocols.org/stats?id=45268830) #11 5 points 0 comments -> [Study Shows Number of Childless Women in the U.S. Continues to Rise](https://www.unh.edu/unhtoday/news/release/2025/09/15/study-shows-number-childless-women-us-continues-rise)<!-- HN:45268830:end -->
 #### **Wednesday, September 17, 2025**<!-- HN:45271180:start -->
-* [45271180](https://news.social-protocols.org/stats?id=45271180) #9 22 points 1 comments -> [Java 25 General Availability](https://jdk.java.net/25/)<!-- HN:45271180:end -->
+* [45271180](https://news.social-protocols.org/stats?id=45271180) #9 22 points 1 comments -> [Java 25 General Availability](https://jdk.java.net/25/)<!-- HN:45271180:end --><!-- HN:45274290:start -->
+* [45274290](https://news.social-protocols.org/stats?id=45274290) #9 5 points 3 comments -> [Political Violence Makes No Sense](https://avi-loeb.medium.com/political-violence-makes-no-sense-cee20addd441)<!-- HN:45274290:end -->
