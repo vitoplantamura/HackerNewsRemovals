@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, September 10, 2025**
-<!-- HN:45160727:start -->
-* [45160727](https://news.social-protocols.org/stats?id=45160727) #10 20 points 40 comments -> [She puts the Lord in 'vanlord.' Palo Alto wants to ban her business](https://sanjosespotlight.com/she-puts-the-lord-in-vanlord-palo-alto-wants-to-ban-her-business/)<!-- HN:45160727:end --><!-- HN:45194973:start -->
-* [45194973](https://news.social-protocols.org/stats?id=45194973) #25 4 points 0 comments -> [The Gaza family torn apart by IDF snipers from Chicago and Munich](https://www.theguardian.com/world/2025/sep/09/the-gaza-family-torn-apart-by-idf-snipers-from-chicago-and-munich)<!-- HN:45194973:end --><!-- HN:45193410:start -->
-* [45193410](https://news.social-protocols.org/stats?id=45193410) #14 37 points 42 comments -> [Defense.gov Now Redirects to War.gov](https://defense.gov)<!-- HN:45193410:end --><!-- HN:45200143:start -->
-* [45200143](https://news.social-protocols.org/stats?id=45200143) #8 9 points 1 comments -> [Anthropic Services Down](https://status.anthropic.com)<!-- HN:45200143:end --><!-- HN:45202233:start -->
-* [45202233](https://news.social-protocols.org/stats?id=45202233) #21 3 points 0 comments -> [Show HN: Llmswap – Universal AI SDK and Code Generation CLI](https://sreenathmenon.com/blog/2025-09-04-stopped-alt-tabbing-chatgpt-while-coding/)<!-- HN:45202233:end --><!-- HN:45202537:start -->
-* [45202537](https://news.social-protocols.org/stats?id=45202537) #10 5 points 1 comments -> [X Open Sourced Algorithm Code, So I analyzed it to learn how to grow on X](https://supabird.io/articles/how-to-grow-on-x-what-we-learned-from-their-algorithm-reveal)<!-- HN:45202537:end -->
 #### **Thursday, September 11, 2025**<!-- HN:45209487:start -->
 * [45209487](https://news.social-protocols.org/stats?id=45209487) #17 13 points 10 comments -> [How Does the Cycle of Political Violence End? Here's What an Expert Says](https://www.politico.com/news/magazine/2025/06/02/political-violence-boulder-attack-00381778)<!-- HN:45209487:end --><!-- HN:45213448:start -->
 * [45213448](https://news.social-protocols.org/stats?id=45213448) #16 12 points 1 comments -> [The Reichstag Fire](https://en.wikipedia.org/wiki/Reichstag_fire)<!-- HN:45213448:end --><!-- HN:45215143:start -->

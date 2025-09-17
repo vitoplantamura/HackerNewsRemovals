@@ -88,3 +88,11 @@
 * [45186723](https://news.ycombinator.com/item?id=45186723) #16 5 points 0 comments -> [Devs Cancel Claude Code En Masse – But Why?](https://www.aiengineering.report/p/devs-cancel-claude-code-en-masse)<!-- HN:45186723:end --><!-- HN:45187765:start -->
 * [45187765](https://news.ycombinator.com/item?id=45187765) #7 15 points 0 comments -> [AI Darwin Awards 2025](https://aidarwinawards.org/index.html)<!-- HN:45187765:end --><!-- HN:45189700:start -->
 * [45189700](https://news.ycombinator.com/item?id=45189700) #22 7 points 1 comments -> [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)<!-- HN:45189700:end -->
+#### **Wednesday, September 10, 2025**
+<!-- HN:45160727:start -->
+* [45160727](https://news.ycombinator.com/item?id=45160727) #10 20 points 40 comments -> [She puts the Lord in 'vanlord.' Palo Alto wants to ban her business](https://sanjosespotlight.com/she-puts-the-lord-in-vanlord-palo-alto-wants-to-ban-her-business/)<!-- HN:45160727:end --><!-- HN:45194973:start -->
+* [45194973](https://news.ycombinator.com/item?id=45194973) #25 4 points 0 comments -> [The Gaza family torn apart by IDF snipers from Chicago and Munich](https://www.theguardian.com/world/2025/sep/09/the-gaza-family-torn-apart-by-idf-snipers-from-chicago-and-munich)<!-- HN:45194973:end --><!-- HN:45193410:start -->
+* [45193410](https://news.ycombinator.com/item?id=45193410) #14 37 points 42 comments -> [Defense.gov Now Redirects to War.gov](https://defense.gov)<!-- HN:45193410:end --><!-- HN:45200143:start -->
+* [45200143](https://news.ycombinator.com/item?id=45200143) #8 9 points 1 comments -> [Anthropic Services Down](https://status.anthropic.com)<!-- HN:45200143:end --><!-- HN:45202233:start -->
+* [45202233](https://news.ycombinator.com/item?id=45202233) #21 3 points 0 comments -> [Show HN: Llmswap – Universal AI SDK and Code Generation CLI](https://sreenathmenon.com/blog/2025-09-04-stopped-alt-tabbing-chatgpt-while-coding/)<!-- HN:45202233:end --><!-- HN:45202537:start -->
+* [45202537](https://news.ycombinator.com/item?id=45202537) #10 5 points 1 comments -> [X Open Sourced Algorithm Code, So I analyzed it to learn how to grow on X](https://supabird.io/articles/how-to-grow-on-x-what-we-learned-from-their-algorithm-reveal)<!-- HN:45202537:end -->
