@@ -100,3 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45276614](https://news.social-protocols.org/stats?id=45276614) #24 86 points 2 comments -> [A single adblock filter may have caused YouTube's global view drop](https://github.com/easylist/easylist/issues/22375)<!-- HN:45276614:end --><!-- HN:45279790:start -->
 * [45279790](https://news.social-protocols.org/stats?id=45279790) #27 46 points 9 comments -> [The "Debate Me Bro" Grift: How Trolls Weaponized the Marketplace of Ideas](https://www.techdirt.com/2025/09/17/the-debate-me-bro-grift-how-trolls-weaponized-the-marketplace-of-ideas/)<!-- HN:45279790:end --><!-- HN:45282130:start -->
 * [45282130](https://news.social-protocols.org/stats?id=45282130) #8 9 points 0 comments -> [Death of the Holocaust Industry](https://chrishedges.substack.com/p/death-of-the-holocaust-industry-read)<!-- HN:45282130:end -->
+#### **Thursday, September 18, 2025**
+<!-- HN:45283513:start -->
+* [45283513](https://news.social-protocols.org/stats?id=45283513) #7 10 points 3 comments -> [Meta Ray Ban Display and Neural Interface Announced](https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/)<!-- HN:45283513:end -->
