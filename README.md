@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45282130](https://news.social-protocols.org/stats?id=45282130) #8 9 points 0 comments -> [Death of the Holocaust Industry](https://chrishedges.substack.com/p/death-of-the-holocaust-industry-read)<!-- HN:45282130:end -->
 #### **Thursday, September 18, 2025**
 <!-- HN:45283513:start -->
-* [45283513](https://news.social-protocols.org/stats?id=45283513) #7 10 points 3 comments -> [Meta Ray Ban Display and Neural Interface Announced](https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/)<!-- HN:45283513:end -->
+* [45283513](https://news.social-protocols.org/stats?id=45283513) #7 10 points 3 comments -> [Meta Ray Ban Display and Neural Interface Announced](https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/)<!-- HN:45283513:end --><!-- HN:45284477:start -->
+* [45284477](https://news.social-protocols.org/stats?id=45284477) #1 98 points 39 comments -> [UC Berkeley gives personal information for 150 students and staff to government](https://www.dailycal.org/news/campus/uc-berkeley-turns-over-personal-information-of-more-than-150-students-and-staff-to-federal/article_a4aad3e1-bbba-42cc-92d7-a7964d9641c5.html)<!-- HN:45284477:end -->
