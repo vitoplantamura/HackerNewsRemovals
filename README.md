@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45296182](https://news.social-protocols.org/stats?id=45296182) #8 47 points 14 comments -> [Jimmy Kimmel Should Have Strong Odds at the Supreme Court](https://www.politico.com/news/magazine/2025/09/18/jimmy-kimmel-supreme-court-first-amendment-lawsuit-00570697)<!-- HN:45296182:end -->
 #### **Friday, September 19, 2025**
 <!-- HN:45248709:start -->
-* [45248709](https://news.social-protocols.org/stats?id=45248709) #16 10 points 5 comments -> [Pizza Cutters, from Underdesigned to Overdesigned](https://www.core77.com/posts/138409/Pizza-Cutters-from-Underdesigned-to-Overdesigned)<!-- HN:45248709:end -->
+* [45248709](https://news.social-protocols.org/stats?id=45248709) #16 10 points 5 comments -> [Pizza Cutters, from Underdesigned to Overdesigned](https://www.core77.com/posts/138409/Pizza-Cutters-from-Underdesigned-to-Overdesigned)<!-- HN:45248709:end --><!-- HN:45300925:start -->
+* [45300925](https://news.social-protocols.org/stats?id=45300925) #16 34 points 23 comments -> [Grocery prices have jumped up, and there's no relief in sight](https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation)<!-- HN:45300925:end -->
