@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45293757](https://news.social-protocols.org/stats?id=45293757) #16 5 points 0 comments -> [Organs Cannot Simply Be Classified as Male or Female](https://www.mpg.de/25425064/0918-limn-the-sex-of-the-body-why-our-organs-cannot-simply-be-classified-as-male-or-female-153345-x)<!-- HN:45293757:end --><!-- HN:45295388:start -->
 * [45295388](https://news.social-protocols.org/stats?id=45295388) #25 14 points 14 comments -> [Returning to Church won't save us from nihilism](https://thereader.mitpress.mit.edu/returning-to-church-wont-save-us-from-nihilism/)<!-- HN:45295388:end --><!-- HN:45296182:start -->
 * [45296182](https://news.social-protocols.org/stats?id=45296182) #8 47 points 14 comments -> [Jimmy Kimmel Should Have Strong Odds at the Supreme Court](https://www.politico.com/news/magazine/2025/09/18/jimmy-kimmel-supreme-court-first-amendment-lawsuit-00570697)<!-- HN:45296182:end -->
+#### **Friday, September 19, 2025**
+<!-- HN:45248709:start -->
+* [45248709](https://news.social-protocols.org/stats?id=45248709) #16 10 points 5 comments -> [Pizza Cutters, from Underdesigned to Overdesigned](https://www.core77.com/posts/138409/Pizza-Cutters-from-Underdesigned-to-Overdesigned)<!-- HN:45248709:end -->
