@@ -115,5 +115,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45308628:start -->
 * [45308628](https://news.social-protocols.org/stats?id=45308628) #2 135 points 3 comments -> [H1Bs will start costing $100k/yr](https://www.boundless.com/blog/trump-administration-to-propose-new-100000-fee-for-h-1b-visa-applications/)<!-- HN:45308628:end --><!-- HN:45308778:start -->
 * [45308778](https://news.social-protocols.org/stats?id=45308778) #14 74 points 54 comments -> [Trumpcard (Official US Government Website)](https://trumpcard.gov/)<!-- HN:45308778:end --><!-- HN:45308503:start -->
-* [45308503](https://news.social-protocols.org/stats?id=45308503) #3 98 points 42 comments -> [Did you read the quarter-million-line license for your Slack app?](https://mastodon.mit.edu/@Eggfreckles/114825126857396420)<!-- HN:45308503:end --><!-- HN:45310529:start -->
-* [45310529](https://news.social-protocols.org/stats?id=45310529) #27 3 points 0 comments -> [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)<!-- HN:45310529:end -->
+* [45308503](https://news.social-protocols.org/stats?id=45308503) #3 98 points 42 comments -> [Did you read the quarter-million-line license for your Slack app?](https://mastodon.mit.edu/@Eggfreckles/114825126857396420)<!-- HN:45308503:end -->
