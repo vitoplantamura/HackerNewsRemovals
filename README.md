@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, September 20, 2025**
 <!-- HN:45308628:start -->
 * [45308628](https://news.social-protocols.org/stats?id=45308628) #2 135 points 3 comments -> [H1Bs will start costing $100k/yr](https://www.boundless.com/blog/trump-administration-to-propose-new-100000-fee-for-h-1b-visa-applications/)<!-- HN:45308628:end --><!-- HN:45308778:start -->
-* [45308778](https://news.social-protocols.org/stats?id=45308778) #14 74 points 54 comments -> [Trumpcard (Official US Government Website)](https://trumpcard.gov/)<!-- HN:45308778:end -->
+* [45308778](https://news.social-protocols.org/stats?id=45308778) #14 74 points 54 comments -> [Trumpcard (Official US Government Website)](https://trumpcard.gov/)<!-- HN:45308778:end --><!-- HN:45309740:start -->
+* [45309740](https://news.social-protocols.org/stats?id=45309740) #3 20 points 18 comments -> [The H-1B Visa Program and Its Impact on the U.S. Economy](https://www.americanimmigrationcouncil.org/fact-sheet/h1b-visa-program-fact-sheet/)<!-- HN:45309740:end -->
