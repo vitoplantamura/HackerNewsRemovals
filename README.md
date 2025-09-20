@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45308628:start -->
 * [45308628](https://news.social-protocols.org/stats?id=45308628) #2 135 points 3 comments -> [H1Bs will start costing $100k/yr](https://www.boundless.com/blog/trump-administration-to-propose-new-100000-fee-for-h-1b-visa-applications/)<!-- HN:45308628:end --><!-- HN:45308778:start -->
 * [45308778](https://news.social-protocols.org/stats?id=45308778) #14 74 points 54 comments -> [Trumpcard (Official US Government Website)](https://trumpcard.gov/)<!-- HN:45308778:end --><!-- HN:45308503:start -->
-* [45308503](https://news.social-protocols.org/stats?id=45308503) #3 98 points 42 comments -> [Did you read the quarter-million-line license for your Slack app?](https://mastodon.mit.edu/@Eggfreckles/114825126857396420)<!-- HN:45308503:end -->
+* [45308503](https://news.social-protocols.org/stats?id=45308503) #3 98 points 42 comments -> [Did you read the quarter-million-line license for your Slack app?](https://mastodon.mit.edu/@Eggfreckles/114825126857396420)<!-- HN:45308503:end --><!-- HN:45312457:start -->
+* [45312457](https://news.social-protocols.org/stats?id=45312457) #29 29 points 41 comments -> [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)<!-- HN:45312457:end -->
