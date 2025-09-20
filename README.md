@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 13, 2025**<!-- HN:45229443:start -->
-* [45229443](https://news.social-protocols.org/stats?id=45229443) #3 52 points 6 comments -> [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/)<!-- HN:45229443:end --><!-- HN:45231452:start -->
-* [45231452](https://news.social-protocols.org/stats?id=45231452) #28 3 points 0 comments -> [Company That Bought Publishers Clearing House Won't Pay Past Prize Winners](https://www.nytimes.com/2025/09/12/business/pch-sweepstakes-bankruptcy-winners-unpaid.html)<!-- HN:45231452:end --><!-- HN:45231631:start -->
-* [45231631](https://news.social-protocols.org/stats?id=45231631) #17 6 points 1 comments -> [Get Out of Technology](https://geohot.github.io//blog/jekyll/update/2025/09/13/get-out-of-technology.html)<!-- HN:45231631:end --><!-- HN:45232289:start -->
-* [45232289](https://news.social-protocols.org/stats?id=45232289) #8 3 points 3 comments -> [I made an online version of the love money game](https://lovemoney-game.xyz)<!-- HN:45232289:end --><!-- HN:45236212:start -->
-* [45236212](https://news.social-protocols.org/stats?id=45236212) #21 9 points 0 comments -> [Mamdani, If Elected Mayor, Pledges to Order N.Y.P.D. To Arrest Netanyahu](https://www.nytimes.com/2025/09/12/nyregion/mamdani-arrest-netanyahu-nyc-mayor.html)<!-- HN:45236212:end -->
 #### **Sunday, September 14, 2025**
 <!-- HN:45236454:start -->
 * [45236454](https://news.social-protocols.org/stats?id=45236454) #5 4 points 1 comments -> [US/* time zone deprecation affects fresh Debian 12 installs](https://rachelbythebay.com/w/2025/09/12/tz/)<!-- HN:45236454:end --><!-- HN:45196874:start -->
