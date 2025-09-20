@@ -111,3 +111,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45306210](https://news.social-protocols.org/stats?id=45306210) #3 12 points 0 comments -> [Genocide in the Gaza Strip: Brazil files a declaration of intervention to ICJ [pdf]](https://www.icj-cij.org/sites/default/files/case-related/192/192-20250919-pre-01-00-en.pdf)<!-- HN:45306210:end --><!-- HN:45306975:start -->
 * [45306975](https://news.social-protocols.org/stats?id=45306975) #21 11 points 1 comments -> [Ted Cruz: MAGA "will regret" what it did to Jimmy Kimmel](https://www.axios.com/2025/09/19/ted-cruz-jimmy-kimmel-fcc-brendan-carr)<!-- HN:45306975:end --><!-- HN:45307003:start -->
 * [45307003](https://news.social-protocols.org/stats?id=45307003) #21 33 points 24 comments -> [Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)<!-- HN:45307003:end -->
+#### **Saturday, September 20, 2025**
+<!-- HN:45308628:start -->
+* [45308628](https://news.social-protocols.org/stats?id=45308628) #2 135 points 3 comments -> [H1Bs will start costing $100k/yr](https://www.boundless.com/blog/trump-administration-to-propose-new-100000-fee-for-h-1b-visa-applications/)<!-- HN:45308628:end --><!-- HN:45308778:start -->
+* [45308778](https://news.social-protocols.org/stats?id=45308778) #14 74 points 54 comments -> [Trumpcard (Official US Government Website)](https://trumpcard.gov/)<!-- HN:45308778:end -->
