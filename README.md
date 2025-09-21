@@ -124,5 +124,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45318505](https://news.social-protocols.org/stats?id=45318505) #26 -> [California bans face masks for ICE agents](https://sfstandard.com/2025/09/20/california-bans-face-masks-ice-agents/)<!-- HN:45318505:end -->
 #### **Sunday, September 21, 2025**
 <!-- HN:45318657:start -->
-* [45318657](https://news.social-protocols.org/stats?id=45318657) #21 12 points 2 comments -> [Justice Dept. Closed Investigation into Tom Homan for Accepting Bag of Cash](https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html)<!-- HN:45318657:end --><!-- HN:45318917:start -->
-* [45318917](https://news.social-protocols.org/stats?id=45318917) #17 6 points 0 comments -> [As Ellison Buys Out TikTok, US Moves Toward One-Party Media](https://fair.org/home/as-ellison-buys-out-tiktok-us-moves-toward-one-party-media/)<!-- HN:45318917:end -->
+* [45318657](https://news.social-protocols.org/stats?id=45318657) #21 12 points 2 comments -> [Justice Dept. Closed Investigation into Tom Homan for Accepting Bag of Cash](https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html)<!-- HN:45318657:end -->
