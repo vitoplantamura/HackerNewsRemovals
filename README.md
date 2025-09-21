@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45281913](https://news.social-protocols.org/stats?id=45281913) #30 25 points 33 comments -> [Bosch Unveils New Brake Technology](https://thebrakereport.com/bosch-unveils-new-brake-technology-driving-future-automation/)<!-- HN:45281913:end --><!-- HN:45316555:start -->
 * [45316555](https://news.social-protocols.org/stats?id=45316555) #27 -> [Albert Einstein Gives a Speech Praising Immigrants' Contributions to America](https://www.openculture.com/2025/09/albert-einstein-gives-a-speech-praising-diversity-immigrants-contributions.html)<!-- HN:45316555:end --><!-- HN:45318505:start -->
 * [45318505](https://news.social-protocols.org/stats?id=45318505) #26 -> [California bans face masks for ICE agents](https://sfstandard.com/2025/09/20/california-bans-face-masks-ice-agents/)<!-- HN:45318505:end -->
+#### **Sunday, September 21, 2025**
+<!-- HN:45318657:start -->
+* [45318657](https://news.social-protocols.org/stats?id=45318657) #21 12 points 2 comments -> [Justice Dept. Closed Investigation into Tom Homan for Accepting Bag of Cash](https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html)<!-- HN:45318657:end -->
