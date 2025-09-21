@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, September 21, 2025**
 <!-- HN:45318657:start -->
 * [45318657](https://news.social-protocols.org/stats?id=45318657) #21 12 points 2 comments -> [Justice Dept. Closed Investigation into Tom Homan for Accepting Bag of Cash](https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html)<!-- HN:45318657:end --><!-- HN:45319451:start -->
-* [45319451](https://news.social-protocols.org/stats?id=45319451) #12 3 points 0 comments -> [Nano Banana AI Image Generator](https://www.ai-nanobanana.net)<!-- HN:45319451:end -->
+* [45319451](https://news.social-protocols.org/stats?id=45319451) #12 3 points 0 comments -> [Nano Banana AI Image Generator](https://www.ai-nanobanana.net)<!-- HN:45319451:end --><!-- HN:45320140:start -->
+* [45320140](https://news.social-protocols.org/stats?id=45320140) #15 4 points 1 comments -> [Democracy Has Never Experienced Aging](https://arxiv.org/login)<!-- HN:45320140:end -->
