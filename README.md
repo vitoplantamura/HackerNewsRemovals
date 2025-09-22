@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45325728](https://news.social-protocols.org/stats?id=45325728) #30 6 points 0 comments -> [In Historic Shift, U.K., Australia and Canada Recognize a Palestinian State](https://www.wsj.com/world/middle-east/in-historic-shift-u-k-australia-and-canada-recognize-a-palestinian-state-83598a66)<!-- HN:45325728:end --><!-- HN:45326230:start -->
 * [45326230](https://news.social-protocols.org/stats?id=45326230) #1 105 points 109 comments -> [Rail travel is booming in America](https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america)<!-- HN:45326230:end --><!-- HN:45327217:start -->
 * [45327217](https://news.social-protocols.org/stats?id=45327217) #15 5 points 0 comments -> [The future is compostable. Period](https://news.ubc.ca/2025/09/the-future-is-compostable-period/)<!-- HN:45327217:end -->
+#### **Monday, September 22, 2025**
+<!-- HN:45292066:start -->
+* [45292066](https://news.social-protocols.org/stats?id=45292066) #11 30 points 15 comments -> [First Ultrasonic Chef's Knife Vibrates 40,000X/Second for Easy Cutting](https://www.cnet.com/home/kitchen-and-household/worlds-first-ultrasonic-chefs-knife-vibrates-40000-times-per-second-for-easy-cutting/)<!-- HN:45292066:end -->
