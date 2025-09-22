@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45327217](https://news.social-protocols.org/stats?id=45327217) #15 5 points 0 comments -> [The future is compostable. Period](https://news.ubc.ca/2025/09/the-future-is-compostable-period/)<!-- HN:45327217:end -->
 #### **Monday, September 22, 2025**
 <!-- HN:45292066:start -->
-* [45292066](https://news.social-protocols.org/stats?id=45292066) #11 30 points 15 comments -> [First Ultrasonic Chef's Knife Vibrates 40,000X/Second for Easy Cutting](https://www.cnet.com/home/kitchen-and-household/worlds-first-ultrasonic-chefs-knife-vibrates-40000-times-per-second-for-easy-cutting/)<!-- HN:45292066:end -->
+* [45292066](https://news.social-protocols.org/stats?id=45292066) #11 30 points 15 comments -> [First Ultrasonic Chef's Knife Vibrates 40,000X/Second for Easy Cutting](https://www.cnet.com/home/kitchen-and-household/worlds-first-ultrasonic-chefs-knife-vibrates-40000-times-per-second-for-easy-cutting/)<!-- HN:45292066:end --><!-- HN:45328797:start -->
+* [45328797](https://news.social-protocols.org/stats?id=45328797) #29 9 points 4 comments -> [Oracle- $5Billion to England AI, 1.3 Billion to Make Oxford a new Silicon Valley](https://cloudindustryreview.com/oracle-unveils-5-billion-investment-in-uk-cloud-infrastructure/)<!-- HN:45328797:end -->
