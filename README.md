@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45339422](https://news.social-protocols.org/stats?id=45339422) #17 3 points 4 comments -> [GitHub replaces dashbord feed with AI shit?](https://github.com/login)<!-- HN:45339422:end --><!-- HN:45340295:start -->
 * [45340295](https://news.social-protocols.org/stats?id=45340295) #6 8 points 4 comments -> [Linux: Make the Kernel Cute](https://github.com/torvalds/linux/pull/1290)<!-- HN:45340295:end --><!-- HN:45340251:start -->
 * [45340251](https://news.social-protocols.org/stats?id=45340251) #2 9 points 2 comments -> [Show HN: Perfect your presentation with a panel of AI reviewers](https://review.thorntale.com/)<!-- HN:45340251:end -->
+#### **Tuesday, September 23, 2025**
+<!-- HN:45342230:start -->
+* [45342230](https://news.social-protocols.org/stats?id=45342230) #4 11 points 2 comments -> [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)<!-- HN:45342230:end -->
