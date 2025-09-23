@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45340251](https://news.social-protocols.org/stats?id=45340251) #2 9 points 2 comments -> [Show HN: Perfect your presentation with a panel of AI reviewers](https://review.thorntale.com/)<!-- HN:45340251:end -->
 #### **Tuesday, September 23, 2025**
 <!-- HN:45342230:start -->
-* [45342230](https://news.social-protocols.org/stats?id=45342230) #4 11 points 2 comments -> [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)<!-- HN:45342230:end -->
+* [45342230](https://news.social-protocols.org/stats?id=45342230) #4 11 points 2 comments -> [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)<!-- HN:45342230:end --><!-- HN:45343863:start -->
+* [45343863](https://news.social-protocols.org/stats?id=45343863) #10 4 points 1 comments -> [Show HN: Mushroom Identifier – Fast and Accurate Mushroom Identification with AI](https://mushroomidentification.online)<!-- HN:45343863:end -->
