@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45348330](https://news.social-protocols.org/stats?id=45348330) #28 8 points 7 comments -> [Grindr outage reports coincide with Kirk memorial service in Arizona](https://www.pride.com/culture/charlie-kirk-grindr-outage)<!-- HN:45348330:end --><!-- HN:45349231:start -->
 * [45349231](https://news.social-protocols.org/stats?id=45349231) #10 35 points 2 comments -> [U.S. Secret Service disrupts telecom network that threatened NYC during U.N](https://www.cbsnews.com/news/u-s-secret-service-disrupts-telecom-network-threatened-new-york-city-u-n-general-assembly/)<!-- HN:45349231:end --><!-- HN:45353821:start -->
 * [45353821](https://news.social-protocols.org/stats?id=45353821) #11 4 points 2 comments -> [Fake ycombinatoor / y-comblnator using GitHub issues for contact](https://github.com/ycombinatoor/ycombinator-co/issues)<!-- HN:45353821:end -->
+#### **Wednesday, September 24, 2025**
+<!-- HN:45357222:start -->
+* [45357222](https://news.social-protocols.org/stats?id=45357222) #16 48 points 33 comments -> [Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)<!-- HN:45357222:end -->
