@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 24, 2025**
 <!-- HN:45357222:start -->
 * [45357222](https://news.social-protocols.org/stats?id=45357222) #16 48 points 33 comments -> [Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)<!-- HN:45357222:end --><!-- HN:45359047:start -->
-* [45359047](https://news.social-protocols.org/stats?id=45359047) #26 7 points 4 comments -> [Cloudflare Bankrolls Fascists](https://drewdevault.com/2025/09/24/2025-09-24-Cloudflare-and-fascists.html)<!-- HN:45359047:end -->
+* [45359047](https://news.social-protocols.org/stats?id=45359047) #26 7 points 4 comments -> [Cloudflare Bankrolls Fascists](https://drewdevault.com/2025/09/24/2025-09-24-Cloudflare-and-fascists.html)<!-- HN:45359047:end --><!-- HN:45361921:start -->
+* [45361921](https://news.social-protocols.org/stats?id=45361921) #11 20 points 28 comments -> [The Poison Pill to End the MMR Is Tylenol](https://rasmussenretorts.substack.com/p/the-poison-pill-to-end-the-mmr-is)<!-- HN:45361921:end -->
