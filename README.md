@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45364514](https://news.social-protocols.org/stats?id=45364514) #8 21 points 41 comments -> [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)<!-- HN:45364514:end -->
 #### **Thursday, September 25, 2025**
 <!-- HN:45367485:start -->
-* [45367485](https://news.social-protocols.org/stats?id=45367485) #9 -> [Fuck Hackcyom](https://studium.dev/osib/fuck-hackcyom)<!-- HN:45367485:end -->
+* [45367485](https://news.social-protocols.org/stats?id=45367485) #9 -> [Fuck Hackcyom](https://studium.dev/osib/fuck-hackcyom)<!-- HN:45367485:end --><!-- HN:45367514:start -->
+* [45367514](https://news.social-protocols.org/stats?id=45367514) #4 21 points 20 comments -> [Fewer H-1B Visas Did Not Mean More Employment for Natives (2017)](https://www.nber.org/digest/dec17/fewer-h-1b-visas-did-not-mean-more-employment-natives)<!-- HN:45367514:end -->
