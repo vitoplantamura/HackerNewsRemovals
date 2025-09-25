@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 25, 2025**
 <!-- HN:45367485:start -->
 * [45367485](https://news.social-protocols.org/stats?id=45367485) #9 -> [Fuck Hackcyom](https://studium.dev/osib/fuck-hackcyom)<!-- HN:45367485:end --><!-- HN:45367514:start -->
-* [45367514](https://news.social-protocols.org/stats?id=45367514) #4 21 points 20 comments -> [Fewer H-1B Visas Did Not Mean More Employment for Natives (2017)](https://www.nber.org/digest/dec17/fewer-h-1b-visas-did-not-mean-more-employment-natives)<!-- HN:45367514:end -->
+* [45367514](https://news.social-protocols.org/stats?id=45367514) #4 21 points 20 comments -> [Fewer H-1B Visas Did Not Mean More Employment for Natives (2017)](https://www.nber.org/digest/dec17/fewer-h-1b-visas-did-not-mean-more-employment-natives)<!-- HN:45367514:end --><!-- HN:45367364:start -->
+* [45367364](https://news.social-protocols.org/stats?id=45367364) #16 46 points 13 comments -> [Harvard's Public Health Dean Was Paid $150k to Testify Tylenol Causes Autism](https://www.thecrimson.com/article/2025/9/24/autism-dean-public-health/)<!-- HN:45367364:end -->
