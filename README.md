@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 26, 2025**
 <!-- HN:45380858:start -->
 * [45380858](https://news.social-protocols.org/stats?id=45380858) #8 33 points 21 comments -> [Conspiracy content drives anti-establishment sentiment on TikTok, YouTube](https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/)<!-- HN:45380858:end --><!-- HN:45380778:start -->
-* [45380778](https://news.social-protocols.org/stats?id=45380778) #18 4 points 0 comments -> [Arctic sea ice has reached minimum extent for 2025](https://cires.colorado.edu/news/arctic-sea-ice-has-reached-minimum-extent-2025)<!-- HN:45380778:end -->
+* [45380778](https://news.social-protocols.org/stats?id=45380778) #18 4 points 0 comments -> [Arctic sea ice has reached minimum extent for 2025](https://cires.colorado.edu/news/arctic-sea-ice-has-reached-minimum-extent-2025)<!-- HN:45380778:end --><!-- HN:45382668:start -->
+* [45382668](https://news.social-protocols.org/stats?id=45382668) #21 39 points 21 comments -> [The effect of H-1B quota on employment and selection of foreign-born labor (2018)](https://doi.org/10.1016/j.euroecorev.2018.06.010)<!-- HN:45382668:end -->
