@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, September 19, 2025**
-<!-- HN:45248709:start -->
-* [45248709](https://news.social-protocols.org/stats?id=45248709) #16 10 points 5 comments -> [Pizza Cutters, from Underdesigned to Overdesigned](https://www.core77.com/posts/138409/Pizza-Cutters-from-Underdesigned-to-Overdesigned)<!-- HN:45248709:end --><!-- HN:45300925:start -->
-* [45300925](https://news.social-protocols.org/stats?id=45300925) #16 34 points 23 comments -> [Grocery prices have jumped up, and there's no relief in sight](https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation)<!-- HN:45300925:end --><!-- HN:45301603:start -->
-* [45301603](https://news.social-protocols.org/stats?id=45301603) #1 20 points 6 comments -> [The Invisible Character That Cost Me Too Much Debugging Time](https://blog.dochia.dev/blog/the-invisible-character/)<!-- HN:45301603:end --><!-- HN:45304992:start -->
-* [45304992](https://news.social-protocols.org/stats?id=45304992) #26 112 points 59 comments -> [After getting Jimmy Kimmel suspended, FCC chair threatens ABC's The View](https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/)<!-- HN:45304992:end --><!-- HN:45306210:start -->
-* [45306210](https://news.social-protocols.org/stats?id=45306210) #3 12 points 0 comments -> [Genocide in the Gaza Strip: Brazil files a declaration of intervention to ICJ [pdf]](https://www.icj-cij.org/sites/default/files/case-related/192/192-20250919-pre-01-00-en.pdf)<!-- HN:45306210:end --><!-- HN:45306975:start -->
-* [45306975](https://news.social-protocols.org/stats?id=45306975) #21 11 points 1 comments -> [Ted Cruz: MAGA "will regret" what it did to Jimmy Kimmel](https://www.axios.com/2025/09/19/ted-cruz-jimmy-kimmel-fcc-brendan-carr)<!-- HN:45306975:end --><!-- HN:45307003:start -->
-* [45307003](https://news.social-protocols.org/stats?id=45307003) #21 33 points 24 comments -> [Rails Needs New Governance](https://davidcel.is/articles/rails-needs-new-governance)<!-- HN:45307003:end -->
 #### **Saturday, September 20, 2025**
 <!-- HN:45308628:start -->
 * [45308628](https://news.social-protocols.org/stats?id=45308628) #2 135 points 3 comments -> [H1Bs will start costing $100k/yr](https://www.boundless.com/blog/trump-administration-to-propose-new-100000-fee-for-h-1b-visa-applications/)<!-- HN:45308628:end --><!-- HN:45308778:start -->
