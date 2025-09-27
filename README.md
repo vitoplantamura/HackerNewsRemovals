@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45392811](https://news.social-protocols.org/stats?id=45392811) #27 8 points 0 comments -> [Times New Dumbass](https://timesnewdumbass.co/)<!-- HN:45392811:end --><!-- HN:45393087:start -->
 * [45393087](https://news.social-protocols.org/stats?id=45393087) #7 8 points 1 comments -> [Casimir Effect Energy](https://www.casimirspace.com)<!-- HN:45393087:end --><!-- HN:45393306:start -->
 * [45393306](https://news.social-protocols.org/stats?id=45393306) #24 13 points 1 comments -> [YC Stole a SF-Attacked Founder's Startup](https://twitter.com/_opencv_/status/1971774399729881319)<!-- HN:45393306:end --><!-- HN:45394181:start -->
-* [45394181](https://news.social-protocols.org/stats?id=45394181) #28 3 points 0 comments -> [Show HN: One API for all your SMTPs](https://www.brieferl.com)<!-- HN:45394181:end -->
+* [45394181](https://news.social-protocols.org/stats?id=45394181) #28 3 points 0 comments -> [Show HN: One API for all your SMTPs](https://www.brieferl.com)<!-- HN:45394181:end --><!-- HN:45371359:start -->
+* [45371359](https://news.social-protocols.org/stats?id=45371359) #14 8 points 0 comments -> [How many valid JSON strings are there?](https://qntm.org/jsoncount)<!-- HN:45371359:end -->
