@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45392811:start -->
 * [45392811](https://news.social-protocols.org/stats?id=45392811) #27 8 points 0 comments -> [Times New Dumbass](https://timesnewdumbass.co/)<!-- HN:45392811:end --><!-- HN:45393087:start -->
 * [45393087](https://news.social-protocols.org/stats?id=45393087) #7 8 points 1 comments -> [Casimir Effect Energy](https://www.casimirspace.com)<!-- HN:45393087:end --><!-- HN:45393306:start -->
-* [45393306](https://news.social-protocols.org/stats?id=45393306) #24 13 points 1 comments -> [YC Stole a SF-Attacked Founder's Startup](https://twitter.com/_opencv_/status/1971774399729881319)<!-- HN:45393306:end -->
+* [45393306](https://news.social-protocols.org/stats?id=45393306) #24 13 points 1 comments -> [YC Stole a SF-Attacked Founder's Startup](https://twitter.com/_opencv_/status/1971774399729881319)<!-- HN:45393306:end --><!-- HN:45391987:start -->
+* [45391987](https://news.social-protocols.org/stats?id=45391987) #24 29 points 40 comments -> [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)<!-- HN:45391987:end -->
