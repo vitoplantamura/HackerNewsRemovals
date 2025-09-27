@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45387356](https://news.social-protocols.org/stats?id=45387356) #26 12 points 3 comments -> [Hundreds of Diplomats stage walkout from UN as Netanyahu enters to speak](https://www.timesofisrael.com/liveblog_entry/hundreds-of-diplomats-stage-walkout-from-un-general-assembly-as-netanyahu-enters-to-speak/)<!-- HN:45387356:end --><!-- HN:45390061:start -->
 * [45390061](https://news.social-protocols.org/stats?id=45390061) #10 -> [Valve Prism](https://valveprism.com/)<!-- HN:45390061:end --><!-- HN:45358959:start -->
 * [45358959](https://news.social-protocols.org/stats?id=45358959) #22 5 points 0 comments -> [How to manage Python projects with Poetry](https://www.infoworld.com/article/2256032/how-to-manage-python-projects-with-poetry.html)<!-- HN:45358959:end -->
+#### **Saturday, September 27, 2025**
+<!-- HN:45392811:start -->
+* [45392811](https://news.social-protocols.org/stats?id=45392811) #27 8 points 0 comments -> [Times New Dumbass](https://timesnewdumbass.co/)<!-- HN:45392811:end -->
