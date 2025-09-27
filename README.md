@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 20, 2025**
-<!-- HN:45308628:start -->
-* [45308628](https://news.social-protocols.org/stats?id=45308628) #2 135 points 3 comments -> [H1Bs will start costing $100k/yr](https://www.boundless.com/blog/trump-administration-to-propose-new-100000-fee-for-h-1b-visa-applications/)<!-- HN:45308628:end --><!-- HN:45308778:start -->
-* [45308778](https://news.social-protocols.org/stats?id=45308778) #14 74 points 54 comments -> [Trumpcard (Official US Government Website)](https://trumpcard.gov/)<!-- HN:45308778:end --><!-- HN:45308503:start -->
-* [45308503](https://news.social-protocols.org/stats?id=45308503) #3 98 points 42 comments -> [Did you read the quarter-million-line license for your Slack app?](https://mastodon.mit.edu/@Eggfreckles/114825126857396420)<!-- HN:45308503:end --><!-- HN:45312457:start -->
-* [45312457](https://news.social-protocols.org/stats?id=45312457) #29 29 points 41 comments -> [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)<!-- HN:45312457:end --><!-- HN:45313589:start -->
-* [45313589](https://news.social-protocols.org/stats?id=45313589) #26 5 points 8 comments -> [Embrace hope, reject assisted suicide](https://thecritic.co.uk/embrace-hope-reject-assisted-suicide/)<!-- HN:45313589:end --><!-- HN:45313844:start -->
-* [45313844](https://news.social-protocols.org/stats?id=45313844) #11 9 points 0 comments -> [H-1B Jobs Direct](https://guestworkervisas.com/gwv/jobs_direct.php)<!-- HN:45313844:end --><!-- HN:45281913:start -->
-* [45281913](https://news.social-protocols.org/stats?id=45281913) #30 25 points 33 comments -> [Bosch Unveils New Brake Technology](https://thebrakereport.com/bosch-unveils-new-brake-technology-driving-future-automation/)<!-- HN:45281913:end --><!-- HN:45316555:start -->
-* [45316555](https://news.social-protocols.org/stats?id=45316555) #27 -> [Albert Einstein Gives a Speech Praising Immigrants' Contributions to America](https://www.openculture.com/2025/09/albert-einstein-gives-a-speech-praising-diversity-immigrants-contributions.html)<!-- HN:45316555:end --><!-- HN:45318505:start -->
-* [45318505](https://news.social-protocols.org/stats?id=45318505) #26 -> [California bans face masks for ICE agents](https://sfstandard.com/2025/09/20/california-bans-face-masks-ice-agents/)<!-- HN:45318505:end -->
 #### **Sunday, September 21, 2025**
 <!-- HN:45318657:start -->
 * [45318657](https://news.social-protocols.org/stats?id=45318657) #21 12 points 2 comments -> [Justice Dept. Closed Investigation into Tom Homan for Accepting Bag of Cash](https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html)<!-- HN:45318657:end --><!-- HN:45319451:start -->
