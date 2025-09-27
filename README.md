@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45358959](https://news.social-protocols.org/stats?id=45358959) #22 5 points 0 comments -> [How to manage Python projects with Poetry](https://www.infoworld.com/article/2256032/how-to-manage-python-projects-with-poetry.html)<!-- HN:45358959:end -->
 #### **Saturday, September 27, 2025**
 <!-- HN:45392811:start -->
-* [45392811](https://news.social-protocols.org/stats?id=45392811) #27 8 points 0 comments -> [Times New Dumbass](https://timesnewdumbass.co/)<!-- HN:45392811:end -->
+* [45392811](https://news.social-protocols.org/stats?id=45392811) #27 8 points 0 comments -> [Times New Dumbass](https://timesnewdumbass.co/)<!-- HN:45392811:end --><!-- HN:45393087:start -->
+* [45393087](https://news.social-protocols.org/stats?id=45393087) #7 8 points 1 comments -> [Casimir Effect Energy](https://www.casimirspace.com)<!-- HN:45393087:end -->
