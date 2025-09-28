@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45398719](https://news.social-protocols.org/stats?id=45398719) #16 73 points 29 comments -> [NSPM-7 labels common beliefs as terrorism 'indicators'](https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs)<!-- HN:45398719:end --><!-- HN:45398716:start -->
 * [45398716](https://news.social-protocols.org/stats?id=45398716) #17 6 points 4 comments -> [The truth behind standing desks](https://www.health.harvard.edu/blog/the-truth-behind-standing-desks-2016092310264)<!-- HN:45398716:end --><!-- HN:45362460:start -->
 * [45362460](https://news.social-protocols.org/stats?id=45362460) #18 8 points 0 comments -> [Meshtastic 64: A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)<!-- HN:45362460:end -->
-#### **Sunday, September 28, 2025**
+#### **Sunday, September 28, 2025**<!-- HN:45400945:start -->
+* [45400945](https://news.social-protocols.org/stats?id=45400945) #2 22 points 6 comments -> [How to Set $2,455 on Fire](https://busd.steviep.xyz/howto)<!-- HN:45400945:end -->
