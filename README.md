@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, September 21, 2025**
-<!-- HN:45318657:start -->
-* [45318657](https://news.social-protocols.org/stats?id=45318657) #21 12 points 2 comments -> [Justice Dept. Closed Investigation into Tom Homan for Accepting Bag of Cash](https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html)<!-- HN:45318657:end --><!-- HN:45319451:start -->
-* [45319451](https://news.social-protocols.org/stats?id=45319451) #12 3 points 0 comments -> [Nano Banana AI Image Generator](https://www.ai-nanobanana.net)<!-- HN:45319451:end --><!-- HN:45320140:start -->
-* [45320140](https://news.social-protocols.org/stats?id=45320140) #15 4 points 1 comments -> [Democracy Has Never Experienced Aging](https://arxiv.org/login)<!-- HN:45320140:end --><!-- HN:45323429:start -->
-* [45323429](https://news.social-protocols.org/stats?id=45323429) #12 -> [4Chan, MAGAs unite in 'clog the toilet' op to block H-1B workers flying back](https://www.indiatoday.in/india/story/h1b-visa-flight-fares-surge-india-us-4chan-blocks-bookings-trump-order-2790740-2025-09-21)<!-- HN:45323429:end --><!-- HN:45323623:start -->
-* [45323623](https://news.social-protocols.org/stats?id=45323623) #1 41 points 17 comments -> [How far can you go by train in 5 hours? (interactive map)](https://old.chronotrains.com)<!-- HN:45323623:end --><!-- HN:45323619:start -->
-* [45323619](https://news.social-protocols.org/stats?id=45323619) #1 22 points 2 comments -> [A C library offering generic, contiguous dynamic arrays with O(1) amortized push](https://github.com/L-A-Marchetti/Vec)<!-- HN:45323619:end --><!-- HN:45322328:start -->
-* [45322328](https://news.social-protocols.org/stats?id=45322328) #18 17 points 1 comments -> [Sequoia: Rust OpenPGP Implementation](https://gitlab.com/sequoia-pgp/sequoia)<!-- HN:45322328:end --><!-- HN:45324408:start -->
-* [45324408](https://news.social-protocols.org/stats?id=45324408) #23 15 points 1 comments -> [UK recognises Palestine as an independent state](https://www.theguardian.com/uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state)<!-- HN:45324408:end --><!-- HN:45325728:start -->
-* [45325728](https://news.social-protocols.org/stats?id=45325728) #30 6 points 0 comments -> [In Historic Shift, U.K., Australia and Canada Recognize a Palestinian State](https://www.wsj.com/world/middle-east/in-historic-shift-u-k-australia-and-canada-recognize-a-palestinian-state-83598a66)<!-- HN:45325728:end --><!-- HN:45326230:start -->
-* [45326230](https://news.social-protocols.org/stats?id=45326230) #1 105 points 109 comments -> [Rail travel is booming in America](https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america)<!-- HN:45326230:end --><!-- HN:45327217:start -->
-* [45327217](https://news.social-protocols.org/stats?id=45327217) #15 5 points 0 comments -> [The future is compostable. Period](https://news.ubc.ca/2025/09/the-future-is-compostable-period/)<!-- HN:45327217:end -->
 #### **Monday, September 22, 2025**
 <!-- HN:45292066:start -->
 * [45292066](https://news.social-protocols.org/stats?id=45292066) #11 30 points 15 comments -> [First Ultrasonic Chef's Knife Vibrates 40,000X/Second for Easy Cutting](https://www.cnet.com/home/kitchen-and-household/worlds-first-ultrasonic-chefs-knife-vibrates-40000-times-per-second-for-easy-cutting/)<!-- HN:45292066:end --><!-- HN:45328797:start -->
