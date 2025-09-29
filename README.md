@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45406921](https://news.social-protocols.org/stats?id=45406921) #26 -> [mRNA vaccines linked to increased risks of various cancers](https://biomarkerres.biomedcentral.com/articles/10.1186/s40364-025-00831-w)<!-- HN:45406921:end --><!-- HN:45405221:start -->
 * [45405221](https://news.social-protocols.org/stats?id=45405221) #5 128 points 70 comments -> [Why I'm not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)<!-- HN:45405221:end --><!-- HN:45406826:start -->
 * [45406826](https://news.social-protocols.org/stats?id=45406826) #27 28 points 40 comments -> [People Got Together to Stop a School Shooting – Before It Happened](https://www.nytimes.com/2025/09/27/nyregion/mass-shooting-prevention.html)<!-- HN:45406826:end -->
+#### **Monday, September 29, 2025**
+<!-- HN:45409013:start -->
+* [45409013](https://news.social-protocols.org/stats?id=45409013) #16 9 points 1 comments -> [Imagination as General Intelligence: Reconciling Consciousness and Free Will](https://zenodo.org/records/17109096)<!-- HN:45409013:end -->
