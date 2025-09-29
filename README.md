@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, September 29, 2025**
 <!-- HN:45409013:start -->
 * [45409013](https://news.social-protocols.org/stats?id=45409013) #16 9 points 1 comments -> [Imagination as General Intelligence: Reconciling Consciousness and Free Will](https://zenodo.org/records/17109096)<!-- HN:45409013:end --><!-- HN:45388402:start -->
-* [45388402](https://news.social-protocols.org/stats?id=45388402) #15 18 points 40 comments -> [Reusable grocery bags durability test](https://www.cbc.ca/lite/story/1.7643243)<!-- HN:45388402:end -->
+* [45388402](https://news.social-protocols.org/stats?id=45388402) #15 18 points 40 comments -> [Reusable grocery bags durability test](https://www.cbc.ca/lite/story/1.7643243)<!-- HN:45388402:end --><!-- HN:45411666:start -->
+* [45411666](https://news.social-protocols.org/stats?id=45411666) #5 16 points 0 comments -> [Twenty Lessons on Fighting Tyranny from the Twentieth Century](https://scholars.org/contribution/twenty-lessons-fighting-tyranny-twentieth)<!-- HN:45411666:end -->
