@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, September 22, 2025**
-<!-- HN:45292066:start -->
-* [45292066](https://news.social-protocols.org/stats?id=45292066) #11 30 points 15 comments -> [First Ultrasonic Chef's Knife Vibrates 40,000X/Second for Easy Cutting](https://www.cnet.com/home/kitchen-and-household/worlds-first-ultrasonic-chefs-knife-vibrates-40000-times-per-second-for-easy-cutting/)<!-- HN:45292066:end --><!-- HN:45328797:start -->
-* [45328797](https://news.social-protocols.org/stats?id=45328797) #29 9 points 4 comments -> [Oracle- $5Billion to England AI, 1.3 Billion to Make Oxford a new Silicon Valley](https://cloudindustryreview.com/oracle-unveils-5-billion-investment-in-uk-cloud-infrastructure/)<!-- HN:45328797:end --><!-- HN:45328404:start -->
-* [45328404](https://news.social-protocols.org/stats?id=45328404) #20 8 points 3 comments -> [fs-code: PyFilesystems for Gitlab, GitHub, and Git](https://danjou.gitlab.io/fs-code/dev/codefs.html)<!-- HN:45328404:end --><!-- HN:45328293:start -->
-* [45328293](https://news.social-protocols.org/stats?id=45328293) #27 12 points 1 comments -> [Show HN: Wan-Animate – Unified Character Animation and Replacement](https://www.wananimate.net/)<!-- HN:45328293:end --><!-- HN:45331841:start -->
-* [45331841](https://news.social-protocols.org/stats?id=45331841) #4 12 points 1 comments -> [Watches Are for the Poor](https://prajyoth.pages.dev/article?id=2025-09-20-watches-are-for-the-poor)<!-- HN:45331841:end --><!-- HN:45334362:start -->
-* [45334362](https://news.social-protocols.org/stats?id=45334362) #28 9 points 2 comments -> [Ice detainees hold hunger strike at Louisiana state penitentiary](https://www.theguardian.com/us-news/2025/sep/21/ice-detainee-hunger-strike-louisiana)<!-- HN:45334362:end --><!-- HN:45338345:start -->
-* [45338345](https://news.social-protocols.org/stats?id=45338345) #13 3 points 2 comments -> [Convert Google Maps Saved Places to Apple Maps](https://www.gotoapplemaps.com)<!-- HN:45338345:end --><!-- HN:45335695:start -->
-* [45335695](https://news.social-protocols.org/stats?id=45335695) #3 65 points 2 comments -> [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the)<!-- HN:45335695:end --><!-- HN:45338990:start -->
-* [45338990](https://news.social-protocols.org/stats?id=45338990) #26 67 points 11 comments -> [Umberto Eco: Ur-Fascism](https://bobmschwartz.com/2017/12/28/umberto-eco-ur-fascism/)<!-- HN:45338990:end --><!-- HN:45339422:start -->
-* [45339422](https://news.social-protocols.org/stats?id=45339422) #17 3 points 4 comments -> [GitHub replaces dashbord feed with AI shit?](https://github.com/login)<!-- HN:45339422:end --><!-- HN:45340295:start -->
-* [45340295](https://news.social-protocols.org/stats?id=45340295) #6 8 points 4 comments -> [Linux: Make the Kernel Cute](https://github.com/torvalds/linux/pull/1290)<!-- HN:45340295:end --><!-- HN:45340251:start -->
-* [45340251](https://news.social-protocols.org/stats?id=45340251) #2 9 points 2 comments -> [Show HN: Perfect your presentation with a panel of AI reviewers](https://review.thorntale.com/)<!-- HN:45340251:end -->
 #### **Tuesday, September 23, 2025**
 <!-- HN:45342230:start -->
 * [45342230](https://news.social-protocols.org/stats?id=45342230) #4 11 points 2 comments -> [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)<!-- HN:45342230:end --><!-- HN:45343863:start -->
