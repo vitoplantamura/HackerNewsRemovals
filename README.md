@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45389934](https://news.social-protocols.org/stats?id=45389934) #26 6 points 4 comments -> [Show HN: Font Tester – Preview fonts on custom content](https://fonts.tomhadley.link/)<!-- HN:45389934:end --><!-- HN:45416150:start -->
 * [45416150](https://news.social-protocols.org/stats?id=45416150) #19 19 points 2 comments -> [OpenAI and Stripe create Agentic Commerce Protocol](https://www.agenticcommerce.dev/)<!-- HN:45416150:end --><!-- HN:45416572:start -->
 * [45416572](https://news.social-protocols.org/stats?id=45416572) #25 95 points 1 comments -> [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)<!-- HN:45416572:end -->
+#### **Tuesday, September 30, 2025**
+<!-- HN:45420302:start -->
+* [45420302](https://news.social-protocols.org/stats?id=45420302) #22 7 points 4 comments -> [Larry Ellison wants the U.S. to 'unify all the national data and then feed to AI](https://fortune.com/2025/02/14/larry-ellison-ai-centralized-database-citizen-data/)<!-- HN:45420302:end -->
