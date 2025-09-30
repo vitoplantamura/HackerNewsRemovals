@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45416572](https://news.social-protocols.org/stats?id=45416572) #25 95 points 1 comments -> [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)<!-- HN:45416572:end -->
 #### **Tuesday, September 30, 2025**
 <!-- HN:45420302:start -->
-* [45420302](https://news.social-protocols.org/stats?id=45420302) #22 7 points 4 comments -> [Larry Ellison wants the U.S. to 'unify all the national data and then feed to AI](https://fortune.com/2025/02/14/larry-ellison-ai-centralized-database-citizen-data/)<!-- HN:45420302:end -->
+* [45420302](https://news.social-protocols.org/stats?id=45420302) #22 7 points 4 comments -> [Larry Ellison wants the U.S. to 'unify all the national data and then feed to AI](https://fortune.com/2025/02/14/larry-ellison-ai-centralized-database-citizen-data/)<!-- HN:45420302:end --><!-- HN:45423014:start -->
+* [45423014](https://news.social-protocols.org/stats?id=45423014) #25 58 points 42 comments -> [Why Heavy Codes of Conduct Are Unnecessary for Open Source Projects](https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/)<!-- HN:45423014:end -->
