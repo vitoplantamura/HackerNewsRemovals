@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, September 23, 2025**
-<!-- HN:45342230:start -->
-* [45342230](https://news.social-protocols.org/stats?id=45342230) #4 11 points 2 comments -> [Eschatological thinking: why Peter Thiel is talking about the Antichrist](https://www.realtimetechpocalypse.com/p/the-political-power-of-eschatological-82b)<!-- HN:45342230:end --><!-- HN:45343863:start -->
-* [45343863](https://news.social-protocols.org/stats?id=45343863) #10 4 points 1 comments -> [Show HN: Mushroom Identifier – Fast and Accurate Mushroom Identification with AI](https://mushroomidentification.online)<!-- HN:45343863:end --><!-- HN:45344080:start -->
-* [45344080](https://news.social-protocols.org/stats?id=45344080) #19 8 points 1 comments -> [Netanyahu may struggle to find response that matches rhetoric on Palestine](https://www.theguardian.com/world/2025/sep/22/allies-recognition-of-palestine-angers-netanyahu-but-his-options-for-response-are-limited)<!-- HN:45344080:end --><!-- HN:45344662:start -->
-* [45344662](https://news.social-protocols.org/stats?id=45344662) #9 -> [One step closer to bombing civilians](https://www.treason.io/p/read-one-step-closer-to-bombing-civilians)<!-- HN:45344662:end --><!-- HN:45346910:start -->
-* [45346910](https://news.social-protocols.org/stats?id=45346910) #7 5 points 3 comments -> [If you make your app 10% easier to use you'll get twice as many users](https://twitter.com/paulg/status/1970422069151355163)<!-- HN:45346910:end --><!-- HN:45346770:start -->
-* [45346770](https://news.social-protocols.org/stats?id=45346770) #25 5 points 0 comments -> [Sex tests for athletes are too little, too late](https://unherd.com/newsroom/sex-tests-for-athletes-are-too-little-too-late/)<!-- HN:45346770:end --><!-- HN:45347148:start -->
-* [45347148](https://news.social-protocols.org/stats?id=45347148) #27 30 points 7 comments -> [Secret Service takes down network that could have crippled New York cell service](https://www.theguardian.com/us-news/2025/sep/23/secret-service-new-york-network)<!-- HN:45347148:end --><!-- HN:45348146:start -->
-* [45348146](https://news.social-protocols.org/stats?id=45348146) #15 19 points 4 comments -> [He's ranked 2nd in the nation for youth rock climbing; AI just canceled him](https://insideinvestigator.org/hes-ranked-2nd-in-the-nation-for-youth-rock-climbing-ai-just-canceled-him/)<!-- HN:45348146:end --><!-- HN:45348330:start -->
-* [45348330](https://news.social-protocols.org/stats?id=45348330) #28 8 points 7 comments -> [Grindr outage reports coincide with Kirk memorial service in Arizona](https://www.pride.com/culture/charlie-kirk-grindr-outage)<!-- HN:45348330:end --><!-- HN:45349231:start -->
-* [45349231](https://news.social-protocols.org/stats?id=45349231) #10 35 points 2 comments -> [U.S. Secret Service disrupts telecom network that threatened NYC during U.N](https://www.cbsnews.com/news/u-s-secret-service-disrupts-telecom-network-threatened-new-york-city-u-n-general-assembly/)<!-- HN:45349231:end --><!-- HN:45353821:start -->
-* [45353821](https://news.social-protocols.org/stats?id=45353821) #11 4 points 2 comments -> [Fake ycombinatoor / y-comblnator using GitHub issues for contact](https://github.com/ycombinatoor/ycombinator-co/issues)<!-- HN:45353821:end -->
 #### **Wednesday, September 24, 2025**
 <!-- HN:45357222:start -->
 * [45357222](https://news.social-protocols.org/stats?id=45357222) #16 48 points 33 comments -> [Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)<!-- HN:45357222:end --><!-- HN:45359047:start -->
