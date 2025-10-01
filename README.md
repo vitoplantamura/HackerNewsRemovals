@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45431979](https://news.social-protocols.org/stats?id=45431979) #17 7 points 2 comments -> [Live Video of Global Sumud Flotilla](https://globalsumudflotilla.org/live/)<!-- HN:45431979:end -->
 #### **Wednesday, October 1, 2025**<!-- HN:45433619:start -->
 * [45433619](https://news.social-protocols.org/stats?id=45433619) #4 11 points 1 comments -> [A Requiem for a Dying Operating System (1994)](https://user.eng.umd.edu/~blj/funny/requium.html)<!-- HN:45433619:end --><!-- HN:45434179:start -->
-* [45434179](https://news.social-protocols.org/stats?id=45434179) #10 35 points 23 comments -> [US government shuts down](https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down)<!-- HN:45434179:end -->
+* [45434179](https://news.social-protocols.org/stats?id=45434179) #10 35 points 23 comments -> [US government shuts down](https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down)<!-- HN:45434179:end --><!-- HN:45402706:start -->
+* [45402706](https://news.social-protocols.org/stats?id=45402706) #8 6 points 2 comments -> [What Is Copolymer 3D Filament and Why Should You Use It](https://filamatrix.com/blogs/blogs/what-is-copolymer-3d-filament-and-why-should-you-use-it)<!-- HN:45402706:end -->
