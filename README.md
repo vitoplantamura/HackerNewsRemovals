@@ -118,5 +118,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45428122](https://news.social-protocols.org/stats?id=45428122) #1 262 points 203 comments -> [Sora 2](https://openai.com/index/sora-2/)<!-- HN:45428122:end --><!-- HN:45431979:start -->
 * [45431979](https://news.social-protocols.org/stats?id=45431979) #17 7 points 2 comments -> [Live Video of Global Sumud Flotilla](https://globalsumudflotilla.org/live/)<!-- HN:45431979:end -->
 #### **Wednesday, October 1, 2025**
-<!-- HN:45432389:start -->
-* [45432389](https://news.social-protocols.org/stats?id=45432389) #10 12 points 2 comments -> [You want to meet me, don't make me work for it](https://gist.github.com/ibehnam/793584b04dde6028b35666eaa2b611b4)<!-- HN:45432389:end -->
