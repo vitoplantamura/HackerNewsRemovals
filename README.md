@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, September 24, 2025**
-<!-- HN:45357222:start -->
-* [45357222](https://news.social-protocols.org/stats?id=45357222) #16 48 points 33 comments -> [Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts](https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith)<!-- HN:45357222:end --><!-- HN:45359047:start -->
-* [45359047](https://news.social-protocols.org/stats?id=45359047) #26 7 points 4 comments -> [Cloudflare Bankrolls Fascists](https://drewdevault.com/2025/09/24/2025-09-24-Cloudflare-and-fascists.html)<!-- HN:45359047:end --><!-- HN:45361921:start -->
-* [45361921](https://news.social-protocols.org/stats?id=45361921) #11 20 points 28 comments -> [The Poison Pill to End the MMR Is Tylenol](https://rasmussenretorts.substack.com/p/the-poison-pill-to-end-the-mmr-is)<!-- HN:45361921:end --><!-- HN:45361574:start -->
-* [45361574](https://news.social-protocols.org/stats?id=45361574) #15 27 points 13 comments -> [Replace PostgreSQL with Git for your next project](https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/)<!-- HN:45361574:end --><!-- HN:45365001:start -->
-* [45365001](https://news.social-protocols.org/stats?id=45365001) #9 14 points 5 comments -> [How Secure is Tor? Not secure at all](https://csam-bib.github.io/security/)<!-- HN:45365001:end --><!-- HN:45364514:start -->
-* [45364514](https://news.social-protocols.org/stats?id=45364514) #8 21 points 41 comments -> [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)<!-- HN:45364514:end -->
 #### **Thursday, September 25, 2025**
 <!-- HN:45367485:start -->
 * [45367485](https://news.social-protocols.org/stats?id=45367485) #9 -> [Fuck Hackcyom](https://studium.dev/osib/fuck-hackcyom)<!-- HN:45367485:end --><!-- HN:45367514:start -->
