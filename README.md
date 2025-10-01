@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45428294](https://news.social-protocols.org/stats?id=45428294) #14 6 points 1 comments -> [U.S. Department of Housing and Urban Development](https://www.hud.gov/)<!-- HN:45428294:end --><!-- HN:45428122:start -->
 * [45428122](https://news.social-protocols.org/stats?id=45428122) #1 262 points 203 comments -> [Sora 2](https://openai.com/index/sora-2/)<!-- HN:45428122:end --><!-- HN:45431979:start -->
 * [45431979](https://news.social-protocols.org/stats?id=45431979) #17 7 points 2 comments -> [Live Video of Global Sumud Flotilla](https://globalsumudflotilla.org/live/)<!-- HN:45431979:end -->
-#### **Wednesday, October 1, 2025**
+#### **Wednesday, October 1, 2025**<!-- HN:45433619:start -->
+* [45433619](https://news.social-protocols.org/stats?id=45433619) #4 11 points 1 comments -> [A Requiem for a Dying Operating System (1994)](https://user.eng.umd.edu/~blj/funny/requium.html)<!-- HN:45433619:end -->
