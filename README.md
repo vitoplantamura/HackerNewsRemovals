@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45442365](https://news.social-protocols.org/stats?id=45442365) #14 4 points 3 comments -> [The Anti-Truth Mandate: A Technical Flaw in Claude's Safety Architecture](https://github.com/anthropics/claude-code/issues/8683)<!-- HN:45442365:end -->
 #### **Thursday, October 2, 2025**
 <!-- HN:45445331:start -->
-* [45445331](https://news.social-protocols.org/stats?id=45445331) #4 9 points 1 comments -> [Maine Woman Discovers Election Ballots in Amazon Package](https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/)<!-- HN:45445331:end -->
+* [45445331](https://news.social-protocols.org/stats?id=45445331) #4 9 points 1 comments -> [Maine Woman Discovers Election Ballots in Amazon Package](https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/)<!-- HN:45445331:end --><!-- HN:45446240:start -->
+* [45446240](https://news.social-protocols.org/stats?id=45446240) #11 10 points 4 comments -> [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa)<!-- HN:45446240:end -->
