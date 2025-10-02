@@ -121,5 +121,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 2, 2025**
 <!-- HN:45445331:start -->
 * [45445331](https://news.social-protocols.org/stats?id=45445331) #4 9 points 1 comments -> [Maine Woman Discovers Election Ballots in Amazon Package](https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/)<!-- HN:45445331:end --><!-- HN:45446240:start -->
-* [45446240](https://news.social-protocols.org/stats?id=45446240) #11 10 points 4 comments -> [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa)<!-- HN:45446240:end --><!-- HN:45448702:start -->
-* [45448702](https://news.social-protocols.org/stats?id=45448702) #10 15 points 3 comments -> [Why America still needs public schools](https://theconversation.com/why-america-still-needs-public-schools-260368)<!-- HN:45448702:end -->
+* [45446240](https://news.social-protocols.org/stats?id=45446240) #11 10 points 4 comments -> [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa)<!-- HN:45446240:end -->
