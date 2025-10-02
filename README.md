@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45397339](https://news.social-protocols.org/stats?id=45397339) #11 8 points 2 comments -> [Increase Image kb size to 20KB, 50KB, or to the specific KBs](https://www.hadbomb.com/increase-image-size/)<!-- HN:45397339:end --><!-- HN:45440207:start -->
 * [45440207](https://news.social-protocols.org/stats?id=45440207) #28 37 points 41 comments -> [Supreme Court lets Fed Governor Cook keep job pending oral argument in January](https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html)<!-- HN:45440207:end --><!-- HN:45442365:start -->
 * [45442365](https://news.social-protocols.org/stats?id=45442365) #14 4 points 3 comments -> [The Anti-Truth Mandate: A Technical Flaw in Claude's Safety Architecture](https://github.com/anthropics/claude-code/issues/8683)<!-- HN:45442365:end -->
+#### **Thursday, October 2, 2025**
+<!-- HN:45445331:start -->
+* [45445331](https://news.social-protocols.org/stats?id=45445331) #4 9 points 1 comments -> [Maine Woman Discovers Election Ballots in Amazon Package](https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/)<!-- HN:45445331:end -->
