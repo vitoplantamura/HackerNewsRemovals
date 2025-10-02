@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, September 25, 2025**
-<!-- HN:45367485:start -->
-* [45367485](https://news.social-protocols.org/stats?id=45367485) #9 -> [Fuck Hackcyom](https://studium.dev/osib/fuck-hackcyom)<!-- HN:45367485:end --><!-- HN:45367514:start -->
-* [45367514](https://news.social-protocols.org/stats?id=45367514) #4 21 points 20 comments -> [Fewer H-1B Visas Did Not Mean More Employment for Natives (2017)](https://www.nber.org/digest/dec17/fewer-h-1b-visas-did-not-mean-more-employment-natives)<!-- HN:45367514:end --><!-- HN:45367364:start -->
-* [45367364](https://news.social-protocols.org/stats?id=45367364) #16 46 points 13 comments -> [Harvard's Public Health Dean Was Paid $150k to Testify Tylenol Causes Autism](https://www.thecrimson.com/article/2025/9/24/autism-dean-public-health/)<!-- HN:45367364:end --><!-- HN:45370306:start -->
-* [45370306](https://news.social-protocols.org/stats?id=45370306) #13 38 points 15 comments -> [Perhaps my last post – we'll see (2016)](http://itila.blogspot.com/2016/04/perhaps-my-last-post-well-see.html)<!-- HN:45370306:end --><!-- HN:45372888:start -->
-* [45372888](https://news.social-protocols.org/stats?id=45372888) #8 29 points 38 comments -> [Shiller PE Ratio](https://www.multpl.com/shiller-pe)<!-- HN:45372888:end --><!-- HN:45373606:start -->
-* [45373606](https://news.social-protocols.org/stats?id=45373606) #21 8 points 3 comments -> [It's Time to License Software Engineering](https://www.slater.dev/its-time-to-license-software-engineering/)<!-- HN:45373606:end --><!-- HN:45372935:start -->
-* [45372935](https://news.social-protocols.org/stats?id=45372935) #17 7 points 10 comments -> [Ubuntu: The Indigenous Ethos of Restorative Justice](https://www.traum-und-verantwortung.de/zitate/ubuntu/)<!-- HN:45372935:end --><!-- HN:45375889:start -->
-* [45375889](https://news.social-protocols.org/stats?id=45375889) #27 -> [Gov. Gavin Newsom says he fears there won't be a 2028 election](https://ktla.com/news/california/gov-gavin-newsom-fears-there-wont-be-a-2028-election/)<!-- HN:45375889:end --><!-- HN:45376063:start -->
-* [45376063](https://news.social-protocols.org/stats?id=45376063) #24 32 points 5 comments -> [Microsoft blocks Israel's use of its data centers](https://www.engadget.com/big-tech/microsoft-blocks-israels-use-of-its-data-centers-for-mass-surveillance-of-palestinians-170107061.html)<!-- HN:45376063:end --><!-- HN:45377439:start -->
-* [45377439](https://news.social-protocols.org/stats?id=45377439) #13 -> [Doge Continues to Operate Unchecked, Violating Federal Privacy and Security Laws](https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/)<!-- HN:45377439:end -->
 #### **Friday, September 26, 2025**
 <!-- HN:45380858:start -->
 * [45380858](https://news.social-protocols.org/stats?id=45380858) #8 33 points 21 comments -> [Conspiracy content drives anti-establishment sentiment on TikTok, YouTube](https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/)<!-- HN:45380858:end --><!-- HN:45380778:start -->
