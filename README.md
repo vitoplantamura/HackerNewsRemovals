@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, September 26, 2025**
-<!-- HN:45380858:start -->
-* [45380858](https://news.social-protocols.org/stats?id=45380858) #8 33 points 21 comments -> [Conspiracy content drives anti-establishment sentiment on TikTok, YouTube](https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/)<!-- HN:45380858:end --><!-- HN:45380778:start -->
-* [45380778](https://news.social-protocols.org/stats?id=45380778) #18 4 points 0 comments -> [Arctic sea ice has reached minimum extent for 2025](https://cires.colorado.edu/news/arctic-sea-ice-has-reached-minimum-extent-2025)<!-- HN:45380778:end --><!-- HN:45382668:start -->
-* [45382668](https://news.social-protocols.org/stats?id=45382668) #21 39 points 21 comments -> [The effect of H-1B quota on employment and selection of foreign-born labor (2018)](https://doi.org/10.1016/j.euroecorev.2018.06.010)<!-- HN:45382668:end --><!-- HN:45384890:start -->
-* [45384890](https://news.social-protocols.org/stats?id=45384890) #7 12 points 0 comments -> [Apple's Claimed Private Data Flows Pass Through Amazon Infrastructure](https://gist.github.com/JGoyd/e5fe395c4b51f9e03734ad08e6e790db)<!-- HN:45384890:end --><!-- HN:45384804:start -->
-* [45384804](https://news.social-protocols.org/stats?id=45384804) #16 4 points 0 comments -> [Apple's disregard for security and privacy is mind-boggling (2020)](https://evermeet.cx/wiki/Apple%27s_disregard_for_security_and_privacy_is_mind-boggling)<!-- HN:45384804:end --><!-- HN:45385252:start -->
-* [45385252](https://news.social-protocols.org/stats?id=45385252) #28 28 points 41 comments -> [Facebook and Instagram to offer ad-free service in UK for up to £3.99 a month](https://www.theguardian.com/technology/2025/sep/26/facebook-and-instagram-to-offer-paid-ad-free-service-uk)<!-- HN:45385252:end --><!-- HN:45387356:start -->
-* [45387356](https://news.social-protocols.org/stats?id=45387356) #26 12 points 3 comments -> [Hundreds of Diplomats stage walkout from UN as Netanyahu enters to speak](https://www.timesofisrael.com/liveblog_entry/hundreds-of-diplomats-stage-walkout-from-un-general-assembly-as-netanyahu-enters-to-speak/)<!-- HN:45387356:end --><!-- HN:45390061:start -->
-* [45390061](https://news.social-protocols.org/stats?id=45390061) #10 -> [Valve Prism](https://valveprism.com/)<!-- HN:45390061:end --><!-- HN:45358959:start -->
-* [45358959](https://news.social-protocols.org/stats?id=45358959) #22 5 points 0 comments -> [How to manage Python projects with Poetry](https://www.infoworld.com/article/2256032/how-to-manage-python-projects-with-poetry.html)<!-- HN:45358959:end -->
 #### **Saturday, September 27, 2025**
 <!-- HN:45392811:start -->
 * [45392811](https://news.social-protocols.org/stats?id=45392811) #27 8 points 0 comments -> [Times New Dumbass](https://timesnewdumbass.co/)<!-- HN:45392811:end --><!-- HN:45393087:start -->
