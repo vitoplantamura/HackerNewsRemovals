@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 3, 2025**
 <!-- HN:45458010:start -->
 * [45458010](https://news.social-protocols.org/stats?id=45458010) #29 4 points 0 comments -> [Education Department employees' email messages changed to blame Democrats](https://www.nbcnews.com/politics/trump-administration/education-department-employees-email-automatically-changed-rcna235211)<!-- HN:45458010:end --><!-- HN:45457929:start -->
-* [45457929](https://news.social-protocols.org/stats?id=45457929) #8 6 points 0 comments -> [I Trained a Small Language Model from Scratch](https://nwosunneoma.medium.com/how-i-trained-a-small-language-model-from-scratch-8af167479d1a)<!-- HN:45457929:end -->
+* [45457929](https://news.social-protocols.org/stats?id=45457929) #8 6 points 0 comments -> [I Trained a Small Language Model from Scratch](https://nwosunneoma.medium.com/how-i-trained-a-small-language-model-from-scratch-8af167479d1a)<!-- HN:45457929:end --><!-- HN:45458500:start -->
+* [45458500](https://news.social-protocols.org/stats?id=45458500) #17 6 points 0 comments -> [USC sold dead bodies to U.S. military to train IDF medical personnel](https://www.uscannenbergmedia.com/2025/10/01/usc-sold-dead-bodies-to-us-military-to-train-idf-medical-personnel/)<!-- HN:45458500:end -->
