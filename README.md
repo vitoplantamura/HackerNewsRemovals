@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45451971](https://news.social-protocols.org/stats?id=45451971) #3 28 points 21 comments -> [Y'all are over-complicating these AI-risk arguments](https://dynomight.net/ai-risk/)<!-- HN:45451971:end --><!-- HN:45455139:start -->
 * [45455139](https://news.social-protocols.org/stats?id=45455139) #26 10 points 6 comments -> [USDA website blames "Radical Left Democrats" for shutdown](https://www.usda.gov/)<!-- HN:45455139:end --><!-- HN:45436391:start -->
 * [45436391](https://news.social-protocols.org/stats?id=45436391) #18 4 points 0 comments -> [Creating a Database of Motivated Proofs](https://gowers.wordpress.com/2025/09/22/creating-a-database-of-motivated-proofs/)<!-- HN:45436391:end -->
+#### **Friday, October 3, 2025**
+<!-- HN:45458010:start -->
+* [45458010](https://news.social-protocols.org/stats?id=45458010) #29 4 points 0 comments -> [Education Department employees' email messages changed to blame Democrats](https://www.nbcnews.com/politics/trump-administration/education-department-employees-email-automatically-changed-rcna235211)<!-- HN:45458010:end -->
