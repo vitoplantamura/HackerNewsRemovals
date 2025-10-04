@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45468324](https://news.social-protocols.org/stats?id=45468324) #6 11 points 2 comments -> [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)<!-- HN:45468324:end -->
 #### **Saturday, October 4, 2025**
 <!-- HN:45433936:start -->
-* [45433936](https://news.social-protocols.org/stats?id=45433936) #26 40 points 40 comments -> [Baseball durations after the pitch clock](https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/)<!-- HN:45433936:end -->
+* [45433936](https://news.social-protocols.org/stats?id=45433936) #26 40 points 40 comments -> [Baseball durations after the pitch clock](https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/)<!-- HN:45433936:end --><!-- HN:45475951:start -->
+* [45475951](https://news.social-protocols.org/stats?id=45475951) #19 22 points 2 comments -> [New Poll: Democratic Socialism Is Now Mainstream](https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/)<!-- HN:45475951:end -->
