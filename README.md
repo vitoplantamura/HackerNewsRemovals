@@ -127,5 +127,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45467886](https://news.social-protocols.org/stats?id=45467886) #3 -> [Oracle employees who criticise Israel referred to mental health services](https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/)<!-- HN:45467886:end --><!-- HN:45468324:start -->
 * [45468324](https://news.social-protocols.org/stats?id=45468324) #6 11 points 2 comments -> [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)<!-- HN:45468324:end -->
 #### **Saturday, October 4, 2025**
-<!-- HN:45433936:start -->
-* [45433936](https://news.social-protocols.org/stats?id=45433936) #26 40 points 40 comments -> [Baseball durations after the pitch clock](https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/)<!-- HN:45433936:end -->
