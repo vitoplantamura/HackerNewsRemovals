@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 27, 2025**
-<!-- HN:45392811:start -->
-* [45392811](https://news.social-protocols.org/stats?id=45392811) #27 8 points 0 comments -> [Times New Dumbass](https://timesnewdumbass.co/)<!-- HN:45392811:end --><!-- HN:45393087:start -->
-* [45393087](https://news.social-protocols.org/stats?id=45393087) #7 8 points 1 comments -> [Casimir Effect Energy](https://www.casimirspace.com)<!-- HN:45393087:end --><!-- HN:45393306:start -->
-* [45393306](https://news.social-protocols.org/stats?id=45393306) #24 13 points 1 comments -> [YC Stole a SF-Attacked Founder's Startup](https://twitter.com/_opencv_/status/1971774399729881319)<!-- HN:45393306:end --><!-- HN:45394181:start -->
-* [45394181](https://news.social-protocols.org/stats?id=45394181) #28 3 points 0 comments -> [Show HN: One API for all your SMTPs](https://www.brieferl.com)<!-- HN:45394181:end --><!-- HN:45371359:start -->
-* [45371359](https://news.social-protocols.org/stats?id=45371359) #14 8 points 0 comments -> [How many valid JSON strings are there?](https://qntm.org/jsoncount)<!-- HN:45371359:end --><!-- HN:45361717:start -->
-* [45361717](https://news.social-protocols.org/stats?id=45361717) #25 6 points 0 comments -> [Notes on Geiger Counters](https://divested.dev/pages/blog#2025-09-24-geigers)<!-- HN:45361717:end --><!-- HN:45395782:start -->
-* [45395782](https://news.social-protocols.org/stats?id=45395782) #15 3 points 1 comments -> [Health Effects of Cousin Marriage: Evidence from US Genealogical Records](https://www.aeaweb.org/articles?id=10.1257/aeri.20230544)<!-- HN:45395782:end --><!-- HN:45397773:start -->
-* [45397773](https://news.social-protocols.org/stats?id=45397773) #15 39 points 24 comments -> [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162)<!-- HN:45397773:end --><!-- HN:45398719:start -->
-* [45398719](https://news.social-protocols.org/stats?id=45398719) #16 73 points 29 comments -> [NSPM-7 labels common beliefs as terrorism 'indicators'](https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs)<!-- HN:45398719:end --><!-- HN:45398716:start -->
-* [45398716](https://news.social-protocols.org/stats?id=45398716) #17 6 points 4 comments -> [The truth behind standing desks](https://www.health.harvard.edu/blog/the-truth-behind-standing-desks-2016092310264)<!-- HN:45398716:end --><!-- HN:45362460:start -->
-* [45362460](https://news.social-protocols.org/stats?id=45362460) #18 8 points 0 comments -> [Meshtastic 64: A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)<!-- HN:45362460:end -->
 #### **Sunday, September 28, 2025**<!-- HN:45400945:start -->
 * [45400945](https://news.social-protocols.org/stats?id=45400945) #2 22 points 6 comments -> [How to Set $2,455 on Fire](https://busd.steviep.xyz/howto)<!-- HN:45400945:end --><!-- HN:45400009:start -->
 * [45400009](https://news.social-protocols.org/stats?id=45400009) #17 48 points 7 comments -> [How I accidently created the fastest CSV parser ever made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)<!-- HN:45400009:end --><!-- HN:45401941:start -->
