@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45467886](https://news.social-protocols.org/stats?id=45467886) #3 -> [Oracle employees who criticise Israel referred to mental health services](https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/)<!-- HN:45467886:end --><!-- HN:45468324:start -->
 * [45468324](https://news.social-protocols.org/stats?id=45468324) #6 11 points 2 comments -> [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)<!-- HN:45468324:end -->
 #### **Saturday, October 4, 2025**<!-- HN:45433743:start -->
-* [45433743](https://news.social-protocols.org/stats?id=45433743) #30 34 points 40 comments -> [The mini smartphones from Japan you've never heard about [video]](https://www.youtube.com/watch?v=_e27TfHibTg)<!-- HN:45433743:end -->
+* [45433743](https://news.social-protocols.org/stats?id=45433743) #30 34 points 40 comments -> [The mini smartphones from Japan you've never heard about [video]](https://www.youtube.com/watch?v=_e27TfHibTg)<!-- HN:45433743:end --><!-- HN:45476347:start -->
+* [45476347](https://news.social-protocols.org/stats?id=45476347) #25 4 points 6 comments -> [Designers Should Look to Demis Hassabis. Not Jony Ive](https://www.suffsyed.com/futurememo/designers-should-look-to-demis-hassabis-not-jony-ive)<!-- HN:45476347:end -->
