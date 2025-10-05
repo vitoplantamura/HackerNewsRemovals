@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, October 4, 2025**<!-- HN:45433743:start -->
 * [45433743](https://news.social-protocols.org/stats?id=45433743) #30 34 points 40 comments -> [The mini smartphones from Japan you've never heard about [video]](https://www.youtube.com/watch?v=_e27TfHibTg)<!-- HN:45433743:end --><!-- HN:45476347:start -->
 * [45476347](https://news.social-protocols.org/stats?id=45476347) #25 4 points 6 comments -> [Designers Should Look to Demis Hassabis. Not Jony Ive](https://www.suffsyed.com/futurememo/designers-should-look-to-demis-hassabis-not-jony-ive)<!-- HN:45476347:end -->
+#### **Sunday, October 5, 2025**
+<!-- HN:45477215:start -->
+* [45477215](https://news.social-protocols.org/stats?id=45477215) #6 22 points 7 comments -> [How do drivers react to partisan bumper stickers?](https://www.frontiersin.org/articles/10.3389/fpos.2025.1617785)<!-- HN:45477215:end -->
