@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, September 28, 2025**<!-- HN:45400945:start -->
-* [45400945](https://news.social-protocols.org/stats?id=45400945) #2 22 points 6 comments -> [How to Set $2,455 on Fire](https://busd.steviep.xyz/howto)<!-- HN:45400945:end --><!-- HN:45400009:start -->
-* [45400009](https://news.social-protocols.org/stats?id=45400009) #17 48 points 7 comments -> [How I accidently created the fastest CSV parser ever made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)<!-- HN:45400009:end --><!-- HN:45401941:start -->
-* [45401941](https://news.social-protocols.org/stats?id=45401941) #17 6 points 0 comments -> [Inside the Hidden Conservative Network Funding an Ecosystem of Right-Wing News](https://www.motherjones.com/politics/2025/09/inside-the-hidden-conservative-network-bankrolling-an-ecosystem-of-right-wing-news-informing-america-john-solomon-war-room/)<!-- HN:45401941:end --><!-- HN:45367635:start -->
-* [45367635](https://news.social-protocols.org/stats?id=45367635) #9 7 points 0 comments -> [The Third Chair](https://www.henrikkarlsson.xyz/p/third-chair)<!-- HN:45367635:end --><!-- HN:45403775:start -->
-* [45403775](https://news.social-protocols.org/stats?id=45403775) #20 19 points 11 comments -> [The stripper who ushered in the subscription-based internet](https://thehustle.co/originals/the-stripper-who-ushered-in-the-modern-subscription-based-internet)<!-- HN:45403775:end --><!-- HN:45404783:start -->
-* [45404783](https://news.social-protocols.org/stats?id=45404783) #11 27 points 42 comments -> [Apple threatens to stop selling iPhones in the EU](https://pluralistic.net/2025/09/26/empty-threats/#500-million-affluent-consumers)<!-- HN:45404783:end --><!-- HN:45406215:start -->
-* [45406215](https://news.social-protocols.org/stats?id=45406215) #25 8 points 0 comments -> [UN lists 158 firms tied to illegal Israeli settlements](https://www.aljazeera.com/news/2025/9/26/un-lists-150-firms-tied-to-illegal-israeli-settlements)<!-- HN:45406215:end --><!-- HN:45406075:start -->
-* [45406075](https://news.social-protocols.org/stats?id=45406075) #23 2 points 0 comments -> [In C++ modules globally unique module names seem to be unavoidable](https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html)<!-- HN:45406075:end --><!-- HN:45406921:start -->
-* [45406921](https://news.social-protocols.org/stats?id=45406921) #26 -> [mRNA vaccines linked to increased risks of various cancers](https://biomarkerres.biomedcentral.com/articles/10.1186/s40364-025-00831-w)<!-- HN:45406921:end --><!-- HN:45405221:start -->
-* [45405221](https://news.social-protocols.org/stats?id=45405221) #5 128 points 70 comments -> [Why I'm not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)<!-- HN:45405221:end -->
 #### **Monday, September 29, 2025**
 <!-- HN:45409013:start -->
 * [45409013](https://news.social-protocols.org/stats?id=45409013) #16 9 points 1 comments -> [Imagination as General Intelligence: Reconciling Consciousness and Free Will](https://zenodo.org/records/17109096)<!-- HN:45409013:end --><!-- HN:45388402:start -->
