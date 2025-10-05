@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, October 5, 2025**
 <!-- HN:45477215:start -->
 * [45477215](https://news.social-protocols.org/stats?id=45477215) #6 22 points 7 comments -> [How do drivers react to partisan bumper stickers?](https://www.frontiersin.org/articles/10.3389/fpos.2025.1617785)<!-- HN:45477215:end --><!-- HN:45443662:start -->
-* [45443662](https://news.social-protocols.org/stats?id=45443662) #9 30 points 40 comments -> [Study confirms that pianists can shape piano timbre through touch](https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/)<!-- HN:45443662:end -->
+* [45443662](https://news.social-protocols.org/stats?id=45443662) #9 30 points 40 comments -> [Study confirms that pianists can shape piano timbre through touch](https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/)<!-- HN:45443662:end --><!-- HN:45477898:start -->
+* [45477898](https://news.social-protocols.org/stats?id=45477898) #24 6 points 0 comments -> [How ICE Is Using Your Data – and What You Can Do About It](https://www.kqed.org/news/12055606/how-ice-is-using-your-data-and-what-you-can-do-about-it)<!-- HN:45477898:end -->
