@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45450918](https://news.social-protocols.org/stats?id=45450918) #25 6 points 5 comments -> [Skills I Was Missing as a MongoDB User](https://www.mongodb.com/company/blog/technical/10-skills-was-missing-as-mongodb-user)<!-- HN:45450918:end --><!-- HN:45482394:start -->
 * [45482394](https://news.social-protocols.org/stats?id=45482394) #13 20 points 42 comments -> [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)<!-- HN:45482394:end --><!-- HN:45483664:start -->
 * [45483664](https://news.social-protocols.org/stats?id=45483664) #1 8 points 0 comments -> [Jamal Khashoggi, the Washington Post, and the Cost of Speaking Out](https://karenattiah.substack.com/p/jamal-khashoggi-the-washington-post)<!-- HN:45483664:end -->
+#### **Monday, October 6, 2025**
+<!-- HN:45486855:start -->
+* [45486855](https://news.social-protocols.org/stats?id=45486855) #4 13 points 2 comments -> [A selfie with Netanyahu turns into an employee and customer exodus](https://www.hardresetmedia.com/p/a-selfie-with-netanyahu-turns-into)<!-- HN:45486855:end -->
