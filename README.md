@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, October 6, 2025**
 <!-- HN:45486855:start -->
 * [45486855](https://news.social-protocols.org/stats?id=45486855) #4 13 points 2 comments -> [A selfie with Netanyahu turns into an employee and customer exodus](https://www.hardresetmedia.com/p/a-selfie-with-netanyahu-turns-into)<!-- HN:45486855:end --><!-- HN:45448204:start -->
-* [45448204](https://news.social-protocols.org/stats?id=45448204) #26 13 points 1 comments -> [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)<!-- HN:45448204:end -->
+* [45448204](https://news.social-protocols.org/stats?id=45448204) #26 13 points 1 comments -> [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)<!-- HN:45448204:end --><!-- HN:45487052:start -->
+* [45487052](https://news.social-protocols.org/stats?id=45487052) #23 6 points 0 comments -> [Gazans Have a Message for Hamas: End the War Now](https://www.wsj.com/world/middle-east/gazans-have-a-message-for-hamas-end-the-war-now-ec769626)<!-- HN:45487052:end -->
