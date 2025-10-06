@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, September 29, 2025**
-<!-- HN:45409013:start -->
-* [45409013](https://news.social-protocols.org/stats?id=45409013) #16 9 points 1 comments -> [Imagination as General Intelligence: Reconciling Consciousness and Free Will](https://zenodo.org/records/17109096)<!-- HN:45409013:end --><!-- HN:45388402:start -->
-* [45388402](https://news.social-protocols.org/stats?id=45388402) #15 18 points 40 comments -> [Reusable grocery bags durability test](https://www.cbc.ca/lite/story/1.7643243)<!-- HN:45388402:end --><!-- HN:45411666:start -->
-* [45411666](https://news.social-protocols.org/stats?id=45411666) #7 28 points 1 comments -> [Twenty Lessons on Fighting Tyranny from the Twentieth Century](https://scholars.org/contribution/twenty-lessons-fighting-tyranny-twentieth)<!-- HN:45411666:end --><!-- HN:45412178:start -->
-* [45412178](https://news.social-protocols.org/stats?id=45412178) #7 21 points 6 comments -> [Does AI Get Bored?](https://timkellogg.me/blog/2025/09/27/boredom)<!-- HN:45412178:end --><!-- HN:45376953:start -->
-* [45376953](https://news.social-protocols.org/stats?id=45376953) #14 27 points 1 comments -> [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)<!-- HN:45376953:end --><!-- HN:45412946:start -->
-* [45412946](https://news.social-protocols.org/stats?id=45412946) #18 35 points 41 comments -> [Leading computer science professor says 'everybody' is struggling to get jobs](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)<!-- HN:45412946:end --><!-- HN:45414327:start -->
-* [45414327](https://news.social-protocols.org/stats?id=45414327) #5 36 points 18 comments -> [Grok is now the most popular model on OpenRouter](https://openrouter.ai/rankings#market-share)<!-- HN:45414327:end --><!-- HN:45416122:start -->
-* [45416122](https://news.social-protocols.org/stats?id=45416122) #2 34 points 1 comments -> [Claude Sonnet 4.5 System Card [pdf]](https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf)<!-- HN:45416122:end --><!-- HN:45415469:start -->
-* [45415469](https://news.social-protocols.org/stats?id=45415469) #28 7 points 1 comments -> [Google’s “G” gets a brighter look.](https://blog.google/inside-google/company-announcements/gradient-g-logo-design/)<!-- HN:45415469:end --><!-- HN:45389934:start -->
-* [45389934](https://news.social-protocols.org/stats?id=45389934) #26 6 points 4 comments -> [Show HN: Font Tester – Preview fonts on custom content](https://fonts.tomhadley.link/)<!-- HN:45389934:end --><!-- HN:45416150:start -->
-* [45416150](https://news.social-protocols.org/stats?id=45416150) #19 19 points 2 comments -> [OpenAI and Stripe create Agentic Commerce Protocol](https://www.agenticcommerce.dev/)<!-- HN:45416150:end --><!-- HN:45416572:start -->
-* [45416572](https://news.social-protocols.org/stats?id=45416572) #25 95 points 1 comments -> [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)<!-- HN:45416572:end -->
 #### **Tuesday, September 30, 2025**
 <!-- HN:45420302:start -->
 * [45420302](https://news.social-protocols.org/stats?id=45420302) #22 7 points 4 comments -> [Larry Ellison wants the U.S. to 'unify all the national data and then feed to AI](https://fortune.com/2025/02/14/larry-ellison-ai-centralized-database-citizen-data/)<!-- HN:45420302:end --><!-- HN:45424389:start -->
