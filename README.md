@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45483664](https://news.social-protocols.org/stats?id=45483664) #1 8 points 0 comments -> [Jamal Khashoggi, the Washington Post, and the Cost of Speaking Out](https://karenattiah.substack.com/p/jamal-khashoggi-the-washington-post)<!-- HN:45483664:end -->
 #### **Monday, October 6, 2025**
 <!-- HN:45486855:start -->
-* [45486855](https://news.social-protocols.org/stats?id=45486855) #4 13 points 2 comments -> [A selfie with Netanyahu turns into an employee and customer exodus](https://www.hardresetmedia.com/p/a-selfie-with-netanyahu-turns-into)<!-- HN:45486855:end -->
+* [45486855](https://news.social-protocols.org/stats?id=45486855) #4 13 points 2 comments -> [A selfie with Netanyahu turns into an employee and customer exodus](https://www.hardresetmedia.com/p/a-selfie-with-netanyahu-turns-into)<!-- HN:45486855:end --><!-- HN:45448204:start -->
+* [45448204](https://news.social-protocols.org/stats?id=45448204) #26 13 points 1 comments -> [AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip](https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core)<!-- HN:45448204:end -->
