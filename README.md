@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, September 30, 2025**
-<!-- HN:45420302:start -->
-* [45420302](https://news.social-protocols.org/stats?id=45420302) #22 7 points 4 comments -> [Larry Ellison wants the U.S. to 'unify all the national data and then feed to AI](https://fortune.com/2025/02/14/larry-ellison-ai-centralized-database-citizen-data/)<!-- HN:45420302:end --><!-- HN:45424389:start -->
-* [45424389](https://news.social-protocols.org/stats?id=45424389) #27 10 points 4 comments -> [Intel's original 64bit extensions for x86](https://soc.me/interfaces/intels-original-64bit-extensions-for-x86.html)<!-- HN:45424389:end --><!-- HN:45424217:start -->
-* [45424217](https://news.social-protocols.org/stats?id=45424217) #1 42 points 17 comments -> [Apple HomeKit – The Long Con](https://www.naut.ca/blog/2025/08/29/apple-homekit-the-long-con/)<!-- HN:45424217:end --><!-- HN:45424840:start -->
-* [45424840](https://news.social-protocols.org/stats?id=45424840) #17 18 points 40 comments -> [AI Actress Tilly Norwood Condemned by Sag-Aftra: Tilly 'Is Not an Actor '](https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/)<!-- HN:45424840:end --><!-- HN:45426127:start -->
-* [45426127](https://news.social-protocols.org/stats?id=45426127) #7 -> [J.K. Rowling Writes about Her Reasons for Speaking Out on Sex and Gender Issues](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)<!-- HN:45426127:end --><!-- HN:45426457:start -->
-* [45426457](https://news.social-protocols.org/stats?id=45426457) #15 16 points 10 comments -> [Show HN: I'm 17, built a face-verified social network to fight fake accounts](https://play.google.com/store/apps/details?id=com.whitelotus.social&hl=en_US)<!-- HN:45426457:end --><!-- HN:45426858:start -->
-* [45426858](https://news.social-protocols.org/stats?id=45426858) #10 41 points 3 comments -> [Charlie Javice sentenced to 7 years in prison for fraudulent $175M sale of Frank](https://www.nbcnews.com/business/business-news/charlie-javice-sentenced-7-years-prison-fraudulent-175m-sale-financial-rcna234536)<!-- HN:45426858:end --><!-- HN:45425897:start -->
-* [45425897](https://news.social-protocols.org/stats?id=45425897) #14 59 points 2 comments -> [Electronic Arts to be acquired for $52B in largest private equity buyout](https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432)<!-- HN:45425897:end --><!-- HN:45428294:start -->
-* [45428294](https://news.social-protocols.org/stats?id=45428294) #14 6 points 1 comments -> [U.S. Department of Housing and Urban Development](https://www.hud.gov/)<!-- HN:45428294:end --><!-- HN:45428122:start -->
-* [45428122](https://news.social-protocols.org/stats?id=45428122) #1 262 points 203 comments -> [Sora 2](https://openai.com/index/sora-2/)<!-- HN:45428122:end --><!-- HN:45431979:start -->
-* [45431979](https://news.social-protocols.org/stats?id=45431979) #17 7 points 2 comments -> [Live Video of Global Sumud Flotilla](https://globalsumudflotilla.org/live/)<!-- HN:45431979:end -->
 #### **Wednesday, October 1, 2025**<!-- HN:45433619:start -->
 * [45433619](https://news.social-protocols.org/stats?id=45433619) #4 11 points 1 comments -> [A Requiem for a Dying Operating System (1994)](https://user.eng.umd.edu/~blj/funny/requium.html)<!-- HN:45433619:end --><!-- HN:45434179:start -->
 * [45434179](https://news.social-protocols.org/stats?id=45434179) #10 35 points 23 comments -> [US government shuts down](https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down)<!-- HN:45434179:end --><!-- HN:45402706:start -->
