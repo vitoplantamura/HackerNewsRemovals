@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45492410](https://news.social-protocols.org/stats?id=45492410) #24 97 points 43 comments -> [Apple's Unlawful Evil](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)<!-- HN:45492410:end --><!-- HN:45490703:start -->
 * [45490703](https://news.social-protocols.org/stats?id=45490703) #12 20 points 18 comments -> [AI has found 50 bugs in cURL. "AI-native SASTs work well"](https://etn.se/72494)<!-- HN:45490703:end --><!-- HN:45494592:start -->
 * [45494592](https://news.social-protocols.org/stats?id=45494592) #8 28 points 1 comments -> [OpenZL: A Novel Data Compression Framework](https://github.com/facebook/openzl)<!-- HN:45494592:end -->
+#### **Tuesday, October 7, 2025**
+<!-- HN:45497893:start -->
+* [45497893](https://news.social-protocols.org/stats?id=45497893) #1 54 points 3 comments -> [Microsoft are removing mechanisms for creating a local account in Windows Setup](https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26120-6772-beta-channel/)<!-- HN:45497893:end -->
