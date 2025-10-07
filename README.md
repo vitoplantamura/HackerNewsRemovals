@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45494592](https://news.social-protocols.org/stats?id=45494592) #8 28 points 1 comments -> [OpenZL: A Novel Data Compression Framework](https://github.com/facebook/openzl)<!-- HN:45494592:end -->
 #### **Tuesday, October 7, 2025**
 <!-- HN:45497893:start -->
-* [45497893](https://news.social-protocols.org/stats?id=45497893) #1 54 points 3 comments -> [Microsoft are removing mechanisms for creating a local account in Windows Setup](https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26120-6772-beta-channel/)<!-- HN:45497893:end -->
+* [45497893](https://news.social-protocols.org/stats?id=45497893) #1 54 points 3 comments -> [Microsoft are removing mechanisms for creating a local account in Windows Setup](https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26120-6772-beta-channel/)<!-- HN:45497893:end --><!-- HN:45467078:start -->
+* [45467078](https://news.social-protocols.org/stats?id=45467078) #14 19 points 8 comments -> [Grafana Labs made a Taylor Swift dashboard](https://grafana.com/blog/2025/10/03/taylor-swift-grafanas-version-how-to-track-and-visualize-data-related-to-pop-s-biggest-superstar/)<!-- HN:45467078:end -->
