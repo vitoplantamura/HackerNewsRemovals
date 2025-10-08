@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45509464](https://news.social-protocols.org/stats?id=45509464) #14 17 points 8 comments -> [Disney Is Officially Shutting Down Hulu After 20 Years](https://wibc.com/749914/disney-is-officially-shutting-down-hulu-after-20-years/)<!-- HN:45509464:end --><!-- HN:45508944:start -->
 * [45508944](https://news.social-protocols.org/stats?id=45508944) #20 76 points 49 comments -> [No more loud commercials: Governor Newsom signs SB 576](https://www.gov.ca.gov/2025/10/06/no-more-loud-commercials-governor-newsom-signs-sb-576/)<!-- HN:45508944:end --><!-- HN:45505744:start -->
 * [45505744](https://news.social-protocols.org/stats?id=45505744) #14 5 points 1 comments -> [Macroscopic quantum mechanical tunnelling wins Nobel Prize in physics](https://www.chemistryworld.com/news/macroscopic-quantum-mechanical-tunnelling-wins-nobel-prize-in-physics/4022281.article)<!-- HN:45505744:end -->
+#### **Wednesday, October 8, 2025**
+<!-- HN:45510820:start -->
+* [45510820](https://news.social-protocols.org/stats?id=45510820) #19 -> [Ted Cruz doesn't seem to understand Wikipedia, lawyer for Wikimedia says](https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/)<!-- HN:45510820:end -->
