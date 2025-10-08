@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45505744](https://news.social-protocols.org/stats?id=45505744) #14 5 points 1 comments -> [Macroscopic quantum mechanical tunnelling wins Nobel Prize in physics](https://www.chemistryworld.com/news/macroscopic-quantum-mechanical-tunnelling-wins-nobel-prize-in-physics/4022281.article)<!-- HN:45505744:end -->
 #### **Wednesday, October 8, 2025**
 <!-- HN:45510820:start -->
-* [45510820](https://news.social-protocols.org/stats?id=45510820) #19 -> [Ted Cruz doesn't seem to understand Wikipedia, lawyer for Wikimedia says](https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/)<!-- HN:45510820:end -->
+* [45510820](https://news.social-protocols.org/stats?id=45510820) #19 -> [Ted Cruz doesn't seem to understand Wikipedia, lawyer for Wikimedia says](https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/)<!-- HN:45510820:end --><!-- HN:45514189:start -->
+* [45514189](https://news.social-protocols.org/stats?id=45514189) #30 7 points 2 comments -> [How to nail the AERO look on your website](https://frutigeraeroarchive.org/blog/posts/23_07_2025)<!-- HN:45514189:end -->
