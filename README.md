@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45510820:start -->
 * [45510820](https://news.social-protocols.org/stats?id=45510820) #19 -> [Ted Cruz doesn't seem to understand Wikipedia, lawyer for Wikimedia says](https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/)<!-- HN:45510820:end --><!-- HN:45514189:start -->
 * [45514189](https://news.social-protocols.org/stats?id=45514189) #30 7 points 2 comments -> [How to nail the AERO look on your website](https://frutigeraeroarchive.org/blog/posts/23_07_2025)<!-- HN:45514189:end --><!-- HN:45516346:start -->
-* [45516346](https://news.social-protocols.org/stats?id=45516346) #3 26 points 8 comments -> [Samsung released a 7M model that achieved 45% on ARC-AGI-1](https://arxiv.org/abs/2510.04871)<!-- HN:45516346:end -->
+* [45516346](https://news.social-protocols.org/stats?id=45516346) #3 26 points 8 comments -> [Samsung released a 7M model that achieved 45% on ARC-AGI-1](https://arxiv.org/abs/2510.04871)<!-- HN:45516346:end --><!-- HN:45516255:start -->
+* [45516255](https://news.social-protocols.org/stats?id=45516255) #12 12 points 0 comments -> [We didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)<!-- HN:45516255:end -->
