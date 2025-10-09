@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45520397](https://news.social-protocols.org/stats?id=45520397) #24 10 points 0 comments -> [Young lives cut short an unimaginable scale: the 18,457 children on Gaza's dead](https://www.theguardian.com/world/ng-interactive/2025/oct/08/young-lives-cut-short-on-an-unimaginable-scale-the-18457-children-on-gazas-list-of-war-dead)<!-- HN:45520397:end --><!-- HN:45521066:start -->
 * [45521066](https://news.social-protocols.org/stats?id=45521066) #5 32 points 4 comments -> [Apple Made ICE Agents a Protected Class](https://migrantinsider.com/p/scoop-apple-quietly-made-ice-agents)<!-- HN:45521066:end --><!-- HN:45521476:start -->
 * [45521476](https://news.social-protocols.org/stats?id=45521476) #2 71 points 7 comments -> [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)<!-- HN:45521476:end -->
+#### **Thursday, October 9, 2025**
+<!-- HN:45521484:start -->
+* [45521484](https://news.social-protocols.org/stats?id=45521484) #12 77 points 29 comments -> [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)<!-- HN:45521484:end -->
