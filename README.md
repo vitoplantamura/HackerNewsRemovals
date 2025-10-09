@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, October 2, 2025**
-<!-- HN:45445331:start -->
-* [45445331](https://news.social-protocols.org/stats?id=45445331) #4 9 points 1 comments -> [Maine Woman Discovers Election Ballots in Amazon Package](https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/)<!-- HN:45445331:end --><!-- HN:45446240:start -->
-* [45446240](https://news.social-protocols.org/stats?id=45446240) #11 10 points 4 comments -> [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa)<!-- HN:45446240:end --><!-- HN:45448935:start -->
-* [45448935](https://news.social-protocols.org/stats?id=45448935) #3 11 points 0 comments -> [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)<!-- HN:45448935:end --><!-- HN:45451467:start -->
-* [45451467](https://news.social-protocols.org/stats?id=45451467) #26 -> [DHH Is Way Worse Than I Thought](https://jakelazaroff.com/words/dhh-is-way-worse-than-i-thought/)<!-- HN:45451467:end --><!-- HN:45455139:start -->
-* [45455139](https://news.social-protocols.org/stats?id=45455139) #26 10 points 6 comments -> [USDA website blames "Radical Left Democrats" for shutdown](https://www.usda.gov/)<!-- HN:45455139:end --><!-- HN:45436391:start -->
-* [45436391](https://news.social-protocols.org/stats?id=45436391) #18 4 points 0 comments -> [Creating a Database of Motivated Proofs](https://gowers.wordpress.com/2025/09/22/creating-a-database-of-motivated-proofs/)<!-- HN:45436391:end -->
 #### **Friday, October 3, 2025**
 <!-- HN:45458010:start -->
 * [45458010](https://news.social-protocols.org/stats?id=45458010) #29 4 points 0 comments -> [Education Department employees' email messages changed to blame Democrats](https://www.nbcnews.com/politics/trump-administration/education-department-employees-email-automatically-changed-rcna235211)<!-- HN:45458010:end --><!-- HN:45457929:start -->

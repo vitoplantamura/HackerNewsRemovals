@@ -11,3 +11,11 @@
 * [45397339](https://news.ycombinator.com/item?id=45397339) #11 8 points 2 comments -> [Increase Image kb size to 20KB, 50KB, or to the specific KBs](https://www.hadbomb.com/increase-image-size/)<!-- HN:45397339:end --><!-- HN:45440207:start -->
 * [45440207](https://news.ycombinator.com/item?id=45440207) #28 37 points 41 comments -> [Supreme Court lets Fed Governor Cook keep job pending oral argument in January](https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html)<!-- HN:45440207:end --><!-- HN:45442365:start -->
 * [45442365](https://news.ycombinator.com/item?id=45442365) #14 4 points 3 comments -> [The Anti-Truth Mandate: A Technical Flaw in Claude's Safety Architecture](https://github.com/anthropics/claude-code/issues/8683)<!-- HN:45442365:end -->
+#### **Thursday, October 2, 2025**
+<!-- HN:45445331:start -->
+* [45445331](https://news.ycombinator.com/item?id=45445331) #4 9 points 1 comments -> [Maine Woman Discovers Election Ballots in Amazon Package](https://www.themainewire.com/2025/10/maine-woman-discovers-hundreds-of-election-ballots-in-amazon-package-as-state-considers-voter-id/)<!-- HN:45445331:end --><!-- HN:45446240:start -->
+* [45446240](https://news.ycombinator.com/item?id=45446240) #11 10 points 4 comments -> [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa)<!-- HN:45446240:end --><!-- HN:45448935:start -->
+* [45448935](https://news.ycombinator.com/item?id=45448935) #3 11 points 0 comments -> [Visual loading states for Turbo Frames with CSS only](https://railsdesigner.com/visual-loading-turbo-frames/)<!-- HN:45448935:end --><!-- HN:45451467:start -->
+* [45451467](https://news.ycombinator.com/item?id=45451467) #26 -> [DHH Is Way Worse Than I Thought](https://jakelazaroff.com/words/dhh-is-way-worse-than-i-thought/)<!-- HN:45451467:end --><!-- HN:45455139:start -->
+* [45455139](https://news.ycombinator.com/item?id=45455139) #26 10 points 6 comments -> [USDA website blames "Radical Left Democrats" for shutdown](https://www.usda.gov/)<!-- HN:45455139:end --><!-- HN:45436391:start -->
+* [45436391](https://news.ycombinator.com/item?id=45436391) #18 4 points 0 comments -> [Creating a Database of Motivated Proofs](https://gowers.wordpress.com/2025/09/22/creating-a-database-of-motivated-proofs/)<!-- HN:45436391:end -->
