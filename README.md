@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45521476](https://news.social-protocols.org/stats?id=45521476) #2 71 points 7 comments -> [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)<!-- HN:45521476:end -->
 #### **Thursday, October 9, 2025**
 <!-- HN:45521484:start -->
-* [45521484](https://news.social-protocols.org/stats?id=45521484) #12 77 points 29 comments -> [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)<!-- HN:45521484:end -->
+* [45521484](https://news.social-protocols.org/stats?id=45521484) #12 77 points 29 comments -> [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)<!-- HN:45521484:end --><!-- HN:45521833:start -->
+* [45521833](https://news.social-protocols.org/stats?id=45521833) #5 35 points 6 comments -> [Radio Garten](https://radio.garden/)<!-- HN:45521833:end -->
