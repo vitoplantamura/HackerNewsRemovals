@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 10, 2025**
 <!-- HN:45534227:start -->
 * [45534227](https://news.social-protocols.org/stats?id=45534227) #26 13 points 9 comments -> [Time Warp IDE – Complete Environment for Old-School Coding](https://github.com/James-HoneyBadger/Time_Warp)<!-- HN:45534227:end --><!-- HN:45535263:start -->
-* [45535263](https://news.social-protocols.org/stats?id=45535263) #19 43 points 13 comments -> [Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up](https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/)<!-- HN:45535263:end -->
+* [45535263](https://news.social-protocols.org/stats?id=45535263) #19 43 points 13 comments -> [Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up](https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/)<!-- HN:45535263:end --><!-- HN:45535384:start -->
+* [45535384](https://news.social-protocols.org/stats?id=45535384) #18 42 points 40 comments -> [I'm turning 41, but I don't feel like celebrating](https://twitter.com/durov/status/1976420399970701543)<!-- HN:45535384:end -->
