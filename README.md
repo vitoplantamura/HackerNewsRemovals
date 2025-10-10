@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45527629](https://news.social-protocols.org/stats?id=45527629) #25 9 points 2 comments -> [U.S. Military Aid and Arms Transfers to Israel, October 2023 – September 2025 [pdf]](https://costsofwar.watson.brown.edu/sites/default/files/2025-10/U.S.-Military-Aid-to-Israel_Hartung_Costs-of-War-Quincy_Oct-7-2025.pdf)<!-- HN:45527629:end --><!-- HN:45529764:start -->
 * [45529764](https://news.social-protocols.org/stats?id=45529764) #19 78 points 1 comments -> [Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)<!-- HN:45529764:end --><!-- HN:45531544:start -->
 * [45531544](https://news.social-protocols.org/stats?id=45531544) #11 4 points 1 comments -> [I'm starting a fund that runs on luck, caffeine, and denial](https://brain.sanketh.in/share/2UrNabaPQD97)<!-- HN:45531544:end -->
+#### **Friday, October 10, 2025**
+<!-- HN:45534227:start -->
+* [45534227](https://news.social-protocols.org/stats?id=45534227) #26 13 points 9 comments -> [Time Warp IDE – Complete Environment for Old-School Coding](https://github.com/James-HoneyBadger/Time_Warp)<!-- HN:45534227:end -->
