@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45489613](https://news.social-protocols.org/stats?id=45489613) #11 7 points 6 comments -> [Show HN: Iframetest.com](https://iframetest.com/)<!-- HN:45489613:end --><!-- HN:45536000:start -->
 * [45536000](https://news.social-protocols.org/stats?id=45536000) #19 292 points 222 comments -> [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)<!-- HN:45536000:end --><!-- HN:45543114:start -->
 * [45543114](https://news.social-protocols.org/stats?id=45543114) #28 -> [Apple Decides ICE Agents Are a Protected Class](https://www.techdirt.com/2025/10/10/apple-decides-ice-agents-are-a-protected-class-because-apparently-government-accountability-is-now-hate-speech/)<!-- HN:45543114:end -->
+#### **Saturday, October 11, 2025**
+<!-- HN:45546657:start -->
+* [45546657](https://news.social-protocols.org/stats?id=45546657) #6 -> [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)<!-- HN:45546657:end -->
