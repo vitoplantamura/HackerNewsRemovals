@@ -43,3 +43,5 @@
 * [45467895](https://news.ycombinator.com/item?id=45467895) #26 8 points 0 comments -> ['Our children are dying': Rare footage shows plight of besieged civilians](https://www.bbc.com/news/articles/czxp0qyn6dqo)<!-- HN:45467895:end --><!-- HN:45467886:start -->
 * [45467886](https://news.ycombinator.com/item?id=45467886) #3 -> [Oracle employees who criticise Israel referred to mental health services](https://responsiblestatecraft.org/oracle-tiktok-israel-2674151514/)<!-- HN:45467886:end --><!-- HN:45468324:start -->
 * [45468324](https://news.ycombinator.com/item?id=45468324) #6 11 points 2 comments -> [Show HN: A visual AI interface to understand papers/books/topics](https://www.kerns.ai/)<!-- HN:45468324:end -->
+#### **Saturday, October 4, 2025**<!-- HN:45476347:start -->
+* [45476347](https://news.ycombinator.com/item?id=45476347) #25 4 points 6 comments -> [Designers Should Look to Demis Hassabis. Not Jony Ive](https://www.suffsyed.com/futurememo/designers-should-look-to-demis-hassabis-not-jony-ive)<!-- HN:45476347:end -->

@@ -43,8 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 4, 2025**<!-- HN:45476347:start -->
-* [45476347](https://news.social-protocols.org/stats?id=45476347) #25 4 points 6 comments -> [Designers Should Look to Demis Hassabis. Not Jony Ive](https://www.suffsyed.com/futurememo/designers-should-look-to-demis-hassabis-not-jony-ive)<!-- HN:45476347:end -->
 #### **Sunday, October 5, 2025**
 <!-- HN:45477215:start -->
 * [45477215](https://news.social-protocols.org/stats?id=45477215) #6 22 points 7 comments -> [How do drivers react to partisan bumper stickers?](https://www.frontiersin.org/articles/10.3389/fpos.2025.1617785)<!-- HN:45477215:end --><!-- HN:45477898:start -->
