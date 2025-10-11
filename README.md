@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45543114](https://news.social-protocols.org/stats?id=45543114) #28 -> [Apple Decides ICE Agents Are a Protected Class](https://www.techdirt.com/2025/10/10/apple-decides-ice-agents-are-a-protected-class-because-apparently-government-accountability-is-now-hate-speech/)<!-- HN:45543114:end -->
 #### **Saturday, October 11, 2025**
 <!-- HN:45546657:start -->
-* [45546657](https://news.social-protocols.org/stats?id=45546657) #6 -> [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)<!-- HN:45546657:end -->
+* [45546657](https://news.social-protocols.org/stats?id=45546657) #6 -> [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)<!-- HN:45546657:end --><!-- HN:45547058:start -->
+* [45547058](https://news.social-protocols.org/stats?id=45547058) #13 36 points 13 comments -> [You won't believe what degrading practice the pope just condemned](https://www.theguardian.com/australia-news/2025/oct/10/you-wont-believe-what-degrading-practice-the-pope-just-condemned)<!-- HN:45547058:end -->
