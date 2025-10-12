@@ -137,5 +137,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45551370](https://news.social-protocols.org/stats?id=45551370) #21 15 points 6 comments -> [Apple Postpones Jessica Chastain Thriller 'The Savant' Amid Current Events](https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/)<!-- HN:45551370:end --><!-- HN:45489329:start -->
 * [45489329](https://news.social-protocols.org/stats?id=45489329) #28 12 points 3 comments -> [Crypto-Current (2021)](https://zerophilosophy.substack.com/p/crypto-current)<!-- HN:45489329:end -->
 #### **Sunday, October 12, 2025**
-<!-- HN:45553467:start -->
-* [45553467](https://news.social-protocols.org/stats?id=45553467) #3 20 points 11 comments -> [We Found a Hidden Camera in the Bathroom of Our Airbnb](https://www.nytimes.com/2025/10/09/travel/airbnb-refund-camera-bathroom.html)<!-- HN:45553467:end -->
