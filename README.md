@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45551006](https://news.social-protocols.org/stats?id=45551006) #27 24 points 21 comments -> [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)<!-- HN:45551006:end --><!-- HN:45551370:start -->
 * [45551370](https://news.social-protocols.org/stats?id=45551370) #21 15 points 6 comments -> [Apple Postpones Jessica Chastain Thriller 'The Savant' Amid Current Events](https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/)<!-- HN:45551370:end --><!-- HN:45489329:start -->
 * [45489329](https://news.social-protocols.org/stats?id=45489329) #28 12 points 3 comments -> [Crypto-Current (2021)](https://zerophilosophy.substack.com/p/crypto-current)<!-- HN:45489329:end -->
-#### **Sunday, October 12, 2025**
+#### **Sunday, October 12, 2025**<!-- HN:45500142:start -->
+* [45500142](https://news.social-protocols.org/stats?id=45500142) #16 6 points 3 comments -> [Weird Operators in PHP](https://www.exakat.io/weird-operators-in-php/)<!-- HN:45500142:end -->
