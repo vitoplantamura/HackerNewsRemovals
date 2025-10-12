@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, October 5, 2025**
-<!-- HN:45477215:start -->
-* [45477215](https://news.social-protocols.org/stats?id=45477215) #6 22 points 7 comments -> [How do drivers react to partisan bumper stickers?](https://www.frontiersin.org/articles/10.3389/fpos.2025.1617785)<!-- HN:45477215:end --><!-- HN:45477898:start -->
-* [45477898](https://news.social-protocols.org/stats?id=45477898) #24 6 points 0 comments -> [How ICE Is Using Your Data – and What You Can Do About It](https://www.kqed.org/news/12055606/how-ice-is-using-your-data-and-what-you-can-do-about-it)<!-- HN:45477898:end --><!-- HN:45477700:start -->
-* [45477700](https://news.social-protocols.org/stats?id=45477700) #8 15 points 1 comments -> [Probiotics Finder](https://www.probioticfinder.org/)<!-- HN:45477700:end --><!-- HN:45447307:start -->
-* [45447307](https://news.social-protocols.org/stats?id=45447307) #17 19 points 17 comments -> [One Battle After Another: PTA and the Death of Revolutionary Cinema](https://letterboxd.com/markcira/film/one-battle-after-another/2/)<!-- HN:45447307:end --><!-- HN:45478585:start -->
-* [45478585](https://news.social-protocols.org/stats?id=45478585) #11 4 points 3 comments -> [Show HN: URI-Transformer: AI architecture that models meaning. 99.9% less memory](https://github.com/BruinGrowly/URI_Transformer)<!-- HN:45478585:end --><!-- HN:45478931:start -->
-* [45478931](https://news.social-protocols.org/stats?id=45478931) #4 14 points 10 comments -> [Scientists debunk claims of seed oil health risks](https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/)<!-- HN:45478931:end --><!-- HN:45448525:start -->
-* [45448525](https://news.social-protocols.org/stats?id=45448525) #17 35 points 13 comments -> [Show HN: The Little Book of C](https://github.com/little-book-of/c)<!-- HN:45448525:end --><!-- HN:45450918:start -->
-* [45450918](https://news.social-protocols.org/stats?id=45450918) #25 6 points 5 comments -> [Skills I Was Missing as a MongoDB User](https://www.mongodb.com/company/blog/technical/10-skills-was-missing-as-mongodb-user)<!-- HN:45450918:end --><!-- HN:45482394:start -->
-* [45482394](https://news.social-protocols.org/stats?id=45482394) #13 20 points 42 comments -> [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)<!-- HN:45482394:end --><!-- HN:45483664:start -->
-* [45483664](https://news.social-protocols.org/stats?id=45483664) #1 8 points 0 comments -> [Jamal Khashoggi, the Washington Post, and the Cost of Speaking Out](https://karenattiah.substack.com/p/jamal-khashoggi-the-washington-post)<!-- HN:45483664:end -->
 #### **Monday, October 6, 2025**
 <!-- HN:45486855:start -->
 * [45486855](https://news.social-protocols.org/stats?id=45486855) #4 13 points 2 comments -> [A selfie with Netanyahu turns into an employee and customer exodus](https://www.hardresetmedia.com/p/a-selfie-with-netanyahu-turns-into)<!-- HN:45486855:end --><!-- HN:45448204:start -->
