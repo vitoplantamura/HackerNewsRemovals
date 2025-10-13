@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, October 13, 2025**
 <!-- HN:45564981:start -->
 * [45564981](https://news.social-protocols.org/stats?id=45564981) #23 5 points 0 comments -> [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)<!-- HN:45564981:end --><!-- HN:45520550:start -->
-* [45520550](https://news.social-protocols.org/stats?id=45520550) #26 19 points 13 comments -> [A debate about AI plays out on the subway walls](https://www.nytimes.com/2025/10/07/style/friend-ai-subway-ads-new-york.html)<!-- HN:45520550:end -->
+* [45520550](https://news.social-protocols.org/stats?id=45520550) #26 19 points 13 comments -> [A debate about AI plays out on the subway walls](https://www.nytimes.com/2025/10/07/style/friend-ai-subway-ads-new-york.html)<!-- HN:45520550:end --><!-- HN:45566454:start -->
+* [45566454](https://news.social-protocols.org/stats?id=45566454) #10 5 points 4 comments -> [Show HN: I built an online productivity tools website](https://onlinenotep.ad)<!-- HN:45566454:end -->
