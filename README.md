@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45558900](https://news.social-protocols.org/stats?id=45558900) #5 7 points 2 comments -> [The IP risks of LLMs at work are nontrivial](https://www.augmentedswe.com/p/how-to-use-ai-written-code-in-without)<!-- HN:45558900:end --><!-- HN:45560593:start -->
 * [45560593](https://news.social-protocols.org/stats?id=45560593) #24 49 points 25 comments -> [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)<!-- HN:45560593:end --><!-- HN:45560218:start -->
 * [45560218](https://news.social-protocols.org/stats?id=45560218) #11 21 points 3 comments -> [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)<!-- HN:45560218:end -->
+#### **Monday, October 13, 2025**
+<!-- HN:45564981:start -->
+* [45564981](https://news.social-protocols.org/stats?id=45564981) #23 5 points 0 comments -> [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)<!-- HN:45564981:end -->
