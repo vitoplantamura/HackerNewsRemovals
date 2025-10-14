@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, October 14, 2025**
 <!-- HN:45574935:start -->
 * [45574935](https://news.social-protocols.org/stats?id=45574935) #27 54 points 1 comments -> [SpaceX Starship flight 11 successful](https://twitter.com/SpaceX/status/1977895039318864296)<!-- HN:45574935:end --><!-- HN:45574977:start -->
-* [45574977](https://news.social-protocols.org/stats?id=45574977) #20 5 points 4 comments -> [Traffic lights with four colors and a new white light are coming](https://unionrayo.com/en/traffic-lights-color-white-autonomous-cars/)<!-- HN:45574977:end -->
+* [45574977](https://news.social-protocols.org/stats?id=45574977) #20 5 points 4 comments -> [Traffic lights with four colors and a new white light are coming](https://unionrayo.com/en/traffic-lights-color-white-autonomous-cars/)<!-- HN:45574977:end --><!-- HN:45518418:start -->
+* [45518418](https://news.social-protocols.org/stats?id=45518418) #19 6 points 2 comments -> [The Bari Weiss Strategy](https://letter.otherlife.co/p/bari)<!-- HN:45518418:end -->
