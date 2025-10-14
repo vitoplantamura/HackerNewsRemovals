@@ -106,3 +106,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45570840](https://news.social-protocols.org/stats?id=45570840) #24 9 points 4 comments -> [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging)<!-- HN:45570840:end --><!-- HN:45571718:start -->
 * [45571718](https://news.social-protocols.org/stats?id=45571718) #6 45 points 12 comments -> [People Are People, or Why I Don't Want to Be a Landlord](https://oddevan.com/2025/10/13/people-are-people-or-why.html)<!-- HN:45571718:end --><!-- HN:45572640:start -->
 * [45572640](https://news.social-protocols.org/stats?id=45572640) #7 11 points 1 comments -> [DJI's Promo Shows Drone Footage from Prohibited National Parks and Tribal Lands](https://dronexl.co/2025/10/12/dji-mavic-4-pro-drone-footage-prohibited-national-parks/)<!-- HN:45572640:end -->
+#### **Tuesday, October 14, 2025**
+<!-- HN:45574935:start -->
+* [45574935](https://news.social-protocols.org/stats?id=45574935) #27 54 points 1 comments -> [SpaceX Starship flight 11 successful](https://twitter.com/SpaceX/status/1977895039318864296)<!-- HN:45574935:end -->
