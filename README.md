@@ -111,3 +111,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45584295](https://news.social-protocols.org/stats?id=45584295) #3 116 points 46 comments -> [Half of America's Voting Machines Are Now Owned by a MAGA Oligarch](https://dissentinbloom.substack.com/p/half-of-americas-voting-machines)<!-- HN:45584295:end --><!-- HN:45584809:start -->
 * [45584809](https://news.social-protocols.org/stats?id=45584809) #14 24 points 45 comments -> [New-Vehicle Avg Price Hits Record High in Sep, Surges Past $50k for First Time](https://www.coxautoinc.com/insights-hub/sept-2025-atp-report/)<!-- HN:45584809:end --><!-- HN:45586219:start -->
 * [45586219](https://news.social-protocols.org/stats?id=45586219) #10 -> [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)<!-- HN:45586219:end -->
+#### **Wednesday, October 15, 2025**
+<!-- HN:45586618:start -->
+* [45586618](https://news.social-protocols.org/stats?id=45586618) #11 6 points 0 comments -> [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)<!-- HN:45586618:end -->
