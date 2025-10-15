@@ -113,5 +113,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45586219](https://news.social-protocols.org/stats?id=45586219) #10 -> [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)<!-- HN:45586219:end -->
 #### **Wednesday, October 15, 2025**
 <!-- HN:45586618:start -->
-* [45586618](https://news.social-protocols.org/stats?id=45586618) #11 6 points 0 comments -> [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)<!-- HN:45586618:end --><!-- HN:45590681:start -->
-* [45590681](https://news.social-protocols.org/stats?id=45590681) #5 9 points 1 comments -> [I analyzed 200 e-commerce sites and found 73% of their traffic is fake](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)<!-- HN:45590681:end -->
+* [45586618](https://news.social-protocols.org/stats?id=45586618) #11 6 points 0 comments -> [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)<!-- HN:45586618:end -->
