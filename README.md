@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, October 8, 2025**
-<!-- HN:45510820:start -->
-* [45510820](https://news.social-protocols.org/stats?id=45510820) #19 -> [Ted Cruz doesn't seem to understand Wikipedia, lawyer for Wikimedia says](https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/)<!-- HN:45510820:end --><!-- HN:45514189:start -->
-* [45514189](https://news.social-protocols.org/stats?id=45514189) #30 7 points 2 comments -> [How to nail the AERO look on your website](https://frutigeraeroarchive.org/blog/posts/23_07_2025)<!-- HN:45514189:end --><!-- HN:45516346:start -->
-* [45516346](https://news.social-protocols.org/stats?id=45516346) #3 26 points 8 comments -> [Samsung released a 7M model that achieved 45% on ARC-AGI-1](https://arxiv.org/abs/2510.04871)<!-- HN:45516346:end --><!-- HN:45516402:start -->
-* [45516402](https://news.social-protocols.org/stats?id=45516402) #14 16 points 4 comments -> [Show HN: CodingFox – Open-Source AI Code Review Tool That Works Like Magic](https://github.com/furudo-erika/codingfox)<!-- HN:45516402:end --><!-- HN:45516556:start -->
-* [45516556](https://news.social-protocols.org/stats?id=45516556) #16 9 points 6 comments -> [How To Start Bug Bounties (2021)](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4)<!-- HN:45516556:end --><!-- HN:45520397:start -->
-* [45520397](https://news.social-protocols.org/stats?id=45520397) #24 10 points 0 comments -> [Young lives cut short an unimaginable scale: the 18,457 children on Gaza's dead](https://www.theguardian.com/world/ng-interactive/2025/oct/08/young-lives-cut-short-on-an-unimaginable-scale-the-18457-children-on-gazas-list-of-war-dead)<!-- HN:45520397:end --><!-- HN:45521066:start -->
-* [45521066](https://news.social-protocols.org/stats?id=45521066) #5 32 points 4 comments -> [Apple Made ICE Agents a Protected Class](https://migrantinsider.com/p/scoop-apple-quietly-made-ice-agents)<!-- HN:45521066:end --><!-- HN:45521476:start -->
-* [45521476](https://news.social-protocols.org/stats?id=45521476) #2 71 points 7 comments -> [Portland is not burning. Here's live context and sourced fact checks](https://isportlandburning.com/)<!-- HN:45521476:end -->
 #### **Thursday, October 9, 2025**
 <!-- HN:45521484:start -->
 * [45521484](https://news.social-protocols.org/stats?id=45521484) #12 77 points 29 comments -> [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)<!-- HN:45521484:end --><!-- HN:45521833:start -->
