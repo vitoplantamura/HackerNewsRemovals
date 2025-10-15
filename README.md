@@ -113,4 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45586219](https://news.social-protocols.org/stats?id=45586219) #10 -> [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)<!-- HN:45586219:end -->
 #### **Wednesday, October 15, 2025**
 <!-- HN:45586618:start -->
-* [45586618](https://news.social-protocols.org/stats?id=45586618) #11 6 points 0 comments -> [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)<!-- HN:45586618:end -->
+* [45586618](https://news.social-protocols.org/stats?id=45586618) #11 6 points 0 comments -> [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)<!-- HN:45586618:end --><!-- HN:45590842:start -->
+* [45590842](https://news.social-protocols.org/stats?id=45590842) #10 6 points 3 comments -> [Show HN: I started treasure hunt in Blue Ridge. It's Day 7. Prize is up to $36k+](https://countdowntreasure.com/treasure-hunt)<!-- HN:45590842:end --><!-- HN:45590239:start -->
+* [45590239](https://news.social-protocols.org/stats?id=45590239) #14 6 points 0 comments -> [Show HN: Nano Banana AI Prompt Gallery](https://nanobananas.ai/banana-image-prompt)<!-- HN:45590239:end -->
