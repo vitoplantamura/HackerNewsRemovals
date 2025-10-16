@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45604034](https://news.social-protocols.org/stats?id=45604034) #2 -> [Get a Heat Pump on Lloyds](https://www.lloydsbankinggroup.com/media/press-releases/2025/lloyds-bank-2025/get-a-heat-pump-on-lloyds.html)<!-- HN:45604034:end --><!-- HN:45604381:start -->
 * [45604381](https://news.social-protocols.org/stats?id=45604381) #21 9 points 1 comments -> [How The Pentagon Is Blocking Out News Organizations](https://www.nytimes.com/interactive/2025/10/15/business/media/pentatgon-press-rules.html)<!-- HN:45604381:end --><!-- HN:45604313:start -->
 * [45604313](https://news.social-protocols.org/stats?id=45604313) #22 23 points 41 comments -> [Chat-GPT becomes Sex-GPT for verified adults](https://twitter.com/sama/status/1978129344598827128)<!-- HN:45604313:end --><!-- HN:45605299:start -->
-* [45605299](https://news.social-protocols.org/stats?id=45605299) #5 -> [K](https://k.nyc/)<!-- HN:45605299:end -->
+* [45605299](https://news.social-protocols.org/stats?id=45605299) #5 -> [K](https://k.nyc/)<!-- HN:45605299:end --><!-- HN:45604823:start -->
+* [45604823](https://news.social-protocols.org/stats?id=45604823) #8 24 points 40 comments -> [Like MS Excel, Pivot tables never die](https://www.rilldata.com/blog/why-pivot-tables-never-die)<!-- HN:45604823:end -->
