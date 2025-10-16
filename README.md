@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, October 9, 2025**
-<!-- HN:45521484:start -->
-* [45521484](https://news.social-protocols.org/stats?id=45521484) #12 77 points 29 comments -> [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)<!-- HN:45521484:end --><!-- HN:45521833:start -->
-* [45521833](https://news.social-protocols.org/stats?id=45521833) #5 35 points 6 comments -> [Radio Garten](https://radio.garden/)<!-- HN:45521833:end --><!-- HN:45526151:start -->
-* [45526151](https://news.social-protocols.org/stats?id=45526151) #23 -> [Framework supporting far-right racists?](https://community.frame.work/t/framework-supporting-far-right-racists/75986)<!-- HN:45526151:end --><!-- HN:45525621:start -->
-* [45525621](https://news.social-protocols.org/stats?id=45525621) #16 12 points 1 comments -> [US has spent $33.7B on Israel since it began its war on Gaza two years ago](https://costsofwar.watson.brown.edu/sites/default/files/2025-10/U.S.-Military-Aid-to-Israel_Hartung_Costs-of-War-Quincy_Oct-7-2025.pdf)<!-- HN:45525621:end --><!-- HN:45526715:start -->
-* [45526715](https://news.social-protocols.org/stats?id=45526715) #27 10 points 3 comments -> [Framework supporting far-right racists?](https://community.frame.work/t/framework-supporting-far-right-racists/75986)<!-- HN:45526715:end --><!-- HN:45527629:start -->
-* [45527629](https://news.social-protocols.org/stats?id=45527629) #25 9 points 2 comments -> [U.S. Military Aid and Arms Transfers to Israel, October 2023 – September 2025 [pdf]](https://costsofwar.watson.brown.edu/sites/default/files/2025-10/U.S.-Military-Aid-to-Israel_Hartung_Costs-of-War-Quincy_Oct-7-2025.pdf)<!-- HN:45527629:end --><!-- HN:45529764:start -->
-* [45529764](https://news.social-protocols.org/stats?id=45529764) #19 78 points 1 comments -> [Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)<!-- HN:45529764:end --><!-- HN:45531544:start -->
-* [45531544](https://news.social-protocols.org/stats?id=45531544) #11 4 points 1 comments -> [I'm starting a fund that runs on luck, caffeine, and denial](https://brain.sanketh.in/share/2UrNabaPQD97)<!-- HN:45531544:end -->
 #### **Friday, October 10, 2025**
 <!-- HN:45534227:start -->
 * [45534227](https://news.social-protocols.org/stats?id=45534227) #26 13 points 9 comments -> [Time Warp IDE – Complete Environment for Old-School Coding](https://github.com/James-HoneyBadger/Time_Warp)<!-- HN:45534227:end --><!-- HN:45535263:start -->
