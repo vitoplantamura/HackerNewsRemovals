@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45608260](https://news.social-protocols.org/stats?id=45608260) #22 21 points 15 comments -> [Show HN: How Useless Are You? A brutally honest skills check](https://www.howuselessareyou.com)<!-- HN:45608260:end --><!-- HN:45606602:start -->
 * [45606602](https://news.social-protocols.org/stats?id=45606602) #25 36 points 40 comments -> [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)<!-- HN:45606602:end --><!-- HN:45609942:start -->
 * [45609942](https://news.social-protocols.org/stats?id=45609942) #22 17 points 26 comments -> [Show HN: We priced basic needs in work hours (global ranking and CSVs)](https://www.thepricer.org/hours-to-afford-essentials-best-and-worst-countries/)<!-- HN:45609942:end -->
+#### **Friday, October 17, 2025**
+<!-- HN:45612388:start -->
+* [45612388](https://news.social-protocols.org/stats?id=45612388) #20 26 points 4 comments -> [ICE, Border Patrol agents to receive pay during government shutdown](https://www.reuters.com/world/us/some-federal-law-enforcement-receive-pay-during-government-shutdown-2025-10-16/)<!-- HN:45612388:end -->
