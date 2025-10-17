@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45609942](https://news.social-protocols.org/stats?id=45609942) #22 17 points 26 comments -> [Show HN: We priced basic needs in work hours (global ranking and CSVs)](https://www.thepricer.org/hours-to-afford-essentials-best-and-worst-countries/)<!-- HN:45609942:end -->
 #### **Friday, October 17, 2025**
 <!-- HN:45612388:start -->
-* [45612388](https://news.social-protocols.org/stats?id=45612388) #20 26 points 4 comments -> [ICE, Border Patrol agents to receive pay during government shutdown](https://www.reuters.com/world/us/some-federal-law-enforcement-receive-pay-during-government-shutdown-2025-10-16/)<!-- HN:45612388:end -->
+* [45612388](https://news.social-protocols.org/stats?id=45612388) #20 26 points 4 comments -> [ICE, Border Patrol agents to receive pay during government shutdown](https://www.reuters.com/world/us/some-federal-law-enforcement-receive-pay-during-government-shutdown-2025-10-16/)<!-- HN:45612388:end --><!-- HN:45551675:start -->
+* [45551675](https://news.social-protocols.org/stats?id=45551675) #20 6 points 1 comments -> [My First Gulfstream](https://www.vanityfair.com/news/1998/10/gulfstream-199810)<!-- HN:45551675:end -->
