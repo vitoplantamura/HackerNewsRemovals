@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 17, 2025**
 <!-- HN:45612388:start -->
 * [45612388](https://news.social-protocols.org/stats?id=45612388) #20 26 points 4 comments -> [ICE, Border Patrol agents to receive pay during government shutdown](https://www.reuters.com/world/us/some-federal-law-enforcement-receive-pay-during-government-shutdown-2025-10-16/)<!-- HN:45612388:end --><!-- HN:45551675:start -->
-* [45551675](https://news.social-protocols.org/stats?id=45551675) #20 6 points 1 comments -> [My First Gulfstream](https://www.vanityfair.com/news/1998/10/gulfstream-199810)<!-- HN:45551675:end -->
+* [45551675](https://news.social-protocols.org/stats?id=45551675) #20 6 points 1 comments -> [My First Gulfstream](https://www.vanityfair.com/news/1998/10/gulfstream-199810)<!-- HN:45551675:end --><!-- HN:45612748:start -->
+* [45612748](https://news.social-protocols.org/stats?id=45612748) #14 -> [Accelerating Authoritarian Dynamics: Assessment of Democratic Decline](https://steadystate1.substack.com/p/accelerating-authoritarian-dynamics)<!-- HN:45612748:end -->
