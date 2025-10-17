@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, October 10, 2025**
-<!-- HN:45534227:start -->
-* [45534227](https://news.social-protocols.org/stats?id=45534227) #26 13 points 9 comments -> [Time Warp IDE – Complete Environment for Old-School Coding](https://github.com/James-HoneyBadger/Time_Warp)<!-- HN:45534227:end --><!-- HN:45535263:start -->
-* [45535263](https://news.social-protocols.org/stats?id=45535263) #19 43 points 13 comments -> [Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up](https://www.wired.com/story/apple-took-down-ice-tracking-apps-their-developers-arent-giving-up/)<!-- HN:45535263:end --><!-- HN:45535384:start -->
-* [45535384](https://news.social-protocols.org/stats?id=45535384) #18 42 points 40 comments -> [I'm turning 41, but I don't feel like celebrating](https://twitter.com/durov/status/1976420399970701543)<!-- HN:45535384:end --><!-- HN:45536705:start -->
-* [45536705](https://news.social-protocols.org/stats?id=45536705) #4 33 points 3 comments -> [Nobel Peace Prize 2025](https://www.nobelprize.org/prizes/peace/2025/machado/facts/)<!-- HN:45536705:end --><!-- HN:45537255:start -->
-* [45537255](https://news.social-protocols.org/stats?id=45537255) #25 18 points 41 comments -> [EU lawmakers push to ban term 'veggie-burger'](https://www.reuters.com/business/eu-lawmakers-push-ban-term-veggie-burger-2025-10-08/)<!-- HN:45537255:end --><!-- HN:45538768:start -->
-* [45538768](https://news.social-protocols.org/stats?id=45538768) #29 34 points 10 comments -> ["My dad says: people like you don't matter anymore."](https://twitter.com/travisakers/status/1976271447606624314)<!-- HN:45538768:end --><!-- HN:45538728:start -->
-* [45538728](https://news.social-protocols.org/stats?id=45538728) #26 10 points 4 comments -> [US immigration enforcement using military hardware and tactics on civilians](https://www.theguardian.com/us-news/2025/oct/10/ice-immigration-agents-military-tactics)<!-- HN:45538728:end --><!-- HN:45538143:start -->
-* [45538143](https://news.social-protocols.org/stats?id=45538143) #17 17 points 0 comments -> [Jamal Khashoggi, the Washington Post, and the Cost of Speaking Out](https://karenattiah.substack.com/p/jamal-khashoggi-the-washington-post)<!-- HN:45538143:end --><!-- HN:45540615:start -->
-* [45540615](https://news.social-protocols.org/stats?id=45540615) #29 16 points 9 comments -> [Fascism Can't Mean Both a Specific Ideology and a Legitimate Target](https://www.astralcodexten.com/p/fascism-cant-mean-both-a-specific)<!-- HN:45540615:end --><!-- HN:45539924:start -->
-* [45539924](https://news.social-protocols.org/stats?id=45539924) #26 5 points 2 comments -> [Show HN: A collection of Claude Code plugin marketplaces](https://claudecodeplugin.org)<!-- HN:45539924:end --><!-- HN:45541124:start -->
-* [45541124](https://news.social-protocols.org/stats?id=45541124) #10 5 points 2 comments -> [Why Your Company Needs a Chief Failure Officer](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)<!-- HN:45541124:end --><!-- HN:45489613:start -->
-* [45489613](https://news.social-protocols.org/stats?id=45489613) #11 7 points 6 comments -> [Show HN: Iframetest.com](https://iframetest.com/)<!-- HN:45489613:end --><!-- HN:45536000:start -->
-* [45536000](https://news.social-protocols.org/stats?id=45536000) #19 292 points 222 comments -> [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)<!-- HN:45536000:end --><!-- HN:45543114:start -->
-* [45543114](https://news.social-protocols.org/stats?id=45543114) #28 -> [Apple Decides ICE Agents Are a Protected Class](https://www.techdirt.com/2025/10/10/apple-decides-ice-agents-are-a-protected-class-because-apparently-government-accountability-is-now-hate-speech/)<!-- HN:45543114:end -->
 #### **Saturday, October 11, 2025**
 <!-- HN:45546657:start -->
 * [45546657](https://news.social-protocols.org/stats?id=45546657) #6 -> [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)<!-- HN:45546657:end --><!-- HN:45502044:start -->
