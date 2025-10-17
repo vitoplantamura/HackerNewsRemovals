@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45612388:start -->
 * [45612388](https://news.social-protocols.org/stats?id=45612388) #20 26 points 4 comments -> [ICE, Border Patrol agents to receive pay during government shutdown](https://www.reuters.com/world/us/some-federal-law-enforcement-receive-pay-during-government-shutdown-2025-10-16/)<!-- HN:45612388:end --><!-- HN:45551675:start -->
 * [45551675](https://news.social-protocols.org/stats?id=45551675) #20 6 points 1 comments -> [My First Gulfstream](https://www.vanityfair.com/news/1998/10/gulfstream-199810)<!-- HN:45551675:end --><!-- HN:45548560:start -->
-* [45548560](https://news.social-protocols.org/stats?id=45548560) #15 21 points 40 comments -> [Why I have to buy doughnuts with cash](https://www.ft.com/content/8766ef23-3938-4de2-8a37-602c798034aa)<!-- HN:45548560:end -->
+* [45548560](https://news.social-protocols.org/stats?id=45548560) #15 21 points 40 comments -> [Why I have to buy doughnuts with cash](https://www.ft.com/content/8766ef23-3938-4de2-8a37-602c798034aa)<!-- HN:45548560:end --><!-- HN:45613781:start -->
+* [45613781](https://news.social-protocols.org/stats?id=45613781) #5 5 points 2 comments -> [Wabi – Personal Software Platform](https://wabi.ai/)<!-- HN:45613781:end -->
