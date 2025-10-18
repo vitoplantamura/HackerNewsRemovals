@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, October 18, 2025**
 <!-- HN:45623679:start -->
 * [45623679](https://news.social-protocols.org/stats?id=45623679) #1 128 points 3 comments -> [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/)<!-- HN:45623679:end --><!-- HN:45566577:start -->
-* [45566577](https://news.social-protocols.org/stats?id=45566577) #15 6 points 1 comments -> [I wrote a parser for Redis protocol so you don't have to](https://neversleeps.moscow/publications/resp.html)<!-- HN:45566577:end -->
+* [45566577](https://news.social-protocols.org/stats?id=45566577) #15 6 points 1 comments -> [I wrote a parser for Redis protocol so you don't have to](https://neversleeps.moscow/publications/resp.html)<!-- HN:45566577:end --><!-- HN:45580347:start -->
+* [45580347](https://news.social-protocols.org/stats?id=45580347) #18 33 points 40 comments -> [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)<!-- HN:45580347:end -->
