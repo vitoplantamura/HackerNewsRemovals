@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45621246](https://news.social-protocols.org/stats?id=45621246) #12 22 points 41 comments -> [Making Every Windows 11 PC an AI PC](https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/)<!-- HN:45621246:end -->
 #### **Saturday, October 18, 2025**
 <!-- HN:45623679:start -->
-* [45623679](https://news.social-protocols.org/stats?id=45623679) #1 128 points 3 comments -> [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/)<!-- HN:45623679:end -->
+* [45623679](https://news.social-protocols.org/stats?id=45623679) #1 128 points 3 comments -> [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/)<!-- HN:45623679:end --><!-- HN:45566577:start -->
+* [45566577](https://news.social-protocols.org/stats?id=45566577) #15 6 points 1 comments -> [I wrote a parser for Redis protocol so you don't have to](https://neversleeps.moscow/publications/resp.html)<!-- HN:45566577:end -->
