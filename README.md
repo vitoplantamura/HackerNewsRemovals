@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 11, 2025**
-<!-- HN:45546657:start -->
-* [45546657](https://news.social-protocols.org/stats?id=45546657) #6 -> [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)<!-- HN:45546657:end --><!-- HN:45502044:start -->
-* [45502044](https://news.social-protocols.org/stats?id=45502044) #16 5 points 8 comments -> [Show HN: Cjam – a modern MP3 file editor](https://github.com/cutandjoin/Cjam/releases/tag/v2230)<!-- HN:45502044:end --><!-- HN:45548902:start -->
-* [45548902](https://news.social-protocols.org/stats?id=45548902) #2 26 points 12 comments -> [Sysco Is Not "Ruining Restaurants"](https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/)<!-- HN:45548902:end --><!-- HN:45549524:start -->
-* [45549524](https://news.social-protocols.org/stats?id=45549524) #27 31 points 40 comments -> [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)<!-- HN:45549524:end --><!-- HN:45551006:start -->
-* [45551006](https://news.social-protocols.org/stats?id=45551006) #27 24 points 21 comments -> [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)<!-- HN:45551006:end --><!-- HN:45551370:start -->
-* [45551370](https://news.social-protocols.org/stats?id=45551370) #21 15 points 6 comments -> [Apple Postpones Jessica Chastain Thriller 'The Savant' Amid Current Events](https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/)<!-- HN:45551370:end --><!-- HN:45489329:start -->
-* [45489329](https://news.social-protocols.org/stats?id=45489329) #28 12 points 3 comments -> [Crypto-Current (2021)](https://zerophilosophy.substack.com/p/crypto-current)<!-- HN:45489329:end -->
 #### **Sunday, October 12, 2025**<!-- HN:45500142:start -->
 * [45500142](https://news.social-protocols.org/stats?id=45500142) #16 6 points 3 comments -> [Weird Operators in PHP](https://www.exakat.io/weird-operators-in-php/)<!-- HN:45500142:end --><!-- HN:45556010:start -->
 * [45556010](https://news.social-protocols.org/stats?id=45556010) #8 17 points 11 comments -> [CBP Enforces Binary Sex Codes and Enhanced US Passport Validation in APIs](https://www.gtlaw-insidebusinessimmigration.com/u-s-customs-and-border-protection-cbp/cbp-enforces-binary-sex-codes-and-enhanced-us-passport-validation-in-apis/)<!-- HN:45556010:end --><!-- HN:45493480:start -->

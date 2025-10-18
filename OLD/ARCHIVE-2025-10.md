@@ -129,3 +129,12 @@
 * [45489613](https://news.ycombinator.com/item?id=45489613) #11 7 points 6 comments -> [Show HN: Iframetest.com](https://iframetest.com/)<!-- HN:45489613:end --><!-- HN:45536000:start -->
 * [45536000](https://news.ycombinator.com/item?id=45536000) #19 292 points 222 comments -> [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)<!-- HN:45536000:end --><!-- HN:45543114:start -->
 * [45543114](https://news.ycombinator.com/item?id=45543114) #28 -> [Apple Decides ICE Agents Are a Protected Class](https://www.techdirt.com/2025/10/10/apple-decides-ice-agents-are-a-protected-class-because-apparently-government-accountability-is-now-hate-speech/)<!-- HN:45543114:end -->
+#### **Saturday, October 11, 2025**
+<!-- HN:45546657:start -->
+* [45546657](https://news.ycombinator.com/item?id=45546657) #6 -> [Peter Thiel's off-the-record lectures about the antichrist](https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist)<!-- HN:45546657:end --><!-- HN:45502044:start -->
+* [45502044](https://news.ycombinator.com/item?id=45502044) #16 5 points 8 comments -> [Show HN: Cjam – a modern MP3 file editor](https://github.com/cutandjoin/Cjam/releases/tag/v2230)<!-- HN:45502044:end --><!-- HN:45548902:start -->
+* [45548902](https://news.ycombinator.com/item?id=45548902) #2 26 points 12 comments -> [Sysco Is Not "Ruining Restaurants"](https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/)<!-- HN:45548902:end --><!-- HN:45549524:start -->
+* [45549524](https://news.ycombinator.com/item?id=45549524) #27 31 points 40 comments -> [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)<!-- HN:45549524:end --><!-- HN:45551006:start -->
+* [45551006](https://news.ycombinator.com/item?id=45551006) #27 24 points 21 comments -> [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app)<!-- HN:45551006:end --><!-- HN:45551370:start -->
+* [45551370](https://news.ycombinator.com/item?id=45551370) #21 15 points 6 comments -> [Apple Postpones Jessica Chastain Thriller 'The Savant' Amid Current Events](https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/)<!-- HN:45551370:end --><!-- HN:45489329:start -->
+* [45489329](https://news.ycombinator.com/item?id=45489329) #28 12 points 3 comments -> [Crypto-Current (2021)](https://zerophilosophy.substack.com/p/crypto-current)<!-- HN:45489329:end -->
