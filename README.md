@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, October 12, 2025**<!-- HN:45500142:start -->
-* [45500142](https://news.social-protocols.org/stats?id=45500142) #16 6 points 3 comments -> [Weird Operators in PHP](https://www.exakat.io/weird-operators-in-php/)<!-- HN:45500142:end --><!-- HN:45556010:start -->
-* [45556010](https://news.social-protocols.org/stats?id=45556010) #8 17 points 11 comments -> [CBP Enforces Binary Sex Codes and Enhanced US Passport Validation in APIs](https://www.gtlaw-insidebusinessimmigration.com/u-s-customs-and-border-protection-cbp/cbp-enforces-binary-sex-codes-and-enhanced-us-passport-validation-in-apis/)<!-- HN:45556010:end --><!-- HN:45493480:start -->
-* [45493480](https://news.social-protocols.org/stats?id=45493480) #12 6 points 2 comments -> [Blossom – Heroku-like deploys on your servers; cheaper, no lock-in](https://www.blossom88.com)<!-- HN:45493480:end --><!-- HN:45557256:start -->
-* [45557256](https://news.social-protocols.org/stats?id=45557256) #27 17 points 8 comments -> [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)<!-- HN:45557256:end --><!-- HN:45558900:start -->
-* [45558900](https://news.social-protocols.org/stats?id=45558900) #5 7 points 2 comments -> [The IP risks of LLMs at work are nontrivial](https://www.augmentedswe.com/p/how-to-use-ai-written-code-in-without)<!-- HN:45558900:end --><!-- HN:45560593:start -->
-* [45560593](https://news.social-protocols.org/stats?id=45560593) #24 49 points 25 comments -> [Nielsen Norman Group on iOS 26 usability](https://anderegg.ca/2025/10/12/nielsen-norman-group-on-ios-26-usability)<!-- HN:45560593:end --><!-- HN:45560218:start -->
-* [45560218](https://news.social-protocols.org/stats?id=45560218) #11 21 points 3 comments -> [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)<!-- HN:45560218:end -->
 #### **Monday, October 13, 2025**
 <!-- HN:45564981:start -->
 * [45564981](https://news.social-protocols.org/stats?id=45564981) #23 5 points 0 comments -> [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)<!-- HN:45564981:end --><!-- HN:45520550:start -->
