@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45628499](https://news.social-protocols.org/stats?id=45628499) #4 29 points 4 comments -> [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)<!-- HN:45628499:end -->
 #### **Sunday, October 19, 2025**
 <!-- HN:45631455:start -->
-* [45631455](https://news.social-protocols.org/stats?id=45631455) #16 6 points 6 comments -> [I ended my relationship because AI told me to](https://jetwilliams.com/from-prayers-to-prompts/)<!-- HN:45631455:end -->
+* [45631455](https://news.social-protocols.org/stats?id=45631455) #16 6 points 6 comments -> [I ended my relationship because AI told me to](https://jetwilliams.com/from-prayers-to-prompts/)<!-- HN:45631455:end --><!-- HN:45631974:start -->
+* [45631974](https://news.social-protocols.org/stats?id=45631974) #15 23 points 12 comments -> [The traffickers are winning the war on drugs](https://www.economist.com/briefing/2025/10/16/the-traffickers-are-winning-the-war-on-drugs)<!-- HN:45631974:end -->
