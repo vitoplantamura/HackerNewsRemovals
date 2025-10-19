@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45628279](https://news.social-protocols.org/stats?id=45628279) #15 8 points 2 comments -> [Solving the NYTimes Pips puzzle with a constraint solver](https://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)<!-- HN:45628279:end --><!-- HN:45628373:start -->
 * [45628373](https://news.social-protocols.org/stats?id=45628373) #18 62 points 10 comments -> [Testosterone Administration Induces a Red Shift in Democrats](https://pmc.ncbi.nlm.nih.gov/articles/PMC12230349/)<!-- HN:45628373:end --><!-- HN:45628499:start -->
 * [45628499](https://news.social-protocols.org/stats?id=45628499) #4 29 points 4 comments -> [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)<!-- HN:45628499:end -->
+#### **Sunday, October 19, 2025**
+<!-- HN:45631455:start -->
+* [45631455](https://news.social-protocols.org/stats?id=45631455) #16 6 points 6 comments -> [I ended my relationship because AI told me to](https://jetwilliams.com/from-prayers-to-prompts/)<!-- HN:45631455:end -->
