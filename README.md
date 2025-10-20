@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, October 13, 2025**
-<!-- HN:45564981:start -->
-* [45564981](https://news.social-protocols.org/stats?id=45564981) #23 5 points 0 comments -> [Framework embraces deeply extremist views](https://www.osnews.com/story/143520/in-bizarre-move-framework-embraces-deeply-extremist-views/)<!-- HN:45564981:end --><!-- HN:45520550:start -->
-* [45520550](https://news.social-protocols.org/stats?id=45520550) #26 19 points 13 comments -> [A debate about AI plays out on the subway walls](https://www.nytimes.com/2025/10/07/style/friend-ai-subway-ads-new-york.html)<!-- HN:45520550:end --><!-- HN:45566454:start -->
-* [45566454](https://news.social-protocols.org/stats?id=45566454) #10 5 points 4 comments -> [Show HN: I built an online productivity tools website](https://onlinenotep.ad)<!-- HN:45566454:end --><!-- HN:45568713:start -->
-* [45568713](https://news.social-protocols.org/stats?id=45568713) #30 21 points 10 comments -> [Hamas Releases Israeli Hostages](https://www.npr.org/2025/10/13/g-s1-93207/hamas-releasing-israeli-hostages)<!-- HN:45568713:end --><!-- HN:45569896:start -->
-* [45569896](https://news.social-protocols.org/stats?id=45569896) #4 23 points 41 comments -> [Apple Renames 'Apple TV+' to 'Apple TV'](https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/)<!-- HN:45569896:end --><!-- HN:45570840:start -->
-* [45570840](https://news.social-protocols.org/stats?id=45570840) #24 9 points 4 comments -> [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging)<!-- HN:45570840:end --><!-- HN:45571718:start -->
-* [45571718](https://news.social-protocols.org/stats?id=45571718) #6 45 points 12 comments -> [People Are People, or Why I Don't Want to Be a Landlord](https://oddevan.com/2025/10/13/people-are-people-or-why.html)<!-- HN:45571718:end --><!-- HN:45572640:start -->
-* [45572640](https://news.social-protocols.org/stats?id=45572640) #7 11 points 1 comments -> [DJI's Promo Shows Drone Footage from Prohibited National Parks and Tribal Lands](https://dronexl.co/2025/10/12/dji-mavic-4-pro-drone-footage-prohibited-national-parks/)<!-- HN:45572640:end -->
 #### **Tuesday, October 14, 2025**
 <!-- HN:45574935:start -->
 * [45574935](https://news.social-protocols.org/stats?id=45574935) #27 54 points 1 comments -> [SpaceX Starship flight 11 successful](https://twitter.com/SpaceX/status/1977895039318864296)<!-- HN:45574935:end --><!-- HN:45518418:start -->
