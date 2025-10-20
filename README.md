@@ -125,5 +125,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45636271](https://news.social-protocols.org/stats?id=45636271) #5 -> [Criticizing Immigration Laws Is Not Racist](https://www.maximepeabody.com/blog/immigration-in-canada)<!-- HN:45636271:end --><!-- HN:45635147:start -->
 * [45635147](https://news.social-protocols.org/stats?id=45635147) #20 35 points 41 comments -> [Show HN: Notepad.exe – macOS editor for Swift and Python (now Linux runtime)](https://notepadexe.com/)<!-- HN:45635147:end --><!-- HN:45638188:start -->
 * [45638188](https://news.social-protocols.org/stats?id=45638188) #8 30 points 8 comments -> [Show HN: 18yo first iOS app: blocks distracting apps and unlocks with QR/barcode](https://apps.apple.com/us/app/recode-screen-time-control/id6752352978)<!-- HN:45638188:end -->
-#### **Monday, October 20, 2025**<!-- HN:45639391:start -->
-* [45639391](https://news.social-protocols.org/stats?id=45639391) #22 12 points 7 comments -> [Carefully Educated to Be Idiots](https://www.hilarylayne.com/p/very-carefully-educated-to-be-idiots)<!-- HN:45639391:end -->
+#### **Monday, October 20, 2025**
