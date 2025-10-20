@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, October 20, 2025**<!-- HN:45643014:start -->
 * [45643014](https://news.social-protocols.org/stats?id=45643014) #5 5 points 2 comments -> [Lessons from AWS Us-East-1 Outage: Why Local NVMe as Primary DB Storage Is Risky](https://www.eloqdata.com/blog/2025/10/20/local-nvme-risky-for-database)<!-- HN:45643014:end --><!-- HN:45644205:start -->
 * [45644205](https://news.social-protocols.org/stats?id=45644205) #1 15 points 9 comments -> ["COBOL supports close to 90% of Fortune 500 business systems today."](https://cobolcowboys.com/cobol-today/)<!-- HN:45644205:end --><!-- HN:45644073:start -->
-* [45644073](https://news.social-protocols.org/stats?id=45644073) #11 5 points 0 comments -> [Rental Income Analyzer](https://www.rebux.app/)<!-- HN:45644073:end -->
+* [45644073](https://news.social-protocols.org/stats?id=45644073) #11 5 points 0 comments -> [Rental Income Analyzer](https://www.rebux.app/)<!-- HN:45644073:end --><!-- HN:45643678:start -->
+* [45643678](https://news.social-protocols.org/stats?id=45643678) #22 4 points 0 comments -> [Ashen-WoW – Pure Vanilla, authentic, stable, community-run](https://ashen-wow.space/en)<!-- HN:45643678:end -->
