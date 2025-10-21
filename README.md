@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45648726](https://news.social-protocols.org/stats?id=45648726) #28 106 points 69 comments -> [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)<!-- HN:45648726:end -->
 #### **Tuesday, October 21, 2025**
 <!-- HN:45569670:start -->
-* [45569670](https://news.social-protocols.org/stats?id=45569670) #12 10 points 0 comments -> [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)<!-- HN:45569670:end -->
+* [45569670](https://news.social-protocols.org/stats?id=45569670) #12 10 points 0 comments -> [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)<!-- HN:45569670:end --><!-- HN:45653393:start -->
+* [45653393](https://news.social-protocols.org/stats?id=45653393) #2 18 points 40 comments -> [Most Expensive Laptops](https://comparelaptopprices.com/lists/most-expensive-laptops/)<!-- HN:45653393:end -->
