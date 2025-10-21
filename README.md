@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45646777](https://news.social-protocols.org/stats?id=45646777) #28 16 points 4 comments -> [Speaking of Amazon, here's a fresh post from an engineer who just quit](https://nekrolm.github.io/blog.html)<!-- HN:45646777:end --><!-- HN:45648864:start -->
 * [45648864](https://news.social-protocols.org/stats?id=45648864) #27 -> [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)<!-- HN:45648864:end --><!-- HN:45648726:start -->
 * [45648726](https://news.social-protocols.org/stats?id=45648726) #28 106 points 69 comments -> [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)<!-- HN:45648726:end -->
+#### **Tuesday, October 21, 2025**
+<!-- HN:45569670:start -->
+* [45569670](https://news.social-protocols.org/stats?id=45569670) #12 10 points 0 comments -> [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)<!-- HN:45569670:end -->
