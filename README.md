@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, October 14, 2025**
-<!-- HN:45574935:start -->
-* [45574935](https://news.social-protocols.org/stats?id=45574935) #27 54 points 1 comments -> [SpaceX Starship flight 11 successful](https://twitter.com/SpaceX/status/1977895039318864296)<!-- HN:45574935:end --><!-- HN:45518418:start -->
-* [45518418](https://news.social-protocols.org/stats?id=45518418) #19 6 points 2 comments -> [The Bari Weiss Strategy](https://letter.otherlife.co/p/bari)<!-- HN:45518418:end --><!-- HN:45577193:start -->
-* [45577193](https://news.social-protocols.org/stats?id=45577193) #20 17 points 10 comments -> [I let my AI agents run unsupervised and they burned $200 in 2 hours](https://blog.justcopy.ai/p/i-let-my-ai-agents-run-unsupervised)<!-- HN:45577193:end --><!-- HN:45577470:start -->
-* [45577470](https://news.social-protocols.org/stats?id=45577470) #30 3 points 1 comments -> [Freed Israeli hostages recount brutal beatings, starvation](https://nypost.com/2025/10/14/world-news/freed-israeli-hostages-recount-brutal-beatings-starvation-and-years-underground-in-hamas-captivity/)<!-- HN:45577470:end --><!-- HN:45578469:start -->
-* [45578469](https://news.social-protocols.org/stats?id=45578469) #20 6 points 0 comments -> [US news outlets refuse to sign new Pentagon rules to report only official info](https://www.theguardian.com/us-news/2025/oct/13/defense-department-media-news-rules)<!-- HN:45578469:end --><!-- HN:45526931:start -->
-* [45526931](https://news.social-protocols.org/stats?id=45526931) #15 11 points 2 comments -> [2025 Q3 Sardines](https://draftcorgi.substack.com/p/2025-q3-recommendations)<!-- HN:45526931:end --><!-- HN:45580724:start -->
-* [45580724](https://news.social-protocols.org/stats?id=45580724) #16 14 points 7 comments -> [Scientists create 'Superwood' that's 10 times stronger than steel](https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc)<!-- HN:45580724:end --><!-- HN:45579158:start -->
-* [45579158](https://news.social-protocols.org/stats?id=45579158) #30 9 points 2 comments -> [Gravity Can Explain the Collapse of the Wavefunction](https://arxiv.org/abs/2510.11037)<!-- HN:45579158:end --><!-- HN:45582688:start -->
-* [45582688](https://news.social-protocols.org/stats?id=45582688) #24 14 points 1 comments -> [Opinion: Why I'm handing in my Pentagon press pass](https://www.npr.org/2025/10/14/g-s1-93297/pentagon-reporter-opinion-press-policy)<!-- HN:45582688:end --><!-- HN:45583122:start -->
-* [45583122](https://news.social-protocols.org/stats?id=45583122) #20 16 points 1 comments -> [Young Republicans brag about their racism](https://www.politico.com/news/2025/10/14/private-chat-among-young-gop-club-members-00592146)<!-- HN:45583122:end --><!-- HN:45584295:start -->
-* [45584295](https://news.social-protocols.org/stats?id=45584295) #3 116 points 46 comments -> [Half of America's Voting Machines Are Now Owned by a MAGA Oligarch](https://dissentinbloom.substack.com/p/half-of-americas-voting-machines)<!-- HN:45584295:end --><!-- HN:45584809:start -->
-* [45584809](https://news.social-protocols.org/stats?id=45584809) #14 24 points 45 comments -> [New-Vehicle Avg Price Hits Record High in Sep, Surges Past $50k for First Time](https://www.coxautoinc.com/insights-hub/sept-2025-atp-report/)<!-- HN:45584809:end --><!-- HN:45586219:start -->
-* [45586219](https://news.social-protocols.org/stats?id=45586219) #10 -> [Meta Erases Gaza Journalist's Instagram](https://twitter.com/DropSiteNews/status/1977795050206576763)<!-- HN:45586219:end -->
 #### **Wednesday, October 15, 2025**
 <!-- HN:45586618:start -->
 * [45586618](https://news.social-protocols.org/stats?id=45586618) #11 6 points 0 comments -> [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)<!-- HN:45586618:end --><!-- HN:45590842:start -->
