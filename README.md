@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45659907](https://news.social-protocols.org/stats?id=45659907) #29 -> [Amazon Doesn't Use Route 53 for amazon.com](https://www.dnscheck.co/blog/dns-monitoring/2025/10/21/aws-dog-food.html)<!-- HN:45659907:end -->
 #### **Wednesday, October 22, 2025**
 <!-- HN:45664358:start -->
-* [45664358](https://news.social-protocols.org/stats?id=45664358) #23 20 points 13 comments -> [I Bought $250k Worth of Physical Nickels](https://twitter.com/opinioncasino/status/1980038177785000114)<!-- HN:45664358:end -->
+* [45664358](https://news.social-protocols.org/stats?id=45664358) #23 20 points 13 comments -> [I Bought $250k Worth of Physical Nickels](https://twitter.com/opinioncasino/status/1980038177785000114)<!-- HN:45664358:end --><!-- HN:45664751:start -->
+* [45664751](https://news.social-protocols.org/stats?id=45664751) #2 41 points 14 comments -> [Spotify running ICE recruitment ads about "dangerous illegals"](https://djmag.com/news/spotify-defends-running-ice-recruitment-ads-about-dangerous-illegals-part-of-us-government)<!-- HN:45664751:end -->
