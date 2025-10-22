@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 22, 2025**
 <!-- HN:45664358:start -->
 * [45664358](https://news.social-protocols.org/stats?id=45664358) #23 20 points 13 comments -> [I Bought $250k Worth of Physical Nickels](https://twitter.com/opinioncasino/status/1980038177785000114)<!-- HN:45664358:end --><!-- HN:45664751:start -->
-* [45664751](https://news.social-protocols.org/stats?id=45664751) #2 41 points 14 comments -> [Spotify running ICE recruitment ads about "dangerous illegals"](https://djmag.com/news/spotify-defends-running-ice-recruitment-ads-about-dangerous-illegals-part-of-us-government)<!-- HN:45664751:end -->
+* [45664751](https://news.social-protocols.org/stats?id=45664751) #2 41 points 14 comments -> [Spotify running ICE recruitment ads about "dangerous illegals"](https://djmag.com/news/spotify-defends-running-ice-recruitment-ads-about-dangerous-illegals-part-of-us-government)<!-- HN:45664751:end --><!-- HN:45662831:start -->
+* [45662831](https://news.social-protocols.org/stats?id=45662831) #14 151 points 25 comments -> ["Butt breathing" might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)<!-- HN:45662831:end -->
