@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, October 15, 2025**
-<!-- HN:45586618:start -->
-* [45586618](https://news.social-protocols.org/stats?id=45586618) #11 6 points 0 comments -> [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses)<!-- HN:45586618:end --><!-- HN:45590842:start -->
-* [45590842](https://news.social-protocols.org/stats?id=45590842) #10 6 points 3 comments -> [Show HN: I started treasure hunt in Blue Ridge. It's Day 7. Prize is up to $36k+](https://countdowntreasure.com/treasure-hunt)<!-- HN:45590842:end --><!-- HN:45590239:start -->
-* [45590239](https://news.social-protocols.org/stats?id=45590239) #14 6 points 0 comments -> [Show HN: Nano Banana AI Prompt Gallery](https://nanobananas.ai/banana-image-prompt)<!-- HN:45590239:end --><!-- HN:45591919:start -->
-* [45591919](https://news.social-protocols.org/stats?id=45591919) #15 25 points 13 comments -> [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)<!-- HN:45591919:end --><!-- HN:45590800:start -->
-* [45590800](https://news.social-protocols.org/stats?id=45590800) #12 34 points 27 comments -> [Esports scholarship at Deutsche Bahn (German railways)](https://db.jobs/de-de/esports-11092734)<!-- HN:45590800:end --><!-- HN:45592962:start -->
-* [45592962](https://news.social-protocols.org/stats?id=45592962) #25 7 points 0 comments -> ['I love Hitler': Leaked messages expose Young Republicans' racist chat](https://www.politico.com/news/2025/10/14/private-chat-among-young-gop-club-members-00592146)<!-- HN:45592962:end --><!-- HN:45593675:start -->
-* [45593675](https://news.social-protocols.org/stats?id=45593675) #21 3 points 0 comments -> [We Raised $5.7M to Launch Cto.new Completely for Free](https://super-empathy-963213.framer.app/blog/why-we-raised-5-7m-to-launch-cto-new-completely-for-free)<!-- HN:45593675:end --><!-- HN:45594829:start -->
-* [45594829](https://news.social-protocols.org/stats?id=45594829) #30 13 points 1 comments -> [Italy's Piracy Shield Is Just as Big a Disaster as Everyone Predicted](https://www.techdirt.com/2025/10/14/research-italys-piracy-shield-is-just-as-big-a-disaster-as-everyone-predicted/)<!-- HN:45594829:end --><!-- HN:45536283:start -->
-* [45536283](https://news.social-protocols.org/stats?id=45536283) #23 4 points 1 comments -> [SSH Security: Why You Should Touch to Verify](https://www.ubicloud.com/blog/ssh-security-why-you-should-touch-to-verify)<!-- HN:45536283:end --><!-- HN:45596168:start -->
-* [45596168](https://news.social-protocols.org/stats?id=45596168) #5 51 points 1 comments -> [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)<!-- HN:45596168:end --><!-- HN:45598309:start -->
-* [45598309](https://news.social-protocols.org/stats?id=45598309) #14 45 points 31 comments -> [Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)](https://arxiv.org/abs/2510.11037)<!-- HN:45598309:end -->
 #### **Thursday, October 16, 2025**
 <!-- HN:45509301:start -->
 * [45509301](https://news.social-protocols.org/stats?id=45509301) #3 30 points 12 comments -> [Closer to production quality Python notebooks with `marimo check`](https://marimo.io/blog/marimo-check)<!-- HN:45509301:end --><!-- HN:45501088:start -->
