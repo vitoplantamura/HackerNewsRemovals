@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 23, 2025**
 <!-- HN:45677397:start -->
 * [45677397](https://news.social-protocols.org/stats?id=45677397) #7 5 points 5 comments -> [A Homological Proof of P != NP: Computational Topology via Categorical Framework](https://arxiv.org/abs/2510.17829)<!-- HN:45677397:end --><!-- HN:45677201:start -->
-* [45677201](https://news.social-protocols.org/stats?id=45677201) #21 17 points 15 comments -> [Is AI a Bubble? I Didn't Think So Until I Heard of SDD](https://hyperdev.matsuoka.com/p/is-ai-a-bubble-i-didnt-think-so-until)<!-- HN:45677201:end -->
+* [45677201](https://news.social-protocols.org/stats?id=45677201) #21 17 points 15 comments -> [Is AI a Bubble? I Didn't Think So Until I Heard of SDD](https://hyperdev.matsuoka.com/p/is-ai-a-bubble-i-didnt-think-so-until)<!-- HN:45677201:end --><!-- HN:45679558:start -->
+* [45679558](https://news.social-protocols.org/stats?id=45679558) #18 32 points 40 comments -> [Female spies are waging 'sex warfare' to steal Silicon Valley secrets](https://www.thetimes.com/us/american-politics/article/silicon-valley-spy-china-russia-2v03676kl)<!-- HN:45679558:end -->
