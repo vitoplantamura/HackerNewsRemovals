@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45673956](https://news.social-protocols.org/stats?id=45673956) #30 9 points 3 comments -> [Major federal immigration operation headed to San Francisco Bay Area](https://www.sfchronicle.com/bayarea/article/sf-immigration-operation-21114328.php)<!-- HN:45673956:end -->
 #### **Thursday, October 23, 2025**
 <!-- HN:45677397:start -->
-* [45677397](https://news.social-protocols.org/stats?id=45677397) #7 5 points 5 comments -> [A Homological Proof of P != NP: Computational Topology via Categorical Framework](https://arxiv.org/abs/2510.17829)<!-- HN:45677397:end -->
+* [45677397](https://news.social-protocols.org/stats?id=45677397) #7 5 points 5 comments -> [A Homological Proof of P != NP: Computational Topology via Categorical Framework](https://arxiv.org/abs/2510.17829)<!-- HN:45677397:end --><!-- HN:45677201:start -->
+* [45677201](https://news.social-protocols.org/stats?id=45677201) #21 17 points 15 comments -> [Is AI a Bubble? I Didn't Think So Until I Heard of SDD](https://hyperdev.matsuoka.com/p/is-ai-a-bubble-i-didnt-think-so-until)<!-- HN:45677201:end -->
