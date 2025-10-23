@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45671282](https://news.social-protocols.org/stats?id=45671282) #12 21 points 40 comments -> [Chess engines didn't replace Magnus Carlsen, and AI won't replace you](https://coding-with-ai.dev/posts/use-ai-like-magnus-carlsen/)<!-- HN:45671282:end --><!-- HN:45672405:start -->
 * [45672405](https://news.social-protocols.org/stats?id=45672405) #24 13 points 4 comments -> [How do LLM's trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated)<!-- HN:45672405:end --><!-- HN:45673956:start -->
 * [45673956](https://news.social-protocols.org/stats?id=45673956) #30 9 points 3 comments -> [Major federal immigration operation headed to San Francisco Bay Area](https://www.sfchronicle.com/bayarea/article/sf-immigration-operation-21114328.php)<!-- HN:45673956:end -->
+#### **Thursday, October 23, 2025**
+<!-- HN:45677397:start -->
+* [45677397](https://news.social-protocols.org/stats?id=45677397) #7 5 points 5 comments -> [A Homological Proof of P != NP: Computational Topology via Categorical Framework](https://arxiv.org/abs/2510.17829)<!-- HN:45677397:end -->
