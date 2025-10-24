@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 24, 2025**
 <!-- HN:45690506:start -->
 * [45690506](https://news.social-protocols.org/stats?id=45690506) #3 37 points 17 comments -> [US Tariff Negotiations with Canada Terminated over Advertisement](https://www.bbc.com/news/articles/cdjrlmd4pmeo)<!-- HN:45690506:end --><!-- HN:45602940:start -->
-* [45602940](https://news.social-protocols.org/stats?id=45602940) #26 19 points 11 comments -> [Why does collapsing a bubble with a sound wave produce light?](https://akshatjiwannotes.blogspot.com/2025/10/why-does-collapsing-bubble-with-sound.html)<!-- HN:45602940:end -->
+* [45602940](https://news.social-protocols.org/stats?id=45602940) #26 19 points 11 comments -> [Why does collapsing a bubble with a sound wave produce light?](https://akshatjiwannotes.blogspot.com/2025/10/why-does-collapsing-bubble-with-sound.html)<!-- HN:45602940:end --><!-- HN:45696539:start -->
+* [45696539](https://news.social-protocols.org/stats?id=45696539) #1 21 points 1 comments -> [Men who mean just what they say](https://journal.humancenteredtech.us/p/men-who-mean-just-what-they-say)<!-- HN:45696539:end -->
