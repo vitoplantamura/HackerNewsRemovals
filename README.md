@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, October 17, 2025**
-<!-- HN:45612388:start -->
-* [45612388](https://news.social-protocols.org/stats?id=45612388) #20 26 points 4 comments -> [ICE, Border Patrol agents to receive pay during government shutdown](https://www.reuters.com/world/us/some-federal-law-enforcement-receive-pay-during-government-shutdown-2025-10-16/)<!-- HN:45612388:end --><!-- HN:45551675:start -->
-* [45551675](https://news.social-protocols.org/stats?id=45551675) #20 6 points 1 comments -> [My First Gulfstream](https://www.vanityfair.com/news/1998/10/gulfstream-199810)<!-- HN:45551675:end --><!-- HN:45548560:start -->
-* [45548560](https://news.social-protocols.org/stats?id=45548560) #15 21 points 40 comments -> [Why I have to buy doughnuts with cash](https://www.ft.com/content/8766ef23-3938-4de2-8a37-602c798034aa)<!-- HN:45548560:end --><!-- HN:45613781:start -->
-* [45613781](https://news.social-protocols.org/stats?id=45613781) #5 5 points 2 comments -> [Wabi – Personal Software Platform](https://wabi.ai/)<!-- HN:45613781:end --><!-- HN:45615494:start -->
-* [45615494](https://news.social-protocols.org/stats?id=45615494) #13 13 points 9 comments -> [Codebase is 250% AI generated](https://www.moderndescartes.com/essays/ai_codebase/)<!-- HN:45615494:end --><!-- HN:45616777:start -->
-* [45616777](https://news.social-protocols.org/stats?id=45616777) #17 7 points 0 comments -> [Europe Can't Defend Democracy on US Servers](https://werd.io/europe-cant-defend-democracy-on-us-servers/)<!-- HN:45616777:end --><!-- HN:45550328:start -->
-* [45550328](https://news.social-protocols.org/stats?id=45550328) #13 8 points 1 comments -> [Dev Services for Spring Boot Using Arconia](https://www.thomasvitale.com/arconia-dev-services-spring-boot/)<!-- HN:45550328:end --><!-- HN:45617859:start -->
-* [45617859](https://news.social-protocols.org/stats?id=45617859) #29 3 points 0 comments -> [Woman tricked into travelling to Thailand for modelling job killed for organs](https://www.dailymail.co.uk/news/article-15198093/Woman-tricked-travelling-Thailand-fake-modelling-job-killed-organs-harvested.html)<!-- HN:45617859:end --><!-- HN:45617990:start -->
-* [45617990](https://news.social-protocols.org/stats?id=45617990) #2 13 points 3 comments -> [Show HN: Searchable compression for JSON – ~99% page skip and sub-ms lookups](https://github.com/kodomonocch1/see_proto)<!-- HN:45617990:end --><!-- HN:45620311:start -->
-* [45620311](https://news.social-protocols.org/stats?id=45620311) #7 4 points 0 comments -> [What I Saw at This Weekend's Minnesota MAHA Fest Scared the Hell Out of Me](https://racketmn.com/what-i-saw-at-this-weekends-minnesota-maha-fest-scared-the-hell-out-of-me)<!-- HN:45620311:end --><!-- HN:45621246:start -->
-* [45621246](https://news.social-protocols.org/stats?id=45621246) #12 22 points 41 comments -> [Making Every Windows 11 PC an AI PC](https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/)<!-- HN:45621246:end -->
 #### **Saturday, October 18, 2025**
 <!-- HN:45623679:start -->
 * [45623679](https://news.social-protocols.org/stats?id=45623679) #1 128 points 3 comments -> [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/)<!-- HN:45623679:end --><!-- HN:45566577:start -->
