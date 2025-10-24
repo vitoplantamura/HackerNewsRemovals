@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45681322](https://news.social-protocols.org/stats?id=45681322) #6 9 points 0 comments -> [I Went All in on AI. The MIT Study Was Right](https://leadershiplighthouse.substack.com/p/i-went-all-in-on-ai-the-mit-study)<!-- HN:45681322:end --><!-- HN:45622122:start -->
 * [45622122](https://news.social-protocols.org/stats?id=45622122) #23 5 points 1 comments -> [The Tonnetz](https://thetonnetz.com/)<!-- HN:45622122:end --><!-- HN:45684035:start -->
 * [45684035](https://news.social-protocols.org/stats?id=45684035) #2 162 points 2 comments -> [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)<!-- HN:45684035:end -->
+#### **Friday, October 24, 2025**
+<!-- HN:45690506:start -->
+* [45690506](https://news.social-protocols.org/stats?id=45690506) #3 37 points 17 comments -> [US Tariff Negotiations with Canada Terminated over Advertisement](https://www.bbc.com/news/articles/cdjrlmd4pmeo)<!-- HN:45690506:end -->
