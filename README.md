@@ -113,3 +113,9 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45697649](https://news.social-protocols.org/stats?id=45697649) #1 -> [Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19](https://buttondown.com/meghanmccarron/archive/protein-is-a-trap-and-i-have-fallen-into-it-or/)<!-- HN:45697649:end --><!-- HN:45699294:start -->
 * [45699294](https://news.social-protocols.org/stats?id=45699294) #6 4 points 0 comments -> [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)<!-- HN:45699294:end --><!-- HN:45680805:start -->
 * [45680805](https://news.social-protocols.org/stats?id=45680805) #9 9 points 0 comments -> [Why PHP and JavaScript Are Great](http://xahlee.info/comp/PHP_is_great.html)<!-- HN:45680805:end -->
+#### **Saturday, October 25, 2025**
+<!-- HN:45616791:start -->
+* [45616791](https://news.social-protocols.org/stats?id=45616791) #8 20 points 2 comments -> [You Can Cool Chips with Lasers](https://spectrum.ieee.org/laser-cooling-chips)<!-- HN:45616791:end --><!-- HN:45620483:start -->
+* [45620483](https://news.social-protocols.org/stats?id=45620483) #12 8 points 0 comments -> [Compiler optimizations for 5.8ms GPT-OSS-120B inference (not on GPUs)](https://furiosa.ai/blog/serving-gpt-oss-120b-at-5-8-ms-tpot-with-two-rngd-cards-compiler-optimizations-in-practice)<!-- HN:45620483:end --><!-- HN:45593532:start -->
+* [45593532](https://news.social-protocols.org/stats?id=45593532) #25 10 points 3 comments -> [Many Factorials in Lambda Calculus](https://text.marvinborner.de/2025-10-08-12.html)<!-- HN:45593532:end --><!-- HN:45566817:start -->
+* [45566817](https://news.social-protocols.org/stats?id=45566817) #28 100 points 92 comments -> [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)<!-- HN:45566817:end -->
