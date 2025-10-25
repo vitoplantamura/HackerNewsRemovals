@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 18, 2025**
-<!-- HN:45623679:start -->
-* [45623679](https://news.social-protocols.org/stats?id=45623679) #1 128 points 3 comments -> [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/)<!-- HN:45623679:end --><!-- HN:45566577:start -->
-* [45566577](https://news.social-protocols.org/stats?id=45566577) #15 6 points 1 comments -> [I wrote a parser for Redis protocol so you don't have to](https://neversleeps.moscow/publications/resp.html)<!-- HN:45566577:end --><!-- HN:45623883:start -->
-* [45623883](https://news.social-protocols.org/stats?id=45623883) #11 30 points 2 comments -> [Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference](https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html)<!-- HN:45623883:end --><!-- HN:45624908:start -->
-* [45624908](https://news.social-protocols.org/stats?id=45624908) #27 15 points 1 comments -> [The Richest Third-World Country](https://www.noahpinion.blog/p/the-richest-third-world-country)<!-- HN:45624908:end --><!-- HN:45627171:start -->
-* [45627171](https://news.social-protocols.org/stats?id=45627171) #25 94 points 56 comments -> [Game over. AGI is not imminent, and LLMs are not the royal road to getting there](https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating)<!-- HN:45627171:end --><!-- HN:45628279:start -->
-* [45628279](https://news.social-protocols.org/stats?id=45628279) #15 8 points 2 comments -> [Solving the NYTimes Pips puzzle with a constraint solver](https://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)<!-- HN:45628279:end --><!-- HN:45628373:start -->
-* [45628373](https://news.social-protocols.org/stats?id=45628373) #18 62 points 10 comments -> [Testosterone Administration Induces a Red Shift in Democrats](https://pmc.ncbi.nlm.nih.gov/articles/PMC12230349/)<!-- HN:45628373:end --><!-- HN:45628499:start -->
-* [45628499](https://news.social-protocols.org/stats?id=45628499) #4 29 points 4 comments -> [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)<!-- HN:45628499:end -->
 #### **Sunday, October 19, 2025**
 <!-- HN:45631455:start -->
 * [45631455](https://news.social-protocols.org/stats?id=45631455) #16 6 points 6 comments -> [I ended my relationship because AI told me to](https://jetwilliams.com/from-prayers-to-prompts/)<!-- HN:45631455:end --><!-- HN:45631974:start -->
