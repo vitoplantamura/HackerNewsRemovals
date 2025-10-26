@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45707022](https://news.social-protocols.org/stats?id=45707022) #27 9 points 2 comments -> [AI agents require to-do lists to stay on track](https://blog.justcopy.ai/p/why-your-ai-agents-need-a-todo-list)<!-- HN:45707022:end --><!-- HN:45657100:start -->
 * [45657100](https://news.social-protocols.org/stats?id=45657100) #20 30 points 40 comments -> [Show HN: We tried to build a job board that isn't awful](https://teeming.ai)<!-- HN:45657100:end --><!-- HN:45706601:start -->
 * [45706601](https://news.social-protocols.org/stats?id=45706601) #30 10 points 1 comments -> [Global key-value metadata storage for Scryer Prolog](https://github.com/jjtolton/environment.pl)<!-- HN:45706601:end -->
+#### **Sunday, October 26, 2025**
+<!-- HN:45707779:start -->
+* [45707779](https://news.social-protocols.org/stats?id=45707779) #6 29 points 44 comments -> [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)<!-- HN:45707779:end -->
