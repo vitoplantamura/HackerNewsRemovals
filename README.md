@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, October 26, 2025**
 <!-- HN:45707779:start -->
 * [45707779](https://news.social-protocols.org/stats?id=45707779) #6 29 points 44 comments -> [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)<!-- HN:45707779:end --><!-- HN:45708229:start -->
-* [45708229](https://news.social-protocols.org/stats?id=45708229) #12 7 points 0 comments -> [Why the New Leisure Class Enjoys Activism and Philanthropy](https://letter.palladiummag.com/p/early-article-why-the-new-leisure)<!-- HN:45708229:end -->
+* [45708229](https://news.social-protocols.org/stats?id=45708229) #12 7 points 0 comments -> [Why the New Leisure Class Enjoys Activism and Philanthropy](https://letter.palladiummag.com/p/early-article-why-the-new-leisure)<!-- HN:45708229:end --><!-- HN:45708442:start -->
+* [45708442](https://news.social-protocols.org/stats?id=45708442) #15 5 points 0 comments -> [Noam Chomsky Slams ŽIžek and Lacan: Empty 'Posturing' (2013)](https://www.openculture.com/2013/06/noam_chomsky_slams_zizek_and_lacan_empty_posturing.html)<!-- HN:45708442:end -->
