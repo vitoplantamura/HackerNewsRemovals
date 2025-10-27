@@ -111,3 +111,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45712124](https://news.social-protocols.org/stats?id=45712124) #6 6 points 0 comments -> [Gambling Is Bad](https://geohot.github.io//blog/jekyll/update/2025/10/24/gambling-is-bad.html)<!-- HN:45712124:end --><!-- HN:45712618:start -->
 * [45712618](https://news.social-protocols.org/stats?id=45712618) #30 -> [Keira Knightley's viral rant on the population's cognitive resilience](https://twitter.com/orphcorp/status/1982230134850572551)<!-- HN:45712618:end --><!-- HN:45713507:start -->
 * [45713507](https://news.social-protocols.org/stats?id=45713507) #6 17 points 6 comments -> [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)<!-- HN:45713507:end -->
+#### **Monday, October 27, 2025**
+<!-- HN:45717424:start -->
+* [45717424](https://news.social-protocols.org/stats?id=45717424) #2 4 points 0 comments -> [The striking Swedish workers taking on carmaker Tesla](https://www.bbc.com/news/articles/c5y9082q0jjo)<!-- HN:45717424:end -->
