@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, October 20, 2025**<!-- HN:45643014:start -->
-* [45643014](https://news.social-protocols.org/stats?id=45643014) #5 5 points 2 comments -> [Lessons from AWS Us-East-1 Outage: Why Local NVMe as Primary DB Storage Is Risky](https://www.eloqdata.com/blog/2025/10/20/local-nvme-risky-for-database)<!-- HN:45643014:end --><!-- HN:45644205:start -->
-* [45644205](https://news.social-protocols.org/stats?id=45644205) #1 15 points 9 comments -> ["COBOL supports close to 90% of Fortune 500 business systems today."](https://cobolcowboys.com/cobol-today/)<!-- HN:45644205:end --><!-- HN:45644073:start -->
-* [45644073](https://news.social-protocols.org/stats?id=45644073) #11 5 points 0 comments -> [Rental Income Analyzer](https://www.rebux.app/)<!-- HN:45644073:end --><!-- HN:45643678:start -->
-* [45643678](https://news.social-protocols.org/stats?id=45643678) #22 4 points 0 comments -> [Ashen-WoW – Pure Vanilla, authentic, stable, community-run](https://ashen-wow.space/en)<!-- HN:45643678:end --><!-- HN:45645268:start -->
-* [45645268](https://news.social-protocols.org/stats?id=45645268) #4 -> [Elites seek to retain their power: Lampedusa's The Leopard skewered super-rich](https://www.bbc.com/culture/article/20250304-the-leopard-the-1958-italian-novel-that-skewered-the-super-rich)<!-- HN:45645268:end --><!-- HN:45642951:start -->
-* [45642951](https://news.social-protocols.org/stats?id=45642951) #19 288 points 151 comments -> [AWS Outage: A Single Cloud Region Shouldn't Take Down the World. But It Did](https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/)<!-- HN:45642951:end --><!-- HN:45640772:start -->
-* [45640772](https://news.social-protocols.org/stats?id=45640772) #15 1051 points 9 comments -> [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)<!-- HN:45640772:end --><!-- HN:45643144:start -->
-* [45643144](https://news.social-protocols.org/stats?id=45643144) #30 27 points 11 comments -> [Show HN: I got tired of managing dev environments, so I built ServBay](https://www.servbay.com)<!-- HN:45643144:end --><!-- HN:45645567:start -->
-* [45645567](https://news.social-protocols.org/stats?id=45645567) #26 23 points 41 comments -> [Kohler launches smart toilet camera](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)<!-- HN:45645567:end --><!-- HN:45644276:start -->
-* [45644276](https://news.social-protocols.org/stats?id=45644276) #23 42 points 52 comments -> [How Soon Will the Seas Rise?](https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/)<!-- HN:45644276:end --><!-- HN:45646777:start -->
-* [45646777](https://news.social-protocols.org/stats?id=45646777) #28 16 points 4 comments -> [Speaking of Amazon, here's a fresh post from an engineer who just quit](https://nekrolm.github.io/blog.html)<!-- HN:45646777:end --><!-- HN:45648864:start -->
-* [45648864](https://news.social-protocols.org/stats?id=45648864) #27 -> [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)<!-- HN:45648864:end --><!-- HN:45648726:start -->
-* [45648726](https://news.social-protocols.org/stats?id=45648726) #28 106 points 69 comments -> [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)<!-- HN:45648726:end -->
 #### **Tuesday, October 21, 2025**
 <!-- HN:45569670:start -->
 * [45569670](https://news.social-protocols.org/stats?id=45569670) #12 10 points 0 comments -> [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)<!-- HN:45569670:end --><!-- HN:45654132:start -->
