@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45713507](https://news.social-protocols.org/stats?id=45713507) #6 17 points 6 comments -> [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)<!-- HN:45713507:end -->
 #### **Monday, October 27, 2025**
 <!-- HN:45717285:start -->
-* [45717285](https://news.social-protocols.org/stats?id=45717285) #5 56 points 28 comments -> [Severe performance penalty found in VSCode rendering loop](https://github.com/microsoft/vscode/issues/272155)<!-- HN:45717285:end -->
+* [45717285](https://news.social-protocols.org/stats?id=45717285) #5 56 points 28 comments -> [Severe performance penalty found in VSCode rendering loop](https://github.com/microsoft/vscode/issues/272155)<!-- HN:45717285:end --><!-- HN:45717424:start -->
+* [45717424](https://news.social-protocols.org/stats?id=45717424) #17 11 points 0 comments -> [The striking Swedish workers taking on carmaker Tesla](https://www.bbc.com/news/articles/c5y9082q0jjo)<!-- HN:45717424:end -->
