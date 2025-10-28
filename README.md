@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45719805](https://news.social-protocols.org/stats?id=45719805) #26 12 points 2 comments -> [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)<!-- HN:45719805:end --><!-- HN:45726137:start -->
 * [45726137](https://news.social-protocols.org/stats?id=45726137) #1 218 points 47 comments -> [The PSF has withdrawn a $1.5M proposal to US Government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/)<!-- HN:45726137:end --><!-- HN:45654202:start -->
 * [45654202](https://news.social-protocols.org/stats?id=45654202) #28 -> [Iroh-blobs 0.95 – New features – Iroh](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)<!-- HN:45654202:end -->
+#### **Tuesday, October 28, 2025**
+<!-- HN:45728415:start -->
+* [45728415](https://news.social-protocols.org/stats?id=45728415) #10 4 points 2 comments -> [ChatGPT shares data on how many users exhibit psychosis or suicidal thoughts](https://www.bbc.com/news/articles/c5yd90g0q43o)<!-- HN:45728415:end -->
