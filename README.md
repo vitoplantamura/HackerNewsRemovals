@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, October 21, 2025**
-<!-- HN:45569670:start -->
-* [45569670](https://news.social-protocols.org/stats?id=45569670) #12 10 points 0 comments -> [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)<!-- HN:45569670:end --><!-- HN:45654132:start -->
-* [45654132](https://news.social-protocols.org/stats?id=45654132) #4 27 points 14 comments -> [AI Weiwei: What I Wish I Had Known About Germany Earlier](https://hyperallergic.com/1050197/what-i-wish-i-had-known-about-germany-earlier/)<!-- HN:45654132:end --><!-- HN:45654382:start -->
-* [45654382](https://news.social-protocols.org/stats?id=45654382) #2 122 points 2 comments -> [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o)<!-- HN:45654382:end --><!-- HN:45655361:start -->
-* [45655361](https://news.social-protocols.org/stats?id=45655361) #11 32 points 11 comments -> [The Karpathy Interview, 6 Months After AI 2027](https://futuresearch.ai/ai-2027-6-months-later/)<!-- HN:45655361:end --><!-- HN:45656676:start -->
-* [45656676](https://news.social-protocols.org/stats?id=45656676) #16 11 points 0 comments -> [Fired Justice Department lawyer blows the whistle on abuses of power at the DOJ [video]](https://www.youtube.com/watch?v=vcSHMkyM0aE)<!-- HN:45656676:end --><!-- HN:45657055:start -->
-* [45657055](https://news.social-protocols.org/stats?id=45657055) #28 19 points 20 comments -> [Show HN: Clink – Bring your own CLI Agents, Ship instantly](https://clink.new)<!-- HN:45657055:end --><!-- HN:45659523:start -->
-* [45659523](https://news.social-protocols.org/stats?id=45659523) #7 4 points 2 comments -> [My wife gave me 100 days to make it as an indie creator](https://blog.jacobstechtavern.com/p/my-wife-gave-me-100-days)<!-- HN:45659523:end --><!-- HN:45659907:start -->
-* [45659907](https://news.social-protocols.org/stats?id=45659907) #29 -> [Amazon Doesn't Use Route 53 for amazon.com](https://www.dnscheck.co/blog/dns-monitoring/2025/10/21/aws-dog-food.html)<!-- HN:45659907:end -->
 #### **Wednesday, October 22, 2025**
 <!-- HN:45664358:start -->
 * [45664358](https://news.social-protocols.org/stats?id=45664358) #23 20 points 13 comments -> [I Bought $250k Worth of Physical Nickels](https://twitter.com/opinioncasino/status/1980038177785000114)<!-- HN:45664358:end --><!-- HN:45664751:start -->

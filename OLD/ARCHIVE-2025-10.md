@@ -252,3 +252,13 @@
 * [45646777](https://news.ycombinator.com/item?id=45646777) #28 16 points 4 comments -> [Speaking of Amazon, here's a fresh post from an engineer who just quit](https://nekrolm.github.io/blog.html)<!-- HN:45646777:end --><!-- HN:45648864:start -->
 * [45648864](https://news.ycombinator.com/item?id=45648864) #27 -> [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)<!-- HN:45648864:end --><!-- HN:45648726:start -->
 * [45648726](https://news.ycombinator.com/item?id=45648726) #28 106 points 69 comments -> [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)<!-- HN:45648726:end -->
+#### **Tuesday, October 21, 2025**
+<!-- HN:45569670:start -->
+* [45569670](https://news.ycombinator.com/item?id=45569670) #12 10 points 0 comments -> [Building a CMS without programming experience](https://www.vibediary.dev/essays/cms)<!-- HN:45569670:end --><!-- HN:45654132:start -->
+* [45654132](https://news.ycombinator.com/item?id=45654132) #4 27 points 14 comments -> [AI Weiwei: What I Wish I Had Known About Germany Earlier](https://hyperallergic.com/1050197/what-i-wish-i-had-known-about-germany-earlier/)<!-- HN:45654132:end --><!-- HN:45654382:start -->
+* [45654382](https://news.ycombinator.com/item?id=45654382) #2 122 points 2 comments -> [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o)<!-- HN:45654382:end --><!-- HN:45655361:start -->
+* [45655361](https://news.ycombinator.com/item?id=45655361) #11 32 points 11 comments -> [The Karpathy Interview, 6 Months After AI 2027](https://futuresearch.ai/ai-2027-6-months-later/)<!-- HN:45655361:end --><!-- HN:45656676:start -->
+* [45656676](https://news.ycombinator.com/item?id=45656676) #16 11 points 0 comments -> [Fired Justice Department lawyer blows the whistle on abuses of power at the DOJ [video]](https://www.youtube.com/watch?v=vcSHMkyM0aE)<!-- HN:45656676:end --><!-- HN:45657055:start -->
+* [45657055](https://news.ycombinator.com/item?id=45657055) #28 19 points 20 comments -> [Show HN: Clink – Bring your own CLI Agents, Ship instantly](https://clink.new)<!-- HN:45657055:end --><!-- HN:45659523:start -->
+* [45659523](https://news.ycombinator.com/item?id=45659523) #7 4 points 2 comments -> [My wife gave me 100 days to make it as an indie creator](https://blog.jacobstechtavern.com/p/my-wife-gave-me-100-days)<!-- HN:45659523:end --><!-- HN:45659907:start -->
+* [45659907](https://news.ycombinator.com/item?id=45659907) #29 -> [Amazon Doesn't Use Route 53 for amazon.com](https://www.dnscheck.co/blog/dns-monitoring/2025/10/21/aws-dog-food.html)<!-- HN:45659907:end -->
