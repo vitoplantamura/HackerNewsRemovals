@@ -111,4 +111,10 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45654202](https://news.social-protocols.org/stats?id=45654202) #28 -> [Iroh-blobs 0.95 – New features – Iroh](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)<!-- HN:45654202:end -->
 #### **Tuesday, October 28, 2025**
 <!-- HN:45728415:start -->
-* [45728415](https://news.social-protocols.org/stats?id=45728415) #10 4 points 2 comments -> [ChatGPT shares data on how many users exhibit psychosis or suicidal thoughts](https://www.bbc.com/news/articles/c5yd90g0q43o)<!-- HN:45728415:end -->
+* [45728415](https://news.social-protocols.org/stats?id=45728415) #10 4 points 2 comments -> [ChatGPT shares data on how many users exhibit psychosis or suicidal thoughts](https://www.bbc.com/news/articles/c5yd90g0q43o)<!-- HN:45728415:end --><!-- HN:45652367:start -->
+* [45652367](https://news.social-protocols.org/stats?id=45652367) #5 62 points 5 comments -> [Finding my rhythm again](https://jeremydaly.com/finding-my-rhythm-again/)<!-- HN:45652367:end --><!-- HN:45635384:start -->
+* [45635384](https://news.social-protocols.org/stats?id=45635384) #10 43 points 2 comments -> [Yet another year with Decker](http://beyondloom.com/blog/unionstate3.html)<!-- HN:45635384:end --><!-- HN:45644066:start -->
+* [45644066](https://news.social-protocols.org/stats?id=45644066) #13 67 points 33 comments -> [Go beyond Goroutines: introducing the Reactive paradigm](https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing)<!-- HN:45644066:end --><!-- HN:45652952:start -->
+* [45652952](https://news.social-protocols.org/stats?id=45652952) #19 161 points 94 comments -> [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/)<!-- HN:45652952:end --><!-- HN:45658461:start -->
+* [45658461](https://news.social-protocols.org/stats?id=45658461) #23 64 points 0 comments -> [Solving regex crosswords with Z3](https://blog.nelhage.com/post/regex-crosswords-z3/)<!-- HN:45658461:end --><!-- HN:45661617:start -->
+* [45661617](https://news.social-protocols.org/stats?id=45661617) #26 14 points 2 comments -> [We resolve a $1000 Erdős problem, with a Lean proof vibe coded using ChatGPT](https://borisalexeev.com/papers/erdos707.html)<!-- HN:45661617:end -->
