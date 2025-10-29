@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45736872](https://news.social-protocols.org/stats?id=45736872) #5 26 points 42 comments -> [Passkeys: They're not perfect but they're getting better](https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;)<!-- HN:45736872:end -->
 #### **Wednesday, October 29, 2025**
 <!-- HN:45740348:start -->
-* [45740348](https://news.social-protocols.org/stats?id=45740348) #6 10 points 2 comments -> [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)<!-- HN:45740348:end -->
+* [45740348](https://news.social-protocols.org/stats?id=45740348) #6 10 points 2 comments -> [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)<!-- HN:45740348:end --><!-- HN:45740467:start -->
+* [45740467](https://news.social-protocols.org/stats?id=45740467) #28 11 points 1 comments -> [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/)<!-- HN:45740467:end -->
