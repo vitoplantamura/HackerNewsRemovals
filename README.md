@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45734529](https://news.social-protocols.org/stats?id=45734529) #10 4 points 0 comments -> [How to build a brand that AI can't copy](https://www.eleanot.es/p/how-to-build-brands-ai-cant-copy)<!-- HN:45734529:end --><!-- HN:45687014:start -->
 * [45687014](https://news.social-protocols.org/stats?id=45687014) #25 35 points 40 comments -> [Do Users Verify SSH Keys? (2011) [pdf]](https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf)<!-- HN:45687014:end --><!-- HN:45736872:start -->
 * [45736872](https://news.social-protocols.org/stats?id=45736872) #5 26 points 42 comments -> [Passkeys: They're not perfect but they're getting better](https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;)<!-- HN:45736872:end -->
+#### **Wednesday, October 29, 2025**
+<!-- HN:45740348:start -->
+* [45740348](https://news.social-protocols.org/stats?id=45740348) #6 10 points 2 comments -> [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)<!-- HN:45740348:end -->
