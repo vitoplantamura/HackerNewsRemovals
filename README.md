@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45740348:start -->
 * [45740348](https://news.social-protocols.org/stats?id=45740348) #6 10 points 2 comments -> [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)<!-- HN:45740348:end --><!-- HN:45740467:start -->
 * [45740467](https://news.social-protocols.org/stats?id=45740467) #28 11 points 1 comments -> [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/)<!-- HN:45740467:end --><!-- HN:45741877:start -->
-* [45741877](https://news.social-protocols.org/stats?id=45741877) #29 7 points 2 comments -> [Rockylinux.org not hosted on Rocky Linux](https://rockylinux-org.vercel.app/)<!-- HN:45741877:end -->
+* [45741877](https://news.social-protocols.org/stats?id=45741877) #29 7 points 2 comments -> [Rockylinux.org not hosted on Rocky Linux](https://rockylinux-org.vercel.app/)<!-- HN:45741877:end --><!-- HN:45746482:start -->
+* [45746482](https://news.social-protocols.org/stats?id=45746482) #17 17 points 4 comments -> [Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)<!-- HN:45746482:end -->
