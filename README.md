@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45746313](https://news.social-protocols.org/stats?id=45746313) #26 9 points 6 comments -> [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)<!-- HN:45746313:end --><!-- HN:45747557:start -->
 * [45747557](https://news.social-protocols.org/stats?id=45747557) #11 21 points 13 comments -> [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)<!-- HN:45747557:end --><!-- HN:45752724:start -->
 * [45752724](https://news.social-protocols.org/stats?id=45752724) #9 5 points 0 comments -> [Defiance.org](https://www.defiance.org)<!-- HN:45752724:end -->
+#### **Thursday, October 30, 2025**
+<!-- HN:45715026:start -->
+* [45715026](https://news.social-protocols.org/stats?id=45715026) #25 9 points 1 comments -> [Using Atomic State to Improve React Performance in Deeply Nested Component Trees](https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state)<!-- HN:45715026:end -->
