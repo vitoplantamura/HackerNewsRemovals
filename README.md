@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 30, 2025**
 <!-- HN:45715026:start -->
 * [45715026](https://news.social-protocols.org/stats?id=45715026) #25 9 points 1 comments -> [Using Atomic State to Improve React Performance in Deeply Nested Component Trees](https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state)<!-- HN:45715026:end --><!-- HN:45707591:start -->
-* [45707591](https://news.social-protocols.org/stats?id=45707591) #16 6 points 0 comments -> [Baker – language-agnostic project scaffolder with hooks (Rust)](https://github.com/aliev/baker)<!-- HN:45707591:end -->
+* [45707591](https://news.social-protocols.org/stats?id=45707591) #16 6 points 0 comments -> [Baker – language-agnostic project scaffolder with hooks (Rust)](https://github.com/aliev/baker)<!-- HN:45707591:end --><!-- HN:45719805:start -->
+* [45719805](https://news.social-protocols.org/stats?id=45719805) #29 17 points 8 comments -> [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)<!-- HN:45719805:end -->
