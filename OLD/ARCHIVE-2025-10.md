@@ -287,3 +287,12 @@
 * [45681322](https://news.ycombinator.com/item?id=45681322) #6 9 points 0 comments -> [I Went All in on AI. The MIT Study Was Right](https://leadershiplighthouse.substack.com/p/i-went-all-in-on-ai-the-mit-study)<!-- HN:45681322:end --><!-- HN:45622122:start -->
 * [45622122](https://news.ycombinator.com/item?id=45622122) #23 5 points 1 comments -> [The Tonnetz](https://thetonnetz.com/)<!-- HN:45622122:end --><!-- HN:45684035:start -->
 * [45684035](https://news.ycombinator.com/item?id=45684035) #2 162 points 2 comments -> [MinIO declines to release Docker builds resolving CVE-2025-62506](https://github.com/minio/minio/issues/21647)<!-- HN:45684035:end -->
+#### **Friday, October 24, 2025**
+<!-- HN:45690506:start -->
+* [45690506](https://news.ycombinator.com/item?id=45690506) #3 37 points 17 comments -> [US Tariff Negotiations with Canada Terminated over Advertisement](https://www.bbc.com/news/articles/cdjrlmd4pmeo)<!-- HN:45690506:end --><!-- HN:45602940:start -->
+* [45602940](https://news.ycombinator.com/item?id=45602940) #26 19 points 11 comments -> [Why does collapsing a bubble with a sound wave produce light?](https://akshatjiwannotes.blogspot.com/2025/10/why-does-collapsing-bubble-with-sound.html)<!-- HN:45602940:end --><!-- HN:45696539:start -->
+* [45696539](https://news.ycombinator.com/item?id=45696539) #1 21 points 1 comments -> [Men who mean just what they say](https://journal.humancenteredtech.us/p/men-who-mean-just-what-they-say)<!-- HN:45696539:end --><!-- HN:45697395:start -->
+* [45697395](https://news.ycombinator.com/item?id=45697395) #1 138 points 25 comments -> [FBI Agents Visit Anti-ICE Protester: "Your name was brought up."](https://www.kenklippenstein.com/p/video-fbi-agents-visit-anti-ice-protester)<!-- HN:45697395:end --><!-- HN:45697649:start -->
+* [45697649](https://news.ycombinator.com/item?id=45697649) #1 -> [Protein Is a Trap and I Have Fallen into It, or Second Breakfast #19](https://buttondown.com/meghanmccarron/archive/protein-is-a-trap-and-i-have-fallen-into-it-or/)<!-- HN:45697649:end --><!-- HN:45699294:start -->
+* [45699294](https://news.ycombinator.com/item?id=45699294) #6 4 points 0 comments -> [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)<!-- HN:45699294:end --><!-- HN:45680805:start -->
+* [45680805](https://news.ycombinator.com/item?id=45680805) #9 9 points 0 comments -> [Why PHP and JavaScript Are Great](http://xahlee.info/comp/PHP_is_great.html)<!-- HN:45680805:end -->
