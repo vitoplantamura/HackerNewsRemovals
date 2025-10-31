@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45761659](https://news.social-protocols.org/stats?id=45761659) #1 94 points 3 comments -> [Affinity by Canva](https://www.affinity.studio/)<!-- HN:45761659:end --><!-- HN:45763367:start -->
 * [45763367](https://news.social-protocols.org/stats?id=45763367) #10 25 points 40 comments -> [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)<!-- HN:45763367:end -->
 #### **Friday, October 31, 2025**<!-- HN:45766920:start -->
-* [45766920](https://news.social-protocols.org/stats?id=45766920) #25 11 points 6 comments -> [Animals could easily be talking to us if we tried](https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried)<!-- HN:45766920:end -->
+* [45766920](https://news.social-protocols.org/stats?id=45766920) #25 11 points 6 comments -> [Animals could easily be talking to us if we tried](https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried)<!-- HN:45766920:end --><!-- HN:45767343:start -->
+* [45767343](https://news.social-protocols.org/stats?id=45767343) #28 10 points 7 comments -> [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)<!-- HN:45767343:end -->
