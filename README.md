@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 31, 2025**<!-- HN:45766920:start -->
 * [45766920](https://news.social-protocols.org/stats?id=45766920) #25 11 points 6 comments -> [Animals could easily be talking to us if we tried](https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried)<!-- HN:45766920:end --><!-- HN:45767343:start -->
 * [45767343](https://news.social-protocols.org/stats?id=45767343) #28 10 points 7 comments -> [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)<!-- HN:45767343:end --><!-- HN:45769901:start -->
-* [45769901](https://news.social-protocols.org/stats?id=45769901) #5 34 points 41 comments -> [Claude.ai Is Down](https://claude.ai)<!-- HN:45769901:end -->
+* [45769901](https://news.social-protocols.org/stats?id=45769901) #5 34 points 41 comments -> [Claude.ai Is Down](https://claude.ai)<!-- HN:45769901:end --><!-- HN:45769857:start -->
+* [45769857](https://news.social-protocols.org/stats?id=45769857) #4 24 points 15 comments -> [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)<!-- HN:45769857:end -->
