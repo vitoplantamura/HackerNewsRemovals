@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 25, 2025**
-<!-- HN:45616791:start -->
-* [45616791](https://news.social-protocols.org/stats?id=45616791) #8 20 points 2 comments -> [You Can Cool Chips with Lasers](https://spectrum.ieee.org/laser-cooling-chips)<!-- HN:45616791:end --><!-- HN:45620483:start -->
-* [45620483](https://news.social-protocols.org/stats?id=45620483) #12 8 points 0 comments -> [Compiler optimizations for 5.8ms GPT-OSS-120B inference (not on GPUs)](https://furiosa.ai/blog/serving-gpt-oss-120b-at-5-8-ms-tpot-with-two-rngd-cards-compiler-optimizations-in-practice)<!-- HN:45620483:end --><!-- HN:45593532:start -->
-* [45593532](https://news.social-protocols.org/stats?id=45593532) #25 10 points 3 comments -> [Many Factorials in Lambda Calculus](https://text.marvinborner.de/2025-10-08-12.html)<!-- HN:45593532:end --><!-- HN:45566817:start -->
-* [45566817](https://news.social-protocols.org/stats?id=45566817) #28 100 points 92 comments -> [Wasp Blower](https://softsolder.com/2025/08/12/wasp-blower/)<!-- HN:45566817:end --><!-- HN:45700301:start -->
-* [45700301](https://news.social-protocols.org/stats?id=45700301) #10 -> [Virtual Try on Free Online – AI Clothes Changer – I-TryOn](https://virtual-try-on.app/)<!-- HN:45700301:end --><!-- HN:45701622:start -->
-* [45701622](https://news.social-protocols.org/stats?id=45701622) #4 28 points 12 comments -> [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)<!-- HN:45701622:end --><!-- HN:45705250:start -->
-* [45705250](https://news.social-protocols.org/stats?id=45705250) #26 38 points 11 comments -> [Armed police handcuff teen after AI mistakes chip bag for gun in Baltimore](https://www.bbc.com/news/articles/cgjdlx92lylo)<!-- HN:45705250:end --><!-- HN:45703767:start -->
-* [45703767](https://news.social-protocols.org/stats?id=45703767) #12 65 points 61 comments -> [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)<!-- HN:45703767:end --><!-- HN:45706690:start -->
-* [45706690](https://news.social-protocols.org/stats?id=45706690) #4 14 points 8 comments -> [Violent crime plummets 36% in downtown Seattle, lowest since 2017](https://mynorthwest.com/crime-blotter/seattle-downtown-crime/4146723)<!-- HN:45706690:end --><!-- HN:45706872:start -->
-* [45706872](https://news.social-protocols.org/stats?id=45706872) #24 13 points 5 comments -> [Do Orthodox Jewish Men Wear Suits 24/7?](https://jewinthecity.com/2018/02/do-orthodox-men-wear-suits-247/)<!-- HN:45706872:end --><!-- HN:45707022:start -->
-* [45707022](https://news.social-protocols.org/stats?id=45707022) #27 9 points 2 comments -> [AI agents require to-do lists to stay on track](https://blog.justcopy.ai/p/why-your-ai-agents-need-a-todo-list)<!-- HN:45707022:end --><!-- HN:45657100:start -->
-* [45657100](https://news.social-protocols.org/stats?id=45657100) #20 30 points 40 comments -> [Show HN: We tried to build a job board that isn't awful](https://teeming.ai)<!-- HN:45657100:end --><!-- HN:45706601:start -->
-* [45706601](https://news.social-protocols.org/stats?id=45706601) #30 10 points 1 comments -> [Global key-value metadata storage for Scryer Prolog](https://github.com/jjtolton/environment.pl)<!-- HN:45706601:end -->
 #### **Sunday, October 26, 2025**
 <!-- HN:45707779:start -->
 * [45707779](https://news.social-protocols.org/stats?id=45707779) #6 29 points 44 comments -> [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)<!-- HN:45707779:end --><!-- HN:45708229:start -->
