@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45769857](https://news.social-protocols.org/stats?id=45769857) #4 24 points 15 comments -> [Show HN: A fast, dependency-free traceroute implementation in pure C](https://github.com/davidesantangelo/fastrace)<!-- HN:45769857:end --><!-- HN:45772444:start -->
 * [45772444](https://news.social-protocols.org/stats?id=45772444) #12 9 points 2 comments -> [Fuck Up My Site (Halloween Edition)](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&halloween=true)<!-- HN:45772444:end --><!-- HN:45772579:start -->
 * [45772579](https://news.social-protocols.org/stats?id=45772579) #1 129 points 1 comments -> [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)<!-- HN:45772579:end -->
+#### **Saturday, November 1, 2025**
+<!-- HN:45777920:start -->
+* [45777920](https://news.social-protocols.org/stats?id=45777920) #11 7 points 4 comments -> [Will Paramount Cancel Jon Stewart?](https://www.newyorker.com/culture/the-new-yorker-interview/will-paramount-cancel-jon-stewart)<!-- HN:45777920:end -->
