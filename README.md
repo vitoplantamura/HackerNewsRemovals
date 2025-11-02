@@ -105,3 +105,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45784158](https://news.social-protocols.org/stats?id=45784158) #29 25 points 40 comments -> [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)<!-- HN:45784158:end --><!-- HN:45785438:start -->
 * [45785438](https://news.social-protocols.org/stats?id=45785438) #3 7 points 1 comments -> [US Drone Observes Aid Truck Looted by Hamas in Gaza](https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/4327585/us-drone-observes-aid-truck-looted-by-hamas-in-gaza/)<!-- HN:45785438:end --><!-- HN:45784810:start -->
 * [45784810](https://news.social-protocols.org/stats?id=45784810) #26 -> [Sam Altman tried to cancel his Tesla Roadster, but he was ghosted](https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/)<!-- HN:45784810:end -->
+#### **Sunday, November 2, 2025**
+<!-- HN:45735432:start -->
+* [45735432](https://news.social-protocols.org/stats?id=45735432) #11 27 points 40 comments -> [The Naked Man Problem and the Secret to Never Forgetting Numbers](https://ninjasandrobots.com/the-naked-man-problem-and-the-secret-to-never-forgetting-numbers)<!-- HN:45735432:end -->
