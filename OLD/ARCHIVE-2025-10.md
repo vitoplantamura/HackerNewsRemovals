@@ -311,3 +311,12 @@
 * [45707022](https://news.ycombinator.com/item?id=45707022) #27 9 points 2 comments -> [AI agents require to-do lists to stay on track](https://blog.justcopy.ai/p/why-your-ai-agents-need-a-todo-list)<!-- HN:45707022:end --><!-- HN:45657100:start -->
 * [45657100](https://news.ycombinator.com/item?id=45657100) #20 30 points 40 comments -> [Show HN: We tried to build a job board that isn't awful](https://teeming.ai)<!-- HN:45657100:end --><!-- HN:45706601:start -->
 * [45706601](https://news.ycombinator.com/item?id=45706601) #30 10 points 1 comments -> [Global key-value metadata storage for Scryer Prolog](https://github.com/jjtolton/environment.pl)<!-- HN:45706601:end -->
+#### **Sunday, October 26, 2025**
+<!-- HN:45707779:start -->
+* [45707779](https://news.ycombinator.com/item?id=45707779) #6 29 points 44 comments -> [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)<!-- HN:45707779:end --><!-- HN:45708229:start -->
+* [45708229](https://news.ycombinator.com/item?id=45708229) #12 7 points 0 comments -> [Why the New Leisure Class Enjoys Activism and Philanthropy](https://letter.palladiummag.com/p/early-article-why-the-new-leisure)<!-- HN:45708229:end --><!-- HN:45708442:start -->
+* [45708442](https://news.ycombinator.com/item?id=45708442) #15 5 points 0 comments -> [Noam Chomsky Slams ŽIžek and Lacan: Empty 'Posturing' (2013)](https://www.openculture.com/2013/06/noam_chomsky_slams_zizek_and_lacan_empty_posturing.html)<!-- HN:45708442:end --><!-- HN:45639903:start -->
+* [45639903](https://news.ycombinator.com/item?id=45639903) #18 22 points 15 comments -> [The Privacy Theater of Hashed PII](https://matthodges.com/posts/2025-10-19-privacy-theater-pii-phone-numbers/)<!-- HN:45639903:end --><!-- HN:45712124:start -->
+* [45712124](https://news.ycombinator.com/item?id=45712124) #6 6 points 0 comments -> [Gambling Is Bad](https://geohot.github.io//blog/jekyll/update/2025/10/24/gambling-is-bad.html)<!-- HN:45712124:end --><!-- HN:45712618:start -->
+* [45712618](https://news.ycombinator.com/item?id=45712618) #30 -> [Keira Knightley's viral rant on the population's cognitive resilience](https://twitter.com/orphcorp/status/1982230134850572551)<!-- HN:45712618:end --><!-- HN:45713507:start -->
+* [45713507](https://news.ycombinator.com/item?id=45713507) #6 17 points 6 comments -> [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)<!-- HN:45713507:end -->
