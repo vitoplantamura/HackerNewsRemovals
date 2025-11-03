@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45792958](https://news.social-protocols.org/stats?id=45792958) #15 36 points 31 comments -> ['This is the big one' – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)<!-- HN:45792958:end -->
 #### **Monday, November 3, 2025**
 <!-- HN:45706610:start -->
-* [45706610](https://news.social-protocols.org/stats?id=45706610) #20 11 points 0 comments -> [OKLCH color picker and converter](https://oklch.com)<!-- HN:45706610:end -->
+* [45706610](https://news.social-protocols.org/stats?id=45706610) #20 11 points 0 comments -> [OKLCH color picker and converter](https://oklch.com)<!-- HN:45706610:end --><!-- HN:45795413:start -->
+* [45795413](https://news.social-protocols.org/stats?id=45795413) #1 78 points 39 comments -> [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)<!-- HN:45795413:end -->
