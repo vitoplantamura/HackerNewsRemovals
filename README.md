@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45706610:start -->
 * [45706610](https://news.social-protocols.org/stats?id=45706610) #20 11 points 0 comments -> [OKLCH color picker and converter](https://oklch.com)<!-- HN:45706610:end --><!-- HN:45795413:start -->
 * [45795413](https://news.social-protocols.org/stats?id=45795413) #1 78 points 39 comments -> [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)<!-- HN:45795413:end --><!-- HN:45794475:start -->
-* [45794475](https://news.social-protocols.org/stats?id=45794475) #14 33 points 28 comments -> [I ****Ing Hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)<!-- HN:45794475:end -->
+* [45794475](https://news.social-protocols.org/stats?id=45794475) #14 33 points 28 comments -> [I ****Ing Hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)<!-- HN:45794475:end --><!-- HN:45798522:start -->
+* [45798522](https://news.social-protocols.org/stats?id=45798522) #20 8 points 2 comments -> [As world rises up for Gaza, Sudanese in Israel say larger catastrophe is ignored](https://www.timesofisrael.com/as-world-rises-up-for-gaza-sudanese-in-israel-say-larger-catastrophe-being-ignored/)<!-- HN:45798522:end -->
