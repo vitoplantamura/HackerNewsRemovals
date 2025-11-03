@@ -320,3 +320,10 @@
 * [45712124](https://news.ycombinator.com/item?id=45712124) #6 6 points 0 comments -> [Gambling Is Bad](https://geohot.github.io//blog/jekyll/update/2025/10/24/gambling-is-bad.html)<!-- HN:45712124:end --><!-- HN:45712618:start -->
 * [45712618](https://news.ycombinator.com/item?id=45712618) #30 -> [Keira Knightley's viral rant on the population's cognitive resilience](https://twitter.com/orphcorp/status/1982230134850572551)<!-- HN:45712618:end --><!-- HN:45713507:start -->
 * [45713507](https://news.ycombinator.com/item?id=45713507) #6 17 points 6 comments -> [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord)<!-- HN:45713507:end -->
+#### **Monday, October 27, 2025**
+<!-- HN:45717285:start -->
+* [45717285](https://news.ycombinator.com/item?id=45717285) #5 56 points 28 comments -> [Severe performance penalty found in VSCode rendering loop](https://github.com/microsoft/vscode/issues/272155)<!-- HN:45717285:end --><!-- HN:45717424:start -->
+* [45717424](https://news.ycombinator.com/item?id=45717424) #17 11 points 0 comments -> [The striking Swedish workers taking on carmaker Tesla](https://www.bbc.com/news/articles/c5y9082q0jjo)<!-- HN:45717424:end --><!-- HN:45718367:start -->
+* [45718367](https://news.ycombinator.com/item?id=45718367) #14 13 points 1 comments -> [My Email to Tim Cook](https://substack.com/inbox/post/175351960)<!-- HN:45718367:end --><!-- HN:45726137:start -->
+* [45726137](https://news.ycombinator.com/item?id=45726137) #1 218 points 47 comments -> [The PSF has withdrawn a $1.5M proposal to US Government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/)<!-- HN:45726137:end --><!-- HN:45654202:start -->
+* [45654202](https://news.ycombinator.com/item?id=45654202) #28 -> [Iroh-blobs 0.95 – New features – Iroh](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)<!-- HN:45654202:end -->
