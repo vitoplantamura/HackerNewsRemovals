@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45792958](https://news.social-protocols.org/stats?id=45792958) #15 36 points 31 comments -> ['This is the big one' – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)<!-- HN:45792958:end -->
 #### **Monday, November 3, 2025**
 <!-- HN:45793982:start -->
-* [45793982](https://news.social-protocols.org/stats?id=45793982) #9 40 points 25 comments -> [The foods that make you smell more attractive](https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive)<!-- HN:45793982:end -->
+* [45793982](https://news.social-protocols.org/stats?id=45793982) #9 40 points 25 comments -> [The foods that make you smell more attractive](https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive)<!-- HN:45793982:end --><!-- HN:45706610:start -->
+* [45706610](https://news.social-protocols.org/stats?id=45706610) #20 11 points 0 comments -> [OKLCH color picker and converter](https://oklch.com)<!-- HN:45706610:end -->
