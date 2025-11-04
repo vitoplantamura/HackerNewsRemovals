@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45801455](https://news.social-protocols.org/stats?id=45801455) #17 3 points 0 comments -> [Your Infra Isn't Special: Why Open Source Infrastructure as Code (IaC) Wins](https://masterpoint.io/blog/why-open-source-iac-wins/)<!-- HN:45801455:end --><!-- HN:45802248:start -->
 * [45802248](https://news.social-protocols.org/stats?id=45802248) #16 32 points 12 comments -> [America is bracing for political violence – and significant portion think its OK](https://www.politico.com/news/2025/11/03/poll-americans-political-violence-00632864)<!-- HN:45802248:end --><!-- HN:45802600:start -->
 * [45802600](https://news.social-protocols.org/stats?id=45802600) #13 11 points 7 comments -> [The Stallman Paradox: How Web3 Became the Ultimate Open Source Theater](https://paragraph.com/@holonic-horizons/the-stallman-paradox-how-web3-became-the-ultimate-open-source-theater)<!-- HN:45802600:end -->
-#### **Tuesday, November 4, 2025**
+#### **Tuesday, November 4, 2025**<!-- HN:45806945:start -->
+* [45806945](https://news.social-protocols.org/stats?id=45806945) #18 -> [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)<!-- HN:45806945:end -->
