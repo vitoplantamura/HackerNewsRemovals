@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45801455](https://news.social-protocols.org/stats?id=45801455) #17 3 points 0 comments -> [Your Infra Isn't Special: Why Open Source Infrastructure as Code (IaC) Wins](https://masterpoint.io/blog/why-open-source-iac-wins/)<!-- HN:45801455:end --><!-- HN:45802248:start -->
 * [45802248](https://news.social-protocols.org/stats?id=45802248) #16 32 points 12 comments -> [America is bracing for political violence – and significant portion think its OK](https://www.politico.com/news/2025/11/03/poll-americans-political-violence-00632864)<!-- HN:45802248:end --><!-- HN:45802600:start -->
 * [45802600](https://news.social-protocols.org/stats?id=45802600) #13 11 points 7 comments -> [The Stallman Paradox: How Web3 Became the Ultimate Open Source Theater](https://paragraph.com/@holonic-horizons/the-stallman-paradox-how-web3-became-the-ultimate-open-source-theater)<!-- HN:45802600:end -->
+#### **Tuesday, November 4, 2025**
+<!-- HN:45806098:start -->
+* [45806098](https://news.social-protocols.org/stats?id=45806098) #17 55 points 7 comments -> [Israels top military lawyer resigns, goes missing, is found and thrown into jail](https://apnews.com/article/israel-military-scandal-prisoners-abuse-7becb2de4079b76b656910cc3c640d0d)<!-- HN:45806098:end -->
