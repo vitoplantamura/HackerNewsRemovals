@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45814285](https://news.social-protocols.org/stats?id=45814285) #9 3 points 0 comments -> [Arguably the prettiest selfhosting services dashboard](https://github.com/deyaa1251/HostMonk)<!-- HN:45814285:end --><!-- HN:45814522:start -->
 * [45814522](https://news.social-protocols.org/stats?id=45814522) #12 26 points 21 comments -> [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)<!-- HN:45814522:end --><!-- HN:45816946:start -->
 * [45816946](https://news.social-protocols.org/stats?id=45816946) #25 23 points 15 comments -> [Border Patrol agent testifies sandwich thrown at him "exploded all over,"](https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/)<!-- HN:45816946:end -->
-#### **Wednesday, November 5, 2025**
+#### **Wednesday, November 5, 2025**<!-- HN:45818043:start -->
+* [45818043](https://news.social-protocols.org/stats?id=45818043) #17 6 points 0 comments -> [At least 3 dead after UPS plane crashes at Louisville airport; fire spreading](https://www.wlky.com/article/plane-crash-explosion-louisville-airport/69255042)<!-- HN:45818043:end -->
