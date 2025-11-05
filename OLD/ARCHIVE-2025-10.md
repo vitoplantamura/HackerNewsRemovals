@@ -347,3 +347,12 @@
 * [45676191](https://news.ycombinator.com/item?id=45676191) #26 39 points 10 comments -> [DJI Removes Video Shot in National Parks After It Raises Eyebrows](https://petapixel.com/2025/10/21/dji-removes-video-shot-in-national-parks-after-it-raises-eyebrows/)<!-- HN:45676191:end --><!-- HN:45732783:start -->
 * [45732783](https://news.ycombinator.com/item?id=45732783) #8 17 points 10 comments -> [Microsoft to Get 27% of OpenAI, Access to AI Models Until 2032](https://www.bloomberg.com/news/articles/2025-10-28/microsoft-to-get-27-of-openai-access-to-ai-models-until-2032)<!-- HN:45732783:end --><!-- HN:45734529:start -->
 * [45734529](https://news.ycombinator.com/item?id=45734529) #10 4 points 0 comments -> [How to build a brand that AI can't copy](https://www.eleanot.es/p/how-to-build-brands-ai-cant-copy)<!-- HN:45734529:end -->
+#### **Wednesday, October 29, 2025**
+<!-- HN:45740348:start -->
+* [45740348](https://news.ycombinator.com/item?id=45740348) #6 10 points 2 comments -> [Static Android Debug Bridge (adb)](https://github.com/kiddlu/adb-static)<!-- HN:45740348:end --><!-- HN:45740467:start -->
+* [45740467](https://news.ycombinator.com/item?id=45740467) #28 11 points 1 comments -> [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/)<!-- HN:45740467:end --><!-- HN:45741877:start -->
+* [45741877](https://news.ycombinator.com/item?id=45741877) #29 7 points 2 comments -> [Rockylinux.org not hosted on Rocky Linux](https://rockylinux-org.vercel.app/)<!-- HN:45741877:end --><!-- HN:45745876:start -->
+* [45745876](https://news.ycombinator.com/item?id=45745876) #13 10 points 4 comments -> [Now any body can write JavaScript code in Rust](https://github.com/Shyam20001/rsjs)<!-- HN:45745876:end --><!-- HN:45746313:start -->
+* [45746313](https://news.ycombinator.com/item?id=45746313) #26 9 points 6 comments -> [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)<!-- HN:45746313:end --><!-- HN:45747557:start -->
+* [45747557](https://news.ycombinator.com/item?id=45747557) #11 21 points 13 comments -> [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)<!-- HN:45747557:end --><!-- HN:45752724:start -->
+* [45752724](https://news.ycombinator.com/item?id=45752724) #9 5 points 0 comments -> [Defiance.org](https://www.defiance.org)<!-- HN:45752724:end -->
