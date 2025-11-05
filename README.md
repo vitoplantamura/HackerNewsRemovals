@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45814285](https://news.social-protocols.org/stats?id=45814285) #9 3 points 0 comments -> [Arguably the prettiest selfhosting services dashboard](https://github.com/deyaa1251/HostMonk)<!-- HN:45814285:end --><!-- HN:45814522:start -->
 * [45814522](https://news.social-protocols.org/stats?id=45814522) #12 26 points 21 comments -> [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)<!-- HN:45814522:end --><!-- HN:45816946:start -->
 * [45816946](https://news.social-protocols.org/stats?id=45816946) #25 23 points 15 comments -> [Border Patrol agent testifies sandwich thrown at him "exploded all over,"](https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/)<!-- HN:45816946:end -->
+#### **Wednesday, November 5, 2025**
+<!-- HN:45817308:start -->
+* [45817308](https://news.social-protocols.org/stats?id=45817308) #20 22 points 2 comments -> [FDA described as a "clown show" amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/)<!-- HN:45817308:end -->
