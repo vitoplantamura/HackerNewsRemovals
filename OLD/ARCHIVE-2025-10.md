@@ -356,3 +356,11 @@
 * [45746313](https://news.ycombinator.com/item?id=45746313) #26 9 points 6 comments -> [Create your first business email for free](https://fromzerotollc.com/step/create-your-first-business-email)<!-- HN:45746313:end --><!-- HN:45747557:start -->
 * [45747557](https://news.ycombinator.com/item?id=45747557) #11 21 points 13 comments -> [The jQuery Age of AI Agents](https://metorial.com/blog/jquery-age-of-ai)<!-- HN:45747557:end --><!-- HN:45752724:start -->
 * [45752724](https://news.ycombinator.com/item?id=45752724) #9 5 points 0 comments -> [Defiance.org](https://www.defiance.org)<!-- HN:45752724:end -->
+#### **Thursday, October 30, 2025**
+<!-- HN:45715026:start -->
+* [45715026](https://news.ycombinator.com/item?id=45715026) #25 9 points 1 comments -> [Using Atomic State to Improve React Performance in Deeply Nested Component Trees](https://runharbor.com/blog/2025-10-26-improving-deeply-nested-react-render-performance-with-jotai-atomic-state)<!-- HN:45715026:end --><!-- HN:45707591:start -->
+* [45707591](https://news.ycombinator.com/item?id=45707591) #16 6 points 0 comments -> [Baker – language-agnostic project scaffolder with hooks (Rust)](https://github.com/aliev/baker)<!-- HN:45707591:end --><!-- HN:45719805:start -->
+* [45719805](https://news.ycombinator.com/item?id=45719805) #29 17 points 8 comments -> [Isomorphic JS/TS Functions Orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator)<!-- HN:45719805:end --><!-- HN:45759332:start -->
+* [45759332](https://news.ycombinator.com/item?id=45759332) #29 5 points 0 comments -> [FCC Republicans force prisoners and families to pay more for phone calls](https://arstechnica.com/tech-policy/2025/10/fcc-republicans-force-prisoners-and-families-to-pay-more-for-phone-calls/)<!-- HN:45759332:end --><!-- HN:45761659:start -->
+* [45761659](https://news.ycombinator.com/item?id=45761659) #1 94 points 3 comments -> [Affinity by Canva](https://www.affinity.studio/)<!-- HN:45761659:end --><!-- HN:45763367:start -->
+* [45763367](https://news.ycombinator.com/item?id=45763367) #10 25 points 40 comments -> [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)<!-- HN:45763367:end -->
