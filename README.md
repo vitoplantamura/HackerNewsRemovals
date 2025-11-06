@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45826142](https://news.social-protocols.org/stats?id=45826142) #1 -> [Fintech CEO caught manipulating social media likes](https://patrickstoica.substack.com/p/fintech-ceo-caught-manipulating-social)<!-- HN:45826142:end -->
 #### **Thursday, November 6, 2025**
 <!-- HN:45792085:start -->
-* [45792085](https://news.social-protocols.org/stats?id=45792085) #11 6 points 2 comments -> [The Last Literary Lion of New York, Gay Talese](https://www.metropolitanreview.org/p/the-last-literary-lion-of-new-york)<!-- HN:45792085:end -->
+* [45792085](https://news.social-protocols.org/stats?id=45792085) #11 6 points 2 comments -> [The Last Literary Lion of New York, Gay Talese](https://www.metropolitanreview.org/p/the-last-literary-lion-of-new-york)<!-- HN:45792085:end --><!-- HN:45766347:start -->
+* [45766347](https://news.social-protocols.org/stats?id=45766347) #27 11 points 2 comments -> [The MDL ("Muddle") Programming Language (1979) [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/lcs/tr/MIT-LCS-TR-0293_MDL_Pgmg_Lang.pdf)<!-- HN:45766347:end -->
