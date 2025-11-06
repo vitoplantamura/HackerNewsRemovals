@@ -105,3 +105,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45824775](https://news.social-protocols.org/stats?id=45824775) #3 16 points 0 comments -> [The Islamic, Arab Genocide in Sudan which the world ignores](https://europeantimes.org/the-islamic-arab-genocide-in-sudan-which-the-world-ignores/)<!-- HN:45824775:end --><!-- HN:45796811:start -->
 * [45796811](https://news.social-protocols.org/stats?id=45796811) #20 9 points 0 comments -> [The Heart of the Matter](https://rodgercuddington.substack.com/p/the-heart-of-the-matter)<!-- HN:45796811:end --><!-- HN:45826142:start -->
 * [45826142](https://news.social-protocols.org/stats?id=45826142) #1 -> [Fintech CEO caught manipulating social media likes](https://patrickstoica.substack.com/p/fintech-ceo-caught-manipulating-social)<!-- HN:45826142:end -->
+#### **Thursday, November 6, 2025**
+<!-- HN:45792085:start -->
+* [45792085](https://news.social-protocols.org/stats?id=45792085) #11 6 points 2 comments -> [The Last Literary Lion of New York, Gay Talese](https://www.metropolitanreview.org/p/the-last-literary-lion-of-new-york)<!-- HN:45792085:end -->
