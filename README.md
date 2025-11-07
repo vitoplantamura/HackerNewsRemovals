@@ -114,3 +114,10 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45834456](https://news.social-protocols.org/stats?id=45834456) #6 3 points 0 comments -> [Pussy Hunter](https://bigjobby.com/floof/)<!-- HN:45834456:end --><!-- HN:45840580:start -->
 * [45840580](https://news.social-protocols.org/stats?id=45840580) #24 12 points 0 comments -> [Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/)<!-- HN:45840580:end --><!-- HN:45841464:start -->
 * [45841464](https://news.social-protocols.org/stats?id=45841464) #1 106 points 44 comments -> [Man who threw sandwich at US border agent not guilty of assault](https://www.bbc.com/news/articles/c5ypvv8n1jvo)<!-- HN:45841464:end -->
+#### **Friday, November 7, 2025**
+<!-- HN:45765232:start -->
+* [45765232](https://news.social-protocols.org/stats?id=45765232) #7 25 points 3 comments -> [Blame Wi-Fi drivers for printer (mDNS) discovery issues](https://printserver.ink/blog/blame-wifi-drivers-for-printer-discovery-issues/)<!-- HN:45765232:end --><!-- HN:45770577:start -->
+* [45770577](https://news.social-protocols.org/stats?id=45770577) #11 38 points 28 comments -> [C++: A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)<!-- HN:45770577:end --><!-- HN:45695282:start -->
+* [45695282](https://news.social-protocols.org/stats?id=45695282) #18 44 points 4 comments -> [Writing Advice](https://chadnauseam.com/advice/writing-advice)<!-- HN:45695282:end --><!-- HN:45744518:start -->
+* [45744518](https://news.social-protocols.org/stats?id=45744518) #21 60 points 6 comments -> [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)<!-- HN:45744518:end --><!-- HN:45768688:start -->
+* [45768688](https://news.social-protocols.org/stats?id=45768688) #30 80 points 14 comments -> [Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350](https://github.com/steve-m/Pico-100BASE-TX)<!-- HN:45768688:end -->
