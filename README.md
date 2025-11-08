@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, November 8, 2025**
 <!-- HN:45852859:start -->
 * [45852859](https://news.social-protocols.org/stats?id=45852859) #27 31 points 21 comments -> [The Boss Has a Message: Use AI or You're Fired](https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df)<!-- HN:45852859:end --><!-- HN:45853519:start -->
-* [45853519](https://news.social-protocols.org/stats?id=45853519) #21 10 points 0 comments -> [Turkey issues genocide arrest warrant against Benjamin Netanyahu](https://www.theguardian.com/world/2025/nov/07/turkey-issues-genocide-arrest-warrant-against-benjamin-netanyahu)<!-- HN:45853519:end -->
+* [45853519](https://news.social-protocols.org/stats?id=45853519) #21 10 points 0 comments -> [Turkey issues genocide arrest warrant against Benjamin Netanyahu](https://www.theguardian.com/world/2025/nov/07/turkey-issues-genocide-arrest-warrant-against-benjamin-netanyahu)<!-- HN:45853519:end --><!-- HN:45792012:start -->
+* [45792012](https://news.social-protocols.org/stats?id=45792012) #23 12 points 3 comments -> [Cure – Verification-First Programming for the Beam](https://cure-lang.org/index.html)<!-- HN:45792012:end -->
