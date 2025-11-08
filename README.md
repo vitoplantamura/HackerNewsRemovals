@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45846444](https://news.social-protocols.org/stats?id=45846444) #8 9 points 7 comments -> [I Work Best Under Stress (and My Family Pays for It)](https://www.codecabin.dev/post/i-work-best-under-stress)<!-- HN:45846444:end --><!-- HN:45848360:start -->
 * [45848360](https://news.social-protocols.org/stats?id=45848360) #30 8 points 6 comments -> [Lose weight or lose your jobs, offshore workers told](https://www.bbc.com/news/articles/cx274xp00zxo)<!-- HN:45848360:end --><!-- HN:45849204:start -->
 * [45849204](https://news.social-protocols.org/stats?id=45849204) #6 9 points 2 comments -> [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)<!-- HN:45849204:end -->
+#### **Saturday, November 8, 2025**
+<!-- HN:45852859:start -->
+* [45852859](https://news.social-protocols.org/stats?id=45852859) #27 31 points 21 comments -> [The Boss Has a Message: Use AI or You're Fired](https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df)<!-- HN:45852859:end -->
