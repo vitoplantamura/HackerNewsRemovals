@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, November 1, 2025**
-<!-- HN:45777920:start -->
-* [45777920](https://news.social-protocols.org/stats?id=45777920) #11 7 points 4 comments -> [Will Paramount Cancel Jon Stewart?](https://www.newyorker.com/culture/the-new-yorker-interview/will-paramount-cancel-jon-stewart)<!-- HN:45777920:end --><!-- HN:45777828:start -->
-* [45777828](https://news.social-protocols.org/stats?id=45777828) #10 21 points 12 comments -> [OpenAI updates terms to forbid usage for medical and legal advice](https://openai.com/policies/usage-policies/)<!-- HN:45777828:end --><!-- HN:45781034:start -->
-* [45781034](https://news.social-protocols.org/stats?id=45781034) #4 29 points 7 comments -> [RSF forces in Sudan's civil war are preparing for mass genocide](https://www.economist.com/middle-east-and-africa/2025/10/30/darfurs-besieged-capital-falls-to-the-rapid-support-forces)<!-- HN:45781034:end --><!-- HN:45781280:start -->
-* [45781280](https://news.social-protocols.org/stats?id=45781280) #6 4 points 1 comments -> [Pitching the Death Star to Investors](https://supremefounder.com/pitching-investors.html)<!-- HN:45781280:end --><!-- HN:45781503:start -->
-* [45781503](https://news.social-protocols.org/stats?id=45781503) #18 40 points 27 comments -> [Gilded Rage – Why Silicon Valley went from libertarian to authoritarian](https://paulkrugman.substack.com/p/gilded-rage-talking-with-jacob-silverman)<!-- HN:45781503:end --><!-- HN:45782724:start -->
-* [45782724](https://news.social-protocols.org/stats?id=45782724) #8 73 points 1 comments -> [I think Substrate is a $1B Fraud](https://substack.com/home/post/p-177604037)<!-- HN:45782724:end --><!-- HN:45784527:start -->
-* [45784527](https://news.social-protocols.org/stats?id=45784527) #30 3 points 0 comments -> [Andrew had 40 prostitutes brought to five-star Thailand hotel room](https://www.lbc.co.uk/article/andrew-prostitutes-thailand-trip-5HjdGCQ_2/)<!-- HN:45784527:end --><!-- HN:45784158:start -->
-* [45784158](https://news.social-protocols.org/stats?id=45784158) #29 25 points 40 comments -> [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)<!-- HN:45784158:end --><!-- HN:45785438:start -->
-* [45785438](https://news.social-protocols.org/stats?id=45785438) #3 7 points 1 comments -> [US Drone Observes Aid Truck Looted by Hamas in Gaza](https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/4327585/us-drone-observes-aid-truck-looted-by-hamas-in-gaza/)<!-- HN:45785438:end --><!-- HN:45784810:start -->
-* [45784810](https://news.social-protocols.org/stats?id=45784810) #26 -> [Sam Altman tried to cancel his Tesla Roadster, but he was ghosted](https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/)<!-- HN:45784810:end -->
 #### **Sunday, November 2, 2025**
 <!-- HN:45789115:start -->
 * [45789115](https://news.social-protocols.org/stats?id=45789115) #23 7 points 2 comments -> [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)<!-- HN:45789115:end --><!-- HN:45716371:start -->
