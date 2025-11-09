@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45859840](https://news.social-protocols.org/stats?id=45859840) #3 82 points 9 comments -> [I want you to understand Chicago](https://aphyr.com/posts)<!-- HN:45859840:end --><!-- HN:45859107:start -->
 * [45859107](https://news.social-protocols.org/stats?id=45859107) #24 40 points 45 comments -> [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)<!-- HN:45859107:end -->
 #### **Sunday, November 9, 2025**<!-- HN:45782713:start -->
-* [45782713](https://news.social-protocols.org/stats?id=45782713) #26 65 points 1 comments -> [Syntax and Semantics of Programming Languages](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)<!-- HN:45782713:end -->
+* [45782713](https://news.social-protocols.org/stats?id=45782713) #26 65 points 1 comments -> [Syntax and Semantics of Programming Languages](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)<!-- HN:45782713:end --><!-- HN:45861635:start -->
+* [45861635](https://news.social-protocols.org/stats?id=45861635) #18 36 points 5 comments -> [Judge denies request to exempt Flock footage from Public Records Act](https://www.heraldnet.com/news/judge-denies-request-to-exempt-flock-footage-from-public-records-act/)<!-- HN:45861635:end -->
