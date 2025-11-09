@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45801721](https://news.social-protocols.org/stats?id=45801721) #9 13 points 1 comments -> [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)<!-- HN:45801721:end --><!-- HN:45859840:start -->
 * [45859840](https://news.social-protocols.org/stats?id=45859840) #3 82 points 9 comments -> [I want you to understand Chicago](https://aphyr.com/posts)<!-- HN:45859840:end --><!-- HN:45859107:start -->
 * [45859107](https://news.social-protocols.org/stats?id=45859107) #24 40 points 45 comments -> [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)<!-- HN:45859107:end -->
-#### **Sunday, November 9, 2025**
+#### **Sunday, November 9, 2025**<!-- HN:45782713:start -->
+* [45782713](https://news.social-protocols.org/stats?id=45782713) #26 65 points 1 comments -> [Syntax and Semantics of Programming Languages](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)<!-- HN:45782713:end -->
