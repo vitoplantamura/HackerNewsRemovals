@@ -117,5 +117,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45859840](https://news.social-protocols.org/stats?id=45859840) #3 82 points 9 comments -> [I want you to understand Chicago](https://aphyr.com/posts)<!-- HN:45859840:end --><!-- HN:45859107:start -->
 * [45859107](https://news.social-protocols.org/stats?id=45859107) #24 40 points 45 comments -> [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)<!-- HN:45859107:end -->
 #### **Sunday, November 9, 2025**
-<!-- HN:45807099:start -->
-* [45807099](https://news.social-protocols.org/stats?id=45807099) #18 12 points 1 comments -> [Otto Nemenz, Supplier and Designer of Cameras and Lenses for Hollywood, Dies](https://www.hollywoodreporter.com/movies/movie-news/otto-nemenz-dead-cameras-lenses-hollywood-1236417089/)<!-- HN:45807099:end -->
