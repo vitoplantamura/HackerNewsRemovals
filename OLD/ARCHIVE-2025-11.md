@@ -10,3 +10,11 @@
 * [45784158](https://news.ycombinator.com/item?id=45784158) #29 25 points 40 comments -> [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)<!-- HN:45784158:end --><!-- HN:45785438:start -->
 * [45785438](https://news.ycombinator.com/item?id=45785438) #3 7 points 1 comments -> [US Drone Observes Aid Truck Looted by Hamas in Gaza](https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/4327585/us-drone-observes-aid-truck-looted-by-hamas-in-gaza/)<!-- HN:45785438:end --><!-- HN:45784810:start -->
 * [45784810](https://news.ycombinator.com/item?id=45784810) #26 -> [Sam Altman tried to cancel his Tesla Roadster, but he was ghosted](https://electrek.co/2025/10/31/sam-altman-cancel-tesla-roadster-but-ghosted/)<!-- HN:45784810:end -->
+#### **Sunday, November 2, 2025**
+<!-- HN:45789115:start -->
+* [45789115](https://news.ycombinator.com/item?id=45789115) #23 7 points 2 comments -> [Leaving the Freedesktop.org Community](https://vt.social/@lina/115431232807081648)<!-- HN:45789115:end --><!-- HN:45716371:start -->
+* [45716371](https://news.ycombinator.com/item?id=45716371) #28 18 points 3 comments -> [Hyperbolic Non-Euclidean World (2007)](http://web1.kcn.jp/hp28ah77/)<!-- HN:45716371:end --><!-- HN:45790447:start -->
+* [45790447](https://news.ycombinator.com/item?id=45790447) #7 26 points 11 comments -> [MySafeSpace – Whitehouse.gov](https://www.whitehouse.gov/mysafespace/)<!-- HN:45790447:end --><!-- HN:45740382:start -->
+* [45740382](https://news.ycombinator.com/item?id=45740382) #16 7 points 0 comments -> [Preserving Digital Memory at the Festival of Floppies](https://digitalpreservation-blog.lib.cam.ac.uk/preserving-digital-memory-at-the-festival-of-floppies-200f01092738)<!-- HN:45740382:end --><!-- HN:45792435:start -->
+* [45792435](https://news.ycombinator.com/item?id=45792435) #6 10 points 2 comments -> [Y Combinator Interview Practice Simulation](https://www.kydarin.com/uses/y-combinator-interview-practice-simulation)<!-- HN:45792435:end --><!-- HN:45792958:start -->
+* [45792958](https://news.ycombinator.com/item?id=45792958) #15 36 points 31 comments -> ['This is the big one' – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)<!-- HN:45792958:end -->
