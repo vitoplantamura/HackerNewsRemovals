@@ -110,6 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, November 10, 2025**
 <!-- HN:45820824:start -->
 * [45820824](https://news.social-protocols.org/stats?id=45820824) #16 6 points 3 comments -> [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)<!-- HN:45820824:end --><!-- HN:45871271:start -->
-* [45871271](https://news.social-protocols.org/stats?id=45871271) #3 7 points 9 comments -> [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)<!-- HN:45871271:end --><!-- HN:45873359:start -->
-* [45873359](https://news.social-protocols.org/stats?id=45873359) #16 6 points 0 comments -> [Israeli soldiers speak out on killings of Gaza civilians](https://www.theguardian.com/world/2025/nov/10/israeli-soldiers-breaking-ranks-gaza-civilians-human-shields)<!-- HN:45873359:end --><!-- HN:45865546:start -->
+* [45871271](https://news.social-protocols.org/stats?id=45871271) #3 7 points 9 comments -> [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)<!-- HN:45871271:end --><!-- HN:45865546:start -->
 * [45865546](https://news.social-protocols.org/stats?id=45865546) #28 52 points 9 comments -> [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)<!-- HN:45865546:end -->
