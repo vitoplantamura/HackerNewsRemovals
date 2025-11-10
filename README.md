@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45869762](https://news.social-protocols.org/stats?id=45869762) #22 16 points 2 comments -> [German Food Banks Feed 37,000 US Soldiers](https://hanschristensen.substack.com/p/german-food-banks-feed-37000-us-soldiers)<!-- HN:45869762:end -->
 #### **Monday, November 10, 2025**
 <!-- HN:45820824:start -->
-* [45820824](https://news.social-protocols.org/stats?id=45820824) #16 6 points 3 comments -> [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)<!-- HN:45820824:end -->
+* [45820824](https://news.social-protocols.org/stats?id=45820824) #16 6 points 3 comments -> [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)<!-- HN:45820824:end --><!-- HN:45871271:start -->
+* [45871271](https://news.social-protocols.org/stats?id=45871271) #3 7 points 9 comments -> [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)<!-- HN:45871271:end -->
