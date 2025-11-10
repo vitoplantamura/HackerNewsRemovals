@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45865546](https://news.social-protocols.org/stats?id=45865546) #8 17 points 3 comments -> [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)<!-- HN:45865546:end --><!-- HN:45868861:start -->
 * [45868861](https://news.social-protocols.org/stats?id=45868861) #10 13 points 1 comments -> [Amiga vs. Atari ST: A rivalry that defined 16-bit home computing](https://slicker.me/retrocomputing/amiga_vs_atari_st.htm)<!-- HN:45868861:end --><!-- HN:45869762:start -->
 * [45869762](https://news.social-protocols.org/stats?id=45869762) #22 16 points 2 comments -> [German Food Banks Feed 37,000 US Soldiers](https://hanschristensen.substack.com/p/german-food-banks-feed-37000-us-soldiers)<!-- HN:45869762:end -->
+#### **Monday, November 10, 2025**
+<!-- HN:45820824:start -->
+* [45820824](https://news.social-protocols.org/stats?id=45820824) #16 6 points 3 comments -> [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)<!-- HN:45820824:end -->
