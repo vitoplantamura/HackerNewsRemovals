@@ -109,6 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45879151](https://news.social-protocols.org/stats?id=45879151) #27 7 points 1 comments -> [Texas Sheriff Used Flock ALPR in Abortion Investigation](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)<!-- HN:45879151:end --><!-- HN:45879602:start -->
 * [45879602](https://news.social-protocols.org/stats?id=45879602) #17 16 points 9 comments -> [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)<!-- HN:45879602:end -->
 #### **Tuesday, November 11, 2025**
-<!-- HN:45882818:start -->
-* [45882818](https://news.social-protocols.org/stats?id=45882818) #8 18 points 14 comments -> [Two 20-somethings are building America's FPV drone war machine](https://dronexl.co/2025/11/10/teenage-drone-racers-defense-contractors/)<!-- HN:45882818:end --><!-- HN:45882617:start -->
+<!-- HN:45882617:start -->
 * [45882617](https://news.social-protocols.org/stats?id=45882617) #22 8 points 2 comments -> [Kronecker in (O(p(n)^3): A Novel approach to 80-year-old P-hard problem [pdf]](https://github.com/bon-cdp/notes/blob/main/d.pdf)<!-- HN:45882617:end -->
