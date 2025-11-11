@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 11, 2025**
 <!-- HN:45882617:start -->
 * [45882617](https://news.social-protocols.org/stats?id=45882617) #22 8 points 2 comments -> [Kronecker in (O(p(n)^3): A Novel approach to 80-year-old P-hard problem [pdf]](https://github.com/bon-cdp/notes/blob/main/d.pdf)<!-- HN:45882617:end --><!-- HN:45882640:start -->
-* [45882640](https://news.social-protocols.org/stats?id=45882640) #25 8 points 0 comments -> [The most nerdiest VC website that I have ever seen](https://rootventures.coffee/)<!-- HN:45882640:end -->
+* [45882640](https://news.social-protocols.org/stats?id=45882640) #25 8 points 0 comments -> [The most nerdiest VC website that I have ever seen](https://rootventures.coffee/)<!-- HN:45882640:end --><!-- HN:45885013:start -->
+* [45885013](https://news.social-protocols.org/stats?id=45885013) #19 6 points 3 comments -> [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)<!-- HN:45885013:end -->
