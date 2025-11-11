@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, November 4, 2025**<!-- HN:45806945:start -->
-* [45806945](https://news.social-protocols.org/stats?id=45806945) #18 -> [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)<!-- HN:45806945:end --><!-- HN:45728889:start -->
-* [45728889](https://news.social-protocols.org/stats?id=45728889) #15 10 points 0 comments -> [Is Your Data Valid? Why Bufstream Guarantees What Kafka Can't](https://vutr.substack.com/p/is-your-data-valid-why-bufstream)<!-- HN:45728889:end --><!-- HN:45812565:start -->
-* [45812565](https://news.social-protocols.org/stats?id=45812565) #28 6 points 5 comments -> [America's electric car market runs out of juice with sales plunging much as 80%](https://www.dailymail.co.uk/yourmoney/article-15254869/america-ev-sales-market-ford-hyundai-toyota.html)<!-- HN:45812565:end --><!-- HN:45814285:start -->
-* [45814285](https://news.social-protocols.org/stats?id=45814285) #9 3 points 0 comments -> [Arguably the prettiest selfhosting services dashboard](https://github.com/deyaa1251/HostMonk)<!-- HN:45814285:end --><!-- HN:45814522:start -->
-* [45814522](https://news.social-protocols.org/stats?id=45814522) #12 26 points 21 comments -> [Man spent 200 days building a solar-powered explorer yacht that can run forever](https://supercarblondie.com/solar-powered-explorer-yacht-helios-11/)<!-- HN:45814522:end --><!-- HN:45816946:start -->
-* [45816946](https://news.social-protocols.org/stats?id=45816946) #25 23 points 15 comments -> [Border Patrol agent testifies sandwich thrown at him "exploded all over,"](https://www.cbsnews.com/news/sean-dunn-trial-dc-sandwich-thrower-testimony-onions-mustard/)<!-- HN:45816946:end -->
 #### **Wednesday, November 5, 2025**<!-- HN:45818043:start -->
 * [45818043](https://news.social-protocols.org/stats?id=45818043) #17 6 points 0 comments -> [At least 3 dead after UPS plane crashes at Louisville airport; fire spreading](https://www.wlky.com/article/plane-crash-explosion-louisville-airport/69255042)<!-- HN:45818043:end --><!-- HN:45818089:start -->
 * [45818089](https://news.social-protocols.org/stats?id=45818089) #2 60 points 14 comments -> [At least 3 dead after cargo plane crashes at Kentucky airport](https://www.bbc.com/news/live/c201kgq59qgt)<!-- HN:45818089:end --><!-- HN:45818694:start -->
