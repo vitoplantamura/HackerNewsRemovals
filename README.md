@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45885013](https://news.social-protocols.org/stats?id=45885013) #19 6 points 3 comments -> [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)<!-- HN:45885013:end --><!-- HN:45886433:start -->
 * [45886433](https://news.social-protocols.org/stats?id=45886433) #25 15 points 5 comments -> [James Watson, dead at 97, was a scientific legend and a pariah among his peers](https://www.statnews.com/2025/11/07/james-watson-remembrance-from-dna-pioneer-to-pariah/)<!-- HN:45886433:end --><!-- HN:45888387:start -->
 * [45888387](https://news.social-protocols.org/stats?id=45888387) #12 11 points 0 comments -> [Tired of being manipulated by BigTech?](https://aol.codeberg.page/eci/)<!-- HN:45888387:end -->
+#### **Wednesday, November 12, 2025**
+<!-- HN:45800094:start -->
+* [45800094](https://news.social-protocols.org/stats?id=45800094) #19 8 points 2 comments -> [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)<!-- HN:45800094:end -->
