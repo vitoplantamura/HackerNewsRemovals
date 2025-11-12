@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, November 12, 2025**
 <!-- HN:45800094:start -->
 * [45800094](https://news.social-protocols.org/stats?id=45800094) #19 8 points 2 comments -> [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)<!-- HN:45800094:end --><!-- HN:45894569:start -->
-* [45894569](https://news.social-protocols.org/stats?id=45894569) #5 143 points 116 comments -> [I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa)<!-- HN:45894569:end -->
+* [45894569](https://news.social-protocols.org/stats?id=45894569) #5 143 points 116 comments -> [I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa)<!-- HN:45894569:end --><!-- HN:45895231:start -->
+* [45895231](https://news.social-protocols.org/stats?id=45895231) #5 7 points 3 comments -> [The US Do Not Call registry is offline](https://www.donotcall.gov/)<!-- HN:45895231:end -->
