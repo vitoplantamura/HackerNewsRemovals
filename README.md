@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, November 5, 2025**<!-- HN:45818043:start -->
-* [45818043](https://news.social-protocols.org/stats?id=45818043) #17 6 points 0 comments -> [At least 3 dead after UPS plane crashes at Louisville airport; fire spreading](https://www.wlky.com/article/plane-crash-explosion-louisville-airport/69255042)<!-- HN:45818043:end --><!-- HN:45818089:start -->
-* [45818089](https://news.social-protocols.org/stats?id=45818089) #2 60 points 14 comments -> [At least 3 dead after cargo plane crashes at Kentucky airport](https://www.bbc.com/news/live/c201kgq59qgt)<!-- HN:45818089:end --><!-- HN:45818694:start -->
-* [45818694](https://news.social-protocols.org/stats?id=45818694) #27 9 points 4 comments -> [Live Updates: Mamdani Wins NYC Mayor's Race After Highest Turnout in Decades](https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election)<!-- HN:45818694:end --><!-- HN:45720808:start -->
-* [45720808](https://news.social-protocols.org/stats?id=45720808) #12 9 points 2 comments -> [What does computer literacy mean for 2026?](https://sjg.io/writing/the-2026-computer-literate-bar/)<!-- HN:45720808:end --><!-- HN:45709513:start -->
-* [45709513](https://news.social-protocols.org/stats?id=45709513) #13 5 points 0 comments -> [The Magic of Precision Engineering](https://www.hightechinstitute.nl/the-magic-of-precision-engineering/)<!-- HN:45709513:end --><!-- HN:45727194:start -->
-* [45727194](https://news.social-protocols.org/stats?id=45727194) #27 24 points 4 comments -> [FDD – Diskettes](https://retrocmp.de/fdd/diskette/diskette.htm)<!-- HN:45727194:end --><!-- HN:45823398:start -->
-* [45823398](https://news.social-protocols.org/stats?id=45823398) #4 6 points 0 comments -> [If your app &gt; 100KB, delete your GitHub](https://mg0x7be.github.io/if-your-app-100kb-delete-your-github.html)<!-- HN:45823398:end --><!-- HN:45823841:start -->
-* [45823841](https://news.social-protocols.org/stats?id=45823841) #30 26 points 16 comments -> ['A mass casualty event that could exceed Hiroshima': Yale researcher on Sudan](https://www.cnn.com/2025/11/03/tv/video/amanpour-sudan-nathaniel-raymond-hamid-khalafallah)<!-- HN:45823841:end --><!-- HN:45824775:start -->
-* [45824775](https://news.social-protocols.org/stats?id=45824775) #3 16 points 0 comments -> [The Islamic, Arab Genocide in Sudan which the world ignores](https://europeantimes.org/the-islamic-arab-genocide-in-sudan-which-the-world-ignores/)<!-- HN:45824775:end --><!-- HN:45796811:start -->
-* [45796811](https://news.social-protocols.org/stats?id=45796811) #20 9 points 0 comments -> [The Heart of the Matter](https://rodgercuddington.substack.com/p/the-heart-of-the-matter)<!-- HN:45796811:end --><!-- HN:45826142:start -->
-* [45826142](https://news.social-protocols.org/stats?id=45826142) #1 -> [Fintech CEO caught manipulating social media likes](https://patrickstoica.substack.com/p/fintech-ceo-caught-manipulating-social)<!-- HN:45826142:end -->
 #### **Thursday, November 6, 2025**
 <!-- HN:45792085:start -->
 * [45792085](https://news.social-protocols.org/stats?id=45792085) #11 6 points 2 comments -> [The Last Literary Lion of New York, Gay Talese](https://www.metropolitanreview.org/p/the-last-literary-lion-of-new-york)<!-- HN:45792085:end --><!-- HN:45766347:start -->
