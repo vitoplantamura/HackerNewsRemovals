@@ -105,5 +105,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45888387](https://news.social-protocols.org/stats?id=45888387) #12 11 points 0 comments -> [Tired of being manipulated by BigTech?](https://aol.codeberg.page/eci/)<!-- HN:45888387:end -->
 #### **Wednesday, November 12, 2025**
 <!-- HN:45800094:start -->
-* [45800094](https://news.social-protocols.org/stats?id=45800094) #19 8 points 2 comments -> [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)<!-- HN:45800094:end --><!-- HN:45894145:start -->
-* [45894145](https://news.social-protocols.org/stats?id=45894145) #13 26 points 40 comments -> [Who Still Uses Cash?](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)<!-- HN:45894145:end -->
+* [45800094](https://news.social-protocols.org/stats?id=45800094) #19 8 points 2 comments -> [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)<!-- HN:45800094:end -->
