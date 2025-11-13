@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45796709](https://news.social-protocols.org/stats?id=45796709) #20 7 points 0 comments -> [Being "Seen" and Feeling Part Of](https://growingfearless.substack.com/p/on-being-seen)<!-- HN:45796709:end -->
 #### **Thursday, November 13, 2025**<!-- HN:45908680:start -->
 * [45908680](https://news.social-protocols.org/stats?id=45908680) #30 72 points 33 comments -> [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/)<!-- HN:45908680:end --><!-- HN:45903840:start -->
-* [45903840](https://news.social-protocols.org/stats?id=45903840) #30 388 points 122 comments -> [Valve Announces New Steam Machine, Steam Controller and Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)<!-- HN:45903840:end -->
+* [45903840](https://news.social-protocols.org/stats?id=45903840) #30 388 points 122 comments -> [Valve Announces New Steam Machine, Steam Controller and Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)<!-- HN:45903840:end --><!-- HN:45910370:start -->
+* [45910370](https://news.social-protocols.org/stats?id=45910370) #2 79 points 18 comments -> [A67z](https://www.a67z.com/)<!-- HN:45910370:end -->
