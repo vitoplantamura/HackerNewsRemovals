@@ -108,5 +108,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45902604](https://news.social-protocols.org/stats?id=45902604) #29 35 points 40 comments -> [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)<!-- HN:45902604:end --><!-- HN:45796709:start -->
 * [45796709](https://news.social-protocols.org/stats?id=45796709) #20 7 points 0 comments -> [Being "Seen" and Feeling Part Of](https://growingfearless.substack.com/p/on-being-seen)<!-- HN:45796709:end -->
 #### **Thursday, November 13, 2025**
-<!-- HN:45909258:start -->
-* [45909258](https://news.social-protocols.org/stats?id=45909258) #2 37 points 22 comments -> [£220 'for a cut-up sock' — Apples's new iPhone Pocket ridiculed online](https://www.bbc.com/news/articles/cn97ndgpnq7o)<!-- HN:45909258:end -->
