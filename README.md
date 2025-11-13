@@ -107,5 +107,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45897457](https://news.social-protocols.org/stats?id=45897457) #22 297 points 213 comments -> [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)<!-- HN:45897457:end --><!-- HN:45902604:start -->
 * [45902604](https://news.social-protocols.org/stats?id=45902604) #29 35 points 40 comments -> [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)<!-- HN:45902604:end --><!-- HN:45796709:start -->
 * [45796709](https://news.social-protocols.org/stats?id=45796709) #20 7 points 0 comments -> [Being "Seen" and Feeling Part Of](https://growingfearless.substack.com/p/on-being-seen)<!-- HN:45796709:end -->
-#### **Thursday, November 13, 2025**<!-- HN:45909258:start -->
-* [45909258](https://news.social-protocols.org/stats?id=45909258) #8 52 points 40 comments -> [£220 'for a cut-up sock' — Apples's new iPhone Pocket ridiculed online](https://www.bbc.com/news/articles/cn97ndgpnq7o)<!-- HN:45909258:end -->
+#### **Thursday, November 13, 2025**
