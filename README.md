@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45897457](https://news.social-protocols.org/stats?id=45897457) #22 297 points 213 comments -> [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)<!-- HN:45897457:end --><!-- HN:45902604:start -->
 * [45902604](https://news.social-protocols.org/stats?id=45902604) #29 35 points 40 comments -> [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0)<!-- HN:45902604:end --><!-- HN:45796709:start -->
 * [45796709](https://news.social-protocols.org/stats?id=45796709) #20 7 points 0 comments -> [Being "Seen" and Feeling Part Of](https://growingfearless.substack.com/p/on-being-seen)<!-- HN:45796709:end -->
-#### **Thursday, November 13, 2025**
+#### **Thursday, November 13, 2025**<!-- HN:45908680:start -->
+* [45908680](https://news.social-protocols.org/stats?id=45908680) #30 72 points 33 comments -> [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/)<!-- HN:45908680:end -->
