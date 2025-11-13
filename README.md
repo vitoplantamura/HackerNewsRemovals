@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, November 6, 2025**
-<!-- HN:45792085:start -->
-* [45792085](https://news.social-protocols.org/stats?id=45792085) #11 6 points 2 comments -> [The Last Literary Lion of New York, Gay Talese](https://www.metropolitanreview.org/p/the-last-literary-lion-of-new-york)<!-- HN:45792085:end --><!-- HN:45766347:start -->
-* [45766347](https://news.social-protocols.org/stats?id=45766347) #27 11 points 2 comments -> [The MDL ("Muddle") Programming Language (1979) [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/lcs/tr/MIT-LCS-TR-0293_MDL_Pgmg_Lang.pdf)<!-- HN:45766347:end --><!-- HN:45832954:start -->
-* [45832954](https://news.social-protocols.org/stats?id=45832954) #16 41 points 29 comments -> [Erlang Meets Idris: Cure Programming Language](https://cure-lang.org/)<!-- HN:45832954:end --><!-- HN:45834145:start -->
-* [45834145](https://news.social-protocols.org/stats?id=45834145) #25 4 points 0 comments -> [The Telegraph: How a secret dossier blew open anti-Israel bias at the BBC [video]](https://www.youtube.com/watch?v=qdIIHMAMEiM)<!-- HN:45834145:end --><!-- HN:45834456:start -->
-* [45834456](https://news.social-protocols.org/stats?id=45834456) #6 3 points 0 comments -> [Pussy Hunter](https://bigjobby.com/floof/)<!-- HN:45834456:end --><!-- HN:45840580:start -->
-* [45840580](https://news.social-protocols.org/stats?id=45840580) #24 12 points 0 comments -> [Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/)<!-- HN:45840580:end --><!-- HN:45841464:start -->
-* [45841464](https://news.social-protocols.org/stats?id=45841464) #1 106 points 44 comments -> [Man who threw sandwich at US border agent not guilty of assault](https://www.bbc.com/news/articles/c5ypvv8n1jvo)<!-- HN:45841464:end -->
 #### **Friday, November 7, 2025**
 <!-- HN:45765232:start -->
 * [45765232](https://news.social-protocols.org/stats?id=45765232) #7 25 points 3 comments -> [Blame Wi-Fi drivers for printer (mDNS) discovery issues](https://printserver.ink/blog/blame-wifi-drivers-for-printer-discovery-issues/)<!-- HN:45765232:end --><!-- HN:45770577:start -->
