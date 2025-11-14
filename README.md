@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45921334](https://news.social-protocols.org/stats?id=45921334) #3 24 points 6 comments -> [Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf)<!-- HN:45921334:end -->
 #### **Friday, November 14, 2025**
 <!-- HN:45798762:start -->
-* [45798762](https://news.social-protocols.org/stats?id=45798762) #9 7 points 4 comments -> [Prefer Boring Technology](https://itwont.work/blog/prefer-boring-technology)<!-- HN:45798762:end -->
+* [45798762](https://news.social-protocols.org/stats?id=45798762) #9 7 points 4 comments -> [Prefer Boring Technology](https://itwont.work/blog/prefer-boring-technology)<!-- HN:45798762:end --><!-- HN:45923106:start -->
+* [45923106](https://news.social-protocols.org/stats?id=45923106) #18 3 points 1 comments -> [What Technologies Are Running on 50k Websites (Oct 2025)](https://www.dropbox.com/scl/fi/xu8m2kzeu5z3wurvilb9t/oct_2025_jumbo_sample.zip?dl=0&e=1&noscript=1&rlkey=ygusc6p42ipo0kmma8oswqf16&st=gb0hctyl)<!-- HN:45923106:end -->
