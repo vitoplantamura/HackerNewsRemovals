@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45913663](https://news.social-protocols.org/stats?id=45913663) #30 102 points 49 comments -> [Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story)<!-- HN:45913663:end --><!-- HN:45921066:start -->
 * [45921066](https://news.social-protocols.org/stats?id=45921066) #4 -> [I'm sorry, but you do not have enough coins for democracy](https://magazine.032c.com/magazine/i-m-sorry-but-you-do-not-have-enough-coins-for-democracy)<!-- HN:45921066:end --><!-- HN:45921334:start -->
 * [45921334](https://news.social-protocols.org/stats?id=45921334) #3 24 points 6 comments -> [Disrupting the first reported AI-orchestrated cyber espionage campaign [pdf]](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf)<!-- HN:45921334:end -->
+#### **Friday, November 14, 2025**
+<!-- HN:45798762:start -->
+* [45798762](https://news.social-protocols.org/stats?id=45798762) #9 7 points 4 comments -> [Prefer Boring Technology](https://itwont.work/blog/prefer-boring-technology)<!-- HN:45798762:end -->
