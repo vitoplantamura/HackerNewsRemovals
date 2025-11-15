@@ -106,3 +106,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45927035](https://news.social-protocols.org/stats?id=45927035) #23 75 points 28 comments -> [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://www.thetimes.com/world/europe/article/wealthy-foreigners-paid-for-chance-to-shoot-civilians-in-sarajevo-zrljbb27z)<!-- HN:45927035:end --><!-- HN:45926395:start -->
 * [45926395](https://news.social-protocols.org/stats?id=45926395) #23 28 points 6 comments -> [Don't turn your brain off](https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off)<!-- HN:45926395:end --><!-- HN:45929304:start -->
 * [45929304](https://news.social-protocols.org/stats?id=45929304) #4 33 points 26 comments -> [Norway's Wealth Tax Unchains a Capital Exodus](https://citizenx.com/insights/norway-wealth-exodus/)<!-- HN:45929304:end -->
+#### **Saturday, November 15, 2025**
+<!-- HN:45934054:start -->
+* [45934054](https://news.social-protocols.org/stats?id=45934054) #4 11 points 0 comments -> [Record settler attacks in West Bank opening up rifts within Israel](https://www.bbc.com/news/articles/cwykze63r2xo)<!-- HN:45934054:end -->
