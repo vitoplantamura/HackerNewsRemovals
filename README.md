@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, November 8, 2025**
-<!-- HN:45852859:start -->
-* [45852859](https://news.social-protocols.org/stats?id=45852859) #27 31 points 21 comments -> [The Boss Has a Message: Use AI or You're Fired](https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df)<!-- HN:45852859:end --><!-- HN:45853519:start -->
-* [45853519](https://news.social-protocols.org/stats?id=45853519) #21 10 points 0 comments -> [Turkey issues genocide arrest warrant against Benjamin Netanyahu](https://www.theguardian.com/world/2025/nov/07/turkey-issues-genocide-arrest-warrant-against-benjamin-netanyahu)<!-- HN:45853519:end --><!-- HN:45792012:start -->
-* [45792012](https://news.social-protocols.org/stats?id=45792012) #23 12 points 3 comments -> [Cure – Verification-First Programming for the Beam](https://cure-lang.org/index.html)<!-- HN:45792012:end --><!-- HN:45855829:start -->
-* [45855829](https://news.social-protocols.org/stats?id=45855829) #29 7 points 0 comments -> [The Tech CEO 'Making No Apologies for the Work with ICE' (Alex Karp)](https://www.politico.com/news/magazine/2025/11/06/alex-karp-book-michael-steinberger-trump-evolution-00638951)<!-- HN:45855829:end --><!-- HN:45856136:start -->
-* [45856136](https://news.social-protocols.org/stats?id=45856136) #14 -> [Kagi Small Web](https://kagi.com/smallweb)<!-- HN:45856136:end --><!-- HN:45856640:start -->
-* [45856640](https://news.social-protocols.org/stats?id=45856640) #14 28 points 41 comments -> [Things I've Heard Boomers Say That I Agree with 100%](https://wildingout.substack.com/p/12-things-ive-heard-boomers-say-that)<!-- HN:45856640:end --><!-- HN:45856998:start -->
-* [45856998](https://news.social-protocols.org/stats?id=45856998) #3 45 points 18 comments -> [Sam Altman Is Getting Desperate and It Is Starting to Show](https://tickerfeed.net/articles/sam-altman-reeks-of-desperation)<!-- HN:45856998:end --><!-- HN:45856563:start -->
-* [45856563](https://news.social-protocols.org/stats?id=45856563) #2 24 points 40 comments -> [Why hasn't there been a new major sports league?](https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major)<!-- HN:45856563:end --><!-- HN:45857016:start -->
-* [45857016](https://news.social-protocols.org/stats?id=45857016) #23 77 points 42 comments -> [Zig is so cool, C is cooler](https://github.com/little-book-of/c/blob/main/articles/zig-is-cool-c-is-cooler.md)<!-- HN:45857016:end --><!-- HN:45799949:start -->
-* [45799949](https://news.social-protocols.org/stats?id=45799949) #28 30 points 40 comments -> [Dark mode by local sunlight (2021)](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight)<!-- HN:45799949:end --><!-- HN:45857890:start -->
-* [45857890](https://news.social-protocols.org/stats?id=45857890) #13 10 points 2 comments -> [Mothers say chatbots encouraged their sons to kill themselves](https://www.bbc.com/news/articles/ce3xgwyywe4o)<!-- HN:45857890:end --><!-- HN:45801721:start -->
-* [45801721](https://news.social-protocols.org/stats?id=45801721) #9 13 points 1 comments -> [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)<!-- HN:45801721:end --><!-- HN:45859840:start -->
-* [45859840](https://news.social-protocols.org/stats?id=45859840) #3 82 points 9 comments -> [I want you to understand Chicago](https://aphyr.com/posts)<!-- HN:45859840:end --><!-- HN:45859107:start -->
-* [45859107](https://news.social-protocols.org/stats?id=45859107) #24 40 points 45 comments -> [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)<!-- HN:45859107:end -->
 #### **Sunday, November 9, 2025**<!-- HN:45782713:start -->
 * [45782713](https://news.social-protocols.org/stats?id=45782713) #26 65 points 1 comments -> [Syntax and Semantics of Programming Languages](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)<!-- HN:45782713:end --><!-- HN:45861635:start -->
 * [45861635](https://news.social-protocols.org/stats?id=45861635) #18 36 points 5 comments -> [Judge denies request to exempt Flock footage from Public Records Act](https://www.heraldnet.com/news/judge-denies-request-to-exempt-flock-footage-from-public-records-act/)<!-- HN:45861635:end --><!-- HN:45810589:start -->
