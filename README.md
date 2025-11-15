@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45937880](https://news.social-protocols.org/stats?id=45937880) #2 33 points 34 comments -> [6B Miles Driven](https://www.tesla.com/fsd/safety)<!-- HN:45937880:end --><!-- HN:45937518:start -->
 * [45937518](https://news.social-protocols.org/stats?id=45937518) #28 33 points 34 comments -> [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)<!-- HN:45937518:end --><!-- HN:45937719:start -->
 * [45937719](https://news.social-protocols.org/stats?id=45937719) #11 32 points 22 comments -> [Waymo Was on a Roll in San Francisco. Then One of Its Cars Killed a Cat](https://www.nytimes.com/2025/11/15/us/waymo-san-francisco-kit-kat.html)<!-- HN:45937719:end --><!-- HN:45939063:start -->
-* [45939063](https://news.social-protocols.org/stats?id=45939063) #11 3 points 1 comments -> [Moving from Serverless to Functionless](https://builder.aws.com)<!-- HN:45939063:end -->
+* [45939063](https://news.social-protocols.org/stats?id=45939063) #11 3 points 1 comments -> [Moving from Serverless to Functionless](https://builder.aws.com)<!-- HN:45939063:end --><!-- HN:45939414:start -->
+* [45939414](https://news.social-protocols.org/stats?id=45939414) #2 32 points 20 comments -> [Llmdeathcount.com](https://llmdeathcount.com/)<!-- HN:45939414:end -->
