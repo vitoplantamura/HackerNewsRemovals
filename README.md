@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45929304](https://news.social-protocols.org/stats?id=45929304) #4 33 points 26 comments -> [Norway's Wealth Tax Unchains a Capital Exodus](https://citizenx.com/insights/norway-wealth-exodus/)<!-- HN:45929304:end -->
 #### **Saturday, November 15, 2025**
 <!-- HN:45933900:start -->
-* [45933900](https://news.social-protocols.org/stats?id=45933900) #5 6 points 2 comments -> [Show HN: A visual guide to learning Jujutsu (JJ)](https://excalidraw.com/#json=kMtNOJfH_UUOzBqt7WXx9,cyuXonQjb-Kor72f0F5YXg)<!-- HN:45933900:end -->
+* [45933900](https://news.social-protocols.org/stats?id=45933900) #5 6 points 2 comments -> [Show HN: A visual guide to learning Jujutsu (JJ)](https://excalidraw.com/#json=kMtNOJfH_UUOzBqt7WXx9,cyuXonQjb-Kor72f0F5YXg)<!-- HN:45933900:end --><!-- HN:45934054:start -->
+* [45934054](https://news.social-protocols.org/stats?id=45934054) #19 18 points 1 comments -> [Record settler attacks in West Bank opening up rifts within Israel](https://www.bbc.com/news/articles/cwykze63r2xo)<!-- HN:45934054:end -->
