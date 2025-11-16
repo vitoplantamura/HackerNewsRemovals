@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45941389](https://news.social-protocols.org/stats?id=45941389) #2 13 points 5 comments -> [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)<!-- HN:45941389:end -->
 #### **Sunday, November 16, 2025**
 <!-- HN:45884520:start -->
-* [45884520](https://news.social-protocols.org/stats?id=45884520) #26 13 points 2 comments -> [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)<!-- HN:45884520:end -->
+* [45884520](https://news.social-protocols.org/stats?id=45884520) #26 13 points 2 comments -> [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)<!-- HN:45884520:end --><!-- HN:45944941:start -->
+* [45944941](https://news.social-protocols.org/stats?id=45944941) #15 15 points 41 comments -> [A twelve-year-old on the failed promise of educational technology](https://micahblachman.beehiiv.com/p/where-educational-technology-fails)<!-- HN:45944941:end -->
