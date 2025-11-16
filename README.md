@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45884520:start -->
 * [45884520](https://news.social-protocols.org/stats?id=45884520) #26 13 points 2 comments -> [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)<!-- HN:45884520:end --><!-- HN:45944941:start -->
 * [45944941](https://news.social-protocols.org/stats?id=45944941) #15 15 points 41 comments -> [A twelve-year-old on the failed promise of educational technology](https://micahblachman.beehiiv.com/p/where-educational-technology-fails)<!-- HN:45944941:end --><!-- HN:45945113:start -->
-* [45945113](https://news.social-protocols.org/stats?id=45945113) #30 29 points 9 comments -> [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)<!-- HN:45945113:end -->
+* [45945113](https://news.social-protocols.org/stats?id=45945113) #30 29 points 9 comments -> [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)<!-- HN:45945113:end --><!-- HN:45946707:start -->
+* [45946707](https://news.social-protocols.org/stats?id=45946707) #29 11 points 7 comments -> [Owning a Cat Could Double Your Risk of Schizophrenia, Research Suggests](https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests)<!-- HN:45946707:end -->
