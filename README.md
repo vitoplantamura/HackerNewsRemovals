@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45939414](https://news.social-protocols.org/stats?id=45939414) #2 32 points 20 comments -> [Llmdeathcount.com](https://llmdeathcount.com/)<!-- HN:45939414:end --><!-- HN:45937816:start -->
 * [45937816](https://news.social-protocols.org/stats?id=45937816) #17 45 points 40 comments -> [How to Tolerate Annoying Things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)<!-- HN:45937816:end --><!-- HN:45941389:start -->
 * [45941389](https://news.social-protocols.org/stats?id=45941389) #2 13 points 5 comments -> [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)<!-- HN:45941389:end -->
+#### **Sunday, November 16, 2025**
+<!-- HN:45884520:start -->
+* [45884520](https://news.social-protocols.org/stats?id=45884520) #26 13 points 2 comments -> [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)<!-- HN:45884520:end -->
