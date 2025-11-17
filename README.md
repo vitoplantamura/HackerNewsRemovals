@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45947530](https://news.social-protocols.org/stats?id=45947530) #21 18 points 14 comments -> [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)<!-- HN:45947530:end -->
 #### **Monday, November 17, 2025**
 <!-- HN:45950766:start -->
-* [45950766](https://news.social-protocols.org/stats?id=45950766) #1 7 points 2 comments -> [The Shutdown of Usa.i.d. Has Killed Thousands](https://www.newyorker.com/culture/the-new-yorker-documentary/the-shutdown-of-usaid-has-already-killed-hundreds-of-thousands)<!-- HN:45950766:end -->
+* [45950766](https://news.social-protocols.org/stats?id=45950766) #1 7 points 2 comments -> [The Shutdown of Usa.i.d. Has Killed Thousands](https://www.newyorker.com/culture/the-new-yorker-documentary/the-shutdown-of-usaid-has-already-killed-hundreds-of-thousands)<!-- HN:45950766:end --><!-- HN:45876574:start -->
+* [45876574](https://news.social-protocols.org/stats?id=45876574) #30 18 points 1 comments -> [Help My LocalDate Isn't Flattened](https://horstmann.com/unblog/2025-11-08/index.html)<!-- HN:45876574:end -->
