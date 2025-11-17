@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45947394](https://news.social-protocols.org/stats?id=45947394) #13 6 points 2 comments -> [How to Scale Distributed Product Teams from 10 to 100](https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/)<!-- HN:45947394:end --><!-- HN:45947530:start -->
 * [45947530](https://news.social-protocols.org/stats?id=45947530) #21 18 points 14 comments -> [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)<!-- HN:45947530:end --><!-- HN:45947633:start -->
 * [45947633](https://news.social-protocols.org/stats?id=45947633) #21 28 points 41 comments -> [Pennies Are Trash Now](https://www.theatlantic.com/ideas/2025/11/pennies-circulation-mint/684935/)<!-- HN:45947633:end -->
+#### **Monday, November 17, 2025**
+<!-- HN:45950766:start -->
+* [45950766](https://news.social-protocols.org/stats?id=45950766) #1 7 points 2 comments -> [The Shutdown of Usa.i.d. Has Killed Thousands](https://www.newyorker.com/culture/the-new-yorker-documentary/the-shutdown-of-usaid-has-already-killed-hundreds-of-thousands)<!-- HN:45950766:end -->
