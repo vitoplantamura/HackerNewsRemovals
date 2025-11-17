@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, November 10, 2025**
-<!-- HN:45820824:start -->
-* [45820824](https://news.social-protocols.org/stats?id=45820824) #16 6 points 3 comments -> [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)<!-- HN:45820824:end --><!-- HN:45871271:start -->
-* [45871271](https://news.social-protocols.org/stats?id=45871271) #3 7 points 9 comments -> [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)<!-- HN:45871271:end --><!-- HN:45865546:start -->
-* [45865546](https://news.social-protocols.org/stats?id=45865546) #28 52 points 9 comments -> [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)<!-- HN:45865546:end --><!-- HN:45826088:start -->
-* [45826088](https://news.social-protocols.org/stats?id=45826088) #8 16 points 18 comments -> [You can just read 25 books](https://a16z.substack.com/p/you-can-just-read-25-books)<!-- HN:45826088:end --><!-- HN:45879151:start -->
-* [45879151](https://news.social-protocols.org/stats?id=45879151) #27 7 points 1 comments -> [Texas Sheriff Used Flock ALPR in Abortion Investigation](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)<!-- HN:45879151:end --><!-- HN:45879602:start -->
-* [45879602](https://news.social-protocols.org/stats?id=45879602) #17 16 points 9 comments -> [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)<!-- HN:45879602:end -->
 #### **Tuesday, November 11, 2025**
 <!-- HN:45882617:start -->
 * [45882617](https://news.social-protocols.org/stats?id=45882617) #22 8 points 2 comments -> [Kronecker in (O(p(n)^3): A Novel approach to 80-year-old P-hard problem [pdf]](https://github.com/bon-cdp/notes/blob/main/d.pdf)<!-- HN:45882617:end --><!-- HN:45882640:start -->

@@ -99,3 +99,11 @@
 * [45865076](https://news.ycombinator.com/item?id=45865076) #4 -> [Maybe Don't Talk to the New York Times About Zohran Mamdani](https://lithub.com/maybe-dont-talk-to-the-new-york-times-about-zohran-mamdani/)<!-- HN:45865076:end --><!-- HN:45868861:start -->
 * [45868861](https://news.ycombinator.com/item?id=45868861) #10 13 points 1 comments -> [Amiga vs. Atari ST: A rivalry that defined 16-bit home computing](https://slicker.me/retrocomputing/amiga_vs_atari_st.htm)<!-- HN:45868861:end --><!-- HN:45869762:start -->
 * [45869762](https://news.ycombinator.com/item?id=45869762) #22 16 points 2 comments -> [German Food Banks Feed 37,000 US Soldiers](https://hanschristensen.substack.com/p/german-food-banks-feed-37000-us-soldiers)<!-- HN:45869762:end -->
+#### **Monday, November 10, 2025**
+<!-- HN:45820824:start -->
+* [45820824](https://news.ycombinator.com/item?id=45820824) #16 6 points 3 comments -> [Largest panoramic image – 2 Terapixels](https://holmenkollen360.com/)<!-- HN:45820824:end --><!-- HN:45871271:start -->
+* [45871271](https://news.ycombinator.com/item?id=45871271) #3 7 points 9 comments -> [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)<!-- HN:45871271:end --><!-- HN:45865546:start -->
+* [45865546](https://news.ycombinator.com/item?id=45865546) #28 52 points 9 comments -> [Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit](https://github.com/marcosiino/pipeflow-php)<!-- HN:45865546:end --><!-- HN:45826088:start -->
+* [45826088](https://news.ycombinator.com/item?id=45826088) #8 16 points 18 comments -> [You can just read 25 books](https://a16z.substack.com/p/you-can-just-read-25-books)<!-- HN:45826088:end --><!-- HN:45879151:start -->
+* [45879151](https://news.ycombinator.com/item?id=45879151) #27 7 points 1 comments -> [Texas Sheriff Used Flock ALPR in Abortion Investigation](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)<!-- HN:45879151:end --><!-- HN:45879602:start -->
+* [45879602](https://news.ycombinator.com/item?id=45879602) #17 16 points 9 comments -> [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)<!-- HN:45879602:end -->
