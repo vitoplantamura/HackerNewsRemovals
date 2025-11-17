@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, November 17, 2025**
 <!-- HN:45950766:start -->
 * [45950766](https://news.social-protocols.org/stats?id=45950766) #1 7 points 2 comments -> [The Shutdown of Usa.i.d. Has Killed Thousands](https://www.newyorker.com/culture/the-new-yorker-documentary/the-shutdown-of-usaid-has-already-killed-hundreds-of-thousands)<!-- HN:45950766:end --><!-- HN:45876574:start -->
-* [45876574](https://news.social-protocols.org/stats?id=45876574) #30 18 points 1 comments -> [Help My LocalDate Isn't Flattened](https://horstmann.com/unblog/2025-11-08/index.html)<!-- HN:45876574:end -->
+* [45876574](https://news.social-protocols.org/stats?id=45876574) #30 18 points 1 comments -> [Help My LocalDate Isn't Flattened](https://horstmann.com/unblog/2025-11-08/index.html)<!-- HN:45876574:end --><!-- HN:45952737:start -->
+* [45952737](https://news.social-protocols.org/stats?id=45952737) #26 17 points 12 comments -> [Drone footage shows scale of revolting 60M-long mountain of waste next to river](https://news.sky.com/story/kidlington-fly-tipping-drone-footage-shows-scale-of-revolting-60m-long-mountain-of-waste-next-to-river-13471314)<!-- HN:45952737:end -->
