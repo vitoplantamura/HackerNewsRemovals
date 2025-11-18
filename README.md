@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45864768](https://news.social-protocols.org/stats?id=45864768) #9 23 points 5 comments -> [There Has to Be a Better Way to Make Titanium](https://www.orcasciences.com/articles/there-has-to-be-a-better-way-to-make-titanium)<!-- HN:45864768:end --><!-- HN:45796932:start -->
 * [45796932](https://news.social-protocols.org/stats?id=45796932) #15 75 points 17 comments -> [Celtic Code: Drawing Knots with Python](https://2earth.github.io/website/20250202.html)<!-- HN:45796932:end --><!-- HN:45958509:start -->
 * [45958509](https://news.social-protocols.org/stats?id=45958509) #24 4 points 0 comments -> [Color Palette Pro](https://colorpalette.pro/)<!-- HN:45958509:end -->
+#### **Tuesday, November 18, 2025**
+<!-- HN:45961819:start -->
+* [45961819](https://news.social-protocols.org/stats?id=45961819) #3 10 points 1 comments -> [Chris Simpkins (designer of the Roboto font) has passed away](https://typedrawers.com/discussion/5403/chris-simpkins-has-passed-away)<!-- HN:45961819:end -->
