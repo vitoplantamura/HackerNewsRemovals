@@ -107,3 +107,10 @@
 * [45826088](https://news.ycombinator.com/item?id=45826088) #8 16 points 18 comments -> [You can just read 25 books](https://a16z.substack.com/p/you-can-just-read-25-books)<!-- HN:45826088:end --><!-- HN:45879151:start -->
 * [45879151](https://news.ycombinator.com/item?id=45879151) #27 7 points 1 comments -> [Texas Sheriff Used Flock ALPR in Abortion Investigation](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)<!-- HN:45879151:end --><!-- HN:45879602:start -->
 * [45879602](https://news.ycombinator.com/item?id=45879602) #17 16 points 9 comments -> [I refuse to date someone who uses ChatGPT](https://www.theguardian.com/lifeandstyle/2025/nov/10/chatgpt-dating-ick)<!-- HN:45879602:end -->
+#### **Tuesday, November 11, 2025**
+<!-- HN:45882617:start -->
+* [45882617](https://news.ycombinator.com/item?id=45882617) #22 8 points 2 comments -> [Kronecker in (O(p(n)^3): A Novel approach to 80-year-old P-hard problem [pdf]](https://github.com/bon-cdp/notes/blob/main/d.pdf)<!-- HN:45882617:end --><!-- HN:45882640:start -->
+* [45882640](https://news.ycombinator.com/item?id=45882640) #25 8 points 0 comments -> [The most nerdiest VC website that I have ever seen](https://rootventures.coffee/)<!-- HN:45882640:end --><!-- HN:45885013:start -->
+* [45885013](https://news.ycombinator.com/item?id=45885013) #19 6 points 3 comments -> [Show HN: PhantomCollect – Open-Source Web Data Collection Framework in Python](https://github.com/xsser01/phantomcollect)<!-- HN:45885013:end --><!-- HN:45886433:start -->
+* [45886433](https://news.ycombinator.com/item?id=45886433) #25 15 points 5 comments -> [James Watson, dead at 97, was a scientific legend and a pariah among his peers](https://www.statnews.com/2025/11/07/james-watson-remembrance-from-dna-pioneer-to-pariah/)<!-- HN:45886433:end --><!-- HN:45888387:start -->
+* [45888387](https://news.ycombinator.com/item?id=45888387) #12 11 points 0 comments -> [Tired of being manipulated by BigTech?](https://aol.codeberg.page/eci/)<!-- HN:45888387:end -->
