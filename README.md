@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 18, 2025**
 <!-- HN:45961819:start -->
 * [45961819](https://news.social-protocols.org/stats?id=45961819) #3 10 points 1 comments -> [Chris Simpkins (designer of the Roboto font) has passed away](https://typedrawers.com/discussion/5403/chris-simpkins-has-passed-away)<!-- HN:45961819:end --><!-- HN:45963156:start -->
-* [45963156](https://news.social-protocols.org/stats?id=45963156) #20 6 points 0 comments -> [Trump, 79, Has Dementia Just Like His Father: Niece](https://vechron.com/2025/11/trump-has-dementia-just-like-his-father-says-niece/)<!-- HN:45963156:end -->
+* [45963156](https://news.social-protocols.org/stats?id=45963156) #20 6 points 0 comments -> [Trump, 79, Has Dementia Just Like His Father: Niece](https://vechron.com/2025/11/trump-has-dementia-just-like-his-father-says-niece/)<!-- HN:45963156:end --><!-- HN:45963949:start -->
+* [45963949](https://news.social-protocols.org/stats?id=45963949) #1 293 points 142 comments -> [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)<!-- HN:45963949:end -->
