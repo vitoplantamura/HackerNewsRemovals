@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45958509](https://news.social-protocols.org/stats?id=45958509) #24 4 points 0 comments -> [Color Palette Pro](https://colorpalette.pro/)<!-- HN:45958509:end -->
 #### **Tuesday, November 18, 2025**
 <!-- HN:45961819:start -->
-* [45961819](https://news.social-protocols.org/stats?id=45961819) #3 10 points 1 comments -> [Chris Simpkins (designer of the Roboto font) has passed away](https://typedrawers.com/discussion/5403/chris-simpkins-has-passed-away)<!-- HN:45961819:end -->
+* [45961819](https://news.social-protocols.org/stats?id=45961819) #3 10 points 1 comments -> [Chris Simpkins (designer of the Roboto font) has passed away](https://typedrawers.com/discussion/5403/chris-simpkins-has-passed-away)<!-- HN:45961819:end --><!-- HN:45963156:start -->
+* [45963156](https://news.social-protocols.org/stats?id=45963156) #20 6 points 0 comments -> [Trump, 79, Has Dementia Just Like His Father: Niece](https://vechron.com/2025/11/trump-has-dementia-just-like-his-father-says-niece/)<!-- HN:45963156:end -->
