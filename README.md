@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:45973648:start -->
 * [45973648](https://news.social-protocols.org/stats?id=45973648) #9 39 points 124 comments -> [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)<!-- HN:45973648:end --><!-- HN:45917752:start -->
 * [45917752](https://news.social-protocols.org/stats?id=45917752) #8 31 points 39 comments -> [Even Realities Smart Glasses: G2](https://www.evenrealities.com/smart-glasses)<!-- HN:45917752:end --><!-- HN:45979228:start -->
-* [45979228](https://news.social-protocols.org/stats?id=45979228) #1 -> [Zo: Personal Servers for Everyone](https://www.zo.computer/)<!-- HN:45979228:end -->
+* [45979228](https://news.social-protocols.org/stats?id=45979228) #1 -> [Zo: Personal Servers for Everyone](https://www.zo.computer/)<!-- HN:45979228:end --><!-- HN:45978880:start -->
+* [45978880](https://news.social-protocols.org/stats?id=45978880) #3 17 points 19 comments -> [Geothermal's Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)<!-- HN:45978880:end -->
