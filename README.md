@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45971456](https://news.social-protocols.org/stats?id=45971456) #9 -> [Jerry Seinfeld and the "too sensitive" left](https://reedybear.bearblog.dev/jerry-seinfeld-and-the-too-sensitive-left/)<!-- HN:45971456:end --><!-- HN:45969581:start -->
 * [45969581](https://news.social-protocols.org/stats?id=45969581) #24 71 points 2 comments -> [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)<!-- HN:45969581:end --><!-- HN:45963836:start -->
 * [45963836](https://news.social-protocols.org/stats?id=45963836) #18 425 points 2 comments -> [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)<!-- HN:45963836:end -->
+#### **Wednesday, November 19, 2025**
+<!-- HN:45973648:start -->
+* [45973648](https://news.social-protocols.org/stats?id=45973648) #9 39 points 124 comments -> [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)<!-- HN:45973648:end -->
