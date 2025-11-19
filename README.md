@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, November 12, 2025**
-<!-- HN:45800094:start -->
-* [45800094](https://news.social-protocols.org/stats?id=45800094) #19 8 points 2 comments -> [AV1 vs. H.264: What Video Codec to Choose for Your App?](https://www.red5.net/blog/av1-vs-h264/)<!-- HN:45800094:end --><!-- HN:45895231:start -->
-* [45895231](https://news.social-protocols.org/stats?id=45895231) #5 7 points 3 comments -> [The US Do Not Call registry is offline](https://www.donotcall.gov/)<!-- HN:45895231:end --><!-- HN:45808149:start -->
-* [45808149](https://news.social-protocols.org/stats?id=45808149) #22 3 points 1 comments -> [The AI Localhost](https://getairbook.notion.site/The-AI-Localhost-2a1d4a82803d802a8753ffbcfa985664?source=copy_link)<!-- HN:45808149:end --><!-- HN:45898880:start -->
-* [45898880](https://news.social-protocols.org/stats?id=45898880) #4 7 points 1 comments -> [Israeli settlers set fire to Palestinian warehouse and land](https://www.bbc.com/news/articles/c78zygz4xg9o)<!-- HN:45898880:end --><!-- HN:45898693:start -->
-* [45898693](https://news.social-protocols.org/stats?id=45898693) #16 4 points 0 comments -> [Show HN: Hotkey → Screenshot → AI Help. Works in Every App](https://github.com/thisisharsh7/seeva-ai-assistant)<!-- HN:45898693:end --><!-- HN:45847033:start -->
-* [45847033](https://news.social-protocols.org/stats?id=45847033) #19 11 points 0 comments -> [Show HN: XML-Lib – An over-engineered XML workflow with guardrails and proofs](https://github.com/farukalpay/xml-lib)<!-- HN:45847033:end --><!-- HN:45901464:start -->
-* [45901464](https://news.social-protocols.org/stats?id=45901464) #21 9 points 10 comments -> [Two women had a business meeting. AI called it childcare](https://medium.com/hold-my-juice/two-women-had-a-business-meeting-ai-called-it-childcare-6b09f5952940)<!-- HN:45901464:end --><!-- HN:45901274:start -->
-* [45901274](https://news.social-protocols.org/stats?id=45901274) #11 6 points 2 comments -> [Testing out Crush, a TUI based coding agent](https://grahamhelton.com/blog/crushing-it)<!-- HN:45901274:end --><!-- HN:45897457:start -->
-* [45897457](https://news.social-protocols.org/stats?id=45897457) #22 297 points 213 comments -> [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)<!-- HN:45897457:end --><!-- HN:45796709:start -->
-* [45796709](https://news.social-protocols.org/stats?id=45796709) #20 7 points 0 comments -> [Being "Seen" and Feeling Part Of](https://growingfearless.substack.com/p/on-being-seen)<!-- HN:45796709:end -->
 #### **Thursday, November 13, 2025**<!-- HN:45908680:start -->
 * [45908680](https://news.social-protocols.org/stats?id=45908680) #30 72 points 33 comments -> [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/)<!-- HN:45908680:end --><!-- HN:45903840:start -->
 * [45903840](https://news.social-protocols.org/stats?id=45903840) #30 388 points 122 comments -> [Valve Announces New Steam Machine, Steam Controller and Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)<!-- HN:45903840:end --><!-- HN:45910370:start -->
