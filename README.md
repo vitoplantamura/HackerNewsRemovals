@@ -121,5 +121,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45963836](https://news.social-protocols.org/stats?id=45963836) #18 425 points 2 comments -> [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)<!-- HN:45963836:end -->
 #### **Wednesday, November 19, 2025**
 <!-- HN:45973648:start -->
-* [45973648](https://news.social-protocols.org/stats?id=45973648) #9 39 points 124 comments -> [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)<!-- HN:45973648:end --><!-- HN:45976734:start -->
-* [45976734](https://news.social-protocols.org/stats?id=45976734) #4 32 points 40 comments -> [What nicotine does to your brain](https://economist.com/science-and-technology/2025/09/12/what-nicotine-does-to-your-brain)<!-- HN:45976734:end -->
+* [45973648](https://news.social-protocols.org/stats?id=45973648) #9 39 points 124 comments -> [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)<!-- HN:45973648:end -->
