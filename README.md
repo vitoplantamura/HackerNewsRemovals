@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45963836](https://news.social-protocols.org/stats?id=45963836) #18 425 points 2 comments -> [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)<!-- HN:45963836:end -->
 #### **Wednesday, November 19, 2025**
 <!-- HN:45973648:start -->
-* [45973648](https://news.social-protocols.org/stats?id=45973648) #9 39 points 124 comments -> [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)<!-- HN:45973648:end -->
+* [45973648](https://news.social-protocols.org/stats?id=45973648) #9 39 points 124 comments -> [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)<!-- HN:45973648:end --><!-- HN:45917752:start -->
+* [45917752](https://news.social-protocols.org/stats?id=45917752) #8 31 points 39 comments -> [Even Realities Smart Glasses: G2](https://www.evenrealities.com/smart-glasses)<!-- HN:45917752:end -->
