@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, November 20, 2025**
 <!-- HN:45979190:start -->
 * [45979190](https://news.social-protocols.org/stats?id=45979190) #19 304 points 335 comments -> [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)<!-- HN:45979190:end --><!-- HN:45990287:start -->
-* [45990287](https://news.social-protocols.org/stats?id=45990287) #1 28 points 9 comments -> [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)<!-- HN:45990287:end -->
+* [45990287](https://news.social-protocols.org/stats?id=45990287) #1 28 points 9 comments -> [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)<!-- HN:45990287:end --><!-- HN:45991835:start -->
+* [45991835](https://news.social-protocols.org/stats?id=45991835) #17 35 points 19 comments -> [Tesla Robotaxi had 3 more crashes, now 7 total](https://electrek.co/2025/11/17/tesla-robotaxi-had-3-more-crashes-now-7-total/)<!-- HN:45991835:end -->
