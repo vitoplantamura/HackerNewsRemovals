@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45985425](https://news.social-protocols.org/stats?id=45985425) #16 8 points 1 comments -> [I worked, I paid taxes – then the bank took my home](https://www.bbc.com/news/articles/cp8jz321x14o)<!-- HN:45985425:end -->
 #### **Thursday, November 20, 2025**
 <!-- HN:45979190:start -->
-* [45979190](https://news.social-protocols.org/stats?id=45979190) #19 304 points 335 comments -> [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)<!-- HN:45979190:end -->
+* [45979190](https://news.social-protocols.org/stats?id=45979190) #19 304 points 335 comments -> [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)<!-- HN:45979190:end --><!-- HN:45990287:start -->
+* [45990287](https://news.social-protocols.org/stats?id=45990287) #1 28 points 9 comments -> [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)<!-- HN:45990287:end -->
