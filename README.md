@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45985264](https://news.social-protocols.org/stats?id=45985264) #27 13 points 0 comments -> [Children among 25 killed in one of Russia's deadliest strikes on western Ukraine](https://www.bbc.com/news/articles/cy0yere4k0zo)<!-- HN:45985264:end --><!-- HN:45984789:start -->
 * [45984789](https://news.social-protocols.org/stats?id=45984789) #30 17 points 3 comments -> [Detection, Decoding of "Power Track" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)<!-- HN:45984789:end --><!-- HN:45985425:start -->
 * [45985425](https://news.social-protocols.org/stats?id=45985425) #16 8 points 1 comments -> [I worked, I paid taxes – then the bank took my home](https://www.bbc.com/news/articles/cp8jz321x14o)<!-- HN:45985425:end -->
+#### **Thursday, November 20, 2025**
+<!-- HN:45979190:start -->
+* [45979190](https://news.social-protocols.org/stats?id=45979190) #19 304 points 335 comments -> [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)<!-- HN:45979190:end -->
