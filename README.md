@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, November 14, 2025**
-<!-- HN:45798762:start -->
-* [45798762](https://news.social-protocols.org/stats?id=45798762) #9 7 points 4 comments -> [Prefer Boring Technology](https://itwont.work/blog/prefer-boring-technology)<!-- HN:45798762:end --><!-- HN:45923106:start -->
-* [45923106](https://news.social-protocols.org/stats?id=45923106) #18 3 points 1 comments -> [What Technologies Are Running on 50k Websites (Oct 2025)](https://www.dropbox.com/scl/fi/xu8m2kzeu5z3wurvilb9t/oct_2025_jumbo_sample.zip?dl=0&e=1&noscript=1&rlkey=ygusc6p42ipo0kmma8oswqf16&st=gb0hctyl)<!-- HN:45923106:end --><!-- HN:45923554:start -->
-* [45923554](https://news.social-protocols.org/stats?id=45923554) #20 -> [Texas A&M to restrict faculty from advocating "race and gender ideology"](https://www.texastribune.org/2025/11/13/texas-am-regents-race-gender-ideology-course-audit/)<!-- HN:45923554:end --><!-- HN:45923352:start -->
-* [45923352](https://news.social-protocols.org/stats?id=45923352) #10 34 points 40 comments -> [Why do voice transcription apps charge monthly when Whisper runs locally?](https://www.lucidvoice.app/)<!-- HN:45923352:end --><!-- HN:45878067:start -->
-* [45878067](https://news.social-protocols.org/stats?id=45878067) #13 11 points 6 comments -> [The Floating Head Phenomenon](https://michaelestrin.substack.com/p/the-floating-head-phenomenon)<!-- HN:45878067:end --><!-- HN:45926057:start -->
-* [45926057](https://news.social-protocols.org/stats?id=45926057) #6 10 points 14 comments -> [Openrouter Alternative but 40% Cheaper](https://www.liteapi.ai/)<!-- HN:45926057:end --><!-- HN:45926498:start -->
-* [45926498](https://news.social-protocols.org/stats?id=45926498) #8 8 points 0 comments -> [Furry Studies conference gathers worldwide wisdom at second annual event](https://dogpatch.press/2025/11/14/furry-studies-conference-second/)<!-- HN:45926498:end --><!-- HN:45925755:start -->
-* [45925755](https://news.social-protocols.org/stats?id=45925755) #16 13 points 8 comments -> [A Spectral-Geometric Proof of the Riemann Hypothesis](https://zenodo.org/records/17508340)<!-- HN:45925755:end --><!-- HN:45927035:start -->
-* [45927035](https://news.social-protocols.org/stats?id=45927035) #23 75 points 28 comments -> [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://www.thetimes.com/world/europe/article/wealthy-foreigners-paid-for-chance-to-shoot-civilians-in-sarajevo-zrljbb27z)<!-- HN:45927035:end --><!-- HN:45926395:start -->
-* [45926395](https://news.social-protocols.org/stats?id=45926395) #23 28 points 6 comments -> [Don't turn your brain off](https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off)<!-- HN:45926395:end --><!-- HN:45929304:start -->
-* [45929304](https://news.social-protocols.org/stats?id=45929304) #4 33 points 26 comments -> [Norway's Wealth Tax Unchains a Capital Exodus](https://citizenx.com/insights/norway-wealth-exodus/)<!-- HN:45929304:end -->
 #### **Saturday, November 15, 2025**
 <!-- HN:45933900:start -->
 * [45933900](https://news.social-protocols.org/stats?id=45933900) #5 6 points 2 comments -> [Show HN: A visual guide to learning Jujutsu (JJ)](https://excalidraw.com/#json=kMtNOJfH_UUOzBqt7WXx9,cyuXonQjb-Kor72f0F5YXg)<!-- HN:45933900:end --><!-- HN:45934054:start -->
