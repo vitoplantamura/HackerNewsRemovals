@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45995554](https://news.social-protocols.org/stats?id=45995554) #19 14 points 4 comments -> [Gary Mani Mounfield of the Stone Roses and Primal Scream Dead at 63](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/gary-mani-dead-stone-roses-32913693)<!-- HN:45995554:end --><!-- HN:45899836:start -->
 * [45899836](https://news.social-protocols.org/stats?id=45899836) #6 47 points 10 comments -> [CoMaps emerges as an Organic Maps fork](https://lwn.net/Articles/1024387/)<!-- HN:45899836:end --><!-- HN:45997425:start -->
 * [45997425](https://news.social-protocols.org/stats?id=45997425) #21 4 points 1 comments -> [nanochat.karpathy.ai](https://nanochat.karpathy.ai/)<!-- HN:45997425:end -->
+#### **Friday, November 21, 2025**
+<!-- HN:45998649:start -->
+* [45998649](https://news.social-protocols.org/stats?id=45998649) #16 55 points 40 comments -> [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)<!-- HN:45998649:end -->
