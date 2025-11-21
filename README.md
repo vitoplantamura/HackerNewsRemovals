@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45997425](https://news.social-protocols.org/stats?id=45997425) #21 4 points 1 comments -> [nanochat.karpathy.ai](https://nanochat.karpathy.ai/)<!-- HN:45997425:end -->
 #### **Friday, November 21, 2025**
 <!-- HN:45998649:start -->
-* [45998649](https://news.social-protocols.org/stats?id=45998649) #16 55 points 40 comments -> [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)<!-- HN:45998649:end -->
+* [45998649](https://news.social-protocols.org/stats?id=45998649) #16 55 points 40 comments -> [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)<!-- HN:45998649:end --><!-- HN:45999256:start -->
+* [45999256](https://news.social-protocols.org/stats?id=45999256) #28 -> [RI judge intervenes after ICE mistakenly detains Superior Court intern](https://www.wpri.com/news/local-news/providence/ri-judge-intervenes-after-ice-mistakenly-detains-superior-court-intern/)<!-- HN:45999256:end -->
