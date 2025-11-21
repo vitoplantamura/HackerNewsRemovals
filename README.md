@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45899836](https://news.social-protocols.org/stats?id=45899836) #6 47 points 10 comments -> [CoMaps emerges as an Organic Maps fork](https://lwn.net/Articles/1024387/)<!-- HN:45899836:end --><!-- HN:45997425:start -->
 * [45997425](https://news.social-protocols.org/stats?id=45997425) #21 4 points 1 comments -> [nanochat.karpathy.ai](https://nanochat.karpathy.ai/)<!-- HN:45997425:end -->
 #### **Friday, November 21, 2025**<!-- HN:45998649:start -->
-* [45998649](https://news.social-protocols.org/stats?id=45998649) #27 70 points 49 comments -> [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)<!-- HN:45998649:end -->
+* [45998649](https://news.social-protocols.org/stats?id=45998649) #27 70 points 49 comments -> [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)<!-- HN:45998649:end --><!-- HN:45993943:start -->
+* [45993943](https://news.social-protocols.org/stats?id=45993943) #17 185 points 197 comments -> [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)<!-- HN:45993943:end -->
