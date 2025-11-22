@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46006335](https://news.social-protocols.org/stats?id=46006335) #2 5 points 1 comments -> [Deciding to Win: A Common Sense Renewal of the Democratic Party](https://decidingtowin.org)<!-- HN:46006335:end --><!-- HN:46006756:start -->
 * [46006756](https://news.social-protocols.org/stats?id=46006756) #6 11 points 5 comments -> [UK bar bans solo-drinkers to 'protect customers'](https://www.bbc.com/news/articles/cnve4eypg8zo)<!-- HN:46006756:end --><!-- HN:45923755:start -->
 * [45923755](https://news.social-protocols.org/stats?id=45923755) #25 4 points 1 comments -> [The Anatomy of the Least Squares Method, Part Two](https://thepalindrome.org/p/the-anatomy-of-the-least-squares-ab5)<!-- HN:45923755:end -->
+#### **Saturday, November 22, 2025**
+<!-- HN:46010043:start -->
+* [46010043](https://news.social-protocols.org/stats?id=46010043) #14 8 points 4 comments -> [Real-Time AI-Powered Texas Hold'em in Python and Flask – Play in the Browser](https://github.com/EMMA019/AI_pokergame)<!-- HN:46010043:end -->
