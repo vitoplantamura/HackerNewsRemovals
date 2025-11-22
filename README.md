@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, November 15, 2025**
-<!-- HN:45933900:start -->
-* [45933900](https://news.social-protocols.org/stats?id=45933900) #5 6 points 2 comments -> [Show HN: A visual guide to learning Jujutsu (JJ)](https://excalidraw.com/#json=kMtNOJfH_UUOzBqt7WXx9,cyuXonQjb-Kor72f0F5YXg)<!-- HN:45933900:end --><!-- HN:45934054:start -->
-* [45934054](https://news.social-protocols.org/stats?id=45934054) #19 18 points 1 comments -> [Record settler attacks in West Bank opening up rifts within Israel](https://www.bbc.com/news/articles/cwykze63r2xo)<!-- HN:45934054:end --><!-- HN:45933960:start -->
-* [45933960](https://news.social-protocols.org/stats?id=45933960) #9 7 points 0 comments -> [Nothing impossible happens](https://www.oxonianreview.com/articles/nothing-impossible-happens)<!-- HN:45933960:end --><!-- HN:45830718:start -->
-* [45830718](https://news.social-protocols.org/stats?id=45830718) #21 7 points 1 comments -> [I built a modular Java game engine without a GUI, designed to be AI-native](https://frontend-neutron-v2.vercel.app/)<!-- HN:45830718:end --><!-- HN:45934683:start -->
-* [45934683](https://news.social-protocols.org/stats?id=45934683) #20 30 points 33 comments -> [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)<!-- HN:45934683:end --><!-- HN:45935874:start -->
-* [45935874](https://news.social-protocols.org/stats?id=45935874) #7 12 points 4 comments -> [How My Speed Date Got Stolen Onstage at a Live Comedy Dating Show](https://psychotechnology.substack.com/p/how-my-speed-date-got-stolen-onstage)<!-- HN:45935874:end --><!-- HN:45937880:start -->
-* [45937880](https://news.social-protocols.org/stats?id=45937880) #2 33 points 34 comments -> [6B Miles Driven](https://www.tesla.com/fsd/safety)<!-- HN:45937880:end --><!-- HN:45937719:start -->
-* [45937719](https://news.social-protocols.org/stats?id=45937719) #11 32 points 22 comments -> [Waymo Was on a Roll in San Francisco. Then One of Its Cars Killed a Cat](https://www.nytimes.com/2025/11/15/us/waymo-san-francisco-kit-kat.html)<!-- HN:45937719:end --><!-- HN:45939063:start -->
-* [45939063](https://news.social-protocols.org/stats?id=45939063) #11 3 points 1 comments -> [Moving from Serverless to Functionless](https://builder.aws.com)<!-- HN:45939063:end --><!-- HN:45939414:start -->
-* [45939414](https://news.social-protocols.org/stats?id=45939414) #2 32 points 20 comments -> [Llmdeathcount.com](https://llmdeathcount.com/)<!-- HN:45939414:end --><!-- HN:45937816:start -->
-* [45937816](https://news.social-protocols.org/stats?id=45937816) #17 45 points 40 comments -> [How to Tolerate Annoying Things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)<!-- HN:45937816:end --><!-- HN:45941389:start -->
-* [45941389](https://news.social-protocols.org/stats?id=45941389) #2 13 points 5 comments -> [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)<!-- HN:45941389:end -->
 #### **Sunday, November 16, 2025**
 <!-- HN:45884520:start -->
 * [45884520](https://news.social-protocols.org/stats?id=45884520) #26 13 points 2 comments -> [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)<!-- HN:45884520:end --><!-- HN:45945113:start -->
