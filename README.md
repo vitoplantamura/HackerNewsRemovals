@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, November 22, 2025**
 <!-- HN:46010043:start -->
 * [46010043](https://news.social-protocols.org/stats?id=46010043) #14 8 points 4 comments -> [Real-Time AI-Powered Texas Hold'em in Python and Flask – Play in the Browser](https://github.com/EMMA019/AI_pokergame)<!-- HN:46010043:end --><!-- HN:46011569:start -->
-* [46011569](https://news.social-protocols.org/stats?id=46011569) #7 30 points 19 comments -> [Microsoft Will Preload Windows 11 File Explorer to Fix Bad Performance](https://blogs.windows.com/windows-insider/2025/11/21/announcing-windows-11-insider-preview-build-26100-7271-dev-beta-channels/)<!-- HN:46011569:end -->
+* [46011569](https://news.social-protocols.org/stats?id=46011569) #7 30 points 19 comments -> [Microsoft Will Preload Windows 11 File Explorer to Fix Bad Performance](https://blogs.windows.com/windows-insider/2025/11/21/announcing-windows-11-insider-preview-build-26100-7271-dev-beta-channels/)<!-- HN:46011569:end --><!-- HN:45926581:start -->
+* [45926581](https://news.social-protocols.org/stats?id=45926581) #10 7 points 0 comments -> [Mexico's Female Rodeo Culture](https://www.cnn.com/2025/11/13/style/escaramuza-cowgirl-fashion-photography)<!-- HN:45926581:end -->
