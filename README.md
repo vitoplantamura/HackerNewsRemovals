@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, November 23, 2025**
 <!-- HN:46017830:start -->
 * [46017830](https://news.social-protocols.org/stats?id=46017830) #28 3 points 0 comments -> [A Woman on a Mission to Photograph Every Species of Hummingbird](https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world)<!-- HN:46017830:end --><!-- HN:45937230:start -->
-* [45937230](https://news.social-protocols.org/stats?id=45937230) #29 14 points 0 comments -> [Anukari on the CPU (part 2: CPU optimization)](https://anukari.com/blog/devlog/anukari-on-the-cpu-part-2-cpu-optimization)<!-- HN:45937230:end -->
+* [45937230](https://news.social-protocols.org/stats?id=45937230) #29 14 points 0 comments -> [Anukari on the CPU (part 2: CPU optimization)](https://anukari.com/blog/devlog/anukari-on-the-cpu-part-2-cpu-optimization)<!-- HN:45937230:end --><!-- HN:46019168:start -->
+* [46019168](https://news.social-protocols.org/stats?id=46019168) #29 64 points 26 comments -> [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)<!-- HN:46019168:end -->
