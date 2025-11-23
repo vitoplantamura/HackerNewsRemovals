@@ -168,3 +168,11 @@
 * [45939414](https://news.ycombinator.com/item?id=45939414) #2 32 points 20 comments -> [Llmdeathcount.com](https://llmdeathcount.com/)<!-- HN:45939414:end --><!-- HN:45937816:start -->
 * [45937816](https://news.ycombinator.com/item?id=45937816) #17 45 points 40 comments -> [How to Tolerate Annoying Things](https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease)<!-- HN:45937816:end --><!-- HN:45941389:start -->
 * [45941389](https://news.ycombinator.com/item?id=45941389) #2 13 points 5 comments -> [Project Fucking Sucks](https://ficd.sh/blog/your-project-sucks/)<!-- HN:45941389:end -->
+#### **Sunday, November 16, 2025**
+<!-- HN:45884520:start -->
+* [45884520](https://news.ycombinator.com/item?id=45884520) #26 13 points 2 comments -> [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)<!-- HN:45884520:end --><!-- HN:45945113:start -->
+* [45945113](https://news.ycombinator.com/item?id=45945113) #30 29 points 9 comments -> [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)<!-- HN:45945113:end --><!-- HN:45946707:start -->
+* [45946707](https://news.ycombinator.com/item?id=45946707) #29 11 points 7 comments -> [Owning a Cat Could Double Your Risk of Schizophrenia, Research Suggests](https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests)<!-- HN:45946707:end --><!-- HN:45946966:start -->
+* [45946966](https://news.ycombinator.com/item?id=45946966) #4 17 points 4 comments -> [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)<!-- HN:45946966:end --><!-- HN:45947394:start -->
+* [45947394](https://news.ycombinator.com/item?id=45947394) #13 6 points 2 comments -> [How to Scale Distributed Product Teams from 10 to 100](https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/)<!-- HN:45947394:end --><!-- HN:45947530:start -->
+* [45947530](https://news.ycombinator.com/item?id=45947530) #21 18 points 14 comments -> [Don't Post Passive-Aggressive Webpages](https://dontpostpassiveaggressivewebpages.com/)<!-- HN:45947530:end -->
