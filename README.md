@@ -111,3 +111,9 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46026919](https://news.social-protocols.org/stats?id=46026919) #10 8 points 5 comments -> [I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved](https://jonathanclark.com/posts/bonded-internet-connection-ai.html)<!-- HN:46026919:end --><!-- HN:46027265:start -->
 * [46027265](https://news.social-protocols.org/stats?id=46027265) #11 5 points 2 comments -> [AI Content Pipeline: My Experience](https://techlife.blog/posts/ai-content-pipeline/)<!-- HN:46027265:end --><!-- HN:46027245:start -->
 * [46027245](https://news.social-protocols.org/stats?id=46027245) #21 5 points 4 comments -> [Lead magnet creation for blue collar SaaS](https://estimatekit.com/free-templates)<!-- HN:46027245:end -->
+#### **Monday, November 24, 2025**
+<!-- HN:45952155:start -->
+* [45952155](https://news.social-protocols.org/stats?id=45952155) #15 14 points 1 comments -> [Halfbakery: Purely functional programming with heat output](https://www.halfbakery.com/idea/Purely_20functional_20programming_20with_20heat_20output#1763275883)<!-- HN:45952155:end --><!-- HN:45952355:start -->
+* [45952355](https://news.social-protocols.org/stats?id=45952355) #16 11 points 0 comments -> ['Complicated' watch from 1907 sets world record at auction](https://www.bbc.co.uk/news/articles/cn7e4m48gdro)<!-- HN:45952355:end --><!-- HN:45922514:start -->
+* [45922514](https://news.social-protocols.org/stats?id=45922514) #29 55 points 16 comments -> [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)<!-- HN:45922514:end --><!-- HN:45956542:start -->
+* [45956542](https://news.social-protocols.org/stats?id=45956542) #30 33 points 10 comments -> [Pyrotechnic Display Design Software](https://github.com/giuseppe-coco/FireShow)<!-- HN:45956542:end -->
