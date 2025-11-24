@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, November 17, 2025**
-<!-- HN:45950766:start -->
-* [45950766](https://news.social-protocols.org/stats?id=45950766) #1 7 points 2 comments -> [The Shutdown of Usa.i.d. Has Killed Thousands](https://www.newyorker.com/culture/the-new-yorker-documentary/the-shutdown-of-usaid-has-already-killed-hundreds-of-thousands)<!-- HN:45950766:end --><!-- HN:45876574:start -->
-* [45876574](https://news.social-protocols.org/stats?id=45876574) #30 18 points 1 comments -> [Help My LocalDate Isn't Flattened](https://horstmann.com/unblog/2025-11-08/index.html)<!-- HN:45876574:end --><!-- HN:45952737:start -->
-* [45952737](https://news.social-protocols.org/stats?id=45952737) #26 17 points 12 comments -> [Drone footage shows scale of revolting 60M-long mountain of waste next to river](https://news.sky.com/story/kidlington-fly-tipping-drone-footage-shows-scale-of-revolting-60m-long-mountain-of-waste-next-to-river-13471314)<!-- HN:45952737:end --><!-- HN:45953198:start -->
-* [45953198](https://news.social-protocols.org/stats?id=45953198) #11 13 points 7 comments -> [Peter Thiel has sold his stake in Nvidia](https://www.techinasia.com/news/peter-thiel-sells-entire-nvidia-stake-despite-ai-bubble-fears)<!-- HN:45953198:end --><!-- HN:45953072:start -->
-* [45953072](https://news.social-protocols.org/stats?id=45953072) #25 6 points 2 comments -> ["Two US Marines implicated" in killing family in notorious Iraq war shooting](https://www.bbc.co.uk/news/articles/c2emyz0zpxko)<!-- HN:45953072:end --><!-- HN:45955948:start -->
-* [45955948](https://news.social-protocols.org/stats?id=45955948) #9 5 points 2 comments -> [Every log must fire: applying Chekhov's gun to cybersecurity incident reports](https://andreafortuna.org/2025/11/17/chekhovs-gun-and-cybersecurity-incident-reports)<!-- HN:45955948:end --><!-- HN:45820782:start -->
-* [45820782](https://news.social-protocols.org/stats?id=45820782) #4 52 points 35 comments -> [WebTransport is almost here to allow UDP-like exchange in the browser](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport_API)<!-- HN:45820782:end --><!-- HN:45864768:start -->
-* [45864768](https://news.social-protocols.org/stats?id=45864768) #9 23 points 5 comments -> [There Has to Be a Better Way to Make Titanium](https://www.orcasciences.com/articles/there-has-to-be-a-better-way-to-make-titanium)<!-- HN:45864768:end --><!-- HN:45796932:start -->
-* [45796932](https://news.social-protocols.org/stats?id=45796932) #15 75 points 17 comments -> [Celtic Code: Drawing Knots with Python](https://2earth.github.io/website/20250202.html)<!-- HN:45796932:end --><!-- HN:45958509:start -->
-* [45958509](https://news.social-protocols.org/stats?id=45958509) #24 4 points 0 comments -> [Color Palette Pro](https://colorpalette.pro/)<!-- HN:45958509:end -->
 #### **Tuesday, November 18, 2025**
 <!-- HN:45961819:start -->
 * [45961819](https://news.social-protocols.org/stats?id=45961819) #3 10 points 1 comments -> [Chris Simpkins (designer of the Roboto font) has passed away](https://typedrawers.com/discussion/5403/chris-simpkins-has-passed-away)<!-- HN:45961819:end --><!-- HN:45963156:start -->
