@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46035533](https://news.social-protocols.org/stats?id=46035533) #1 329 points 16 comments -> [SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)<!-- HN:46035533:end --><!-- HN:46038354:start -->
 * [46038354](https://news.social-protocols.org/stats?id=46038354) #30 4 points 1 comments -> [Why my rust rewrite of Mozilla's readability is better than original readability](https://github.com/theiskaa/readabilityrs)<!-- HN:46038354:end --><!-- HN:46040005:start -->
 * [46040005](https://news.social-protocols.org/stats?id=46040005) #20 109 points 30 comments -> [DoGE "cut muscle, not fat"; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)<!-- HN:46040005:end -->
+#### **Tuesday, November 25, 2025**
+<!-- HN:46041401:start -->
+* [46041401](https://news.social-protocols.org/stats?id=46041401) #21 -> [USAID shutdown has led to deaths](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/)<!-- HN:46041401:end -->
