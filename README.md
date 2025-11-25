@@ -116,4 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46040005](https://news.social-protocols.org/stats?id=46040005) #20 109 points 30 comments -> [DoGE "cut muscle, not fat"; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)<!-- HN:46040005:end -->
 #### **Tuesday, November 25, 2025**
 <!-- HN:46041401:start -->
-* [46041401](https://news.social-protocols.org/stats?id=46041401) #21 -> [USAID shutdown has led to deaths](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/)<!-- HN:46041401:end -->
+* [46041401](https://news.social-protocols.org/stats?id=46041401) #21 -> [USAID shutdown has led to deaths](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/)<!-- HN:46041401:end --><!-- HN:45975889:start -->
+* [45975889](https://news.social-protocols.org/stats?id=45975889) #16 11 points 0 comments -> [A Major City of the Kazakh Steppe? Investigating Semiyarka's Bronze Age Legacy](https://www.cambridge.org/core/journals/antiquity/article/major-city-of-the-kazakh-steppe-investigating-semiyarkas-bronze-age-legacy/7D20FEEC9B8F7BC60721BF7CA401B788)<!-- HN:45975889:end --><!-- HN:45974732:start -->
+* [45974732](https://news.social-protocols.org/stats?id=45974732) #21 61 points 45 comments -> [Neopets.com Changed My Life (2019)](https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/)<!-- HN:45974732:end -->
