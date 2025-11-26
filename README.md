@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, November 26, 2025**
 <!-- HN:46052090:start -->
 * [46052090](https://news.social-protocols.org/stats?id=46052090) #8 25 points 6 comments -> [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)<!-- HN:46052090:end --><!-- HN:46052672:start -->
-* [46052672](https://news.social-protocols.org/stats?id=46052672) #22 16 points 1 comments -> [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)<!-- HN:46052672:end -->
+* [46052672](https://news.social-protocols.org/stats?id=46052672) #22 16 points 1 comments -> [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)<!-- HN:46052672:end --><!-- HN:45997514:start -->
+* [45997514](https://news.social-protocols.org/stats?id=45997514) #18 -> [Microsoft makes Zork I, II, and III open source under MIT License](https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/)<!-- HN:45997514:end -->
