@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, November 19, 2025**
-<!-- HN:45973648:start -->
-* [45973648](https://news.social-protocols.org/stats?id=45973648) #9 39 points 124 comments -> [Ford can't find mechanics for $120K: It takes math to learn a trade](https://www.joannejacobs.com/post/ford-can-t-find-mechanics-for-120k-it-takes-math-to-learn-a-trade)<!-- HN:45973648:end --><!-- HN:45979228:start -->
-* [45979228](https://news.social-protocols.org/stats?id=45979228) #1 -> [Zo: Personal Servers for Everyone](https://www.zo.computer/)<!-- HN:45979228:end --><!-- HN:45978880:start -->
-* [45978880](https://news.social-protocols.org/stats?id=45978880) #3 17 points 19 comments -> [Geothermal's Time Has Come](https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come)<!-- HN:45978880:end --><!-- HN:45979674:start -->
-* [45979674](https://news.social-protocols.org/stats?id=45979674) #22 6 points 0 comments -> [40% of young U.S. women want to leave the country: Gallup poll](https://www.deseret.com/politics/2025/11/18/gallup-poll-finds-us-women-want-leave-country-permanently/)<!-- HN:45979674:end --><!-- HN:45890639:start -->
-* [45890639](https://news.social-protocols.org/stats?id=45890639) #19 7 points 6 comments -> [Race optimization algorithms with good initializations (beat them with bonuses)](https://debargha.com)<!-- HN:45890639:end --><!-- HN:45982542:start -->
-* [45982542](https://news.social-protocols.org/stats?id=45982542) #1 61 points 47 comments -> [I am just sooo sick of AI prediction content, let's kill it already](https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/)<!-- HN:45982542:end --><!-- HN:45983069:start -->
-* [45983069](https://news.social-protocols.org/stats?id=45983069) #5 12 points 5 comments -> [Cypherpunks Hall of Fame](https://github.com/cypherpunkshall/cypherpunkshall.github.io)<!-- HN:45983069:end --><!-- HN:45981825:start -->
-* [45981825](https://news.social-protocols.org/stats?id=45981825) #22 21 points 2 comments -> [The "Learned Helplessness" of AI](https://himanshusinghbisht.substack.com/p/the-learned-helplessness-of-ai)<!-- HN:45981825:end --><!-- HN:45985264:start -->
-* [45985264](https://news.social-protocols.org/stats?id=45985264) #27 13 points 0 comments -> [Children among 25 killed in one of Russia's deadliest strikes on western Ukraine](https://www.bbc.com/news/articles/cy0yere4k0zo)<!-- HN:45985264:end --><!-- HN:45984789:start -->
-* [45984789](https://news.social-protocols.org/stats?id=45984789) #30 17 points 3 comments -> [Detection, Decoding of "Power Track" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)<!-- HN:45984789:end --><!-- HN:45985425:start -->
-* [45985425](https://news.social-protocols.org/stats?id=45985425) #16 8 points 1 comments -> [I worked, I paid taxes – then the bank took my home](https://www.bbc.com/news/articles/cp8jz321x14o)<!-- HN:45985425:end -->
 #### **Thursday, November 20, 2025**
 <!-- HN:45979190:start -->
 * [45979190](https://news.social-protocols.org/stats?id=45979190) #19 304 points 335 comments -> [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)<!-- HN:45979190:end --><!-- HN:45990287:start -->
