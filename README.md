@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46050997](https://news.social-protocols.org/stats?id=46050997) #30 18 points 7 comments -> [Stop Putting Your Passwords into Random Websites (Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)<!-- HN:46050997:end -->
 #### **Wednesday, November 26, 2025**
 <!-- HN:46052090:start -->
-* [46052090](https://news.social-protocols.org/stats?id=46052090) #8 25 points 6 comments -> [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)<!-- HN:46052090:end -->
+* [46052090](https://news.social-protocols.org/stats?id=46052090) #8 25 points 6 comments -> [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)<!-- HN:46052090:end --><!-- HN:46052672:start -->
+* [46052672](https://news.social-protocols.org/stats?id=46052672) #22 16 points 1 comments -> [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)<!-- HN:46052672:end -->
