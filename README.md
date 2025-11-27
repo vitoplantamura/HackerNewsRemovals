@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [45984864](https://news.social-protocols.org/stats?id=45984864) #22 224 points 54 comments -> [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)<!-- HN:45984864:end -->
 #### **Thursday, November 27, 2025**
 <!-- HN:46062483:start -->
-* [46062483](https://news.social-protocols.org/stats?id=46062483) #20 98 points 92 comments -> [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)<!-- HN:46062483:end -->
+* [46062483](https://news.social-protocols.org/stats?id=46062483) #20 98 points 92 comments -> [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)<!-- HN:46062483:end --><!-- HN:46064998:start -->
+* [46064998](https://news.social-protocols.org/stats?id=46064998) #25 3 points 1 comments -> [Vibe coding: What is it good for? Absolutely nothing](https://www.theregister.com/2025/11/24/opinion_column_vibe_coding/)<!-- HN:46064998:end -->
