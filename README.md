@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, November 20, 2025**
-<!-- HN:45979190:start -->
-* [45979190](https://news.social-protocols.org/stats?id=45979190) #19 304 points 335 comments -> [Larry Summers resigns from OpenAI board](https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html)<!-- HN:45979190:end --><!-- HN:45990287:start -->
-* [45990287](https://news.social-protocols.org/stats?id=45990287) #1 28 points 9 comments -> [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)<!-- HN:45990287:end --><!-- HN:45991835:start -->
-* [45991835](https://news.social-protocols.org/stats?id=45991835) #17 35 points 19 comments -> [Tesla Robotaxi had 3 more crashes, now 7 total](https://electrek.co/2025/11/17/tesla-robotaxi-had-3-more-crashes-now-7-total/)<!-- HN:45991835:end --><!-- HN:45994235:start -->
-* [45994235](https://news.social-protocols.org/stats?id=45994235) #21 7 points 1 comments -> [Show HN: Rapid-rs – Zero-config web framework for Rust](https://crates.io/crates/rapid-rs)<!-- HN:45994235:end --><!-- HN:45995554:start -->
-* [45995554](https://news.social-protocols.org/stats?id=45995554) #19 14 points 4 comments -> [Gary Mani Mounfield of the Stone Roses and Primal Scream Dead at 63](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/gary-mani-dead-stone-roses-32913693)<!-- HN:45995554:end --><!-- HN:45899836:start -->
-* [45899836](https://news.social-protocols.org/stats?id=45899836) #6 47 points 10 comments -> [CoMaps emerges as an Organic Maps fork](https://lwn.net/Articles/1024387/)<!-- HN:45899836:end --><!-- HN:45997425:start -->
-* [45997425](https://news.social-protocols.org/stats?id=45997425) #21 4 points 1 comments -> [nanochat.karpathy.ai](https://nanochat.karpathy.ai/)<!-- HN:45997425:end -->
 #### **Friday, November 21, 2025**<!-- HN:45998649:start -->
 * [45998649](https://news.social-protocols.org/stats?id=45998649) #27 70 points 49 comments -> [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)<!-- HN:45998649:end --><!-- HN:45993943:start -->
 * [45993943](https://news.social-protocols.org/stats?id=45993943) #17 185 points 197 comments -> [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)<!-- HN:45993943:end --><!-- HN:45952621:start -->
