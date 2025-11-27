@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, November 27, 2025**
 <!-- HN:46062483:start -->
 * [46062483](https://news.social-protocols.org/stats?id=46062483) #20 98 points 92 comments -> [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)<!-- HN:46062483:end --><!-- HN:46064998:start -->
-* [46064998](https://news.social-protocols.org/stats?id=46064998) #25 3 points 1 comments -> [Vibe coding: What is it good for? Absolutely nothing](https://www.theregister.com/2025/11/24/opinion_column_vibe_coding/)<!-- HN:46064998:end -->
+* [46064998](https://news.social-protocols.org/stats?id=46064998) #25 3 points 1 comments -> [Vibe coding: What is it good for? Absolutely nothing](https://www.theregister.com/2025/11/24/opinion_column_vibe_coding/)<!-- HN:46064998:end --><!-- HN:46066482:start -->
+* [46066482](https://news.social-protocols.org/stats?id=46066482) #26 -> [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)<!-- HN:46066482:end -->
