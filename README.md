@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, November 28, 2025**
 <!-- HN:46036124:start -->
 * [46036124](https://news.social-protocols.org/stats?id=46036124) #17 8 points 0 comments -> [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)<!-- HN:46036124:end --><!-- HN:46075575:start -->
-* [46075575](https://news.social-protocols.org/stats?id=46075575) #25 8 points 2 comments -> [Andrew Kelley removed his "monkeys" and "losers" references](https://web.archive.org/web/20251127021007/https://ziglang.org/news/migrating-from-github-to-codeberg/)<!-- HN:46075575:end -->
+* [46075575](https://news.social-protocols.org/stats?id=46075575) #25 8 points 2 comments -> [Andrew Kelley removed his "monkeys" and "losers" references](https://web.archive.org/web/20251127021007/https://ziglang.org/news/migrating-from-github-to-codeberg/)<!-- HN:46075575:end --><!-- HN:46074729:start -->
+* [46074729](https://news.social-protocols.org/stats?id=46074729) #24 10 points 7 comments -> [Overlord: AI accountability that watches over you](https://overlord.app/)<!-- HN:46074729:end -->
