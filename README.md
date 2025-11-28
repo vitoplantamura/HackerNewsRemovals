@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46073319](https://news.social-protocols.org/stats?id=46073319) #25 6 points 1 comments -> [Show HN: No Black Friday – A directory of fair-price brands](https://no-blackfriday.com)<!-- HN:46073319:end -->
 #### **Friday, November 28, 2025**
 <!-- HN:46036124:start -->
-* [46036124](https://news.social-protocols.org/stats?id=46036124) #17 8 points 0 comments -> [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)<!-- HN:46036124:end -->
+* [46036124](https://news.social-protocols.org/stats?id=46036124) #17 8 points 0 comments -> [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)<!-- HN:46036124:end --><!-- HN:46075575:start -->
+* [46075575](https://news.social-protocols.org/stats?id=46075575) #25 8 points 2 comments -> [Andrew Kelley removed his "monkeys" and "losers" references](https://web.archive.org/web/20251127021007/https://ziglang.org/news/migrating-from-github-to-codeberg/)<!-- HN:46075575:end -->
