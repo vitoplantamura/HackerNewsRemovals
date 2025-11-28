@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46070842](https://news.social-protocols.org/stats?id=46070842) #10 5 points 3 comments -> [It's Been a Very Hard Year](https://bell.bz/its-been-a-very-hard-year/)<!-- HN:46070842:end --><!-- HN:46073862:start -->
 * [46073862](https://news.social-protocols.org/stats?id=46073862) #6 12 points 3 comments -> [Show HN: Whole-home VPN router with hardware kill switch (OpenWrt and WireGuard)](https://github.com/yoloshii/privacy-first-network)<!-- HN:46073862:end --><!-- HN:46073319:start -->
 * [46073319](https://news.social-protocols.org/stats?id=46073319) #25 6 points 1 comments -> [Show HN: No Black Friday – A directory of fair-price brands](https://no-blackfriday.com)<!-- HN:46073319:end -->
+#### **Friday, November 28, 2025**
+<!-- HN:46036124:start -->
+* [46036124](https://news.social-protocols.org/stats?id=46036124) #17 8 points 0 comments -> [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)<!-- HN:46036124:end -->
