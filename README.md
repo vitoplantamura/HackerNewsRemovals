@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, November 21, 2025**<!-- HN:45998649:start -->
-* [45998649](https://news.social-protocols.org/stats?id=45998649) #27 70 points 49 comments -> [AI Is Writing Its Own Kernels, and They Are 17x Faster](https://adrs-ucb.notion.site/autocomp)<!-- HN:45998649:end --><!-- HN:45993943:start -->
-* [45993943](https://news.social-protocols.org/stats?id=45993943) #17 185 points 197 comments -> [The Banished Bottom of the Housing Market](https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing)<!-- HN:45993943:end --><!-- HN:45952621:start -->
-* [45952621](https://news.social-protocols.org/stats?id=45952621) #8 21 points 40 comments -> [Apple's iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle](https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o)<!-- HN:45952621:end --><!-- HN:46004118:start -->
-* [46004118](https://news.social-protocols.org/stats?id=46004118) #16 34 points 1 comments -> [Jmail: Gmail Clone with Epstein's Emails](https://jmail.world)<!-- HN:46004118:end --><!-- HN:46003995:start -->
-* [46003995](https://news.social-protocols.org/stats?id=46003995) #15 17 points 7 comments -> [iHeartRadio web has exposed all its source code](https://github.com/Gh0styTongue/iHeart-Frontend-Source-Code)<!-- HN:46003995:end --><!-- HN:46006335:start -->
-* [46006335](https://news.social-protocols.org/stats?id=46006335) #2 5 points 1 comments -> [Deciding to Win: A Common Sense Renewal of the Democratic Party](https://decidingtowin.org)<!-- HN:46006335:end --><!-- HN:46006756:start -->
-* [46006756](https://news.social-protocols.org/stats?id=46006756) #6 11 points 5 comments -> [UK bar bans solo-drinkers to 'protect customers'](https://www.bbc.com/news/articles/cnve4eypg8zo)<!-- HN:46006756:end --><!-- HN:45923755:start -->
-* [45923755](https://news.social-protocols.org/stats?id=45923755) #25 4 points 1 comments -> [The Anatomy of the Least Squares Method, Part Two](https://thepalindrome.org/p/the-anatomy-of-the-least-squares-ab5)<!-- HN:45923755:end -->
 #### **Saturday, November 22, 2025**
 <!-- HN:46010043:start -->
 * [46010043](https://news.social-protocols.org/stats?id=46010043) #14 8 points 4 comments -> [Real-Time AI-Powered Texas Hold'em in Python and Flask – Play in the Browser](https://github.com/EMMA019/AI_pokergame)<!-- HN:46010043:end --><!-- HN:46011569:start -->
