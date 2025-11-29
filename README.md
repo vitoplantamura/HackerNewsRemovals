@@ -132,3 +132,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46080381](https://news.social-protocols.org/stats?id=46080381) #30 11 points 5 comments -> [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)<!-- HN:46080381:end --><!-- HN:46079975:start -->
 * [46079975](https://news.social-protocols.org/stats?id=46079975) #15 11 points 1 comments -> [Artificial Computation](https://cultureandcommunication.org/galloway/artificial-computation)<!-- HN:46079975:end --><!-- HN:46081956:start -->
 * [46081956](https://news.social-protocols.org/stats?id=46081956) #6 20 points 5 comments -> [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)<!-- HN:46081956:end -->
+#### **Saturday, November 29, 2025**
+<!-- HN:46082821:start -->
+* [46082821](https://news.social-protocols.org/stats?id=46082821) #30 11 points 11 comments -> [The Secret Superfood of Thanksgiving](https://www.twopct.com/p/the-secret-superfood-of-thanksgiving)<!-- HN:46082821:end -->
