@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46079975](https://news.social-protocols.org/stats?id=46079975) #15 11 points 1 comments -> [Artificial Computation](https://cultureandcommunication.org/galloway/artificial-computation)<!-- HN:46079975:end --><!-- HN:46081956:start -->
 * [46081956](https://news.social-protocols.org/stats?id=46081956) #6 20 points 5 comments -> [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)<!-- HN:46081956:end -->
 #### **Saturday, November 29, 2025**<!-- HN:46048327:start -->
-* [46048327](https://news.social-protocols.org/stats?id=46048327) #28 9 points 6 comments -> [DJI ROMO robot vacuum [video]](https://www.youtube.com/watch?v=Iv7BYURURRI)<!-- HN:46048327:end -->
+* [46048327](https://news.social-protocols.org/stats?id=46048327) #28 9 points 6 comments -> [DJI ROMO robot vacuum [video]](https://www.youtube.com/watch?v=Iv7BYURURRI)<!-- HN:46048327:end --><!-- HN:46083730:start -->
+* [46083730](https://news.social-protocols.org/stats?id=46083730) #10 20 points 40 comments -> [The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/)<!-- HN:46083730:end -->
