@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46080381](https://news.social-protocols.org/stats?id=46080381) #30 11 points 5 comments -> [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)<!-- HN:46080381:end --><!-- HN:46079975:start -->
 * [46079975](https://news.social-protocols.org/stats?id=46079975) #15 11 points 1 comments -> [Artificial Computation](https://cultureandcommunication.org/galloway/artificial-computation)<!-- HN:46079975:end --><!-- HN:46081956:start -->
 * [46081956](https://news.social-protocols.org/stats?id=46081956) #6 20 points 5 comments -> [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)<!-- HN:46081956:end -->
-#### **Saturday, November 29, 2025**
+#### **Saturday, November 29, 2025**<!-- HN:46048327:start -->
+* [46048327](https://news.social-protocols.org/stats?id=46048327) #28 9 points 6 comments -> [DJI ROMO robot vacuum [video]](https://www.youtube.com/watch?v=Iv7BYURURRI)<!-- HN:46048327:end -->
