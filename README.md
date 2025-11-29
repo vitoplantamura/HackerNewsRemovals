@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, November 22, 2025**
-<!-- HN:46010043:start -->
-* [46010043](https://news.social-protocols.org/stats?id=46010043) #14 8 points 4 comments -> [Real-Time AI-Powered Texas Hold'em in Python and Flask – Play in the Browser](https://github.com/EMMA019/AI_pokergame)<!-- HN:46010043:end --><!-- HN:46011569:start -->
-* [46011569](https://news.social-protocols.org/stats?id=46011569) #7 30 points 19 comments -> [Microsoft Will Preload Windows 11 File Explorer to Fix Bad Performance](https://blogs.windows.com/windows-insider/2025/11/21/announcing-windows-11-insider-preview-build-26100-7271-dev-beta-channels/)<!-- HN:46011569:end --><!-- HN:45926581:start -->
-* [45926581](https://news.social-protocols.org/stats?id=45926581) #10 7 points 0 comments -> [Mexico's Female Rodeo Culture](https://www.cnn.com/2025/11/13/style/escaramuza-cowgirl-fashion-photography)<!-- HN:45926581:end --><!-- HN:46012052:start -->
-* [46012052](https://news.social-protocols.org/stats?id=46012052) #22 7 points 1 comments -> [Openring-rs: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs)<!-- HN:46012052:end --><!-- HN:46012538:start -->
-* [46012538](https://news.social-protocols.org/stats?id=46012538) #10 8 points 5 comments -> [Building a deep-space logistics startup](https://ionmicrosys.com/)<!-- HN:46012538:end --><!-- HN:46013900:start -->
-* [46013900](https://news.social-protocols.org/stats?id=46013900) #24 21 points 5 comments -> [Why DETRs are replacing YOLOs for real-time object detection](https://blog.datameister.ai/detection-transformers-real-time-object-detection)<!-- HN:46013900:end --><!-- HN:46015417:start -->
-* [46015417](https://news.social-protocols.org/stats?id=46015417) #7 20 points 42 comments -> [The Pentagon Can't Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)<!-- HN:46015417:end --><!-- HN:46015262:start -->
-* [46015262](https://news.social-protocols.org/stats?id=46015262) #16 36 points 41 comments -> [A looming 'insect apocalypse' could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)<!-- HN:46015262:end --><!-- HN:46018107:start -->
-* [46018107](https://news.social-protocols.org/stats?id=46018107) #16 6 points 9 comments -> [Show HN: RealDeed – Tokenize Real Estate into Digital Assets](https://www.realdeed.co/)<!-- HN:46018107:end -->
 #### **Sunday, November 23, 2025**
 <!-- HN:45937230:start -->
 * [45937230](https://news.social-protocols.org/stats?id=45937230) #29 14 points 0 comments -> [Anukari on the CPU (part 2: CPU optimization)](https://anukari.com/blog/devlog/anukari-on-the-cpu-part-2-cpu-optimization)<!-- HN:45937230:end --><!-- HN:46019168:start -->
