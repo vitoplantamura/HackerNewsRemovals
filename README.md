@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46091100](https://news.social-protocols.org/stats?id=46091100) #27 20 points 40 comments -> [Copper Thieves Are Wreaking Havoc Across America](https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f)<!-- HN:46091100:end -->
 #### **Sunday, November 30, 2025**
 <!-- HN:46050861:start -->
-* [46050861](https://news.social-protocols.org/stats?id=46050861) #28 23 points 40 comments -> [Men Who Made America's Self-Made Man](https://www.historynewsnetwork.org/article/self-made)<!-- HN:46050861:end -->
+* [46050861](https://news.social-protocols.org/stats?id=46050861) #28 23 points 40 comments -> [Men Who Made America's Self-Made Man](https://www.historynewsnetwork.org/article/self-made)<!-- HN:46050861:end --><!-- HN:46092630:start -->
+* [46092630](https://news.social-protocols.org/stats?id=46092630) #8 19 points 24 comments -> [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)<!-- HN:46092630:end -->
