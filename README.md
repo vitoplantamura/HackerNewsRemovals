@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46089579](https://news.social-protocols.org/stats?id=46089579) #18 50 points 1 comments -> [An Update on the Farphone's Battery](https://far.computer/battery-update/)<!-- HN:46089579:end --><!-- HN:46090738:start -->
 * [46090738](https://news.social-protocols.org/stats?id=46090738) #11 4 points 3 comments -> [US War Dept's Big UFO Lie](https://www.overcomingbias.com/p/us-war-depts-big-ufo-lie)<!-- HN:46090738:end --><!-- HN:46091100:start -->
 * [46091100](https://news.social-protocols.org/stats?id=46091100) #27 20 points 40 comments -> [Copper Thieves Are Wreaking Havoc Across America](https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f)<!-- HN:46091100:end -->
-#### **Sunday, November 30, 2025**
+#### **Sunday, November 30, 2025**<!-- HN:46093458:start -->
+* [46093458](https://news.social-protocols.org/stats?id=46093458) #9 7 points 7 comments -> [MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI](https://iceberg.mit.edu/)<!-- HN:46093458:end -->
