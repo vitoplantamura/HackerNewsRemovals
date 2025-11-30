@@ -133,3 +133,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46089579](https://news.social-protocols.org/stats?id=46089579) #18 50 points 1 comments -> [An Update on the Farphone's Battery](https://far.computer/battery-update/)<!-- HN:46089579:end --><!-- HN:46090738:start -->
 * [46090738](https://news.social-protocols.org/stats?id=46090738) #11 4 points 3 comments -> [US War Dept's Big UFO Lie](https://www.overcomingbias.com/p/us-war-depts-big-ufo-lie)<!-- HN:46090738:end --><!-- HN:46091100:start -->
 * [46091100](https://news.social-protocols.org/stats?id=46091100) #27 20 points 40 comments -> [Copper Thieves Are Wreaking Havoc Across America](https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f)<!-- HN:46091100:end -->
+#### **Sunday, November 30, 2025**
+<!-- HN:46050861:start -->
+* [46050861](https://news.social-protocols.org/stats?id=46050861) #28 23 points 40 comments -> [Men Who Made America's Self-Made Man](https://www.historynewsnetwork.org/article/self-made)<!-- HN:46050861:end -->
