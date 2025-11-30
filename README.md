@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, November 23, 2025**
-<!-- HN:45937230:start -->
-* [45937230](https://news.social-protocols.org/stats?id=45937230) #29 14 points 0 comments -> [Anukari on the CPU (part 2: CPU optimization)](https://anukari.com/blog/devlog/anukari-on-the-cpu-part-2-cpu-optimization)<!-- HN:45937230:end --><!-- HN:46019168:start -->
-* [46019168](https://news.social-protocols.org/stats?id=46019168) #29 64 points 26 comments -> [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)<!-- HN:46019168:end --><!-- HN:46020794:start -->
-* [46020794](https://news.social-protocols.org/stats?id=46020794) #18 17 points 9 comments -> [Rust Isn't the Future of Systems Programming – It's Just the Hype Cycle](https://freedium-mirror.cfd/cachecowboy/rust-isnt-the-future-of-systems-programming-it-s-just-the-hype-cycle-29afd73ff871)<!-- HN:46020794:end --><!-- HN:46021942:start -->
-* [46021942](https://news.social-protocols.org/stats?id=46021942) #5 -> [Gemini 3 Just Made Larry Page World's Third Richest Man](https://vechron.com/2025/11/larry-page-overtakes-jeff-bezos-to-become-third-richest/)<!-- HN:46021942:end --><!-- HN:46024211:start -->
-* [46024211](https://news.social-protocols.org/stats?id=46024211) #19 11 points 3 comments -> [Top MAGA Influencers on X/Twitter Accidentally Unmasked as Foreign Trolls](https://www.thedailybeast.com/top-maga-influencers-accidentally-unmasked-as-foreign-actors/)<!-- HN:46024211:end --><!-- HN:46025978:start -->
-* [46025978](https://news.social-protocols.org/stats?id=46025978) #7 34 points 16 comments -> [Scoop: Judge Caught Using AI to Read His Court Decisions](https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read)<!-- HN:46025978:end --><!-- HN:46026919:start -->
-* [46026919](https://news.social-protocols.org/stats?id=46026919) #10 8 points 5 comments -> [I Let Claude Build My Home Network: Two ISPs Bonded, $312/Year Saved](https://jonathanclark.com/posts/bonded-internet-connection-ai.html)<!-- HN:46026919:end --><!-- HN:46027265:start -->
-* [46027265](https://news.social-protocols.org/stats?id=46027265) #11 5 points 2 comments -> [AI Content Pipeline: My Experience](https://techlife.blog/posts/ai-content-pipeline/)<!-- HN:46027265:end --><!-- HN:46027245:start -->
-* [46027245](https://news.social-protocols.org/stats?id=46027245) #21 5 points 4 comments -> [Lead magnet creation for blue collar SaaS](https://estimatekit.com/free-templates)<!-- HN:46027245:end -->
 #### **Monday, November 24, 2025**
 <!-- HN:45952155:start -->
 * [45952155](https://news.social-protocols.org/stats?id=45952155) #15 14 points 1 comments -> [Halfbakery: Purely functional programming with heat output](https://www.halfbakery.com/idea/Purely_20functional_20programming_20with_20heat_20output#1763275883)<!-- HN:45952155:end --><!-- HN:45952355:start -->
