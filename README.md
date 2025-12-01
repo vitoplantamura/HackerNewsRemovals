@@ -132,3 +132,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46098436](https://news.social-protocols.org/stats?id=46098436) #29 6 points 1 comments -> [Keep these Stupid American Trucks out of Europe [video]](https://youtu.be/--832LV9a3I)<!-- HN:46098436:end --><!-- HN:46100282:start -->
 * [46100282](https://news.social-protocols.org/stats?id=46100282) #3 30 points 11 comments -> [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)<!-- HN:46100282:end --><!-- HN:46100637:start -->
 * [46100637](https://news.social-protocols.org/stats?id=46100637) #4 69 points 9 comments -> [Ty](https://docs.astral.sh/ty/)<!-- HN:46100637:end -->
+#### **Monday, December 1, 2025**
+<!-- HN:46053787:start -->
+* [46053787](https://news.social-protocols.org/stats?id=46053787) #24 26 points 6 comments -> [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)<!-- HN:46053787:end -->
