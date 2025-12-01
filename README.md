@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, December 1, 2025**
 <!-- HN:46053787:start -->
 * [46053787](https://news.social-protocols.org/stats?id=46053787) #24 26 points 6 comments -> [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)<!-- HN:46053787:end --><!-- HN:46100566:start -->
-* [46100566](https://news.social-protocols.org/stats?id=46100566) #14 24 points 40 comments -> [Stackoverflow Outage](https://www.stackstatus.net/)<!-- HN:46100566:end -->
+* [46100566](https://news.social-protocols.org/stats?id=46100566) #14 24 points 40 comments -> [Stackoverflow Outage](https://www.stackstatus.net/)<!-- HN:46100566:end --><!-- HN:46101949:start -->
+* [46101949](https://news.social-protocols.org/stats?id=46101949) #27 75 points 61 comments -> [Grokipedia Is the Antithesis of Wikipedia](https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/)<!-- HN:46101949:end -->
