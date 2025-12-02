@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46117280](https://news.social-protocols.org/stats?id=46117280) #2 147 points 22 comments -> [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)<!-- HN:46117280:end --><!-- HN:46120728:start -->
 * [46120728](https://news.social-protocols.org/stats?id=46120728) #18 32 points 40 comments -> [Gary Tan claims Zoho will be out of business due to vibe coding](https://twitter.com/garrytan/status/1995664097007091818)<!-- HN:46120728:end --><!-- HN:46123469:start -->
 * [46123469](https://news.social-protocols.org/stats?id=46123469) #5 15 points 3 comments -> [API GitHub Meta](https://api.github.com/meta)<!-- HN:46123469:end --><!-- HN:46086587:start -->
-* [46086587](https://news.social-protocols.org/stats?id=46086587) #21 5 points 8 comments -> [Free Nano Banana Pro](https://www.freenanobanana.app)<!-- HN:46086587:end -->
+* [46086587](https://news.social-protocols.org/stats?id=46086587) #21 5 points 8 comments -> [Free Nano Banana Pro](https://www.freenanobanana.app)<!-- HN:46086587:end --><!-- HN:46088823:start -->
+* [46088823](https://news.social-protocols.org/stats?id=46088823) #23 7 points 3 comments -> [Show HN: Rhubarb – C89 Libraries in Latin](https://github.com/farant/rhubarb)<!-- HN:46088823:end -->
