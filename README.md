@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, November 25, 2025**
-<!-- HN:46041401:start -->
-* [46041401](https://news.social-protocols.org/stats?id=46041401) #21 -> [USAID shutdown has led to deaths](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/)<!-- HN:46041401:end --><!-- HN:45975889:start -->
-* [45975889](https://news.social-protocols.org/stats?id=45975889) #16 11 points 0 comments -> [A Major City of the Kazakh Steppe? Investigating Semiyarka's Bronze Age Legacy](https://www.cambridge.org/core/journals/antiquity/article/major-city-of-the-kazakh-steppe-investigating-semiyarkas-bronze-age-legacy/7D20FEEC9B8F7BC60721BF7CA401B788)<!-- HN:45975889:end --><!-- HN:45974732:start -->
-* [45974732](https://news.social-protocols.org/stats?id=45974732) #21 61 points 45 comments -> [Neopets.com Changed My Life (2019)](https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/)<!-- HN:45974732:end --><!-- HN:46043972:start -->
-* [46043972](https://news.social-protocols.org/stats?id=46043972) #5 7 points 2 comments -> [Show HN: I built the literal Duolingo Killer](https://kanjieight.vercel.app/)<!-- HN:46043972:end --><!-- HN:46046626:start -->
-* [46046626](https://news.social-protocols.org/stats?id=46046626) #7 12 points 4 comments -> [Cryptology firm cancels elections after losing encryption key](https://www.bbc.com/news/articles/c62vl05rz0ko)<!-- HN:46046626:end --><!-- HN:46010552:start -->
-* [46010552](https://news.social-protocols.org/stats?id=46010552) #20 27 points 10 comments -> [Explaining, at some length, Techmeme's 20 years of consistency](https://news.techmeme.com/250912/20-years)<!-- HN:46010552:end --><!-- HN:45981514:start -->
-* [45981514](https://news.social-protocols.org/stats?id=45981514) #7 175 points 39 comments -> [Meta Segment Anything Model 3](https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1)<!-- HN:45981514:end --><!-- HN:46012588:start -->
-* [46012588](https://news.social-protocols.org/stats?id=46012588) #21 7 points 0 comments -> [Room-temperature processible ceramics enable sustainable electronics](https://www.dezeen.com/2025/11/17/geolectric-light-mit-design-intelligence-lab/)<!-- HN:46012588:end --><!-- HN:46049370:start -->
-* [46049370](https://news.social-protocols.org/stats?id=46049370) #18 13 points 11 comments -> [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)<!-- HN:46049370:end --><!-- HN:45988000:start -->
-* [45988000](https://news.social-protocols.org/stats?id=45988000) #4 31 points 2 comments -> [A rare GM EV1 saved from the crusher is going to be driveable again](https://electrek.co/2025/11/19/gm-ev1-saved-from-crusher-going-driveable-again/)<!-- HN:45988000:end --><!-- HN:46050903:start -->
-* [46050903](https://news.social-protocols.org/stats?id=46050903) #10 3 points 0 comments -> [Constant-time support coming to LLVM: Protecting cryptographic code](https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/)<!-- HN:46050903:end --><!-- HN:46050997:start -->
-* [46050997](https://news.social-protocols.org/stats?id=46050997) #30 18 points 7 comments -> [Stop Putting Your Passwords into Random Websites (Yes, Seriously, You Are the PR](https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/)<!-- HN:46050997:end -->
 #### **Wednesday, November 26, 2025**
 <!-- HN:46052090:start -->
 * [46052090](https://news.social-protocols.org/stats?id=46052090) #8 25 points 6 comments -> [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)<!-- HN:46052090:end --><!-- HN:46052672:start -->
