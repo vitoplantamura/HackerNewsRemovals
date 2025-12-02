@@ -117,5 +117,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, December 2, 2025**
 <!-- HN:46115608:start -->
 * [46115608](https://news.social-protocols.org/stats?id=46115608) #10 3 points 1 comments -> [Artisanal Coding Is Dead, Long Live Artisanal Coding](https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/)<!-- HN:46115608:end --><!-- HN:46112906:start -->
-* [46112906](https://news.social-protocols.org/stats?id=46112906) #1 314 points 151 comments -> ["How to Attend Meetings" – Internal Guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)<!-- HN:46112906:end --><!-- HN:46114122:start -->
-* [46114122](https://news.social-protocols.org/stats?id=46114122) #14 33 points 217 comments -> [John Giannandrea to Retire from Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)<!-- HN:46114122:end -->
+* [46112906](https://news.social-protocols.org/stats?id=46112906) #1 314 points 151 comments -> ["How to Attend Meetings" – Internal Guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)<!-- HN:46112906:end -->
