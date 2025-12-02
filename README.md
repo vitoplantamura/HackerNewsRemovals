@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46039594](https://news.social-protocols.org/stats?id=46039594) #21 119 points 57 comments -> [I made a quieter air purifier](https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier)<!-- HN:46039594:end --><!-- HN:46040623:start -->
 * [46040623](https://news.social-protocols.org/stats?id=46040623) #23 30 points 38 comments -> [How we built the v0 iOS app](https://vercel.com/blog/how-we-built-the-v0-ios-app)<!-- HN:46040623:end --><!-- HN:46056700:start -->
 * [46056700](https://news.social-protocols.org/stats?id=46056700) #15 7 points 1 comments -> [Genesis DB is a event sourcing database and there are the technical insights](https://docs.genesisdb.io/technical-insights)<!-- HN:46056700:end -->
+#### **Tuesday, December 2, 2025**
+<!-- HN:46115608:start -->
+* [46115608](https://news.social-protocols.org/stats?id=46115608) #10 3 points 1 comments -> [Artisanal Coding Is Dead, Long Live Artisanal Coding](https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/)<!-- HN:46115608:end -->
