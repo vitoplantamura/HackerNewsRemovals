@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46056700](https://news.social-protocols.org/stats?id=46056700) #15 7 points 1 comments -> [Genesis DB is a event sourcing database and there are the technical insights](https://docs.genesisdb.io/technical-insights)<!-- HN:46056700:end -->
 #### **Tuesday, December 2, 2025**
 <!-- HN:46115608:start -->
-* [46115608](https://news.social-protocols.org/stats?id=46115608) #10 3 points 1 comments -> [Artisanal Coding Is Dead, Long Live Artisanal Coding](https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/)<!-- HN:46115608:end -->
+* [46115608](https://news.social-protocols.org/stats?id=46115608) #10 3 points 1 comments -> [Artisanal Coding Is Dead, Long Live Artisanal Coding](https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/)<!-- HN:46115608:end --><!-- HN:46112906:start -->
+* [46112906](https://news.social-protocols.org/stats?id=46112906) #1 314 points 151 comments -> ["How to Attend Meetings" – Internal Guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)<!-- HN:46112906:end -->
