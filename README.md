@@ -111,6 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46086587](https://news.social-protocols.org/stats?id=46086587) #21 5 points 8 comments -> [Free Nano Banana Pro](https://www.freenanobanana.app)<!-- HN:46086587:end --><!-- HN:46088823:start -->
 * [46088823](https://news.social-protocols.org/stats?id=46088823) #23 7 points 3 comments -> [Show HN: Rhubarb – C89 Libraries in Latin](https://github.com/farant/rhubarb)<!-- HN:46088823:end -->
 #### **Wednesday, December 3, 2025**
-<!-- HN:46135784:start -->
-* [46135784](https://news.social-protocols.org/stats?id=46135784) #17 40 points 4 comments -> [Critical Security Vulnerability in React Server Components](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)<!-- HN:46135784:end --><!-- HN:46136067:start -->
+<!-- HN:46136067:start -->
 * [46136067](https://news.social-protocols.org/stats?id=46136067) #13 120 points 51 comments -> [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)<!-- HN:46136067:end -->
