@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, November 26, 2025**
-<!-- HN:46052090:start -->
-* [46052090](https://news.social-protocols.org/stats?id=46052090) #8 25 points 6 comments -> [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)<!-- HN:46052090:end --><!-- HN:46052672:start -->
-* [46052672](https://news.social-protocols.org/stats?id=46052672) #22 16 points 1 comments -> [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)<!-- HN:46052672:end --><!-- HN:45997514:start -->
-* [45997514](https://news.social-protocols.org/stats?id=45997514) #18 -> [Microsoft makes Zork I, II, and III open source under MIT License](https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/)<!-- HN:45997514:end --><!-- HN:45994277:start -->
-* [45994277](https://news.social-protocols.org/stats?id=45994277) #28 15 points 11 comments -> [First Air-Breathing Spacecraft](https://rdw.com/newsroom/redwire-awarded-44-million-darpa-contract-to-advance-very-low-earth-orbit-mission/)<!-- HN:45994277:end --><!-- HN:46056197:start -->
-* [46056197](https://news.social-protocols.org/stats?id=46056197) #29 75 points 56 comments -> [Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)<!-- HN:46056197:end --><!-- HN:46057717:start -->
-* [46057717](https://news.social-protocols.org/stats?id=46057717) #11 14 points 1 comments -> [Show HN: Offline RAG System Using Docker and Llama 3 (No Cloud APIs)](https://github.com/PhilYeh1212/Local-AI-Knowledge-Base-Docker-Llama3)<!-- HN:46057717:end --><!-- HN:46055944:start -->
-* [46055944](https://news.social-protocols.org/stats?id=46055944) #23 436 points 572 comments -> [I don't care how well your "AI" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)<!-- HN:46055944:end --><!-- HN:46059765:start -->
-* [46059765](https://news.social-protocols.org/stats?id=46059765) #2 38 points 5 comments -> [GrapheneOS is leaving France after receiving threats from law enforcement](https://grapheneos.social/@GrapheneOS/115606319562587450)<!-- HN:46059765:end --><!-- HN:46060357:start -->
-* [46060357](https://news.social-protocols.org/stats?id=46060357) #15 38 points 41 comments -> [Investors expect AI use to soar. That's not happening](https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening)<!-- HN:46060357:end --><!-- HN:46061362:start -->
-* [46061362](https://news.social-protocols.org/stats?id=46061362) #21 13 points 5 comments -> [Widespread service disruptions reported as major platforms go down worldwide](https://www.ynetnews.com/tech-and-digital/article/bky0aavb11g)<!-- HN:46061362:end --><!-- HN:46061232:start -->
-* [46061232](https://news.social-protocols.org/stats?id=46061232) #15 24 points 26 comments -> [API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)](https://tokensaver.org/)<!-- HN:46061232:end --><!-- HN:45987014:start -->
-* [45987014](https://news.social-protocols.org/stats?id=45987014) #9 40 points 31 comments -> [An Homage to 90s –/Public_HTML Hosting](https://public.monster/)<!-- HN:45987014:end --><!-- HN:45984864:start -->
-* [45984864](https://news.social-protocols.org/stats?id=45984864) #22 224 points 54 comments -> [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)<!-- HN:45984864:end -->
 #### **Thursday, November 27, 2025**
 <!-- HN:46062483:start -->
 * [46062483](https://news.social-protocols.org/stats?id=46062483) #20 98 points 92 comments -> [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)<!-- HN:46062483:end --><!-- HN:46064998:start -->
