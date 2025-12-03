@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46088823](https://news.social-protocols.org/stats?id=46088823) #23 7 points 3 comments -> [Show HN: Rhubarb – C89 Libraries in Latin](https://github.com/farant/rhubarb)<!-- HN:46088823:end -->
 #### **Wednesday, December 3, 2025**
 <!-- HN:46136067:start -->
-* [46136067](https://news.social-protocols.org/stats?id=46136067) #13 120 points 51 comments -> [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)<!-- HN:46136067:end -->
+* [46136067](https://news.social-protocols.org/stats?id=46136067) #13 120 points 51 comments -> [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)<!-- HN:46136067:end --><!-- HN:46138101:start -->
+* [46138101](https://news.social-protocols.org/stats?id=46138101) #11 8 points 5 comments -> [TSA's New $45 Fee at U.S. Airports Unfairly Punishes Families in the Fine Print](https://www.thetravel.com/new-tsa-45-usd-fee-for-americans-without-real-id-or-passport-penalizes-families-the-most/)<!-- HN:46138101:end -->
