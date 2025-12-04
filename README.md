@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, November 27, 2025**
-<!-- HN:46062483:start -->
-* [46062483](https://news.social-protocols.org/stats?id=46062483) #20 98 points 92 comments -> [AirDrop support for Pixel 10 likely exists because of the EU ruling](https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/)<!-- HN:46062483:end --><!-- HN:46064998:start -->
-* [46064998](https://news.social-protocols.org/stats?id=46064998) #25 3 points 1 comments -> [Vibe coding: What is it good for? Absolutely nothing](https://www.theregister.com/2025/11/24/opinion_column_vibe_coding/)<!-- HN:46064998:end --><!-- HN:46068314:start -->
-* [46068314](https://news.social-protocols.org/stats?id=46068314) #5 5 points 1 comments -> [Why (Senior) Engineers Struggle to Build AI Agents](https://www.philschmid.de/why-engineers-struggle-building-agents)<!-- HN:46068314:end --><!-- HN:46069743:start -->
-* [46069743](https://news.social-protocols.org/stats?id=46069743) #8 32 points 19 comments -> [Don't be a scary old guy: My 40s survival strategy with charm](https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/)<!-- HN:46069743:end --><!-- HN:46069919:start -->
-* [46069919](https://news.social-protocols.org/stats?id=46069919) #2 11 points 4 comments -> [What Happens When You Train Pure Logic Without Knowledge: 15-Expert Moe](https://github.com/vac-architector/VAC-Memory-System/blob/main/LOGICA_MOE_STORY.md)<!-- HN:46069919:end --><!-- HN:46070597:start -->
-* [46070597](https://news.social-protocols.org/stats?id=46070597) #21 5 points 1 comments -> [Face transplants promised hope. Patients were put through the unthinkable](https://www.theguardian.com/science/2025/nov/27/face-transplant-patients-results-outcomes)<!-- HN:46070597:end --><!-- HN:46070842:start -->
-* [46070842](https://news.social-protocols.org/stats?id=46070842) #10 5 points 3 comments -> [It's Been a Very Hard Year](https://bell.bz/its-been-a-very-hard-year/)<!-- HN:46070842:end --><!-- HN:46073862:start -->
-* [46073862](https://news.social-protocols.org/stats?id=46073862) #6 12 points 3 comments -> [Show HN: Whole-home VPN router with hardware kill switch (OpenWrt and WireGuard)](https://github.com/yoloshii/privacy-first-network)<!-- HN:46073862:end --><!-- HN:46073319:start -->
-* [46073319](https://news.social-protocols.org/stats?id=46073319) #25 6 points 1 comments -> [Show HN: No Black Friday – A directory of fair-price brands](https://no-blackfriday.com)<!-- HN:46073319:end -->
 #### **Friday, November 28, 2025**
 <!-- HN:46036124:start -->
 * [46036124](https://news.social-protocols.org/stats?id=46036124) #17 8 points 0 comments -> [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)<!-- HN:46036124:end --><!-- HN:46075575:start -->
