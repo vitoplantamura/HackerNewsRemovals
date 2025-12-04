@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46142296:start -->
 * [46142296](https://news.social-protocols.org/stats?id=46142296) #20 7 points 1 comments -> [PR adding custom progress bar themes to GNOME Bazaar rejected, citing "racism"](https://github.com/kolunmi/bazaar/pull/724)<!-- HN:46142296:end --><!-- HN:46143230:start -->
 * [46143230](https://news.social-protocols.org/stats?id=46143230) #12 13 points 1 comments -> [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium)<!-- HN:46143230:end --><!-- HN:46144752:start -->
-* [46144752](https://news.social-protocols.org/stats?id=46144752) #12 8 points 1 comments -> [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic)<!-- HN:46144752:end -->
+* [46144752](https://news.social-protocols.org/stats?id=46144752) #12 8 points 1 comments -> [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic)<!-- HN:46144752:end --><!-- HN:46146103:start -->
+* [46146103](https://news.social-protocols.org/stats?id=46146103) #21 19 points 41 comments -> [Porn company fined £1M over inadequate age checks (UK)](https://www.bbc.co.uk/news/articles/c93nll07z3go)<!-- HN:46146103:end -->
