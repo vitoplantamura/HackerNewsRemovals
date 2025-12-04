@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46056708](https://news.social-protocols.org/stats?id=46056708) #16 43 points 17 comments -> [Tidyverse: R Packages for Data Science](https://tidyverse.org/)<!-- HN:46056708:end --><!-- HN:46068731:start -->
 * [46068731](https://news.social-protocols.org/stats?id=46068731) #20 15 points 3 comments -> [Solving the Partridge square packing problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)<!-- HN:46068731:end --><!-- HN:46050855:start -->
 * [46050855](https://news.social-protocols.org/stats?id=46050855) #28 148 points 63 comments -> [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)<!-- HN:46050855:end -->
+#### **Thursday, December 4, 2025**
+<!-- HN:46142296:start -->
+* [46142296](https://news.social-protocols.org/stats?id=46142296) #20 7 points 1 comments -> [PR adding custom progress bar themes to GNOME Bazaar rejected, citing "racism"](https://github.com/kolunmi/bazaar/pull/724)<!-- HN:46142296:end -->
