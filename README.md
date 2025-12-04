@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46050855](https://news.social-protocols.org/stats?id=46050855) #28 148 points 63 comments -> [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)<!-- HN:46050855:end -->
 #### **Thursday, December 4, 2025**
 <!-- HN:46142296:start -->
-* [46142296](https://news.social-protocols.org/stats?id=46142296) #20 7 points 1 comments -> [PR adding custom progress bar themes to GNOME Bazaar rejected, citing "racism"](https://github.com/kolunmi/bazaar/pull/724)<!-- HN:46142296:end -->
+* [46142296](https://news.social-protocols.org/stats?id=46142296) #20 7 points 1 comments -> [PR adding custom progress bar themes to GNOME Bazaar rejected, citing "racism"](https://github.com/kolunmi/bazaar/pull/724)<!-- HN:46142296:end --><!-- HN:46143230:start -->
+* [46143230](https://news.social-protocols.org/stats?id=46143230) #12 13 points 1 comments -> [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium)<!-- HN:46143230:end -->
