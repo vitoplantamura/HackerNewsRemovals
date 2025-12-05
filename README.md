@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46151335](https://news.social-protocols.org/stats?id=46151335) #14 54 points 44 comments -> [Hammersmith Bridge – Where did 25,000 vehicles go?](https://nickmaini.substack.com/p/hammersmith-bridge)<!-- HN:46151335:end -->
 #### **Friday, December 5, 2025**
 <!-- HN:46154539:start -->
-* [46154539](https://news.social-protocols.org/stats?id=46154539) #5 34 points 42 comments -> [Coca Cola has an executive dedicated to McDonald's](https://www.coca-colacompany.com/about-us/leadership/roberto-mercade)<!-- HN:46154539:end -->
+* [46154539](https://news.social-protocols.org/stats?id=46154539) #5 34 points 42 comments -> [Coca Cola has an executive dedicated to McDonald's](https://www.coca-colacompany.com/about-us/leadership/roberto-mercade)<!-- HN:46154539:end --><!-- HN:46156046:start -->
+* [46156046](https://news.social-protocols.org/stats?id=46156046) #9 4 points 4 comments -> [You may loose your company email, but never lose your emails and contacts again](https://app.trevally.io/login.html)<!-- HN:46156046:end -->
