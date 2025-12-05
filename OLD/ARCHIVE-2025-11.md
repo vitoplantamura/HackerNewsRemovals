@@ -312,3 +312,13 @@
 * [46070842](https://news.ycombinator.com/item?id=46070842) #10 5 points 3 comments -> [It's Been a Very Hard Year](https://bell.bz/its-been-a-very-hard-year/)<!-- HN:46070842:end --><!-- HN:46073862:start -->
 * [46073862](https://news.ycombinator.com/item?id=46073862) #6 12 points 3 comments -> [Show HN: Whole-home VPN router with hardware kill switch (OpenWrt and WireGuard)](https://github.com/yoloshii/privacy-first-network)<!-- HN:46073862:end --><!-- HN:46073319:start -->
 * [46073319](https://news.ycombinator.com/item?id=46073319) #25 6 points 1 comments -> [Show HN: No Black Friday – A directory of fair-price brands](https://no-blackfriday.com)<!-- HN:46073319:end -->
+#### **Friday, November 28, 2025**
+<!-- HN:46036124:start -->
+* [46036124](https://news.ycombinator.com/item?id=46036124) #17 8 points 0 comments -> [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)<!-- HN:46036124:end --><!-- HN:46075575:start -->
+* [46075575](https://news.ycombinator.com/item?id=46075575) #25 8 points 2 comments -> [Andrew Kelley removed his "monkeys" and "losers" references](https://web.archive.org/web/20251127021007/https://ziglang.org/news/migrating-from-github-to-codeberg/)<!-- HN:46075575:end --><!-- HN:46074729:start -->
+* [46074729](https://news.ycombinator.com/item?id=46074729) #24 10 points 7 comments -> [Overlord: AI accountability that watches over you](https://overlord.app/)<!-- HN:46074729:end --><!-- HN:46080131:start -->
+* [46080131](https://news.ycombinator.com/item?id=46080131) #21 12 points 0 comments -> [The Pro-Israel Information War](https://www.leefang.com/p/inside-the-pro-israel-information)<!-- HN:46080131:end --><!-- HN:46027104:start -->
+* [46027104](https://news.ycombinator.com/item?id=46027104) #24 16 points 4 comments -> [NSA and IETF, Part 2](https://blog.cr.yp.to/20251123-corruption.html)<!-- HN:46027104:end --><!-- HN:46080381:start -->
+* [46080381](https://news.ycombinator.com/item?id=46080381) #30 11 points 5 comments -> [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)<!-- HN:46080381:end --><!-- HN:46079975:start -->
+* [46079975](https://news.ycombinator.com/item?id=46079975) #15 11 points 1 comments -> [Artificial Computation](https://cultureandcommunication.org/galloway/artificial-computation)<!-- HN:46079975:end --><!-- HN:46081956:start -->
+* [46081956](https://news.ycombinator.com/item?id=46081956) #6 20 points 5 comments -> [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)<!-- HN:46081956:end -->

@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, November 28, 2025**
-<!-- HN:46036124:start -->
-* [46036124](https://news.social-protocols.org/stats?id=46036124) #17 8 points 0 comments -> [Modelling Agent Systems with Erlang (2004) [pdf]](https://erlang.org/workshop/2004/carlosvarela.pdf)<!-- HN:46036124:end --><!-- HN:46075575:start -->
-* [46075575](https://news.social-protocols.org/stats?id=46075575) #25 8 points 2 comments -> [Andrew Kelley removed his "monkeys" and "losers" references](https://web.archive.org/web/20251127021007/https://ziglang.org/news/migrating-from-github-to-codeberg/)<!-- HN:46075575:end --><!-- HN:46074729:start -->
-* [46074729](https://news.social-protocols.org/stats?id=46074729) #24 10 points 7 comments -> [Overlord: AI accountability that watches over you](https://overlord.app/)<!-- HN:46074729:end --><!-- HN:46080131:start -->
-* [46080131](https://news.social-protocols.org/stats?id=46080131) #21 12 points 0 comments -> [The Pro-Israel Information War](https://www.leefang.com/p/inside-the-pro-israel-information)<!-- HN:46080131:end --><!-- HN:46027104:start -->
-* [46027104](https://news.social-protocols.org/stats?id=46027104) #24 16 points 4 comments -> [NSA and IETF, Part 2](https://blog.cr.yp.to/20251123-corruption.html)<!-- HN:46027104:end --><!-- HN:46080381:start -->
-* [46080381](https://news.social-protocols.org/stats?id=46080381) #30 11 points 5 comments -> [200 Lines of Python beats $50M supercomputer – Navier-Stokes at Re=10⁸ [pdf]](https://philpapers.org/archive/CAMIIA-3.pdf)<!-- HN:46080381:end --><!-- HN:46079975:start -->
-* [46079975](https://news.social-protocols.org/stats?id=46079975) #15 11 points 1 comments -> [Artificial Computation](https://cultureandcommunication.org/galloway/artificial-computation)<!-- HN:46079975:end --><!-- HN:46081956:start -->
-* [46081956](https://news.social-protocols.org/stats?id=46081956) #6 20 points 5 comments -> [The Google Trends Spike Before the D.C. Shooting Raises New Questions](https://www.allenanalysis.com/p/the-google-trends-spike-before-the)<!-- HN:46081956:end -->
 #### **Saturday, November 29, 2025**<!-- HN:46048327:start -->
 * [46048327](https://news.social-protocols.org/stats?id=46048327) #28 9 points 6 comments -> [DJI ROMO robot vacuum [video]](https://www.youtube.com/watch?v=Iv7BYURURRI)<!-- HN:46048327:end --><!-- HN:46083730:start -->
 * [46083730](https://news.social-protocols.org/stats?id=46083730) #10 20 points 40 comments -> [The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/)<!-- HN:46083730:end --><!-- HN:46083137:start -->
