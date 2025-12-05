@@ -110,3 +110,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46149740](https://news.social-protocols.org/stats?id=46149740) #18 29 points 2 comments -> [The End of the Train-Test Split](https://folio.benguzovsky.com/train-test)<!-- HN:46149740:end --><!-- HN:46153332:start -->
 * [46153332](https://news.social-protocols.org/stats?id=46153332) #18 65 points 24 comments -> [Countdown until the AI bubble bursts](https://pop-the-bubble.xyz/)<!-- HN:46153332:end --><!-- HN:46151335:start -->
 * [46151335](https://news.social-protocols.org/stats?id=46151335) #14 54 points 44 comments -> [Hammersmith Bridge – Where did 25,000 vehicles go?](https://nickmaini.substack.com/p/hammersmith-bridge)<!-- HN:46151335:end -->
+#### **Friday, December 5, 2025**
+<!-- HN:46154539:start -->
+* [46154539](https://news.social-protocols.org/stats?id=46154539) #5 34 points 42 comments -> [Coca Cola has an executive dedicated to McDonald's](https://www.coca-colacompany.com/about-us/leadership/roberto-mercade)<!-- HN:46154539:end -->
