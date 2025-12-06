@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46166248](https://news.social-protocols.org/stats?id=46166248) #7 7 points 0 comments -> [US Supreme Court agrees to hear case challenging birthright citizenship](https://www.bbc.com/news/articles/c208j0wrzrvo)<!-- HN:46166248:end -->
 #### **Saturday, December 6, 2025**
 <!-- HN:46169903:start -->
-* [46169903](https://news.social-protocols.org/stats?id=46169903) #6 9 points 0 comments -> [Five hundred reasons to not use Microsoft Azure](https://azsh.it/500)<!-- HN:46169903:end -->
+* [46169903](https://news.social-protocols.org/stats?id=46169903) #6 9 points 0 comments -> [Five hundred reasons to not use Microsoft Azure](https://azsh.it/500)<!-- HN:46169903:end --><!-- HN:46169355:start -->
+* [46169355](https://news.social-protocols.org/stats?id=46169355) #24 10 points 3 comments -> [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)<!-- HN:46169355:end -->
