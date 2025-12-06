@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46156832](https://news.social-protocols.org/stats?id=46156832) #10 68 points 12 comments -> [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)<!-- HN:46156832:end --><!-- HN:46160613:start -->
 * [46160613](https://news.social-protocols.org/stats?id=46160613) #30 6 points 1 comments -> [Turning 40](https://andreabergia.com/blog/2025/12/turning-40/)<!-- HN:46160613:end --><!-- HN:46166248:start -->
 * [46166248](https://news.social-protocols.org/stats?id=46166248) #7 7 points 0 comments -> [US Supreme Court agrees to hear case challenging birthright citizenship](https://www.bbc.com/news/articles/c208j0wrzrvo)<!-- HN:46166248:end -->
+#### **Saturday, December 6, 2025**
+<!-- HN:46169903:start -->
+* [46169903](https://news.social-protocols.org/stats?id=46169903) #6 9 points 0 comments -> [Five hundred reasons to not use Microsoft Azure](https://azsh.it/500)<!-- HN:46169903:end -->
