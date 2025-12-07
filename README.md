@@ -116,5 +116,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, December 7, 2025**
 <!-- HN:46175871:start -->
 * [46175871](https://news.social-protocols.org/stats?id=46175871) #19 28 points 42 comments -> [Germany votes to bring in voluntary military service programme for 18-year-olds](https://www.bbc.com/news/articles/ckg9drg8pg1o)<!-- HN:46175871:end --><!-- HN:46177714:start -->
-* [46177714](https://news.social-protocols.org/stats?id=46177714) #12 15 points 9 comments -> [A fork of Calibre called Clbre, because the AI is stripped out](https://github.com/grimthorpe/clbre)<!-- HN:46177714:end --><!-- HN:46122921:start -->
-* [46122921](https://news.social-protocols.org/stats?id=46122921) #17 32 points 8 comments -> [Removed Rust to Gain Speed](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0)<!-- HN:46122921:end -->
+* [46177714](https://news.social-protocols.org/stats?id=46177714) #12 15 points 9 comments -> [A fork of Calibre called Clbre, because the AI is stripped out](https://github.com/grimthorpe/clbre)<!-- HN:46177714:end -->
