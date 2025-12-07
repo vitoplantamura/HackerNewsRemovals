@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, December 7, 2025**
 <!-- HN:46177714:start -->
 * [46177714](https://news.social-protocols.org/stats?id=46177714) #12 15 points 9 comments -> [A fork of Calibre called Clbre, because the AI is stripped out](https://github.com/grimthorpe/clbre)<!-- HN:46177714:end --><!-- HN:46179339:start -->
-* [46179339](https://news.social-protocols.org/stats?id=46179339) #23 6 points 0 comments -> [For US Businesses, Tariff Complexity Is "Death by a Thousand Papercuts"](https://www.cato.org/blog/us-businesses-tariff-complexity-death-thousand-papercuts)<!-- HN:46179339:end -->
+* [46179339](https://news.social-protocols.org/stats?id=46179339) #23 6 points 0 comments -> [For US Businesses, Tariff Complexity Is "Death by a Thousand Papercuts"](https://www.cato.org/blog/us-businesses-tariff-complexity-death-thousand-papercuts)<!-- HN:46179339:end --><!-- HN:46182084:start -->
+* [46182084](https://news.social-protocols.org/stats?id=46182084) #7 19 points 4 comments -> [Three-year-old forced to serve as her own attorney in Tucson immigration court](https://coppercourier.com/2025/12/05/childrens-immigration-court/)<!-- HN:46182084:end -->
