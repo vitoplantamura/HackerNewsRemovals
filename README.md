@@ -114,7 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46175481](https://news.social-protocols.org/stats?id=46175481) #7 11 points 8 comments -> [Fefe is back](http://blog.fefe.de/)<!-- HN:46175481:end --><!-- HN:46176641:start -->
 * [46176641](https://news.social-protocols.org/stats?id=46176641) #27 5 points 0 comments -> [Why there are no cracked biotechnologists?](https://partialagonism.substack.com/p/why-there-are-no-cracked-biotechnologists)<!-- HN:46176641:end -->
 #### **Sunday, December 7, 2025**
-<!-- HN:46175871:start -->
-* [46175871](https://news.social-protocols.org/stats?id=46175871) #19 28 points 42 comments -> [Germany votes to bring in voluntary military service programme for 18-year-olds](https://www.bbc.com/news/articles/ckg9drg8pg1o)<!-- HN:46175871:end --><!-- HN:46177714:start -->
+<!-- HN:46177714:start -->
 * [46177714](https://news.social-protocols.org/stats?id=46177714) #12 15 points 9 comments -> [A fork of Calibre called Clbre, because the AI is stripped out](https://github.com/grimthorpe/clbre)<!-- HN:46177714:end --><!-- HN:46179339:start -->
 * [46179339](https://news.social-protocols.org/stats?id=46179339) #23 6 points 0 comments -> [For US Businesses, Tariff Complexity Is "Death by a Thousand Papercuts"](https://www.cato.org/blog/us-businesses-tariff-complexity-death-thousand-papercuts)<!-- HN:46179339:end -->
