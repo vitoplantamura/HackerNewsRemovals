@@ -106,8 +106,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, December 6, 2025**
 <!-- HN:46169903:start -->
 * [46169903](https://news.social-protocols.org/stats?id=46169903) #6 9 points 0 comments -> [Five hundred reasons to not use Microsoft Azure](https://azsh.it/500)<!-- HN:46169903:end --><!-- HN:46169355:start -->
-* [46169355](https://news.social-protocols.org/stats?id=46169355) #24 10 points 3 comments -> [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)<!-- HN:46169355:end --><!-- HN:46172312:start -->
-* [46172312](https://news.social-protocols.org/stats?id=46172312) #9 21 points 40 comments -> [How America's "truck-driver shortage" made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape)<!-- HN:46172312:end --><!-- HN:46173677:start -->
+* [46169355](https://news.social-protocols.org/stats?id=46169355) #24 10 points 3 comments -> [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)<!-- HN:46169355:end --><!-- HN:46173677:start -->
 * [46173677](https://news.social-protocols.org/stats?id=46173677) #13 11 points 2 comments -> [Decades-old study on common weed killer retracted](https://www.cbc.ca/news/health/glyphosate-retraction-9.7004363)<!-- HN:46173677:end --><!-- HN:46173785:start -->
 * [46173785](https://news.social-protocols.org/stats?id=46173785) #12 8 points 3 comments -> [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)<!-- HN:46173785:end --><!-- HN:46174878:start -->
 * [46174878](https://news.social-protocols.org/stats?id=46174878) #6 10 points 2 comments -> [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang)<!-- HN:46174878:end --><!-- HN:46175116:start -->
