@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46175116](https://news.social-protocols.org/stats?id=46175116) #5 24 points 3 comments -> [Show HN: I made a tool to make PDFs look scanned because bureaucracy](https://github.com/Francium-Tech/scanify)<!-- HN:46175116:end --><!-- HN:46175481:start -->
 * [46175481](https://news.social-protocols.org/stats?id=46175481) #7 11 points 8 comments -> [Fefe is back](http://blog.fefe.de/)<!-- HN:46175481:end --><!-- HN:46176641:start -->
 * [46176641](https://news.social-protocols.org/stats?id=46176641) #27 5 points 0 comments -> [Why there are no cracked biotechnologists?](https://partialagonism.substack.com/p/why-there-are-no-cracked-biotechnologists)<!-- HN:46176641:end -->
+#### **Sunday, December 7, 2025**
+<!-- HN:46175871:start -->
+* [46175871](https://news.social-protocols.org/stats?id=46175871) #19 28 points 42 comments -> [Germany votes to bring in voluntary military service programme for 18-year-olds](https://www.bbc.com/news/articles/ckg9drg8pg1o)<!-- HN:46175871:end -->
