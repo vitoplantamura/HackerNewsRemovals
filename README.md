@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46185210](https://news.social-protocols.org/stats?id=46185210) #20 7 points 1 comments -> [The Ways the AI Bubble Might Burst](https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/)<!-- HN:46185210:end --><!-- HN:46185393:start -->
 * [46185393](https://news.social-protocols.org/stats?id=46185393) #1 32 points 19 comments -> [F-35 Fighter Jet's C++ Coding Standards [pdf]](https://www.stroustrup.com/JSF-AV-rules.pdf)<!-- HN:46185393:end --><!-- HN:46186573:start -->
 * [46186573](https://news.social-protocols.org/stats?id=46186573) #22 6 points 3 comments -> [FL Governor Announces Proposal for Citizen Bill of Rights for AI](https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-announces-proposal-citizen-bill-rights-artificial)<!-- HN:46186573:end -->
+#### **Monday, December 8, 2025**
+<!-- HN:46188451:start -->
+* [46188451](https://news.social-protocols.org/stats?id=46188451) #21 9 points 0 comments -> [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)<!-- HN:46188451:end -->
