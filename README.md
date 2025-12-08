@@ -109,5 +109,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46185393](https://news.social-protocols.org/stats?id=46185393) #1 32 points 19 comments -> [F-35 Fighter Jet's C++ Coding Standards [pdf]](https://www.stroustrup.com/JSF-AV-rules.pdf)<!-- HN:46185393:end --><!-- HN:46186573:start -->
 * [46186573](https://news.social-protocols.org/stats?id=46186573) #22 6 points 3 comments -> [FL Governor Announces Proposal for Citizen Bill of Rights for AI](https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-announces-proposal-citizen-bill-rights-artificial)<!-- HN:46186573:end -->
 #### **Monday, December 8, 2025**<!-- HN:46191826:start -->
-* [46191826](https://news.social-protocols.org/stats?id=46191826) #2 10 points 13 comments -> [Pantone Color of the Year 2026: Pantone 11-4201 Cloud Dancer](https://www.pantone.com/color-of-the-year/2026)<!-- HN:46191826:end --><!-- HN:46191933:start -->
-* [46191933](https://news.social-protocols.org/stats?id=46191933) #2 2 points 0 comments -> [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)<!-- HN:46191933:end -->
+* [46191826](https://news.social-protocols.org/stats?id=46191826) #2 10 points 13 comments -> [Pantone Color of the Year 2026: Pantone 11-4201 Cloud Dancer](https://www.pantone.com/color-of-the-year/2026)<!-- HN:46191826:end -->
