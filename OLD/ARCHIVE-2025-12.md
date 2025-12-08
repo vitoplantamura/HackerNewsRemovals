@@ -1,0 +1,14 @@
+#### **Monday, December 1, 2025**
+<!-- HN:46053787:start -->
+* [46053787](https://news.ycombinator.com/item?id=46053787) #24 26 points 6 comments -> [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)<!-- HN:46053787:end --><!-- HN:46100566:start -->
+* [46100566](https://news.ycombinator.com/item?id=46100566) #14 24 points 40 comments -> [Stackoverflow Outage](https://www.stackstatus.net/)<!-- HN:46100566:end --><!-- HN:46101949:start -->
+* [46101949](https://news.ycombinator.com/item?id=46101949) #27 75 points 61 comments -> [Grokipedia Is the Antithesis of Wikipedia](https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/)<!-- HN:46101949:end --><!-- HN:46102267:start -->
+* [46102267](https://news.ycombinator.com/item?id=46102267) #30 7 points 0 comments -> [Stopping evil and open source: thoughts](https://blog.liw.fi/posts/2025/stop-evil/)<!-- HN:46102267:end --><!-- HN:46103811:start -->
+* [46103811](https://news.ycombinator.com/item?id=46103811) #2 42 points 8 comments -> [Google Antigravity Deletes D Drive](https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052)<!-- HN:46103811:end --><!-- HN:46105896:start -->
+* [46105896](https://news.ycombinator.com/item?id=46105896) #14 19 points 12 comments -> [Why Is ChatGPT for Mac So Good?](https://allenpike.com/2025/why-is-chatgpt-so-good-claude)<!-- HN:46105896:end --><!-- HN:46106629:start -->
+* [46106629](https://news.ycombinator.com/item?id=46106629) #12 14 points 2 comments -> [WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests](https://www.bbc.com/news/articles/czrk7g50e1po)<!-- HN:46106629:end --><!-- HN:46108892:start -->
+* [46108892](https://news.ycombinator.com/item?id=46108892) #12 15 points 11 comments -> [Show HN: I built a 1.8MB native app with self-built UI, vision and AI libraries](https://github.com/Okery/Aivition)<!-- HN:46108892:end --><!-- HN:46039140:start -->
+* [46039140](https://news.ycombinator.com/item?id=46039140) #7 159 points 84 comments -> [Isn't WSL2 just a VM?](https://ssg.dev/isnt-wsl2-just-a-vm/)<!-- HN:46039140:end --><!-- HN:46039594:start -->
+* [46039594](https://news.ycombinator.com/item?id=46039594) #21 119 points 57 comments -> [I made a quieter air purifier](https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier)<!-- HN:46039594:end --><!-- HN:46040623:start -->
+* [46040623](https://news.ycombinator.com/item?id=46040623) #23 30 points 38 comments -> [How we built the v0 iOS app](https://vercel.com/blog/how-we-built-the-v0-ios-app)<!-- HN:46040623:end --><!-- HN:46056700:start -->
+* [46056700](https://news.ycombinator.com/item?id=46056700) #15 7 points 1 comments -> [Genesis DB is a event sourcing database and there are the technical insights](https://docs.genesisdb.io/technical-insights)<!-- HN:46056700:end -->
