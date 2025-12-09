@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, December 2, 2025**
-<!-- HN:46115608:start -->
-* [46115608](https://news.social-protocols.org/stats?id=46115608) #10 3 points 1 comments -> [Artisanal Coding Is Dead, Long Live Artisanal Coding](https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/)<!-- HN:46115608:end --><!-- HN:46112906:start -->
-* [46112906](https://news.social-protocols.org/stats?id=46112906) #1 314 points 151 comments -> ["How to Attend Meetings" – Internal Guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)<!-- HN:46112906:end --><!-- HN:46058980:start -->
-* [46058980](https://news.social-protocols.org/stats?id=46058980) #20 6 points 1 comments -> [Myths of Fleming's Penicillin Discovery](https://press.asimov.com/articles/penicillin-myth)<!-- HN:46058980:end --><!-- HN:46118195:start -->
-* [46118195](https://news.social-protocols.org/stats?id=46118195) #9 7 points 4 comments -> [Beej's Guide to C Programming](https://beej.us/guide/bgc/)<!-- HN:46118195:end --><!-- HN:46117280:start -->
-* [46117280](https://news.social-protocols.org/stats?id=46117280) #2 147 points 22 comments -> [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)<!-- HN:46117280:end --><!-- HN:46120728:start -->
-* [46120728](https://news.social-protocols.org/stats?id=46120728) #18 32 points 40 comments -> [Gary Tan claims Zoho will be out of business due to vibe coding](https://twitter.com/garrytan/status/1995664097007091818)<!-- HN:46120728:end --><!-- HN:46123469:start -->
-* [46123469](https://news.social-protocols.org/stats?id=46123469) #5 15 points 3 comments -> [API GitHub Meta](https://api.github.com/meta)<!-- HN:46123469:end --><!-- HN:46086587:start -->
-* [46086587](https://news.social-protocols.org/stats?id=46086587) #21 5 points 8 comments -> [Free Nano Banana Pro](https://www.freenanobanana.app)<!-- HN:46086587:end --><!-- HN:46088823:start -->
-* [46088823](https://news.social-protocols.org/stats?id=46088823) #23 7 points 3 comments -> [Show HN: Rhubarb – C89 Libraries in Latin](https://github.com/farant/rhubarb)<!-- HN:46088823:end -->
 #### **Wednesday, December 3, 2025**
 <!-- HN:46136067:start -->
 * [46136067](https://news.social-protocols.org/stats?id=46136067) #13 120 points 51 comments -> [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)<!-- HN:46136067:end --><!-- HN:46138101:start -->
