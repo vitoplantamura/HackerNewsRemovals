@@ -104,3 +104,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46193413](https://news.social-protocols.org/stats?id=46193413) #1 128 points 2 comments -> [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)<!-- HN:46193413:end --><!-- HN:46193035:start -->
 * [46193035](https://news.social-protocols.org/stats?id=46193035) #4 129 points 1 comments -> [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)<!-- HN:46193035:end --><!-- HN:46195205:start -->
 * [46195205](https://news.social-protocols.org/stats?id=46195205) #10 5 points 1 comments -> ["The Matilda Effect": How Pioneering Women Are Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)<!-- HN:46195205:end -->
+#### **Tuesday, December 9, 2025**
+<!-- HN:46200420:start -->
+* [46200420](https://news.social-protocols.org/stats?id=46200420) #4 18 points 7 comments -> [The power of proximity to coworkers [pdf]](https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf)<!-- HN:46200420:end -->
