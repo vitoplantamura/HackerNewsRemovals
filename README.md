@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46210994](https://news.social-protocols.org/stats?id=46210994) #10 6 points 3 comments -> [Canada's US Travel Boycott Is Backfiring in the Most Unexpected Way at US Border](https://www.thetravel.com/canadas-us-travel-boycott-is-backfiring-canadians-face-more-detailed-border-controls/)<!-- HN:46210994:end -->
 #### **Wednesday, December 10, 2025**
 <!-- HN:46212325:start -->
-* [46212325](https://news.social-protocols.org/stats?id=46212325) #6 8 points 1 comments -> [US International Trade Administration Shaped EU Censorship Against US Companies](https://foundationforfreedomonline.com/us-international-trade-administration-shaped-eu-censorship-law/)<!-- HN:46212325:end -->
+* [46212325](https://news.social-protocols.org/stats?id=46212325) #6 8 points 1 comments -> [US International Trade Administration Shaped EU Censorship Against US Companies](https://foundationforfreedomonline.com/us-international-trade-administration-shaped-eu-censorship-law/)<!-- HN:46212325:end --><!-- HN:46213161:start -->
+* [46213161](https://news.social-protocols.org/stats?id=46213161) #21 5 points 0 comments -> [Google kills Gemini Cloud Services (2035)](https://sw.vtom.net/hn35/item.html?id=90099555)<!-- HN:46213161:end -->
