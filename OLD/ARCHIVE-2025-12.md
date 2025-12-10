@@ -23,3 +23,13 @@
 * [46123469](https://news.ycombinator.com/item?id=46123469) #5 15 points 3 comments -> [API GitHub Meta](https://api.github.com/meta)<!-- HN:46123469:end --><!-- HN:46086587:start -->
 * [46086587](https://news.ycombinator.com/item?id=46086587) #21 5 points 8 comments -> [Free Nano Banana Pro](https://www.freenanobanana.app)<!-- HN:46086587:end --><!-- HN:46088823:start -->
 * [46088823](https://news.ycombinator.com/item?id=46088823) #23 7 points 3 comments -> [Show HN: Rhubarb – C89 Libraries in Latin](https://github.com/farant/rhubarb)<!-- HN:46088823:end -->
+#### **Wednesday, December 3, 2025**
+<!-- HN:46136067:start -->
+* [46136067](https://news.ycombinator.com/item?id=46136067) #13 120 points 51 comments -> [Critical RCE Vulnerabilities in React and Next.js](https://www.wiz.io/blog/critical-vulnerability-in-react-cve-2025-55182)<!-- HN:46136067:end --><!-- HN:46138101:start -->
+* [46138101](https://news.ycombinator.com/item?id=46138101) #11 8 points 5 comments -> [TSA's New $45 Fee at U.S. Airports Unfairly Punishes Families in the Fine Print](https://www.thetravel.com/new-tsa-45-usd-fee-for-americans-without-real-id-or-passport-penalizes-families-the-most/)<!-- HN:46138101:end --><!-- HN:46138214:start -->
+* [46138214](https://news.ycombinator.com/item?id=46138214) #8 7 points 1 comments -> [Private employers shed 32,000 jobs in November](https://adpemploymentreport.com)<!-- HN:46138214:end --><!-- HN:46136901:start -->
+* [46136901](https://news.ycombinator.com/item?id=46136901) #1 284 points 161 comments -> [Steam Deck lead reveals Valve is funding ARM compatibility of Windows games](https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/)<!-- HN:46136901:end --><!-- HN:46138984:start -->
+* [46138984](https://news.ycombinator.com/item?id=46138984) #24 6 points 0 comments -> [No room for error – A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)<!-- HN:46138984:end --><!-- HN:46056708:start -->
+* [46056708](https://news.ycombinator.com/item?id=46056708) #16 43 points 17 comments -> [Tidyverse: R Packages for Data Science](https://tidyverse.org/)<!-- HN:46056708:end --><!-- HN:46068731:start -->
+* [46068731](https://news.ycombinator.com/item?id=46068731) #20 15 points 3 comments -> [Solving the Partridge square packing problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)<!-- HN:46068731:end --><!-- HN:46050855:start -->
+* [46050855](https://news.ycombinator.com/item?id=46050855) #28 148 points 63 comments -> [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)<!-- HN:46050855:end -->
