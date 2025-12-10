@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46212325:start -->
 * [46212325](https://news.social-protocols.org/stats?id=46212325) #6 8 points 1 comments -> [US International Trade Administration Shaped EU Censorship Against US Companies](https://foundationforfreedomonline.com/us-international-trade-administration-shaped-eu-censorship-law/)<!-- HN:46212325:end --><!-- HN:46213161:start -->
 * [46213161](https://news.social-protocols.org/stats?id=46213161) #21 5 points 0 comments -> [Google kills Gemini Cloud Services (2035)](https://sw.vtom.net/hn35/item.html?id=90099555)<!-- HN:46213161:end --><!-- HN:46171463:start -->
-* [46171463](https://news.social-protocols.org/stats?id=46171463) #19 29 points 12 comments -> [Very Important People](https://dirt.fyi/article/2025/11/very-important-people)<!-- HN:46171463:end -->
+* [46171463](https://news.social-protocols.org/stats?id=46171463) #19 29 points 12 comments -> [Very Important People](https://dirt.fyi/article/2025/11/very-important-people)<!-- HN:46171463:end --><!-- HN:46215688:start -->
+* [46215688](https://news.social-protocols.org/stats?id=46215688) #28 28 points 40 comments -> [Big Tech are the new Soviets](https://unherd.com/2025/12/big-tech-are-the-new-soviets/)<!-- HN:46215688:end -->
