@@ -104,5 +104,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46210994](https://news.social-protocols.org/stats?id=46210994) #10 6 points 3 comments -> [Canada's US Travel Boycott Is Backfiring in the Most Unexpected Way at US Border](https://www.thetravel.com/canadas-us-travel-boycott-is-backfiring-canadians-face-more-detailed-border-controls/)<!-- HN:46210994:end -->
 #### **Wednesday, December 10, 2025**
 <!-- HN:46212325:start -->
-* [46212325](https://news.social-protocols.org/stats?id=46212325) #6 8 points 1 comments -> [US International Trade Administration Shaped EU Censorship Against US Companies](https://foundationforfreedomonline.com/us-international-trade-administration-shaped-eu-censorship-law/)<!-- HN:46212325:end --><!-- HN:46211953:start -->
-* [46211953](https://news.social-protocols.org/stats?id=46211953) #18 9 points 2 comments -> [Show HN: Gemini 3 imagines Hacker News as a HyperCard stack in 1994](https://hyper-card-hacker-news.vercel.app/)<!-- HN:46211953:end -->
+* [46212325](https://news.social-protocols.org/stats?id=46212325) #6 8 points 1 comments -> [US International Trade Administration Shaped EU Censorship Against US Companies](https://foundationforfreedomonline.com/us-international-trade-administration-shaped-eu-censorship-law/)<!-- HN:46212325:end -->
