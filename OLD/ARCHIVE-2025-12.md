@@ -33,3 +33,13 @@
 * [46056708](https://news.ycombinator.com/item?id=46056708) #16 43 points 17 comments -> [Tidyverse: R Packages for Data Science](https://tidyverse.org/)<!-- HN:46056708:end --><!-- HN:46068731:start -->
 * [46068731](https://news.ycombinator.com/item?id=46068731) #20 15 points 3 comments -> [Solving the Partridge square packing problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)<!-- HN:46068731:end --><!-- HN:46050855:start -->
 * [46050855](https://news.ycombinator.com/item?id=46050855) #28 148 points 63 comments -> [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)<!-- HN:46050855:end -->
+#### **Thursday, December 4, 2025**
+<!-- HN:46142296:start -->
+* [46142296](https://news.ycombinator.com/item?id=46142296) #20 7 points 1 comments -> [PR adding custom progress bar themes to GNOME Bazaar rejected, citing "racism"](https://github.com/kolunmi/bazaar/pull/724)<!-- HN:46142296:end --><!-- HN:46143230:start -->
+* [46143230](https://news.ycombinator.com/item?id=46143230) #12 13 points 1 comments -> [Cellebrite to Acquire Corellium](https://www.corellium.com/blog/cellebrite-to-acquire-corellium)<!-- HN:46143230:end --><!-- HN:46144752:start -->
+* [46144752](https://news.ycombinator.com/item?id=46144752) #12 8 points 1 comments -> [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic)<!-- HN:46144752:end --><!-- HN:46146103:start -->
+* [46146103](https://news.ycombinator.com/item?id=46146103) #21 19 points 41 comments -> [Porn company fined £1M over inadequate age checks (UK)](https://www.bbc.co.uk/news/articles/c93nll07z3go)<!-- HN:46146103:end --><!-- HN:46095819:start -->
+* [46095819](https://news.ycombinator.com/item?id=46095819) #22 14 points 1 comments -> [FLUX.2](https://bfl.ai/models/flux-2)<!-- HN:46095819:end --><!-- HN:46149740:start -->
+* [46149740](https://news.ycombinator.com/item?id=46149740) #18 29 points 2 comments -> [The End of the Train-Test Split](https://folio.benguzovsky.com/train-test)<!-- HN:46149740:end --><!-- HN:46153332:start -->
+* [46153332](https://news.ycombinator.com/item?id=46153332) #18 65 points 24 comments -> [Countdown until the AI bubble bursts](https://pop-the-bubble.xyz/)<!-- HN:46153332:end --><!-- HN:46151335:start -->
+* [46151335](https://news.ycombinator.com/item?id=46151335) #14 54 points 44 comments -> [Hammersmith Bridge – Where did 25,000 vehicles go?](https://nickmaini.substack.com/p/hammersmith-bridge)<!-- HN:46151335:end -->
