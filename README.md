@@ -105,5 +105,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46224610](https://news.social-protocols.org/stats?id=46224610) #15 57 points 47 comments -> [Rubio orders return to Times New Roman font over 'wasteful' Calibri](https://www.bbc.com/news/articles/cgkez3367xmo)<!-- HN:46224610:end --><!-- HN:46173584:start -->
 * [46173584](https://news.social-protocols.org/stats?id=46173584) #29 11 points 6 comments -> [Resolution Dynamics: Deriving the Fine Structure Constant from Shannon Capacity](https://zenodo.org/records/17821936)<!-- HN:46173584:end -->
 #### **Thursday, December 11, 2025**
-<!-- HN:46144039:start -->
-* [46144039](https://news.social-protocols.org/stats?id=46144039) #28 9 points 40 comments -> [Should CSS Be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)<!-- HN:46144039:end -->
