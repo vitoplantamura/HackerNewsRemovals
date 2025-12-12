@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, December 5, 2025**
-<!-- HN:46154539:start -->
-* [46154539](https://news.social-protocols.org/stats?id=46154539) #5 34 points 42 comments -> [Coca Cola has an executive dedicated to McDonald's](https://www.coca-colacompany.com/about-us/leadership/roberto-mercade)<!-- HN:46154539:end --><!-- HN:46156046:start -->
-* [46156046](https://news.social-protocols.org/stats?id=46156046) #9 4 points 4 comments -> [You may loose your company email, but never lose your emails and contacts again](https://app.trevally.io/login.html)<!-- HN:46156046:end --><!-- HN:46156880:start -->
-* [46156880](https://news.social-protocols.org/stats?id=46156880) #26 61 points 4 comments -> [Netflix in exclusive talks to buy HBO](https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery)<!-- HN:46156880:end --><!-- HN:46157648:start -->
-* [46157648](https://news.social-protocols.org/stats?id=46157648) #27 9 points 5 comments -> [Undisclosed Deaths in the Pfizer mRNA Covid-19 Vaccine Trial [pdf]](https://jpands.org/vol30no4/kunadhasan.pdf)<!-- HN:46157648:end --><!-- HN:46110291:start -->
-* [46110291](https://news.social-protocols.org/stats?id=46110291) #23 3 points 0 comments -> [How many bytes does gzip compress?](https://www.awsistoohard.com/blog/gzip-is-cracked)<!-- HN:46110291:end --><!-- HN:46158846:start -->
-* [46158846](https://news.social-protocols.org/stats?id=46158846) #16 9 points 3 comments -> [Four countries to boycott Eurovision 2026 as Israel cleared to compete](https://www.theguardian.com/tv-and-radio/2025/dec/04/ireland-spain-and-the-netherlands-to-boycott-eurovision-2026-as-israel-cleared-to-compete)<!-- HN:46158846:end --><!-- HN:46158338:start -->
-* [46158338](https://news.social-protocols.org/stats?id=46158338) #2 -> [Cloudflare Is Down](https://cloudflare.com/)<!-- HN:46158338:end --><!-- HN:46158920:start -->
-* [46158920](https://news.social-protocols.org/stats?id=46158920) #13 12 points 0 comments -> [Awful AI is a curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)<!-- HN:46158920:end --><!-- HN:46156645:start -->
-* [46156645](https://news.social-protocols.org/stats?id=46156645) #20 62 points 139 comments -> [Warner Bros Begins Exclusive Deal Talks With Netflix](https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix)<!-- HN:46156645:end --><!-- HN:46156832:start -->
-* [46156832](https://news.social-protocols.org/stats?id=46156832) #10 68 points 12 comments -> [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)<!-- HN:46156832:end --><!-- HN:46160613:start -->
-* [46160613](https://news.social-protocols.org/stats?id=46160613) #30 6 points 1 comments -> [Turning 40](https://andreabergia.com/blog/2025/12/turning-40/)<!-- HN:46160613:end --><!-- HN:46166248:start -->
-* [46166248](https://news.social-protocols.org/stats?id=46166248) #7 7 points 0 comments -> [US Supreme Court agrees to hear case challenging birthright citizenship](https://www.bbc.com/news/articles/c208j0wrzrvo)<!-- HN:46166248:end -->
 #### **Saturday, December 6, 2025**
 <!-- HN:46169903:start -->
 * [46169903](https://news.social-protocols.org/stats?id=46169903) #6 9 points 0 comments -> [Five hundred reasons to not use Microsoft Azure](https://azsh.it/500)<!-- HN:46169903:end --><!-- HN:46169355:start -->
