@@ -99,3 +99,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46231585](https://news.social-protocols.org/stats?id=46231585) #19 318 points 2 comments -> [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)<!-- HN:46231585:end --><!-- HN:46237515:start -->
 * [46237515](https://news.social-protocols.org/stats?id=46237515) #6 19 points 1 comments -> [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)<!-- HN:46237515:end --><!-- HN:46237527:start -->
 * [46237527](https://news.social-protocols.org/stats?id=46237527) #4 27 points 1 comments -> [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)<!-- HN:46237527:end -->
+#### **Friday, December 12, 2025**
+<!-- HN:46236738:start -->
+* [46236738](https://news.social-protocols.org/stats?id=46236738) #26 329 points 325 comments -> [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)<!-- HN:46236738:end -->
