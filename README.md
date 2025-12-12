@@ -102,4 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, December 12, 2025**
 <!-- HN:46236738:start -->
 * [46236738](https://news.social-protocols.org/stats?id=46236738) #26 329 points 325 comments -> [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)<!-- HN:46236738:end --><!-- HN:46175894:start -->
-* [46175894](https://news.social-protocols.org/stats?id=46175894) #20 3 points 1 comments -> [One Last Trip: Traveling with my brother's remains (2022)](https://www.thecut.com/2022/03/traveling-brothers-remains.html)<!-- HN:46175894:end -->
+* [46175894](https://news.social-protocols.org/stats?id=46175894) #20 3 points 1 comments -> [One Last Trip: Traveling with my brother's remains (2022)](https://www.thecut.com/2022/03/traveling-brothers-remains.html)<!-- HN:46175894:end --><!-- HN:46154190:start -->
+* [46154190](https://news.social-protocols.org/stats?id=46154190) #21 18 points 2 comments -> [Tile IR Specification](https://docs.nvidia.com/cuda/tile-ir/)<!-- HN:46154190:end --><!-- HN:46138534:start -->
+* [46138534](https://news.social-protocols.org/stats?id=46138534) #26 13 points 2 comments -> [The Invisible Cost: From Creator to Consumer](https://edwardnoaland.substack.com/p/the-invisible-cost-from-creator-to)<!-- HN:46138534:end -->
