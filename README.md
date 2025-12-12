@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46237527](https://news.social-protocols.org/stats?id=46237527) #4 27 points 1 comments -> [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)<!-- HN:46237527:end -->
 #### **Friday, December 12, 2025**
 <!-- HN:46236738:start -->
-* [46236738](https://news.social-protocols.org/stats?id=46236738) #26 329 points 325 comments -> [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)<!-- HN:46236738:end -->
+* [46236738](https://news.social-protocols.org/stats?id=46236738) #26 329 points 325 comments -> [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)<!-- HN:46236738:end --><!-- HN:46175894:start -->
+* [46175894](https://news.social-protocols.org/stats?id=46175894) #20 3 points 1 comments -> [One Last Trip: Traveling with my brother's remains (2022)](https://www.thecut.com/2022/03/traveling-brothers-remains.html)<!-- HN:46175894:end -->
