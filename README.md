@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, December 13, 2025**
 <!-- HN:46249834:start -->
 * [46249834](https://news.social-protocols.org/stats?id=46249834) #24 16 points 4 comments -> [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)<!-- HN:46249834:end --><!-- HN:46192924:start -->
-* [46192924](https://news.social-protocols.org/stats?id=46192924) #29 7 points 3 comments -> [How we built context management for tab completion](https://docs.getpochi.com/developer-updates/context-management-in-your-editor/)<!-- HN:46192924:end -->
+* [46192924](https://news.social-protocols.org/stats?id=46192924) #29 7 points 3 comments -> [How we built context management for tab completion](https://docs.getpochi.com/developer-updates/context-management-in-your-editor/)<!-- HN:46192924:end --><!-- HN:46251852:start -->
+* [46251852](https://news.social-protocols.org/stats?id=46251852) #26 -> [Show HN: Claude Code Recipes for Knowledge Workers (Open Source)](https://github.com/sgharlow/claude-code-recipes)<!-- HN:46251852:end -->
