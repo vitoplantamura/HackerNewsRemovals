@@ -57,3 +57,13 @@
 * [46156832](https://news.ycombinator.com/item?id=46156832) #10 68 points 12 comments -> [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)<!-- HN:46156832:end --><!-- HN:46160613:start -->
 * [46160613](https://news.ycombinator.com/item?id=46160613) #30 6 points 1 comments -> [Turning 40](https://andreabergia.com/blog/2025/12/turning-40/)<!-- HN:46160613:end --><!-- HN:46166248:start -->
 * [46166248](https://news.ycombinator.com/item?id=46166248) #7 7 points 0 comments -> [US Supreme Court agrees to hear case challenging birthright citizenship](https://www.bbc.com/news/articles/c208j0wrzrvo)<!-- HN:46166248:end -->
+#### **Saturday, December 6, 2025**
+<!-- HN:46169903:start -->
+* [46169903](https://news.ycombinator.com/item?id=46169903) #6 9 points 0 comments -> [Five hundred reasons to not use Microsoft Azure](https://azsh.it/500)<!-- HN:46169903:end --><!-- HN:46169355:start -->
+* [46169355](https://news.ycombinator.com/item?id=46169355) #24 10 points 3 comments -> [From Rockets to Heat Pumps](https://www.heatpumped.org/p/from-rockets-to-heat-pumps)<!-- HN:46169355:end --><!-- HN:46173677:start -->
+* [46173677](https://news.ycombinator.com/item?id=46173677) #13 11 points 2 comments -> [Decades-old study on common weed killer retracted](https://www.cbc.ca/news/health/glyphosate-retraction-9.7004363)<!-- HN:46173677:end --><!-- HN:46173785:start -->
+* [46173785](https://news.ycombinator.com/item?id=46173785) #12 8 points 3 comments -> [Carlo is no longer maintained](https://github.com/GoogleChromeLabs/carlo)<!-- HN:46173785:end --><!-- HN:46174878:start -->
+* [46174878](https://news.ycombinator.com/item?id=46174878) #6 10 points 2 comments -> [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang)<!-- HN:46174878:end --><!-- HN:46175116:start -->
+* [46175116](https://news.ycombinator.com/item?id=46175116) #5 24 points 3 comments -> [Show HN: I made a tool to make PDFs look scanned because bureaucracy](https://github.com/Francium-Tech/scanify)<!-- HN:46175116:end --><!-- HN:46175481:start -->
+* [46175481](https://news.ycombinator.com/item?id=46175481) #7 11 points 8 comments -> [Fefe is back](http://blog.fefe.de/)<!-- HN:46175481:end --><!-- HN:46176641:start -->
+* [46176641](https://news.ycombinator.com/item?id=46176641) #27 5 points 0 comments -> [Why there are no cracked biotechnologists?](https://partialagonism.substack.com/p/why-there-are-no-cracked-biotechnologists)<!-- HN:46176641:end -->
