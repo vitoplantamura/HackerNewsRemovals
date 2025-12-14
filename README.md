@@ -106,5 +106,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, December 14, 2025**
 <!-- HN:46178966:start -->
 * [46178966](https://news.social-protocols.org/stats?id=46178966) #25 4 points 2 comments -> [Rio de Janeiro's talipot palm trees bloom for the first and only time](https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html)<!-- HN:46178966:end --><!-- HN:46261739:start -->
-* [46261739](https://news.social-protocols.org/stats?id=46261739) #2 56 points 34 comments -> [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)<!-- HN:46261739:end --><!-- HN:46262524:start -->
-* [46262524](https://news.social-protocols.org/stats?id=46262524) #2 44 points 5 comments -> [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)<!-- HN:46262524:end -->
+* [46261739](https://news.social-protocols.org/stats?id=46261739) #2 56 points 34 comments -> [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)<!-- HN:46261739:end -->
