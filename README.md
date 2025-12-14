@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46259102](https://news.social-protocols.org/stats?id=46259102) #2 15 points 0 comments -> [Multiple shootings by active shooter at Brown University](https://www.brown.edu/)<!-- HN:46259102:end -->
 #### **Sunday, December 14, 2025**
 <!-- HN:46259233:start -->
-* [46259233](https://news.social-protocols.org/stats?id=46259233) #11 22 points 40 comments -> [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)<!-- HN:46259233:end -->
+* [46259233](https://news.social-protocols.org/stats?id=46259233) #11 22 points 40 comments -> [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)<!-- HN:46259233:end --><!-- HN:46259430:start -->
+* [46259430](https://news.social-protocols.org/stats?id=46259430) #16 7 points 0 comments -> [Brown University shooting: At least 2 killed](https://www.dw.com/en/brown-university-shooting-at-least-2-killed/live-75148567)<!-- HN:46259430:end -->
