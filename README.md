@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, December 7, 2025**
-<!-- HN:46177714:start -->
-* [46177714](https://news.social-protocols.org/stats?id=46177714) #12 15 points 9 comments -> [A fork of Calibre called Clbre, because the AI is stripped out](https://github.com/grimthorpe/clbre)<!-- HN:46177714:end --><!-- HN:46179339:start -->
-* [46179339](https://news.social-protocols.org/stats?id=46179339) #23 6 points 0 comments -> [For US Businesses, Tariff Complexity Is "Death by a Thousand Papercuts"](https://www.cato.org/blog/us-businesses-tariff-complexity-death-thousand-papercuts)<!-- HN:46179339:end --><!-- HN:46182084:start -->
-* [46182084](https://news.social-protocols.org/stats?id=46182084) #7 19 points 4 comments -> [Three-year-old forced to serve as her own attorney in Tucson immigration court](https://coppercourier.com/2025/12/05/childrens-immigration-court/)<!-- HN:46182084:end --><!-- HN:46184854:start -->
-* [46184854](https://news.social-protocols.org/stats?id=46184854) #21 -> [FBI Making List of American "Extremists," Leaked Memo Reveals](https://www.kenklippenstein.com/p/leak-fbi-list-of-extremists-is-coming)<!-- HN:46184854:end --><!-- HN:46185210:start -->
-* [46185210](https://news.social-protocols.org/stats?id=46185210) #20 7 points 1 comments -> [The Ways the AI Bubble Might Burst](https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/)<!-- HN:46185210:end --><!-- HN:46185393:start -->
-* [46185393](https://news.social-protocols.org/stats?id=46185393) #1 32 points 19 comments -> [F-35 Fighter Jet's C++ Coding Standards [pdf]](https://www.stroustrup.com/JSF-AV-rules.pdf)<!-- HN:46185393:end --><!-- HN:46186573:start -->
-* [46186573](https://news.social-protocols.org/stats?id=46186573) #22 6 points 3 comments -> [FL Governor Announces Proposal for Citizen Bill of Rights for AI](https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-announces-proposal-citizen-bill-rights-artificial)<!-- HN:46186573:end -->
 #### **Monday, December 8, 2025**<!-- HN:46191826:start -->
 * [46191826](https://news.social-protocols.org/stats?id=46191826) #2 10 points 13 comments -> [Pantone Color of the Year 2026: Pantone 11-4201 Cloud Dancer](https://www.pantone.com/color-of-the-year/2026)<!-- HN:46191826:end --><!-- HN:46192919:start -->
 * [46192919](https://news.social-protocols.org/stats?id=46192919) #5 36 points 46 comments -> [Microsoft is quietly walking back its diversity efforts](https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad)<!-- HN:46192919:end --><!-- HN:46147021:start -->
