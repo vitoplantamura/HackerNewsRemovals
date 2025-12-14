@@ -103,3 +103,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46255158](https://news.social-protocols.org/stats?id=46255158) #23 32 points 23 comments -> [Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%](https://github.com/WozzHQ/wozz)<!-- HN:46255158:end --><!-- HN:46256504:start -->
 * [46256504](https://news.social-protocols.org/stats?id=46256504) #8 10 points 1 comments -> [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)<!-- HN:46256504:end --><!-- HN:46259102:start -->
 * [46259102](https://news.social-protocols.org/stats?id=46259102) #2 15 points 0 comments -> [Multiple shootings by active shooter at Brown University](https://www.brown.edu/)<!-- HN:46259102:end -->
+#### **Sunday, December 14, 2025**
+<!-- HN:46259233:start -->
+* [46259233](https://news.social-protocols.org/stats?id=46259233) #11 22 points 40 comments -> [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)<!-- HN:46259233:end -->
