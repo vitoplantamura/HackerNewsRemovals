@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, December 15, 2025**
 <!-- HN:46268585:start -->
 * [46268585](https://news.social-protocols.org/stats?id=46268585) #11 13 points 3 comments -> [Microsoft AI](https://microsoft.ai/)<!-- HN:46268585:end --><!-- HN:46269121:start -->
-* [46269121](https://news.social-protocols.org/stats?id=46269121) #5 15 points 4 comments -> [Signal1996.net](https://signal1996.net/)<!-- HN:46269121:end -->
+* [46269121](https://news.social-protocols.org/stats?id=46269121) #5 15 points 4 comments -> [Signal1996.net](https://signal1996.net/)<!-- HN:46269121:end --><!-- HN:46268809:start -->
+* [46268809](https://news.social-protocols.org/stats?id=46268809) #4 -> [Frances Elizabeth Allen: The Woman Who Made Code Run Fast – and Was Forgotten](https://voxmeditantis.com/2025/12/13/frances-elizabeth-allen-the-woman-who-made-code-run-fast-and-was-forgotten-because-it-worked/)<!-- HN:46268809:end -->
