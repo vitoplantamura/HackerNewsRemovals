@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46265627](https://news.social-protocols.org/stats?id=46265627) #25 8 points 6 comments -> [Cisco Finally Did It](https://www.ft.com/content/b27ae706-6244-4337-81cd-5204bd2b9a00)<!-- HN:46265627:end --><!-- HN:46265794:start -->
 * [46265794](https://news.social-protocols.org/stats?id=46265794) #13 6 points 1 comments -> [Freakpages](https://freakpages.org/)<!-- HN:46265794:end --><!-- HN:46266655:start -->
 * [46266655](https://news.social-protocols.org/stats?id=46266655) #26 24 points 36 comments -> [Opus 4.5 is the first model that makes me fear for my job](https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/)<!-- HN:46266655:end -->
+#### **Monday, December 15, 2025**
+<!-- HN:46268585:start -->
+* [46268585](https://news.social-protocols.org/stats?id=46268585) #11 13 points 3 comments -> [Microsoft AI](https://microsoft.ai/)<!-- HN:46268585:end -->
