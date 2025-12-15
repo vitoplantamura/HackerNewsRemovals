@@ -97,8 +97,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46256504](https://news.social-protocols.org/stats?id=46256504) #8 10 points 1 comments -> [Purrtran – ᓚᘏᗢ – A Programming Language for Cat People](https://github.com/cmontella/purrtran)<!-- HN:46256504:end --><!-- HN:46259102:start -->
 * [46259102](https://news.social-protocols.org/stats?id=46259102) #2 15 points 0 comments -> [Multiple shootings by active shooter at Brown University](https://www.brown.edu/)<!-- HN:46259102:end -->
 #### **Sunday, December 14, 2025**
-<!-- HN:46178966:start -->
-* [46178966](https://news.social-protocols.org/stats?id=46178966) #25 4 points 2 comments -> [Rio de Janeiro's talipot palm trees bloom for the first and only time](https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html)<!-- HN:46178966:end --><!-- HN:46261739:start -->
+<!-- HN:46261739:start -->
 * [46261739](https://news.social-protocols.org/stats?id=46261739) #2 56 points 34 comments -> [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)<!-- HN:46261739:end --><!-- HN:46263874:start -->
 * [46263874](https://news.social-protocols.org/stats?id=46263874) #8 16 points 21 comments -> [AI was not invented, it arrived](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/)<!-- HN:46263874:end --><!-- HN:46265378:start -->
 * [46265378](https://news.social-protocols.org/stats?id=46265378) #28 3 points 1 comments -> [Hero who disarmed one of the Bondi Beach attackers by grabbing his gun](https://www.dailymail.co.uk/news/article-15382973/Hero-disarmed-one-Bondi-Beach-attackers-grabbing-gun-father-two-fruit-shop-owner.html)<!-- HN:46265378:end --><!-- HN:46264657:start -->
