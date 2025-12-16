@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46281435](https://news.social-protocols.org/stats?id=46281435) #28 4 points 2 comments -> [Killed by Google](https://killedbygoogle.com)<!-- HN:46281435:end -->
 #### **Tuesday, December 16, 2025**
 <!-- HN:46283565:start -->
-* [46283565](https://news.social-protocols.org/stats?id=46283565) #27 6 points 0 comments -> [Bondi lie peddled by Grok chatbot shows future of AI-poisoned info ecosystem](https://www.crikey.com.au/2025/12/16/elon-musk-ai-chatbot-grok-bondi-shooting-ahmed-al-ahmed/)<!-- HN:46283565:end -->
+* [46283565](https://news.social-protocols.org/stats?id=46283565) #27 6 points 0 comments -> [Bondi lie peddled by Grok chatbot shows future of AI-poisoned info ecosystem](https://www.crikey.com.au/2025/12/16/elon-musk-ai-chatbot-grok-bondi-shooting-ahmed-al-ahmed/)<!-- HN:46283565:end --><!-- HN:46286313:start -->
+* [46286313](https://news.social-protocols.org/stats?id=46286313) #8 8 points 6 comments -> [15,000 Free Pixel Art Icons](https://piixes.com/)<!-- HN:46286313:end -->
