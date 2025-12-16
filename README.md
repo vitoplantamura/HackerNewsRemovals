@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46181628](https://news.social-protocols.org/stats?id=46181628) #22 68 points 18 comments -> [DNA Learning Center: Mechanism of Replication 3D Animation](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)<!-- HN:46181628:end --><!-- HN:46279674:start -->
 * [46279674](https://news.social-protocols.org/stats?id=46279674) #14 46 points 2 comments -> [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)<!-- HN:46279674:end --><!-- HN:46281435:start -->
 * [46281435](https://news.social-protocols.org/stats?id=46281435) #28 4 points 2 comments -> [Killed by Google](https://killedbygoogle.com)<!-- HN:46281435:end -->
+#### **Tuesday, December 16, 2025**
+<!-- HN:46283565:start -->
+* [46283565](https://news.social-protocols.org/stats?id=46283565) #27 6 points 0 comments -> [Bondi lie peddled by Grok chatbot shows future of AI-poisoned info ecosystem](https://www.crikey.com.au/2025/12/16/elon-musk-ai-chatbot-grok-bondi-shooting-ahmed-al-ahmed/)<!-- HN:46283565:end -->
