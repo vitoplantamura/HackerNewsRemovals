@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46283565:start -->
 * [46283565](https://news.social-protocols.org/stats?id=46283565) #27 6 points 0 comments -> [Bondi lie peddled by Grok chatbot shows future of AI-poisoned info ecosystem](https://www.crikey.com.au/2025/12/16/elon-musk-ai-chatbot-grok-bondi-shooting-ahmed-al-ahmed/)<!-- HN:46283565:end --><!-- HN:46286313:start -->
 * [46286313](https://news.social-protocols.org/stats?id=46286313) #8 8 points 6 comments -> [15,000 Free Pixel Art Icons](https://piixes.com/)<!-- HN:46286313:end --><!-- HN:46291827:start -->
-* [46291827](https://news.social-protocols.org/stats?id=46291827) #8 53 points 13 comments -> [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here/)<!-- HN:46291827:end -->
+* [46291827](https://news.social-protocols.org/stats?id=46291827) #8 53 points 13 comments -> [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here/)<!-- HN:46291827:end --><!-- HN:46219987:start -->
+* [46219987](https://news.social-protocols.org/stats?id=46219987) #16 45 points 52 comments -> [Meta's new A.I. superstars are chafing against the rest of the company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)<!-- HN:46219987:end -->
