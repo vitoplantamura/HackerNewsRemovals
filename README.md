@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, December 9, 2025**
-<!-- HN:46200420:start -->
-* [46200420](https://news.social-protocols.org/stats?id=46200420) #4 18 points 7 comments -> [The power of proximity to coworkers [pdf]](https://pallais.scholars.harvard.edu/sites/g/files/omnuum5926/files/2025-11/Power%20of%20Proximity%20to%20Coworkers%20November%202025.pdf)<!-- HN:46200420:end --><!-- HN:46203665:start -->
-* [46203665](https://news.social-protocols.org/stats?id=46203665) #18 53 points 30 comments -> [Torture Techniques from CIA Black Sites Were Used at Alligator Alcatraz](https://www.forever-wars.com/torture-techniques-from-cia-black-sites-were-used-at-alligator-alcatraz/)<!-- HN:46203665:end --><!-- HN:46205532:start -->
-* [46205532](https://news.social-protocols.org/stats?id=46205532) #7 17 points 9 comments -> [Engineers: Stop trying to win other people's game](https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior)<!-- HN:46205532:end --><!-- HN:46206863:start -->
-* [46206863](https://news.social-protocols.org/stats?id=46206863) #28 20 points 5 comments -> [Berkeley professor's camera caught student allegedly sabotaging another student](https://www.mercurynews.com/2025/12/08/uc-berkeley-professor-installed-secret-camera-allegedly-catching-phd-candidate-sabotaging-fellow-students-work/)<!-- HN:46206863:end --><!-- HN:46210661:start -->
-* [46210661](https://news.social-protocols.org/stats?id=46210661) #8 21 points 45 comments -> [I misused LLMs to diagnose myself and ended up bedridden for a week](https://blog.shortround.space/blog/how-i-misused-llms-to-diagnose-myself-and-ended-up-bedridden-for-a-week/)<!-- HN:46210661:end --><!-- HN:46210994:start -->
-* [46210994](https://news.social-protocols.org/stats?id=46210994) #10 6 points 3 comments -> [Canada's US Travel Boycott Is Backfiring in the Most Unexpected Way at US Border](https://www.thetravel.com/canadas-us-travel-boycott-is-backfiring-canadians-face-more-detailed-border-controls/)<!-- HN:46210994:end -->
 #### **Wednesday, December 10, 2025**
 <!-- HN:46212325:start -->
 * [46212325](https://news.social-protocols.org/stats?id=46212325) #6 8 points 1 comments -> [US International Trade Administration Shaped EU Censorship Against US Companies](https://foundationforfreedomonline.com/us-international-trade-administration-shaped-eu-censorship-law/)<!-- HN:46212325:end --><!-- HN:46213161:start -->
