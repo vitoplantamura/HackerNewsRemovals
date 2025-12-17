@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46291827](https://news.social-protocols.org/stats?id=46291827) #8 53 points 13 comments -> [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here/)<!-- HN:46291827:end -->
 #### **Wednesday, December 17, 2025**
 <!-- HN:46291414:start -->
-* [46291414](https://news.social-protocols.org/stats?id=46291414) #22 444 points 211 comments -> [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)<!-- HN:46291414:end -->
+* [46291414](https://news.social-protocols.org/stats?id=46291414) #22 444 points 211 comments -> [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)<!-- HN:46291414:end --><!-- HN:46296181:start -->
+* [46296181](https://news.social-protocols.org/stats?id=46296181) #11 24 points 42 comments -> [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false)<!-- HN:46296181:end -->
