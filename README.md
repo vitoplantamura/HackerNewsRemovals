@@ -66,8 +66,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46190877](https://news.social-protocols.org/stats?id=46190877) #11 9 points 6 comments -> [How to Articulate Yourself Intelligently](https://letters.thedankoe.com/p/how-to-articulate-yourself-intelligently)<!-- HN:46190877:end --><!-- HN:46246117:start -->
 * [46246117](https://news.social-protocols.org/stats?id=46246117) #29 32 points 10 comments -> [Show HN: tomcp.org – Turn any URL into an MCP server](https://github.com/Ami3466/tomcp)<!-- HN:46246117:end -->
 #### **Saturday, December 13, 2025**
-<!-- HN:46249834:start -->
-* [46249834](https://news.social-protocols.org/stats?id=46249834) #24 16 points 4 comments -> [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)<!-- HN:46249834:end --><!-- HN:46192924:start -->
+<!-- HN:46192924:start -->
 * [46192924](https://news.social-protocols.org/stats?id=46192924) #29 7 points 3 comments -> [How we built context management for tab completion](https://docs.getpochi.com/developer-updates/context-management-in-your-editor/)<!-- HN:46192924:end --><!-- HN:46251852:start -->
 * [46251852](https://news.social-protocols.org/stats?id=46251852) #26 -> [Show HN: Claude Code Recipes for Knowledge Workers (Open Source)](https://github.com/sgharlow/claude-code-recipes)<!-- HN:46251852:end --><!-- HN:46254276:start -->
 * [46254276](https://news.social-protocols.org/stats?id=46254276) #11 45 points 57 comments -> [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)<!-- HN:46254276:end --><!-- HN:46255697:start -->
