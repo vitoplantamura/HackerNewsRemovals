@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46233794](https://news.social-protocols.org/stats?id=46233794) #16 51 points 7 comments -> [Notes on Sorted Data](https://amit.prasad.me/blog/sorted-data)<!-- HN:46233794:end -->
 #### **Thursday, December 18, 2025**
 <!-- HN:46262875:start -->
-* [46262875](https://news.social-protocols.org/stats?id=46262875) #22 4 points 2 comments -> [Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations](https://vibboai.com)<!-- HN:46262875:end -->
+* [46262875](https://news.social-protocols.org/stats?id=46262875) #22 4 points 2 comments -> [Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations](https://vibboai.com)<!-- HN:46262875:end --><!-- HN:46308263:start -->
+* [46308263](https://news.social-protocols.org/stats?id=46308263) #27 3 points 0 comments -> [The Revolution Will Not Make the Hacker News Front Page](https://soatok.blog/2025/12/17/the-revolution-will-not-make-the-hacker-news-front-page/)<!-- HN:46308263:end -->
