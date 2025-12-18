@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, December 11, 2025**<!-- HN:46228916:start -->
-* [46228916](https://news.social-protocols.org/stats?id=46228916) #23 4 points 1 comments -> [Hamas hid tons of baby formula to damage Israel with starvation claims](https://www.theaustralian.com.au/world/hamas-hid-tons-of-baby-formula-to-damage-israel-with-starvation-claims-palestinian-activist-says/news-story/c0884abf9e71450cc2db1675e75572c0)<!-- HN:46228916:end --><!-- HN:46229346:start -->
-* [46229346](https://news.social-protocols.org/stats?id=46229346) #13 52 points 43 comments -> [Just 0.001% hold 3 times the wealth of poorest half of humanity, report finds](https://www.theguardian.com/inequality/2025/dec/10/just-0001-hold-three-times-the-wealth-of-poorest-half-of-humanity-report-finds)<!-- HN:46229346:end --><!-- HN:46232222:start -->
-* [46232222](https://news.social-protocols.org/stats?id=46232222) #20 19 points 41 comments -> [Did that Colorado station sign say gas for only $1.69? Yes, it did](https://coloradosun.com/2025/12/11/colorado-gas-prices-falling-national-average/)<!-- HN:46232222:end --><!-- HN:46234874:start -->
-* [46234874](https://news.social-protocols.org/stats?id=46234874) #3 174 points 68 comments -> [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)<!-- HN:46234874:end --><!-- HN:46235531:start -->
-* [46235531](https://news.social-protocols.org/stats?id=46235531) #2 92 points 2 comments -> [Age Verification Is Coming for the Internet](https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back)<!-- HN:46235531:end --><!-- HN:46231585:start -->
-* [46231585](https://news.social-protocols.org/stats?id=46231585) #19 318 points 2 comments -> [Disney making $1B investment in OpenAI, will allow characters on Sora AI](https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html)<!-- HN:46231585:end --><!-- HN:46237515:start -->
-* [46237515](https://news.social-protocols.org/stats?id=46237515) #6 19 points 1 comments -> [React2Shell and related RSC vulnerabilities threat brief](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/)<!-- HN:46237515:end --><!-- HN:46237527:start -->
-* [46237527](https://news.social-protocols.org/stats?id=46237527) #4 27 points 1 comments -> [Two new RSC protocol vulnerabilities uncovered](https://nextjs.org/blog/security-update-2025-12-11)<!-- HN:46237527:end -->
 #### **Friday, December 12, 2025**
 <!-- HN:46236738:start -->
 * [46236738](https://news.social-protocols.org/stats?id=46236738) #26 329 points 325 comments -> [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)<!-- HN:46236738:end --><!-- HN:46175894:start -->
