@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46303809](https://news.social-protocols.org/stats?id=46303809) #16 30 points 3 comments -> [Make Me CEO of Mozilla](https://blog.kingcons.io/posts/make-me-ceo-of-mozilla.html)<!-- HN:46303809:end --><!-- HN:46302892:start -->
 * [46302892](https://news.social-protocols.org/stats?id=46302892) #26 19 points 5 comments -> [How, and why, I invented OnlyFans. In 2004](https://themosthandsomemanintheworld.com/how-and-why-i-invented-onlyfans-in-2004/)<!-- HN:46302892:end --><!-- HN:46233794:start -->
 * [46233794](https://news.social-protocols.org/stats?id=46233794) #16 51 points 7 comments -> [Notes on Sorted Data](https://amit.prasad.me/blog/sorted-data)<!-- HN:46233794:end -->
+#### **Thursday, December 18, 2025**
+<!-- HN:46262875:start -->
+* [46262875](https://news.social-protocols.org/stats?id=46262875) #22 4 points 2 comments -> [Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations](https://vibboai.com)<!-- HN:46262875:end -->
