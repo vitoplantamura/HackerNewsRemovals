@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, December 12, 2025**
-<!-- HN:46236738:start -->
-* [46236738](https://news.social-protocols.org/stats?id=46236738) #26 329 points 325 comments -> [UK House of Lords attempting to ban use of VPNs by anyone under 16](https://alecmuffett.com/article/134925)<!-- HN:46236738:end --><!-- HN:46175894:start -->
-* [46175894](https://news.social-protocols.org/stats?id=46175894) #20 3 points 1 comments -> [One Last Trip: Traveling with my brother's remains (2022)](https://www.thecut.com/2022/03/traveling-brothers-remains.html)<!-- HN:46175894:end --><!-- HN:46154190:start -->
-* [46154190](https://news.social-protocols.org/stats?id=46154190) #21 18 points 2 comments -> [Tile IR Specification](https://docs.nvidia.com/cuda/tile-ir/)<!-- HN:46154190:end --><!-- HN:46138534:start -->
-* [46138534](https://news.social-protocols.org/stats?id=46138534) #26 13 points 2 comments -> [The Invisible Cost: From Creator to Consumer](https://edwardnoaland.substack.com/p/the-invisible-cost-from-creator-to)<!-- HN:46138534:end --><!-- HN:46240998:start -->
-* [46240998](https://news.social-protocols.org/stats?id=46240998) #25 7 points 3 comments -> [Show HN: I got my site down to 237kb by ditching Google Analytics](https://deadstack.net/)<!-- HN:46240998:end --><!-- HN:46242513:start -->
-* [46242513](https://news.social-protocols.org/stats?id=46242513) #13 21 points 11 comments -> [You are dating an ecosystem](https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html)<!-- HN:46242513:end --><!-- HN:46243586:start -->
-* [46243586](https://news.social-protocols.org/stats?id=46243586) #22 8 points 1 comments -> [Censorship in Western Academia and the War in Ukraine](https://www.newglobalpolitics.org/censorship-in-western-academia-and-the-war-in-ukraine/)<!-- HN:46243586:end --><!-- HN:46246223:start -->
-* [46246223](https://news.social-protocols.org/stats?id=46246223) #28 6 points 2 comments -> [Trump repeats baseless claim about Haitian immigrants eating pets](https://clipnotebook.com/p/671d1ace-bc25-478e-b631-42c226dfc360)<!-- HN:46246223:end --><!-- HN:46245971:start -->
-* [46245971](https://news.social-protocols.org/stats?id=46245971) #9 15 points 16 comments -> [Why more American seniors are getting high](https://www.economist.com/graphic-detail/2025/12/11/why-more-american-seniors-are-getting-high)<!-- HN:46245971:end --><!-- HN:46190877:start -->
-* [46190877](https://news.social-protocols.org/stats?id=46190877) #11 9 points 6 comments -> [How to Articulate Yourself Intelligently](https://letters.thedankoe.com/p/how-to-articulate-yourself-intelligently)<!-- HN:46190877:end --><!-- HN:46246117:start -->
-* [46246117](https://news.social-protocols.org/stats?id=46246117) #29 32 points 10 comments -> [Show HN: tomcp.org – Turn any URL into an MCP server](https://github.com/Ami3466/tomcp)<!-- HN:46246117:end -->
 #### **Saturday, December 13, 2025**
 <!-- HN:46192924:start -->
 * [46192924](https://news.social-protocols.org/stats?id=46192924) #29 7 points 3 comments -> [How we built context management for tab completion](https://docs.getpochi.com/developer-updates/context-management-in-your-editor/)<!-- HN:46192924:end --><!-- HN:46251852:start -->
