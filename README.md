@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46311220](https://news.social-protocols.org/stats?id=46311220) #18 43 points 15 comments -> [America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)<!-- HN:46311220:end --><!-- HN:46310146:start -->
 * [46310146](https://news.social-protocols.org/stats?id=46310146) #3 130 points 75 comments -> [GitHub Actions for Self-Hosted Runners Price Increase Postponed](https://pricetimeline.com/news/189)<!-- HN:46310146:end --><!-- HN:46317199:start -->
 * [46317199](https://news.social-protocols.org/stats?id=46317199) #10 24 points 13 comments -> [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)<!-- HN:46317199:end -->
+#### **Friday, December 19, 2025**
+<!-- HN:46319324:start -->
+* [46319324](https://news.social-protocols.org/stats?id=46319324) #9 136 points 25 comments -> [AI Vending Machine Was Tricked into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)<!-- HN:46319324:end -->
