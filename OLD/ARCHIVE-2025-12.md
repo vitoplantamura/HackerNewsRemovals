@@ -126,3 +126,11 @@
 * [46245971](https://news.ycombinator.com/item?id=46245971) #9 15 points 16 comments -> [Why more American seniors are getting high](https://www.economist.com/graphic-detail/2025/12/11/why-more-american-seniors-are-getting-high)<!-- HN:46245971:end --><!-- HN:46190877:start -->
 * [46190877](https://news.ycombinator.com/item?id=46190877) #11 9 points 6 comments -> [How to Articulate Yourself Intelligently](https://letters.thedankoe.com/p/how-to-articulate-yourself-intelligently)<!-- HN:46190877:end --><!-- HN:46246117:start -->
 * [46246117](https://news.ycombinator.com/item?id=46246117) #29 32 points 10 comments -> [Show HN: tomcp.org – Turn any URL into an MCP server](https://github.com/Ami3466/tomcp)<!-- HN:46246117:end -->
+#### **Saturday, December 13, 2025**
+<!-- HN:46192924:start -->
+* [46192924](https://news.ycombinator.com/item?id=46192924) #29 7 points 3 comments -> [How we built context management for tab completion](https://docs.getpochi.com/developer-updates/context-management-in-your-editor/)<!-- HN:46192924:end --><!-- HN:46251852:start -->
+* [46251852](https://news.ycombinator.com/item?id=46251852) #26 -> [Show HN: Claude Code Recipes for Knowledge Workers (Open Source)](https://github.com/sgharlow/claude-code-recipes)<!-- HN:46251852:end --><!-- HN:46254276:start -->
+* [46254276](https://news.ycombinator.com/item?id=46254276) #11 45 points 57 comments -> [AI is bringing old nuclear plants out of retirement](https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai)<!-- HN:46254276:end --><!-- HN:46255697:start -->
+* [46255697](https://news.ycombinator.com/item?id=46255697) #1 9 points 14 comments -> [Show HN: Kinkora – A creative playground for experimenting with video models](https://kinkora.fun/)<!-- HN:46255697:end --><!-- HN:46255158:start -->
+* [46255158](https://news.ycombinator.com/item?id=46255158) #23 32 points 23 comments -> [Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%](https://github.com/WozzHQ/wozz)<!-- HN:46255158:end --><!-- HN:46259102:start -->
+* [46259102](https://news.ycombinator.com/item?id=46259102) #2 15 points 0 comments -> [Multiple shootings by active shooter at Brown University](https://www.brown.edu/)<!-- HN:46259102:end -->
