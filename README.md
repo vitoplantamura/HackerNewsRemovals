@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, December 20, 2025**
 <!-- HN:46332745:start -->
 * [46332745](https://news.social-protocols.org/stats?id=46332745) #13 4 points 5 comments -> [The FOSS community acts like a cult and it's not helping the cause](https://torrent-empress.leaflet.pub/3mackqgyzh22t)<!-- HN:46332745:end --><!-- HN:46266915:start -->
-* [46266915](https://news.social-protocols.org/stats?id=46266915) #21 13 points 0 comments -> [Language Immersion, Prison-Style (2017)](https://www.themarshallproject.org/2017/12/14/my-do-it-yourself-language-immersion-prison-style)<!-- HN:46266915:end -->
+* [46266915](https://news.social-protocols.org/stats?id=46266915) #21 13 points 0 comments -> [Language Immersion, Prison-Style (2017)](https://www.themarshallproject.org/2017/12/14/my-do-it-yourself-language-immersion-prison-style)<!-- HN:46266915:end --><!-- HN:46245904:start -->
+* [46245904](https://news.social-protocols.org/stats?id=46245904) #27 5 points 0 comments -> [Finding Alignment by Visualizing Music in Rust](https://positron.solutions/articles/finding-alignment-by-visualizing-music)<!-- HN:46245904:end -->
