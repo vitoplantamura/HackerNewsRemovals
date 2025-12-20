@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46329729](https://news.social-protocols.org/stats?id=46329729) #16 5 points 4 comments -> [Your AI is lying to you.](https://WithTofu.com)<!-- HN:46329729:end --><!-- HN:46258377:start -->
 * [46258377](https://news.social-protocols.org/stats?id=46258377) #22 37 points 40 comments -> [Does my key fob have more computing power than the Lunar lander?](https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander)<!-- HN:46258377:end --><!-- HN:46329530:start -->
 * [46329530](https://news.social-protocols.org/stats?id=46329530) #6 40 points 1 comments -> [Performance Hints – Jeff Dean and Sanjay Ghemawat](https://abseil.io/fast/hints.html)<!-- HN:46329530:end -->
+#### **Saturday, December 20, 2025**
+<!-- HN:46332745:start -->
+* [46332745](https://news.social-protocols.org/stats?id=46332745) #13 4 points 5 comments -> [The FOSS community acts like a cult and it's not helping the cause](https://torrent-empress.leaflet.pub/3mackqgyzh22t)<!-- HN:46332745:end -->
