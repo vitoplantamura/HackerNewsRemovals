@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46336792](https://news.social-protocols.org/stats?id=46336792) #15 4 points 0 comments -> [Trumps Biggest Failures 2025](https://asiaviewnews.com/gigabots/Threads?p=100049)<!-- HN:46336792:end --><!-- HN:46337026:start -->
 * [46337026](https://news.social-protocols.org/stats?id=46337026) #6 6 points 2 comments -> [Brothers are taking down Claude Code with OSS CLI](https://github.com/blackboxaicode/cli)<!-- HN:46337026:end --><!-- HN:46339495:start -->
 * [46339495](https://news.social-protocols.org/stats?id=46339495) #26 3 points 0 comments -> [Show HN: Fucking Websites](https://afw.kuber.studio)<!-- HN:46339495:end -->
+#### **Sunday, December 21, 2025**
+<!-- HN:46340192:start -->
+* [46340192](https://news.social-protocols.org/stats?id=46340192) #13 31 points 9 comments -> [I wrote a code editor in C and now I'm a changed man](https://github.com/thisismars-x/light)<!-- HN:46340192:end -->
