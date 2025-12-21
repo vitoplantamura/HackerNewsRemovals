@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46339495](https://news.social-protocols.org/stats?id=46339495) #26 3 points 0 comments -> [Show HN: Fucking Websites](https://afw.kuber.studio)<!-- HN:46339495:end -->
 #### **Sunday, December 21, 2025**
 <!-- HN:46340192:start -->
-* [46340192](https://news.social-protocols.org/stats?id=46340192) #13 31 points 9 comments -> [I wrote a code editor in C and now I'm a changed man](https://github.com/thisismars-x/light)<!-- HN:46340192:end -->
+* [46340192](https://news.social-protocols.org/stats?id=46340192) #13 31 points 9 comments -> [I wrote a code editor in C and now I'm a changed man](https://github.com/thisismars-x/light)<!-- HN:46340192:end --><!-- HN:46271844:start -->
+* [46271844](https://news.social-protocols.org/stats?id=46271844) #28 19 points 26 comments -> [The Graffiti Question](https://www.guernicamag.com/the-graffiti-question/)<!-- HN:46271844:end -->
