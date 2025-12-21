@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, December 14, 2025**
-<!-- HN:46261739:start -->
-* [46261739](https://news.social-protocols.org/stats?id=46261739) #2 56 points 34 comments -> [Surface Tension of Software](https://iamstelios.com/blog/surface-tension-of-software/)<!-- HN:46261739:end --><!-- HN:46263874:start -->
-* [46263874](https://news.social-protocols.org/stats?id=46263874) #8 16 points 21 comments -> [AI was not invented, it arrived](https://andrewarrow.dev/2025/12/ai-was-not-invented-it-arrived/)<!-- HN:46263874:end --><!-- HN:46265378:start -->
-* [46265378](https://news.social-protocols.org/stats?id=46265378) #28 3 points 1 comments -> [Hero who disarmed one of the Bondi Beach attackers by grabbing his gun](https://www.dailymail.co.uk/news/article-15382973/Hero-disarmed-one-Bondi-Beach-attackers-grabbing-gun-father-two-fruit-shop-owner.html)<!-- HN:46265378:end --><!-- HN:46264955:start -->
-* [46264955](https://news.social-protocols.org/stats?id=46264955) #6 28 points 35 comments -> [Sacrificing accessibility for not getting web scraped](https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped)<!-- HN:46264955:end --><!-- HN:46265457:start -->
-* [46265457](https://news.social-protocols.org/stats?id=46265457) #29 5 points 2 comments -> [Mass shooting in Australia – 12 dead -terrorist event](https://www.dailytelegraph.com.au/news/nsw/beachgoers-flee-as-gunshots-heard-in-bondi/live-coverage/f7f1e82a4b957533cac56ba0809cb9ba)<!-- HN:46265457:end --><!-- HN:46265697:start -->
-* [46265697](https://news.social-protocols.org/stats?id=46265697) #30 6 points 4 comments -> [Update Now Warning Issued to All iPhone Users](https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/)<!-- HN:46265697:end --><!-- HN:46265627:start -->
-* [46265627](https://news.social-protocols.org/stats?id=46265627) #25 8 points 6 comments -> [Cisco Finally Did It](https://www.ft.com/content/b27ae706-6244-4337-81cd-5204bd2b9a00)<!-- HN:46265627:end --><!-- HN:46265794:start -->
-* [46265794](https://news.social-protocols.org/stats?id=46265794) #13 6 points 1 comments -> [Freakpages](https://freakpages.org/)<!-- HN:46265794:end --><!-- HN:46266655:start -->
-* [46266655](https://news.social-protocols.org/stats?id=46266655) #26 24 points 36 comments -> [Opus 4.5 is the first model that makes me fear for my job](https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/)<!-- HN:46266655:end -->
 #### **Monday, December 15, 2025**
 <!-- HN:46268585:start -->
 * [46268585](https://news.social-protocols.org/stats?id=46268585) #11 13 points 3 comments -> [Microsoft AI](https://microsoft.ai/)<!-- HN:46268585:end --><!-- HN:46269121:start -->
