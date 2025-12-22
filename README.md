@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46348528](https://news.social-protocols.org/stats?id=46348528) #5 6 points 2 comments -> [Creators Turn Your Outrage into Their Paycheck](https://thebookofragebait.com/)<!-- HN:46348528:end --><!-- HN:46346796:start -->
 * [46346796](https://news.social-protocols.org/stats?id=46346796) #2 496 points 173 comments -> [Logging Sucks](https://loggingsucks.com/)<!-- HN:46346796:end --><!-- HN:46348660:start -->
 * [46348660](https://news.social-protocols.org/stats?id=46348660) #28 15 points 5 comments -> [Engineering dogmas it's time to retire – by Anton Zaides](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)<!-- HN:46348660:end -->
-#### **Monday, December 22, 2025**
+#### **Monday, December 22, 2025**<!-- HN:46285424:start -->
+* [46285424](https://news.social-protocols.org/stats?id=46285424) #22 80 points 9 comments -> [Show HN: Autograd.c – a tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)<!-- HN:46285424:end -->
