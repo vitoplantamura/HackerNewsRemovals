@@ -107,5 +107,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46346796](https://news.social-protocols.org/stats?id=46346796) #2 496 points 173 comments -> [Logging Sucks](https://loggingsucks.com/)<!-- HN:46346796:end --><!-- HN:46348660:start -->
 * [46348660](https://news.social-protocols.org/stats?id=46348660) #28 15 points 5 comments -> [Engineering dogmas it's time to retire – by Anton Zaides](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)<!-- HN:46348660:end -->
 #### **Monday, December 22, 2025**
-<!-- HN:46351408:start -->
-* [46351408](https://news.social-protocols.org/stats?id=46351408) #25 10 points 3 comments -> [A middle-class family's only option: A $43,000 health insurance premium](https://www.washingtonpost.com/health/2025/12/21/obamacare-monopolies-subsidies/)<!-- HN:46351408:end -->
