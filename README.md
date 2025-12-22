@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46346796](https://news.social-protocols.org/stats?id=46346796) #2 496 points 173 comments -> [Logging Sucks](https://loggingsucks.com/)<!-- HN:46346796:end --><!-- HN:46348660:start -->
 * [46348660](https://news.social-protocols.org/stats?id=46348660) #28 15 points 5 comments -> [Engineering dogmas it's time to retire – by Anton Zaides](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)<!-- HN:46348660:end -->
 #### **Monday, December 22, 2025**<!-- HN:46285424:start -->
-* [46285424](https://news.social-protocols.org/stats?id=46285424) #22 80 points 9 comments -> [Show HN: Autograd.c – a tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)<!-- HN:46285424:end -->
+* [46285424](https://news.social-protocols.org/stats?id=46285424) #22 80 points 9 comments -> [Show HN: Autograd.c – a tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)<!-- HN:46285424:end --><!-- HN:46352545:start -->
+* [46352545](https://news.social-protocols.org/stats?id=46352545) #27 6 points 2 comments -> [Israel could be bringing back the death penalty – but only for Palestinians](https://www.cbc.ca/news/world/israel-gaza-palestinian-death-penalty-9.7019609)<!-- HN:46352545:end -->
