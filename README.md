@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, December 15, 2025**
-<!-- HN:46268585:start -->
-* [46268585](https://news.social-protocols.org/stats?id=46268585) #11 13 points 3 comments -> [Microsoft AI](https://microsoft.ai/)<!-- HN:46268585:end --><!-- HN:46269121:start -->
-* [46269121](https://news.social-protocols.org/stats?id=46269121) #5 15 points 4 comments -> [Signal1996.net](https://signal1996.net/)<!-- HN:46269121:end --><!-- HN:46268809:start -->
-* [46268809](https://news.social-protocols.org/stats?id=46268809) #4 -> [Frances Elizabeth Allen: The Woman Who Made Code Run Fast – and Was Forgotten](https://voxmeditantis.com/2025/12/13/frances-elizabeth-allen-the-woman-who-made-code-run-fast-and-was-forgotten-because-it-worked/)<!-- HN:46268809:end --><!-- HN:46270264:start -->
-* [46270264](https://news.social-protocols.org/stats?id=46270264) #4 7 points 0 comments -> [The Generative AI Industry Is Fraudulent, Immoral and Dangerous](https://dianne.skoll.ca/writings/ai-is-bad/)<!-- HN:46270264:end --><!-- HN:46270746:start -->
-* [46270746](https://news.social-protocols.org/stats?id=46270746) #3 33 points 2 comments -> [Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide](https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/)<!-- HN:46270746:end --><!-- HN:46270597:start -->
-* [46270597](https://news.social-protocols.org/stats?id=46270597) #22 12 points 1 comments -> [SVG Fullstack Website](https://github.com/icitry/SVGWebsite)<!-- HN:46270597:end --><!-- HN:46271250:start -->
-* [46271250](https://news.social-protocols.org/stats?id=46271250) #28 5 points 0 comments -> [Risk of acute kidney injury and mortality in patients vaccinated for Covid-19](https://www.medsci.org/v22p4483.htm)<!-- HN:46271250:end --><!-- HN:46270972:start -->
-* [46270972](https://news.social-protocols.org/stats?id=46270972) #30 70 points 27 comments -> [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)<!-- HN:46270972:end --><!-- HN:46198177:start -->
-* [46198177](https://news.social-protocols.org/stats?id=46198177) #27 81 points 55 comments -> [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)<!-- HN:46198177:end --><!-- HN:46173762:start -->
-* [46173762](https://news.social-protocols.org/stats?id=46173762) #4 42 points 12 comments -> [Make images smaller using best-in-class codecs, right in the browser](https://github.com/GoogleChromeLabs/squoosh)<!-- HN:46173762:end --><!-- HN:46182975:start -->
-* [46182975](https://news.social-protocols.org/stats?id=46182975) #6 77 points 25 comments -> [P-computers can solve spin-glass problems faster than quantum systems](https://news.ucsb.edu/2025/022239/new-ucsb-research-shows-p-computers-can-solve-spin-glass-problems-faster-quantum)<!-- HN:46182975:end --><!-- HN:46189205:start -->
-* [46189205](https://news.social-protocols.org/stats?id=46189205) #10 61 points 11 comments -> [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)<!-- HN:46189205:end --><!-- HN:46189011:start -->
-* [46189011](https://news.social-protocols.org/stats?id=46189011) #17 40 points 13 comments -> [Finnix](https://en.wikipedia.org/wiki/Finnix)<!-- HN:46189011:end --><!-- HN:46181628:start -->
-* [46181628](https://news.social-protocols.org/stats?id=46181628) #22 68 points 18 comments -> [DNA Learning Center: Mechanism of Replication 3D Animation](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)<!-- HN:46181628:end --><!-- HN:46279674:start -->
-* [46279674](https://news.social-protocols.org/stats?id=46279674) #14 46 points 2 comments -> [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)<!-- HN:46279674:end --><!-- HN:46281435:start -->
-* [46281435](https://news.social-protocols.org/stats?id=46281435) #28 4 points 2 comments -> [Killed by Google](https://killedbygoogle.com)<!-- HN:46281435:end -->
 #### **Tuesday, December 16, 2025**
 <!-- HN:46283565:start -->
 * [46283565](https://news.social-protocols.org/stats?id=46283565) #27 6 points 0 comments -> [Bondi lie peddled by Grok chatbot shows future of AI-poisoned info ecosystem](https://www.crikey.com.au/2025/12/16/elon-musk-ai-chatbot-grok-bondi-shooting-ahmed-al-ahmed/)<!-- HN:46283565:end --><!-- HN:46286313:start -->
