@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46317166](https://news.social-protocols.org/stats?id=46317166) #16 9 points 5 comments -> [Show HN: It's Like Clay but in Google Sheets](https://www.getvurge.com/)<!-- HN:46317166:end -->
 #### **Tuesday, December 23, 2025**
 <!-- HN:46359923:start -->
-* [46359923](https://news.social-protocols.org/stats?id=46359923) #25 3 points 0 comments -> [Fascintern Media](https://berjon.com/fascintern-media/)<!-- HN:46359923:end -->
+* [46359923](https://news.social-protocols.org/stats?id=46359923) #25 3 points 0 comments -> [Fascintern Media](https://berjon.com/fascintern-media/)<!-- HN:46359923:end --><!-- HN:46361496:start -->
+* [46361496](https://news.social-protocols.org/stats?id=46361496) #23 22 points 40 comments -> [NYC Spends $200 Million on Cell Service for School Chromebooks](https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract)<!-- HN:46361496:end -->
