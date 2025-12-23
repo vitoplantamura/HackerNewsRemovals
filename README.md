@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46359396](https://news.social-protocols.org/stats?id=46359396) #14 37 points 16 comments -> [I'm tired of Hacker News slop](https://blog.absurdpirate.com/im-tired-of-hacker-news-slop/)<!-- HN:46359396:end --><!-- HN:46359515:start -->
 * [46359515](https://news.social-protocols.org/stats?id=46359515) #13 19 points 10 comments -> [DOJ uploaded a 12-SEC video showing Epstein attempting suicide](https://twitter.com/rtwlz/status/2003211685650374823)<!-- HN:46359515:end --><!-- HN:46317166:start -->
 * [46317166](https://news.social-protocols.org/stats?id=46317166) #16 9 points 5 comments -> [Show HN: It's Like Clay but in Google Sheets](https://www.getvurge.com/)<!-- HN:46317166:end -->
+#### **Tuesday, December 23, 2025**
+<!-- HN:46359923:start -->
+* [46359923](https://news.social-protocols.org/stats?id=46359923) #25 3 points 0 comments -> [Fascintern Media](https://berjon.com/fascintern-media/)<!-- HN:46359923:end -->
