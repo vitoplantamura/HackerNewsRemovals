@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, December 17, 2025**
-<!-- HN:46291414:start -->
-* [46291414](https://news.social-protocols.org/stats?id=46291414) #22 444 points 211 comments -> [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)<!-- HN:46291414:end --><!-- HN:46296181:start -->
-* [46296181](https://news.social-protocols.org/stats?id=46296181) #11 24 points 42 comments -> [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false)<!-- HN:46296181:end --><!-- HN:46297767:start -->
-* [46297767](https://news.social-protocols.org/stats?id=46297767) #9 23 points 13 comments -> [Why many Asian megacities are miserable places](https://www.economist.com/asia/2025/12/11/why-many-asian-megacities-are-miserable-places)<!-- HN:46297767:end --><!-- HN:46297336:start -->
-* [46297336](https://news.social-protocols.org/stats?id=46297336) #27 62 points 29 comments -> [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)<!-- HN:46297336:end --><!-- HN:46226068:start -->
-* [46226068](https://news.social-protocols.org/stats?id=46226068) #5 142 points 48 comments -> [Midjourney Is Alemwjsl](https://www.aadillpickle.com/blog/midjourney-is-alemwjsl)<!-- HN:46226068:end --><!-- HN:46219987:start -->
-* [46219987](https://news.social-protocols.org/stats?id=46219987) #27 92 points 124 comments -> [Meta's new A.I. superstars are chafing against the rest of the company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)<!-- HN:46219987:end --><!-- HN:46230456:start -->
-* [46230456](https://news.social-protocols.org/stats?id=46230456) #21 81 points 40 comments -> [VA Linux: The biggest dotcom IPO](https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/)<!-- HN:46230456:end --><!-- HN:46229761:start -->
-* [46229761](https://news.social-protocols.org/stats?id=46229761) #30 47 points 25 comments -> [Show HN: Titan – JavaScript-first framework that compiles into a Rust server](https://www.npmjs.com/package/@ezetgalaxy/titan)<!-- HN:46229761:end --><!-- HN:46302010:start -->
-* [46302010](https://news.social-protocols.org/stats?id=46302010) #28 24 points 40 comments -> [Ford Has Steered Its Former EV Truck and Plant Plans in to a Ditch](https://512pixels.net/2025/12/ford-ev-changes/)<!-- HN:46302010:end --><!-- HN:46303809:start -->
-* [46303809](https://news.social-protocols.org/stats?id=46303809) #16 30 points 3 comments -> [Make Me CEO of Mozilla](https://blog.kingcons.io/posts/make-me-ceo-of-mozilla.html)<!-- HN:46303809:end --><!-- HN:46302892:start -->
-* [46302892](https://news.social-protocols.org/stats?id=46302892) #26 19 points 5 comments -> [How, and why, I invented OnlyFans. In 2004](https://themosthandsomemanintheworld.com/how-and-why-i-invented-onlyfans-in-2004/)<!-- HN:46302892:end --><!-- HN:46233794:start -->
-* [46233794](https://news.social-protocols.org/stats?id=46233794) #16 51 points 7 comments -> [Notes on Sorted Data](https://amit.prasad.me/blog/sorted-data)<!-- HN:46233794:end -->
 #### **Thursday, December 18, 2025**
 <!-- HN:46262875:start -->
 * [46262875](https://news.social-protocols.org/stats?id=46262875) #22 4 points 2 comments -> [Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations](https://vibboai.com)<!-- HN:46262875:end --><!-- HN:46308263:start -->
