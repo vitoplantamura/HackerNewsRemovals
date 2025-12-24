@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46366061](https://news.social-protocols.org/stats?id=46366061) #26 4 points 0 comments -> [CBS 60 minutes on CECOT only aired in Canada](https://archive.org/details/cecot-60mins)<!-- HN:46366061:end --><!-- HN:46369356:start -->
 * [46369356](https://news.social-protocols.org/stats?id=46369356) #3 28 points 13 comments -> [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)<!-- HN:46369356:end --><!-- HN:46367864:start -->
 * [46367864](https://news.social-protocols.org/stats?id=46367864) #18 50 points 47 comments -> [Volvo Centum is Dalton Maag's new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)<!-- HN:46367864:end -->
+#### **Wednesday, December 24, 2025**
+<!-- HN:46370755:start -->
+* [46370755](https://news.social-protocols.org/stats?id=46370755) #6 11 points 0 comments -> [We Must Seize the Means of Compute](https://thompson2026.com/blog/seize-the-means-of-compute/)<!-- HN:46370755:end -->
