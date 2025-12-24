@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46364783](https://news.social-protocols.org/stats?id=46364783) #24 84 points 19 comments -> [Postponed '60 Minutes' segment on Salvadoran prison is streamed by Canadian news](https://www.nbcnews.com/news/us-news/cbs-news-el-salvador-cecot-prison-sharyn-alfonsi-bari-weiss-rcna250618)<!-- HN:46364783:end --><!-- HN:46366061:start -->
 * [46366061](https://news.social-protocols.org/stats?id=46366061) #26 4 points 0 comments -> [CBS 60 minutes on CECOT only aired in Canada](https://archive.org/details/cecot-60mins)<!-- HN:46366061:end --><!-- HN:46369356:start -->
 * [46369356](https://news.social-protocols.org/stats?id=46369356) #3 28 points 13 comments -> [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)<!-- HN:46369356:end -->
-#### **Wednesday, December 24, 2025**
+#### **Wednesday, December 24, 2025**<!-- HN:46303506:start -->
+* [46303506](https://news.social-protocols.org/stats?id=46303506) #23 30 points 40 comments -> [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)<!-- HN:46303506:end -->
