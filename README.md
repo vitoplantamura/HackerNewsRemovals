@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46366061](https://news.social-protocols.org/stats?id=46366061) #26 4 points 0 comments -> [CBS 60 minutes on CECOT only aired in Canada](https://archive.org/details/cecot-60mins)<!-- HN:46366061:end --><!-- HN:46369356:start -->
 * [46369356](https://news.social-protocols.org/stats?id=46369356) #3 28 points 13 comments -> [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)<!-- HN:46369356:end -->
 #### **Wednesday, December 24, 2025**<!-- HN:46303506:start -->
-* [46303506](https://news.social-protocols.org/stats?id=46303506) #23 30 points 40 comments -> [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)<!-- HN:46303506:end -->
+* [46303506](https://news.social-protocols.org/stats?id=46303506) #23 30 points 40 comments -> [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)<!-- HN:46303506:end --><!-- HN:46373919:start -->
+* [46373919](https://news.social-protocols.org/stats?id=46373919) #4 8 points 4 comments -> [Next JavaScript app is hacked, you just don't know it yet](https://audits.blockhacks.io/audit/your-next-js-app-is-already-hacked)<!-- HN:46373919:end -->
