@@ -116,5 +116,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46366061](https://news.social-protocols.org/stats?id=46366061) #26 4 points 0 comments -> [CBS 60 minutes on CECOT only aired in Canada](https://archive.org/details/cecot-60mins)<!-- HN:46366061:end --><!-- HN:46369356:start -->
 * [46369356](https://news.social-protocols.org/stats?id=46369356) #3 28 points 13 comments -> [Fuck You, I Won't Use Tailwind](https://fuckyouiwontusetailwind.com)<!-- HN:46369356:end -->
 #### **Wednesday, December 24, 2025**<!-- HN:46303506:start -->
-* [46303506](https://news.social-protocols.org/stats?id=46303506) #23 30 points 40 comments -> [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)<!-- HN:46303506:end --><!-- HN:46372972:start -->
-* [46372972](https://news.social-protocols.org/stats?id=46372972) #9 38 points 39 comments -> [CEO killed at industrial site by worker operating forklift](https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/)<!-- HN:46372972:end -->
+* [46303506](https://news.social-protocols.org/stats?id=46303506) #23 30 points 40 comments -> [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)<!-- HN:46303506:end -->
