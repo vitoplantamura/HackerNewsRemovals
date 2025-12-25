@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, December 25, 2025**
 <!-- HN:46380027:start -->
 * [46380027](https://news.social-protocols.org/stats?id=46380027) #29 15 points 7 comments -> [Microsoft: "30% of Our Code Is AI." Also Microsoft: "Windows Is Broken."](https://michael-dev-tech.github.io/Website/broken.html)<!-- HN:46380027:end --><!-- HN:46381681:start -->
-* [46381681](https://news.social-protocols.org/stats?id=46381681) #12 7 points 1 comments -> [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)<!-- HN:46381681:end -->
+* [46381681](https://news.social-protocols.org/stats?id=46381681) #12 7 points 1 comments -> [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)<!-- HN:46381681:end --><!-- HN:46351625:start -->
+* [46351625](https://news.social-protocols.org/stats?id=46351625) #22 7 points 0 comments -> [A Child in the State of Nature](https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/)<!-- HN:46351625:end -->
