@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, December 18, 2025**
-<!-- HN:46262875:start -->
-* [46262875](https://news.social-protocols.org/stats?id=46262875) #22 4 points 2 comments -> [Ditch the Chain-of-Thought Hacks: A Modular System for Composing AI Operations](https://vibboai.com)<!-- HN:46262875:end --><!-- HN:46308263:start -->
-* [46308263](https://news.social-protocols.org/stats?id=46308263) #27 3 points 0 comments -> [The Revolution Will Not Make the Hacker News Front Page](https://soatok.blog/2025/12/17/the-revolution-will-not-make-the-hacker-news-front-page/)<!-- HN:46308263:end --><!-- HN:46308300:start -->
-* [46308300](https://news.social-protocols.org/stats?id=46308300) #25 5 points 1 comments -> [U.S. Customs and Border Protection Officer Charged with Bribery Offenses](https://www.justice.gov/usao-sdny/pr/us-customs-and-border-protection-officer-charged-bribery-offenses)<!-- HN:46308300:end --><!-- HN:46308295:start -->
-* [46308295](https://news.social-protocols.org/stats?id=46308295) #12 3 points 2 comments -> [I Have to Live in a Forest to Work on Open Source](https://trop.in/blog/i-have-to-live-in-a-forest-to-work-on-open-source)<!-- HN:46308295:end --><!-- HN:46267015:start -->
-* [46267015](https://news.social-protocols.org/stats?id=46267015) #24 8 points 0 comments -> [A Cosmic Offense: Elias Canetti's contest against death](https://www.commonwealmagazine.org/cosmic-offense)<!-- HN:46267015:end --><!-- HN:46311220:start -->
-* [46311220](https://news.social-protocols.org/stats?id=46311220) #18 43 points 15 comments -> [America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)<!-- HN:46311220:end --><!-- HN:46310146:start -->
-* [46310146](https://news.social-protocols.org/stats?id=46310146) #3 130 points 75 comments -> [GitHub Actions for Self-Hosted Runners Price Increase Postponed](https://pricetimeline.com/news/189)<!-- HN:46310146:end --><!-- HN:46317199:start -->
-* [46317199](https://news.social-protocols.org/stats?id=46317199) #10 24 points 13 comments -> [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)<!-- HN:46317199:end -->
 #### **Friday, December 19, 2025**
 <!-- HN:46319324:start -->
 * [46319324](https://news.social-protocols.org/stats?id=46319324) #9 136 points 25 comments -> [AI Vending Machine Was Tricked into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)<!-- HN:46319324:end --><!-- HN:46287140:start -->
