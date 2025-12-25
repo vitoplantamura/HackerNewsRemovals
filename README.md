@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46379743](https://news.social-protocols.org/stats?id=46379743) #29 16 points 2 comments -> [It Is Happening Here](https://newrepublic.com/article/204227/trump-immigration-nightmare-happening-here)<!-- HN:46379743:end --><!-- HN:46379927:start -->
 * [46379927](https://news.social-protocols.org/stats?id=46379927) #7 23 points 14 comments -> [Show HN: Just Fucking Use Cloudflare – A satirical guide to the CF stack](https://justfuckingusecloudflare.com)<!-- HN:46379927:end --><!-- HN:46379941:start -->
 * [46379941](https://news.social-protocols.org/stats?id=46379941) #15 6 points 0 comments -> [TOPS-10 in a Box (2011)](https://www.filfre.net/2011/05/tops-10-in-a-box/)<!-- HN:46379941:end -->
+#### **Thursday, December 25, 2025**
+<!-- HN:46380027:start -->
+* [46380027](https://news.social-protocols.org/stats?id=46380027) #29 15 points 7 comments -> [Microsoft: "30% of Our Code Is AI." Also Microsoft: "Windows Is Broken."](https://michael-dev-tech.github.io/Website/broken.html)<!-- HN:46380027:end -->
