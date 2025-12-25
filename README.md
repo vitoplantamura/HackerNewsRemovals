@@ -121,6 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46380027:start -->
 * [46380027](https://news.social-protocols.org/stats?id=46380027) #29 15 points 7 comments -> [Microsoft: "30% of Our Code Is AI." Also Microsoft: "Windows Is Broken."](https://michael-dev-tech.github.io/Website/broken.html)<!-- HN:46380027:end --><!-- HN:46381681:start -->
 * [46381681](https://news.social-protocols.org/stats?id=46381681) #12 7 points 1 comments -> [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)<!-- HN:46381681:end --><!-- HN:46351625:start -->
-* [46351625](https://news.social-protocols.org/stats?id=46351625) #22 7 points 0 comments -> [A Child in the State of Nature](https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/)<!-- HN:46351625:end --><!-- HN:46348004:start -->
-* [46348004](https://news.social-protocols.org/stats?id=46348004) #11 8 points 0 comments -> [Redis vs. BoltCache](https://github.com/wutlu/boltcache)<!-- HN:46348004:end --><!-- HN:46383344:start -->
+* [46351625](https://news.social-protocols.org/stats?id=46351625) #22 7 points 0 comments -> [A Child in the State of Nature](https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/)<!-- HN:46351625:end --><!-- HN:46383344:start -->
 * [46383344](https://news.social-protocols.org/stats?id=46383344) #4 12 points 9 comments -> [Why 'The Global Market' Is an Irresponsible Phrase](https://oswarld.com/eng/insight/251117_Why-the-global-market-Is-an-Irresponsible-Phrase)<!-- HN:46383344:end -->
