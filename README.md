@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46385335](https://news.social-protocols.org/stats?id=46385335) #8 5 points 1 comments -> [Why FedRAMP Authorization and CMMC Level 2 Are Now Table Stakes for GovCon AI](https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai)<!-- HN:46385335:end -->
 #### **Friday, December 26, 2025**
 <!-- HN:46354192:start -->
-* [46354192](https://news.social-protocols.org/stats?id=46354192) #23 14 points 3 comments -> [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)<!-- HN:46354192:end -->
+* [46354192](https://news.social-protocols.org/stats?id=46354192) #23 14 points 3 comments -> [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)<!-- HN:46354192:end --><!-- HN:46332018:start -->
+* [46332018](https://news.social-protocols.org/stats?id=46332018) #22 10 points 6 comments -> [Choosing the Right Python Docker Image for Finance Workloads](https://jiripik.com/2025/12/19/choosing-the-right-python-docker-image-for-finance-workloads/)<!-- HN:46332018:end -->
