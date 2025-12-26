@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46322379](https://news.social-protocols.org/stats?id=46322379) #25 15 points 6 comments -> [Reinventing the dial-up modem (2019)](https://saket.me/dtmf-tones/)<!-- HN:46322379:end --><!-- HN:46315583:start -->
 * [46315583](https://news.social-protocols.org/stats?id=46315583) #27 338 points 183 comments -> [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)<!-- HN:46315583:end --><!-- HN:46353177:start -->
 * [46353177](https://news.social-protocols.org/stats?id=46353177) #19 6 points 3 comments -> [I Spent 3 Months Researching Image-Based Attacks](https://zero-trust-web.vercel.app/)<!-- HN:46353177:end --><!-- HN:46389715:start -->
-* [46389715](https://news.social-protocols.org/stats?id=46389715) #2 6 points 3 comments -> [SQLite AI](https://www.sqlite.ai)<!-- HN:46389715:end -->
+* [46389715](https://news.social-protocols.org/stats?id=46389715) #2 6 points 3 comments -> [SQLite AI](https://www.sqlite.ai)<!-- HN:46389715:end --><!-- HN:46351178:start -->
+* [46351178](https://news.social-protocols.org/stats?id=46351178) #25 6 points 4 comments -> [Show HN: Coderive – Iterating through 1 Quintillion Inside a Loop in just 50ms](https://github.com/DanexCodr/Coderive)<!-- HN:46351178:end -->
