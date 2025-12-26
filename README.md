@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, December 26, 2025**
 <!-- HN:46354192:start -->
 * [46354192](https://news.social-protocols.org/stats?id=46354192) #23 14 points 3 comments -> [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)<!-- HN:46354192:end --><!-- HN:46332018:start -->
-* [46332018](https://news.social-protocols.org/stats?id=46332018) #22 10 points 6 comments -> [Choosing the Right Python Docker Image for Finance Workloads](https://jiripik.com/2025/12/19/choosing-the-right-python-docker-image-for-finance-workloads/)<!-- HN:46332018:end -->
+* [46332018](https://news.social-protocols.org/stats?id=46332018) #22 10 points 6 comments -> [Choosing the Right Python Docker Image for Finance Workloads](https://jiripik.com/2025/12/19/choosing-the-right-python-docker-image-for-finance-workloads/)<!-- HN:46332018:end --><!-- HN:46388904:start -->
+* [46388904](https://news.social-protocols.org/stats?id=46388904) #26 31 points 14 comments -> [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)<!-- HN:46388904:end -->
