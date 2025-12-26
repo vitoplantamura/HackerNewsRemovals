@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46384781](https://news.social-protocols.org/stats?id=46384781) #10 132 points 74 comments -> [Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)<!-- HN:46384781:end --><!-- HN:46338788:start -->
 * [46338788](https://news.social-protocols.org/stats?id=46338788) #8 5 points 2 comments -> [Rare look inside the secret Lego Museum](https://www.cbsnews.com/news/lego-secret-museum-denmark-headquarters/)<!-- HN:46338788:end --><!-- HN:46385335:start -->
 * [46385335](https://news.social-protocols.org/stats?id=46385335) #8 5 points 1 comments -> [Why FedRAMP Authorization and CMMC Level 2 Are Now Table Stakes for GovCon AI](https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai)<!-- HN:46385335:end -->
+#### **Friday, December 26, 2025**
+<!-- HN:46354192:start -->
+* [46354192](https://news.social-protocols.org/stats?id=46354192) #23 14 points 3 comments -> [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)<!-- HN:46354192:end -->
