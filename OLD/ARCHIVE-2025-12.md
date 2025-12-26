@@ -192,3 +192,14 @@
 * [46311220](https://news.ycombinator.com/item?id=46311220) #18 43 points 15 comments -> [America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)<!-- HN:46311220:end --><!-- HN:46310146:start -->
 * [46310146](https://news.ycombinator.com/item?id=46310146) #3 130 points 75 comments -> [GitHub Actions for Self-Hosted Runners Price Increase Postponed](https://pricetimeline.com/news/189)<!-- HN:46310146:end --><!-- HN:46317199:start -->
 * [46317199](https://news.ycombinator.com/item?id=46317199) #10 24 points 13 comments -> [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)<!-- HN:46317199:end -->
+#### **Friday, December 19, 2025**
+<!-- HN:46319324:start -->
+* [46319324](https://news.ycombinator.com/item?id=46319324) #9 136 points 25 comments -> [AI Vending Machine Was Tricked into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)<!-- HN:46319324:end --><!-- HN:46287140:start -->
+* [46287140](https://news.ycombinator.com/item?id=46287140) #14 6 points 1 comments -> [C++ lowcode toolkit for ERP and Accounting Software](https://fin.in.net)<!-- HN:46287140:end --><!-- HN:46261844:start -->
+* [46261844](https://news.ycombinator.com/item?id=46261844) #23 6 points 1 comments -> [Startup Playbook](https://playbook.samaltman.com/)<!-- HN:46261844:end --><!-- HN:46329109:start -->
+* [46329109](https://news.ycombinator.com/item?id=46329109) #11 28 points 20 comments -> [Why we're taking legal action against SerpApi's unlawful scraping](https://blog.google/technology/safety-security/serpapi-lawsuit/)<!-- HN:46329109:end --><!-- HN:46327791:start -->
+* [46327791](https://news.ycombinator.com/item?id=46327791) #19 16 points 40 comments -> [AI will kill all the lawyers](https://spectator.com/article/ai-will-kill-all-the-lawyers/)<!-- HN:46327791:end --><!-- HN:46327325:start -->
+* [46327325](https://news.ycombinator.com/item?id=46327325) #6 164 points 104 comments -> [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)<!-- HN:46327325:end --><!-- HN:46329729:start -->
+* [46329729](https://news.ycombinator.com/item?id=46329729) #16 5 points 4 comments -> [Your AI is lying to you.](https://WithTofu.com)<!-- HN:46329729:end --><!-- HN:46258377:start -->
+* [46258377](https://news.ycombinator.com/item?id=46258377) #22 37 points 40 comments -> [Does my key fob have more computing power than the Lunar lander?](https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander)<!-- HN:46258377:end --><!-- HN:46329530:start -->
+* [46329530](https://news.ycombinator.com/item?id=46329530) #6 40 points 1 comments -> [Performance Hints – Jeff Dean and Sanjay Ghemawat](https://abseil.io/fast/hints.html)<!-- HN:46329530:end -->

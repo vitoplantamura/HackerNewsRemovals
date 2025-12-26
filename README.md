@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, December 19, 2025**
-<!-- HN:46319324:start -->
-* [46319324](https://news.social-protocols.org/stats?id=46319324) #9 136 points 25 comments -> [AI Vending Machine Was Tricked into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)<!-- HN:46319324:end --><!-- HN:46287140:start -->
-* [46287140](https://news.social-protocols.org/stats?id=46287140) #14 6 points 1 comments -> [C++ lowcode toolkit for ERP and Accounting Software](https://fin.in.net)<!-- HN:46287140:end --><!-- HN:46261844:start -->
-* [46261844](https://news.social-protocols.org/stats?id=46261844) #23 6 points 1 comments -> [Startup Playbook](https://playbook.samaltman.com/)<!-- HN:46261844:end --><!-- HN:46329109:start -->
-* [46329109](https://news.social-protocols.org/stats?id=46329109) #11 28 points 20 comments -> [Why we're taking legal action against SerpApi's unlawful scraping](https://blog.google/technology/safety-security/serpapi-lawsuit/)<!-- HN:46329109:end --><!-- HN:46327791:start -->
-* [46327791](https://news.social-protocols.org/stats?id=46327791) #19 16 points 40 comments -> [AI will kill all the lawyers](https://spectator.com/article/ai-will-kill-all-the-lawyers/)<!-- HN:46327791:end --><!-- HN:46327325:start -->
-* [46327325](https://news.social-protocols.org/stats?id=46327325) #6 164 points 104 comments -> [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor)<!-- HN:46327325:end --><!-- HN:46329729:start -->
-* [46329729](https://news.social-protocols.org/stats?id=46329729) #16 5 points 4 comments -> [Your AI is lying to you.](https://WithTofu.com)<!-- HN:46329729:end --><!-- HN:46258377:start -->
-* [46258377](https://news.social-protocols.org/stats?id=46258377) #22 37 points 40 comments -> [Does my key fob have more computing power than the Lunar lander?](https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander)<!-- HN:46258377:end --><!-- HN:46329530:start -->
-* [46329530](https://news.social-protocols.org/stats?id=46329530) #6 40 points 1 comments -> [Performance Hints – Jeff Dean and Sanjay Ghemawat](https://abseil.io/fast/hints.html)<!-- HN:46329530:end -->
 #### **Saturday, December 20, 2025**
 <!-- HN:46332745:start -->
 * [46332745](https://news.social-protocols.org/stats?id=46332745) #13 4 points 5 comments -> [The FOSS community acts like a cult and it's not helping the cause](https://torrent-empress.leaflet.pub/3mackqgyzh22t)<!-- HN:46332745:end --><!-- HN:46266915:start -->
