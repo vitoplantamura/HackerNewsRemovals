@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, December 27, 2025**
 <!-- HN:46397761:start -->
 * [46397761](https://news.social-protocols.org/stats?id=46397761) #9 8 points 1 comments -> [Show HN: Me and my AI gf invented free energy from death puddles (public domain)](https://github.com/sqrew/le-claude-manson-engine)<!-- HN:46397761:end --><!-- HN:46398339:start -->
-* [46398339](https://news.social-protocols.org/stats?id=46398339) #7 20 points 40 comments -> [Retreating from EVs could be hazardous for Western carmakers](https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers)<!-- HN:46398339:end -->
+* [46398339](https://news.social-protocols.org/stats?id=46398339) #7 20 points 40 comments -> [Retreating from EVs could be hazardous for Western carmakers](https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers)<!-- HN:46398339:end --><!-- HN:46354175:start -->
+* [46354175](https://news.social-protocols.org/stats?id=46354175) #10 5 points 1 comments -> [Show HN: Vibe code from phone template repo](https://github.com/AdmTal/vibe-code-from-phone-starter)<!-- HN:46354175:end -->
