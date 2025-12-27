@@ -203,3 +203,14 @@
 * [46329729](https://news.ycombinator.com/item?id=46329729) #16 5 points 4 comments -> [Your AI is lying to you.](https://WithTofu.com)<!-- HN:46329729:end --><!-- HN:46258377:start -->
 * [46258377](https://news.ycombinator.com/item?id=46258377) #22 37 points 40 comments -> [Does my key fob have more computing power than the Lunar lander?](https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander)<!-- HN:46258377:end --><!-- HN:46329530:start -->
 * [46329530](https://news.ycombinator.com/item?id=46329530) #6 40 points 1 comments -> [Performance Hints – Jeff Dean and Sanjay Ghemawat](https://abseil.io/fast/hints.html)<!-- HN:46329530:end -->
+#### **Saturday, December 20, 2025**
+<!-- HN:46332745:start -->
+* [46332745](https://news.ycombinator.com/item?id=46332745) #13 4 points 5 comments -> [The FOSS community acts like a cult and it's not helping the cause](https://torrent-empress.leaflet.pub/3mackqgyzh22t)<!-- HN:46332745:end --><!-- HN:46266915:start -->
+* [46266915](https://news.ycombinator.com/item?id=46266915) #21 13 points 0 comments -> [Language Immersion, Prison-Style (2017)](https://www.themarshallproject.org/2017/12/14/my-do-it-yourself-language-immersion-prison-style)<!-- HN:46266915:end --><!-- HN:46245904:start -->
+* [46245904](https://news.ycombinator.com/item?id=46245904) #27 5 points 0 comments -> [Finding Alignment by Visualizing Music in Rust](https://positron.solutions/articles/finding-alignment-by-visualizing-music)<!-- HN:46245904:end --><!-- HN:46251460:start -->
+* [46251460](https://news.ycombinator.com/item?id=46251460) #18 145 points 36 comments -> [Lite^3, a JSON-compatible zero-copy serialization format](https://github.com/fastserial/lite3)<!-- HN:46251460:end --><!-- HN:46270574:start -->
+* [46270574](https://news.ycombinator.com/item?id=46270574) #15 17 points 1 comments -> [Iberian peninsula is rotating clockwise](https://phys.org/news/2025-12-iberian-peninsula-rotating-clockwise-geodynamic.html)<!-- HN:46270574:end --><!-- HN:46336892:start -->
+* [46336892](https://news.ycombinator.com/item?id=46336892) #7 4 points 1 comments -> [DotMeow – A fun domain with a serious mission](https://www.dotmeow.org)<!-- HN:46336892:end --><!-- HN:46336792:start -->
+* [46336792](https://news.ycombinator.com/item?id=46336792) #15 4 points 0 comments -> [Trumps Biggest Failures 2025](https://asiaviewnews.com/gigabots/Threads?p=100049)<!-- HN:46336792:end --><!-- HN:46337026:start -->
+* [46337026](https://news.ycombinator.com/item?id=46337026) #6 6 points 2 comments -> [Brothers are taking down Claude Code with OSS CLI](https://github.com/blackboxaicode/cli)<!-- HN:46337026:end --><!-- HN:46339495:start -->
+* [46339495](https://news.ycombinator.com/item?id=46339495) #26 3 points 0 comments -> [Show HN: Fucking Websites](https://afw.kuber.studio)<!-- HN:46339495:end -->
