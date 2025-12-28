@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, December 21, 2025**
-<!-- HN:46340192:start -->
-* [46340192](https://news.social-protocols.org/stats?id=46340192) #13 31 points 9 comments -> [I wrote a code editor in C and now I'm a changed man](https://github.com/thisismars-x/light)<!-- HN:46340192:end --><!-- HN:46271844:start -->
-* [46271844](https://news.social-protocols.org/stats?id=46271844) #28 19 points 26 comments -> [The Graffiti Question](https://www.guernicamag.com/the-graffiti-question/)<!-- HN:46271844:end --><!-- HN:46341035:start -->
-* [46341035](https://news.social-protocols.org/stats?id=46341035) #14 19 points 13 comments -> [Humankind's 10 million year love affair with booze might end](https://www.economist.com/christmas-specials/2025/12/18/how-humankinds-10m-year-love-affair-with-booze-might-end)<!-- HN:46341035:end --><!-- HN:46343976:start -->
-* [46343976](https://news.social-protocols.org/stats?id=46343976) #1 60 points 10 comments -> [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)<!-- HN:46343976:end --><!-- HN:46345692:start -->
-* [46345692](https://news.social-protocols.org/stats?id=46345692) #5 9 points 1 comments -> [RAG accuracy jumped from 10% to 60% when I added outcome scoring](https://roampal.ai/blog-ai-learns.html)<!-- HN:46345692:end --><!-- HN:46345000:start -->
-* [46345000](https://news.social-protocols.org/stats?id=46345000) #15 38 points 13 comments -> [Mozilla right now (Digital Painting)](https://www.davidrevoy.com/article1108/mozilla-right-now)<!-- HN:46345000:end --><!-- HN:46286167:start -->
-* [46286167](https://news.social-protocols.org/stats?id=46286167) #15 7 points 0 comments -> [A2UI: An Open Spec for Agent-Generated User Interfaces (Google)](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/)<!-- HN:46286167:end --><!-- HN:46348528:start -->
-* [46348528](https://news.social-protocols.org/stats?id=46348528) #5 6 points 2 comments -> [Creators Turn Your Outrage into Their Paycheck](https://thebookofragebait.com/)<!-- HN:46348528:end --><!-- HN:46346796:start -->
-* [46346796](https://news.social-protocols.org/stats?id=46346796) #2 496 points 173 comments -> [Logging Sucks](https://loggingsucks.com/)<!-- HN:46346796:end --><!-- HN:46348660:start -->
-* [46348660](https://news.social-protocols.org/stats?id=46348660) #28 15 points 5 comments -> [Engineering dogmas it's time to retire – by Anton Zaides](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to)<!-- HN:46348660:end -->
 #### **Monday, December 22, 2025**<!-- HN:46285424:start -->
 * [46285424](https://news.social-protocols.org/stats?id=46285424) #22 80 points 9 comments -> [Show HN: Autograd.c – a tiny ML framework built from scratch](https://github.com/sueszli/autograd.c)<!-- HN:46285424:end --><!-- HN:46352545:start -->
 * [46352545](https://news.social-protocols.org/stats?id=46352545) #27 6 points 2 comments -> [Israel could be bringing back the death penalty – but only for Palestinians](https://www.cbc.ca/news/world/israel-gaza-palestinian-death-penalty-9.7019609)<!-- HN:46352545:end --><!-- HN:46313024:start -->
