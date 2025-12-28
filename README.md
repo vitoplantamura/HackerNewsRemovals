@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46381236](https://news.social-protocols.org/stats?id=46381236) #13 15 points 0 comments -> [Love Actually is around Heathrow (2021)](https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport)<!-- HN:46381236:end -->
 #### **Sunday, December 28, 2025**
 <!-- HN:46405375:start -->
-* [46405375](https://news.social-protocols.org/stats?id=46405375) #30 40 points 9 comments -> [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)<!-- HN:46405375:end -->
+* [46405375](https://news.social-protocols.org/stats?id=46405375) #30 40 points 9 comments -> [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)<!-- HN:46405375:end --><!-- HN:46405927:start -->
+* [46405927](https://news.social-protocols.org/stats?id=46405927) #28 39 points 40 comments -> [Big Tech stole $35T from the public [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)<!-- HN:46405927:end -->
