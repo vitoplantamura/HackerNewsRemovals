@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46364482](https://news.social-protocols.org/stats?id=46364482) #11 12 points 0 comments -> [Reflections and rantings from a system design interviewer](https://www.calvinbarker.com/blog/reflections-and-rantings-from-a-system-design-interviewer)<!-- HN:46364482:end --><!-- HN:46404957:start -->
 * [46404957](https://news.social-protocols.org/stats?id=46404957) #8 15 points 4 comments -> [Getting Fired over LinkedIn Account](https://priyatham.in/en/post/linkedin-horror/)<!-- HN:46404957:end --><!-- HN:46381236:start -->
 * [46381236](https://news.social-protocols.org/stats?id=46381236) #13 15 points 0 comments -> [Love Actually is around Heathrow (2021)](https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport)<!-- HN:46381236:end -->
+#### **Sunday, December 28, 2025**
+<!-- HN:46405375:start -->
+* [46405375](https://news.social-protocols.org/stats?id=46405375) #30 40 points 9 comments -> [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)<!-- HN:46405375:end -->
