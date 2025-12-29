@@ -115,5 +115,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46345412](https://news.social-protocols.org/stats?id=46345412) #16 113 points 32 comments -> [Never Use Pixelation to Hide Sensitive Text (2014)](https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/)<!-- HN:46345412:end --><!-- HN:46415164:start -->
 * [46415164](https://news.social-protocols.org/stats?id=46415164) #7 6 points 1 comments -> [The Internet Is a Net Negative](https://kennethreitz.org/essays/2025-12-28-the_internet_is_a_net_negative)<!-- HN:46415164:end -->
 #### **Monday, December 29, 2025**
-<!-- HN:46415945:start -->
-* [46415945](https://news.social-protocols.org/stats?id=46415945) #5 11 points 1 comments -> [Rich Hickey: Thanks AI](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)<!-- HN:46415945:end -->
