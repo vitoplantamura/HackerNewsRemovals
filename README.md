@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46428699:start -->
 * [46428699](https://news.social-protocols.org/stats?id=46428699) #21 11 points 11 comments -> [Show HN: Cover letter generator with Ollama/local LLMs (Open source)](https://www.coverlettermaker.co)<!-- HN:46428699:end --><!-- HN:46390123:start -->
 * [46390123](https://news.social-protocols.org/stats?id=46390123) #25 11 points 2 comments -> [The AI Noise](https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/)<!-- HN:46390123:end --><!-- HN:46431453:start -->
-* [46431453](https://news.social-protocols.org/stats?id=46431453) #8 188 points 162 comments -> [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)<!-- HN:46431453:end -->
+* [46431453](https://news.social-protocols.org/stats?id=46431453) #8 188 points 162 comments -> [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)<!-- HN:46431453:end --><!-- HN:46435477:start -->
+* [46435477](https://news.social-protocols.org/stats?id=46435477) #27 11 points 4 comments -> ['Commuting Is Bad'–Particularly for Women](https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/)<!-- HN:46435477:end -->
