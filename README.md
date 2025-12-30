@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46422139](https://news.social-protocols.org/stats?id=46422139) #26 26 points 13 comments -> [US Confirms Strike on 'Big Facility' Inside Venezuela](https://www.bloomberg.com/news/articles/2025-12-29/trump-claims-us-strike-on-big-facility-inside-venezuela)<!-- HN:46422139:end --><!-- HN:46425371:start -->
 * [46425371](https://news.social-protocols.org/stats?id=46425371) #9 3 points 1 comments -> [Show HN: I derived Planck mass from sphere packing – 0.574 ppm, zero free param](https://zenodo.org/records/18089296)<!-- HN:46425371:end --><!-- HN:46426131:start -->
 * [46426131](https://news.social-protocols.org/stats?id=46426131) #12 49 points 64 comments -> [USPS Announces Changes to the Postmark Date System](https://nstp.org/article/usps-announces-changes-postmark-date-system)<!-- HN:46426131:end -->
+#### **Tuesday, December 30, 2025**
+<!-- HN:46428699:start -->
+* [46428699](https://news.social-protocols.org/stats?id=46428699) #21 11 points 11 comments -> [Show HN: Cover letter generator with Ollama/local LLMs (Open source)](https://www.coverlettermaker.co)<!-- HN:46428699:end -->
