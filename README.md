@@ -115,4 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46439369:start -->
 * [46439369](https://news.social-protocols.org/stats?id=46439369) #16 6 points 1 comments -> [Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)<!-- HN:46439369:end --><!-- HN:46440621:start -->
 * [46440621](https://news.social-protocols.org/stats?id=46440621) #6 8 points 0 comments -> [SomaliScan – US Fraud aggregator sourced from public records](https://www.somaliscan.com/)<!-- HN:46440621:end --><!-- HN:46441592:start -->
-* [46441592](https://news.social-protocols.org/stats?id=46441592) #6 3 points 1 comments -> [Questions to ask yourself every year](https://gourav.io/blog/yearly-review)<!-- HN:46441592:end -->
+* [46441592](https://news.social-protocols.org/stats?id=46441592) #6 3 points 1 comments -> [Questions to ask yourself every year](https://gourav.io/blog/yearly-review)<!-- HN:46441592:end --><!-- HN:46362895:start -->
+* [46362895](https://news.social-protocols.org/stats?id=46362895) #7 9 points 0 comments -> [Scamp (Suite for Computer-Assisted Music in Python)](https://scamp.marcevanstein.com)<!-- HN:46362895:end --><!-- HN:46366010:start -->
+* [46366010](https://news.social-protocols.org/stats?id=46366010) #16 214 points 28 comments -> [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)<!-- HN:46366010:end -->
