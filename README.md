@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, December 31, 2025**
 <!-- HN:46439369:start -->
 * [46439369](https://news.social-protocols.org/stats?id=46439369) #16 6 points 1 comments -> [Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)<!-- HN:46439369:end --><!-- HN:46440621:start -->
-* [46440621](https://news.social-protocols.org/stats?id=46440621) #6 8 points 0 comments -> [SomaliScan – US Fraud aggregator sourced from public records](https://www.somaliscan.com/)<!-- HN:46440621:end -->
+* [46440621](https://news.social-protocols.org/stats?id=46440621) #6 8 points 0 comments -> [SomaliScan – US Fraud aggregator sourced from public records](https://www.somaliscan.com/)<!-- HN:46440621:end --><!-- HN:46441592:start -->
+* [46441592](https://news.social-protocols.org/stats?id=46441592) #6 3 points 1 comments -> [Questions to ask yourself every year](https://gourav.io/blog/yearly-review)<!-- HN:46441592:end -->
