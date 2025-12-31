@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46438122](https://news.social-protocols.org/stats?id=46438122) #16 18 points 4 comments -> [How the "Marvelization" of Cinema Accelerates the Decline of Filmmaking](https://www.openculture.com/2025/11/how-the-marvelization-of-cinema-accelerates-the-decline-of-filmmaking.html)<!-- HN:46438122:end -->
 #### **Wednesday, December 31, 2025**
 <!-- HN:46439369:start -->
-* [46439369](https://news.social-protocols.org/stats?id=46439369) #16 6 points 1 comments -> [Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)<!-- HN:46439369:end -->
+* [46439369](https://news.social-protocols.org/stats?id=46439369) #16 6 points 1 comments -> [Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)<!-- HN:46439369:end --><!-- HN:46440621:start -->
+* [46440621](https://news.social-protocols.org/stats?id=46440621) #6 8 points 0 comments -> [SomaliScan – US Fraud aggregator sourced from public records](https://www.somaliscan.com/)<!-- HN:46440621:end -->
