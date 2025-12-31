@@ -111,3 +111,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46438216](https://news.social-protocols.org/stats?id=46438216) #17 4 points 1 comments -> [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo)<!-- HN:46438216:end --><!-- HN:46438252:start -->
 * [46438252](https://news.social-protocols.org/stats?id=46438252) #10 10 points 3 comments -> [The moment GMV is labeled ARR, the business is built on sand](https://oswarld.com/eng/insight/250816_ai-arr-illusion-gmv-vs-arr)<!-- HN:46438252:end --><!-- HN:46438122:start -->
 * [46438122](https://news.social-protocols.org/stats?id=46438122) #16 18 points 4 comments -> [How the "Marvelization" of Cinema Accelerates the Decline of Filmmaking](https://www.openculture.com/2025/11/how-the-marvelization-of-cinema-accelerates-the-decline-of-filmmaking.html)<!-- HN:46438122:end -->
+#### **Wednesday, December 31, 2025**
+<!-- HN:46439369:start -->
+* [46439369](https://news.social-protocols.org/stats?id=46439369) #16 6 points 1 comments -> [Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)<!-- HN:46439369:end -->
