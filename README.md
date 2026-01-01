@@ -115,3 +115,8 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46447659](https://news.social-protocols.org/stats?id=46447659) #6 21 points 24 comments -> [FTX whistleblower Caroline Ellison set for early release next month](https://invezz.com/news/2025/12/26/ftx-whistleblower-caroline-ellison-set-for-early-release-next-month/)<!-- HN:46447659:end --><!-- HN:46448031:start -->
 * [46448031](https://news.social-protocols.org/stats?id=46448031) #9 -> [Happy New Year HN](https://tenor.com/view/gg-gif-12398339126318398543)<!-- HN:46448031:end --><!-- HN:46403813:start -->
 * [46403813](https://news.social-protocols.org/stats?id=46403813) #24 13 points 5 comments -> [39C3 Grafana Dashboard](https://dashboard.congress.ccc.de/public-dashboards/e6cf86b287304662b4d1b8eb31b5ab50)<!-- HN:46403813:end -->
+#### **Thursday, January 1, 2026**
+<!-- HN:46373817:start -->
+* [46373817](https://news.social-protocols.org/stats?id=46373817) #14 10 points 8 comments -> [Ultra-Wide Band: A Transformational Technology for the Internet of Things](https://www.eetimes.com/ultra-wide-band-a-transformational-technology-for-the-internet-of-things/)<!-- HN:46373817:end --><!-- HN:46385943:start -->
+* [46385943](https://news.social-protocols.org/stats?id=46385943) #21 7 points 0 comments -> [How to recognise a genuine password request](https://eclecticlight.co/2025/12/18/how-to-recognise-a-genuine-password-request/)<!-- HN:46385943:end --><!-- HN:46384349:start -->
+* [46384349](https://news.social-protocols.org/stats?id=46384349) #29 33 points 3 comments -> [A Christmas Present to Myself – Vector Network Analyzer (2014)](https://axotron.se/blog/vector-network-analyzer-a-christmas-present-to-myself/)<!-- HN:46384349:end -->
