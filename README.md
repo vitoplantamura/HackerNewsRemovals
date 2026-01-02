@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46385943](https://news.social-protocols.org/stats?id=46385943) #21 7 points 0 comments -> [How to recognise a genuine password request](https://eclecticlight.co/2025/12/18/how-to-recognise-a-genuine-password-request/)<!-- HN:46385943:end --><!-- HN:46384349:start -->
 * [46384349](https://news.social-protocols.org/stats?id=46384349) #29 33 points 3 comments -> [A Christmas Present to Myself – Vector Network Analyzer (2014)](https://axotron.se/blog/vector-network-analyzer-a-christmas-present-to-myself/)<!-- HN:46384349:end --><!-- HN:46456838:start -->
 * [46456838](https://news.social-protocols.org/stats?id=46456838) #24 5 points 4 comments -> [Modern evidence for God from cosmology, astrochemistry, etc. (by a YC alum)](https://www.saintbeluga.org/follow-the-evidence-wherever-it-leads)<!-- HN:46456838:end -->
+#### **Friday, January 2, 2026**
+<!-- HN:46459859:start -->
+* [46459859](https://news.social-protocols.org/stats?id=46459859) #7 4 points 1 comments -> [Show HN: Kirkified AI – 1-click Charlie Kirk face-swap memes (free, no signup)](https://kirkifiedai.com/)<!-- HN:46459859:end -->
