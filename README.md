@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46463600](https://news.social-protocols.org/stats?id=46463600) #19 5 points 2 comments -> [2025 Letter](https://danwang.co/)<!-- HN:46463600:end --><!-- HN:46464565:start -->
 * [46464565](https://news.social-protocols.org/stats?id=46464565) #6 4 points 0 comments -> [A Socialist Now Runs New York. Here's What History Predicts](https://zcashexplained.com/blog/new-york-voted-socialist/)<!-- HN:46464565:end --><!-- HN:46465513:start -->
 * [46465513](https://news.social-protocols.org/stats?id=46465513) #14 33 points 23 comments -> [Vibe Coding Killed Cursor](https://ischemist.com/writings/long-form/how-vibe-coding-killed-cursor)<!-- HN:46465513:end --><!-- HN:46465622:start -->
-* [46465622](https://news.social-protocols.org/stats?id=46465622) #30 4 points 1 comments -> [Kling Motion Control AI](https://motion-control.io)<!-- HN:46465622:end -->
+* [46465622](https://news.social-protocols.org/stats?id=46465622) #30 4 points 1 comments -> [Kling Motion Control AI](https://motion-control.io)<!-- HN:46465622:end --><!-- HN:46469780:start -->
+* [46469780](https://news.social-protocols.org/stats?id=46469780) #22 36 points 22 comments -> [I wrote the manual Karpathy said was missing for agentic AI](https://github.com/nicolasahar/morphic-programming)<!-- HN:46469780:end -->
