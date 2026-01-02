@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46459859:start -->
 * [46459859](https://news.social-protocols.org/stats?id=46459859) #7 4 points 1 comments -> [Show HN: Kirkified AI – 1-click Charlie Kirk face-swap memes (free, no signup)](https://kirkifiedai.com/)<!-- HN:46459859:end --><!-- HN:46460208:start -->
 * [46460208](https://news.social-protocols.org/stats?id=46460208) #12 21 points 1 comments -> [California Delete Request and Opt-out Platform (DROP)](https://privacy.ca.gov/DROP/)<!-- HN:46460208:end --><!-- HN:46460831:start -->
-* [46460831](https://news.social-protocols.org/stats?id=46460831) #19 7 points 2 comments -> [DENT: A network operating system (NOS) for everyone else](https://dent.dev/)<!-- HN:46460831:end -->
+* [46460831](https://news.social-protocols.org/stats?id=46460831) #19 7 points 2 comments -> [DENT: A network operating system (NOS) for everyone else](https://dent.dev/)<!-- HN:46460831:end --><!-- HN:46460867:start -->
+* [46460867](https://news.social-protocols.org/stats?id=46460867) #25 33 points 11 comments -> [China's BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)<!-- HN:46460867:end -->
