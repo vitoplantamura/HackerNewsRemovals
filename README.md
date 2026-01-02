@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, December 26, 2025**
-<!-- HN:46354192:start -->
-* [46354192](https://news.social-protocols.org/stats?id=46354192) #23 14 points 3 comments -> [Dasharo TrustRoot Ephemeral Key Incident](https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/)<!-- HN:46354192:end --><!-- HN:46332018:start -->
-* [46332018](https://news.social-protocols.org/stats?id=46332018) #22 10 points 6 comments -> [Choosing the Right Python Docker Image for Finance Workloads](https://jiripik.com/2025/12/19/choosing-the-right-python-docker-image-for-finance-workloads/)<!-- HN:46332018:end --><!-- HN:46388904:start -->
-* [46388904](https://news.social-protocols.org/stats?id=46388904) #26 31 points 14 comments -> [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose)<!-- HN:46388904:end --><!-- HN:46322379:start -->
-* [46322379](https://news.social-protocols.org/stats?id=46322379) #25 15 points 6 comments -> [Reinventing the dial-up modem (2019)](https://saket.me/dtmf-tones/)<!-- HN:46322379:end --><!-- HN:46315583:start -->
-* [46315583](https://news.social-protocols.org/stats?id=46315583) #27 338 points 183 comments -> [Toys with the highest play-time and lowest clean-up-time](https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and)<!-- HN:46315583:end --><!-- HN:46353177:start -->
-* [46353177](https://news.social-protocols.org/stats?id=46353177) #19 6 points 3 comments -> [I Spent 3 Months Researching Image-Based Attacks](https://zero-trust-web.vercel.app/)<!-- HN:46353177:end --><!-- HN:46389715:start -->
-* [46389715](https://news.social-protocols.org/stats?id=46389715) #2 6 points 3 comments -> [SQLite AI](https://www.sqlite.ai)<!-- HN:46389715:end --><!-- HN:46351178:start -->
-* [46351178](https://news.social-protocols.org/stats?id=46351178) #25 6 points 4 comments -> [Show HN: Coderive – Iterating through 1 Quintillion Inside a Loop in just 50ms](https://github.com/DanexCodr/Coderive)<!-- HN:46351178:end --><!-- HN:46391220:start -->
-* [46391220](https://news.social-protocols.org/stats?id=46391220) #26 11 points 4 comments -> [How Postmodernism Killed Great Literature](https://jamesgmartin.center/2025/12/how-postmodernism-killed-great-literature/)<!-- HN:46391220:end --><!-- HN:46396267:start -->
-* [46396267](https://news.social-protocols.org/stats?id=46396267) #8 9 points 1 comments -> [Uv: An Fast Python Package Manager](https://www.janestreet.com/tech-talks/uv-an-extremely-fast-python-package-manager/)<!-- HN:46396267:end --><!-- HN:46346546:start -->
-* [46346546](https://news.social-protocols.org/stats?id=46346546) #10 6 points 0 comments -> [Lofoten Islands Hiking](https://www.switchbacktravel.com/norway/lofoten-islands/hiking)<!-- HN:46346546:end -->
 #### **Saturday, December 27, 2025**
 <!-- HN:46397761:start -->
 * [46397761](https://news.social-protocols.org/stats?id=46397761) #9 8 points 1 comments -> [Show HN: Me and my AI gf invented free energy from death puddles (public domain)](https://github.com/sqrew/le-claude-manson-engine)<!-- HN:46397761:end --><!-- HN:46398339:start -->
