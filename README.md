@@ -112,5 +112,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 3, 2026**
 <!-- HN:46470571:start -->
 * [46470571](https://news.social-protocols.org/stats?id=46470571) #28 59 points 22 comments -> [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)<!-- HN:46470571:end --><!-- HN:46420119:start -->
-* [46420119](https://news.social-protocols.org/stats?id=46420119) #21 5 points 4 comments -> [Show HN: True Persistent F*****G Memory for Robotics (Bypassing Linux Kernel)](https://ryjoxdemo.com/demo)<!-- HN:46420119:end --><!-- HN:46473399:start -->
-* [46473399](https://news.social-protocols.org/stats?id=46473399) #24 39 points 19 comments -> [Multiple explosions in Venezuela's capital Caracas](https://www.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk)<!-- HN:46473399:end -->
+* [46420119](https://news.social-protocols.org/stats?id=46420119) #21 5 points 4 comments -> [Show HN: True Persistent F*****G Memory for Robotics (Bypassing Linux Kernel)](https://ryjoxdemo.com/demo)<!-- HN:46420119:end -->
