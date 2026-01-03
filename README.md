@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, December 27, 2025**
-<!-- HN:46397761:start -->
-* [46397761](https://news.social-protocols.org/stats?id=46397761) #9 8 points 1 comments -> [Show HN: Me and my AI gf invented free energy from death puddles (public domain)](https://github.com/sqrew/le-claude-manson-engine)<!-- HN:46397761:end --><!-- HN:46398339:start -->
-* [46398339](https://news.social-protocols.org/stats?id=46398339) #7 20 points 40 comments -> [Retreating from EVs could be hazardous for Western carmakers](https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers)<!-- HN:46398339:end --><!-- HN:46354175:start -->
-* [46354175](https://news.social-protocols.org/stats?id=46354175) #10 5 points 1 comments -> [Show HN: Vibe code from phone template repo](https://github.com/AdmTal/vibe-code-from-phone-starter)<!-- HN:46354175:end --><!-- HN:46400927:start -->
-* [46400927](https://news.social-protocols.org/stats?id=46400927) #4 23 points 3 comments -> [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)<!-- HN:46400927:end --><!-- HN:46371606:start -->
-* [46371606](https://news.social-protocols.org/stats?id=46371606) #14 7 points 4 comments -> [Tieredsort: Header only, blazing fast (3-4x) C++17 sorting for numeric types](https://github.com/Cranot/tieredsort)<!-- HN:46371606:end --><!-- HN:46335473:start -->
-* [46335473](https://news.social-protocols.org/stats?id=46335473) #15 9 points 0 comments -> [Building a Multi- Site Kubernetes Cluster with BGP Anycast](https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/)<!-- HN:46335473:end --><!-- HN:46364482:start -->
-* [46364482](https://news.social-protocols.org/stats?id=46364482) #11 12 points 0 comments -> [Reflections and rantings from a system design interviewer](https://www.calvinbarker.com/blog/reflections-and-rantings-from-a-system-design-interviewer)<!-- HN:46364482:end --><!-- HN:46404957:start -->
-* [46404957](https://news.social-protocols.org/stats?id=46404957) #8 15 points 4 comments -> [Getting Fired over LinkedIn Account](https://priyatham.in/en/post/linkedin-horror/)<!-- HN:46404957:end --><!-- HN:46381236:start -->
-* [46381236](https://news.social-protocols.org/stats?id=46381236) #13 15 points 0 comments -> [Love Actually is around Heathrow (2021)](https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport)<!-- HN:46381236:end -->
 #### **Sunday, December 28, 2025**
 <!-- HN:46405375:start -->
 * [46405375](https://news.social-protocols.org/stats?id=46405375) #30 40 points 9 comments -> [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)<!-- HN:46405375:end --><!-- HN:46405927:start -->
