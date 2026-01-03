@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46465513](https://news.social-protocols.org/stats?id=46465513) #14 33 points 23 comments -> [Vibe Coding Killed Cursor](https://ischemist.com/writings/long-form/how-vibe-coding-killed-cursor)<!-- HN:46465513:end --><!-- HN:46465622:start -->
 * [46465622](https://news.social-protocols.org/stats?id=46465622) #30 4 points 1 comments -> [Kling Motion Control AI](https://motion-control.io)<!-- HN:46465622:end --><!-- HN:46469780:start -->
 * [46469780](https://news.social-protocols.org/stats?id=46469780) #22 36 points 22 comments -> [I wrote the manual Karpathy said was missing for agentic AI](https://github.com/nicolasahar/morphic-programming)<!-- HN:46469780:end -->
+#### **Saturday, January 3, 2026**
+<!-- HN:46470571:start -->
+* [46470571](https://news.social-protocols.org/stats?id=46470571) #28 59 points 22 comments -> [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)<!-- HN:46470571:end -->
