@@ -119,5 +119,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, January 4, 2026**
 <!-- HN:46483876:start -->
 * [46483876](https://news.social-protocols.org/stats?id=46483876) #7 6 points 0 comments -> [The Vietnam War: The Press on the Front Lines](https://www.heinzhistorycenter.org/blog/collection-spotlight-vietnam-war-press-on-the-front-lines/)<!-- HN:46483876:end --><!-- HN:46426931:start -->
-* [46426931](https://news.social-protocols.org/stats?id=46426931) #17 10 points 4 comments -> [Evolution: Training neural networks with genetic selection achieves 81% on MNIST](https://github.com/A1CST/GENREG_ALPHA_MNIST)<!-- HN:46426931:end --><!-- HN:46487006:start -->
-* [46487006](https://news.social-protocols.org/stats?id=46487006) #14 8 points 6 comments -> [The Venezuelan Oil Narative Is Pure Theatre](https://renegaderesources.pro/p/the-venezuelan-oil-narative-is-pure)<!-- HN:46487006:end -->
+* [46426931](https://news.social-protocols.org/stats?id=46426931) #17 10 points 4 comments -> [Evolution: Training neural networks with genetic selection achieves 81% on MNIST](https://github.com/A1CST/GENREG_ALPHA_MNIST)<!-- HN:46426931:end -->
