@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, December 28, 2025**
-<!-- HN:46405375:start -->
-* [46405375](https://news.social-protocols.org/stats?id=46405375) #30 40 points 9 comments -> [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)<!-- HN:46405375:end --><!-- HN:46405927:start -->
-* [46405927](https://news.social-protocols.org/stats?id=46405927) #28 39 points 40 comments -> [Big Tech stole $35T from the public [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)<!-- HN:46405927:end --><!-- HN:46407331:start -->
-* [46407331](https://news.social-protocols.org/stats?id=46407331) #30 3 points 1 comments -> [Software ate the world. Federation will eat embeddings](https://www.gnanaguru.com/p/federation-over-embeddings-let-ai)<!-- HN:46407331:end --><!-- HN:46408457:start -->
-* [46408457](https://news.social-protocols.org/stats?id=46408457) #5 14 points 3 comments -> [Travel agents took 10 years to collapse, developers are three years in](https://martinalderson.com/posts/travel-agents-developers/)<!-- HN:46408457:end --><!-- HN:46406213:start -->
-* [46406213](https://news.social-protocols.org/stats?id=46406213) #25 44 points 7 comments -> [7- and 14-segment fonts "DSEG"](https://www.keshikan.net/fonts.html)<!-- HN:46406213:end --><!-- HN:46412114:start -->
-* [46412114](https://news.social-protocols.org/stats?id=46412114) #3 6 points 1 comments -> [Things Developers Can Avoid in 2026](https://newsletter.compasscalendar.com/p/77-things-to-avoid-in-2026-developer)<!-- HN:46412114:end --><!-- HN:46341926:start -->
-* [46341926](https://news.social-protocols.org/stats?id=46341926) #23 31 points 40 comments -> [William Golding's Island of Savagery](https://www.historytoday.com/archive/portrait-author-historian/william-goldings-island-savagery)<!-- HN:46341926:end --><!-- HN:46412007:start -->
-* [46412007](https://news.social-protocols.org/stats?id=46412007) #12 27 points 7 comments -> [Shut Up About the Water](https://prettygoodblog.com/p/shut-up-about-the-water)<!-- HN:46412007:end --><!-- HN:46412717:start -->
-* [46412717](https://news.social-protocols.org/stats?id=46412717) #2 -> [RustOCR – Now do OCR 5-10x faster than EasyOCR](https://crates.io/crates/rustocr)<!-- HN:46412717:end --><!-- HN:46345412:start -->
-* [46345412](https://news.social-protocols.org/stats?id=46345412) #16 113 points 32 comments -> [Never Use Pixelation to Hide Sensitive Text (2014)](https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/)<!-- HN:46345412:end -->
 #### **Monday, December 29, 2025**<!-- HN:46369808:start -->
 * [46369808](https://news.social-protocols.org/stats?id=46369808) #10 89 points 39 comments -> [Researchers develop a camera that can focus on different distances at once](https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html)<!-- HN:46369808:end --><!-- HN:46417724:start -->
 * [46417724](https://news.social-protocols.org/stats?id=46417724) #19 45 points 24 comments -> [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo)<!-- HN:46417724:end --><!-- HN:46419249:start -->
