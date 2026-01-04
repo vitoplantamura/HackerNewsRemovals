@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46480709](https://news.social-protocols.org/stats?id=46480709) #5 33 points 10 comments -> [Busy Is the New Stupid](https://www.cisotradecraft.com/bitns)<!-- HN:46480709:end --><!-- HN:46482234:start -->
 * [46482234](https://news.social-protocols.org/stats?id=46482234) #9 10 points 1 comments -> [The Return of the American Protectorate](https://www.karlsnotes.com/running-venezuela-the-return-of-the-american-protectorate/)<!-- HN:46482234:end --><!-- HN:46482972:start -->
 * [46482972](https://news.social-protocols.org/stats?id=46482972) #6 3 points 0 comments -> [The Venezuelan change: Why do people keep getting him wrong on foreign policy?](https://warontherocks.com/2026/01/trumps-venezuelan-regime-change-why-do-people-keep-getting-him-wrong-on-foreign-policy/)<!-- HN:46482972:end -->
+#### **Sunday, January 4, 2026**
+<!-- HN:46483876:start -->
+* [46483876](https://news.social-protocols.org/stats?id=46483876) #7 6 points 0 comments -> [The Vietnam War: The Press on the Front Lines](https://www.heinzhistorycenter.org/blog/collection-spotlight-vietnam-war-press-on-the-front-lines/)<!-- HN:46483876:end -->
