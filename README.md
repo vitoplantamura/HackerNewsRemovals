@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46491765:start -->
 * [46491765](https://news.social-protocols.org/stats?id=46491765) #21 40 points 40 comments -> [OpenGitOps](https://opengitops.dev/)<!-- HN:46491765:end --><!-- HN:46494830:start -->
 * [46494830](https://news.social-protocols.org/stats?id=46494830) #8 7 points 5 comments -> [AGI Is Here](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46494830:end --><!-- HN:46434717:start -->
-* [46434717](https://news.social-protocols.org/stats?id=46434717) #26 4 points 2 comments -> [What changes when AI memory stops being ephemeral?](https://ryjoxdemo.com/architecture)<!-- HN:46434717:end -->
+* [46434717](https://news.social-protocols.org/stats?id=46434717) #26 4 points 2 comments -> [What changes when AI memory stops being ephemeral?](https://ryjoxdemo.com/architecture)<!-- HN:46434717:end --><!-- HN:46422574:start -->
+* [46422574](https://news.social-protocols.org/stats?id=46422574) #11 178 points 110 comments -> [The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)](https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/)<!-- HN:46422574:end -->
