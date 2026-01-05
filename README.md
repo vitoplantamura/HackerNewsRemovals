@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, December 29, 2025**<!-- HN:46369808:start -->
-* [46369808](https://news.social-protocols.org/stats?id=46369808) #10 89 points 39 comments -> [Researchers develop a camera that can focus on different distances at once](https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html)<!-- HN:46369808:end --><!-- HN:46417724:start -->
-* [46417724](https://news.social-protocols.org/stats?id=46417724) #19 45 points 24 comments -> [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo)<!-- HN:46417724:end --><!-- HN:46419249:start -->
-* [46419249](https://news.social-protocols.org/stats?id=46419249) #29 9 points 0 comments -> [Musk's DOGE Failed to Slash Government Spending, It Led to a 6% Increase](https://offthefrontpage.com/musks-doge-failed-to-slash-government-spending-instead-leading-to-a-6-increase/)<!-- HN:46419249:end --><!-- HN:46401569:start -->
-* [46401569](https://news.social-protocols.org/stats?id=46401569) #6 7 points 6 comments -> [I asked AI researchers and economists about SWE career strategies given AI](https://chrisbarber.co/I+asked+AI+researchers+%26+economists+about+SWE+career+strategy+and+the+future+of+AI)<!-- HN:46401569:end --><!-- HN:46364875:start -->
-* [46364875](https://news.social-protocols.org/stats?id=46364875) #11 3 points 0 comments -> [Content Infinite Loop: 1 Hour Work, 30 Days of Traffic](https://blog.vect.pro/content-infinite-loop-guide)<!-- HN:46364875:end --><!-- HN:46421004:start -->
-* [46421004](https://news.social-protocols.org/stats?id=46421004) #28 5 points 1 comments -> [Why Europe's night-train Renaissance derailed](https://www.politico.eu/article/why-europe-night-train-renaissance-derailed/)<!-- HN:46421004:end --><!-- HN:46422139:start -->
-* [46422139](https://news.social-protocols.org/stats?id=46422139) #26 26 points 13 comments -> [US Confirms Strike on 'Big Facility' Inside Venezuela](https://www.bloomberg.com/news/articles/2025-12-29/trump-claims-us-strike-on-big-facility-inside-venezuela)<!-- HN:46422139:end --><!-- HN:46425371:start -->
-* [46425371](https://news.social-protocols.org/stats?id=46425371) #9 3 points 1 comments -> [Show HN: I derived Planck mass from sphere packing – 0.574 ppm, zero free param](https://zenodo.org/records/18089296)<!-- HN:46425371:end --><!-- HN:46426131:start -->
-* [46426131](https://news.social-protocols.org/stats?id=46426131) #12 49 points 64 comments -> [USPS Announces Changes to the Postmark Date System](https://nstp.org/article/usps-announces-changes-postmark-date-system)<!-- HN:46426131:end -->
 #### **Tuesday, December 30, 2025**
 <!-- HN:46428699:start -->
 * [46428699](https://news.social-protocols.org/stats?id=46428699) #21 11 points 11 comments -> [Show HN: Cover letter generator with Ollama/local LLMs (Open source)](https://www.coverlettermaker.co)<!-- HN:46428699:end --><!-- HN:46390123:start -->
