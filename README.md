@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46496975](https://news.social-protocols.org/stats?id=46496975) #23 -> [Danish PM tells Trump to stop 'threats' against Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o)<!-- HN:46496975:end --><!-- HN:46497883:start -->
 * [46497883](https://news.social-protocols.org/stats?id=46497883) #5 2 points 0 comments -> [Didascal](https://didascal.com)<!-- HN:46497883:end --><!-- HN:46498676:start -->
 * [46498676](https://news.social-protocols.org/stats?id=46498676) #28 25 points 21 comments -> [Ozempic Melted Away Weight–and the Idea of 'Body Positivity'](https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c)<!-- HN:46498676:end --><!-- HN:46442322:start -->
-* [46442322](https://news.social-protocols.org/stats?id=46442322) #26 -> [What do I mean by some software devs are "ngmi"?](https://ghuntley.com/ngmi/)<!-- HN:46442322:end -->
+* [46442322](https://news.social-protocols.org/stats?id=46442322) #26 -> [What do I mean by some software devs are "ngmi"?](https://ghuntley.com/ngmi/)<!-- HN:46442322:end --><!-- HN:46500394:start -->
+* [46500394](https://news.social-protocols.org/stats?id=46500394) #7 9 points 0 comments -> [Windows Is That Bad](https://bomfather.dev/comics/7/)<!-- HN:46500394:end -->
