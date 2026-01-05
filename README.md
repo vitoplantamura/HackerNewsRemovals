@@ -119,5 +119,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, January 5, 2026**
 <!-- HN:46491765:start -->
 * [46491765](https://news.social-protocols.org/stats?id=46491765) #21 40 points 40 comments -> [OpenGitOps](https://opengitops.dev/)<!-- HN:46491765:end --><!-- HN:46494830:start -->
-* [46494830](https://news.social-protocols.org/stats?id=46494830) #8 7 points 5 comments -> [AGI Is Here](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46494830:end --><!-- HN:46495560:start -->
-* [46495560](https://news.social-protocols.org/stats?id=46495560) #19 12 points 2 comments -> [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)<!-- HN:46495560:end -->
+* [46494830](https://news.social-protocols.org/stats?id=46494830) #8 7 points 5 comments -> [AGI Is Here](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46494830:end -->
