@@ -118,5 +118,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46417768](https://news.social-protocols.org/stats?id=46417768) #9 9 points 0 comments -> [Copybara – tool for transforming and moving code between repositories](https://github.com/google/copybara)<!-- HN:46417768:end -->
 #### **Monday, January 5, 2026**
 <!-- HN:46491765:start -->
-* [46491765](https://news.social-protocols.org/stats?id=46491765) #21 40 points 40 comments -> [OpenGitOps](https://opengitops.dev/)<!-- HN:46491765:end --><!-- HN:46491749:start -->
-* [46491749](https://news.social-protocols.org/stats?id=46491749) #1 201 points 97 comments -> [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)<!-- HN:46491749:end -->
+* [46491765](https://news.social-protocols.org/stats?id=46491765) #21 40 points 40 comments -> [OpenGitOps](https://opengitops.dev/)<!-- HN:46491765:end -->
