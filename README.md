@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46488661](https://news.social-protocols.org/stats?id=46488661) #21 40 points 40 comments -> [Neurodivergent Brains Build Better Systems (2025)](https://blog.drjoshcsimmons.com/p/how-neurodivergent-brains-build-better)<!-- HN:46488661:end --><!-- HN:46469845:start -->
 * [46469845](https://news.social-protocols.org/stats?id=46469845) #2 45 points 35 comments -> [Microservices Killed Our Startup. Monoliths Would've Saved Us](https://medium.com/lets-code-future/microservices-killed-our-startup-monoliths-wouldve-saved-us-4ebadf584a6d)<!-- HN:46469845:end --><!-- HN:46417768:start -->
 * [46417768](https://news.social-protocols.org/stats?id=46417768) #9 9 points 0 comments -> [Copybara – tool for transforming and moving code between repositories](https://github.com/google/copybara)<!-- HN:46417768:end -->
+#### **Monday, January 5, 2026**
+<!-- HN:46491765:start -->
+* [46491765](https://news.social-protocols.org/stats?id=46491765) #21 40 points 40 comments -> [OpenGitOps](https://opengitops.dev/)<!-- HN:46491765:end -->
