@@ -117,8 +117,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46469845](https://news.social-protocols.org/stats?id=46469845) #2 45 points 35 comments -> [Microservices Killed Our Startup. Monoliths Would've Saved Us](https://medium.com/lets-code-future/microservices-killed-our-startup-monoliths-wouldve-saved-us-4ebadf584a6d)<!-- HN:46469845:end --><!-- HN:46417768:start -->
 * [46417768](https://news.social-protocols.org/stats?id=46417768) #9 9 points 0 comments -> [Copybara – tool for transforming and moving code between repositories](https://github.com/google/copybara)<!-- HN:46417768:end -->
 #### **Monday, January 5, 2026**
-<!-- HN:46491765:start -->
-* [46491765](https://news.social-protocols.org/stats?id=46491765) #21 40 points 40 comments -> [OpenGitOps](https://opengitops.dev/)<!-- HN:46491765:end --><!-- HN:46494830:start -->
+<!-- HN:46494830:start -->
 * [46494830](https://news.social-protocols.org/stats?id=46494830) #8 7 points 5 comments -> [AGI Is Here](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46494830:end --><!-- HN:46434717:start -->
 * [46434717](https://news.social-protocols.org/stats?id=46434717) #26 4 points 2 comments -> [What changes when AI memory stops being ephemeral?](https://ryjoxdemo.com/architecture)<!-- HN:46434717:end --><!-- HN:46422574:start -->
 * [46422574](https://news.social-protocols.org/stats?id=46422574) #11 178 points 110 comments -> [The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)](https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/)<!-- HN:46422574:end --><!-- HN:46450625:start -->
