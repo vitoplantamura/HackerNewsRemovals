@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46504389](https://news.social-protocols.org/stats?id=46504389) #20 3 points 3 comments -> [AGI is here (and I feel fine)](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46504389:end --><!-- HN:46504692:start -->
 * [46504692](https://news.social-protocols.org/stats?id=46504692) #23 3 points 2 comments -> [Reasons I did 301,432 flashcard reviews in 2025](https://www.natemeyvis.com/22-reasons-i-did-301432-flashcard-reviews-in-2025/)<!-- HN:46504692:end --><!-- HN:46505735:start -->
 * [46505735](https://news.social-protocols.org/stats?id=46505735) #28 45 points 40 comments -> [Why Didn't AI "Join the Workforce" in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)<!-- HN:46505735:end -->
+#### **Tuesday, January 6, 2026**
+<!-- HN:46506675:start -->
+* [46506675](https://news.social-protocols.org/stats?id=46506675) #24 25 points 20 comments -> [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)<!-- HN:46506675:end -->
