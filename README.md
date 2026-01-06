@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, December 30, 2025**
-<!-- HN:46428699:start -->
-* [46428699](https://news.social-protocols.org/stats?id=46428699) #21 11 points 11 comments -> [Show HN: Cover letter generator with Ollama/local LLMs (Open source)](https://www.coverlettermaker.co)<!-- HN:46428699:end --><!-- HN:46390123:start -->
-* [46390123](https://news.social-protocols.org/stats?id=46390123) #25 11 points 2 comments -> [The AI Noise](https://rishi.monster/posts/time-intelligence-economy-part-1-the-ai-noise/)<!-- HN:46390123:end --><!-- HN:46431453:start -->
-* [46431453](https://news.social-protocols.org/stats?id=46431453) #8 188 points 162 comments -> [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)<!-- HN:46431453:end --><!-- HN:46433035:start -->
-* [46433035](https://news.social-protocols.org/stats?id=46433035) #2 160 points 139 comments -> [Win32 is the stable Linux ABI](https://loss32.org/)<!-- HN:46433035:end --><!-- HN:46434903:start -->
-* [46434903](https://news.social-protocols.org/stats?id=46434903) #16 11 points 5 comments -> [Why people are mad at Framework](https://sgued.fr/blog/framework-omarchy/)<!-- HN:46434903:end --><!-- HN:46393609:start -->
-* [46393609](https://news.social-protocols.org/stats?id=46393609) #2 56 points 9 comments -> [I built a quiet site for finding ambient albums while working](https://ambientmusic.com/)<!-- HN:46393609:end --><!-- HN:46438216:start -->
-* [46438216](https://news.social-protocols.org/stats?id=46438216) #17 4 points 1 comments -> [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo)<!-- HN:46438216:end --><!-- HN:46438252:start -->
-* [46438252](https://news.social-protocols.org/stats?id=46438252) #10 10 points 3 comments -> [The moment GMV is labeled ARR, the business is built on sand](https://oswarld.com/eng/insight/250816_ai-arr-illusion-gmv-vs-arr)<!-- HN:46438252:end --><!-- HN:46438122:start -->
-* [46438122](https://news.social-protocols.org/stats?id=46438122) #16 18 points 4 comments -> [How the "Marvelization" of Cinema Accelerates the Decline of Filmmaking](https://www.openculture.com/2025/11/how-the-marvelization-of-cinema-accelerates-the-decline-of-filmmaking.html)<!-- HN:46438122:end -->
 #### **Wednesday, December 31, 2025**
 <!-- HN:46439369:start -->
 * [46439369](https://news.social-protocols.org/stats?id=46439369) #16 6 points 1 comments -> [Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)<!-- HN:46439369:end --><!-- HN:46440621:start -->
