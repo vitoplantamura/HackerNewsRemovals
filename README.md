@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46504692](https://news.social-protocols.org/stats?id=46504692) #23 3 points 2 comments -> [Reasons I did 301,432 flashcard reviews in 2025](https://www.natemeyvis.com/22-reasons-i-did-301432-flashcard-reviews-in-2025/)<!-- HN:46504692:end -->
 #### **Tuesday, January 6, 2026**
 <!-- HN:46506675:start -->
-* [46506675](https://news.social-protocols.org/stats?id=46506675) #24 25 points 20 comments -> [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)<!-- HN:46506675:end -->
+* [46506675](https://news.social-protocols.org/stats?id=46506675) #24 25 points 20 comments -> [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)<!-- HN:46506675:end --><!-- HN:46509788:start -->
+* [46509788](https://news.social-protocols.org/stats?id=46509788) #17 44 points 29 comments -> [Mapping Protests in Iran](https://www.fdd.org/analysis/2025/06/25/mapping-the-protests-in-iran-2/)<!-- HN:46509788:end -->
