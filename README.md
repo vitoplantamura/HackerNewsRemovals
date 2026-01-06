@@ -125,6 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, January 6, 2026**
 <!-- HN:46506675:start -->
 * [46506675](https://news.social-protocols.org/stats?id=46506675) #24 25 points 20 comments -> [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)<!-- HN:46506675:end --><!-- HN:46509788:start -->
-* [46509788](https://news.social-protocols.org/stats?id=46509788) #17 44 points 29 comments -> [Mapping Protests in Iran](https://www.fdd.org/analysis/2025/06/25/mapping-the-protests-in-iran-2/)<!-- HN:46509788:end --><!-- HN:46509967:start -->
-* [46509967](https://news.social-protocols.org/stats?id=46509967) #5 22 points 40 comments -> [Tube trains could navigate the Underground using the rules of Quantum Physics](https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/)<!-- HN:46509967:end --><!-- HN:46510656:start -->
+* [46509788](https://news.social-protocols.org/stats?id=46509788) #17 44 points 29 comments -> [Mapping Protests in Iran](https://www.fdd.org/analysis/2025/06/25/mapping-the-protests-in-iran-2/)<!-- HN:46509788:end --><!-- HN:46510656:start -->
 * [46510656](https://news.social-protocols.org/stats?id=46510656) #13 6 points 3 comments -> [Show HN: Is this the best epoch converter?](https://epochconverter.dev/)<!-- HN:46510656:end -->
