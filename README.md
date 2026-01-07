@@ -117,5 +117,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46518218](https://news.social-protocols.org/stats?id=46518218) #28 6 points 3 comments -> [America's affordability crisis is (mostly) a mirage](https://www.economist.com/briefing/2025/12/30/americas-affordability-crisis-is-mostly-a-mirage)<!-- HN:46518218:end --><!-- HN:46450014:start -->
 * [46450014](https://news.social-protocols.org/stats?id=46450014) #29 5 points 4 comments -> [Runtime invariant to rule count in a single-pass boundary execution model](https://targetedwebresults.com/pounce-demo-final.gif)<!-- HN:46450014:end -->
 #### **Wednesday, January 7, 2026**
-<!-- HN:46520879:start -->
-* [46520879](https://news.social-protocols.org/stats?id=46520879) #13 7 points 0 comments -> [Why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)<!-- HN:46520879:end -->
