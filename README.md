@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, December 31, 2025**
-<!-- HN:46439369:start -->
-* [46439369](https://news.social-protocols.org/stats?id=46439369) #16 6 points 1 comments -> [Honey's Dieselgate: Detecting and Tricking Testers](https://www.benedelman.org/honey-detecting-testers/)<!-- HN:46439369:end --><!-- HN:46440621:start -->
-* [46440621](https://news.social-protocols.org/stats?id=46440621) #6 8 points 0 comments -> [SomaliScan – US Fraud aggregator sourced from public records](https://www.somaliscan.com/)<!-- HN:46440621:end --><!-- HN:46441592:start -->
-* [46441592](https://news.social-protocols.org/stats?id=46441592) #6 3 points 1 comments -> [Questions to ask yourself every year](https://gourav.io/blog/yearly-review)<!-- HN:46441592:end --><!-- HN:46362895:start -->
-* [46362895](https://news.social-protocols.org/stats?id=46362895) #7 9 points 0 comments -> [Scamp (Suite for Computer-Assisted Music in Python)](https://scamp.marcevanstein.com)<!-- HN:46362895:end --><!-- HN:46366010:start -->
-* [46366010](https://news.social-protocols.org/stats?id=46366010) #16 214 points 28 comments -> [Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)](https://www.gkbrk.com/hotel-music)<!-- HN:46366010:end --><!-- HN:46388445:start -->
-* [46388445](https://news.social-protocols.org/stats?id=46388445) #15 52 points 40 comments -> [What If Heavy Files Felt Heavy?](https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy)<!-- HN:46388445:end --><!-- HN:46443643:start -->
-* [46443643](https://news.social-protocols.org/stats?id=46443643) #26 4 points 1 comments -> [Immigrant Derangement Syndrome](https://paulkrugman.substack.com/p/immigrant-derangement-syndrome)<!-- HN:46443643:end --><!-- HN:46443692:start -->
-* [46443692](https://news.social-protocols.org/stats?id=46443692) #4 5 points 0 comments -> [Stages of AI Grief](https://sellsbrothers.com/the-5-stages-of-ai-grief)<!-- HN:46443692:end --><!-- HN:46443077:start -->
-* [46443077](https://news.social-protocols.org/stats?id=46443077) #20 31 points 40 comments -> [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/)<!-- HN:46443077:end --><!-- HN:46446395:start -->
-* [46446395](https://news.social-protocols.org/stats?id=46446395) #27 11 points 6 comments -> [New York's incoming mayor bans Raspberry Pi at inauguration](https://www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/)<!-- HN:46446395:end --><!-- HN:46447659:start -->
-* [46447659](https://news.social-protocols.org/stats?id=46447659) #6 21 points 24 comments -> [FTX whistleblower Caroline Ellison set for early release next month](https://invezz.com/news/2025/12/26/ftx-whistleblower-caroline-ellison-set-for-early-release-next-month/)<!-- HN:46447659:end --><!-- HN:46448031:start -->
-* [46448031](https://news.social-protocols.org/stats?id=46448031) #9 -> [Happy New Year HN](https://tenor.com/view/gg-gif-12398339126318398543)<!-- HN:46448031:end --><!-- HN:46403813:start -->
-* [46403813](https://news.social-protocols.org/stats?id=46403813) #24 13 points 5 comments -> [39C3 Grafana Dashboard](https://dashboard.congress.ccc.de/public-dashboards/e6cf86b287304662b4d1b8eb31b5ab50)<!-- HN:46403813:end -->
 #### **Thursday, January 1, 2026**
 <!-- HN:46373817:start -->
 * [46373817](https://news.social-protocols.org/stats?id=46373817) #14 10 points 8 comments -> [Ultra-Wide Band: A Transformational Technology for the Internet of Things](https://www.eetimes.com/ultra-wide-band-a-transformational-technology-for-the-internet-of-things/)<!-- HN:46373817:end --><!-- HN:46385943:start -->
