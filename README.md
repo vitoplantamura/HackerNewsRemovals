@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, January 7, 2026**<!-- HN:46521619:start -->
 * [46521619](https://news.social-protocols.org/stats?id=46521619) #27 20 points 2 comments -> [White House Posts False Jan. 6 Narrative on Riot's 5th Anniversary](https://www.nytimes.com/2026/01/06/us/politics/trump-white-house-jan-6-website.html)<!-- HN:46521619:end --><!-- HN:46520975:start -->
 * [46520975](https://news.social-protocols.org/stats?id=46520975) #24 11 points 2 comments -> [Website with a DMCA Takedown](https://priyatham.in/en/post/hosting-dmca/)<!-- HN:46520975:end --><!-- HN:46451768:start -->
-* [46451768](https://news.social-protocols.org/stats?id=46451768) #2 619 points 123 comments -> [Spherical Snake](https://kevinalbs.com/spherical_snake/)<!-- HN:46451768:end -->
+* [46451768](https://news.social-protocols.org/stats?id=46451768) #2 619 points 123 comments -> [Spherical Snake](https://kevinalbs.com/spherical_snake/)<!-- HN:46451768:end --><!-- HN:46470115:start -->
+* [46470115](https://news.social-protocols.org/stats?id=46470115) #27 11 points 0 comments -> [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer)<!-- HN:46470115:end -->
