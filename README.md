@@ -121,5 +121,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46531150](https://news.social-protocols.org/stats?id=46531150) #12 5 points 7 comments -> [A practical guide to converting YAML to JSON safely (with Kubernetes examples)](https://coderaviverma.github.io/yaml-to-json-guide/)<!-- HN:46531150:end --><!-- HN:46533968:start -->
 * [46533968](https://news.social-protocols.org/stats?id=46533968) #17 6 points 1 comments -> [Eyewitness says ICE agents gave conflicting orders before shooting woman](https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation)<!-- HN:46533968:end -->
 #### **Thursday, January 8, 2026**
-<!-- HN:46536862:start -->
-* [46536862](https://news.social-protocols.org/stats?id=46536862) #5 16 points 1 comments -> [Show HN: IceRaidsNearMe – Real-time, crowdsourced map of immigration enforcement](https://iceraidsnearme.com/)<!-- HN:46536862:end -->
