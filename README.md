@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, January 9, 2026**
 <!-- HN:46548190:start -->
 * [46548190](https://news.social-protocols.org/stats?id=46548190) #16 25 points 2 comments -> ["Death to the Dictator": Tehran, Iran](https://www.iranintl.com/en/202601083176)<!-- HN:46548190:end --><!-- HN:46548451:start -->
-* [46548451](https://news.social-protocols.org/stats?id=46548451) #30 16 points 12 comments -> [Why Are Grok and X Still Available in App Stores?](https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/)<!-- HN:46548451:end -->
+* [46548451](https://news.social-protocols.org/stats?id=46548451) #30 16 points 12 comments -> [Why Are Grok and X Still Available in App Stores?](https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/)<!-- HN:46548451:end --><!-- HN:46548787:start -->
+* [46548787](https://news.social-protocols.org/stats?id=46548787) #5 43 points 10 comments -> [Tumblr removed from Apple App Store over abuse images](https://www.bbc.com/news/technology-46275138)<!-- HN:46548787:end -->
