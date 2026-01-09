@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46547512](https://news.social-protocols.org/stats?id=46547512) #9 8 points 0 comments -> [Americans by Name, Punished for Believing It](https://boltsmag.org/prosecuted-for-voting-american-samoans-alaska/)<!-- HN:46547512:end -->
 #### **Friday, January 9, 2026**
 <!-- HN:46548190:start -->
-* [46548190](https://news.social-protocols.org/stats?id=46548190) #16 25 points 2 comments -> ["Death to the Dictator": Tehran, Iran](https://www.iranintl.com/en/202601083176)<!-- HN:46548190:end -->
+* [46548190](https://news.social-protocols.org/stats?id=46548190) #16 25 points 2 comments -> ["Death to the Dictator": Tehran, Iran](https://www.iranintl.com/en/202601083176)<!-- HN:46548190:end --><!-- HN:46548451:start -->
+* [46548451](https://news.social-protocols.org/stats?id=46548451) #30 16 points 12 comments -> [Why Are Grok and X Still Available in App Stores?](https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/)<!-- HN:46548451:end -->
