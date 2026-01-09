@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46545962](https://news.social-protocols.org/stats?id=46545962) #25 27 points 9 comments -> [X faces global investigations for deepfake porn of women and minors](https://boingboing.net/2026/01/06/x-faces-global-investigations-as-grok-generates-deepfake-porn-of-women-and-minors.html)<!-- HN:46545962:end --><!-- HN:46547191:start -->
 * [46547191](https://news.social-protocols.org/stats?id=46547191) #7 8 points 4 comments -> [I built a quantum internet that runs on your WiFi](https://github.com/mermaidnicheboutique-code/luxbin-quantum-internet)<!-- HN:46547191:end --><!-- HN:46547512:start -->
 * [46547512](https://news.social-protocols.org/stats?id=46547512) #9 8 points 0 comments -> [Americans by Name, Punished for Believing It](https://boltsmag.org/prosecuted-for-voting-american-samoans-alaska/)<!-- HN:46547512:end -->
+#### **Friday, January 9, 2026**
+<!-- HN:46548190:start -->
+* [46548190](https://news.social-protocols.org/stats?id=46548190) #16 25 points 2 comments -> ["Death to the Dictator": Tehran, Iran](https://www.iranintl.com/en/202601083176)<!-- HN:46548190:end -->
