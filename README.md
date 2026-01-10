@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46559309](https://news.social-protocols.org/stats?id=46559309) #2 22 points 5 comments -> [Looking for flagged discussions on HN? See what's active](https://news.ycombinator.com/active)<!-- HN:46559309:end -->
 #### **Saturday, January 10, 2026**
 <!-- HN:46562672:start -->
-* [46562672](https://news.social-protocols.org/stats?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end -->
+* [46562672](https://news.social-protocols.org/stats?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end --><!-- HN:46534466:start -->
+* [46534466](https://news.social-protocols.org/stats?id=46534466) #13 9 points 4 comments -> [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)<!-- HN:46534466:end -->
