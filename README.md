@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46562672:start -->
 * [46562672](https://news.social-protocols.org/stats?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end --><!-- HN:46534466:start -->
 * [46534466](https://news.social-protocols.org/stats?id=46534466) #13 9 points 4 comments -> [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)<!-- HN:46534466:end --><!-- HN:46565720:start -->
-* [46565720](https://news.social-protocols.org/stats?id=46565720) #25 16 points 0 comments -> [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)<!-- HN:46565720:end -->
+* [46565720](https://news.social-protocols.org/stats?id=46565720) #25 16 points 0 comments -> [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)<!-- HN:46565720:end --><!-- HN:46566100:start -->
+* [46566100](https://news.social-protocols.org/stats?id=46566100) #16 12 points 9 comments -> [Show HN: Hosting 100 Linux dev environments on one VM using LXC](https://github.com/FootprintAI/Containarium)<!-- HN:46566100:end -->
