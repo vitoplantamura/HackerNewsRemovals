@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46559192](https://news.social-protocols.org/stats?id=46559192) #3 59 points 16 comments -> [Video filmed by ICE agent who shot Minneapolis woman emerges](https://www.bbc.com/news/articles/cz7yv4524gqo)<!-- HN:46559192:end --><!-- HN:46558317:start -->
 * [46558317](https://news.social-protocols.org/stats?id=46558317) #11 4 points 0 comments -> [Turn any image into a 3D Gaussian Splat](https://lab.revelium.studio/ml-sharp)<!-- HN:46558317:end --><!-- HN:46559309:start -->
 * [46559309](https://news.social-protocols.org/stats?id=46559309) #2 22 points 5 comments -> [Looking for flagged discussions on HN? See what's active](https://news.ycombinator.com/active)<!-- HN:46559309:end -->
+#### **Saturday, January 10, 2026**
+<!-- HN:46562672:start -->
+* [46562672](https://news.social-protocols.org/stats?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end -->
