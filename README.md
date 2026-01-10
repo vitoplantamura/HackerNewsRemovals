@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 10, 2026**
 <!-- HN:46562672:start -->
 * [46562672](https://news.social-protocols.org/stats?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end --><!-- HN:46534466:start -->
-* [46534466](https://news.social-protocols.org/stats?id=46534466) #13 9 points 4 comments -> [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)<!-- HN:46534466:end -->
+* [46534466](https://news.social-protocols.org/stats?id=46534466) #13 9 points 4 comments -> [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)<!-- HN:46534466:end --><!-- HN:46565720:start -->
+* [46565720](https://news.social-protocols.org/stats?id=46565720) #25 16 points 0 comments -> [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)<!-- HN:46565720:end -->
