@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46567696](https://news.social-protocols.org/stats?id=46567696) #25 50 points 23 comments -> [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document)<!-- HN:46567696:end --><!-- HN:46468086:start -->
 * [46468086](https://news.social-protocols.org/stats?id=46468086) #9 11 points 1 comments -> [Pebble Round 2](https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/)<!-- HN:46468086:end --><!-- HN:46536718:start -->
 * [46536718](https://news.social-protocols.org/stats?id=46536718) #16 8 points 3 comments -> [AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)<!-- HN:46536718:end -->
+#### **Sunday, January 11, 2026**
+<!-- HN:46572285:start -->
+* [46572285](https://news.social-protocols.org/stats?id=46572285) #2 -> [They Call It "Private Equity". It's Legal Theft](https://www.founderstowne.com/)<!-- HN:46572285:end -->
