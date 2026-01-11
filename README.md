@@ -129,4 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, January 11, 2026**
 <!-- HN:46572285:start -->
 * [46572285](https://news.social-protocols.org/stats?id=46572285) #2 -> [They Call It "Private Equity". It's Legal Theft](https://www.founderstowne.com/)<!-- HN:46572285:end --><!-- HN:46572186:start -->
-* [46572186](https://news.social-protocols.org/stats?id=46572186) #8 32 points 1 comments -> [Datadog, Thank You for Blocking Us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)<!-- HN:46572186:end -->
+* [46572186](https://news.social-protocols.org/stats?id=46572186) #8 32 points 1 comments -> [Datadog, Thank You for Blocking Us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)<!-- HN:46572186:end --><!-- HN:46479642:start -->
+* [46479642](https://news.social-protocols.org/stats?id=46479642) #11 5 points 0 comments -> [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/)<!-- HN:46479642:end --><!-- HN:46481060:start -->
+* [46481060](https://news.social-protocols.org/stats?id=46481060) #13 35 points 7 comments -> [1970 Paris, cut into a grid and photographed](https://paris1970.jeantho.eu/index.html)<!-- HN:46481060:end -->
