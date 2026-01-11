@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, January 4, 2026**
-<!-- HN:46483876:start -->
-* [46483876](https://news.social-protocols.org/stats?id=46483876) #7 6 points 0 comments -> [The Vietnam War: The Press on the Front Lines](https://www.heinzhistorycenter.org/blog/collection-spotlight-vietnam-war-press-on-the-front-lines/)<!-- HN:46483876:end --><!-- HN:46426931:start -->
-* [46426931](https://news.social-protocols.org/stats?id=46426931) #17 10 points 4 comments -> [Evolution: Training neural networks with genetic selection achieves 81% on MNIST](https://github.com/A1CST/GENREG_ALPHA_MNIST)<!-- HN:46426931:end --><!-- HN:46487523:start -->
-* [46487523](https://news.social-protocols.org/stats?id=46487523) #10 14 points 1 comments -> [Open Veins of Latin America Five Centuries of the Pillage of a Continent [pdf]](https://archive.wphna.org/wp-content/uploads/2015/06/1971-Eduardo-Galeano-Open-Veins-of-Latin-America.pdf)<!-- HN:46487523:end --><!-- HN:46488652:start -->
-* [46488652](https://news.social-protocols.org/stats?id=46488652) #14 5 points 0 comments -> [Democracy Will Not Survive the Age of Consumption](https://kasurian.com/p/democracy-will-not-survive-consumption)<!-- HN:46488652:end --><!-- HN:46489658:start -->
-* [46489658](https://news.social-protocols.org/stats?id=46489658) #26 7 points 1 comments -> [Trump the Robber Baron](https://forumgeopolitica.com/article/trump-the-robber-baron)<!-- HN:46489658:end --><!-- HN:46488661:start -->
-* [46488661](https://news.social-protocols.org/stats?id=46488661) #21 40 points 40 comments -> [Neurodivergent Brains Build Better Systems (2025)](https://blog.drjoshcsimmons.com/p/how-neurodivergent-brains-build-better)<!-- HN:46488661:end --><!-- HN:46469845:start -->
-* [46469845](https://news.social-protocols.org/stats?id=46469845) #2 45 points 35 comments -> [Microservices Killed Our Startup. Monoliths Would've Saved Us](https://medium.com/lets-code-future/microservices-killed-our-startup-monoliths-wouldve-saved-us-4ebadf584a6d)<!-- HN:46469845:end --><!-- HN:46417768:start -->
-* [46417768](https://news.social-protocols.org/stats?id=46417768) #9 9 points 0 comments -> [Copybara – tool for transforming and moving code between repositories](https://github.com/google/copybara)<!-- HN:46417768:end -->
 #### **Monday, January 5, 2026**
 <!-- HN:46494830:start -->
 * [46494830](https://news.social-protocols.org/stats?id=46494830) #8 7 points 5 comments -> [AGI Is Here](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46494830:end --><!-- HN:46434717:start -->
