@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46536718](https://news.social-protocols.org/stats?id=46536718) #16 8 points 3 comments -> [AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)<!-- HN:46536718:end -->
 #### **Sunday, January 11, 2026**
 <!-- HN:46572285:start -->
-* [46572285](https://news.social-protocols.org/stats?id=46572285) #2 -> [They Call It "Private Equity". It's Legal Theft](https://www.founderstowne.com/)<!-- HN:46572285:end -->
+* [46572285](https://news.social-protocols.org/stats?id=46572285) #2 -> [They Call It "Private Equity". It's Legal Theft](https://www.founderstowne.com/)<!-- HN:46572285:end --><!-- HN:46572186:start -->
+* [46572186](https://news.social-protocols.org/stats?id=46572186) #8 32 points 1 comments -> [Datadog, Thank You for Blocking Us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)<!-- HN:46572186:end -->
