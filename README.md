@@ -117,5 +117,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46572593](https://news.social-protocols.org/stats?id=46572593) #27 8 points 6 comments -> [Show HN: PrintReadyBook](https://printreadybook.com/)<!-- HN:46572593:end --><!-- HN:46577869:start -->
 * [46577869](https://news.social-protocols.org/stats?id=46577869) #28 35 points 17 comments -> ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)<!-- HN:46577869:end -->
 #### **Monday, January 12, 2026**
-<!-- HN:46583731:start -->
-* [46583731](https://news.social-protocols.org/stats?id=46583731) #13 -> [Powell has highest approval rating of political leaders among US adults (2025)](https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx)<!-- HN:46583731:end -->
