@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46481060](https://news.social-protocols.org/stats?id=46481060) #13 35 points 7 comments -> [1970 Paris, cut into a grid and photographed](https://paris1970.jeantho.eu/index.html)<!-- HN:46481060:end --><!-- HN:46572593:start -->
 * [46572593](https://news.social-protocols.org/stats?id=46572593) #27 8 points 6 comments -> [Show HN: PrintReadyBook](https://printreadybook.com/)<!-- HN:46572593:end --><!-- HN:46577869:start -->
 * [46577869](https://news.social-protocols.org/stats?id=46577869) #28 35 points 17 comments -> ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)<!-- HN:46577869:end -->
-#### **Monday, January 12, 2026**
+#### **Monday, January 12, 2026**<!-- HN:46514434:start -->
+* [46514434](https://news.social-protocols.org/stats?id=46514434) #8 9 points 1 comments -> [Pyinfra: Turns Python code into shell commands and runs them on your servers](https://github.com/pyinfra-dev/pyinfra)<!-- HN:46514434:end -->
