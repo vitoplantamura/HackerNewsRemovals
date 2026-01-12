@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, January 5, 2026**
-<!-- HN:46494830:start -->
-* [46494830](https://news.social-protocols.org/stats?id=46494830) #8 7 points 5 comments -> [AGI Is Here](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46494830:end --><!-- HN:46434717:start -->
-* [46434717](https://news.social-protocols.org/stats?id=46434717) #26 4 points 2 comments -> [What changes when AI memory stops being ephemeral?](https://ryjoxdemo.com/architecture)<!-- HN:46434717:end --><!-- HN:46422574:start -->
-* [46422574](https://news.social-protocols.org/stats?id=46422574) #11 178 points 110 comments -> [The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)](https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/)<!-- HN:46422574:end --><!-- HN:46496975:start -->
-* [46496975](https://news.social-protocols.org/stats?id=46496975) #23 -> [Danish PM tells Trump to stop 'threats' against Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o)<!-- HN:46496975:end --><!-- HN:46497883:start -->
-* [46497883](https://news.social-protocols.org/stats?id=46497883) #5 2 points 0 comments -> [Didascal](https://didascal.com)<!-- HN:46497883:end --><!-- HN:46498676:start -->
-* [46498676](https://news.social-protocols.org/stats?id=46498676) #28 25 points 21 comments -> [Ozempic Melted Away Weight–and the Idea of 'Body Positivity'](https://www.wsj.com/opinion/ozempic-melted-away-weight-and-the-idea-of-body-positivity-4917671c)<!-- HN:46498676:end --><!-- HN:46442322:start -->
-* [46442322](https://news.social-protocols.org/stats?id=46442322) #26 -> [What do I mean by some software devs are "ngmi"?](https://ghuntley.com/ngmi/)<!-- HN:46442322:end --><!-- HN:46500394:start -->
-* [46500394](https://news.social-protocols.org/stats?id=46500394) #7 9 points 0 comments -> [Windows Is That Bad](https://bomfather.dev/comics/7/)<!-- HN:46500394:end --><!-- HN:46435328:start -->
-* [46435328](https://news.social-protocols.org/stats?id=46435328) #15 6 points 4 comments -> [Square Face Generator – A Cute Square Face Icon Maker](https://www.squarefacegenerators.com/)<!-- HN:46435328:end --><!-- HN:46501017:start -->
-* [46501017](https://news.social-protocols.org/stats?id=46501017) #27 28 points 5 comments -> ['We need Greenland': Trump repeats threat to annex Danish territory](https://www.bbc.com/news/articles/c4g0zg974v1o)<!-- HN:46501017:end --><!-- HN:46504159:start -->
-* [46504159](https://news.social-protocols.org/stats?id=46504159) #14 56 points 17 comments -> [Pentagon moves to punish Democratic senator over 'seditious video'](https://www.bbc.com/news/articles/cp8039wg1rdo)<!-- HN:46504159:end --><!-- HN:46436857:start -->
-* [46436857](https://news.social-protocols.org/stats?id=46436857) #14 10 points 1 comments -> [5 Years, 12 Pivots](https://boundaryml.com/blog/5-years-12-pivots)<!-- HN:46436857:end --><!-- HN:46504454:start -->
-* [46504454](https://news.social-protocols.org/stats?id=46504454) #15 5 points 0 comments -> [Pentagon moves to punish Democratic senator over 'seditious video'](https://news.ycombinator.com/item?id=46504159)<!-- HN:46504454:end --><!-- HN:46504389:start -->
-* [46504389](https://news.social-protocols.org/stats?id=46504389) #20 3 points 3 comments -> [AGI is here (and I feel fine)](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46504389:end --><!-- HN:46504692:start -->
-* [46504692](https://news.social-protocols.org/stats?id=46504692) #23 3 points 2 comments -> [Reasons I did 301,432 flashcard reviews in 2025](https://www.natemeyvis.com/22-reasons-i-did-301432-flashcard-reviews-in-2025/)<!-- HN:46504692:end -->
 #### **Tuesday, January 6, 2026**
 <!-- HN:46506675:start -->
 * [46506675](https://news.social-protocols.org/stats?id=46506675) #24 25 points 20 comments -> [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)<!-- HN:46506675:end --><!-- HN:46509788:start -->
