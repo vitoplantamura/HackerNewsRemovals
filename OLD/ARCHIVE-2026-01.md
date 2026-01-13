@@ -62,3 +62,12 @@
 * [46504454](https://news.ycombinator.com/item?id=46504454) #15 5 points 0 comments -> [Pentagon moves to punish Democratic senator over 'seditious video'](https://news.ycombinator.com/item?id=46504159)<!-- HN:46504454:end --><!-- HN:46504389:start -->
 * [46504389](https://news.ycombinator.com/item?id=46504389) #20 3 points 3 comments -> [AGI is here (and I feel fine)](https://www.robinsloan.com/winter-garden/agi-is-here/)<!-- HN:46504389:end --><!-- HN:46504692:start -->
 * [46504692](https://news.ycombinator.com/item?id=46504692) #23 3 points 2 comments -> [Reasons I did 301,432 flashcard reviews in 2025](https://www.natemeyvis.com/22-reasons-i-did-301432-flashcard-reviews-in-2025/)<!-- HN:46504692:end -->
+#### **Tuesday, January 6, 2026**
+<!-- HN:46506675:start -->
+* [46506675](https://news.ycombinator.com/item?id=46506675) #24 25 points 20 comments -> [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/)<!-- HN:46506675:end --><!-- HN:46509788:start -->
+* [46509788](https://news.ycombinator.com/item?id=46509788) #17 44 points 29 comments -> [Mapping Protests in Iran](https://www.fdd.org/analysis/2025/06/25/mapping-the-protests-in-iran-2/)<!-- HN:46509788:end --><!-- HN:46510656:start -->
+* [46510656](https://news.ycombinator.com/item?id=46510656) #13 6 points 3 comments -> [Show HN: Is this the best epoch converter?](https://epochconverter.dev/)<!-- HN:46510656:end --><!-- HN:46514707:start -->
+* [46514707](https://news.ycombinator.com/item?id=46514707) #17 2 points 0 comments -> [Show HN: Open-source Langsmith alternative written in Rust](https://github.com/lmnr-ai/lmnr)<!-- HN:46514707:end --><!-- HN:46473142:start -->
+* [46473142](https://news.ycombinator.com/item?id=46473142) #30 11 points 1 comments -> [Gtasks-terminal – Google Tasks power-tool for the terminal](https://github.com/sirusdas/gtasks-terminal)<!-- HN:46473142:end --><!-- HN:46518218:start -->
+* [46518218](https://news.ycombinator.com/item?id=46518218) #28 6 points 3 comments -> [America's affordability crisis is (mostly) a mirage](https://www.economist.com/briefing/2025/12/30/americas-affordability-crisis-is-mostly-a-mirage)<!-- HN:46518218:end --><!-- HN:46450014:start -->
+* [46450014](https://news.ycombinator.com/item?id=46450014) #29 5 points 4 comments -> [Runtime invariant to rule count in a single-pass boundary execution model](https://targetedwebresults.com/pounce-demo-final.gif)<!-- HN:46450014:end -->
