@@ -117,4 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46592827](https://news.social-protocols.org/stats?id=46592827) #28 112 points 95 comments -> [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)<!-- HN:46592827:end -->
 #### **Tuesday, January 13, 2026**
 <!-- HN:46595868:start -->
-* [46595868](https://news.social-protocols.org/stats?id=46595868) #27 15 points 1 comments -> [We're all just content for ICE](https://www.garbageday.email/p/we-re-all-just-content-for-ice)<!-- HN:46595868:end -->
+* [46595868](https://news.social-protocols.org/stats?id=46595868) #27 15 points 1 comments -> [We're all just content for ICE](https://www.garbageday.email/p/we-re-all-just-content-for-ice)<!-- HN:46595868:end --><!-- HN:46519839:start -->
+* [46519839](https://news.social-protocols.org/stats?id=46519839) #16 69 points 24 comments -> [Perlsecret – Perl secret operators and constants](https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod)<!-- HN:46519839:end --><!-- HN:46525639:start -->
+* [46525639](https://news.social-protocols.org/stats?id=46525639) #26 332 points 73 comments -> [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)<!-- HN:46525639:end -->
