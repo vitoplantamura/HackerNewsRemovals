@@ -123,5 +123,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46603431](https://news.social-protocols.org/stats?id=46603431) #19 405 points 3 comments -> ['Dilbert' creator Scott Adams dies at 68 after prostate cancer battle](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)<!-- HN:46603431:end --><!-- HN:46607331:start -->
 * [46607331](https://news.social-protocols.org/stats?id=46607331) #27 3 points 0 comments -> [Whistleblower leaks personal details of thousands of Border Patrol/ICE Agents](https://www.rawstory.com/ice-agents-data-leak/)<!-- HN:46607331:end -->
 #### **Wednesday, January 14, 2026**
-<!-- HN:46610557:start -->
-* [46610557](https://news.social-protocols.org/stats?id=46610557) #7 10 points 4 comments -> [The $LANG Programming Language](https://news.ycombinator.com/thelang)<!-- HN:46610557:end -->
