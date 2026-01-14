@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, January 7, 2026**<!-- HN:46521619:start -->
-* [46521619](https://news.social-protocols.org/stats?id=46521619) #27 20 points 2 comments -> [White House Posts False Jan. 6 Narrative on Riot's 5th Anniversary](https://www.nytimes.com/2026/01/06/us/politics/trump-white-house-jan-6-website.html)<!-- HN:46521619:end --><!-- HN:46520975:start -->
-* [46520975](https://news.social-protocols.org/stats?id=46520975) #24 11 points 2 comments -> [Website with a DMCA Takedown](https://priyatham.in/en/post/hosting-dmca/)<!-- HN:46520975:end --><!-- HN:46451768:start -->
-* [46451768](https://news.social-protocols.org/stats?id=46451768) #2 619 points 123 comments -> [Spherical Snake](https://kevinalbs.com/spherical_snake/)<!-- HN:46451768:end --><!-- HN:46470115:start -->
-* [46470115](https://news.social-protocols.org/stats?id=46470115) #27 11 points 0 comments -> [Show HN: Open-source AI workflows with read-only auth scopes](https://github.com/seer-engg/seer)<!-- HN:46470115:end --><!-- HN:46472047:start -->
-* [46472047](https://news.social-protocols.org/stats?id=46472047) #21 20 points 9 comments -> [Show HN: TCP chat server written in C# and .NET 9, used in the terminal](https://github.com/Sieep-Coding/simple-chat-csharp)<!-- HN:46472047:end --><!-- HN:46527443:start -->
-* [46527443](https://news.social-protocols.org/stats?id=46527443) #11 -> [Supreme Court Increasingly Favors the Rich, Economists Say](https://www.nytimes.com/2026/01/05/us/politics/supreme-court-study-rich-poor.html)<!-- HN:46527443:end --><!-- HN:46529097:start -->
-* [46529097](https://news.social-protocols.org/stats?id=46529097) #4 20 points 40 comments -> [The $14 Burrito: Why San Francisco Inflation Feels Higher Than 2.5%](https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5)<!-- HN:46529097:end --><!-- HN:46531150:start -->
-* [46531150](https://news.social-protocols.org/stats?id=46531150) #12 5 points 7 comments -> [A practical guide to converting YAML to JSON safely (with Kubernetes examples)](https://coderaviverma.github.io/yaml-to-json-guide/)<!-- HN:46531150:end --><!-- HN:46533968:start -->
-* [46533968](https://news.social-protocols.org/stats?id=46533968) #17 6 points 1 comments -> [Eyewitness says ICE agents gave conflicting orders before shooting woman](https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation)<!-- HN:46533968:end -->
 #### **Thursday, January 8, 2026**<!-- HN:46536862:start -->
 * [46536862](https://news.social-protocols.org/stats?id=46536862) #12 36 points 5 comments -> [Show HN: IceRaidsNearMe – Real-time, crowdsourced map of immigration enforcement](https://iceraidsnearme.com/)<!-- HN:46536862:end --><!-- HN:46537459:start -->
 * [46537459](https://news.social-protocols.org/stats?id=46537459) #17 8 points 4 comments -> [Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320)<!-- HN:46537459:end --><!-- HN:46499469:start -->
