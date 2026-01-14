@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46604443](https://news.social-protocols.org/stats?id=46604443) #16 -> [Dilbert's Scott Adams Dies](https://www.inc.com/jennifer-conrad/scott-adams-dilbert-dies-at-68/91286247)<!-- HN:46604443:end --><!-- HN:46603431:start -->
 * [46603431](https://news.social-protocols.org/stats?id=46603431) #19 405 points 3 comments -> ['Dilbert' creator Scott Adams dies at 68 after prostate cancer battle](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)<!-- HN:46603431:end --><!-- HN:46607331:start -->
 * [46607331](https://news.social-protocols.org/stats?id=46607331) #27 3 points 0 comments -> [Whistleblower leaks personal details of thousands of Border Patrol/ICE Agents](https://www.rawstory.com/ice-agents-data-leak/)<!-- HN:46607331:end -->
-#### **Wednesday, January 14, 2026**
+#### **Wednesday, January 14, 2026**<!-- HN:46551041:start -->
+* [46551041](https://news.social-protocols.org/stats?id=46551041) #1 33 points 1 comments -> [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)<!-- HN:46551041:end -->
