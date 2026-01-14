@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46607331](https://news.social-protocols.org/stats?id=46607331) #27 3 points 0 comments -> [Whistleblower leaks personal details of thousands of Border Patrol/ICE Agents](https://www.rawstory.com/ice-agents-data-leak/)<!-- HN:46607331:end -->
 #### **Wednesday, January 14, 2026**<!-- HN:46551041:start -->
 * [46551041](https://news.social-protocols.org/stats?id=46551041) #1 33 points 1 comments -> [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)<!-- HN:46551041:end --><!-- HN:46534632:start -->
-* [46534632](https://news.social-protocols.org/stats?id=46534632) #11 62 points 1 comments -> [Japan's Skyscraper Factories (2021)](https://www.construction-physics.com/p/japans-skyscraper-factories)<!-- HN:46534632:end -->
+* [46534632](https://news.social-protocols.org/stats?id=46534632) #11 62 points 1 comments -> [Japan's Skyscraper Factories (2021)](https://www.construction-physics.com/p/japans-skyscraper-factories)<!-- HN:46534632:end --><!-- HN:46612339:start -->
+* [46612339](https://news.social-protocols.org/stats?id=46612339) #5 10 points 0 comments -> [Democracy Is Under Attack](https://10stepscampaign.org/)<!-- HN:46612339:end -->
