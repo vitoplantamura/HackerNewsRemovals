@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, January 14, 2026**<!-- HN:46551041:start -->
 * [46551041](https://news.social-protocols.org/stats?id=46551041) #1 33 points 1 comments -> [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)<!-- HN:46551041:end --><!-- HN:46534632:start -->
 * [46534632](https://news.social-protocols.org/stats?id=46534632) #11 62 points 1 comments -> [Japan's Skyscraper Factories (2021)](https://www.construction-physics.com/p/japans-skyscraper-factories)<!-- HN:46534632:end --><!-- HN:46612339:start -->
-* [46612339](https://news.social-protocols.org/stats?id=46612339) #5 10 points 0 comments -> [Democracy Is Under Attack](https://10stepscampaign.org/)<!-- HN:46612339:end -->
+* [46612339](https://news.social-protocols.org/stats?id=46612339) #5 10 points 0 comments -> [Democracy Is Under Attack](https://10stepscampaign.org/)<!-- HN:46612339:end --><!-- HN:46614777:start -->
+* [46614777](https://news.social-protocols.org/stats?id=46614777) #21 32 points 40 comments -> [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo)<!-- HN:46614777:end -->
