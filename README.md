@@ -119,5 +119,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46621136](https://news.social-protocols.org/stats?id=46621136) #29 14 points 4 comments -> [Verizon, AT&T, and T-Mobile are all having outages now](https://www.howtogeek.com/verizon-att-and-t-mobile-are-all-having-outages-right-now/)<!-- HN:46621136:end --><!-- HN:46620125:start -->
 * [46620125](https://news.social-protocols.org/stats?id=46620125) #14 23 points 1 comments -> [Technical Analysis of Starlink Terminal GPS Spoofing/Jamming Detection in Iran](https://github.com/narimangharib/starlink-iran-gps-spoofing/blob/main/starlink-iran.md)<!-- HN:46620125:end -->
 #### **Thursday, January 15, 2026**
-<!-- HN:46625797:start -->
-* [46625797](https://news.social-protocols.org/stats?id=46625797) #25 34 points 11 comments -> [EU-US relationship is 'disintegrating,' says Germany's vice chancellor](https://www.politico.eu/article/europe-us-germany-vice-chancellor-lars-klingbeil-donald-trump/)<!-- HN:46625797:end -->
