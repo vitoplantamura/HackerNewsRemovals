@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46547400](https://news.social-protocols.org/stats?id=46547400) #30 20 points 2 comments -> [Virginia Faulkner: Writer, editor, and ghostwriter?](https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/)<!-- HN:46547400:end -->
 #### **Friday, January 16, 2026**
 <!-- HN:46641007:start -->
-* [46641007](https://news.social-protocols.org/stats?id=46641007) #27 11 points 2 comments -> [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)<!-- HN:46641007:end -->
+* [46641007](https://news.social-protocols.org/stats?id=46641007) #27 11 points 2 comments -> [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)<!-- HN:46641007:end --><!-- HN:46643070:start -->
+* [46643070](https://news.social-protocols.org/stats?id=46643070) #2 35 points 42 comments -> [The Myth of the ThinkPad](https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/)<!-- HN:46643070:end -->
