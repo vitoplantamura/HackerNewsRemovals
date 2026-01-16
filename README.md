@@ -116,5 +116,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46547400](https://news.social-protocols.org/stats?id=46547400) #30 20 points 2 comments -> [Virginia Faulkner: Writer, editor, and ghostwriter?](https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/)<!-- HN:46547400:end -->
 #### **Friday, January 16, 2026**
 <!-- HN:46641007:start -->
-* [46641007](https://news.social-protocols.org/stats?id=46641007) #27 11 points 2 comments -> [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)<!-- HN:46641007:end --><!-- HN:46642335:start -->
-* [46642335](https://news.social-protocols.org/stats?id=46642335) #15 22 points 1 comments -> [ICE Throws Flash Bang at Family Car, Sends Three Children to the Hospital](https://www.jalopnik.com/2077210/ice-throws-flash-bang-at-family-car-minneapolis/)<!-- HN:46642335:end -->
+* [46641007](https://news.social-protocols.org/stats?id=46641007) #27 11 points 2 comments -> [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)<!-- HN:46641007:end -->
