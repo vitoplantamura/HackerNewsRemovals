@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, January 9, 2026**
-<!-- HN:46548190:start -->
-* [46548190](https://news.social-protocols.org/stats?id=46548190) #16 25 points 2 comments -> ["Death to the Dictator": Tehran, Iran](https://www.iranintl.com/en/202601083176)<!-- HN:46548190:end --><!-- HN:46548451:start -->
-* [46548451](https://news.social-protocols.org/stats?id=46548451) #30 16 points 12 comments -> [Why Are Grok and X Still Available in App Stores?](https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/)<!-- HN:46548451:end --><!-- HN:46548787:start -->
-* [46548787](https://news.social-protocols.org/stats?id=46548787) #5 43 points 10 comments -> [Tumblr removed from Apple App Store over abuse images](https://www.bbc.com/news/technology-46275138)<!-- HN:46548787:end --><!-- HN:46549965:start -->
-* [46549965](https://news.social-protocols.org/stats?id=46549965) #14 24 points 2 comments -> [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)<!-- HN:46549965:end --><!-- HN:46548724:start -->
-* [46548724](https://news.social-protocols.org/stats?id=46548724) #22 15 points 1 comments -> [Iran Goes Dark as Government Cuts Itself Off from Internet](https://www.kentik.com/analysis/iran-goes-dark-as-government-cuts-itself-off-from-internet/)<!-- HN:46548724:end --><!-- HN:46551253:start -->
-* [46551253](https://news.social-protocols.org/stats?id=46551253) #23 10 points 2 comments -> [Israel tells Doctors Without Borders to end its work in Gaza](https://www.nytimes.com/2026/01/06/world/middleeast/israel-bars-doctors-without-borders-gaza.html)<!-- HN:46551253:end --><!-- HN:46553342:start -->
-* [46553342](https://news.social-protocols.org/stats?id=46553342) #21 14 points 17 comments -> ["If Starmer is successful in banning X in Britain, I will move forward in . . ."](https://twitter.com/RepLuna/status/2009460496668426449)<!-- HN:46553342:end --><!-- HN:46554307:start -->
-* [46554307](https://news.social-protocols.org/stats?id=46554307) #19 -> [ICE Is What Happens When America Refuses to Learn from Black History](https://jemartisby.substack.com/p/ice-is-what-happens-when-america)<!-- HN:46554307:end --><!-- HN:46555439:start -->
-* [46555439](https://news.social-protocols.org/stats?id=46555439) #12 35 points 10 comments -> [DHS Invokes Immigration Enforcement to Justify Gathering Americans' DNA](https://reason.com/2026/01/09/dhs-invokes-immigration-enforcement-to-justify-gathering-americans-dna/)<!-- HN:46555439:end --><!-- HN:46555705:start -->
-* [46555705](https://news.social-protocols.org/stats?id=46555705) #28 8 points 0 comments -> [Inside the women's prison where violent male inmates have their way](https://thehill.com/opinion/criminal-justice/5674651-mci-framingham-sex-offenders/)<!-- HN:46555705:end --><!-- HN:46559192:start -->
-* [46559192](https://news.social-protocols.org/stats?id=46559192) #3 59 points 16 comments -> [Video filmed by ICE agent who shot Minneapolis woman emerges](https://www.bbc.com/news/articles/cz7yv4524gqo)<!-- HN:46559192:end --><!-- HN:46558317:start -->
-* [46558317](https://news.social-protocols.org/stats?id=46558317) #11 4 points 0 comments -> [Turn any image into a 3D Gaussian Splat](https://lab.revelium.studio/ml-sharp)<!-- HN:46558317:end --><!-- HN:46559309:start -->
-* [46559309](https://news.social-protocols.org/stats?id=46559309) #2 22 points 5 comments -> [Looking for flagged discussions on HN? See what's active](https://news.ycombinator.com/active)<!-- HN:46559309:end -->
 #### **Saturday, January 10, 2026**
 <!-- HN:46562672:start -->
 * [46562672](https://news.social-protocols.org/stats?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end --><!-- HN:46534466:start -->
