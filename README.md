@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46641007:start -->
 * [46641007](https://news.social-protocols.org/stats?id=46641007) #27 11 points 2 comments -> [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)<!-- HN:46641007:end --><!-- HN:46643070:start -->
 * [46643070](https://news.social-protocols.org/stats?id=46643070) #2 35 points 42 comments -> [The Myth of the ThinkPad](https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/)<!-- HN:46643070:end --><!-- HN:46647338:start -->
-* [46647338](https://news.social-protocols.org/stats?id=46647338) #9 -> [I mass-deleted 200 lines of AI-generated code yesterday. All broken](https://ward-eight.vercel.app/)<!-- HN:46647338:end -->
+* [46647338](https://news.social-protocols.org/stats?id=46647338) #9 -> [I mass-deleted 200 lines of AI-generated code yesterday. All broken](https://ward-eight.vercel.app/)<!-- HN:46647338:end --><!-- HN:46647555:start -->
+* [46647555](https://news.social-protocols.org/stats?id=46647555) #19 20 points 7 comments -> [Judge: ICE violated Liberian man's rights by bursting through front door](https://www.fox9.com/news/judge-ice-violated-liberian-mans-rights-bursting-through-front-door-during-arrest)<!-- HN:46647555:end -->
