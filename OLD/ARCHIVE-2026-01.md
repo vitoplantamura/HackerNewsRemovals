@@ -115,3 +115,16 @@
 * [46559192](https://news.ycombinator.com/item?id=46559192) #3 59 points 16 comments -> [Video filmed by ICE agent who shot Minneapolis woman emerges](https://www.bbc.com/news/articles/cz7yv4524gqo)<!-- HN:46559192:end --><!-- HN:46558317:start -->
 * [46558317](https://news.ycombinator.com/item?id=46558317) #11 4 points 0 comments -> [Turn any image into a 3D Gaussian Splat](https://lab.revelium.studio/ml-sharp)<!-- HN:46558317:end --><!-- HN:46559309:start -->
 * [46559309](https://news.ycombinator.com/item?id=46559309) #2 22 points 5 comments -> [Looking for flagged discussions on HN? See what's active](https://news.ycombinator.com/active)<!-- HN:46559309:end -->
+#### **Saturday, January 10, 2026**
+<!-- HN:46562672:start -->
+* [46562672](https://news.ycombinator.com/item?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end --><!-- HN:46534466:start -->
+* [46534466](https://news.ycombinator.com/item?id=46534466) #13 9 points 4 comments -> [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)<!-- HN:46534466:end --><!-- HN:46565720:start -->
+* [46565720](https://news.ycombinator.com/item?id=46565720) #25 16 points 0 comments -> [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)<!-- HN:46565720:end --><!-- HN:46566100:start -->
+* [46566100](https://news.ycombinator.com/item?id=46566100) #16 12 points 9 comments -> [Show HN: Hosting 100 Linux dev environments on one VM using LXC](https://github.com/FootprintAI/Containarium)<!-- HN:46566100:end --><!-- HN:46566848:start -->
+* [46566848](https://news.ycombinator.com/item?id=46566848) #16 4 points 2 comments -> [X Is a Power Problem, Not a Platform Problem](https://connectedplaces.online/reports/a-power-problem-not-a-platform-problem/)<!-- HN:46566848:end --><!-- HN:46567151:start -->
+* [46567151](https://news.ycombinator.com/item?id=46567151) #8 7 points 4 comments -> [I Hate Go, but It Saved My Startup: An Architectural Autopsy](http://audiotext.live/blog/posts/hate-go-saved-startup-architecture/)<!-- HN:46567151:end --><!-- HN:46567588:start -->
+* [46567588](https://news.ycombinator.com/item?id=46567588) #27 -> [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)<!-- HN:46567588:end --><!-- HN:46567467:start -->
+* [46567467](https://news.ycombinator.com/item?id=46567467) #6 15 points 1 comments -> [Minnesota vs. US Federal Government Timeline Project](https://mnvsus.fyi)<!-- HN:46567467:end --><!-- HN:46567696:start -->
+* [46567696](https://news.ycombinator.com/item?id=46567696) #25 50 points 23 comments -> [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document)<!-- HN:46567696:end --><!-- HN:46468086:start -->
+* [46468086](https://news.ycombinator.com/item?id=46468086) #9 11 points 1 comments -> [Pebble Round 2](https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/)<!-- HN:46468086:end --><!-- HN:46536718:start -->
+* [46536718](https://news.ycombinator.com/item?id=46536718) #16 8 points 3 comments -> [AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)<!-- HN:46536718:end -->

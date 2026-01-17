@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, January 10, 2026**
-<!-- HN:46562672:start -->
-* [46562672](https://news.social-protocols.org/stats?id=46562672) #24 7 points 0 comments -> [Checks and Balances Are Dead](https://rall.com/2026/01/08/checks-and-balances-are-dead)<!-- HN:46562672:end --><!-- HN:46534466:start -->
-* [46534466](https://news.social-protocols.org/stats?id=46534466) #13 9 points 4 comments -> [Samsung Galaxy Z TriFold hands-on](https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026)<!-- HN:46534466:end --><!-- HN:46565720:start -->
-* [46565720](https://news.social-protocols.org/stats?id=46565720) #25 16 points 0 comments -> [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)<!-- HN:46565720:end --><!-- HN:46566100:start -->
-* [46566100](https://news.social-protocols.org/stats?id=46566100) #16 12 points 9 comments -> [Show HN: Hosting 100 Linux dev environments on one VM using LXC](https://github.com/FootprintAI/Containarium)<!-- HN:46566100:end --><!-- HN:46566848:start -->
-* [46566848](https://news.social-protocols.org/stats?id=46566848) #16 4 points 2 comments -> [X Is a Power Problem, Not a Platform Problem](https://connectedplaces.online/reports/a-power-problem-not-a-platform-problem/)<!-- HN:46566848:end --><!-- HN:46567151:start -->
-* [46567151](https://news.social-protocols.org/stats?id=46567151) #8 7 points 4 comments -> [I Hate Go, but It Saved My Startup: An Architectural Autopsy](http://audiotext.live/blog/posts/hate-go-saved-startup-architecture/)<!-- HN:46567151:end --><!-- HN:46567588:start -->
-* [46567588](https://news.social-protocols.org/stats?id=46567588) #27 -> [Kavanaugh Stop](https://en.wikipedia.org/wiki/Kavanaugh_stop)<!-- HN:46567588:end --><!-- HN:46567467:start -->
-* [46567467](https://news.social-protocols.org/stats?id=46567467) #6 15 points 1 comments -> [Minnesota vs. US Federal Government Timeline Project](https://mnvsus.fyi)<!-- HN:46567467:end --><!-- HN:46567696:start -->
-* [46567696](https://news.social-protocols.org/stats?id=46567696) #25 50 points 23 comments -> [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document)<!-- HN:46567696:end --><!-- HN:46468086:start -->
-* [46468086](https://news.social-protocols.org/stats?id=46468086) #9 11 points 1 comments -> [Pebble Round 2](https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/)<!-- HN:46468086:end --><!-- HN:46536718:start -->
-* [46536718](https://news.social-protocols.org/stats?id=46536718) #16 8 points 3 comments -> [AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)<!-- HN:46536718:end -->
 #### **Sunday, January 11, 2026**
 <!-- HN:46572186:start -->
 * [46572186](https://news.social-protocols.org/stats?id=46572186) #8 32 points 1 comments -> [Datadog, Thank You for Blocking Us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)<!-- HN:46572186:end --><!-- HN:46479642:start -->
@@ -125,5 +112,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46649489](https://news.social-protocols.org/stats?id=46649489) #30 42 points 40 comments -> [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)<!-- HN:46649489:end --><!-- HN:46653049:start -->
 * [46653049](https://news.social-protocols.org/stats?id=46653049) #9 13 points 8 comments -> [Fix the two-party system with proportional representation](https://agrarianparty.org/platform/peoples-act)<!-- HN:46653049:end -->
 #### **Saturday, January 17, 2026**
-<!-- HN:46603947:start -->
-* [46603947](https://news.social-protocols.org/stats?id=46603947) #16 7 points 6 comments -> [An Ode to the Return of Wysiwyg](https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/)<!-- HN:46603947:end -->
