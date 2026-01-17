@@ -108,6 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46647338](https://news.social-protocols.org/stats?id=46647338) #9 -> [I mass-deleted 200 lines of AI-generated code yesterday. All broken](https://ward-eight.vercel.app/)<!-- HN:46647338:end --><!-- HN:46646490:start -->
 * [46646490](https://news.social-protocols.org/stats?id=46646490) #30 10 points 2 comments -> [Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/)<!-- HN:46646490:end --><!-- HN:46648978:start -->
 * [46648978](https://news.social-protocols.org/stats?id=46648978) #26 43 points 12 comments -> [ICE takes back into custody man released for violation of rights](https://apnews.com/article/minnesota-immigration-crackdown-25e46910fcc62fbf5ab341905af9891c)<!-- HN:46648978:end --><!-- HN:46652299:start -->
-* [46652299](https://news.social-protocols.org/stats?id=46652299) #7 8 points 8 comments -> [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)<!-- HN:46652299:end --><!-- HN:46653049:start -->
-* [46653049](https://news.social-protocols.org/stats?id=46653049) #9 13 points 8 comments -> [Fix the two-party system with proportional representation](https://agrarianparty.org/platform/peoples-act)<!-- HN:46653049:end -->
+* [46652299](https://news.social-protocols.org/stats?id=46652299) #7 8 points 8 comments -> [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)<!-- HN:46652299:end -->
 #### **Saturday, January 17, 2026**
