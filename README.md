@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 17, 2026**<!-- HN:46655034:start -->
 * [46655034](https://news.social-protocols.org/stats?id=46655034) #23 5 points 0 comments -> [Gas Town is a glimpse into the future](https://johncodes.com/archive/2026/01-16-a-glimpse-into-the-future/)<!-- HN:46655034:end --><!-- HN:46653388:start -->
 * [46653388](https://news.social-protocols.org/stats?id=46653388) #6 53 points 5 comments -> [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)<!-- HN:46653388:end --><!-- HN:46657947:start -->
-* [46657947](https://news.social-protocols.org/stats?id=46657947) #10 5 points 0 comments -> [The App You Should Be Building Is You](https://www.gnanaguru.com/p/the-app-you-should-be-building-is)<!-- HN:46657947:end -->
+* [46657947](https://news.social-protocols.org/stats?id=46657947) #10 5 points 0 comments -> [The App You Should Be Building Is You](https://www.gnanaguru.com/p/the-app-you-should-be-building-is)<!-- HN:46657947:end --><!-- HN:46657729:start -->
+* [46657729](https://news.social-protocols.org/stats?id=46657729) #10 20 points 4 comments -> [Whistleblower drops 'largest ever' ICE leak to unmask agents](https://vechron.com/2026/01/whistleblower-drops-largest-ever-ice-leak-to-unmask-agents/)<!-- HN:46657729:end -->
