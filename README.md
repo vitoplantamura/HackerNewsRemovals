@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46652299](https://news.social-protocols.org/stats?id=46652299) #7 8 points 8 comments -> [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)<!-- HN:46652299:end -->
 #### **Saturday, January 17, 2026**<!-- HN:46655034:start -->
 * [46655034](https://news.social-protocols.org/stats?id=46655034) #23 5 points 0 comments -> [Gas Town is a glimpse into the future](https://johncodes.com/archive/2026/01-16-a-glimpse-into-the-future/)<!-- HN:46655034:end --><!-- HN:46653388:start -->
-* [46653388](https://news.social-protocols.org/stats?id=46653388) #6 53 points 5 comments -> [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)<!-- HN:46653388:end -->
+* [46653388](https://news.social-protocols.org/stats?id=46653388) #6 53 points 5 comments -> [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)<!-- HN:46653388:end --><!-- HN:46657729:start -->
+* [46657729](https://news.social-protocols.org/stats?id=46657729) #6 8 points 0 comments -> [Whistleblower drops 'largest ever' ICE leak to unmask agents](https://vechron.com/2026/01/whistleblower-drops-largest-ever-ice-leak-to-unmask-agents/)<!-- HN:46657729:end -->
