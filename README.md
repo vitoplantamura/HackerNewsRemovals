@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46652299](https://news.social-protocols.org/stats?id=46652299) #7 8 points 8 comments -> [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)<!-- HN:46652299:end --><!-- HN:46649489:start -->
 * [46649489](https://news.social-protocols.org/stats?id=46649489) #30 42 points 40 comments -> [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)<!-- HN:46649489:end --><!-- HN:46653049:start -->
 * [46653049](https://news.social-protocols.org/stats?id=46653049) #9 13 points 8 comments -> [Fix the two-party system with proportional representation](https://agrarianparty.org/platform/peoples-act)<!-- HN:46653049:end -->
+#### **Saturday, January 17, 2026**
+<!-- HN:46603947:start -->
+* [46603947](https://news.social-protocols.org/stats?id=46603947) #16 7 points 6 comments -> [An Ode to the Return of Wysiwyg](https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/)<!-- HN:46603947:end -->
