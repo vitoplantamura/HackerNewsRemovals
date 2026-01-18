@@ -128,3 +128,10 @@
 * [46567696](https://news.ycombinator.com/item?id=46567696) #25 50 points 23 comments -> [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document)<!-- HN:46567696:end --><!-- HN:46468086:start -->
 * [46468086](https://news.ycombinator.com/item?id=46468086) #9 11 points 1 comments -> [Pebble Round 2](https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/)<!-- HN:46468086:end --><!-- HN:46536718:start -->
 * [46536718](https://news.ycombinator.com/item?id=46536718) #16 8 points 3 comments -> [AI Econ Seminar](https://cameron.stream/blog/econ-seminar/)<!-- HN:46536718:end -->
+#### **Sunday, January 11, 2026**
+<!-- HN:46572186:start -->
+* [46572186](https://news.ycombinator.com/item?id=46572186) #8 32 points 1 comments -> [Datadog, Thank You for Blocking Us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)<!-- HN:46572186:end --><!-- HN:46479642:start -->
+* [46479642](https://news.ycombinator.com/item?id=46479642) #11 5 points 0 comments -> [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/)<!-- HN:46479642:end --><!-- HN:46481060:start -->
+* [46481060](https://news.ycombinator.com/item?id=46481060) #13 35 points 7 comments -> [1970 Paris, cut into a grid and photographed](https://paris1970.jeantho.eu/index.html)<!-- HN:46481060:end --><!-- HN:46572593:start -->
+* [46572593](https://news.ycombinator.com/item?id=46572593) #27 8 points 6 comments -> [Show HN: PrintReadyBook](https://printreadybook.com/)<!-- HN:46572593:end --><!-- HN:46577869:start -->
+* [46577869](https://news.ycombinator.com/item?id=46577869) #28 35 points 17 comments -> ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)<!-- HN:46577869:end -->

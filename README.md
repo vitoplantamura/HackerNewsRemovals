@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, January 11, 2026**
-<!-- HN:46572186:start -->
-* [46572186](https://news.social-protocols.org/stats?id=46572186) #8 32 points 1 comments -> [Datadog, Thank You for Blocking Us](https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us)<!-- HN:46572186:end --><!-- HN:46479642:start -->
-* [46479642](https://news.social-protocols.org/stats?id=46479642) #11 5 points 0 comments -> [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/)<!-- HN:46479642:end --><!-- HN:46481060:start -->
-* [46481060](https://news.social-protocols.org/stats?id=46481060) #13 35 points 7 comments -> [1970 Paris, cut into a grid and photographed](https://paris1970.jeantho.eu/index.html)<!-- HN:46481060:end --><!-- HN:46572593:start -->
-* [46572593](https://news.social-protocols.org/stats?id=46572593) #27 8 points 6 comments -> [Show HN: PrintReadyBook](https://printreadybook.com/)<!-- HN:46572593:end --><!-- HN:46577869:start -->
-* [46577869](https://news.social-protocols.org/stats?id=46577869) #28 35 points 17 comments -> ['F*ck You, Make Me' Without Saying the Words](https://daringfireball.net/2026/01/fuck_you_make_me_without_saying_the_words)<!-- HN:46577869:end -->
 #### **Monday, January 12, 2026**<!-- HN:46514434:start -->
 * [46514434](https://news.social-protocols.org/stats?id=46514434) #8 9 points 1 comments -> [Pyinfra: Turns Python code into shell commands and runs them on your servers](https://github.com/pyinfra-dev/pyinfra)<!-- HN:46514434:end --><!-- HN:46583731:start -->
 * [46583731](https://news.social-protocols.org/stats?id=46583731) #23 -> [Powell has highest approval rating of political leaders among US adults (2025)](https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx)<!-- HN:46583731:end --><!-- HN:46587033:start -->
