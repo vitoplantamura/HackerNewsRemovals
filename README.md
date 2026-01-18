@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, January 18, 2026**
 <!-- HN:46661936:start -->
 * [46661936](https://news.social-protocols.org/stats?id=46661936) #12 25 points 21 comments -> [The Death of Software Development](https://mike.tech/blog/death-of-software-development)<!-- HN:46661936:end --><!-- HN:46662886:start -->
-* [46662886](https://news.social-protocols.org/stats?id=46662886) #11 36 points 12 comments -> [Texas A&M university is banning Plato, citing his "gender ideology"](https://lithub.com/texas-am-is-banning-plato-citing-his-gender-ideology/)<!-- HN:46662886:end -->
+* [46662886](https://news.social-protocols.org/stats?id=46662886) #11 36 points 12 comments -> [Texas A&M university is banning Plato, citing his "gender ideology"](https://lithub.com/texas-am-is-banning-plato-citing-his-gender-ideology/)<!-- HN:46662886:end --><!-- HN:46662503:start -->
+* [46662503](https://news.social-protocols.org/stats?id=46662503) #15 69 points 40 comments -> [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)<!-- HN:46662503:end -->
