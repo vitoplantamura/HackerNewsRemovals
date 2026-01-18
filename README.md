@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46658166](https://news.social-protocols.org/stats?id=46658166) #4 3 points 1 comments -> [Rust for C Programmers](https://rust-for-c-programmers.com)<!-- HN:46658166:end --><!-- HN:46661308:start -->
 * [46661308](https://news.social-protocols.org/stats?id=46661308) #7 31 points 26 comments -> [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)<!-- HN:46661308:end --><!-- HN:46661505:start -->
 * [46661505](https://news.social-protocols.org/stats?id=46661505) #29 5 points 0 comments -> [Kagi Small Web](https://kagi.com/smallweb)<!-- HN:46661505:end -->
+#### **Sunday, January 18, 2026**
+<!-- HN:46661936:start -->
+* [46661936](https://news.social-protocols.org/stats?id=46661936) #12 25 points 21 comments -> [The Death of Software Development](https://mike.tech/blog/death-of-software-development)<!-- HN:46661936:end -->
