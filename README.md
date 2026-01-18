@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46661505](https://news.social-protocols.org/stats?id=46661505) #29 5 points 0 comments -> [Kagi Small Web](https://kagi.com/smallweb)<!-- HN:46661505:end -->
 #### **Sunday, January 18, 2026**
 <!-- HN:46661936:start -->
-* [46661936](https://news.social-protocols.org/stats?id=46661936) #12 25 points 21 comments -> [The Death of Software Development](https://mike.tech/blog/death-of-software-development)<!-- HN:46661936:end -->
+* [46661936](https://news.social-protocols.org/stats?id=46661936) #12 25 points 21 comments -> [The Death of Software Development](https://mike.tech/blog/death-of-software-development)<!-- HN:46661936:end --><!-- HN:46662886:start -->
+* [46662886](https://news.social-protocols.org/stats?id=46662886) #11 36 points 12 comments -> [Texas A&M university is banning Plato, citing his "gender ideology"](https://lithub.com/texas-am-is-banning-plato-citing-his-gender-ideology/)<!-- HN:46662886:end -->
