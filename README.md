@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46616541](https://news.social-protocols.org/stats?id=46616541) #19 23 points 40 comments -> [Fluid Gears Rotate Without Teeth](https://phys.org/news/2026-01-fluid-gears-rotate-teeth-mechanical.html)<!-- HN:46616541:end --><!-- HN:46679515:start -->
 * [46679515](https://news.social-protocols.org/stats?id=46679515) #23 10 points 4 comments -> [Idiocracy](https://pt.wikipedia.org/wiki/Idiocracy)<!-- HN:46679515:end --><!-- HN:46633025:start -->
 * [46633025](https://news.social-protocols.org/stats?id=46633025) #21 36 points 40 comments -> [Self Sanitizing Door Handle](https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/)<!-- HN:46633025:end --><!-- HN:46626441:start -->
-* [46626441](https://news.social-protocols.org/stats?id=46626441) #17 68 points 17 comments -> [Vm0](https://github.com/vm0-ai/vm0)<!-- HN:46626441:end -->
+* [46626441](https://news.social-protocols.org/stats?id=46626441) #17 68 points 17 comments -> [Vm0](https://github.com/vm0-ai/vm0)<!-- HN:46626441:end --><!-- HN:46680261:start -->
+* [46680261](https://news.social-protocols.org/stats?id=46680261) #5 11 points 15 comments -> [Are You YES AI or No AI?](https://voteyesornoai.com)<!-- HN:46680261:end -->
