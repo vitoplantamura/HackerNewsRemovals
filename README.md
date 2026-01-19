@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, January 12, 2026**<!-- HN:46514434:start -->
-* [46514434](https://news.social-protocols.org/stats?id=46514434) #8 9 points 1 comments -> [Pyinfra: Turns Python code into shell commands and runs them on your servers](https://github.com/pyinfra-dev/pyinfra)<!-- HN:46514434:end --><!-- HN:46583731:start -->
-* [46583731](https://news.social-protocols.org/stats?id=46583731) #23 -> [Powell has highest approval rating of political leaders among US adults (2025)](https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx)<!-- HN:46583731:end --><!-- HN:46587033:start -->
-* [46587033](https://news.social-protocols.org/stats?id=46587033) #26 28 points 14 comments -> [How to Build Reactive Declarative UI in Vanilla JavaScript](https://jsdev.space/howto/reactive-vanilla-js/)<!-- HN:46587033:end --><!-- HN:46589386:start -->
-* [46589386](https://news.social-protocols.org/stats?id=46589386) #7 32 points 20 comments -> [Why Ontario Digital Service couldn't procure '98% safe' LLMs (15M Canadians)](https://rosetta-labs-erb.github.io/authority-boundary-ledger/)<!-- HN:46589386:end --><!-- HN:46590905:start -->
-* [46590905](https://news.social-protocols.org/stats?id=46590905) #12 7 points 4 comments -> [Telegram recovery model allows permanent lockout after phishing](https://bugs.telegram.org/c/58477)<!-- HN:46590905:end --><!-- HN:46589489:start -->
-* [46589489](https://news.social-protocols.org/stats?id=46589489) #21 164 points 19 comments -> [Statement from Federal Reserve Chair](https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm?mod=ANLink)<!-- HN:46589489:end --><!-- HN:46592827:start -->
-* [46592827](https://news.social-protocols.org/stats?id=46592827) #28 112 points 95 comments -> [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)<!-- HN:46592827:end -->
 #### **Tuesday, January 13, 2026**
 <!-- HN:46595868:start -->
 * [46595868](https://news.social-protocols.org/stats?id=46595868) #27 15 points 1 comments -> [We're all just content for ICE](https://www.garbageday.email/p/we-re-all-just-content-for-ice)<!-- HN:46595868:end --><!-- HN:46519839:start -->
