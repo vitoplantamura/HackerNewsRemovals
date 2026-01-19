@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46588159](https://news.social-protocols.org/stats?id=46588159) #16 128 points 69 comments -> [Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16](https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/)<!-- HN:46588159:end --><!-- HN:46600955:start -->
 * [46600955](https://news.social-protocols.org/stats?id=46600955) #30 23 points 0 comments -> [Multiword matrix multiplication over large finite fields in floating-point](https://arxiv.org/abs/2601.07508)<!-- HN:46600955:end --><!-- HN:46672714:start -->
 * [46672714](https://news.social-protocols.org/stats?id=46672714) #20 9 points 0 comments -> [EU to Retaliate on Tariffs](https://www.spiegel.de/politik/groenland-plaene-der-usa-eu-plant-gegenzoelle-im-wert-von-93-milliarden-euro-a-2262fda5-0071-4352-bad5-289e8ca37cf9)<!-- HN:46672714:end -->
+#### **Monday, January 19, 2026**
+<!-- HN:46673809:start -->
+* [46673809](https://news.social-protocols.org/stats?id=46673809) #2 15 points 3 comments -> [Show HN: I quit coding years ago. AI brought me back](https://calquio.com)<!-- HN:46673809:end -->
