@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46685325](https://news.social-protocols.org/stats?id=46685325) #7 13 points 0 comments -> [What Have Unions Done for Us?](https://whathaveunionsdoneforus.uk/)<!-- HN:46685325:end -->
 #### **Tuesday, January 20, 2026**<!-- HN:46688787:start -->
 * [46688787](https://news.social-protocols.org/stats?id=46688787) #1 10 points 4 comments -> [You did not vote for Him, but you helped Him win](https://eurodivergent.bearblog.dev/you-didnt-vote-for-him-but-you-helped-him-win/)<!-- HN:46688787:end --><!-- HN:46689143:start -->
-* [46689143](https://news.social-protocols.org/stats?id=46689143) #7 64 points 2 comments -> [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)<!-- HN:46689143:end -->
+* [46689143](https://news.social-protocols.org/stats?id=46689143) #7 64 points 2 comments -> [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)<!-- HN:46689143:end --><!-- HN:46644356:start -->
+* [46644356](https://news.social-protocols.org/stats?id=46644356) #4 4 points 0 comments -> [Show HN: Bettershot an OSS Alternative of Cleanshot](https://github.com/KartikLabhshetwar/better-shot)<!-- HN:46644356:end -->
