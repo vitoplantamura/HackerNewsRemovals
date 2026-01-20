@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, January 13, 2026**
-<!-- HN:46595868:start -->
-* [46595868](https://news.social-protocols.org/stats?id=46595868) #27 15 points 1 comments -> [We're all just content for ICE](https://www.garbageday.email/p/we-re-all-just-content-for-ice)<!-- HN:46595868:end --><!-- HN:46519839:start -->
-* [46519839](https://news.social-protocols.org/stats?id=46519839) #16 69 points 24 comments -> [Perlsecret – Perl secret operators and constants](https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod)<!-- HN:46519839:end --><!-- HN:46525639:start -->
-* [46525639](https://news.social-protocols.org/stats?id=46525639) #26 332 points 73 comments -> [Personal thoughts/notes from working on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html)<!-- HN:46525639:end --><!-- HN:46597505:start -->
-* [46597505](https://news.social-protocols.org/stats?id=46597505) #30 28 points 12 comments -> [Day Fifteen of Iran's Nationwide Protests: Sharp Rise in Human Casualties](https://www.en-hrana.org/day-fifteen-of-irans-nationwide-protests-sharp-rise-in-human-casualties/)<!-- HN:46597505:end --><!-- HN:46598913:start -->
-* [46598913](https://news.social-protocols.org/stats?id=46598913) #30 23 points 1 comments -> [Justice Delayed Is Justice Denied](https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied)<!-- HN:46598913:end --><!-- HN:46599604:start -->
-* [46599604](https://news.social-protocols.org/stats?id=46599604) #5 10 points 7 comments -> [Junior devs don't know the red flags we spot in seconds and we never tell them](https://yourlead.dev)<!-- HN:46599604:end --><!-- HN:46598890:start -->
-* [46598890](https://news.social-protocols.org/stats?id=46598890) #22 4 points 1 comments -> [The Homepage of Ron Goodwin](http://rongoodwin.co.uk/)<!-- HN:46598890:end --><!-- HN:46568769:start -->
-* [46568769](https://news.social-protocols.org/stats?id=46568769) #6 47 points 127 comments -> [Is beef tallow making a comeback?](https://www.nytimes.com/2026/01/10/dining/beef-tallow-food-pyramid-rfk-jr.html)<!-- HN:46568769:end --><!-- HN:46602898:start -->
-* [46602898](https://news.social-protocols.org/stats?id=46602898) #7 -> [Scott Adams Has Died](https://www.washingtonpost.com/obituaries/2026/01/13/scott-adams-dead-dilbert/)<!-- HN:46602898:end --><!-- HN:46602711:start -->
-* [46602711](https://news.social-protocols.org/stats?id=46602711) #29 3 points 0 comments -> [Show HN: I Will Do Whatever to Get Primeagen to My Hackathon Stream](https://vibe.devpost.com/)<!-- HN:46602711:end --><!-- HN:46602857:start -->
-* [46602857](https://news.social-protocols.org/stats?id=46602857) #12 33 points 7 comments -> [Scott Adams Dead at 68](https://en.wikipedia.org/wiki/Scott_Adams)<!-- HN:46602857:end --><!-- HN:46603772:start -->
-* [46603772](https://news.social-protocols.org/stats?id=46603772) #9 13 points 9 comments -> [Show HN: DebtBomb – Make TODOs expire and automatically create Jira tickets](https://github.com/jobin-404/debtbomb)<!-- HN:46603772:end --><!-- HN:46604443:start -->
-* [46604443](https://news.social-protocols.org/stats?id=46604443) #16 -> [Dilbert's Scott Adams Dies](https://www.inc.com/jennifer-conrad/scott-adams-dilbert-dies-at-68/91286247)<!-- HN:46604443:end --><!-- HN:46603431:start -->
-* [46603431](https://news.social-protocols.org/stats?id=46603431) #19 405 points 3 comments -> ['Dilbert' creator Scott Adams dies at 68 after prostate cancer battle](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/)<!-- HN:46603431:end --><!-- HN:46607331:start -->
-* [46607331](https://news.social-protocols.org/stats?id=46607331) #27 3 points 0 comments -> [Whistleblower leaks personal details of thousands of Border Patrol/ICE Agents](https://www.rawstory.com/ice-agents-data-leak/)<!-- HN:46607331:end -->
 #### **Wednesday, January 14, 2026**<!-- HN:46551041:start -->
 * [46551041](https://news.social-protocols.org/stats?id=46551041) #1 33 points 1 comments -> [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)<!-- HN:46551041:end --><!-- HN:46534632:start -->
 * [46534632](https://news.social-protocols.org/stats?id=46534632) #11 62 points 1 comments -> [Japan's Skyscraper Factories (2021)](https://www.construction-physics.com/p/japans-skyscraper-factories)<!-- HN:46534632:end --><!-- HN:46612339:start -->
