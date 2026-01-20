@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46607969](https://news.social-protocols.org/stats?id=46607969) #27 55 points 62 comments -> [Two Concepts of Intelligence](https://cacm.acm.org/blogcacm/two-concepts-of-intelligence/)<!-- HN:46607969:end --><!-- HN:46684647:start -->
 * [46684647](https://news.social-protocols.org/stats?id=46684647) #10 -> [Help Denmark Buy California – Because Why Not?](https://denmarkification.com/)<!-- HN:46684647:end --><!-- HN:46685325:start -->
 * [46685325](https://news.social-protocols.org/stats?id=46685325) #7 13 points 0 comments -> [What Have Unions Done for Us?](https://whathaveunionsdoneforus.uk/)<!-- HN:46685325:end -->
+#### **Tuesday, January 20, 2026**
+<!-- HN:46688173:start -->
+* [46688173](https://news.social-protocols.org/stats?id=46688173) #7 74 points 38 comments -> [X algorithm has been open sourced](https://github.com/xai-org/x-algorithm)<!-- HN:46688173:end -->
