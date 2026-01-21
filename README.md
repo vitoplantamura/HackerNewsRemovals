@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46695492](https://news.social-protocols.org/stats?id=46695492) #22 3 points 0 comments -> [Show HN: Typing Tennis](https://typingtennis.com)<!-- HN:46695492:end --><!-- HN:46697700:start -->
 * [46697700](https://news.social-protocols.org/stats?id=46697700) #15 -> [Citizen says ICE took him at gunpoint in underwear despite cold and no warrant](https://apnews.com/article/minnesota-immigration-us-citizen-detained-hmong-d009590a491c0c8243ef21ef24db7182)<!-- HN:46697700:end --><!-- HN:46696300:start -->
 * [46696300](https://news.social-protocols.org/stats?id=46696300) #14 64 points 38 comments -> [Without benchmarking LLMs, you're likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)<!-- HN:46696300:end -->
+#### **Wednesday, January 21, 2026**
+<!-- HN:46698723:start -->
+* [46698723](https://news.social-protocols.org/stats?id=46698723) #26 -> [DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)<!-- HN:46698723:end -->
