@@ -55,8 +55,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46639805](https://news.social-protocols.org/stats?id=46639805) #27 3 points 1 comments -> [There Is No Green Transition, and This Book Explains Why](https://www.highspeed.blog/too-much-more/)<!-- HN:46639805:end --><!-- HN:46547400:start -->
 * [46547400](https://news.social-protocols.org/stats?id=46547400) #30 20 points 2 comments -> [Virginia Faulkner: Writer, editor, and ghostwriter?](https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/)<!-- HN:46547400:end -->
 #### **Friday, January 16, 2026**
-<!-- HN:46641007:start -->
-* [46641007](https://news.social-protocols.org/stats?id=46641007) #27 11 points 2 comments -> [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)<!-- HN:46641007:end --><!-- HN:46643070:start -->
+<!-- HN:46643070:start -->
 * [46643070](https://news.social-protocols.org/stats?id=46643070) #2 35 points 42 comments -> [The Myth of the ThinkPad](https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/)<!-- HN:46643070:end --><!-- HN:46647338:start -->
 * [46647338](https://news.social-protocols.org/stats?id=46647338) #9 -> [I mass-deleted 200 lines of AI-generated code yesterday. All broken](https://ward-eight.vercel.app/)<!-- HN:46647338:end --><!-- HN:46646490:start -->
 * [46646490](https://news.social-protocols.org/stats?id=46646490) #30 10 points 2 comments -> [Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/)<!-- HN:46646490:end --><!-- HN:46648978:start -->
