@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, January 21, 2026**
 <!-- HN:46698723:start -->
 * [46698723](https://news.social-protocols.org/stats?id=46698723) #26 -> [DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)<!-- HN:46698723:end --><!-- HN:46632593:start -->
-* [46632593](https://news.social-protocols.org/stats?id=46632593) #18 12 points 0 comments -> [Catching API regressions with snapshot testing](https://kreya.app/blog/api-snapshot-testing/)<!-- HN:46632593:end -->
+* [46632593](https://news.social-protocols.org/stats?id=46632593) #18 12 points 0 comments -> [Catching API regressions with snapshot testing](https://kreya.app/blog/api-snapshot-testing/)<!-- HN:46632593:end --><!-- HN:46701239:start -->
+* [46701239](https://news.social-protocols.org/stats?id=46701239) #4 12 points 4 comments -> [Germany Forces Lexus to Remotely Kill Car Heating in Dead of Winter](https://www.gadgetreview.com/germany-forces-lexus-to-remotely-kill-car-heating-in-dead-of-winter)<!-- HN:46701239:end -->
