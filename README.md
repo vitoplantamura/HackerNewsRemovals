@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46696300](https://news.social-protocols.org/stats?id=46696300) #14 64 points 38 comments -> [Without benchmarking LLMs, you're likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)<!-- HN:46696300:end -->
 #### **Wednesday, January 21, 2026**
 <!-- HN:46698723:start -->
-* [46698723](https://news.social-protocols.org/stats?id=46698723) #26 -> [DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)<!-- HN:46698723:end -->
+* [46698723](https://news.social-protocols.org/stats?id=46698723) #26 -> [DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)<!-- HN:46698723:end --><!-- HN:46632593:start -->
+* [46632593](https://news.social-protocols.org/stats?id=46632593) #18 12 points 0 comments -> [Catching API regressions with snapshot testing](https://kreya.app/blog/api-snapshot-testing/)<!-- HN:46632593:end -->
