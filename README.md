@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46712959](https://news.social-protocols.org/stats?id=46712959) #20 3 points 0 comments -> [The Inflation Trap: Housing replacement costs vs. market value](https://suretyinsights.com/blog/the-inflation-trap-why-your-home-insurance-limit-might-be-too-low)<!-- HN:46712959:end -->
 #### **Thursday, January 22, 2026**
 <!-- HN:46655274:start -->
-* [46655274](https://news.social-protocols.org/stats?id=46655274) #26 5 points 1 comments -> [Show HN: An opinionated fork of micro, built for vibe coders who enjoy code](https://github.com/elleryfamilia/thicc)<!-- HN:46655274:end -->
+* [46655274](https://news.social-protocols.org/stats?id=46655274) #26 5 points 1 comments -> [Show HN: An opinionated fork of micro, built for vibe coders who enjoy code](https://github.com/elleryfamilia/thicc)<!-- HN:46655274:end --><!-- HN:46718299:start -->
+* [46718299](https://news.social-protocols.org/stats?id=46718299) #11 27 points 43 comments -> [40M Americans Live Alone, 29% of households](https://www.apolloacademy.com/40-million-americans-live-alone/)<!-- HN:46718299:end -->
