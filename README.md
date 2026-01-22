@@ -129,5 +129,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46712959](https://news.social-protocols.org/stats?id=46712959) #20 3 points 0 comments -> [The Inflation Trap: Housing replacement costs vs. market value](https://suretyinsights.com/blog/the-inflation-trap-why-your-home-insurance-limit-might-be-too-low)<!-- HN:46712959:end -->
 #### **Thursday, January 22, 2026**
 <!-- HN:46655274:start -->
-* [46655274](https://news.social-protocols.org/stats?id=46655274) #26 5 points 1 comments -> [Show HN: An opinionated fork of micro, built for vibe coders who enjoy code](https://github.com/elleryfamilia/thicc)<!-- HN:46655274:end --><!-- HN:46718086:start -->
-* [46718086](https://news.social-protocols.org/stats?id=46718086) #18 21 points 25 comments -> [I'm 34. Here's 34 things I wish I knew at 21](https://elliot.my/im-34-heres-34-things-i-wish-i-knew-at-21/)<!-- HN:46718086:end -->
+* [46655274](https://news.social-protocols.org/stats?id=46655274) #26 5 points 1 comments -> [Show HN: An opinionated fork of micro, built for vibe coders who enjoy code](https://github.com/elleryfamilia/thicc)<!-- HN:46655274:end -->
