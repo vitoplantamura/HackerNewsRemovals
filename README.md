@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46655274:start -->
 * [46655274](https://news.social-protocols.org/stats?id=46655274) #26 5 points 1 comments -> [Show HN: An opinionated fork of micro, built for vibe coders who enjoy code](https://github.com/elleryfamilia/thicc)<!-- HN:46655274:end --><!-- HN:46718299:start -->
 * [46718299](https://news.social-protocols.org/stats?id=46718299) #11 27 points 43 comments -> [40M Americans Live Alone, 29% of households](https://www.apolloacademy.com/40-million-americans-live-alone/)<!-- HN:46718299:end --><!-- HN:46718556:start -->
-* [46718556](https://news.social-protocols.org/stats?id=46718556) #19 11 points 4 comments -> [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)<!-- HN:46718556:end -->
+* [46718556](https://news.social-protocols.org/stats?id=46718556) #19 11 points 4 comments -> [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)<!-- HN:46718556:end --><!-- HN:46662001:start -->
+* [46662001](https://news.social-protocols.org/stats?id=46662001) #14 46 points 40 comments -> [A Year of 3D Printing](https://brookehatton.com/blog/making/a-year-of-3d-printing/)<!-- HN:46662001:end -->
