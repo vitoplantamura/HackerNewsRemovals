@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, January 15, 2026**<!-- HN:46625766:start -->
-* [46625766](https://news.social-protocols.org/stats?id=46625766) #19 33 points 18 comments -> [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/)<!-- HN:46625766:end --><!-- HN:46626826:start -->
-* [46626826](https://news.social-protocols.org/stats?id=46626826) #3 25 points 40 comments -> [Is passive investment inflating a stockmarket bubble?](https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble)<!-- HN:46626826:end --><!-- HN:46628484:start -->
-* [46628484](https://news.social-protocols.org/stats?id=46628484) #8 6 points 10 comments -> [Tech Writers Are About to Become Obsolete](https://kibbler.dev/blog/turn-your-codebase-into-a-knowledge-base)<!-- HN:46628484:end --><!-- HN:46628185:start -->
-* [46628185](https://news.social-protocols.org/stats?id=46628185) #26 2 points 1 comments -> [Raising Kids After Knowledge Became a Commodity](https://liorz.github.io/blog/posts/fallacy-education-for-academic-excellence/)<!-- HN:46628185:end --><!-- HN:46632955:start -->
-* [46632955](https://news.social-protocols.org/stats?id=46632955) #11 31 points 41 comments -> [Nvidia Reportedly Ends GeForce RTX 5070 Ti Production, RTX 5060 Ti 16 GB Next](https://www.techpowerup.com/345224/nvidia-reportedly-ends-geforce-rtx-5070-ti-production-rtx-5060-ti-16-gb-next)<!-- HN:46632955:end --><!-- HN:46634263:start -->
-* [46634263](https://news.social-protocols.org/stats?id=46634263) #25 20 points 19 comments -> [European military personnel arrive in Greenland as Trump says US needs island](https://www.bbc.com/news/articles/cd0ydjvxpejo)<!-- HN:46634263:end --><!-- HN:46566065:start -->
-* [46566065](https://news.social-protocols.org/stats?id=46566065) #13 13 points 3 comments -> [Investing with GIFs: A Visual Guide](https://www.ft.com/content/9b1ff0b8-a1e8-4869-8d61-620c5ed32d35)<!-- HN:46566065:end --><!-- HN:46635810:start -->
-* [46635810](https://news.social-protocols.org/stats?id=46635810) #4 9 points 2 comments -> [AI Tool Archive](https://aitoolarchive.com/)<!-- HN:46635810:end --><!-- HN:46639805:start -->
-* [46639805](https://news.social-protocols.org/stats?id=46639805) #27 3 points 1 comments -> [There Is No Green Transition, and This Book Explains Why](https://www.highspeed.blog/too-much-more/)<!-- HN:46639805:end --><!-- HN:46547400:start -->
-* [46547400](https://news.social-protocols.org/stats?id=46547400) #30 20 points 2 comments -> [Virginia Faulkner: Writer, editor, and ghostwriter?](https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/)<!-- HN:46547400:end -->
 #### **Friday, January 16, 2026**
 <!-- HN:46643070:start -->
 * [46643070](https://news.social-protocols.org/stats?id=46643070) #2 35 points 42 comments -> [The Myth of the ThinkPad](https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/)<!-- HN:46643070:end --><!-- HN:46647338:start -->
