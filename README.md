@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46641007](https://news.social-protocols.org/stats?id=46641007) #27 26 points 5 comments -> [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)<!-- HN:46641007:end --><!-- HN:46711346:start -->
 * [46711346](https://news.social-protocols.org/stats?id=46711346) #25 100 points 46 comments -> [FreeBSD](https://docs.freebsd.org/en/books/handbook/)<!-- HN:46711346:end --><!-- HN:46712959:start -->
 * [46712959](https://news.social-protocols.org/stats?id=46712959) #20 3 points 0 comments -> [The Inflation Trap: Housing replacement costs vs. market value](https://suretyinsights.com/blog/the-inflation-trap-why-your-home-insurance-limit-might-be-too-low)<!-- HN:46712959:end -->
+#### **Thursday, January 22, 2026**
+<!-- HN:46655274:start -->
+* [46655274](https://news.social-protocols.org/stats?id=46655274) #26 5 points 1 comments -> [Show HN: An opinionated fork of micro, built for vibe coders who enjoy code](https://github.com/elleryfamilia/thicc)<!-- HN:46655274:end -->
