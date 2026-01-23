@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46725618](https://news.social-protocols.org/stats?id=46725618) #27 4 points 1 comments -> [The Education of the Broligarchy](https://colossus.com/article/education-broligarchy-silicon-valley-canon/)<!-- HN:46725618:end --><!-- HN:46725982:start -->
 * [46725982](https://news.social-protocols.org/stats?id=46725982) #21 4 points 0 comments -> [How to Find LinkedIn Profiles and Work Emails in 5 Minutes](https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow)<!-- HN:46725982:end --><!-- HN:46725284:start -->
 * [46725284](https://news.social-protocols.org/stats?id=46725284) #6 23 points 13 comments -> [Capital One Strikes $5.15B Deal for Fintech Brex (YC W17)](https://www.wsj.com/finance/banking/capital-one-to-buy-fintech-brex-e2dacc67)<!-- HN:46725284:end -->
+#### **Friday, January 23, 2026**
+<!-- HN:46725522:start -->
+* [46725522](https://news.social-protocols.org/stats?id=46725522) #9 45 points 17 comments -> [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)<!-- HN:46725522:end -->
