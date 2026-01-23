@@ -186,3 +186,10 @@
 * [46635810](https://news.ycombinator.com/item?id=46635810) #4 9 points 2 comments -> [AI Tool Archive](https://aitoolarchive.com/)<!-- HN:46635810:end --><!-- HN:46639805:start -->
 * [46639805](https://news.ycombinator.com/item?id=46639805) #27 3 points 1 comments -> [There Is No Green Transition, and This Book Explains Why](https://www.highspeed.blog/too-much-more/)<!-- HN:46639805:end --><!-- HN:46547400:start -->
 * [46547400](https://news.ycombinator.com/item?id=46547400) #30 20 points 2 comments -> [Virginia Faulkner: Writer, editor, and ghostwriter?](https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/)<!-- HN:46547400:end -->
+#### **Friday, January 16, 2026**
+<!-- HN:46643070:start -->
+* [46643070](https://news.ycombinator.com/item?id=46643070) #2 35 points 42 comments -> [The Myth of the ThinkPad](https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/)<!-- HN:46643070:end --><!-- HN:46647338:start -->
+* [46647338](https://news.ycombinator.com/item?id=46647338) #9 -> [I mass-deleted 200 lines of AI-generated code yesterday. All broken](https://ward-eight.vercel.app/)<!-- HN:46647338:end --><!-- HN:46646490:start -->
+* [46646490](https://news.ycombinator.com/item?id=46646490) #30 10 points 2 comments -> [Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/)<!-- HN:46646490:end --><!-- HN:46648978:start -->
+* [46648978](https://news.ycombinator.com/item?id=46648978) #26 43 points 12 comments -> [ICE takes back into custody man released for violation of rights](https://apnews.com/article/minnesota-immigration-crackdown-25e46910fcc62fbf5ab341905af9891c)<!-- HN:46648978:end --><!-- HN:46652299:start -->
+* [46652299](https://news.ycombinator.com/item?id=46652299) #7 8 points 8 comments -> [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)<!-- HN:46652299:end -->
