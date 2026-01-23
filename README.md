@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, January 23, 2026**
 <!-- HN:46725522:start -->
 * [46725522](https://news.social-protocols.org/stats?id=46725522) #9 45 points 17 comments -> [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)<!-- HN:46725522:end --><!-- HN:46650627:start -->
-* [46650627](https://news.social-protocols.org/stats?id=46650627) #11 14 points 1 comments -> [What Is Control Flow Analysis for Lambda Calculus? – Iowa Type Theory Commute](https://rss.buzzsprout.com/728558.rss)<!-- HN:46650627:end -->
+* [46650627](https://news.social-protocols.org/stats?id=46650627) #11 14 points 1 comments -> [What Is Control Flow Analysis for Lambda Calculus? – Iowa Type Theory Commute](https://rss.buzzsprout.com/728558.rss)<!-- HN:46650627:end --><!-- HN:46661167:start -->
+* [46661167](https://news.social-protocols.org/stats?id=46661167) #25 99 points 46 comments -> [My first year in sales as technical founder](https://www.fabiandietrich.com/blog/first-year-in-sales.html)<!-- HN:46661167:end -->
