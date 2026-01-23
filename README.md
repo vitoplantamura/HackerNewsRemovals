@@ -131,5 +131,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46725284](https://news.social-protocols.org/stats?id=46725284) #6 23 points 13 comments -> [Capital One Strikes $5.15B Deal for Fintech Brex (YC W17)](https://www.wsj.com/finance/banking/capital-one-to-buy-fintech-brex-e2dacc67)<!-- HN:46725284:end -->
 #### **Friday, January 23, 2026**
 <!-- HN:46725522:start -->
-* [46725522](https://news.social-protocols.org/stats?id=46725522) #9 45 points 17 comments -> [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)<!-- HN:46725522:end --><!-- HN:46727099:start -->
-* [46727099](https://news.social-protocols.org/stats?id=46727099) #24 14 points 0 comments -> [ICE detains five-year-old Minnesota boy arriving home, say school officials](https://www.theguardian.com/us-news/2026/jan/21/ice-arrests-five-year-old-boy-minnesota)<!-- HN:46727099:end -->
+* [46725522](https://news.social-protocols.org/stats?id=46725522) #9 45 points 17 comments -> [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)<!-- HN:46725522:end -->
