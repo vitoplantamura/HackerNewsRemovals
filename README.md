@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46735406](https://news.social-protocols.org/stats?id=46735406) #23 3 points 0 comments -> [Show HN: Claude Tutor – an open source engineering tutor](https://twitter.com/michaelraspuzzi/status/2014756546195148988)<!-- HN:46735406:end -->
 #### **Saturday, January 24, 2026**
 <!-- HN:46739278:start -->
-* [46739278](https://news.social-protocols.org/stats?id=46739278) #10 10 points 12 comments -> [OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes](https://news.aibase.com/news/24859)<!-- HN:46739278:end -->
+* [46739278](https://news.social-protocols.org/stats?id=46739278) #10 10 points 12 comments -> [OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes](https://news.aibase.com/news/24859)<!-- HN:46739278:end --><!-- HN:46739439:start -->
+* [46739439](https://news.social-protocols.org/stats?id=46739439) #23 23 points 3 comments -> [Over 600 Minnesota businesses close in protest of ICE operations](https://www.perplexity.ai/discover/you/trump-immigration-enforcement-l3O3OX48SMuW4LngN6jltQ)<!-- HN:46739439:end -->
