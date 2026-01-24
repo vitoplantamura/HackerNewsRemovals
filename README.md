@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, January 17, 2026**<!-- HN:46655034:start -->
-* [46655034](https://news.social-protocols.org/stats?id=46655034) #23 5 points 0 comments -> [Gas Town is a glimpse into the future](https://johncodes.com/archive/2026/01-16-a-glimpse-into-the-future/)<!-- HN:46655034:end --><!-- HN:46653388:start -->
-* [46653388](https://news.social-protocols.org/stats?id=46653388) #6 53 points 5 comments -> [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)<!-- HN:46653388:end --><!-- HN:46657947:start -->
-* [46657947](https://news.social-protocols.org/stats?id=46657947) #10 5 points 0 comments -> [The App You Should Be Building Is You](https://www.gnanaguru.com/p/the-app-you-should-be-building-is)<!-- HN:46657947:end --><!-- HN:46577968:start -->
-* [46577968](https://news.social-protocols.org/stats?id=46577968) #20 22 points 14 comments -> [Finding and Fixing a 50k Goroutine Leak That Nearly Killed Production](https://skoredin.pro/blog/golang/goroutine-leak-debugging)<!-- HN:46577968:end --><!-- HN:46658166:start -->
-* [46658166](https://news.social-protocols.org/stats?id=46658166) #4 3 points 1 comments -> [Rust for C Programmers](https://rust-for-c-programmers.com)<!-- HN:46658166:end --><!-- HN:46661308:start -->
-* [46661308](https://news.social-protocols.org/stats?id=46661308) #7 31 points 26 comments -> [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)<!-- HN:46661308:end --><!-- HN:46661505:start -->
-* [46661505](https://news.social-protocols.org/stats?id=46661505) #29 5 points 0 comments -> [Kagi Small Web](https://kagi.com/smallweb)<!-- HN:46661505:end -->
 #### **Sunday, January 18, 2026**
 <!-- HN:46661936:start -->
 * [46661936](https://news.social-protocols.org/stats?id=46661936) #12 25 points 21 comments -> [The Death of Software Development](https://mike.tech/blog/death-of-software-development)<!-- HN:46661936:end --><!-- HN:46662886:start -->
