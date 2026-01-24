@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 24, 2026**
 <!-- HN:46739278:start -->
 * [46739278](https://news.social-protocols.org/stats?id=46739278) #10 10 points 12 comments -> [OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes](https://news.aibase.com/news/24859)<!-- HN:46739278:end --><!-- HN:46739439:start -->
-* [46739439](https://news.social-protocols.org/stats?id=46739439) #23 23 points 3 comments -> [Over 600 Minnesota businesses close in protest of ICE operations](https://www.perplexity.ai/discover/you/trump-immigration-enforcement-l3O3OX48SMuW4LngN6jltQ)<!-- HN:46739439:end -->
+* [46739439](https://news.social-protocols.org/stats?id=46739439) #23 23 points 3 comments -> [Over 600 Minnesota businesses close in protest of ICE operations](https://www.perplexity.ai/discover/you/trump-immigration-enforcement-l3O3OX48SMuW4LngN6jltQ)<!-- HN:46739439:end --><!-- HN:46675193:start -->
+* [46675193](https://news.social-protocols.org/stats?id=46675193) #15 21 points 6 comments -> [If You Think This Instrument Is Hard to Play, Try Building One](https://www.nytimes.com/2026/01/14/arts/music/oboe-laubin-jim-phelan.html)<!-- HN:46675193:end -->
