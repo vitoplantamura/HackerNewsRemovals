@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46746231](https://news.social-protocols.org/stats?id=46746231) #4 8 points 1 comments -> [Get-Shit-Done](https://github.com/glittercowboy/get-shit-done)<!-- HN:46746231:end -->
 #### **Sunday, January 25, 2026**
 <!-- HN:46668841:start -->
-* [46668841](https://news.social-protocols.org/stats?id=46668841) #29 4 points 0 comments -> [Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++](https://github.com/weareqrystal/qrystal_uplink_sdks)<!-- HN:46668841:end -->
+* [46668841](https://news.social-protocols.org/stats?id=46668841) #29 4 points 0 comments -> [Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++](https://github.com/weareqrystal/qrystal_uplink_sdks)<!-- HN:46668841:end --><!-- HN:46705134:start -->
+* [46705134](https://news.social-protocols.org/stats?id=46705134) #23 24 points 40 comments -> [Microservices for the Benefits, Not the Hustle](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)<!-- HN:46705134:end -->
