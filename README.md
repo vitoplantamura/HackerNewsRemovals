@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, January 25, 2026**
 <!-- HN:46668841:start -->
 * [46668841](https://news.social-protocols.org/stats?id=46668841) #29 4 points 0 comments -> [Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++](https://github.com/weareqrystal/qrystal_uplink_sdks)<!-- HN:46668841:end --><!-- HN:46705134:start -->
-* [46705134](https://news.social-protocols.org/stats?id=46705134) #23 24 points 40 comments -> [Microservices for the Benefits, Not the Hustle](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)<!-- HN:46705134:end -->
+* [46705134](https://news.social-protocols.org/stats?id=46705134) #23 24 points 40 comments -> [Microservices for the Benefits, Not the Hustle](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)<!-- HN:46705134:end --><!-- HN:46748077:start -->
+* [46748077](https://news.social-protocols.org/stats?id=46748077) #24 40 points 39 comments -> [I don't write code anymore – I sculpt it](https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/)<!-- HN:46748077:end -->
