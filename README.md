@@ -140,3 +140,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46745591](https://news.social-protocols.org/stats?id=46745591) #7 33 points 3 comments -> [Gmail Spam Detection Down](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en)<!-- HN:46745591:end --><!-- HN:46746521:start -->
 * [46746521](https://news.social-protocols.org/stats?id=46746521) #25 8 points 1 comments -> [ICE Executes Arrestee](https://old.reddit.com/r/pics/comments/1qlr507/ice_pinning_down_and_pistol_whipping_a/)<!-- HN:46746521:end --><!-- HN:46746231:start -->
 * [46746231](https://news.social-protocols.org/stats?id=46746231) #4 8 points 1 comments -> [Get-Shit-Done](https://github.com/glittercowboy/get-shit-done)<!-- HN:46746231:end -->
+#### **Sunday, January 25, 2026**
+<!-- HN:46668841:start -->
+* [46668841](https://news.social-protocols.org/stats?id=46668841) #29 4 points 0 comments -> [Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++](https://github.com/weareqrystal/qrystal_uplink_sdks)<!-- HN:46668841:end -->
