@@ -121,5 +121,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46756288](https://news.social-protocols.org/stats?id=46756288) #8 12 points 5 comments -> [What Is Starlink Mesh? – Starlink Help Center](https://starlink.com/ca/support/article/57f4bd5c-4125-2210-8bb2-30c90b558b7b)<!-- HN:46756288:end --><!-- HN:46757967:start -->
 * [46757967](https://news.social-protocols.org/stats?id=46757967) #20 4 points 1 comments -> ["Those rights don't count": Bovino says Pretti forfeited 2nd Amendment rights](https://www.salon.com/2026/01/25/those-rights-dont-count-bovino-says-pretti-forfeited-2nd-amendment-rights-in-fatal-shooting/)<!-- HN:46757967:end -->
 #### **Monday, January 26, 2026**
-<!-- HN:46760402:start -->
-* [46760402](https://news.social-protocols.org/stats?id=46760402) #20 25 points 9 comments -> [Open letter from more than 60 CEOs of Minnesota-based companies](https://www.mnchamber.com/blog/open-letter-more-60-ceos-minnesota-based-companies)<!-- HN:46760402:end -->
