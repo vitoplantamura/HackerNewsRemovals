@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46757967](https://news.social-protocols.org/stats?id=46757967) #20 4 points 1 comments -> ["Those rights don't count": Bovino says Pretti forfeited 2nd Amendment rights](https://www.salon.com/2026/01/25/those-rights-dont-count-bovino-says-pretti-forfeited-2nd-amendment-rights-in-fatal-shooting/)<!-- HN:46757967:end -->
 #### **Monday, January 26, 2026**<!-- HN:46760329:start -->
 * [46760329](https://news.social-protocols.org/stats?id=46760329) #8 169 points 102 comments -> [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)<!-- HN:46760329:end --><!-- HN:46761219:start -->
-* [46761219](https://news.social-protocols.org/stats?id=46761219) #7 22 points 1 comments -> [SF Microclimates](https://microclimates.solofounders.com/)<!-- HN:46761219:end -->
+* [46761219](https://news.social-protocols.org/stats?id=46761219) #7 22 points 1 comments -> [SF Microclimates](https://microclimates.solofounders.com/)<!-- HN:46761219:end --><!-- HN:46759850:start -->
+* [46759850](https://news.social-protocols.org/stats?id=46759850) #14 14 points 5 comments -> [Show HN: A desktop app that blocks work when you bite your nails](https://github.com/cacoos/trackhands)<!-- HN:46759850:end -->
