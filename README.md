@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46757126](https://news.social-protocols.org/stats?id=46757126) #3 14 points 5 comments -> [The AI Revolution in Coding: Why I'm Ignoring the Prophets of Doom](https://codingismycraft.blog/index.php/2026/01/23/the-ai-revolution-in-coding-why-im-ignoring-the-prophets-of-doom/)<!-- HN:46757126:end --><!-- HN:46756288:start -->
 * [46756288](https://news.social-protocols.org/stats?id=46756288) #8 12 points 5 comments -> [What Is Starlink Mesh? – Starlink Help Center](https://starlink.com/ca/support/article/57f4bd5c-4125-2210-8bb2-30c90b558b7b)<!-- HN:46756288:end --><!-- HN:46757967:start -->
 * [46757967](https://news.social-protocols.org/stats?id=46757967) #20 4 points 1 comments -> ["Those rights don't count": Bovino says Pretti forfeited 2nd Amendment rights](https://www.salon.com/2026/01/25/those-rights-dont-count-bovino-says-pretti-forfeited-2nd-amendment-rights-in-fatal-shooting/)<!-- HN:46757967:end -->
-#### **Monday, January 26, 2026**
+#### **Monday, January 26, 2026**<!-- HN:46760329:start -->
+* [46760329](https://news.social-protocols.org/stats?id=46760329) #8 169 points 102 comments -> [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)<!-- HN:46760329:end -->
