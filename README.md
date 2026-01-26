@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, January 26, 2026**<!-- HN:46760329:start -->
 * [46760329](https://news.social-protocols.org/stats?id=46760329) #8 169 points 102 comments -> [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)<!-- HN:46760329:end --><!-- HN:46761219:start -->
 * [46761219](https://news.social-protocols.org/stats?id=46761219) #7 22 points 1 comments -> [SF Microclimates](https://microclimates.solofounders.com/)<!-- HN:46761219:end --><!-- HN:46759850:start -->
-* [46759850](https://news.social-protocols.org/stats?id=46759850) #14 14 points 5 comments -> [Show HN: A desktop app that blocks work when you bite your nails](https://github.com/cacoos/trackhands)<!-- HN:46759850:end -->
+* [46759850](https://news.social-protocols.org/stats?id=46759850) #14 14 points 5 comments -> [Show HN: A desktop app that blocks work when you bite your nails](https://github.com/cacoos/trackhands)<!-- HN:46759850:end --><!-- HN:46761239:start -->
+* [46761239](https://news.social-protocols.org/stats?id=46761239) #13 32 points 40 comments -> [You can just port things to Cloudflare Workers](https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/)<!-- HN:46761239:end -->
