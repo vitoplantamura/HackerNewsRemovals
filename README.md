@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46772404](https://news.social-protocols.org/stats?id=46772404) #11 47 points 8 comments -> [Toy implementations of the 30 foundational papers recommended by Ilya Sutskever](https://github.com/pageman/sutskever-30-implementations)<!-- HN:46772404:end -->
 #### **Tuesday, January 27, 2026**
 <!-- HN:46773636:start -->
-* [46773636](https://news.social-protocols.org/stats?id=46773636) #10 4 points 0 comments -> [Infamous Gang of 40 Leader Banned from Wikipedia](https://www.neutralpov.com/p/infamous-gang-of-40-leader-banned)<!-- HN:46773636:end -->
+* [46773636](https://news.social-protocols.org/stats?id=46773636) #10 4 points 0 comments -> [Infamous Gang of 40 Leader Banned from Wikipedia](https://www.neutralpov.com/p/infamous-gang-of-40-leader-banned)<!-- HN:46773636:end --><!-- HN:46743865:start -->
+* [46743865](https://news.social-protocols.org/stats?id=46743865) #18 8 points 4 comments -> [Why autosave is not recovery](https://zippers.dev/blog/why-savior-exists)<!-- HN:46743865:end -->
