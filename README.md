@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46773636:start -->
 * [46773636](https://news.social-protocols.org/stats?id=46773636) #10 4 points 0 comments -> [Infamous Gang of 40 Leader Banned from Wikipedia](https://www.neutralpov.com/p/infamous-gang-of-40-leader-banned)<!-- HN:46773636:end --><!-- HN:46743865:start -->
 * [46743865](https://news.social-protocols.org/stats?id=46743865) #18 8 points 4 comments -> [Why autosave is not recovery](https://zippers.dev/blog/why-savior-exists)<!-- HN:46743865:end --><!-- HN:46775064:start -->
-* [46775064](https://news.social-protocols.org/stats?id=46775064) #2 13 points 6 comments -> [Hacker News: Savage Edition](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest-2025-01-27-2.html)<!-- HN:46775064:end -->
+* [46775064](https://news.social-protocols.org/stats?id=46775064) #2 13 points 6 comments -> [Hacker News: Savage Edition](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest-2025-01-27-2.html)<!-- HN:46775064:end --><!-- HN:46774777:start -->
+* [46774777](https://news.social-protocols.org/stats?id=46774777) #17 86 points 2 comments -> [Heathrow Drops the Liquids Rule](https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/)<!-- HN:46774777:end -->
