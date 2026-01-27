@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46764650](https://news.social-protocols.org/stats?id=46764650) #17 8 points 5 comments -> [Anthropic Just Built a Competitor to Meta's $2B Acquisition in 10 Days](https://medium.com/activated-thinker/anthropic-just-built-a-competitor-to-metas-2b-acquisition-in-10-days-using-its-own-ai-d1ebc93eba64)<!-- HN:46764650:end --><!-- HN:46769789:start -->
 * [46769789](https://news.social-protocols.org/stats?id=46769789) #27 12 points 1 comments -> [When Constitutional Guardrails Fail](https://bayesianpersuasion.com/posts/ice-constitutional-guardrails/)<!-- HN:46769789:end --><!-- HN:46772404:start -->
 * [46772404](https://news.social-protocols.org/stats?id=46772404) #11 47 points 8 comments -> [Toy implementations of the 30 foundational papers recommended by Ilya Sutskever](https://github.com/pageman/sutskever-30-implementations)<!-- HN:46772404:end -->
+#### **Tuesday, January 27, 2026**
+<!-- HN:46773636:start -->
+* [46773636](https://news.social-protocols.org/stats?id=46773636) #10 4 points 0 comments -> [Infamous Gang of 40 Leader Banned from Wikipedia](https://www.neutralpov.com/p/infamous-gang-of-40-leader-banned)<!-- HN:46773636:end -->
