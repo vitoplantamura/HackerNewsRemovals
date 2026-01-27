@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46772404](https://news.social-protocols.org/stats?id=46772404) #11 47 points 8 comments -> [Toy implementations of the 30 foundational papers recommended by Ilya Sutskever](https://github.com/pageman/sutskever-30-implementations)<!-- HN:46772404:end -->
 #### **Tuesday, January 27, 2026**
 <!-- HN:46773636:start -->
-* [46773636](https://news.social-protocols.org/stats?id=46773636) #10 4 points 0 comments -> [Infamous Gang of 40 Leader Banned from Wikipedia](https://www.neutralpov.com/p/infamous-gang-of-40-leader-banned)<!-- HN:46773636:end -->
+* [46773636](https://news.social-protocols.org/stats?id=46773636) #10 4 points 0 comments -> [Infamous Gang of 40 Leader Banned from Wikipedia](https://www.neutralpov.com/p/infamous-gang-of-40-leader-banned)<!-- HN:46773636:end --><!-- HN:46772495:start -->
+* [46772495](https://news.social-protocols.org/stats?id=46772495) #24 40 points 40 comments -> [I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip)<!-- HN:46772495:end -->
