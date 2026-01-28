@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46699505](https://news.social-protocols.org/stats?id=46699505) #16 12 points 0 comments -> [Designing Forms That Don't Get in the Way](https://www.souravinsights.com/blog/on-designing-forms)<!-- HN:46699505:end --><!-- HN:46711159:start -->
 * [46711159](https://news.social-protocols.org/stats?id=46711159) #22 83 points 13 comments -> [Flexible use of a multi-purpose tool by a cow](https://doi.org/10.1016/j.cub.2025.11.059)<!-- HN:46711159:end --><!-- HN:46713721:start -->
 * [46713721](https://news.social-protocols.org/stats?id=46713721) #29 8 points 4 comments -> [Why are we still so afraid of using the grumpy old period?](https://www.nytimes.com/2026/01/15/magazine/ending-sentences-period.html)<!-- HN:46713721:end -->
+#### **Wednesday, January 28, 2026**
+<!-- HN:46753350:start -->
+* [46753350](https://news.social-protocols.org/stats?id=46753350) #13 8 points 3 comments -> [Go 1.26 Is Around the Corner: Small Changes, Big Impact for Real-World Go System](https://medium.com/@anand.hv123/go-1-26-is-around-the-corner-small-changes-big-impact-for-real-world-go-systems-b7e5bd271f51)<!-- HN:46753350:end -->
