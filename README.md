@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, January 29, 2026**<!-- HN:46806505:start -->
 * [46806505](https://news.social-protocols.org/stats?id=46806505) #7 11 points 0 comments -> [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)<!-- HN:46806505:end --><!-- HN:46805243:start -->
 * [46805243](https://news.social-protocols.org/stats?id=46805243) #16 30 points 40 comments -> [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)<!-- HN:46805243:end --><!-- HN:46807201:start -->
-* [46807201](https://news.social-protocols.org/stats?id=46807201) #12 34 points 40 comments -> [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)<!-- HN:46807201:end -->
+* [46807201](https://news.social-protocols.org/stats?id=46807201) #12 34 points 40 comments -> [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)<!-- HN:46807201:end --><!-- HN:46810698:start -->
+* [46810698](https://news.social-protocols.org/stats?id=46810698) #28 12 points 0 comments -> [Best Gas Masks](https://www.theverge.com/policy/868571/best-gas-masks)<!-- HN:46810698:end -->
