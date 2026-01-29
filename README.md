@@ -124,5 +124,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46797895](https://news.social-protocols.org/stats?id=46797895) #12 28 points 31 comments -> [Show HN: I Built a Sandbox for Agents](https://github.com/vrn21/bouvet.com)<!-- HN:46797895:end --><!-- HN:46800730:start -->
 * [46800730](https://news.social-protocols.org/stats?id=46800730) #10 13 points 13 comments -> [New Books Aren't Worth Reading](https://www.atlaspress.co/p/new-books-arent-worth-reading)<!-- HN:46800730:end -->
 #### **Thursday, January 29, 2026**
-<!-- HN:46803198:start -->
-* [46803198](https://news.social-protocols.org/stats?id=46803198) #9 31 points 10 comments -> [State Department confirms federal censorship shield law incoming](https://prestonbyrne.com/2026/01/28/state-department-confirms-federal-granite-act-incoming/)<!-- HN:46803198:end -->
