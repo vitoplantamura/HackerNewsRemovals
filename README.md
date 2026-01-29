@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46795732](https://news.social-protocols.org/stats?id=46795732) #8 -> ['I don't let bullies win,' says congresswoman Omar after substance thrown at her](https://www.bbc.com/news/articles/cn9zpee3llxo)<!-- HN:46795732:end --><!-- HN:46797895:start -->
 * [46797895](https://news.social-protocols.org/stats?id=46797895) #12 28 points 31 comments -> [Show HN: I Built a Sandbox for Agents](https://github.com/vrn21/bouvet.com)<!-- HN:46797895:end --><!-- HN:46800730:start -->
 * [46800730](https://news.social-protocols.org/stats?id=46800730) #10 13 points 13 comments -> [New Books Aren't Worth Reading](https://www.atlaspress.co/p/new-books-arent-worth-reading)<!-- HN:46800730:end -->
-#### **Thursday, January 29, 2026**
+#### **Thursday, January 29, 2026**<!-- HN:46806505:start -->
+* [46806505](https://news.social-protocols.org/stats?id=46806505) #7 11 points 0 comments -> [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)<!-- HN:46806505:end -->
