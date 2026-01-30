@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, January 23, 2026**
-<!-- HN:46725522:start -->
-* [46725522](https://news.social-protocols.org/stats?id=46725522) #9 45 points 17 comments -> [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)<!-- HN:46725522:end --><!-- HN:46650627:start -->
-* [46650627](https://news.social-protocols.org/stats?id=46650627) #11 14 points 1 comments -> [What Is Control Flow Analysis for Lambda Calculus? – Iowa Type Theory Commute](https://rss.buzzsprout.com/728558.rss)<!-- HN:46650627:end --><!-- HN:46661167:start -->
-* [46661167](https://news.social-protocols.org/stats?id=46661167) #25 99 points 46 comments -> [My first year in sales as technical founder](https://www.fabiandietrich.com/blog/first-year-in-sales.html)<!-- HN:46661167:end --><!-- HN:46731546:start -->
-* [46731546](https://news.social-protocols.org/stats?id=46731546) #5 15 points 7 comments -> [How to Leave Germany](https://allaboutberlin.com/guides/leaving-germany)<!-- HN:46731546:end --><!-- HN:46733127:start -->
-* [46733127](https://news.social-protocols.org/stats?id=46733127) #10 51 points 13 comments -> [White House Posts Altered Photo Showing Arrested Minnesota Protester Crying](https://www.nytimes.com/2026/01/22/us/politics/nekima-armstrong-photo-white-house.html)<!-- HN:46733127:end --><!-- HN:46733025:start -->
-* [46733025](https://news.social-protocols.org/stats?id=46733025) #22 36 points 41 comments -> [Is liberal democracy in terminal decline?](https://www.ft.com/content/b4d2c7a3-587d-440f-a7a9-7e5e85b93a88)<!-- HN:46733025:end --><!-- HN:46733803:start -->
-* [46733803](https://news.social-protocols.org/stats?id=46733803) #2 49 points 13 comments -> [DOGE improperly accessed and shared Social Security data](https://blog.quintarelli.it/2026/01/how-doge-improperly-accessed-and-shared-social-security-data-npr/)<!-- HN:46733803:end --><!-- HN:46735406:start -->
-* [46735406](https://news.social-protocols.org/stats?id=46735406) #23 3 points 0 comments -> [Show HN: Claude Tutor – an open source engineering tutor](https://twitter.com/michaelraspuzzi/status/2014756546195148988)<!-- HN:46735406:end -->
 #### **Saturday, January 24, 2026**
 <!-- HN:46739278:start -->
 * [46739278](https://news.social-protocols.org/stats?id=46739278) #10 10 points 12 comments -> [OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes](https://news.aibase.com/news/24859)<!-- HN:46739278:end --><!-- HN:46739439:start -->
