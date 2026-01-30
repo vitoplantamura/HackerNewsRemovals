@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46814358](https://news.social-protocols.org/stats?id=46814358) #30 10 points 3 comments -> [I've Been a Public School Teacher for 20 Years. Trust Me: Homeschool Your Kids](https://twitter.com/creation247/status/2012598176138535041)<!-- HN:46814358:end --><!-- HN:46815408:start -->
 * [46815408](https://news.social-protocols.org/stats?id=46815408) #11 4 points 1 comments -> [1km tower in the desert is not progress it is a farewell letter to common sense](https://www.doubleglazinginbanbridge.co.uk/29-171405-1km-tower-in-the-desert/)<!-- HN:46815408:end --><!-- HN:46816000:start -->
 * [46816000](https://news.social-protocols.org/stats?id=46816000) #12 38 points 9 comments -> [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)<!-- HN:46816000:end -->
+#### **Friday, January 30, 2026**
+<!-- HN:46819466:start -->
+* [46819466](https://news.social-protocols.org/stats?id=46819466) #7 7 points 0 comments -> [National Shutdown - No Work. No School. No Shopping. Stop Funding ICE.](https://nationalshutdown.org)<!-- HN:46819466:end -->
