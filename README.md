@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46816000](https://news.social-protocols.org/stats?id=46816000) #12 38 points 9 comments -> [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)<!-- HN:46816000:end -->
 #### **Friday, January 30, 2026**
 <!-- HN:46819466:start -->
-* [46819466](https://news.social-protocols.org/stats?id=46819466) #7 7 points 0 comments -> [National Shutdown - No Work. No School. No Shopping. Stop Funding ICE.](https://nationalshutdown.org)<!-- HN:46819466:end -->
+* [46819466](https://news.social-protocols.org/stats?id=46819466) #7 7 points 0 comments -> [National Shutdown - No Work. No School. No Shopping. Stop Funding ICE.](https://nationalshutdown.org)<!-- HN:46819466:end --><!-- HN:46812173:start -->
+* [46812173](https://news.social-protocols.org/stats?id=46812173) #29 419 points 211 comments -> [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)<!-- HN:46812173:end -->
