@@ -126,4 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, January 30, 2026**
 <!-- HN:46819466:start -->
 * [46819466](https://news.social-protocols.org/stats?id=46819466) #7 7 points 0 comments -> [National Shutdown - No Work. No School. No Shopping. Stop Funding ICE.](https://nationalshutdown.org)<!-- HN:46819466:end --><!-- HN:46812173:start -->
-* [46812173](https://news.social-protocols.org/stats?id=46812173) #29 419 points 211 comments -> [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)<!-- HN:46812173:end -->
+* [46812173](https://news.social-protocols.org/stats?id=46812173) #29 419 points 211 comments -> [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)<!-- HN:46812173:end --><!-- HN:46733625:start -->
+* [46733625](https://news.social-protocols.org/stats?id=46733625) #12 8 points 1 comments -> [Interesting facts I've learned about wildfires over the years](https://madole.xyz/blog/things-i-learned-about-wildfires)<!-- HN:46733625:end --><!-- HN:46752754:start -->
+* [46752754](https://news.social-protocols.org/stats?id=46752754) #28 84 points 35 comments -> [The Value of Things](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/)<!-- HN:46752754:end -->
