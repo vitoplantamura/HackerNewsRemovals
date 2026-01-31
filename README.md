@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, January 24, 2026**
-<!-- HN:46739278:start -->
-* [46739278](https://news.social-protocols.org/stats?id=46739278) #10 10 points 12 comments -> [OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes](https://news.aibase.com/news/24859)<!-- HN:46739278:end --><!-- HN:46739439:start -->
-* [46739439](https://news.social-protocols.org/stats?id=46739439) #23 23 points 3 comments -> [Over 600 Minnesota businesses close in protest of ICE operations](https://www.perplexity.ai/discover/you/trump-immigration-enforcement-l3O3OX48SMuW4LngN6jltQ)<!-- HN:46739439:end --><!-- HN:46675193:start -->
-* [46675193](https://news.social-protocols.org/stats?id=46675193) #15 21 points 6 comments -> [If You Think This Instrument Is Hard to Play, Try Building One](https://www.nytimes.com/2026/01/14/arts/music/oboe-laubin-jim-phelan.html)<!-- HN:46675193:end --><!-- HN:46742250:start -->
-* [46742250](https://news.social-protocols.org/stats?id=46742250) #11 34 points 12 comments -> [Repatriate the gold': German economists advise withdrawal from US vaults](https://www.theguardian.com/world/2026/jan/24/repatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults)<!-- HN:46742250:end --><!-- HN:46745591:start -->
-* [46745591](https://news.social-protocols.org/stats?id=46745591) #7 33 points 3 comments -> [Gmail Spam Detection Down](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en)<!-- HN:46745591:end --><!-- HN:46746521:start -->
-* [46746521](https://news.social-protocols.org/stats?id=46746521) #25 8 points 1 comments -> [ICE Executes Arrestee](https://old.reddit.com/r/pics/comments/1qlr507/ice_pinning_down_and_pistol_whipping_a/)<!-- HN:46746521:end --><!-- HN:46746231:start -->
-* [46746231](https://news.social-protocols.org/stats?id=46746231) #4 8 points 1 comments -> [Get-Shit-Done](https://github.com/glittercowboy/get-shit-done)<!-- HN:46746231:end -->
 #### **Sunday, January 25, 2026**
 <!-- HN:46668841:start -->
 * [46668841](https://news.social-protocols.org/stats?id=46668841) #29 4 points 0 comments -> [Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++](https://github.com/weareqrystal/qrystal_uplink_sdks)<!-- HN:46668841:end --><!-- HN:46705134:start -->
