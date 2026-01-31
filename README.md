@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46833707](https://news.social-protocols.org/stats?id=46833707) #8 10 points 2 comments -> [Genesis](https://zenodo.org/records/18438130)<!-- HN:46833707:end --><!-- HN:46835414:start -->
 * [46835414](https://news.social-protocols.org/stats?id=46835414) #23 4 points 2 comments -> [Melania PG, Now Playing, 1h 44M, Documentary](https://www.rottentomatoes.com/m/melania)<!-- HN:46835414:end --><!-- HN:46837021:start -->
 * [46837021](https://news.social-protocols.org/stats?id=46837021) #4 14 points 6 comments -> [Resist and Unsubscribe from the tech companies that are enabling this](https://www.resistandunsubscribe.com)<!-- HN:46837021:end --><!-- HN:46836988:start -->
-* [46836988](https://news.social-protocols.org/stats?id=46836988) #18 36 points 19 comments -> [Ads Are Killing Podcasting](https://podcasts.rip/)<!-- HN:46836988:end -->
+* [46836988](https://news.social-protocols.org/stats?id=46836988) #18 36 points 19 comments -> [Ads Are Killing Podcasting](https://podcasts.rip/)<!-- HN:46836988:end --><!-- HN:46820360:start -->
+* [46820360](https://news.social-protocols.org/stats?id=46820360) #21 1624 points 760 comments -> [Moltbook](https://www.moltbook.com/)<!-- HN:46820360:end -->
