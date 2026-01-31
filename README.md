@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46830013](https://news.social-protocols.org/stats?id=46830013) #30 7 points 1 comments -> [I Built My Own Enterprise-Grade Clawdbot Without the Security Nightmares](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)<!-- HN:46830013:end -->
 #### **Saturday, January 31, 2026**
 <!-- HN:46831635:start -->
-* [46831635](https://news.social-protocols.org/stats?id=46831635) #7 6 points 0 comments -> [When your pastor is an ICE agent](https://www.christiancentury.org/online-columnists/minnesota-bonhoeffer)<!-- HN:46831635:end -->
+* [46831635](https://news.social-protocols.org/stats?id=46831635) #7 6 points 0 comments -> [When your pastor is an ICE agent](https://www.christiancentury.org/online-columnists/minnesota-bonhoeffer)<!-- HN:46831635:end --><!-- HN:46832063:start -->
+* [46832063](https://news.social-protocols.org/stats?id=46832063) #3 35 points 4 comments -> [The Department of Justice Ignores Court Orders Because It Knows It Can](https://www.americanmuckrakers.com/p/the-department-of-justice-ignores)<!-- HN:46832063:end -->
