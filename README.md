@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46825200](https://news.social-protocols.org/stats?id=46825200) #13 37 points 41 comments -> [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)<!-- HN:46825200:end --><!-- HN:46821360:start -->
 * [46821360](https://news.social-protocols.org/stats?id=46821360) #25 224 points 8 comments -> [Anthropic: AI Coding shows no productivity gains; impairs skill development](https://arxiv.org/abs/2601.20245)<!-- HN:46821360:end --><!-- HN:46830013:start -->
 * [46830013](https://news.social-protocols.org/stats?id=46830013) #30 7 points 1 comments -> [I Built My Own Enterprise-Grade Clawdbot Without the Security Nightmares](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)<!-- HN:46830013:end -->
+#### **Saturday, January 31, 2026**
+<!-- HN:46831635:start -->
+* [46831635](https://news.social-protocols.org/stats?id=46831635) #7 6 points 0 comments -> [When your pastor is an ICE agent](https://www.christiancentury.org/online-columnists/minnesota-bonhoeffer)<!-- HN:46831635:end -->
