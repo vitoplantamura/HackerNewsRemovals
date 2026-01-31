@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, January 31, 2026**
 <!-- HN:46831635:start -->
 * [46831635](https://news.social-protocols.org/stats?id=46831635) #7 6 points 0 comments -> [When your pastor is an ICE agent](https://www.christiancentury.org/online-columnists/minnesota-bonhoeffer)<!-- HN:46831635:end --><!-- HN:46832063:start -->
-* [46832063](https://news.social-protocols.org/stats?id=46832063) #3 35 points 4 comments -> [The Department of Justice Ignores Court Orders Because It Knows It Can](https://www.americanmuckrakers.com/p/the-department-of-justice-ignores)<!-- HN:46832063:end -->
+* [46832063](https://news.social-protocols.org/stats?id=46832063) #3 35 points 4 comments -> [The Department of Justice Ignores Court Orders Because It Knows It Can](https://www.americanmuckrakers.com/p/the-department-of-justice-ignores)<!-- HN:46832063:end --><!-- HN:46832670:start -->
+* [46832670](https://news.social-protocols.org/stats?id=46832670) #26 6 points 0 comments -> [Thousands demonstrate in Minnesota and across US to protest ICE](https://www.reuters.com/world/us/nationwide-protests-walkouts-planned-over-fatal-ice-shootings-minneapolis-2026-01-30/)<!-- HN:46832670:end -->
