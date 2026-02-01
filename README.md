@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46841325](https://news.social-protocols.org/stats?id=46841325) #29 16 points 0 comments -> [Govt's Theory for Prosecuting Don Lemon as to Disruption of Minn. Church Service](https://reason.com/volokh/2026/01/31/governments-theory-for-prosecuting-don-lemon-as-to-disruption-of-minneapolis-church-service/)<!-- HN:46841325:end -->
 #### **Sunday, February 1, 2026**
 <!-- HN:46779061:start -->
-* [46779061](https://news.social-protocols.org/stats?id=46779061) #30 54 points 1 comments -> [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)<!-- HN:46779061:end -->
+* [46779061](https://news.social-protocols.org/stats?id=46779061) #30 54 points 1 comments -> [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)<!-- HN:46779061:end --><!-- HN:46843301:start -->
+* [46843301](https://news.social-protocols.org/stats?id=46843301) #15 16 points 2 comments -> [I dropped my Google Pixel 9 XL Pro from 6th floor balcony to the street](https://ercanermis.com/i-dropped-my-google-pixel-9-xl-pro-from-6th-floor-balcony-to-the-street/)<!-- HN:46843301:end -->
