@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46796957](https://news.social-protocols.org/stats?id=46796957) #10 7 points 1 comments -> [Managing Unreliable Compilers](https://blog.tonkotsu.ai/p/managing-unreliable-compilers)<!-- HN:46796957:end --><!-- HN:46777409:start -->
 * [46777409](https://news.social-protocols.org/stats?id=46777409) #29 76 points 52 comments -> [Claude Code is your customer](https://calebjohn.xyz/blog/b2cc/)<!-- HN:46777409:end --><!-- HN:46841325:start -->
 * [46841325](https://news.social-protocols.org/stats?id=46841325) #29 16 points 0 comments -> [Govt's Theory for Prosecuting Don Lemon as to Disruption of Minn. Church Service](https://reason.com/volokh/2026/01/31/governments-theory-for-prosecuting-don-lemon-as-to-disruption-of-minneapolis-church-service/)<!-- HN:46841325:end -->
+#### **Sunday, February 1, 2026**
+<!-- HN:46779061:start -->
+* [46779061](https://news.social-protocols.org/stats?id=46779061) #30 54 points 1 comments -> [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)<!-- HN:46779061:end -->
