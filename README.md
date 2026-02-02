@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46849715](https://news.social-protocols.org/stats?id=46849715) #3 62 points 51 comments -> [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)<!-- HN:46849715:end -->
 #### **Monday, February 2, 2026**
 <!-- HN:46811655:start -->
-* [46811655](https://news.social-protocols.org/stats?id=46811655) #20 10 points 4 comments -> [From its name, to its hazy origins, to its drug interactions, there's a lot goin](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)<!-- HN:46811655:end -->
+* [46811655](https://news.social-protocols.org/stats?id=46811655) #20 10 points 4 comments -> [From its name, to its hazy origins, to its drug interactions, there's a lot goin](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)<!-- HN:46811655:end --><!-- HN:46849375:start -->
+* [46849375](https://news.social-protocols.org/stats?id=46849375) #23 12 points 0 comments -> [A Collection of Awesome Nostr Projects](https://github.com/aljazceru/awesome-nostr)<!-- HN:46849375:end -->
