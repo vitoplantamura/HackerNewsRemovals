@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, January 26, 2026**<!-- HN:46761219:start -->
-* [46761219](https://news.social-protocols.org/stats?id=46761219) #7 22 points 1 comments -> [SF Microclimates](https://microclimates.solofounders.com/)<!-- HN:46761219:end --><!-- HN:46759850:start -->
-* [46759850](https://news.social-protocols.org/stats?id=46759850) #14 14 points 5 comments -> [Show HN: A desktop app that blocks work when you bite your nails](https://github.com/cacoos/trackhands)<!-- HN:46759850:end --><!-- HN:46764284:start -->
-* [46764284](https://news.social-protocols.org/stats?id=46764284) #2 28 points 40 comments -> [Show HN: Posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)<!-- HN:46764284:end --><!-- HN:46764811:start -->
-* [46764811](https://news.social-protocols.org/stats?id=46764811) #2 7 points 2 comments -> [The New Dark Ages](https://yabirgb.com/posts/dark-age/)<!-- HN:46764811:end --><!-- HN:46764789:start -->
-* [46764789](https://news.social-protocols.org/stats?id=46764789) #11 -> [EU investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/clye99wg0y8o)<!-- HN:46764789:end --><!-- HN:46764650:start -->
-* [46764650](https://news.social-protocols.org/stats?id=46764650) #17 8 points 5 comments -> [Anthropic Just Built a Competitor to Meta's $2B Acquisition in 10 Days](https://medium.com/activated-thinker/anthropic-just-built-a-competitor-to-metas-2b-acquisition-in-10-days-using-its-own-ai-d1ebc93eba64)<!-- HN:46764650:end --><!-- HN:46769789:start -->
-* [46769789](https://news.social-protocols.org/stats?id=46769789) #27 12 points 1 comments -> [When Constitutional Guardrails Fail](https://bayesianpersuasion.com/posts/ice-constitutional-guardrails/)<!-- HN:46769789:end --><!-- HN:46772404:start -->
-* [46772404](https://news.social-protocols.org/stats?id=46772404) #11 47 points 8 comments -> [Toy implementations of the 30 foundational papers recommended by Ilya Sutskever](https://github.com/pageman/sutskever-30-implementations)<!-- HN:46772404:end -->
 #### **Tuesday, January 27, 2026**
 <!-- HN:46773636:start -->
 * [46773636](https://news.social-protocols.org/stats?id=46773636) #10 4 points 0 comments -> [Infamous Gang of 40 Leader Banned from Wikipedia](https://www.neutralpov.com/p/infamous-gang-of-40-leader-banned)<!-- HN:46773636:end --><!-- HN:46743865:start -->
