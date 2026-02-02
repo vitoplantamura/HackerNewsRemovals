@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46818807](https://news.social-protocols.org/stats?id=46818807) #14 5 points 0 comments -> [Common Lisp Extension for Zed](https://github.com/etyurkin/zed-cl)<!-- HN:46818807:end --><!-- HN:46848731:start -->
 * [46848731](https://news.social-protocols.org/stats?id=46848731) #27 2 points 0 comments -> [Clothes Are Plastic. Your Skin Pays the Price](https://substack.com/home/post/p-186265233)<!-- HN:46848731:end --><!-- HN:46849715:start -->
 * [46849715](https://news.social-protocols.org/stats?id=46849715) #3 62 points 51 comments -> [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)<!-- HN:46849715:end -->
+#### **Monday, February 2, 2026**
+<!-- HN:46811655:start -->
+* [46811655](https://news.social-protocols.org/stats?id=46811655) #20 10 points 4 comments -> [From its name, to its hazy origins, to its drug interactions, there's a lot goin](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)<!-- HN:46811655:end -->
