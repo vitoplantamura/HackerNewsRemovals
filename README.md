@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 3, 2026**
 <!-- HN:46864214:start -->
 * [46864214](https://news.social-protocols.org/stats?id=46864214) #29 8 points 0 comments -> [Partner at Day One Ventures ranks intelligence by how Jewish someone is](https://twitter.com/amasad/status/2018175092648472913)<!-- HN:46864214:end --><!-- HN:46866421:start -->
-* [46866421](https://news.social-protocols.org/stats?id=46866421) #21 5 points 2 comments -> [Use Less Shit](https://uselessshit.org/)<!-- HN:46866421:end -->
+* [46866421](https://news.social-protocols.org/stats?id=46866421) #21 5 points 2 comments -> [Use Less Shit](https://uselessshit.org/)<!-- HN:46866421:end --><!-- HN:46868518:start -->
+* [46868518](https://news.social-protocols.org/stats?id=46868518) #17 10 points 13 comments -> [Boring Go – A practical guide to writing boring, maintainable Go](https://golang.college/books/boring-go)<!-- HN:46868518:end -->
