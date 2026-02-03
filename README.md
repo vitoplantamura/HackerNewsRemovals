@@ -130,6 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46860984](https://news.social-protocols.org/stats?id=46860984) #23 19 points 13 comments -> [LinkedIn Is Down](https://ctrlv.link/8aQX)<!-- HN:46860984:end -->
 #### **Tuesday, February 3, 2026**
 <!-- HN:46864214:start -->
-* [46864214](https://news.social-protocols.org/stats?id=46864214) #29 8 points 0 comments -> [Partner at Day One Ventures ranks intelligence by how Jewish someone is](https://twitter.com/amasad/status/2018175092648472913)<!-- HN:46864214:end --><!-- HN:46858802:start -->
-* [46858802](https://news.social-protocols.org/stats?id=46858802) #27 60 points 40 comments -> [Being sane in insane places (1973) [pdf]](https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF)<!-- HN:46858802:end --><!-- HN:46860566:start -->
+* [46864214](https://news.social-protocols.org/stats?id=46864214) #29 8 points 0 comments -> [Partner at Day One Ventures ranks intelligence by how Jewish someone is](https://twitter.com/amasad/status/2018175092648472913)<!-- HN:46864214:end --><!-- HN:46860566:start -->
 * [46860566](https://news.social-protocols.org/stats?id=46860566) #24 28 points 40 comments -> [Stelvio: Ship Python to AWS](https://github.com/stelviodev/stelvio)<!-- HN:46860566:end -->
