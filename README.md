@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 3, 2026**
 <!-- HN:46864214:start -->
 * [46864214](https://news.social-protocols.org/stats?id=46864214) #29 8 points 0 comments -> [Partner at Day One Ventures ranks intelligence by how Jewish someone is](https://twitter.com/amasad/status/2018175092648472913)<!-- HN:46864214:end --><!-- HN:46829029:start -->
-* [46829029](https://news.social-protocols.org/stats?id=46829029) #8 28 points 40 comments -> [See how many words you have written in Hacker News comments](https://serjaimelannister.github.io/hn-words/)<!-- HN:46829029:end -->
+* [46829029](https://news.social-protocols.org/stats?id=46829029) #8 28 points 40 comments -> [See how many words you have written in Hacker News comments](https://serjaimelannister.github.io/hn-words/)<!-- HN:46829029:end --><!-- HN:46866421:start -->
+* [46866421](https://news.social-protocols.org/stats?id=46866421) #21 5 points 2 comments -> [Use Less Shit](https://uselessshit.org/)<!-- HN:46866421:end -->
