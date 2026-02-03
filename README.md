@@ -146,3 +146,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46857124](https://news.social-protocols.org/stats?id=46857124) #24 44 points 59 comments -> [We asked 15,000 European devs about jobs, salaries, and AI [pdf]](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)<!-- HN:46857124:end --><!-- HN:46860753:start -->
 * [46860753](https://news.social-protocols.org/stats?id=46860753) #25 9 points 3 comments -> [Don't discount American democracy's resilience](https://www.natesilver.net/p/dont-discount-american-democracys)<!-- HN:46860753:end --><!-- HN:46860984:start -->
 * [46860984](https://news.social-protocols.org/stats?id=46860984) #23 19 points 13 comments -> [LinkedIn Is Down](https://ctrlv.link/8aQX)<!-- HN:46860984:end -->
+#### **Tuesday, February 3, 2026**
+<!-- HN:46864214:start -->
+* [46864214](https://news.social-protocols.org/stats?id=46864214) #29 8 points 0 comments -> [Partner at Day One Ventures ranks intelligence by how Jewish someone is](https://twitter.com/amasad/status/2018175092648472913)<!-- HN:46864214:end -->
