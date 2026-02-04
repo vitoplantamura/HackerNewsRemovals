@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46837150](https://news.social-protocols.org/stats?id=46837150) #15 11 points 0 comments -> [I became a maintainer and all I got was a lousy perspective on librarianship](https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/)<!-- HN:46837150:end --><!-- HN:46876347:start -->
 * [46876347](https://news.social-protocols.org/stats?id=46876347) #21 33 points 16 comments -> [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)<!-- HN:46876347:end --><!-- HN:46872894:start -->
 * [46872894](https://news.social-protocols.org/stats?id=46872894) #25 269 points 14 comments -> [X offices raided French prosecutors investigate child abuse images and deepfakes](https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc)<!-- HN:46872894:end -->
+#### **Wednesday, February 4, 2026**
+<!-- HN:46878979:start -->
+* [46878979](https://news.social-protocols.org/stats?id=46878979) #13 7 points 2 comments -> [TikTok System Design:(Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/tiktok-system-design/)<!-- HN:46878979:end -->
