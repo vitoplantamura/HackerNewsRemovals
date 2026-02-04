@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46872894](https://news.social-protocols.org/stats?id=46872894) #25 269 points 14 comments -> [X offices raided French prosecutors investigate child abuse images and deepfakes](https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc)<!-- HN:46872894:end -->
 #### **Wednesday, February 4, 2026**
 <!-- HN:46878979:start -->
-* [46878979](https://news.social-protocols.org/stats?id=46878979) #13 7 points 2 comments -> [TikTok System Design:(Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/tiktok-system-design/)<!-- HN:46878979:end -->
+* [46878979](https://news.social-protocols.org/stats?id=46878979) #13 7 points 2 comments -> [TikTok System Design:(Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/tiktok-system-design/)<!-- HN:46878979:end --><!-- HN:46879078:start -->
+* [46879078](https://news.social-protocols.org/stats?id=46879078) #22 28 points 5 comments -> [Valve wants to hold [patent troll] Leigh Rothschild personally liable](https://www.reporterbyte.com/news/10087/piercing-the-veil-why-valve-wants-to-hold-leigh-rothschild-personally-liable/)<!-- HN:46879078:end -->
