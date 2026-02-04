@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, February 4, 2026**
 <!-- HN:46878979:start -->
 * [46878979](https://news.social-protocols.org/stats?id=46878979) #13 7 points 2 comments -> [TikTok System Design:(Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/tiktok-system-design/)<!-- HN:46878979:end --><!-- HN:46879078:start -->
-* [46879078](https://news.social-protocols.org/stats?id=46879078) #22 28 points 5 comments -> [Valve wants to hold [patent troll] Leigh Rothschild personally liable](https://www.reporterbyte.com/news/10087/piercing-the-veil-why-valve-wants-to-hold-leigh-rothschild-personally-liable/)<!-- HN:46879078:end -->
+* [46879078](https://news.social-protocols.org/stats?id=46879078) #22 28 points 5 comments -> [Valve wants to hold [patent troll] Leigh Rothschild personally liable](https://www.reporterbyte.com/news/10087/piercing-the-veil-why-valve-wants-to-hold-leigh-rothschild-personally-liable/)<!-- HN:46879078:end --><!-- HN:46880807:start -->
+* [46880807](https://news.social-protocols.org/stats?id=46880807) #4 7 points 0 comments -> [A programmer's guide to leaving GitHub](https://lord.io/leaving-github/)<!-- HN:46880807:end -->
