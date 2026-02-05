@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46891584](https://news.social-protocols.org/stats?id=46891584) #9 10 points 7 comments -> [Disk Scout – Find the Cheapest SSDs Across Amazon](https://disk-scout.com/)<!-- HN:46891584:end --><!-- HN:46826803:start -->
 * [46826803](https://news.social-protocols.org/stats?id=46826803) #8 127 points 69 comments -> [Yawning has an unexpected influence on the fluid inside your brain](https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/)<!-- HN:46826803:end --><!-- HN:46811812:start -->
 * [46811812](https://news.social-protocols.org/stats?id=46811812) #12 49 points 6 comments -> [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)<!-- HN:46811812:end -->
+#### **Thursday, February 5, 2026**
+<!-- HN:46893748:start -->
+* [46893748](https://news.social-protocols.org/stats?id=46893748) #24 9 points 1 comments -> [Mouthbreathing Machiavellis Dream of a Silicon Reich (2014)](https://thebaffler.com/latest/mouthbreathing-machiavellis)<!-- HN:46893748:end -->
