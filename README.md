@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, January 29, 2026**<!-- HN:46806505:start -->
-* [46806505](https://news.social-protocols.org/stats?id=46806505) #7 11 points 0 comments -> [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)<!-- HN:46806505:end --><!-- HN:46805243:start -->
-* [46805243](https://news.social-protocols.org/stats?id=46805243) #16 30 points 40 comments -> [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)<!-- HN:46805243:end --><!-- HN:46807201:start -->
-* [46807201](https://news.social-protocols.org/stats?id=46807201) #12 34 points 40 comments -> [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)<!-- HN:46807201:end --><!-- HN:46810698:start -->
-* [46810698](https://news.social-protocols.org/stats?id=46810698) #28 12 points 0 comments -> [Best Gas Masks](https://www.theverge.com/policy/868571/best-gas-masks)<!-- HN:46810698:end --><!-- HN:46810465:start -->
-* [46810465](https://news.social-protocols.org/stats?id=46810465) #5 13 points 7 comments -> [The Anti-Hat Riots of 1973](https://www.marginalia.nu/weird-ai-crap/hats/)<!-- HN:46810465:end --><!-- HN:46810644:start -->
-* [46810644](https://news.social-protocols.org/stats?id=46810644) #20 -> [ICE violated at least 96 court orders in January](https://www.fox9.com/news/ice-violated-least-96-court-orders-january)<!-- HN:46810644:end --><!-- HN:46814358:start -->
-* [46814358](https://news.social-protocols.org/stats?id=46814358) #30 10 points 3 comments -> [I've Been a Public School Teacher for 20 Years. Trust Me: Homeschool Your Kids](https://twitter.com/creation247/status/2012598176138535041)<!-- HN:46814358:end --><!-- HN:46815408:start -->
-* [46815408](https://news.social-protocols.org/stats?id=46815408) #11 4 points 1 comments -> [1km tower in the desert is not progress it is a farewell letter to common sense](https://www.doubleglazinginbanbridge.co.uk/29-171405-1km-tower-in-the-desert/)<!-- HN:46815408:end --><!-- HN:46816000:start -->
-* [46816000](https://news.social-protocols.org/stats?id=46816000) #12 38 points 9 comments -> [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)<!-- HN:46816000:end -->
 #### **Friday, January 30, 2026**
 <!-- HN:46819466:start -->
 * [46819466](https://news.social-protocols.org/stats?id=46819466) #7 7 points 0 comments -> [National Shutdown - No Work. No School. No Shopping. Stop Funding ICE.](https://nationalshutdown.org)<!-- HN:46819466:end --><!-- HN:46812173:start -->
