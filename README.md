@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46811812](https://news.social-protocols.org/stats?id=46811812) #12 49 points 6 comments -> [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)<!-- HN:46811812:end -->
 #### **Thursday, February 5, 2026**<!-- HN:46894971:start -->
 * [46894971](https://news.social-protocols.org/stats?id=46894971) #23 7 points 0 comments -> [Toxic Truth: How Wikipedia Poisons Global Knowledge](https://ellakenan100.substack.com/p/toxic-truth-how-wikipedia-poisons)<!-- HN:46894971:end --><!-- HN:46893394:start -->
-* [46893394](https://news.social-protocols.org/stats?id=46893394) #13 20 points 9 comments -> [We Used To Build Things. What Happened?](https://garryslist.org/posts/we-used-to-build-things-what-happened)<!-- HN:46893394:end -->
+* [46893394](https://news.social-protocols.org/stats?id=46893394) #13 20 points 9 comments -> [We Used To Build Things. What Happened?](https://garryslist.org/posts/we-used-to-build-things-what-happened)<!-- HN:46893394:end --><!-- HN:46895170:start -->
+* [46895170](https://news.social-protocols.org/stats?id=46895170) #2 24 points 2 comments -> [Resist and Unsubscribe](https://www.resistandunsubscribe.com)<!-- HN:46895170:end -->
