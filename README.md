@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, January 30, 2026**
-<!-- HN:46819466:start -->
-* [46819466](https://news.social-protocols.org/stats?id=46819466) #7 7 points 0 comments -> [National Shutdown - No Work. No School. No Shopping. Stop Funding ICE.](https://nationalshutdown.org)<!-- HN:46819466:end --><!-- HN:46812173:start -->
-* [46812173](https://news.social-protocols.org/stats?id=46812173) #29 419 points 211 comments -> [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)<!-- HN:46812173:end --><!-- HN:46733625:start -->
-* [46733625](https://news.social-protocols.org/stats?id=46733625) #12 8 points 1 comments -> [Interesting facts I've learned about wildfires over the years](https://madole.xyz/blog/things-i-learned-about-wildfires)<!-- HN:46733625:end --><!-- HN:46752754:start -->
-* [46752754](https://news.social-protocols.org/stats?id=46752754) #28 84 points 35 comments -> [The Value of Things](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/)<!-- HN:46752754:end --><!-- HN:46822856:start -->
-* [46822856](https://news.social-protocols.org/stats?id=46822856) #27 7 points 1 comments -> [Potentially Critical RCE Vulnerability in OpenSSL](https://research.jfrog.com/post/potential-rce-vulnerabilityin-openssl-cve-2025-15467/)<!-- HN:46822856:end --><!-- HN:46826703:start -->
-* [46826703](https://news.social-protocols.org/stats?id=46826703) #6 12 points 4 comments -> [In solidarity with victims of ICE violence](https://blog.ericyd.com/in-solidarity/)<!-- HN:46826703:end --><!-- HN:46825200:start -->
-* [46825200](https://news.social-protocols.org/stats?id=46825200) #13 37 points 41 comments -> [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)<!-- HN:46825200:end --><!-- HN:46821360:start -->
-* [46821360](https://news.social-protocols.org/stats?id=46821360) #25 224 points 8 comments -> [Anthropic: AI Coding shows no productivity gains; impairs skill development](https://arxiv.org/abs/2601.20245)<!-- HN:46821360:end --><!-- HN:46830013:start -->
-* [46830013](https://news.social-protocols.org/stats?id=46830013) #30 7 points 1 comments -> [I Built My Own Enterprise-Grade Clawdbot Without the Security Nightmares](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)<!-- HN:46830013:end -->
 #### **Saturday, January 31, 2026**
 <!-- HN:46831635:start -->
 * [46831635](https://news.social-protocols.org/stats?id=46831635) #7 6 points 0 comments -> [When your pastor is an ICE agent](https://www.christiancentury.org/online-columnists/minnesota-bonhoeffer)<!-- HN:46831635:end --><!-- HN:46832063:start -->
