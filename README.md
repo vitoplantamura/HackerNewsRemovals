@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46900161](https://news.social-protocols.org/stats?id=46900161) #3 36 points 44 comments -> [Fined $48k for using a jammer to keep commuters from using phones while driving](https://transition.fcc.gov/eb/Orders/2014/FCC-14-55A1.html)<!-- HN:46900161:end --><!-- HN:46902965:start -->
 * [46902965](https://news.social-protocols.org/stats?id=46902965) #5 11 points 0 comments -> [Times New Resistance](https://www.abbyhaddican.com/times-new-resistance)<!-- HN:46902965:end --><!-- HN:46901974:start -->
 * [46901974](https://news.social-protocols.org/stats?id=46901974) #30 32 points 40 comments -> [Everyone Is Stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes)<!-- HN:46901974:end -->
-#### **Friday, February 6, 2026**
+#### **Friday, February 6, 2026**<!-- HN:46908531:start -->
+* [46908531](https://news.social-protocols.org/stats?id=46908531) #30 8 points 6 comments -> [The $921M Special Interest Machine That Controls California](https://garryslist.org/posts/the-921m-special-interest-machine-that-controls-california)<!-- HN:46908531:end -->
