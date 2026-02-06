@@ -133,5 +133,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46902965](https://news.social-protocols.org/stats?id=46902965) #5 11 points 0 comments -> [Times New Resistance](https://www.abbyhaddican.com/times-new-resistance)<!-- HN:46902965:end --><!-- HN:46901974:start -->
 * [46901974](https://news.social-protocols.org/stats?id=46901974) #30 32 points 40 comments -> [Everyone Is Stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes)<!-- HN:46901974:end -->
 #### **Friday, February 6, 2026**
-<!-- HN:46907350:start -->
-* [46907350](https://news.social-protocols.org/stats?id=46907350) #14 31 points 40 comments -> [C Isn't a Language](https://faultlore.com/blah/c-isnt-a-language/)<!-- HN:46907350:end -->
