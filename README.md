@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46925131](https://news.social-protocols.org/stats?id=46925131) #9 5 points 2 comments -> [Show HN: I'm 15 and built a free tool for reading ancient texts.](https://the-lexicon-project.netlify.app/)<!-- HN:46925131:end --><!-- HN:46924891:start -->
 * [46924891](https://news.social-protocols.org/stats?id=46924891) #15 17 points 7 comments -> [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism)<!-- HN:46924891:end --><!-- HN:46927661:start -->
 * [46927661](https://news.social-protocols.org/stats?id=46927661) #4 9 points 2 comments -> [We have broken SHA-1 in practice](https://shattered.io/)<!-- HN:46927661:end --><!-- HN:46928894:start -->
-* [46928894](https://news.social-protocols.org/stats?id=46928894) #5 21 points 3 comments -> [GitBlack: Tracing America's Foundation](https://gitblack.vercel.app/)<!-- HN:46928894:end -->
+* [46928894](https://news.social-protocols.org/stats?id=46928894) #5 21 points 3 comments -> [GitBlack: Tracing America's Foundation](https://gitblack.vercel.app/)<!-- HN:46928894:end --><!-- HN:46868928:start -->
+* [46868928](https://news.social-protocols.org/stats?id=46868928) #15 28 points 41 comments -> [LLMs as the new high level language](https://federicopereiro.com/llm-high/)<!-- HN:46868928:end -->
