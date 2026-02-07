@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46841897](https://news.social-protocols.org/stats?id=46841897) #28 139 points 24 comments -> [150 MB Minimal FreeBSD Installation](https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/)<!-- HN:46841897:end --><!-- HN:46913201:start -->
 * [46913201](https://news.social-protocols.org/stats?id=46913201) #4 46 points 40 comments -> [Wall Street just lost $285B because of 13 Markdown files](https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/)<!-- HN:46913201:end --><!-- HN:46915035:start -->
 * [46915035](https://news.social-protocols.org/stats?id=46915035) #27 10 points 6 comments -> [White House launches direct-to-consumer drug site TrumpRx](https://www.cnbc.com/2026/02/05/trump-rx-white-house-launches-direct-to-consumer-drug-site.html)<!-- HN:46915035:end -->
+#### **Saturday, February 7, 2026**
+<!-- HN:46920157:start -->
+* [46920157](https://news.social-protocols.org/stats?id=46920157) #13 9 points 0 comments -> [Installing Ollama and Gemma 3B on Linux](https://byandrev.dev/en/blog/ollama-in-linux)<!-- HN:46920157:end -->
