@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46915035](https://news.social-protocols.org/stats?id=46915035) #27 10 points 6 comments -> [White House launches direct-to-consumer drug site TrumpRx](https://www.cnbc.com/2026/02/05/trump-rx-white-house-launches-direct-to-consumer-drug-site.html)<!-- HN:46915035:end -->
 #### **Saturday, February 7, 2026**
 <!-- HN:46920157:start -->
-* [46920157](https://news.social-protocols.org/stats?id=46920157) #13 9 points 0 comments -> [Installing Ollama and Gemma 3B on Linux](https://byandrev.dev/en/blog/ollama-in-linux)<!-- HN:46920157:end -->
+* [46920157](https://news.social-protocols.org/stats?id=46920157) #13 9 points 0 comments -> [Installing Ollama and Gemma 3B on Linux](https://byandrev.dev/en/blog/ollama-in-linux)<!-- HN:46920157:end --><!-- HN:46920487:start -->
+* [46920487](https://news.social-protocols.org/stats?id=46920487) #5 14 points 8 comments -> [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)<!-- HN:46920487:end -->
