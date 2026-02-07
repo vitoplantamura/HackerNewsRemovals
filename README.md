@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46920157:start -->
 * [46920157](https://news.social-protocols.org/stats?id=46920157) #13 9 points 0 comments -> [Installing Ollama and Gemma 3B on Linux](https://byandrev.dev/en/blog/ollama-in-linux)<!-- HN:46920157:end --><!-- HN:46920922:start -->
 * [46920922](https://news.social-protocols.org/stats?id=46920922) #27 30 points 14 comments -> [Hello world does not compile](https://github.com/anthropics/claudes-c-compiler/issues/1)<!-- HN:46920922:end --><!-- HN:46920954:start -->
-* [46920954](https://news.social-protocols.org/stats?id=46920954) #17 9 points 4 comments -> [Make Trust Irrelevant: A Gamer's Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant)<!-- HN:46920954:end -->
+* [46920954](https://news.social-protocols.org/stats?id=46920954) #17 9 points 4 comments -> [Make Trust Irrelevant: A Gamer's Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant)<!-- HN:46920954:end --><!-- HN:46866937:start -->
+* [46866937](https://news.social-protocols.org/stats?id=46866937) #4 112 points 17 comments -> [A century of hair samples proves leaded gas ban worked](https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/)<!-- HN:46866937:end -->
