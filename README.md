@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46927661](https://news.social-protocols.org/stats?id=46927661) #4 9 points 2 comments -> [We have broken SHA-1 in practice](https://shattered.io/)<!-- HN:46927661:end --><!-- HN:46928894:start -->
 * [46928894](https://news.social-protocols.org/stats?id=46928894) #5 21 points 3 comments -> [GitBlack: Tracing America's Foundation](https://gitblack.vercel.app/)<!-- HN:46928894:end --><!-- HN:46868928:start -->
 * [46868928](https://news.social-protocols.org/stats?id=46868928) #15 28 points 41 comments -> [LLMs as the new high level language](https://federicopereiro.com/llm-high/)<!-- HN:46868928:end -->
+#### **Sunday, February 8, 2026**
+<!-- HN:46868879:start -->
+* [46868879](https://news.social-protocols.org/stats?id=46868879) #22 8 points 3 comments -> [Show HN: Browser based state machine simulator and visualizer](https://svylabs.github.io/smac-viz/)<!-- HN:46868879:end -->
