@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 8, 2026**
 <!-- HN:46868879:start -->
 * [46868879](https://news.social-protocols.org/stats?id=46868879) #22 8 points 3 comments -> [Show HN: Browser based state machine simulator and visualizer](https://svylabs.github.io/smac-viz/)<!-- HN:46868879:end --><!-- HN:46930665:start -->
-* [46930665](https://news.social-protocols.org/stats?id=46930665) #4 6 points 11 comments -> [Do you have a mathematically attractive face?](https://www.doimog.com)<!-- HN:46930665:end -->
+* [46930665](https://news.social-protocols.org/stats?id=46930665) #4 6 points 11 comments -> [Do you have a mathematically attractive face?](https://www.doimog.com)<!-- HN:46930665:end --><!-- HN:46928894:start -->
+* [46928894](https://news.social-protocols.org/stats?id=46928894) #17 -> [GitBlack: Tracing America's Foundation](https://gitblack.vercel.app/)<!-- HN:46928894:end -->
