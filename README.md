@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46927661](https://news.social-protocols.org/stats?id=46927661) #4 9 points 2 comments -> [We have broken SHA-1 in practice](https://shattered.io/)<!-- HN:46927661:end -->
 #### **Sunday, February 8, 2026**
 <!-- HN:46868879:start -->
-* [46868879](https://news.social-protocols.org/stats?id=46868879) #22 8 points 3 comments -> [Show HN: Browser based state machine simulator and visualizer](https://svylabs.github.io/smac-viz/)<!-- HN:46868879:end -->
+* [46868879](https://news.social-protocols.org/stats?id=46868879) #22 8 points 3 comments -> [Show HN: Browser based state machine simulator and visualizer](https://svylabs.github.io/smac-viz/)<!-- HN:46868879:end --><!-- HN:46930665:start -->
+* [46930665](https://news.social-protocols.org/stats?id=46930665) #4 6 points 11 comments -> [Do you have a mathematically attractive face?](https://www.doimog.com)<!-- HN:46930665:end -->
