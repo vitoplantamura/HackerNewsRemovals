@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, February 1, 2026**
-<!-- HN:46779061:start -->
-* [46779061](https://news.social-protocols.org/stats?id=46779061) #30 54 points 1 comments -> [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)<!-- HN:46779061:end --><!-- HN:46843301:start -->
-* [46843301](https://news.social-protocols.org/stats?id=46843301) #15 16 points 2 comments -> [I dropped my Google Pixel 9 XL Pro from 6th floor balcony to the street](https://ercanermis.com/i-dropped-my-google-pixel-9-xl-pro-from-6th-floor-balcony-to-the-street/)<!-- HN:46843301:end --><!-- HN:46844969:start -->
-* [46844969](https://news.social-protocols.org/stats?id=46844969) #13 31 points 0 comments -> ['Unsubscribe' and 'opt out': A new Big Tech boycott to protest ICE](https://www.businessinsider.com/tech-ai-boycott-february-protest-ice-scott-galloway-2026-2)<!-- HN:46844969:end --><!-- HN:46846609:start -->
-* [46846609](https://news.social-protocols.org/stats?id=46846609) #4 13 points 0 comments -> [Israel to ban Médecins Sans Frontières (MSF)  from working in Gaza](https://www.bbc.com/news/articles/cvg1ymmkpkro)<!-- HN:46846609:end --><!-- HN:46845470:start -->
-* [46845470](https://news.social-protocols.org/stats?id=46845470) #28 119 points 60 comments -> [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)<!-- HN:46845470:end --><!-- HN:46818807:start -->
-* [46818807](https://news.social-protocols.org/stats?id=46818807) #14 5 points 0 comments -> [Common Lisp Extension for Zed](https://github.com/etyurkin/zed-cl)<!-- HN:46818807:end --><!-- HN:46848731:start -->
-* [46848731](https://news.social-protocols.org/stats?id=46848731) #27 2 points 0 comments -> [Clothes Are Plastic. Your Skin Pays the Price](https://substack.com/home/post/p-186265233)<!-- HN:46848731:end --><!-- HN:46849715:start -->
-* [46849715](https://news.social-protocols.org/stats?id=46849715) #3 62 points 51 comments -> [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)<!-- HN:46849715:end -->
 #### **Monday, February 2, 2026**
 <!-- HN:46811655:start -->
 * [46811655](https://news.social-protocols.org/stats?id=46811655) #20 10 points 4 comments -> [From its name, to its hazy origins, to its drug interactions, there's a lot goin](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)<!-- HN:46811655:end --><!-- HN:46849375:start -->
@@ -137,5 +127,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46924891](https://news.social-protocols.org/stats?id=46924891) #15 17 points 7 comments -> [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism)<!-- HN:46924891:end --><!-- HN:46927661:start -->
 * [46927661](https://news.social-protocols.org/stats?id=46927661) #4 9 points 2 comments -> [We have broken SHA-1 in practice](https://shattered.io/)<!-- HN:46927661:end --><!-- HN:46928894:start -->
 * [46928894](https://news.social-protocols.org/stats?id=46928894) #5 21 points 3 comments -> [GitBlack: Tracing America's Foundation](https://gitblack.vercel.app/)<!-- HN:46928894:end --><!-- HN:46868928:start -->
-* [46868928](https://news.social-protocols.org/stats?id=46868928) #15 28 points 41 comments -> [LLMs as the new high level language](https://federicopereiro.com/llm-high/)<!-- HN:46868928:end --><!-- HN:46929404:start -->
-* [46929404](https://news.social-protocols.org/stats?id=46929404) #17 13 points 2 comments -> [Washington Post CEO Will Lewis Steps Down After Stormy Tenure](https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html)<!-- HN:46929404:end -->
+* [46868928](https://news.social-protocols.org/stats?id=46868928) #15 28 points 41 comments -> [LLMs as the new high level language](https://federicopereiro.com/llm-high/)<!-- HN:46868928:end -->

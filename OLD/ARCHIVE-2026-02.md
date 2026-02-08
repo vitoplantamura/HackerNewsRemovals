@@ -1,0 +1,10 @@
+#### **Sunday, February 1, 2026**
+<!-- HN:46779061:start -->
+* [46779061](https://news.ycombinator.com/item?id=46779061) #30 54 points 1 comments -> [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)<!-- HN:46779061:end --><!-- HN:46843301:start -->
+* [46843301](https://news.ycombinator.com/item?id=46843301) #15 16 points 2 comments -> [I dropped my Google Pixel 9 XL Pro from 6th floor balcony to the street](https://ercanermis.com/i-dropped-my-google-pixel-9-xl-pro-from-6th-floor-balcony-to-the-street/)<!-- HN:46843301:end --><!-- HN:46844969:start -->
+* [46844969](https://news.ycombinator.com/item?id=46844969) #13 31 points 0 comments -> ['Unsubscribe' and 'opt out': A new Big Tech boycott to protest ICE](https://www.businessinsider.com/tech-ai-boycott-february-protest-ice-scott-galloway-2026-2)<!-- HN:46844969:end --><!-- HN:46846609:start -->
+* [46846609](https://news.ycombinator.com/item?id=46846609) #4 13 points 0 comments -> [Israel to ban Médecins Sans Frontières (MSF)  from working in Gaza](https://www.bbc.com/news/articles/cvg1ymmkpkro)<!-- HN:46846609:end --><!-- HN:46845470:start -->
+* [46845470](https://news.ycombinator.com/item?id=46845470) #28 119 points 60 comments -> [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)<!-- HN:46845470:end --><!-- HN:46818807:start -->
+* [46818807](https://news.ycombinator.com/item?id=46818807) #14 5 points 0 comments -> [Common Lisp Extension for Zed](https://github.com/etyurkin/zed-cl)<!-- HN:46818807:end --><!-- HN:46848731:start -->
+* [46848731](https://news.ycombinator.com/item?id=46848731) #27 2 points 0 comments -> [Clothes Are Plastic. Your Skin Pays the Price](https://substack.com/home/post/p-186265233)<!-- HN:46848731:end --><!-- HN:46849715:start -->
+* [46849715](https://news.ycombinator.com/item?id=46849715) #3 62 points 51 comments -> [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)<!-- HN:46849715:end -->
