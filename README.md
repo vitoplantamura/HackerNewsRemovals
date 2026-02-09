@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, February 2, 2026**
-<!-- HN:46811655:start -->
-* [46811655](https://news.social-protocols.org/stats?id=46811655) #20 10 points 4 comments -> [From its name, to its hazy origins, to its drug interactions, there's a lot goin](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)<!-- HN:46811655:end --><!-- HN:46849375:start -->
-* [46849375](https://news.social-protocols.org/stats?id=46849375) #23 12 points 0 comments -> [A Collection of Awesome Nostr Projects](https://github.com/aljazceru/awesome-nostr)<!-- HN:46849375:end --><!-- HN:46852548:start -->
-* [46852548](https://news.social-protocols.org/stats?id=46852548) #22 5 points 0 comments -> [NPR and PBS Never Needed Your Taxpayer Dollars](https://www.nationalreview.com/2026/02/npr-and-pbs-never-needed-your-taxpayer-dollars/)<!-- HN:46852548:end --><!-- HN:46853532:start -->
-* [46853532](https://news.social-protocols.org/stats?id=46853532) #21 5 points 3 comments -> [Welcome to Trumpistan](https://archive.vanityfair.com/article/2017/2/welcome-to-trumpistan)<!-- HN:46853532:end --><!-- HN:46813009:start -->
-* [46813009](https://news.social-protocols.org/stats?id=46813009) #15 8 points 3 comments -> [Attilio Berni plays the sub-contrabass saxophone [video]](https://www.youtube.com/watch?v=9BiW2mVKk0w)<!-- HN:46813009:end --><!-- HN:46855003:start -->
-* [46855003](https://news.social-protocols.org/stats?id=46855003) #7 17 points 16 comments -> [Applications where agents are first-class citizens](https://every.to/guides/agent-native)<!-- HN:46855003:end --><!-- HN:46805867:start -->
-* [46805867](https://news.social-protocols.org/stats?id=46805867) #21 8 points 0 comments -> [High performance, open source RAFT clustered database: RooDB](https://github.com/jgarzik/roodb)<!-- HN:46805867:end --><!-- HN:46856133:start -->
-* [46856133](https://news.social-protocols.org/stats?id=46856133) #3 5 points 0 comments -> [Tim Cook sold Apple's soul](https://www.loopwerk.io/articles/2026/tim-cook-sold-apples-soul/)<!-- HN:46856133:end --><!-- HN:46856384:start -->
-* [46856384](https://news.social-protocols.org/stats?id=46856384) #18 10 points 1 comments -> [Google AI helped IDF drones with targeting in 2024 breaching its own policies](https://www.washingtonpost.com/technology/2026/02/01/google-ai-israel-military/)<!-- HN:46856384:end --><!-- HN:46857257:start -->
-* [46857257](https://news.social-protocols.org/stats?id=46857257) #29 4 points 1 comments -> [Classified Whistleblower Complaint About Tulsi Gabbard Stalls Within Her Agency](https://www.wsj.com/politics/national-security/classified-whistleblower-complaint-about-tulsi-gabbard-stalls-within-her-agency-027f5331)<!-- HN:46857257:end --><!-- HN:46857796:start -->
-* [46857796](https://news.social-protocols.org/stats?id=46857796) #5 15 points 4 comments -> [My five stages of AI grief](https://dev-tester.com/my-five-stages-of-ai-grief/)<!-- HN:46857796:end --><!-- HN:46857618:start -->
-* [46857618](https://news.social-protocols.org/stats?id=46857618) #9 20 points 5 comments -> [Claude Code's renderer is more complex than a game engine](https://spader.zone/engine/)<!-- HN:46857618:end --><!-- HN:46858682:start -->
-* [46858682](https://news.social-protocols.org/stats?id=46858682) #24 7 points 2 comments -> [Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls](https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026)<!-- HN:46858682:end --><!-- HN:46857124:start -->
-* [46857124](https://news.social-protocols.org/stats?id=46857124) #24 44 points 59 comments -> [We asked 15,000 European devs about jobs, salaries, and AI [pdf]](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)<!-- HN:46857124:end --><!-- HN:46860753:start -->
-* [46860753](https://news.social-protocols.org/stats?id=46860753) #25 9 points 3 comments -> [Don't discount American democracy's resilience](https://www.natesilver.net/p/dont-discount-american-democracys)<!-- HN:46860753:end --><!-- HN:46860984:start -->
-* [46860984](https://news.social-protocols.org/stats?id=46860984) #23 19 points 13 comments -> [LinkedIn Is Down](https://ctrlv.link/8aQX)<!-- HN:46860984:end -->
 #### **Tuesday, February 3, 2026**
 <!-- HN:46864214:start -->
 * [46864214](https://news.social-protocols.org/stats?id=46864214) #29 8 points 0 comments -> [Partner at Day One Ventures ranks intelligence by how Jewish someone is](https://twitter.com/amasad/status/2018175092648472913)<!-- HN:46864214:end --><!-- HN:46866421:start -->
