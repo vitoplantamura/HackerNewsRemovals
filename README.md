@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46888128](https://news.social-protocols.org/stats?id=46888128) #13 12 points 0 comments -> [The Muppets are horny and weird again (just like Jim Henson intended)](https://www.polygon.com/the-muppet-show-disney-special-review/)<!-- HN:46888128:end -->
 #### **Monday, February 9, 2026**
 <!-- HN:46940088:start -->
-* [46940088](https://news.social-protocols.org/stats?id=46940088) #6 6 points 1 comments -> [Tenure Is a Total Scam](https://www.betonit.ai/p/tenure-is-a-total-scam)<!-- HN:46940088:end -->
+* [46940088](https://news.social-protocols.org/stats?id=46940088) #6 6 points 1 comments -> [Tenure Is a Total Scam](https://www.betonit.ai/p/tenure-is-a-total-scam)<!-- HN:46940088:end --><!-- HN:46941323:start -->
+* [46941323](https://news.social-protocols.org/stats?id=46941323) #4 8 points 1 comments -> [Accountability for ICE and CBP](https://www.doomsdayscenario.co/p/accountability-for-ice-and-cbp)<!-- HN:46941323:end -->
