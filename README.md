@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 9, 2026**
 <!-- HN:46940088:start -->
 * [46940088](https://news.social-protocols.org/stats?id=46940088) #6 6 points 1 comments -> [Tenure Is a Total Scam](https://www.betonit.ai/p/tenure-is-a-total-scam)<!-- HN:46940088:end --><!-- HN:46941323:start -->
-* [46941323](https://news.social-protocols.org/stats?id=46941323) #4 8 points 1 comments -> [Accountability for ICE and CBP](https://www.doomsdayscenario.co/p/accountability-for-ice-and-cbp)<!-- HN:46941323:end -->
+* [46941323](https://news.social-protocols.org/stats?id=46941323) #4 8 points 1 comments -> [Accountability for ICE and CBP](https://www.doomsdayscenario.co/p/accountability-for-ice-and-cbp)<!-- HN:46941323:end --><!-- HN:46892105:start -->
+* [46892105](https://news.social-protocols.org/stats?id=46892105) #11 10 points 0 comments -> [Lessons from BF-Tree: Building a Concurrent Larger-Than-Memory Index in Rust](https://zhihanz.github.io/posts/bf-tree-rust-implementation/)<!-- HN:46892105:end -->
