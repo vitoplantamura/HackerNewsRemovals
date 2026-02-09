@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46870117](https://news.social-protocols.org/stats?id=46870117) #25 11 points 0 comments -> [SpiceDB Query Planner](https://authzed.com/blog/introducing-spicedb-query-planner)<!-- HN:46870117:end --><!-- HN:46859433:start -->
 * [46859433](https://news.social-protocols.org/stats?id=46859433) #28 60 points 12 comments -> [Kolakoski Sequence](https://en.wikipedia.org/wiki/Kolakoski_sequence)<!-- HN:46859433:end --><!-- HN:46888128:start -->
 * [46888128](https://news.social-protocols.org/stats?id=46888128) #13 12 points 0 comments -> [The Muppets are horny and weird again (just like Jim Henson intended)](https://www.polygon.com/the-muppet-show-disney-special-review/)<!-- HN:46888128:end -->
+#### **Monday, February 9, 2026**
+<!-- HN:46940088:start -->
+* [46940088](https://news.social-protocols.org/stats?id=46940088) #6 6 points 1 comments -> [Tenure Is a Total Scam](https://www.betonit.ai/p/tenure-is-a-total-scam)<!-- HN:46940088:end -->
