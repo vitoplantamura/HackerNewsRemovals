@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46946872](https://news.social-protocols.org/stats?id=46946872) #25 254 points 3 comments -> [GitHub Is Down](https://github.com/)<!-- HN:46946872:end --><!-- HN:46949198:start -->
 * [46949198](https://news.social-protocols.org/stats?id=46949198) #8 10 points 4 comments -> [State of Ruby 2026](https://devnewsletter.com/p/state-of-ruby-2026/)<!-- HN:46949198:end --><!-- HN:46949291:start -->
 * [46949291](https://news.social-protocols.org/stats?id=46949291) #23 22 points 2 comments -> [This Whistle Fights Fascists](https://www.theverge.com/policy/874959/3d-printed-whistles-for-ice-minneapolis-chicago-renee-good-alex-pretti)<!-- HN:46949291:end -->
+#### **Tuesday, February 10, 2026**
+<!-- HN:46954714:start -->
+* [46954714](https://news.social-protocols.org/stats?id=46954714) #26 -> [Trump threatens to block opening of US-Canada bridge](https://www.bbc.com/news/articles/cpw052pkvl0o)<!-- HN:46954714:end -->
