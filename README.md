@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, February 3, 2026**
-<!-- HN:46864214:start -->
-* [46864214](https://news.social-protocols.org/stats?id=46864214) #29 8 points 0 comments -> [Partner at Day One Ventures ranks intelligence by how Jewish someone is](https://twitter.com/amasad/status/2018175092648472913)<!-- HN:46864214:end --><!-- HN:46866421:start -->
-* [46866421](https://news.social-protocols.org/stats?id=46866421) #21 5 points 2 comments -> [Use Less Shit](https://uselessshit.org/)<!-- HN:46866421:end --><!-- HN:46868518:start -->
-* [46868518](https://news.social-protocols.org/stats?id=46868518) #17 10 points 13 comments -> [Boring Go – A practical guide to writing boring, maintainable Go](https://golang.college/books/boring-go)<!-- HN:46868518:end --><!-- HN:46868565:start -->
-* [46868565](https://news.social-protocols.org/stats?id=46868565) #6 11 points 5 comments -> [Claude Sonnet 5 Is Imminent – and It Could Be a Generation Ahead of Google](https://ucstrategies.com/news/claude-sonnet-5-is-imminent-and-it-could-be-a-generation-ahead-of-google/)<!-- HN:46868565:end --><!-- HN:46819827:start -->
-* [46819827](https://news.social-protocols.org/stats?id=46819827) #11 9 points 2 comments -> [SVGs are uniquely legible to LLMs](https://turbek.com/Designing-Interactive-SVGs-with-AI/)<!-- HN:46819827:end --><!-- HN:46846762:start -->
-* [46846762](https://news.social-protocols.org/stats?id=46846762) #16 17 points 3 comments -> [Same SQL, Different Results: A Subtle Oracle vs. PostgreSQL Migration Bug](https://databaserookies.wordpress.com/2026/01/30/same-sql-different-results-a-subtle-oracle-vs-postgresql-migration-bug/)<!-- HN:46846762:end --><!-- HN:46869797:start -->
-* [46869797](https://news.social-protocols.org/stats?id=46869797) #29 8 points 0 comments -> [Israeli Military Found Gaza Health Ministry Death Toll Was Accurate](https://theintercept.com/2026/01/30/israel-gaza-death-toll-accurate-denial/)<!-- HN:46869797:end --><!-- HN:46870113:start -->
-* [46870113](https://news.social-protocols.org/stats?id=46870113) #16 17 points 2 comments -> [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123)<!-- HN:46870113:end --><!-- HN:46871251:start -->
-* [46871251](https://news.social-protocols.org/stats?id=46871251) #18 18 points 2 comments -> [Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)](https://github.com/RAIL-Suite/RAIL)<!-- HN:46871251:end --><!-- HN:46874206:start -->
-* [46874206](https://news.social-protocols.org/stats?id=46874206) #10 7 points 0 comments -> [Sonnet 5 (Full Text)](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/5/)<!-- HN:46874206:end --><!-- HN:46875125:start -->
-* [46875125](https://news.social-protocols.org/stats?id=46875125) #14 11 points 0 comments -> [Have we tried asking women about the 'birth rate crisis' yet?](https://www.glamourmagazine.co.uk/article/falling-birth-rates-uk-feminist-solution)<!-- HN:46875125:end --><!-- HN:46837150:start -->
-* [46837150](https://news.social-protocols.org/stats?id=46837150) #15 11 points 0 comments -> [I became a maintainer and all I got was a lousy perspective on librarianship](https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/)<!-- HN:46837150:end --><!-- HN:46876347:start -->
-* [46876347](https://news.social-protocols.org/stats?id=46876347) #21 33 points 16 comments -> [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)<!-- HN:46876347:end --><!-- HN:46872894:start -->
-* [46872894](https://news.social-protocols.org/stats?id=46872894) #25 269 points 14 comments -> [X offices raided French prosecutors investigate child abuse images and deepfakes](https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc)<!-- HN:46872894:end -->
 #### **Wednesday, February 4, 2026**
 <!-- HN:46878979:start -->
 * [46878979](https://news.social-protocols.org/stats?id=46878979) #13 7 points 2 comments -> [TikTok System Design:(Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/tiktok-system-design/)<!-- HN:46878979:end --><!-- HN:46879078:start -->
