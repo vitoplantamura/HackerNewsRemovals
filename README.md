@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 10, 2026**
 <!-- HN:46954714:start -->
 * [46954714](https://news.social-protocols.org/stats?id=46954714) #26 -> [Trump threatens to block opening of US-Canada bridge](https://www.bbc.com/news/articles/cpw052pkvl0o)<!-- HN:46954714:end --><!-- HN:46954875:start -->
-* [46954875](https://news.social-protocols.org/stats?id=46954875) #5 9 points 1 comments -> [I woke up to 77 pull requests. None of them were from a human](https://zachwills.net/building-at-the-speed-of-thought/)<!-- HN:46954875:end -->
+* [46954875](https://news.social-protocols.org/stats?id=46954875) #5 9 points 1 comments -> [I woke up to 77 pull requests. None of them were from a human](https://zachwills.net/building-at-the-speed-of-thought/)<!-- HN:46954875:end --><!-- HN:46955032:start -->
+* [46955032](https://news.social-protocols.org/stats?id=46955032) #8 8 points 2 comments -> [America isn't exceptional – it's the exception](https://www.not-ship.com/america-isnt-exceptional-its-the-exception/)<!-- HN:46955032:end -->
