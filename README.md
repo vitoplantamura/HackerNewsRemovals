@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, February 11, 2026**
 <!-- HN:46934187:start -->
 * [46934187](https://news.social-protocols.org/stats?id=46934187) #11 6 points 0 comments -> [Ship Types, Not Docs](https://shiptypes.com/)<!-- HN:46934187:end --><!-- HN:46904710:start -->
-* [46904710](https://news.social-protocols.org/stats?id=46904710) #12 8 points 1 comments -> [Computer Chronicles: AI (1984-1998)](https://computerchronicles.tv/#collection/ai)<!-- HN:46904710:end -->
+* [46904710](https://news.social-protocols.org/stats?id=46904710) #12 8 points 1 comments -> [Computer Chronicles: AI (1984-1998)](https://computerchronicles.tv/#collection/ai)<!-- HN:46904710:end --><!-- HN:46973565:start -->
+* [46973565](https://news.social-protocols.org/stats?id=46973565) #26 8 points 3 comments -> [Tech workers are frustrated by their companies silence about ICE](https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott)<!-- HN:46973565:end -->
