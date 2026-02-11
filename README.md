@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, February 11, 2026**
 <!-- HN:46934187:start -->
 * [46934187](https://news.social-protocols.org/stats?id=46934187) #11 6 points 0 comments -> [Ship Types, Not Docs](https://shiptypes.com/)<!-- HN:46934187:end --><!-- HN:46904710:start -->
-* [46904710](https://news.social-protocols.org/stats?id=46904710) #12 8 points 1 comments -> [Computer Chronicles: AI (1984-1998)](https://computerchronicles.tv/#collection/ai)<!-- HN:46904710:end -->
+* [46904710](https://news.social-protocols.org/stats?id=46904710) #12 8 points 1 comments -> [Computer Chronicles: AI (1984-1998)](https://computerchronicles.tv/#collection/ai)<!-- HN:46904710:end --><!-- HN:46972179:start -->
+* [46972179](https://news.social-protocols.org/stats?id=46972179) #2 11 points 7 comments -> [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)<!-- HN:46972179:end -->
