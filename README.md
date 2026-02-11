@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, February 4, 2026**
-<!-- HN:46878979:start -->
-* [46878979](https://news.social-protocols.org/stats?id=46878979) #13 7 points 2 comments -> [TikTok System Design:(Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/tiktok-system-design/)<!-- HN:46878979:end --><!-- HN:46879078:start -->
-* [46879078](https://news.social-protocols.org/stats?id=46879078) #22 28 points 5 comments -> [Valve wants to hold [patent troll] Leigh Rothschild personally liable](https://www.reporterbyte.com/news/10087/piercing-the-veil-why-valve-wants-to-hold-leigh-rothschild-personally-liable/)<!-- HN:46879078:end --><!-- HN:46880807:start -->
-* [46880807](https://news.social-protocols.org/stats?id=46880807) #4 7 points 0 comments -> [A programmer's guide to leaving GitHub](https://lord.io/leaving-github/)<!-- HN:46880807:end --><!-- HN:46884481:start -->
-* [46884481](https://news.social-protocols.org/stats?id=46884481) #4 14 points 13 comments -> [Anthropic Claude Max $200/mo: They claim 99% uptime, I calculated 84% Loss: $780](https://gist.github.com/LEX8888/0caac27b96fa164e2a8ac57e9a5f2365)<!-- HN:46884481:end --><!-- HN:46884595:start -->
-* [46884595](https://news.social-protocols.org/stats?id=46884595) #19 28 points 29 comments -> [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)<!-- HN:46884595:end --><!-- HN:46887364:start -->
-* [46887364](https://news.social-protocols.org/stats?id=46887364) #5 8 points 0 comments -> [Male students show more tolerance for political enemies than females for allies](https://expression.fire.org/p/male-students-show-more-tolerance)<!-- HN:46887364:end --><!-- HN:46888998:start -->
-* [46888998](https://news.social-protocols.org/stats?id=46888998) #15 5 points 0 comments -> [Cracking the Clit (2017)](https://logicmag.io/sex/cracking-the-clit/)<!-- HN:46888998:end --><!-- HN:46889088:start -->
-* [46889088](https://news.social-protocols.org/stats?id=46889088) #8 10 points 0 comments -> [Claude Code's /Insights](https://www.natemeyvis.com/claude-codes-insights/)<!-- HN:46889088:end --><!-- HN:46891584:start -->
-* [46891584](https://news.social-protocols.org/stats?id=46891584) #9 10 points 7 comments -> [Disk Scout – Find the Cheapest SSDs Across Amazon](https://disk-scout.com/)<!-- HN:46891584:end --><!-- HN:46826803:start -->
-* [46826803](https://news.social-protocols.org/stats?id=46826803) #8 127 points 69 comments -> [Yawning has an unexpected influence on the fluid inside your brain](https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/)<!-- HN:46826803:end --><!-- HN:46811812:start -->
-* [46811812](https://news.social-protocols.org/stats?id=46811812) #12 49 points 6 comments -> [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)<!-- HN:46811812:end -->
 #### **Thursday, February 5, 2026**<!-- HN:46894971:start -->
 * [46894971](https://news.social-protocols.org/stats?id=46894971) #23 7 points 0 comments -> [Toxic Truth: How Wikipedia Poisons Global Knowledge](https://ellakenan100.substack.com/p/toxic-truth-how-wikipedia-poisons)<!-- HN:46894971:end --><!-- HN:46893394:start -->
 * [46893394](https://news.social-protocols.org/stats?id=46893394) #13 20 points 9 comments -> [We Used To Build Things. What Happened?](https://garryslist.org/posts/we-used-to-build-things-what-happened)<!-- HN:46893394:end --><!-- HN:46895170:start -->
