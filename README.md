@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46963892](https://news.social-protocols.org/stats?id=46963892) #10 13 points 5 comments -> [The SaaSpocalypse – The week AI killed software](https://www.fintechbrainfood.com/p/the-saaspocalypse)<!-- HN:46963892:end -->
 #### **Wednesday, February 11, 2026**
 <!-- HN:46934187:start -->
-* [46934187](https://news.social-protocols.org/stats?id=46934187) #11 6 points 0 comments -> [Ship Types, Not Docs](https://shiptypes.com/)<!-- HN:46934187:end -->
+* [46934187](https://news.social-protocols.org/stats?id=46934187) #11 6 points 0 comments -> [Ship Types, Not Docs](https://shiptypes.com/)<!-- HN:46934187:end --><!-- HN:46904710:start -->
+* [46904710](https://news.social-protocols.org/stats?id=46904710) #12 8 points 1 comments -> [Computer Chronicles: AI (1984-1998)](https://computerchronicles.tv/#collection/ai)<!-- HN:46904710:end -->
