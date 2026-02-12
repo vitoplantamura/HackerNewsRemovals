@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:46982762:start -->
 * [46982762](https://news.social-protocols.org/stats?id=46982762) #22 14 points 1 comments -> [Rare, dangerous side effects of some Covid-19 vaccines explained](https://www.science.org/content/article/rare-dangerous-side-effects-some-covid-19-vaccines-explained)<!-- HN:46982762:end --><!-- HN:46984799:start -->
 * [46984799](https://news.social-protocols.org/stats?id=46984799) #14 17 points 10 comments -> [GLM-5 was trained entirely on Huawei chips](https://glm5.net/)<!-- HN:46984799:end --><!-- HN:46976443:start -->
-* [46976443](https://news.social-protocols.org/stats?id=46976443) #13 365 points 170 comments -> [Why Vampires Live Forever](https://machielreyneke.com/blog/vampires-longevity/)<!-- HN:46976443:end -->
+* [46976443](https://news.social-protocols.org/stats?id=46976443) #13 365 points 170 comments -> [Why Vampires Live Forever](https://machielreyneke.com/blog/vampires-longevity/)<!-- HN:46976443:end --><!-- HN:46986064:start -->
+* [46986064](https://news.social-protocols.org/stats?id=46986064) #18 9 points 4 comments -> [Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads](https://github.com/huesnatch/huesnatch)<!-- HN:46986064:end -->
