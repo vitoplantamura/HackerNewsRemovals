@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46913489](https://news.social-protocols.org/stats?id=46913489) #30 296 points 294 comments -> [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)<!-- HN:46913489:end --><!-- HN:46982240:start -->
 * [46982240](https://news.social-protocols.org/stats?id=46982240) #22 10 points 1 comments -> [Hacker News now thinks coding is solved](https://old.reddit.com/r/BetterOffline/comments/1qynmuc/hacker_news_now_thinks_coding_is_solved/)<!-- HN:46982240:end --><!-- HN:46977210:start -->
 * [46977210](https://news.social-protocols.org/stats?id=46977210) #2 371 points 199 comments -> [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)<!-- HN:46977210:end -->
+#### **Thursday, February 12, 2026**
+<!-- HN:46982762:start -->
+* [46982762](https://news.social-protocols.org/stats?id=46982762) #22 14 points 1 comments -> [Rare, dangerous side effects of some Covid-19 vaccines explained](https://www.science.org/content/article/rare-dangerous-side-effects-some-covid-19-vaccines-explained)<!-- HN:46982762:end -->
