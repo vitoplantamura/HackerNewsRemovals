@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46994455](https://news.social-protocols.org/stats?id=46994455) #30 7 points 1 comments -> [Sex Workers Are Built Different (Graph Dump)](https://aella.substack.com/p/sex-workers-are-built-different-graph)<!-- HN:46994455:end -->
 #### **Friday, February 13, 2026**
 <!-- HN:46928105:start -->
-* [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end -->
+* [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end --><!-- HN:46997658:start -->
+* [46997658](https://news.social-protocols.org/stats?id=46997658) #13 30 points 13 comments -> [What 1.4M emails reveal about America's most notorious sex offender](https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network)<!-- HN:46997658:end -->
