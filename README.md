@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46994455](https://news.social-protocols.org/stats?id=46994455) #30 7 points 1 comments -> [Sex Workers Are Built Different (Graph Dump)](https://aella.substack.com/p/sex-workers-are-built-different-graph)<!-- HN:46994455:end -->
 #### **Friday, February 13, 2026**
 <!-- HN:46928105:start -->
-* [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end -->
+* [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end --><!-- HN:46998803:start -->
+* [46998803](https://news.social-protocols.org/stats?id=46998803) #8 8 points 0 comments -> [ICE Masks Up in More Ways Than One](https://www.kenklippenstein.com/p/exclusive-ice-masks-up-in-more-ways)<!-- HN:46998803:end -->
