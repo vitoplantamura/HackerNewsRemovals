@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, February 13, 2026**
 <!-- HN:46928105:start -->
 * [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end --><!-- HN:46998803:start -->
-* [46998803](https://news.social-protocols.org/stats?id=46998803) #8 8 points 0 comments -> [ICE Masks Up in More Ways Than One](https://www.kenklippenstein.com/p/exclusive-ice-masks-up-in-more-ways)<!-- HN:46998803:end -->
+* [46998803](https://news.social-protocols.org/stats?id=46998803) #8 8 points 0 comments -> [ICE Masks Up in More Ways Than One](https://www.kenklippenstein.com/p/exclusive-ice-masks-up-in-more-ways)<!-- HN:46998803:end --><!-- HN:46998606:start -->
+* [46998606](https://news.social-protocols.org/stats?id=46998606) #20 29 points 40 comments -> [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)<!-- HN:46998606:end -->
