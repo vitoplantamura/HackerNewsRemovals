@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, February 6, 2026**<!-- HN:46908531:start -->
-* [46908531](https://news.social-protocols.org/stats?id=46908531) #30 8 points 6 comments -> [The $921M Special Interest Machine That Controls California](https://garryslist.org/posts/the-921m-special-interest-machine-that-controls-california)<!-- HN:46908531:end --><!-- HN:46845135:start -->
-* [46845135](https://news.social-protocols.org/stats?id=46845135) #7 41 points 1 comments -> [Pong Cam – My ESP32S3 Thinks It's a WebCam](https://www.atomic14.com/2026/02/01/pong-cam)<!-- HN:46845135:end --><!-- HN:46845567:start -->
-* [46845567](https://news.social-protocols.org/stats?id=46845567) #14 60 points 7 comments -> [Launching My Side Project as a Solo Dev: The Walkthrough](https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html)<!-- HN:46845567:end --><!-- HN:46844391:start -->
-* [46844391](https://news.social-protocols.org/stats?id=46844391) #22 25 points 6 comments -> [You Still Struggle with CORS Even After Reading Docs](https://evan-moon.github.io/2020/05/21/about-cors/en/)<!-- HN:46844391:end --><!-- HN:46847297:start -->
-* [46847297](https://news.social-protocols.org/stats?id=46847297) #24 159 points 39 comments -> [There Will Come Soft Rains (1950) [pdf]](https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf)<!-- HN:46847297:end --><!-- HN:46842090:start -->
-* [46842090](https://news.social-protocols.org/stats?id=46842090) #25 39 points 13 comments -> [What's wrong with bunny hands on dinosaurs? (2018)](https://paleoaerie.org/2018/06/13/whats-wrong-with-bunny-hands-on-dinosaurs/)<!-- HN:46842090:end --><!-- HN:46845296:start -->
-* [46845296](https://news.social-protocols.org/stats?id=46845296) #27 62 points 29 comments -> [OpenClaw: When AI Agents Get Full System Access. Security nightmare?](https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/)<!-- HN:46845296:end --><!-- HN:46841897:start -->
-* [46841897](https://news.social-protocols.org/stats?id=46841897) #28 139 points 24 comments -> [150 MB Minimal FreeBSD Installation](https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/)<!-- HN:46841897:end --><!-- HN:46913201:start -->
-* [46913201](https://news.social-protocols.org/stats?id=46913201) #4 46 points 40 comments -> [Wall Street just lost $285B because of 13 Markdown files](https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/)<!-- HN:46913201:end --><!-- HN:46915035:start -->
-* [46915035](https://news.social-protocols.org/stats?id=46915035) #27 10 points 6 comments -> [White House launches direct-to-consumer drug site TrumpRx](https://www.cnbc.com/2026/02/05/trump-rx-white-house-launches-direct-to-consumer-drug-site.html)<!-- HN:46915035:end -->
 #### **Saturday, February 7, 2026**
 <!-- HN:46920157:start -->
 * [46920157](https://news.social-protocols.org/stats?id=46920157) #13 9 points 0 comments -> [Installing Ollama and Gemma 3B on Linux](https://byandrev.dev/en/blog/ollama-in-linux)<!-- HN:46920157:end --><!-- HN:46920922:start -->
@@ -142,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [46990839](https://news.social-protocols.org/stats?id=46990839) #10 10 points 9 comments -> [AI agents can now create their own bank accounts](https://clawbot.cash/)<!-- HN:46990839:end --><!-- HN:46993829:start -->
 * [46993829](https://news.social-protocols.org/stats?id=46993829) #9 -> [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)<!-- HN:46993829:end --><!-- HN:46994455:start -->
 * [46994455](https://news.social-protocols.org/stats?id=46994455) #30 7 points 1 comments -> [Sex Workers Are Built Different (Graph Dump)](https://aella.substack.com/p/sex-workers-are-built-different-graph)<!-- HN:46994455:end -->
+#### **Friday, February 13, 2026**
+<!-- HN:46928105:start -->
+* [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end -->
