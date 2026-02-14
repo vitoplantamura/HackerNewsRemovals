@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47003036](https://news.social-protocols.org/stats?id=47003036) #10 4 points 1 comments -> [Kodak Charmera Review, Tiny Toy Camera That Makes Garbage Photos Feel Like Gold](https://kirkstechtips.com/kodak-charmera-review-the-30-tiny-toy-camera-that-makes-garbage-photos-feel-like-gold/)<!-- HN:47003036:end -->
 #### **Saturday, February 14, 2026**
 <!-- HN:47009630:start -->
-* [47009630](https://news.social-protocols.org/stats?id=47009630) #3 8 points 1 comments -> [Why Stripe paid $1B for Metronome instead of fixing Billing](https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing)<!-- HN:47009630:end -->
+* [47009630](https://news.social-protocols.org/stats?id=47009630) #3 8 points 1 comments -> [Why Stripe paid $1B for Metronome instead of fixing Billing](https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing)<!-- HN:47009630:end --><!-- HN:47009416:start -->
+* [47009416](https://news.social-protocols.org/stats?id=47009416) #1 111 points 2 comments -> [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement/)<!-- HN:47009416:end -->
