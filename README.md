@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, February 7, 2026**
-<!-- HN:46920157:start -->
-* [46920157](https://news.social-protocols.org/stats?id=46920157) #13 9 points 0 comments -> [Installing Ollama and Gemma 3B on Linux](https://byandrev.dev/en/blog/ollama-in-linux)<!-- HN:46920157:end --><!-- HN:46920922:start -->
-* [46920922](https://news.social-protocols.org/stats?id=46920922) #27 30 points 14 comments -> [Hello world does not compile](https://github.com/anthropics/claudes-c-compiler/issues/1)<!-- HN:46920922:end --><!-- HN:46920954:start -->
-* [46920954](https://news.social-protocols.org/stats?id=46920954) #17 9 points 4 comments -> [Make Trust Irrelevant: A Gamer's Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant)<!-- HN:46920954:end --><!-- HN:46866937:start -->
-* [46866937](https://news.social-protocols.org/stats?id=46866937) #4 112 points 17 comments -> [A century of hair samples proves leaded gas ban worked](https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/)<!-- HN:46866937:end --><!-- HN:46922912:start -->
-* [46922912](https://news.social-protocols.org/stats?id=46922912) #22 4 points 3 comments -> [Watermark API – $0.01/image, 10x cheaper than Cloudinary](https://api-production-caa8.up.railway.app/docs)<!-- HN:46922912:end --><!-- HN:46923469:start -->
-* [46923469](https://news.social-protocols.org/stats?id=46923469) #8 11 points 8 comments -> [Omarchy First Impressions](https://brianlovin.com/writing/omarchy-first-impressions-CEEstJk)<!-- HN:46923469:end --><!-- HN:46923520:start -->
-* [46923520](https://news.social-protocols.org/stats?id=46923520) #27 5 points 1 comments -> [Reputation Scores for GitHub Accounts](https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/)<!-- HN:46923520:end --><!-- HN:46924371:start -->
-* [46924371](https://news.social-protocols.org/stats?id=46924371) #9 9 points 5 comments -> [Show HN: One-click AI employee with its own cloud desktop](https://cloudbot-ai.com)<!-- HN:46924371:end --><!-- HN:46925131:start -->
-* [46925131](https://news.social-protocols.org/stats?id=46925131) #9 5 points 2 comments -> [Show HN: I'm 15 and built a free tool for reading ancient texts.](https://the-lexicon-project.netlify.app/)<!-- HN:46925131:end --><!-- HN:46924891:start -->
-* [46924891](https://news.social-protocols.org/stats?id=46924891) #15 17 points 7 comments -> [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism)<!-- HN:46924891:end --><!-- HN:46927661:start -->
-* [46927661](https://news.social-protocols.org/stats?id=46927661) #4 9 points 2 comments -> [We have broken SHA-1 in practice](https://shattered.io/)<!-- HN:46927661:end -->
 #### **Sunday, February 8, 2026**
 <!-- HN:46868879:start -->
 * [46868879](https://news.social-protocols.org/stats?id=46868879) #22 8 points 3 comments -> [Show HN: Browser based state machine simulator and visualizer](https://svylabs.github.io/smac-viz/)<!-- HN:46868879:end --><!-- HN:46930665:start -->
