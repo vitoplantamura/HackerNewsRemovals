@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47001683](https://news.social-protocols.org/stats?id=47001683) #11 17 points 3 comments -> [Israel used weapons in Gaza that made Palestinians evaporate](https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate)<!-- HN:47001683:end --><!-- HN:47001865:start -->
 * [47001865](https://news.social-protocols.org/stats?id=47001865) #30 79 points 52 comments -> [US repeals EPA endangerment finding for greenhouse gases](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding)<!-- HN:47001865:end --><!-- HN:47003036:start -->
 * [47003036](https://news.social-protocols.org/stats?id=47003036) #10 4 points 1 comments -> [Kodak Charmera Review, Tiny Toy Camera That Makes Garbage Photos Feel Like Gold](https://kirkstechtips.com/kodak-charmera-review-the-30-tiny-toy-camera-that-makes-garbage-photos-feel-like-gold/)<!-- HN:47003036:end -->
+#### **Saturday, February 14, 2026**
+<!-- HN:47009630:start -->
+* [47009630](https://news.social-protocols.org/stats?id=47009630) #3 8 points 1 comments -> [Why Stripe paid $1B for Metronome instead of fixing Billing](https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing)<!-- HN:47009630:end -->
