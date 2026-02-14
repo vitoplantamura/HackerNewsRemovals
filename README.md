@@ -130,5 +130,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, February 14, 2026**
 <!-- HN:47009630:start -->
 * [47009630](https://news.social-protocols.org/stats?id=47009630) #3 8 points 1 comments -> [Why Stripe paid $1B for Metronome instead of fixing Billing](https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing)<!-- HN:47009630:end --><!-- HN:47009416:start -->
-* [47009416](https://news.social-protocols.org/stats?id=47009416) #1 111 points 2 comments -> [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement/)<!-- HN:47009416:end --><!-- HN:46965833:start -->
-* [46965833](https://news.social-protocols.org/stats?id=46965833) #28 11 points 0 comments -> [Friendship Maintenance](https://www.avabear.xyz/p/friendship-maintenance)<!-- HN:46965833:end -->
+* [47009416](https://news.social-protocols.org/stats?id=47009416) #1 111 points 2 comments -> [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement/)<!-- HN:47009416:end -->
