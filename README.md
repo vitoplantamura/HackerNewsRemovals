@@ -131,5 +131,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47009630:start -->
 * [47009630](https://news.social-protocols.org/stats?id=47009630) #3 8 points 1 comments -> [Why Stripe paid $1B for Metronome instead of fixing Billing](https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing)<!-- HN:47009630:end --><!-- HN:47009416:start -->
 * [47009416](https://news.social-protocols.org/stats?id=47009416) #1 111 points 2 comments -> [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement/)<!-- HN:47009416:end --><!-- HN:46963672:start -->
-* [46963672](https://news.social-protocols.org/stats?id=46963672) #19 6 points 3 comments -> [Marginal Revolution](https://sebastiangaliani.substack.com/p/marginal-revolution)<!-- HN:46963672:end --><!-- HN:47014337:start -->
-* [47014337](https://news.social-protocols.org/stats?id=47014337) #25 53 points 10 comments -> [Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says](https://www.bbc.com/news/articles/cwyk4lz4e3eo)<!-- HN:47014337:end -->
+* [46963672](https://news.social-protocols.org/stats?id=46963672) #19 6 points 3 comments -> [Marginal Revolution](https://sebastiangaliani.substack.com/p/marginal-revolution)<!-- HN:46963672:end -->
