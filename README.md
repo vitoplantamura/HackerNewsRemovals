@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47016050](https://news.social-protocols.org/stats?id=47016050) #21 33 points 41 comments -> [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)<!-- HN:47016050:end -->
 #### **Sunday, February 15, 2026**
 <!-- HN:46952510:start -->
-* [46952510](https://news.social-protocols.org/stats?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end -->
+* [46952510](https://news.social-protocols.org/stats?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end --><!-- HN:47021322:start -->
+* [47021322](https://news.social-protocols.org/stats?id=47021322) #5 4 points 2 comments -> [I gave my AI drugs](https://github.com/nich2533/just_say_no)<!-- HN:47021322:end -->
