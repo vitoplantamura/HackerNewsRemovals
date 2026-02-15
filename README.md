@@ -121,5 +121,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47016050](https://news.social-protocols.org/stats?id=47016050) #21 33 points 41 comments -> [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)<!-- HN:47016050:end -->
 #### **Sunday, February 15, 2026**
 <!-- HN:46952510:start -->
-* [46952510](https://news.social-protocols.org/stats?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end --><!-- HN:47020694:start -->
-* [47020694](https://news.social-protocols.org/stats?id=47020694) #30 7 points 0 comments -> [U.S. Deports Nine Migrants in Secret, Ignoring Legal Protections](https://www.nytimes.com/2026/02/14/world/africa/us-secret-deportation-cameroon.html)<!-- HN:47020694:end -->
+* [46952510](https://news.social-protocols.org/stats?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end -->
