@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, February 8, 2026**
-<!-- HN:46868879:start -->
-* [46868879](https://news.social-protocols.org/stats?id=46868879) #22 8 points 3 comments -> [Show HN: Browser based state machine simulator and visualizer](https://svylabs.github.io/smac-viz/)<!-- HN:46868879:end --><!-- HN:46930665:start -->
-* [46930665](https://news.social-protocols.org/stats?id=46930665) #4 6 points 11 comments -> [Do you have a mathematically attractive face?](https://www.doimog.com)<!-- HN:46930665:end --><!-- HN:46928894:start -->
-* [46928894](https://news.social-protocols.org/stats?id=46928894) #17 -> [GitBlack: Tracing America's Foundation](https://gitblack.vercel.app/)<!-- HN:46928894:end --><!-- HN:46932010:start -->
-* [46932010](https://news.social-protocols.org/stats?id=46932010) #2 6 points 4 comments -> [Turning books to courses using AI](https://www.book2course.org/)<!-- HN:46932010:end --><!-- HN:46931948:start -->
-* [46931948](https://news.social-protocols.org/stats?id=46931948) #27 127 points 33 comments -> [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)<!-- HN:46931948:end --><!-- HN:46934190:start -->
-* [46934190](https://news.social-protocols.org/stats?id=46934190) #1 3 points 0 comments -> [Show HN: I built a festival tracker that matches lineups to your music library](https://apps.apple.com/us/app/festiveo-music-festivals/id6755355854)<!-- HN:46934190:end --><!-- HN:46935980:start -->
-* [46935980](https://news.social-protocols.org/stats?id=46935980) #1 174 points 39 comments -> [Vouch](https://github.com/mitchellh/vouch)<!-- HN:46935980:end --><!-- HN:46937543:start -->
-* [46937543](https://news.social-protocols.org/stats?id=46937543) #5 5 points 0 comments -> [Show HN: The biggest achievement of my life so far](https://github.com/adityaprasad-sudo/Explore-Singapore)<!-- HN:46937543:end --><!-- HN:46868272:start -->
-* [46868272](https://news.social-protocols.org/stats?id=46868272) #12 20 points 3 comments -> [International Image Interoperability Framework](https://iiif.io/)<!-- HN:46868272:end --><!-- HN:46857115:start -->
-* [46857115](https://news.social-protocols.org/stats?id=46857115) #14 64 points 5 comments -> [Formally Verifying PBS Kids with Lean4](https://www.shadaj.me/writing/cyberchase-lean)<!-- HN:46857115:end --><!-- HN:46870117:start -->
-* [46870117](https://news.social-protocols.org/stats?id=46870117) #25 11 points 0 comments -> [SpiceDB Query Planner](https://authzed.com/blog/introducing-spicedb-query-planner)<!-- HN:46870117:end --><!-- HN:46859433:start -->
-* [46859433](https://news.social-protocols.org/stats?id=46859433) #28 60 points 12 comments -> [Kolakoski Sequence](https://en.wikipedia.org/wiki/Kolakoski_sequence)<!-- HN:46859433:end --><!-- HN:46888128:start -->
-* [46888128](https://news.social-protocols.org/stats?id=46888128) #13 12 points 0 comments -> [The Muppets are horny and weird again (just like Jim Henson intended)](https://www.polygon.com/the-muppet-show-disney-special-review/)<!-- HN:46888128:end -->
 #### **Monday, February 9, 2026**
 <!-- HN:46940088:start -->
 * [46940088](https://news.social-protocols.org/stats?id=46940088) #6 6 points 1 comments -> [Tenure Is a Total Scam](https://www.betonit.ai/p/tenure-is-a-total-scam)<!-- HN:46940088:end --><!-- HN:46941323:start -->
