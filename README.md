@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, February 15, 2026**
 <!-- HN:46952510:start -->
 * [46952510](https://news.social-protocols.org/stats?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end --><!-- HN:47021322:start -->
-* [47021322](https://news.social-protocols.org/stats?id=47021322) #5 4 points 2 comments -> [I gave my AI drugs](https://github.com/nich2533/just_say_no)<!-- HN:47021322:end -->
+* [47021322](https://news.social-protocols.org/stats?id=47021322) #5 4 points 2 comments -> [I gave my AI drugs](https://github.com/nich2533/just_say_no)<!-- HN:47021322:end --><!-- HN:47021705:start -->
+* [47021705](https://news.social-protocols.org/stats?id=47021705) #4 3 points 0 comments -> [Show HN: DocSync – Git hooks that block commits with stale documentation](https://github.com/suhteevah/docsync)<!-- HN:47021705:end -->
