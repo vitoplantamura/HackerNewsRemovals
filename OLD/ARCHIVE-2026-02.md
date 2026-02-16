@@ -106,3 +106,15 @@
 * [46870117](https://news.ycombinator.com/item?id=46870117) #25 11 points 0 comments -> [SpiceDB Query Planner](https://authzed.com/blog/introducing-spicedb-query-planner)<!-- HN:46870117:end --><!-- HN:46859433:start -->
 * [46859433](https://news.ycombinator.com/item?id=46859433) #28 60 points 12 comments -> [Kolakoski Sequence](https://en.wikipedia.org/wiki/Kolakoski_sequence)<!-- HN:46859433:end --><!-- HN:46888128:start -->
 * [46888128](https://news.ycombinator.com/item?id=46888128) #13 12 points 0 comments -> [The Muppets are horny and weird again (just like Jim Henson intended)](https://www.polygon.com/the-muppet-show-disney-special-review/)<!-- HN:46888128:end -->
+#### **Monday, February 9, 2026**
+<!-- HN:46940088:start -->
+* [46940088](https://news.ycombinator.com/item?id=46940088) #6 6 points 1 comments -> [Tenure Is a Total Scam](https://www.betonit.ai/p/tenure-is-a-total-scam)<!-- HN:46940088:end --><!-- HN:46941323:start -->
+* [46941323](https://news.ycombinator.com/item?id=46941323) #4 8 points 1 comments -> [Accountability for ICE and CBP](https://www.doomsdayscenario.co/p/accountability-for-ice-and-cbp)<!-- HN:46941323:end --><!-- HN:46892105:start -->
+* [46892105](https://news.ycombinator.com/item?id=46892105) #11 10 points 0 comments -> [Lessons from BF-Tree: Building a Concurrent Larger-Than-Memory Index in Rust](https://zhihanz.github.io/posts/bf-tree-rust-implementation/)<!-- HN:46892105:end --><!-- HN:46943865:start -->
+* [46943865](https://news.ycombinator.com/item?id=46943865) #3 21 points 4 comments -> [Is the author of pdf-lib okay?](https://github.com/Hopding/pdf-lib)<!-- HN:46943865:end --><!-- HN:46899833:start -->
+* [46899833](https://news.ycombinator.com/item?id=46899833) #20 9 points 0 comments -> [Werewolf Vflex Adapter Review](https://hagensieker.com/2026/02/05/werewolf-vflex-adapter-review/)<!-- HN:46899833:end --><!-- HN:46946603:start -->
+* [46946603](https://news.ycombinator.com/item?id=46946603) #21 7 points 2 comments -> [Safe Drinking Water Is a Basic Human Right That Texas Prisons Fail to Respect](https://truthout.org/articles/safe-drinking-water-is-a-basic-human-right-that-texas-prisons-fail-to-respect/)<!-- HN:46946603:end --><!-- HN:46948148:start -->
+* [46948148](https://news.ycombinator.com/item?id=46948148) #7 15 points 1 comments -> [Irish man detained by ICE fearing for his life in Texas detention centre](https://www.thesun.ie/news/16511082/seamus-culleton-ice-hell-trump/)<!-- HN:46948148:end --><!-- HN:46946872:start -->
+* [46946872](https://news.ycombinator.com/item?id=46946872) #25 254 points 3 comments -> [GitHub Is Down](https://github.com/)<!-- HN:46946872:end --><!-- HN:46949198:start -->
+* [46949198](https://news.ycombinator.com/item?id=46949198) #8 10 points 4 comments -> [State of Ruby 2026](https://devnewsletter.com/p/state-of-ruby-2026/)<!-- HN:46949198:end --><!-- HN:46949291:start -->
+* [46949291](https://news.ycombinator.com/item?id=46949291) #23 22 points 2 comments -> [This Whistle Fights Fascists](https://www.theverge.com/policy/874959/3d-printed-whistles-for-ice-minneapolis-chicago-renee-good-alex-pretti)<!-- HN:46949291:end -->
