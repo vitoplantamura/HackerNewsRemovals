@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47027044](https://news.social-protocols.org/stats?id=47027044) #4 19 points 0 comments -> [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)<!-- HN:47027044:end -->
 #### **Monday, February 16, 2026**
 <!-- HN:46969642:start -->
-* [46969642](https://news.social-protocols.org/stats?id=46969642) #29 18 points 7 comments -> [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)<!-- HN:46969642:end -->
+* [46969642](https://news.social-protocols.org/stats?id=46969642) #29 18 points 7 comments -> [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)<!-- HN:46969642:end --><!-- HN:46986604:start -->
+* [46986604](https://news.social-protocols.org/stats?id=46986604) #25 17 points 4 comments -> [Show HN: Solving Sudoku reasoning via Energy Geometric models](https://www.davisgeometric.com/index.html)<!-- HN:46986604:end -->
