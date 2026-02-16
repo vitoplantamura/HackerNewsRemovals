@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47021705](https://news.social-protocols.org/stats?id=47021705) #4 3 points 0 comments -> [Show HN: DocSync – Git hooks that block commits with stale documentation](https://github.com/suhteevah/docsync)<!-- HN:47021705:end --><!-- HN:47023333:start -->
 * [47023333](https://news.social-protocols.org/stats?id=47023333) #28 16 points 9 comments -> [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)<!-- HN:47023333:end --><!-- HN:47027044:start -->
 * [47027044](https://news.social-protocols.org/stats?id=47027044) #4 19 points 0 comments -> [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)<!-- HN:47027044:end -->
+#### **Monday, February 16, 2026**
+<!-- HN:47028923:start -->
+* [47028923](https://news.social-protocols.org/stats?id=47028923) #21 27 points 41 comments -> [I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)<!-- HN:47028923:end -->
