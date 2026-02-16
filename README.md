@@ -116,5 +116,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47027044](https://news.social-protocols.org/stats?id=47027044) #4 19 points 0 comments -> [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)<!-- HN:47027044:end -->
 #### **Monday, February 16, 2026**
 <!-- HN:46969642:start -->
-* [46969642](https://news.social-protocols.org/stats?id=46969642) #29 18 points 7 comments -> [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)<!-- HN:46969642:end --><!-- HN:47030836:start -->
-* [47030836](https://news.social-protocols.org/stats?id=47030836) #22 16 points 1 comments -> [DHS has reportedly sent out subpoenas to identify ICE critics online](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)<!-- HN:47030836:end -->
+* [46969642](https://news.social-protocols.org/stats?id=46969642) #29 18 points 7 comments -> [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)<!-- HN:46969642:end -->
