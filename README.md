@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 17, 2026**
 <!-- HN:46977901:start -->
 * [46977901](https://news.social-protocols.org/stats?id=46977901) #14 32 points 2 comments -> [Camera that captures photos to cassette tape](https://hackaday.io/project/205004-digital-analog-tape-picture-camera)<!-- HN:46977901:end --><!-- HN:46996852:start -->
-* [46996852](https://news.social-protocols.org/stats?id=46996852) #30 21 points 26 comments -> [Nvidia with unusually fast coding model on plate-sized chips](https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/)<!-- HN:46996852:end -->
+* [46996852](https://news.social-protocols.org/stats?id=46996852) #30 21 points 26 comments -> [Nvidia with unusually fast coding model on plate-sized chips](https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/)<!-- HN:46996852:end --><!-- HN:47041841:start -->
+* [47041841](https://news.social-protocols.org/stats?id=47041841) #27 9 points 3 comments -> [Show HN: Journey – A Custom 2D ECS Game Engine Written in Rust and WGPU](https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md)<!-- HN:47041841:end -->
