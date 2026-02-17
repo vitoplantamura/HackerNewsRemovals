@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, February 10, 2026**
-<!-- HN:46954714:start -->
-* [46954714](https://news.social-protocols.org/stats?id=46954714) #26 -> [Trump threatens to block opening of US-Canada bridge](https://www.bbc.com/news/articles/cpw052pkvl0o)<!-- HN:46954714:end --><!-- HN:46954875:start -->
-* [46954875](https://news.social-protocols.org/stats?id=46954875) #5 9 points 1 comments -> [I woke up to 77 pull requests. None of them were from a human](https://zachwills.net/building-at-the-speed-of-thought/)<!-- HN:46954875:end --><!-- HN:46955032:start -->
-* [46955032](https://news.social-protocols.org/stats?id=46955032) #8 8 points 2 comments -> [America isn't exceptional – it's the exception](https://www.not-ship.com/america-isnt-exceptional-its-the-exception/)<!-- HN:46955032:end --><!-- HN:46878373:start -->
-* [46878373](https://news.social-protocols.org/stats?id=46878373) #8 122 points 18 comments -> [How I've run major projects (2025)](https://www.benkuhn.net/pjm/)<!-- HN:46878373:end --><!-- HN:46889027:start -->
-* [46889027](https://news.social-protocols.org/stats?id=46889027) #14 13 points 12 comments -> [I made an open-source juypter alternative](https://github.com/DannyMang/more-compute)<!-- HN:46889027:end --><!-- HN:46892205:start -->
-* [46892205](https://news.social-protocols.org/stats?id=46892205) #19 12 points 6 comments -> [Richard F. Burton: On the English adventurer and writer](https://thelampmagazine.com/issues/issue-32/richard-f-burton)<!-- HN:46892205:end --><!-- HN:46877291:start -->
-* [46877291](https://news.social-protocols.org/stats?id=46877291) #22 118 points 11 comments -> [Information Is Beautiful](https://informationisbeautiful.net/)<!-- HN:46877291:end --><!-- HN:46890174:start -->
-* [46890174](https://news.social-protocols.org/stats?id=46890174) #24 112 points 20 comments -> [F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)<!-- HN:46890174:end --><!-- HN:46957495:start -->
-* [46957495](https://news.social-protocols.org/stats?id=46957495) #5 18 points 0 comments -> [ICE is pushing readers to nonprofit news sites that cover immigrant communities](https://www.niemanlab.org/2026/02/ice-activity-is-pushing-readers-to-nonprofit-news-sites-that-cover-immigrant-communities/)<!-- HN:46957495:end --><!-- HN:46958597:start -->
-* [46958597](https://news.social-protocols.org/stats?id=46958597) #6 -> [Show HN: Pipelock – All-in-one security harness for AI coding agents](https://github.com/luckyPipewrench/pipelock)<!-- HN:46958597:end --><!-- HN:46959067:start -->
-* [46959067](https://news.social-protocols.org/stats?id=46959067) #3 63 points 37 comments -> [Australian author's erotic novel is child sex abuse material, judge finds](https://www.bbc.com/news/articles/ckgzv529v5no)<!-- HN:46959067:end --><!-- HN:46958760:start -->
-* [46958760](https://news.social-protocols.org/stats?id=46958760) #23 10 points 1 comments -> [Bitchat – decentralized peer-to-peer messaging](https://en.wikipedia.org/wiki/Bitchat)<!-- HN:46958760:end --><!-- HN:46959764:start -->
-* [46959764](https://news.social-protocols.org/stats?id=46959764) #4 11 points 12 comments -> [74% of European firms would fail without access to U.S. technology](https://europeancorrespondent.com/en/r/trumps-power-switch)<!-- HN:46959764:end --><!-- HN:46963892:start -->
-* [46963892](https://news.social-protocols.org/stats?id=46963892) #10 13 points 5 comments -> [The SaaSpocalypse – The week AI killed software](https://www.fintechbrainfood.com/p/the-saaspocalypse)<!-- HN:46963892:end -->
 #### **Wednesday, February 11, 2026**
 <!-- HN:46934187:start -->
 * [46934187](https://news.social-protocols.org/stats?id=46934187) #11 6 points 0 comments -> [Ship Types, Not Docs](https://shiptypes.com/)<!-- HN:46934187:end --><!-- HN:46904710:start -->
