@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47039073](https://news.social-protocols.org/stats?id=47039073) #23 16 points 6 comments -> [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)<!-- HN:47039073:end --><!-- HN:47041634:start -->
 * [47041634](https://news.social-protocols.org/stats?id=47041634) #2 -> [H-1B Exposed: The Talent Shortage Is a Myth](https://www.h1bexposed.tech/)<!-- HN:47041634:end --><!-- HN:47041339:start -->
 * [47041339](https://news.social-protocols.org/stats?id=47041339) #12 6 points 1 comments -> [Resist and Unsubscribe (Scott Galloway)](https://www.resistandunsubscribe.com)<!-- HN:47041339:end -->
+#### **Tuesday, February 17, 2026**
+<!-- HN:46977901:start -->
+* [46977901](https://news.social-protocols.org/stats?id=46977901) #14 32 points 2 comments -> [Camera that captures photos to cassette tape](https://hackaday.io/project/205004-digital-analog-tape-picture-camera)<!-- HN:46977901:end -->
