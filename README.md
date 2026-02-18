@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47052674:start -->
 * [47052674](https://news.social-protocols.org/stats?id=47052674) #24 50 points 40 comments -> [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)<!-- HN:47052674:end --><!-- HN:47055467:start -->
 * [47055467](https://news.social-protocols.org/stats?id=47055467) #16 33 points 9 comments -> [Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans](https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989)<!-- HN:47055467:end --><!-- HN:47059652:start -->
-* [47059652](https://news.social-protocols.org/stats?id=47059652) #3 13 points 3 comments -> [Stop prompting. Let the AI interview you to build specs](https://www.ideaforge.chat/)<!-- HN:47059652:end -->
+* [47059652](https://news.social-protocols.org/stats?id=47059652) #3 13 points 3 comments -> [Stop prompting. Let the AI interview you to build specs](https://www.ideaforge.chat/)<!-- HN:47059652:end --><!-- HN:47060041:start -->
+* [47060041](https://news.social-protocols.org/stats?id=47060041) #3 18 points 4 comments -> [AI made every test pass, but the code was still wrong](https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong)<!-- HN:47060041:end -->
