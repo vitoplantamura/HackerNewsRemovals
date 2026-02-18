@@ -102,8 +102,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47050447](https://news.social-protocols.org/stats?id=47050447) #2 65 points 13 comments -> [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)<!-- HN:47050447:end --><!-- HN:47023255:start -->
 * [47023255](https://news.social-protocols.org/stats?id=47023255) #27 12 points 0 comments -> [Show HN: Clawntown – An Evolving Crustacean Island](https://clawntown.lol)<!-- HN:47023255:end -->
 #### **Wednesday, February 18, 2026**
-<!-- HN:47052674:start -->
-* [47052674](https://news.social-protocols.org/stats?id=47052674) #24 50 points 40 comments -> [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)<!-- HN:47052674:end --><!-- HN:47055467:start -->
+<!-- HN:47055467:start -->
 * [47055467](https://news.social-protocols.org/stats?id=47055467) #16 33 points 9 comments -> [Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans](https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989)<!-- HN:47055467:end --><!-- HN:47059652:start -->
 * [47059652](https://news.social-protocols.org/stats?id=47059652) #3 13 points 3 comments -> [Stop prompting. Let the AI interview you to build specs](https://www.ideaforge.chat/)<!-- HN:47059652:end --><!-- HN:47016624:start -->
 * [47016624](https://news.social-protocols.org/stats?id=47016624) #18 10 points 1 comments -> [World's Only Pencil Sharpener Museum](https://www.bostonglobe.com/2026/02/13/lifestyle/pencil-sharpener-museum-ohio/)<!-- HN:47016624:end --><!-- HN:47060041:start -->
