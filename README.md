@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47023255](https://news.social-protocols.org/stats?id=47023255) #27 12 points 0 comments -> [Show HN: Clawntown – An Evolving Crustacean Island](https://clawntown.lol)<!-- HN:47023255:end -->
 #### **Wednesday, February 18, 2026**
 <!-- HN:47052674:start -->
-* [47052674](https://news.social-protocols.org/stats?id=47052674) #24 50 points 40 comments -> [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)<!-- HN:47052674:end -->
+* [47052674](https://news.social-protocols.org/stats?id=47052674) #24 50 points 40 comments -> [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)<!-- HN:47052674:end --><!-- HN:47055467:start -->
+* [47055467](https://news.social-protocols.org/stats?id=47055467) #16 33 points 9 comments -> [Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans](https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989)<!-- HN:47055467:end -->
