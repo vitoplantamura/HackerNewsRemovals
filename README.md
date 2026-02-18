@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47047932](https://news.social-protocols.org/stats?id=47047932) #16 14 points 6 comments -> [The mathematical mystery inside the legendary '90s shooter Quake 3](https://www.scientificamerican.com/article/the-mathematical-mystery-inside-the-legendary-90s-shooter-quake-3/)<!-- HN:47047932:end --><!-- HN:47050447:start -->
 * [47050447](https://news.social-protocols.org/stats?id=47050447) #2 65 points 13 comments -> [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)<!-- HN:47050447:end --><!-- HN:47023255:start -->
 * [47023255](https://news.social-protocols.org/stats?id=47023255) #27 12 points 0 comments -> [Show HN: Clawntown – An Evolving Crustacean Island](https://clawntown.lol)<!-- HN:47023255:end -->
+#### **Wednesday, February 18, 2026**
+<!-- HN:47052674:start -->
+* [47052674](https://news.social-protocols.org/stats?id=47052674) #24 50 points 40 comments -> [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)<!-- HN:47052674:end -->
