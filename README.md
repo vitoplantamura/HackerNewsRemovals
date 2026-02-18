@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, February 11, 2026**
-<!-- HN:46934187:start -->
-* [46934187](https://news.social-protocols.org/stats?id=46934187) #11 6 points 0 comments -> [Ship Types, Not Docs](https://shiptypes.com/)<!-- HN:46934187:end --><!-- HN:46904710:start -->
-* [46904710](https://news.social-protocols.org/stats?id=46904710) #12 8 points 1 comments -> [Computer Chronicles: AI (1984-1998)](https://computerchronicles.tv/#collection/ai)<!-- HN:46904710:end --><!-- HN:46973565:start -->
-* [46973565](https://news.social-protocols.org/stats?id=46973565) #26 8 points 3 comments -> [Tech workers are frustrated by their companies silence about ICE](https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott)<!-- HN:46973565:end --><!-- HN:46973849:start -->
-* [46973849](https://news.social-protocols.org/stats?id=46973849) #14 9 points 0 comments -> [The Torture Will Continue Until Shareholder Value Improves [video]](https://www.youtube.com/watch?v=NIXd3PEbsNk)<!-- HN:46973849:end --><!-- HN:46974999:start -->
-* [46974999](https://news.social-protocols.org/stats?id=46974999) #1 59 points 26 comments -> [Who Smeared Feynman](https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)<!-- HN:46974999:end --><!-- HN:46976123:start -->
-* [46976123](https://news.social-protocols.org/stats?id=46976123) #25 6 points 1 comments -> [EPA to repeal its own conclusion that greenhouse gases warm the planet](https://www.nbcnews.com/science/climate-change/epa-to-repeal-endangerment-finding-climate-change-emissions-rcna258250)<!-- HN:46976123:end --><!-- HN:46981354:start -->
-* [46981354](https://news.social-protocols.org/stats?id=46981354) #20 10 points 0 comments -> [ICE Is Crashing the US Court System in Minnesota](https://www.wired.com/story/ice-crashing-us-court-system-minnesota/)<!-- HN:46981354:end --><!-- HN:46917005:start -->
-* [46917005](https://news.social-protocols.org/stats?id=46917005) #7 88 points 30 comments -> [Single bone in Spain offers first direct evidence of Hannibal's war elephants](https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html)<!-- HN:46917005:end --><!-- HN:46913062:start -->
-* [46913062](https://news.social-protocols.org/stats?id=46913062) #8 27 points 2 comments -> [Switzerland's Extraordinary Medieval Library](https://www.bbc.com/travel/article/20260202-inside-switzerlands-extraordinary-medieval-library)<!-- HN:46913062:end --><!-- HN:46909279:start -->
-* [46909279](https://news.social-protocols.org/stats?id=46909279) #13 336 points 62 comments -> [It's all a blur](https://lcamtuf.substack.com/p/its-all-a-blur)<!-- HN:46909279:end --><!-- HN:46913747:start -->
-* [46913747](https://news.social-protocols.org/stats?id=46913747) #28 16 points 4 comments -> [Show HN: Hibana – An Affine MPST Runtime for Rust](https://hibanaworks.dev)<!-- HN:46913747:end --><!-- HN:46913489:start -->
-* [46913489](https://news.social-protocols.org/stats?id=46913489) #30 296 points 294 comments -> [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)<!-- HN:46913489:end --><!-- HN:46982240:start -->
-* [46982240](https://news.social-protocols.org/stats?id=46982240) #22 10 points 1 comments -> [Hacker News now thinks coding is solved](https://old.reddit.com/r/BetterOffline/comments/1qynmuc/hacker_news_now_thinks_coding_is_solved/)<!-- HN:46982240:end --><!-- HN:46977210:start -->
-* [46977210](https://news.social-protocols.org/stats?id=46977210) #2 371 points 199 comments -> [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)<!-- HN:46977210:end -->
 #### **Thursday, February 12, 2026**
 <!-- HN:46982762:start -->
 * [46982762](https://news.social-protocols.org/stats?id=46982762) #22 14 points 1 comments -> [Rare, dangerous side effects of some Covid-19 vaccines explained](https://www.science.org/content/article/rare-dangerous-side-effects-some-covid-19-vaccines-explained)<!-- HN:46982762:end --><!-- HN:46984799:start -->
