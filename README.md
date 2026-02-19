@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47065425](https://news.social-protocols.org/stats?id=47065425) #30 16 points 12 comments -> [Show HN: Strava for Claude Code](https://straude.com/)<!-- HN:47065425:end -->
 #### **Thursday, February 19, 2026**
 <!-- HN:47072141:start -->
-* [47072141](https://news.social-protocols.org/stats?id=47072141) #1 19 points 4 comments -> [Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office](https://www.bbc.com/news/live/c70kjr9wjw0t)<!-- HN:47072141:end -->
+* [47072141](https://news.social-protocols.org/stats?id=47072141) #1 19 points 4 comments -> [Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office](https://www.bbc.com/news/live/c70kjr9wjw0t)<!-- HN:47072141:end --><!-- HN:47075406:start -->
+* [47075406](https://news.social-protocols.org/stats?id=47075406) #26 6 points 1 comments -> [AI found 12 of 12 OpenSSL zero-days](https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its)<!-- HN:47075406:end -->
