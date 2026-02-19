@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, February 12, 2026**
-<!-- HN:46982762:start -->
-* [46982762](https://news.social-protocols.org/stats?id=46982762) #22 14 points 1 comments -> [Rare, dangerous side effects of some Covid-19 vaccines explained](https://www.science.org/content/article/rare-dangerous-side-effects-some-covid-19-vaccines-explained)<!-- HN:46982762:end --><!-- HN:46984799:start -->
-* [46984799](https://news.social-protocols.org/stats?id=46984799) #14 17 points 10 comments -> [GLM-5 was trained entirely on Huawei chips](https://glm5.net/)<!-- HN:46984799:end --><!-- HN:46976443:start -->
-* [46976443](https://news.social-protocols.org/stats?id=46976443) #13 365 points 170 comments -> [Why Vampires Live Forever](https://machielreyneke.com/blog/vampires-longevity/)<!-- HN:46976443:end --><!-- HN:46986064:start -->
-* [46986064](https://news.social-protocols.org/stats?id=46986064) #18 9 points 4 comments -> [Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads](https://github.com/huesnatch/huesnatch)<!-- HN:46986064:end --><!-- HN:46987524:start -->
-* [46987524](https://news.social-protocols.org/stats?id=46987524) #4 39 points 4 comments -> [Resist and Unsubscribe](https://www.resistandunsubscribe.com)<!-- HN:46987524:end --><!-- HN:46934901:start -->
-* [46934901](https://news.social-protocols.org/stats?id=46934901) #19 4 points 0 comments -> [Put Your Reputation on the Deadline (2023)](https://taylor.town/reputation-deadline)<!-- HN:46934901:end --><!-- HN:46988035:start -->
-* [46988035](https://news.social-protocols.org/stats?id=46988035) #7 3 points 4 comments -> [Did HN just censor the Resist and Unsubscribe story?](https://www.resistandunsubscribe.com)<!-- HN:46988035:end --><!-- HN:46940959:start -->
-* [46940959](https://news.social-protocols.org/stats?id=46940959) #17 9 points 1 comments -> [Quitting](https://thepointmag.com/examined-life/quitting/)<!-- HN:46940959:end --><!-- HN:46986614:start -->
-* [46986614](https://news.social-protocols.org/stats?id=46986614) #21 22 points 40 comments -> [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)<!-- HN:46986614:end --><!-- HN:46988928:start -->
-* [46988928](https://news.social-protocols.org/stats?id=46988928) #29 33 points 8 comments -> [I Regret to Inform You That the FDA Is FDAing Again](https://marginalrevolution.com/marginalrevolution/2026/02/i-regret-to-inform-you-that-the-fda-is-still-fdaing.html)<!-- HN:46988928:end --><!-- HN:46989379:start -->
-* [46989379](https://news.social-protocols.org/stats?id=46989379) #12 37 points 23 comments -> [Kim Jong Un chooses teen daughter as heir](https://www.bbc.com/news/articles/cn0e1g7kwglo)<!-- HN:46989379:end --><!-- HN:46990839:start -->
-* [46990839](https://news.social-protocols.org/stats?id=46990839) #10 10 points 9 comments -> [AI agents can now create their own bank accounts](https://clawbot.cash/)<!-- HN:46990839:end --><!-- HN:46993829:start -->
-* [46993829](https://news.social-protocols.org/stats?id=46993829) #9 -> [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)<!-- HN:46993829:end --><!-- HN:46994455:start -->
-* [46994455](https://news.social-protocols.org/stats?id=46994455) #30 7 points 1 comments -> [Sex Workers Are Built Different (Graph Dump)](https://aella.substack.com/p/sex-workers-are-built-different-graph)<!-- HN:46994455:end -->
 #### **Friday, February 13, 2026**
 <!-- HN:46928105:start -->
 * [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end --><!-- HN:46998803:start -->
