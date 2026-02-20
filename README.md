@@ -103,3 +103,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47078868](https://news.social-protocols.org/stats?id=47078868) #20 7 points 1 comments -> [UK has not given US permission to use RAF bases for Iran strikes](https://www.bbc.co.uk/news/articles/cj98egkl7l1o)<!-- HN:47078868:end --><!-- HN:47075318:start -->
 * [47075318](https://news.social-protocols.org/stats?id=47075318) #3 592 points 3 comments -> [Gemini 3.1](https://deepmind.google/models/model-cards/gemini-3-1-pro/)<!-- HN:47075318:end --><!-- HN:47079969:start -->
 * [47079969](https://news.social-protocols.org/stats?id=47079969) #10 22 points 14 comments -> [Freedom.gov](https://freedom.gov/)<!-- HN:47079969:end -->
+#### **Friday, February 20, 2026**
+<!-- HN:47085884:start -->
+* [47085884](https://news.social-protocols.org/stats?id=47085884) #26 11 points 1 comments -> [Brave Iranians gather in central Iran to honour those killed in uprising](https://twitter.com/IranIntl_En/status/2024767317893075330)<!-- HN:47085884:end -->
