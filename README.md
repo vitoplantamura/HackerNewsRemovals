@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, February 13, 2026**
-<!-- HN:46928105:start -->
-* [46928105](https://news.social-protocols.org/stats?id=46928105) #25 15 points 1 comments -> [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)<!-- HN:46928105:end --><!-- HN:46998803:start -->
-* [46998803](https://news.social-protocols.org/stats?id=46998803) #8 8 points 0 comments -> [ICE Masks Up in More Ways Than One](https://www.kenklippenstein.com/p/exclusive-ice-masks-up-in-more-ways)<!-- HN:46998803:end --><!-- HN:46998606:start -->
-* [46998606](https://news.social-protocols.org/stats?id=46998606) #20 29 points 40 comments -> [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)<!-- HN:46998606:end --><!-- HN:47001037:start -->
-* [47001037](https://news.social-protocols.org/stats?id=47001037) #6 4 points 6 comments -> [Bullet Garden – a Vampire Survivors-like game in a single 85KB HTML file](https://www.myvibe.so/nategu/sound-garden)<!-- HN:47001037:end --><!-- HN:47001683:start -->
-* [47001683](https://news.social-protocols.org/stats?id=47001683) #11 17 points 3 comments -> [Israel used weapons in Gaza that made Palestinians evaporate](https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate)<!-- HN:47001683:end --><!-- HN:47001865:start -->
-* [47001865](https://news.social-protocols.org/stats?id=47001865) #30 79 points 52 comments -> [US repeals EPA endangerment finding for greenhouse gases](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding)<!-- HN:47001865:end --><!-- HN:47003036:start -->
-* [47003036](https://news.social-protocols.org/stats?id=47003036) #10 4 points 1 comments -> [Kodak Charmera Review, Tiny Toy Camera That Makes Garbage Photos Feel Like Gold](https://kirkstechtips.com/kodak-charmera-review-the-30-tiny-toy-camera-that-makes-garbage-photos-feel-like-gold/)<!-- HN:47003036:end -->
 #### **Saturday, February 14, 2026**
 <!-- HN:47009630:start -->
 * [47009630](https://news.social-protocols.org/stats?id=47009630) #3 8 points 1 comments -> [Why Stripe paid $1B for Metronome instead of fixing Billing](https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing)<!-- HN:47009630:end --><!-- HN:47009416:start -->
