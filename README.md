@@ -109,5 +109,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47086847](https://news.social-protocols.org/stats?id=47086847) #2 17 points 1 comments -> [I used Claude Code and GSD to build the accessibility tool I've always wanted](https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/)<!-- HN:47086847:end --><!-- HN:47094808:start -->
 * [47094808](https://news.social-protocols.org/stats?id=47094808) #10 6 points 2 comments -> [Nebraska company is supplying ICE with surveillance tech](https://flatwaterfreepress.org/this-nebraska-company-is-supplying-ice-with-surveillance-tech/)<!-- HN:47094808:end -->
 #### **Saturday, February 21, 2026**
-<!-- HN:47095597:start -->
-* [47095597](https://news.social-protocols.org/stats?id=47095597) #10 29 points 14 comments -> [Be Wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)<!-- HN:47095597:end -->
