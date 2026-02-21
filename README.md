@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, February 14, 2026**
-<!-- HN:47009630:start -->
-* [47009630](https://news.social-protocols.org/stats?id=47009630) #3 8 points 1 comments -> [Why Stripe paid $1B for Metronome instead of fixing Billing](https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing)<!-- HN:47009630:end --><!-- HN:47009416:start -->
-* [47009416](https://news.social-protocols.org/stats?id=47009416) #1 111 points 2 comments -> [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement/)<!-- HN:47009416:end --><!-- HN:46963672:start -->
-* [46963672](https://news.social-protocols.org/stats?id=46963672) #19 6 points 3 comments -> [Marginal Revolution](https://sebastiangaliani.substack.com/p/marginal-revolution)<!-- HN:46963672:end --><!-- HN:47014704:start -->
-* [47014704](https://news.social-protocols.org/stats?id=47014704) #4 28 points 14 comments -> [Golf game built last night with Claude Code, Svelte and ThreeJS](https://www.the-golf-is-golfing.com)<!-- HN:47014704:end --><!-- HN:47016050:start -->
-* [47016050](https://news.social-protocols.org/stats?id=47016050) #21 33 points 41 comments -> [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)<!-- HN:47016050:end -->
 #### **Sunday, February 15, 2026**
 <!-- HN:46952510:start -->
 * [46952510](https://news.social-protocols.org/stats?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end --><!-- HN:47021322:start -->
