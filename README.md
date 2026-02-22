@@ -105,3 +105,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47100641](https://news.social-protocols.org/stats?id=47100641) #15 10 points 5 comments -> [DJB's Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)<!-- HN:47100641:end --><!-- HN:47050699:start -->
 * [47050699](https://news.social-protocols.org/stats?id=47050699) #12 3 points 3 comments -> [I wrote about a bad paper](https://girl.surgery/bad_paper)<!-- HN:47050699:end --><!-- HN:47099160:start -->
 * [47099160](https://news.social-protocols.org/stats?id=47099160) #16 262 points 63 comments -> [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/)<!-- HN:47099160:end -->
+#### **Sunday, February 22, 2026**
+<!-- HN:47105087:start -->
+* [47105087](https://news.social-protocols.org/stats?id=47105087) #22 29 points 11 comments -> [Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)<!-- HN:47105087:end -->
