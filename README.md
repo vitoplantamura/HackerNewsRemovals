@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47099160](https://news.social-protocols.org/stats?id=47099160) #16 262 points 63 comments -> [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/)<!-- HN:47099160:end -->
 #### **Sunday, February 22, 2026**
 <!-- HN:47105087:start -->
-* [47105087](https://news.social-protocols.org/stats?id=47105087) #22 29 points 11 comments -> [Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)<!-- HN:47105087:end -->
+* [47105087](https://news.social-protocols.org/stats?id=47105087) #22 29 points 11 comments -> [Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)<!-- HN:47105087:end --><!-- HN:47106406:start -->
+* [47106406](https://news.social-protocols.org/stats?id=47106406) #8 -> [Who's liable when your AI agent burns down production?](https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051)<!-- HN:47106406:end -->
