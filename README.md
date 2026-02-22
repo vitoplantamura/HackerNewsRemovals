@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, February 15, 2026**
-<!-- HN:46952510:start -->
-* [46952510](https://news.social-protocols.org/stats?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end --><!-- HN:47021322:start -->
-* [47021322](https://news.social-protocols.org/stats?id=47021322) #5 4 points 2 comments -> [I gave my AI drugs](https://github.com/nich2533/just_say_no)<!-- HN:47021322:end --><!-- HN:47021705:start -->
-* [47021705](https://news.social-protocols.org/stats?id=47021705) #4 3 points 0 comments -> [Show HN: DocSync – Git hooks that block commits with stale documentation](https://github.com/suhteevah/docsync)<!-- HN:47021705:end --><!-- HN:47023333:start -->
-* [47023333](https://news.social-protocols.org/stats?id=47023333) #28 16 points 9 comments -> [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)<!-- HN:47023333:end --><!-- HN:47027044:start -->
-* [47027044](https://news.social-protocols.org/stats?id=47027044) #4 19 points 0 comments -> [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)<!-- HN:47027044:end -->
 #### **Monday, February 16, 2026**
 <!-- HN:46969642:start -->
 * [46969642](https://news.social-protocols.org/stats?id=46969642) #29 18 points 7 comments -> [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)<!-- HN:46969642:end --><!-- HN:46986604:start -->

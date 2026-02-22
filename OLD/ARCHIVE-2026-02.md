@@ -182,3 +182,10 @@
 * [46963672](https://news.ycombinator.com/item?id=46963672) #19 6 points 3 comments -> [Marginal Revolution](https://sebastiangaliani.substack.com/p/marginal-revolution)<!-- HN:46963672:end --><!-- HN:47014704:start -->
 * [47014704](https://news.ycombinator.com/item?id=47014704) #4 28 points 14 comments -> [Golf game built last night with Claude Code, Svelte and ThreeJS](https://www.the-golf-is-golfing.com)<!-- HN:47014704:end --><!-- HN:47016050:start -->
 * [47016050](https://news.ycombinator.com/item?id=47016050) #21 33 points 41 comments -> [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)<!-- HN:47016050:end -->
+#### **Sunday, February 15, 2026**
+<!-- HN:46952510:start -->
+* [46952510](https://news.ycombinator.com/item?id=46952510) #13 5 points 6 comments -> [Git with WD-40 Applied](https://github.com/Libre-WD-40/git)<!-- HN:46952510:end --><!-- HN:47021322:start -->
+* [47021322](https://news.ycombinator.com/item?id=47021322) #5 4 points 2 comments -> [I gave my AI drugs](https://github.com/nich2533/just_say_no)<!-- HN:47021322:end --><!-- HN:47021705:start -->
+* [47021705](https://news.ycombinator.com/item?id=47021705) #4 3 points 0 comments -> [Show HN: DocSync – Git hooks that block commits with stale documentation](https://github.com/suhteevah/docsync)<!-- HN:47021705:end --><!-- HN:47023333:start -->
+* [47023333](https://news.ycombinator.com/item?id=47023333) #28 16 points 9 comments -> [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)<!-- HN:47023333:end --><!-- HN:47027044:start -->
+* [47027044](https://news.ycombinator.com/item?id=47027044) #4 19 points 0 comments -> [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)<!-- HN:47027044:end -->
