@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 23, 2026**
 <!-- HN:47046124:start -->
 * [47046124](https://news.social-protocols.org/stats?id=47046124) #14 13 points 0 comments -> [Browse Code by Meaning](https://haskellforall.com/2026/02/browse-code-by-meaning)<!-- HN:47046124:end --><!-- HN:47046433:start -->
-* [47046433](https://news.social-protocols.org/stats?id=47046433) #30 32 points 49 comments -> [Write-Only Code](https://www.heavybit.com/library/article/write-only-code)<!-- HN:47046433:end -->
+* [47046433](https://news.social-protocols.org/stats?id=47046433) #30 32 points 49 comments -> [Write-Only Code](https://www.heavybit.com/library/article/write-only-code)<!-- HN:47046433:end --><!-- HN:47116026:start -->
+* [47116026](https://news.social-protocols.org/stats?id=47116026) #26 -> [Show HN: Warn Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)<!-- HN:47116026:end -->
