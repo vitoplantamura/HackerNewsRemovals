@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, February 16, 2026**
-<!-- HN:46969642:start -->
-* [46969642](https://news.social-protocols.org/stats?id=46969642) #29 18 points 7 comments -> [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)<!-- HN:46969642:end --><!-- HN:46986604:start -->
-* [46986604](https://news.social-protocols.org/stats?id=46986604) #25 17 points 4 comments -> [Show HN: Solving Sudoku reasoning via Energy Geometric models](https://www.davisgeometric.com/index.html)<!-- HN:46986604:end --><!-- HN:47036116:start -->
-* [47036116](https://news.social-protocols.org/stats?id=47036116) #23 25 points 40 comments -> [Intermittent fasting may make little difference to weight loss, review finds](https://www.bbc.co.uk/news/articles/c4ge7n3pq62o)<!-- HN:47036116:end --><!-- HN:47037666:start -->
-* [47037666](https://news.social-protocols.org/stats?id=47037666) #26 25 points 7 comments -> [Palantir CEO wants to spray "fentanyl-laced urine" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)<!-- HN:47037666:end --><!-- HN:47039073:start -->
-* [47039073](https://news.social-protocols.org/stats?id=47039073) #23 16 points 6 comments -> [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)<!-- HN:47039073:end -->
 #### **Tuesday, February 17, 2026**
 <!-- HN:46977901:start -->
 * [46977901](https://news.social-protocols.org/stats?id=46977901) #14 32 points 2 comments -> [Camera that captures photos to cassette tape](https://hackaday.io/project/205004-digital-analog-tape-picture-camera)<!-- HN:46977901:end --><!-- HN:46996852:start -->
