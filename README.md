@@ -116,3 +116,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47110310](https://news.social-protocols.org/stats?id=47110310) #7 40 points 34 comments -> [Postgres Is Your Friend. ORM Is Not](https://hypha.pub/postgres-is-your-friend-orm-is-not)<!-- HN:47110310:end --><!-- HN:47112633:start -->
 * [47112633](https://news.social-protocols.org/stats?id=47112633) #10 28 points 41 comments -> [Altman on AI energy: it also takes 20 years of eating food to train a human](https://old.reddit.com/r/singularity/comments/1rb2pzf/sam_altman_people_talk_about_how_much_energy_it/)<!-- HN:47112633:end --><!-- HN:47113883:start -->
 * [47113883](https://news.social-protocols.org/stats?id=47113883) #7 8 points 5 comments -> [Green Lumber Fallacy in Software Engineering](https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software)<!-- HN:47113883:end -->
+#### **Monday, February 23, 2026**
+<!-- HN:47046124:start -->
+* [47046124](https://news.social-protocols.org/stats?id=47046124) #14 13 points 0 comments -> [Browse Code by Meaning](https://haskellforall.com/2026/02/browse-code-by-meaning)<!-- HN:47046124:end --><!-- HN:47046433:start -->
+* [47046433](https://news.social-protocols.org/stats?id=47046433) #30 32 points 49 comments -> [Write-Only Code](https://www.heavybit.com/library/article/write-only-code)<!-- HN:47046433:end -->
