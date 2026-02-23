@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, February 23, 2026**
 <!-- HN:47046124:start -->
 * [47046124](https://news.social-protocols.org/stats?id=47046124) #14 13 points 0 comments -> [Browse Code by Meaning](https://haskellforall.com/2026/02/browse-code-by-meaning)<!-- HN:47046124:end --><!-- HN:47046433:start -->
-* [47046433](https://news.social-protocols.org/stats?id=47046433) #30 32 points 49 comments -> [Write-Only Code](https://www.heavybit.com/library/article/write-only-code)<!-- HN:47046433:end -->
+* [47046433](https://news.social-protocols.org/stats?id=47046433) #30 32 points 49 comments -> [Write-Only Code](https://www.heavybit.com/library/article/write-only-code)<!-- HN:47046433:end --><!-- HN:47116385:start -->
+* [47116385](https://news.social-protocols.org/stats?id=47116385) #23 33 points 19 comments -> [IT Staffing Firms (TCS, Cognizant, Infosis Underpay Developers by 80–100%](https://h1bdatahub.com/blog/cognizant-tcs-infosys-low-h1b-salaries-exposed)<!-- HN:47116385:end -->
