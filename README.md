@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, February 17, 2026**
-<!-- HN:46977901:start -->
-* [46977901](https://news.social-protocols.org/stats?id=46977901) #14 32 points 2 comments -> [Camera that captures photos to cassette tape](https://hackaday.io/project/205004-digital-analog-tape-picture-camera)<!-- HN:46977901:end --><!-- HN:46996852:start -->
-* [46996852](https://news.social-protocols.org/stats?id=46996852) #30 21 points 26 comments -> [Nvidia with unusually fast coding model on plate-sized chips](https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/)<!-- HN:46996852:end --><!-- HN:47041841:start -->
-* [47041841](https://news.social-protocols.org/stats?id=47041841) #27 9 points 3 comments -> [Show HN: Journey – A Custom 2D ECS Game Engine Written in Rust and WGPU](https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md)<!-- HN:47041841:end --><!-- HN:47043435:start -->
-* [47043435](https://news.social-protocols.org/stats?id=47043435) #30 7 points 4 comments -> [Performative virtue-signaling has become a threat to higher ed](https://thehill.com/opinion/education/5446702-performative-virtue-signaling-has-become-a-threat-to-higher-ed/)<!-- HN:47043435:end --><!-- HN:47045124:start -->
-* [47045124](https://news.social-protocols.org/stats?id=47045124) #4 9 points 3 comments -> [Slopware AI: Ship Garbage Even Faster](https://slopware.ai/)<!-- HN:47045124:end --><!-- HN:47046560:start -->
-* [47046560](https://news.social-protocols.org/stats?id=47046560) #16 8 points 0 comments -> [How the Kakistocracy Became a Quackistocracy](https://paulkrugman.substack.com/p/how-the-kakistocracy-became-a-quackistocracy)<!-- HN:47046560:end --><!-- HN:47046973:start -->
-* [47046973](https://news.social-protocols.org/stats?id=47046973) #14 5 points 0 comments -> [We just made a $200M AI movie in just one day. Yes, this is 100% AI](https://twitter.com/thedorbrothers/status/2023460644905742577)<!-- HN:47046973:end --><!-- HN:47047932:start -->
-* [47047932](https://news.social-protocols.org/stats?id=47047932) #16 14 points 6 comments -> [The mathematical mystery inside the legendary '90s shooter Quake 3](https://www.scientificamerican.com/article/the-mathematical-mystery-inside-the-legendary-90s-shooter-quake-3/)<!-- HN:47047932:end --><!-- HN:47050447:start -->
-* [47050447](https://news.social-protocols.org/stats?id=47050447) #2 65 points 13 comments -> [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)<!-- HN:47050447:end --><!-- HN:47023255:start -->
-* [47023255](https://news.social-protocols.org/stats?id=47023255) #27 12 points 0 comments -> [Show HN: Clawntown – An Evolving Crustacean Island](https://clawntown.lol)<!-- HN:47023255:end -->
 #### **Wednesday, February 18, 2026**
 <!-- HN:47055467:start -->
 * [47055467](https://news.social-protocols.org/stats?id=47055467) #16 33 points 9 comments -> [Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans](https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989)<!-- HN:47055467:end --><!-- HN:47059652:start -->
