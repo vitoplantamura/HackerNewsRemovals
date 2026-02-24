@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, February 24, 2026**
 <!-- HN:47131219:start -->
 * [47131219](https://news.social-protocols.org/stats?id=47131219) #27 13 points 20 comments -> [Psychology suggests making a shopping list is a sign of sharper thinking](https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr)<!-- HN:47131219:end --><!-- HN:47132012:start -->
-* [47132012](https://news.social-protocols.org/stats?id=47132012) #30 8 points 4 comments -> [Dow tumbles more than 800 points as tariff uncertainty and AI disruption fears](https://www.cnn.com/2026/02/23/investing/us-stocks-trump-tariffs)<!-- HN:47132012:end -->
+* [47132012](https://news.social-protocols.org/stats?id=47132012) #30 8 points 4 comments -> [Dow tumbles more than 800 points as tariff uncertainty and AI disruption fears](https://www.cnn.com/2026/02/23/investing/us-stocks-trump-tariffs)<!-- HN:47132012:end --><!-- HN:47084622:start -->
+* [47084622](https://news.social-protocols.org/stats?id=47084622) #8 10 points 4 comments -> [GPU Rack Power Density, 2015–2025](https://syaala.com/blog/gpu-rack-density-timeline-2026)<!-- HN:47084622:end -->
