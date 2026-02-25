@@ -120,3 +120,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47139916](https://news.social-protocols.org/stats?id=47139916) #15 4 points 3 comments -> [Will the U.S. confirm that aliens exist before 2027? (27%)](https://kalshi.com/markets/kxaliens/aliens/kxaliens-27)<!-- HN:47139916:end --><!-- HN:47090261:start -->
 * [47090261](https://news.social-protocols.org/stats?id=47090261) #21 11 points 0 comments -> [The 7-Year Bug That Took 3 Minutes to Fix](https://agilitza.com/blog/the-7-year-bug-that-took-3-minutes-to-fix/)<!-- HN:47090261:end --><!-- HN:47088711:start -->
 * [47088711](https://news.social-protocols.org/stats?id=47088711) #23 6 points 1 comments -> [Variable interpolatable smooth curves and outlines](https://thottingal.in/blog/2026/02/20/var-interpolatable-smooth-curves/)<!-- HN:47088711:end -->
+#### **Wednesday, February 25, 2026**
+<!-- HN:47145640:start -->
+* [47145640](https://news.social-protocols.org/stats?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end -->
