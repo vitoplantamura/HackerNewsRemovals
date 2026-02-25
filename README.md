@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, February 18, 2026**
-<!-- HN:47055467:start -->
-* [47055467](https://news.social-protocols.org/stats?id=47055467) #16 33 points 9 comments -> [Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans](https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989)<!-- HN:47055467:end --><!-- HN:47059652:start -->
-* [47059652](https://news.social-protocols.org/stats?id=47059652) #3 13 points 3 comments -> [Stop prompting. Let the AI interview you to build specs](https://www.ideaforge.chat/)<!-- HN:47059652:end --><!-- HN:47016624:start -->
-* [47016624](https://news.social-protocols.org/stats?id=47016624) #18 10 points 1 comments -> [World's Only Pencil Sharpener Museum](https://www.bostonglobe.com/2026/02/13/lifestyle/pencil-sharpener-museum-ohio/)<!-- HN:47016624:end --><!-- HN:47060041:start -->
-* [47060041](https://news.social-protocols.org/stats?id=47060041) #12 -> [AI made every test pass, but the code was still wrong](https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong)<!-- HN:47060041:end --><!-- HN:47062142:start -->
-* [47062142](https://news.social-protocols.org/stats?id=47062142) #7 5 points 1 comments -> [The Ozempic Effect: How McDonald's Is Reinventing Fast Food](https://ariatatrezvalthazar.blogspot.com/2026/02/the-ozempic-effect-how-mcdonalds-is.html)<!-- HN:47062142:end --><!-- HN:47062911:start -->
-* [47062911](https://news.social-protocols.org/stats?id=47062911) #10 10 points 2 comments -> [Dear Comrade Xi](https://www.campbellramble.ai/p/dear-comrade-xi)<!-- HN:47062911:end --><!-- HN:47064453:start -->
-* [47064453](https://news.social-protocols.org/stats?id=47064453) #4 15 points 7 comments -> [Vermont EV buses prove unreliable for transportation this winter](https://vermontdailychronicle.com/vermont-ev-buses-prove-unreliable-for-transportation-this-winter/)<!-- HN:47064453:end --><!-- HN:47065140:start -->
-* [47065140](https://news.social-protocols.org/stats?id=47065140) #10 7 points 2 comments -> [Complexity Science and Emergent Order: How Simple Rules Create Complex Systems](https://mysticryst.com/blogs/the-mystic-journal/complexity-science-emergent-order-simple-rules-complex-systems)<!-- HN:47065140:end --><!-- HN:47003672:start -->
-* [47003672](https://news.social-protocols.org/stats?id=47003672) #19 58 points 24 comments -> [Delphi is 31 years old – innovation timeline](https://blogs.embarcadero.com/delphi-innovation-timeline-31st-anniversary-edition-published-get-your-free-pdf/)<!-- HN:47003672:end --><!-- HN:47005945:start -->
-* [47005945](https://news.social-protocols.org/stats?id=47005945) #27 23 points 3 comments -> [SkyRL brings Tinker to your GPUs (2025)](https://novasky-ai.notion.site/skyrl-tinker)<!-- HN:47005945:end --><!-- HN:47065425:start -->
-* [47065425](https://news.social-protocols.org/stats?id=47065425) #30 16 points 12 comments -> [Show HN: Strava for Claude Code](https://straude.com/)<!-- HN:47065425:end -->
 #### **Thursday, February 19, 2026**
 <!-- HN:47072141:start -->
 * [47072141](https://news.social-protocols.org/stats?id=47072141) #1 19 points 4 comments -> [Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office](https://www.bbc.com/news/live/c70kjr9wjw0t)<!-- HN:47072141:end --><!-- HN:47075406:start -->
