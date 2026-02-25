@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47088711](https://news.social-protocols.org/stats?id=47088711) #23 6 points 1 comments -> [Variable interpolatable smooth curves and outlines](https://thottingal.in/blog/2026/02/20/var-interpolatable-smooth-curves/)<!-- HN:47088711:end -->
 #### **Wednesday, February 25, 2026**
 <!-- HN:47145640:start -->
-* [47145640](https://news.social-protocols.org/stats?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end -->
+* [47145640](https://news.social-protocols.org/stats?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end --><!-- HN:47077215:start -->
+* [47077215](https://news.social-protocols.org/stats?id=47077215) #7 96 points 41 comments -> [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)<!-- HN:47077215:end -->
