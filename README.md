@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, February 25, 2026**
 <!-- HN:47145640:start -->
 * [47145640](https://news.social-protocols.org/stats?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end --><!-- HN:47077215:start -->
-* [47077215](https://news.social-protocols.org/stats?id=47077215) #7 96 points 41 comments -> [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)<!-- HN:47077215:end -->
+* [47077215](https://news.social-protocols.org/stats?id=47077215) #7 96 points 41 comments -> [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)<!-- HN:47077215:end --><!-- HN:47149811:start -->
+* [47149811](https://news.social-protocols.org/stats?id=47149811) #4 16 points 2 comments -> [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)<!-- HN:47149811:end -->
