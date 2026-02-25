@@ -123,5 +123,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, February 25, 2026**
 <!-- HN:47145640:start -->
 * [47145640](https://news.social-protocols.org/stats?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end --><!-- HN:47077215:start -->
-* [47077215](https://news.social-protocols.org/stats?id=47077215) #7 96 points 41 comments -> [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)<!-- HN:47077215:end --><!-- HN:47148114:start -->
-* [47148114](https://news.social-protocols.org/stats?id=47148114) #5 10 points 3 comments -> [React just left meta. Here's what that means for developers](https://sulat.com/p/react-just-left-meta-heres-what-that)<!-- HN:47148114:end -->
+* [47077215](https://news.social-protocols.org/stats?id=47077215) #7 96 points 41 comments -> [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)<!-- HN:47077215:end -->
