@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47154011](https://news.social-protocols.org/stats?id=47154011) #3 62 points 1 comments -> [Large-scale online deanonymization with LLMs (using HN posts)](https://arxiv.org/abs/2602.16800)<!-- HN:47154011:end --><!-- HN:47155385:start -->
 * [47155385](https://news.social-protocols.org/stats?id=47155385) #21 3 points 0 comments -> [Disabled woman put in nursing home against her will says she feels 'betrayed'](https://www.bbc.com/news/articles/czj1ndzz9xyo)<!-- HN:47155385:end --><!-- HN:47155548:start -->
 * [47155548](https://news.social-protocols.org/stats?id=47155548) #4 55 points 44 comments -> [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)<!-- HN:47155548:end -->
+#### **Thursday, February 26, 2026**
+<!-- HN:47110155:start -->
+* [47110155](https://news.social-protocols.org/stats?id=47110155) #10 28 points 40 comments -> [Why every automaker is quietly bringing back the inline-six engine](https://carbuzz.com/why-automakers-bringing-back-the-inline-six-engine/)<!-- HN:47110155:end -->
