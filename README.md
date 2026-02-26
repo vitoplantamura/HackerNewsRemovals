@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47155548](https://news.social-protocols.org/stats?id=47155548) #4 55 points 44 comments -> [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)<!-- HN:47155548:end -->
 #### **Thursday, February 26, 2026**<!-- HN:47161111:start -->
 * [47161111](https://news.social-protocols.org/stats?id=47161111) #26 7 points 0 comments -> [Turns out Generative AI was a scam](https://garymarcus.substack.com/p/turns-out-generative-ai-was-a-scam)<!-- HN:47161111:end --><!-- HN:47161498:start -->
-* [47161498](https://news.social-protocols.org/stats?id=47161498) #15 32 points 40 comments -> [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)<!-- HN:47161498:end -->
+* [47161498](https://news.social-protocols.org/stats?id=47161498) #15 32 points 40 comments -> [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)<!-- HN:47161498:end --><!-- HN:47164398:start -->
+* [47164398](https://news.social-protocols.org/stats?id=47164398) #8 4 points 1 comments -> [Google API Keys Weren't Secrets. But Then Gemini Changed the Rules](https://simonwillison.net/2026/Feb/26/google-api-keys/)<!-- HN:47164398:end -->
