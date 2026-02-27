@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47165397](https://news.social-protocols.org/stats?id=47165397) #15 538 points 299 comments -> [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)<!-- HN:47165397:end -->
 #### **Friday, February 27, 2026**
 <!-- HN:47173559:start -->
-* [47173559](https://news.social-protocols.org/stats?id=47173559) #7 67 points 3 comments -> [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)<!-- HN:47173559:end -->
+* [47173559](https://news.social-protocols.org/stats?id=47173559) #7 67 points 3 comments -> [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)<!-- HN:47173559:end --><!-- HN:47175281:start -->
+* [47175281](https://news.social-protocols.org/stats?id=47175281) #7 15 points 40 comments -> [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)<!-- HN:47175281:end -->
