@@ -43,11 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, February 20, 2026**<!-- HN:47086735:start -->
-* [47086735](https://news.social-protocols.org/stats?id=47086735) #3 8 points 0 comments -> [A Primer on Terrorism, Insurgency and Protest](https://acoup.blog/2026/02/13/collections-against-the-state-a-primer-on-terrorism-insurgency-and-protest/)<!-- HN:47086735:end --><!-- HN:47086458:start -->
-* [47086458](https://news.social-protocols.org/stats?id=47086458) #14 9 points 2 comments -> [Why Developers Keep Choosing Claude over Every Other AI](https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html)<!-- HN:47086458:end --><!-- HN:47086847:start -->
-* [47086847](https://news.social-protocols.org/stats?id=47086847) #2 17 points 1 comments -> [I used Claude Code and GSD to build the accessibility tool I've always wanted](https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/)<!-- HN:47086847:end --><!-- HN:47094808:start -->
-* [47094808](https://news.social-protocols.org/stats?id=47094808) #10 6 points 2 comments -> [Nebraska company is supplying ICE with surveillance tech](https://flatwaterfreepress.org/this-nebraska-company-is-supplying-ice-with-surveillance-tech/)<!-- HN:47094808:end -->
 #### **Saturday, February 21, 2026**<!-- HN:47096044:start -->
 * [47096044](https://news.social-protocols.org/stats?id=47096044) #11 4 points 0 comments -> [Irish man detained by ICE [Update] – It's not what it seems](https://www.limerickleader.ie/news/national-news/2018902/daughter-of-man-detained-in-the-us-says-she-has-no-sympathy-whatsoever-for-her-father.html)<!-- HN:47096044:end --><!-- HN:47096210:start -->
 * [47096210](https://news.social-protocols.org/stats?id=47096210) #11 28 points 17 comments -> [Claude Code's compaction discards data that's still on disk](https://github.com/anthropics/claude-code/issues/26771)<!-- HN:47096210:end --><!-- HN:47096335:start -->
