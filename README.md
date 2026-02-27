@@ -121,4 +121,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, February 27, 2026**
 <!-- HN:47173559:start -->
 * [47173559](https://news.social-protocols.org/stats?id=47173559) #7 67 points 3 comments -> [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)<!-- HN:47173559:end --><!-- HN:47175281:start -->
-* [47175281](https://news.social-protocols.org/stats?id=47175281) #7 15 points 40 comments -> [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)<!-- HN:47175281:end -->
+* [47175281](https://news.social-protocols.org/stats?id=47175281) #7 15 points 40 comments -> [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)<!-- HN:47175281:end --><!-- HN:47120869:start -->
+* [47120869](https://news.social-protocols.org/stats?id=47120869) #21 3 points 0 comments -> [Demystifying Debuggers, Part 5: Instruction-Level Stepping and Breakpoints](https://www.dgtlgrove.com/p/demystifying-debuggers-part-5-instruction)<!-- HN:47120869:end --><!-- HN:47110159:start -->
+* [47110159](https://news.social-protocols.org/stats?id=47110159) #22 23 points 3 comments -> [Hacking Tauri for Designer](https://yujonglee.com/blog/hacking-tauri-for-designer/)<!-- HN:47110159:end --><!-- HN:47121352:start -->
+* [47121352](https://news.social-protocols.org/stats?id=47121352) #27 42 points 14 comments -> [Lidar waveforms are worth 40x128x33 words](https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html)<!-- HN:47121352:end -->
