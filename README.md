@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47184864](https://news.social-protocols.org/stats?id=47184864) #18 7 points 2 comments -> [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)<!-- HN:47184864:end -->
 #### **Saturday, February 28, 2026**
 <!-- HN:47187450:start -->
-* [47187450](https://news.social-protocols.org/stats?id=47187450) #30 11 points 10 comments -> [Show HN: I built a site where you hire yourself instead of applying for jobs](https://hired.wtf)<!-- HN:47187450:end -->
+* [47187450](https://news.social-protocols.org/stats?id=47187450) #30 11 points 10 comments -> [Show HN: I built a site where you hire yourself instead of applying for jobs](https://hired.wtf)<!-- HN:47187450:end --><!-- HN:47191237:start -->
+* [47191237](https://news.social-protocols.org/stats?id=47191237) #14 9 points 4 comments -> [Israel launches attack on Iran, defence minister says](https://www.bbc.com/news/live/cn5ge95q6y7t)<!-- HN:47191237:end -->
