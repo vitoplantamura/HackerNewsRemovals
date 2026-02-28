@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47182999](https://news.social-protocols.org/stats?id=47182999) #4 24 points 6 comments -> [Tech people keep falling for the same scam](https://explodingcomma.com/posts/tech-people-keep-falling-for-the-same-scam)<!-- HN:47182999:end --><!-- HN:47183435:start -->
 * [47183435](https://news.social-protocols.org/stats?id=47183435) #20 13 points 2 comments -> [Your Device Identity Is Probably a Liability](https://smallstep.com/blog/ncsc-zero-trust-device-identity/)<!-- HN:47183435:end --><!-- HN:47184864:start -->
 * [47184864](https://news.social-protocols.org/stats?id=47184864) #18 7 points 2 comments -> [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)<!-- HN:47184864:end -->
+#### **Saturday, February 28, 2026**
+<!-- HN:47187450:start -->
+* [47187450](https://news.social-protocols.org/stats?id=47187450) #30 11 points 10 comments -> [Show HN: I built a site where you hire yourself instead of applying for jobs](https://hired.wtf)<!-- HN:47187450:end -->
