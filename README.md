@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, February 21, 2026**<!-- HN:47096044:start -->
-* [47096044](https://news.social-protocols.org/stats?id=47096044) #11 4 points 0 comments -> [Irish man detained by ICE [Update] – It's not what it seems](https://www.limerickleader.ie/news/national-news/2018902/daughter-of-man-detained-in-the-us-says-she-has-no-sympathy-whatsoever-for-her-father.html)<!-- HN:47096044:end --><!-- HN:47096210:start -->
-* [47096210](https://news.social-protocols.org/stats?id=47096210) #11 28 points 17 comments -> [Claude Code's compaction discards data that's still on disk](https://github.com/anthropics/claude-code/issues/26771)<!-- HN:47096210:end --><!-- HN:47096335:start -->
-* [47096335](https://news.social-protocols.org/stats?id=47096335) #26 6 points 1 comments -> [Show HN: I built a 55K-word email marketing knowledge base and Claude Code skill](https://www.emailmarketingskill.com/)<!-- HN:47096335:end --><!-- HN:47047559:start -->
-* [47047559](https://news.social-protocols.org/stats?id=47047559) #19 30 points 10 comments -> [Show HN: PIrateRF – Turn a $20 Raspberry Pi Zero into a 12-mode RF transmitter](https://github.com/psyb0t/piraterf)<!-- HN:47047559:end --><!-- HN:47047936:start -->
-* [47047936](https://news.social-protocols.org/stats?id=47047936) #20 -> [The Evolution of x86 SIMD: From SSE to AVX-512](https://bgslabs.org/blog/evolution-of-x86-simd/)<!-- HN:47047936:end --><!-- HN:47099473:start -->
-* [47099473](https://news.social-protocols.org/stats?id=47099473) #6 13 points 6 comments -> [What Happened to Software Is Happening to Finance and Accounting](https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/)<!-- HN:47099473:end --><!-- HN:47101336:start -->
-* [47101336](https://news.social-protocols.org/stats?id=47101336) #3 4 points 0 comments -> [Claude Code published fabricated claims to 8 platforms over 72hrs](https://github.com/anthropics/claude-code/issues/27430)<!-- HN:47101336:end --><!-- HN:47100641:start -->
-* [47100641](https://news.social-protocols.org/stats?id=47100641) #15 10 points 5 comments -> [DJB's Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)<!-- HN:47100641:end --><!-- HN:47050699:start -->
-* [47050699](https://news.social-protocols.org/stats?id=47050699) #12 3 points 3 comments -> [I wrote about a bad paper](https://girl.surgery/bad_paper)<!-- HN:47050699:end --><!-- HN:47099160:start -->
-* [47099160](https://news.social-protocols.org/stats?id=47099160) #16 262 points 63 comments -> [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/)<!-- HN:47099160:end -->
 #### **Sunday, February 22, 2026**
 <!-- HN:47105087:start -->
 * [47105087](https://news.social-protocols.org/stats?id=47105087) #22 29 points 11 comments -> [Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)<!-- HN:47105087:end --><!-- HN:47106406:start -->
