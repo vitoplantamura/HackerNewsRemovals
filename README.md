@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47198912](https://news.social-protocols.org/stats?id=47198912) #15 208 points 46 comments -> [Techno‑Feudal Elite Are Attempting to Build a Twenty‑First‑Century Fascist State](https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/)<!-- HN:47198912:end --><!-- HN:47199665:start -->
 * [47199665](https://news.social-protocols.org/stats?id=47199665) #27 20 points 3 comments -> [BarackObama will attack Iran in order to get re-elected](https://twitter.com/realDonaldTrump/status/159377740569645056)<!-- HN:47199665:end --><!-- HN:47199389:start -->
 * [47199389](https://news.social-protocols.org/stats?id=47199389) #25 51 points 30 comments -> [Khamenei Dead](https://twitter.com/BarakRavid/status/2027830773328302396)<!-- HN:47199389:end -->
+#### **Sunday, March 1, 2026**
+<!-- HN:47201283:start -->
+* [47201283](https://news.social-protocols.org/stats?id=47201283) #7 19 points 15 comments -> [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)<!-- HN:47201283:end -->
