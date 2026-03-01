@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47199389](https://news.social-protocols.org/stats?id=47199389) #25 51 points 30 comments -> [Khamenei Dead](https://twitter.com/BarakRavid/status/2027830773328302396)<!-- HN:47199389:end -->
 #### **Sunday, March 1, 2026**
 <!-- HN:47201283:start -->
-* [47201283](https://news.social-protocols.org/stats?id=47201283) #7 19 points 15 comments -> [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)<!-- HN:47201283:end -->
+* [47201283](https://news.social-protocols.org/stats?id=47201283) #7 19 points 15 comments -> [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)<!-- HN:47201283:end --><!-- HN:47202032:start -->
+* [47202032](https://news.social-protocols.org/stats?id=47202032) #6 164 points 43 comments -> [Claude surpasses ChatGPT to become the #1 app on the US App Store](https://apps.apple.com/us/iphone/charts)<!-- HN:47202032:end -->
