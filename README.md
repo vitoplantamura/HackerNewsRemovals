@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, February 22, 2026**
-<!-- HN:47105087:start -->
-* [47105087](https://news.social-protocols.org/stats?id=47105087) #22 29 points 11 comments -> [Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)<!-- HN:47105087:end --><!-- HN:47106406:start -->
-* [47106406](https://news.social-protocols.org/stats?id=47106406) #8 -> [Who's liable when your AI agent burns down production?](https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051)<!-- HN:47106406:end --><!-- HN:47107367:start -->
-* [47107367](https://news.social-protocols.org/stats?id=47107367) #11 5 points 2 comments -> [Why every AI video tool feels broke](https://www.openslop.ai/blog/why-every-ai-video-tool-feels-broken)<!-- HN:47107367:end --><!-- HN:47107512:start -->
-* [47107512](https://news.social-protocols.org/stats?id=47107512) #11 63 points 38 comments -> [Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive](https://github.com/Leading-AI-IO/palantir-ontology-strategy)<!-- HN:47107512:end --><!-- HN:47108538:start -->
-* [47108538](https://news.social-protocols.org/stats?id=47108538) #10 52 points 13 comments -> [U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974](https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/)<!-- HN:47108538:end --><!-- HN:47110362:start -->
-* [47110362](https://news.social-protocols.org/stats?id=47110362) #19 21 points 6 comments -> [Porkbun sells out – Starts requiring Age ID despite no legal requirement](https://kb.porkbun.com/article/225-why-porkbun-id-verification)<!-- HN:47110362:end --><!-- HN:47110310:start -->
-* [47110310](https://news.social-protocols.org/stats?id=47110310) #7 40 points 34 comments -> [Postgres Is Your Friend. ORM Is Not](https://hypha.pub/postgres-is-your-friend-orm-is-not)<!-- HN:47110310:end --><!-- HN:47112633:start -->
-* [47112633](https://news.social-protocols.org/stats?id=47112633) #10 28 points 41 comments -> [Altman on AI energy: it also takes 20 years of eating food to train a human](https://old.reddit.com/r/singularity/comments/1rb2pzf/sam_altman_people_talk_about_how_much_energy_it/)<!-- HN:47112633:end --><!-- HN:47113883:start -->
-* [47113883](https://news.social-protocols.org/stats?id=47113883) #7 8 points 5 comments -> [Green Lumber Fallacy in Software Engineering](https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software)<!-- HN:47113883:end -->
 #### **Monday, February 23, 2026**
 <!-- HN:47046124:start -->
 * [47046124](https://news.social-protocols.org/stats?id=47046124) #14 13 points 0 comments -> [Browse Code by Meaning](https://haskellforall.com/2026/02/browse-code-by-meaning)<!-- HN:47046124:end --><!-- HN:47046433:start -->
