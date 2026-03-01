@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47201283:start -->
 * [47201283](https://news.social-protocols.org/stats?id=47201283) #7 19 points 15 comments -> [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)<!-- HN:47201283:end --><!-- HN:47202032:start -->
 * [47202032](https://news.social-protocols.org/stats?id=47202032) #6 164 points 43 comments -> [Claude surpasses ChatGPT to become the #1 app on the US App Store](https://apps.apple.com/us/iphone/charts)<!-- HN:47202032:end --><!-- HN:47202044:start -->
-* [47202044](https://news.social-protocols.org/stats?id=47202044) #30 10 points 0 comments -> [War Is a Racket (Maj. Gen. Smedley Butler, USMC)](https://archive.org/details/WarIsARacket)<!-- HN:47202044:end -->
+* [47202044](https://news.social-protocols.org/stats?id=47202044) #30 10 points 0 comments -> [War Is a Racket (Maj. Gen. Smedley Butler, USMC)](https://archive.org/details/WarIsARacket)<!-- HN:47202044:end --><!-- HN:47200342:start -->
+* [47200342](https://news.social-protocols.org/stats?id=47200342) #3 208 points 76 comments -> [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)<!-- HN:47200342:end -->
