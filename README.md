@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 2, 2026**
 <!-- HN:47211112:start -->
 * [47211112](https://news.social-protocols.org/stats?id=47211112) #22 49 points 31 comments -> [Big Breakfast Alters Appetite, Gut Health](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA)<!-- HN:47211112:end --><!-- HN:47142183:start -->
-* [47142183](https://news.social-protocols.org/stats?id=47142183) #2 453 points 237 comments -> [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)<!-- HN:47142183:end -->
+* [47142183](https://news.social-protocols.org/stats?id=47142183) #2 453 points 237 comments -> [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)<!-- HN:47142183:end --><!-- HN:47213081:start -->
+* [47213081](https://news.social-protocols.org/stats?id=47213081) #29 8 points 1 comments -> [We will sacrifice quality for convenience](https://twitter.com/backnotprop/status/2028293637373841759)<!-- HN:47213081:end -->
