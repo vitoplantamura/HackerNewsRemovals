@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47216589](https://news.social-protocols.org/stats?id=47216589) #24 -> [Robert F Kennedy Jr: 1 year of failure](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2826%2900414-9)<!-- HN:47216589:end --><!-- HN:47216765:start -->
 * [47216765](https://news.social-protocols.org/stats?id=47216765) #8 69 points 26 comments -> [Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/)<!-- HN:47216765:end --><!-- HN:47220057:start -->
 * [47220057](https://news.social-protocols.org/stats?id=47220057) #27 6 points 1 comments -> [Show HN: I turned Claude Code into a personal assistant](https://github.com/daxaur/openpaw)<!-- HN:47220057:end -->
+#### **Tuesday, March 3, 2026**
+<!-- HN:47225826:start -->
+* [47225826](https://news.social-protocols.org/stats?id=47225826) #16 8 points 3 comments -> [Astro and Svelte: Why I believe they're the future of web development](https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/)<!-- HN:47225826:end -->
