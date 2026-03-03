@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47220057](https://news.social-protocols.org/stats?id=47220057) #27 6 points 1 comments -> [Show HN: I turned Claude Code into a personal assistant](https://github.com/daxaur/openpaw)<!-- HN:47220057:end -->
 #### **Tuesday, March 3, 2026**
 <!-- HN:47225826:start -->
-* [47225826](https://news.social-protocols.org/stats?id=47225826) #16 8 points 3 comments -> [Astro and Svelte: Why I believe they're the future of web development](https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/)<!-- HN:47225826:end -->
+* [47225826](https://news.social-protocols.org/stats?id=47225826) #16 8 points 3 comments -> [Astro and Svelte: Why I believe they're the future of web development](https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/)<!-- HN:47225826:end --><!-- HN:47227329:start -->
+* [47227329](https://news.social-protocols.org/stats?id=47227329) #20 42 points 19 comments -> [224k Publicly Exposed OpenClaw Instances](https://openclaw.allegro.earth/)<!-- HN:47227329:end -->
