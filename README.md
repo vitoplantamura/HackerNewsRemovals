@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, February 24, 2026**
-<!-- HN:47131219:start -->
-* [47131219](https://news.social-protocols.org/stats?id=47131219) #27 13 points 20 comments -> [Psychology suggests making a shopping list is a sign of sharper thinking](https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr)<!-- HN:47131219:end --><!-- HN:47132012:start -->
-* [47132012](https://news.social-protocols.org/stats?id=47132012) #30 8 points 4 comments -> [Dow tumbles more than 800 points as tariff uncertainty and AI disruption fears](https://www.cnn.com/2026/02/23/investing/us-stocks-trump-tariffs)<!-- HN:47132012:end --><!-- HN:47084622:start -->
-* [47084622](https://news.social-protocols.org/stats?id=47084622) #8 10 points 4 comments -> [GPU Rack Power Density, 2015–2025](https://syaala.com/blog/gpu-rack-density-timeline-2026)<!-- HN:47084622:end --><!-- HN:47132001:start -->
-* [47132001](https://news.social-protocols.org/stats?id=47132001) #13 16 points 3 comments -> [I Turned Off ChatGPT's Memory](https://every.to/also-true-for-humans/why-i-turned-off-chatgpt-s-memory)<!-- HN:47132001:end --><!-- HN:47134063:start -->
-* [47134063](https://news.social-protocols.org/stats?id=47134063) #3 20 points 4 comments -> [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)<!-- HN:47134063:end --><!-- HN:47079208:start -->
-* [47079208](https://news.social-protocols.org/stats?id=47079208) #10 86 points 22 comments -> [Baby chicks pass the bouba-kiki test, challenging a theory of language evolution](https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/)<!-- HN:47079208:end --><!-- HN:47124325:start -->
-* [47124325](https://news.social-protocols.org/stats?id=47124325) #30 110 points 27 comments -> [C99 implementation of new O(m log^(2/3) n) shortest path algorithm](https://github.com/danalec/DMMSY-SSSP)<!-- HN:47124325:end --><!-- HN:47136553:start -->
-* [47136553](https://news.social-protocols.org/stats?id=47136553) #2 33 points 19 comments -> [Show HN: SNKV – SQLite's B-tree as a key-value store (C/C++ and Python bindings)](https://github.com/hash-anu/snkv)<!-- HN:47136553:end --><!-- HN:47137907:start -->
-* [47137907](https://news.social-protocols.org/stats?id=47137907) #30 9 points 2 comments -> [Trump Fake Electors Plot](https://en.wikipedia.org/wiki/Trump_fake_electors_plot)<!-- HN:47137907:end --><!-- HN:47139916:start -->
-* [47139916](https://news.social-protocols.org/stats?id=47139916) #15 4 points 3 comments -> [Will the U.S. confirm that aliens exist before 2027? (27%)](https://kalshi.com/markets/kxaliens/aliens/kxaliens-27)<!-- HN:47139916:end --><!-- HN:47090261:start -->
-* [47090261](https://news.social-protocols.org/stats?id=47090261) #21 11 points 0 comments -> [The 7-Year Bug That Took 3 Minutes to Fix](https://agilitza.com/blog/the-7-year-bug-that-took-3-minutes-to-fix/)<!-- HN:47090261:end --><!-- HN:47088711:start -->
-* [47088711](https://news.social-protocols.org/stats?id=47088711) #23 6 points 1 comments -> [Variable interpolatable smooth curves and outlines](https://thottingal.in/blog/2026/02/20/var-interpolatable-smooth-curves/)<!-- HN:47088711:end -->
 #### **Wednesday, February 25, 2026**
 <!-- HN:47145640:start -->
 * [47145640](https://news.social-protocols.org/stats?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end --><!-- HN:47077215:start -->
