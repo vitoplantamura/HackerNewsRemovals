@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 3, 2026**
 <!-- HN:47225826:start -->
 * [47225826](https://news.social-protocols.org/stats?id=47225826) #16 8 points 3 comments -> [Astro and Svelte: Why I believe they're the future of web development](https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/)<!-- HN:47225826:end --><!-- HN:47227329:start -->
-* [47227329](https://news.social-protocols.org/stats?id=47227329) #20 42 points 19 comments -> [224k Publicly Exposed OpenClaw Instances](https://openclaw.allegro.earth/)<!-- HN:47227329:end -->
+* [47227329](https://news.social-protocols.org/stats?id=47227329) #20 42 points 19 comments -> [224k Publicly Exposed OpenClaw Instances](https://openclaw.allegro.earth/)<!-- HN:47227329:end --><!-- HN:47227647:start -->
+* [47227647](https://news.social-protocols.org/stats?id=47227647) #26 49 points 41 comments -> [Elevated Errors in Claude.ai](https://status.claude.com/incidents/yf48hzysrvl5)<!-- HN:47227647:end -->
