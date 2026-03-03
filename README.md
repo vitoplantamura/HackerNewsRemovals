@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47225826:start -->
 * [47225826](https://news.social-protocols.org/stats?id=47225826) #16 8 points 3 comments -> [Astro and Svelte: Why I believe they're the future of web development](https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/)<!-- HN:47225826:end --><!-- HN:47227329:start -->
 * [47227329](https://news.social-protocols.org/stats?id=47227329) #20 42 points 19 comments -> [224k Publicly Exposed OpenClaw Instances](https://openclaw.allegro.earth/)<!-- HN:47227329:end --><!-- HN:47185594:start -->
-* [47185594](https://news.social-protocols.org/stats?id=47185594) #19 3 points 0 comments -> [It's Time for LLM Connection Strings](https://danlevy.net/llm-connection-strings/)<!-- HN:47185594:end -->
+* [47185594](https://news.social-protocols.org/stats?id=47185594) #19 3 points 0 comments -> [It's Time for LLM Connection Strings](https://danlevy.net/llm-connection-strings/)<!-- HN:47185594:end --><!-- HN:47230861:start -->
+* [47230861](https://news.social-protocols.org/stats?id=47230861) #5 7 points 4 comments -> [The term 'Blood Moon' wasn't invented until 2013 (2014)](https://www.kelleycom.com/blood-moon/)<!-- HN:47230861:end -->
