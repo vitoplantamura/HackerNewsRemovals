@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47236858](https://news.social-protocols.org/stats?id=47236858) #8 62 points 24 comments -> [Fire the CEO, Introducing the AxO's](https://boringops.sh/articles/fire_the_ceo/)<!-- HN:47236858:end --><!-- HN:47240158:start -->
 * [47240158](https://news.social-protocols.org/stats?id=47240158) #10 22 points 12 comments -> [Zed will require age identification for its services](https://zed.dev/terms#21-eligibility)<!-- HN:47240158:end --><!-- HN:47238255:start -->
 * [47238255](https://news.social-protocols.org/stats?id=47238255) #30 13 points 2 comments -> [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)<!-- HN:47238255:end -->
+#### **Wednesday, March 4, 2026**
+<!-- HN:47242271:start -->
+* [47242271](https://news.social-protocols.org/stats?id=47242271) #5 6 points 0 comments -> [OpenClaw Partners with VirusTotal for Skill Security](https://openclaw.ai/blog/virustotal-partnership)<!-- HN:47242271:end -->
