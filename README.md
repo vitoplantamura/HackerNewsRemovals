@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, February 25, 2026**
-<!-- HN:47145640:start -->
-* [47145640](https://news.social-protocols.org/stats?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end --><!-- HN:47077215:start -->
-* [47077215](https://news.social-protocols.org/stats?id=47077215) #7 96 points 41 comments -> [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)<!-- HN:47077215:end --><!-- HN:47149811:start -->
-* [47149811](https://news.social-protocols.org/stats?id=47149811) #4 16 points 2 comments -> [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)<!-- HN:47149811:end --><!-- HN:47154011:start -->
-* [47154011](https://news.social-protocols.org/stats?id=47154011) #3 62 points 1 comments -> [Large-scale online deanonymization with LLMs (using HN posts)](https://arxiv.org/abs/2602.16800)<!-- HN:47154011:end --><!-- HN:47155385:start -->
-* [47155385](https://news.social-protocols.org/stats?id=47155385) #21 3 points 0 comments -> [Disabled woman put in nursing home against her will says she feels 'betrayed'](https://www.bbc.com/news/articles/czj1ndzz9xyo)<!-- HN:47155385:end --><!-- HN:47155548:start -->
-* [47155548](https://news.social-protocols.org/stats?id=47155548) #4 55 points 44 comments -> [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)<!-- HN:47155548:end -->
 #### **Thursday, February 26, 2026**<!-- HN:47161111:start -->
 * [47161111](https://news.social-protocols.org/stats?id=47161111) #26 7 points 0 comments -> [Turns out Generative AI was a scam](https://garymarcus.substack.com/p/turns-out-generative-ai-was-a-scam)<!-- HN:47161111:end --><!-- HN:47161498:start -->
 * [47161498](https://news.social-protocols.org/stats?id=47161498) #15 32 points 40 comments -> [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)<!-- HN:47161498:end --><!-- HN:47164398:start -->

@@ -296,3 +296,11 @@
 * [47139916](https://news.ycombinator.com/item?id=47139916) #15 4 points 3 comments -> [Will the U.S. confirm that aliens exist before 2027? (27%)](https://kalshi.com/markets/kxaliens/aliens/kxaliens-27)<!-- HN:47139916:end --><!-- HN:47090261:start -->
 * [47090261](https://news.ycombinator.com/item?id=47090261) #21 11 points 0 comments -> [The 7-Year Bug That Took 3 Minutes to Fix](https://agilitza.com/blog/the-7-year-bug-that-took-3-minutes-to-fix/)<!-- HN:47090261:end --><!-- HN:47088711:start -->
 * [47088711](https://news.ycombinator.com/item?id=47088711) #23 6 points 1 comments -> [Variable interpolatable smooth curves and outlines](https://thottingal.in/blog/2026/02/20/var-interpolatable-smooth-curves/)<!-- HN:47088711:end -->
+#### **Wednesday, February 25, 2026**
+<!-- HN:47145640:start -->
+* [47145640](https://news.ycombinator.com/item?id=47145640) #12 6 points 0 comments -> [Democracy in 2025: on rising authoritarianism in the United States](https://www.hks.harvard.edu/faculty-research/policy-topics/democracy-governance/harvard-experts-discuss-competitive)<!-- HN:47145640:end --><!-- HN:47077215:start -->
+* [47077215](https://news.ycombinator.com/item?id=47077215) #7 96 points 41 comments -> [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)<!-- HN:47077215:end --><!-- HN:47149811:start -->
+* [47149811](https://news.ycombinator.com/item?id=47149811) #4 16 points 2 comments -> [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)<!-- HN:47149811:end --><!-- HN:47154011:start -->
+* [47154011](https://news.ycombinator.com/item?id=47154011) #3 62 points 1 comments -> [Large-scale online deanonymization with LLMs (using HN posts)](https://arxiv.org/abs/2602.16800)<!-- HN:47154011:end --><!-- HN:47155385:start -->
+* [47155385](https://news.ycombinator.com/item?id=47155385) #21 3 points 0 comments -> [Disabled woman put in nursing home against her will says she feels 'betrayed'](https://www.bbc.com/news/articles/czj1ndzz9xyo)<!-- HN:47155385:end --><!-- HN:47155548:start -->
+* [47155548](https://news.ycombinator.com/item?id=47155548) #4 55 points 44 comments -> [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)<!-- HN:47155548:end -->
