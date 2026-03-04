@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47238255](https://news.social-protocols.org/stats?id=47238255) #30 13 points 2 comments -> [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)<!-- HN:47238255:end -->
 #### **Wednesday, March 4, 2026**
 <!-- HN:47242271:start -->
-* [47242271](https://news.social-protocols.org/stats?id=47242271) #5 6 points 0 comments -> [OpenClaw Partners with VirusTotal for Skill Security](https://openclaw.ai/blog/virustotal-partnership)<!-- HN:47242271:end -->
+* [47242271](https://news.social-protocols.org/stats?id=47242271) #5 6 points 0 comments -> [OpenClaw Partners with VirusTotal for Skill Security](https://openclaw.ai/blog/virustotal-partnership)<!-- HN:47242271:end --><!-- HN:47242567:start -->
+* [47242567](https://news.social-protocols.org/stats?id=47242567) #3 27 points 14 comments -> [Just Send the Prompt](https://justsendtheprompt.com/)<!-- HN:47242567:end -->
