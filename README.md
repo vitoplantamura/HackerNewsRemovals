@@ -121,5 +121,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47242271:start -->
 * [47242271](https://news.social-protocols.org/stats?id=47242271) #5 6 points 0 comments -> [OpenClaw Partners with VirusTotal for Skill Security](https://openclaw.ai/blog/virustotal-partnership)<!-- HN:47242271:end --><!-- HN:47242567:start -->
 * [47242567](https://news.social-protocols.org/stats?id=47242567) #3 27 points 14 comments -> [Just Send the Prompt](https://justsendtheprompt.com/)<!-- HN:47242567:end --><!-- HN:47242496:start -->
-* [47242496](https://news.social-protocols.org/stats?id=47242496) #30 16 points 4 comments -> [CIA working to arm Kurdish forces to spark uprising in Iran, sources say](https://www.cnn.com/2026/03/03/politics/cia-arming-kurds-iran)<!-- HN:47242496:end --><!-- HN:47240736:start -->
-* [47240736](https://news.social-protocols.org/stats?id=47240736) #22 41 points 40 comments -> [My take on vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)<!-- HN:47240736:end -->
+* [47242496](https://news.social-protocols.org/stats?id=47242496) #30 16 points 4 comments -> [CIA working to arm Kurdish forces to spark uprising in Iran, sources say](https://www.cnn.com/2026/03/03/politics/cia-arming-kurds-iran)<!-- HN:47242496:end -->
