@@ -120,5 +120,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47255296](https://news.social-protocols.org/stats?id=47255296) #15 9 points 1 comments -> [Show HN: I built a tool that checks if your ISP is spying on you](https://ismyispspying.com)<!-- HN:47255296:end --><!-- HN:47254624:start -->
 * [47254624](https://news.social-protocols.org/stats?id=47254624) #16 12 points 9 comments -> [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)<!-- HN:47254624:end -->
 #### **Thursday, March 5, 2026**
-<!-- HN:47255310:start -->
-* [47255310](https://news.social-protocols.org/stats?id=47255310) #19 9 points 1 comments -> [Depleted weapons stockpiles could affect the Iran conflict](https://www.bbc.com/news/articles/cdxzzqe82d2o)<!-- HN:47255310:end -->
