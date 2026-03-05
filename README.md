@@ -125,4 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47261418](https://news.social-protocols.org/stats?id=47261418) #23 15 points 6 comments -> [Unix Isn't for Agents](https://pwhite.org/unix-is-not-for-agents)<!-- HN:47261418:end --><!-- HN:47263825:start -->
 * [47263825](https://news.social-protocols.org/stats?id=47263825) #11 29 points 13 comments -> [GitHub Actions is shitting the bed again](https://www.githubstatus.com/incidents/g5gnt5l5hf56)<!-- HN:47263825:end --><!-- HN:47263069:start -->
 * [47263069](https://news.social-protocols.org/stats?id=47263069) #21 43 points 19 comments -> [Apple: Enough Is Enough](https://bastibe.de/2026-03-05-apple-woes.html)<!-- HN:47263069:end --><!-- HN:47265005:start -->
-* [47265005](https://news.social-protocols.org/stats?id=47265005) #25 151 points 57 comments -> [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)<!-- HN:47265005:end -->
+* [47265005](https://news.social-protocols.org/stats?id=47265005) #25 151 points 57 comments -> [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)<!-- HN:47265005:end --><!-- HN:47265089:start -->
+* [47265089](https://news.social-protocols.org/stats?id=47265089) #21 90 points 2 comments -> [GPT-5.4 Thinking and GPT-5.4 Pro](https://twitter.com/i/status/2029620619743219811)<!-- HN:47265089:end --><!-- HN:47265150:start -->
+* [47265150](https://news.social-protocols.org/stats?id=47265150) #25 61 points 11 comments -> [GPT 5.4 Thinking and Pro](https://twitter.com/OpenAI/status/2029620619743219811)<!-- HN:47265150:end -->
