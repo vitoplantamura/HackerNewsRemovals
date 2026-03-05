@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47255296](https://news.social-protocols.org/stats?id=47255296) #15 9 points 1 comments -> [Show HN: I built a tool that checks if your ISP is spying on you](https://ismyispspying.com)<!-- HN:47255296:end --><!-- HN:47254624:start -->
 * [47254624](https://news.social-protocols.org/stats?id=47254624) #16 12 points 9 comments -> [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)<!-- HN:47254624:end -->
 #### **Thursday, March 5, 2026**<!-- HN:47256790:start -->
-* [47256790](https://news.social-protocols.org/stats?id=47256790) #4 -> [I left work early to get a hug from my wife](https://rxa.me/why/)<!-- HN:47256790:end -->
+* [47256790](https://news.social-protocols.org/stats?id=47256790) #4 -> [I left work early to get a hug from my wife](https://rxa.me/why/)<!-- HN:47256790:end --><!-- HN:47256105:start -->
+* [47256105](https://news.social-protocols.org/stats?id=47256105) #10 30 points 40 comments -> [What's Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/)<!-- HN:47256105:end -->
