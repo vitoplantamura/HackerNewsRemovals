@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, February 26, 2026**<!-- HN:47161111:start -->
-* [47161111](https://news.social-protocols.org/stats?id=47161111) #26 7 points 0 comments -> [Turns out Generative AI was a scam](https://garymarcus.substack.com/p/turns-out-generative-ai-was-a-scam)<!-- HN:47161111:end --><!-- HN:47161498:start -->
-* [47161498](https://news.social-protocols.org/stats?id=47161498) #15 32 points 40 comments -> [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)<!-- HN:47161498:end --><!-- HN:47164398:start -->
-* [47164398](https://news.social-protocols.org/stats?id=47164398) #8 4 points 1 comments -> [Google API Keys Weren't Secrets. But Then Gemini Changed the Rules](https://simonwillison.net/2026/Feb/26/google-api-keys/)<!-- HN:47164398:end --><!-- HN:47164079:start -->
-* [47164079](https://news.social-protocols.org/stats?id=47164079) #14 34 points 35 comments -> [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)<!-- HN:47164079:end --><!-- HN:47166522:start -->
-* [47166522](https://news.social-protocols.org/stats?id=47166522) #20 6 points 0 comments -> [Kansas Sends Letters to Trans People Demanding the Surrender of Drivers Licenses](https://www.erininthemorning.com/p/kansas-sends-letters-to-trans-people)<!-- HN:47166522:end --><!-- HN:47167649:start -->
-* [47167649](https://news.social-protocols.org/stats?id=47167649) #21 10 points 1 comments -> [Apple Launch on Monday](https://twitter.com/tim_cook/status/2027020842396475410)<!-- HN:47167649:end --><!-- HN:47168343:start -->
-* [47168343](https://news.social-protocols.org/stats?id=47168343) #24 17 points 13 comments -> [How AI skills are quietly automating my workday](https://medium.com/@ricardskrizanovskis/how-ai-skills-are-quietly-automating-my-workday-220a1b7b4707)<!-- HN:47168343:end --><!-- HN:47122272:start -->
-* [47122272](https://news.social-protocols.org/stats?id=47122272) #13 16 points 19 comments -> [Better to Skip a Year for Hardware Upgrades?](https://boilingsteam.com/poll-better-to-skip-a-year-for-pc-upgrades/)<!-- HN:47122272:end --><!-- HN:47106275:start -->
-* [47106275](https://news.social-protocols.org/stats?id=47106275) #30 41 points 36 comments -> [Those who can, teach history](https://www.historytoday.com/archive/making-history/those-who-can-teach-history)<!-- HN:47106275:end --><!-- HN:47165397:start -->
-* [47165397](https://news.social-protocols.org/stats?id=47165397) #15 538 points 299 comments -> [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)<!-- HN:47165397:end -->
 #### **Friday, February 27, 2026**
 <!-- HN:47173559:start -->
 * [47173559](https://news.social-protocols.org/stats?id=47173559) #7 67 points 3 comments -> [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)<!-- HN:47173559:end --><!-- HN:47120869:start -->
