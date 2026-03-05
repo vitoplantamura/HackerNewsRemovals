@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47246110](https://news.social-protocols.org/stats?id=47246110) #3 816 points 455 comments -> [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)<!-- HN:47246110:end --><!-- HN:47255296:start -->
 * [47255296](https://news.social-protocols.org/stats?id=47255296) #15 9 points 1 comments -> [Show HN: I built a tool that checks if your ISP is spying on you](https://ismyispspying.com)<!-- HN:47255296:end --><!-- HN:47254624:start -->
 * [47254624](https://news.social-protocols.org/stats?id=47254624) #16 12 points 9 comments -> [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)<!-- HN:47254624:end -->
-#### **Thursday, March 5, 2026**
+#### **Thursday, March 5, 2026**<!-- HN:47256790:start -->
+* [47256790](https://news.social-protocols.org/stats?id=47256790) #4 -> [I left work early to get a hug from my wife](https://rxa.me/why/)<!-- HN:47256790:end -->
