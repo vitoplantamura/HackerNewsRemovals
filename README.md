@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47265150](https://news.social-protocols.org/stats?id=47265150) #25 61 points 11 comments -> [GPT 5.4 Thinking and Pro](https://twitter.com/OpenAI/status/2029620619743219811)<!-- HN:47265150:end --><!-- HN:47264341:start -->
 * [47264341](https://news.social-protocols.org/stats?id=47264341) #21 271 points 110 comments -> [The Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)<!-- HN:47264341:end --><!-- HN:47266944:start -->
 * [47266944](https://news.social-protocols.org/stats?id=47266944) #30 12 points 1 comments -> [As AI Turns Prevalent, UI Becomes Irrelevant](https://www.star-history.com/blog/ai-ui-irrelevant)<!-- HN:47266944:end -->
+#### **Friday, March 6, 2026**
+<!-- HN:47202360:start -->
+* [47202360](https://news.social-protocols.org/stats?id=47202360) #11 -> [The Mystery of Skype](https://clevcode.org/the-mystery-of-skype/)<!-- HN:47202360:end -->
