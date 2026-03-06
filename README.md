@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, February 27, 2026**
-<!-- HN:47173559:start -->
-* [47173559](https://news.social-protocols.org/stats?id=47173559) #7 67 points 3 comments -> [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)<!-- HN:47173559:end --><!-- HN:47120869:start -->
-* [47120869](https://news.social-protocols.org/stats?id=47120869) #21 3 points 0 comments -> [Demystifying Debuggers, Part 5: Instruction-Level Stepping and Breakpoints](https://www.dgtlgrove.com/p/demystifying-debuggers-part-5-instruction)<!-- HN:47120869:end --><!-- HN:47110159:start -->
-* [47110159](https://news.social-protocols.org/stats?id=47110159) #22 23 points 3 comments -> [Hacking Tauri for Designer](https://yujonglee.com/blog/hacking-tauri-for-designer/)<!-- HN:47110159:end --><!-- HN:47121352:start -->
-* [47121352](https://news.social-protocols.org/stats?id=47121352) #27 42 points 14 comments -> [Lidar waveforms are worth 40x128x33 words](https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html)<!-- HN:47121352:end --><!-- HN:47178062:start -->
-* [47178062](https://news.social-protocols.org/stats?id=47178062) #30 5 points 0 comments -> [Firefox's AI Kill Switch Is a Trap: How Mozilla Made AI Your Problem](https://www.quippd.com/writing/2026/02/09/firefoxs-ai-kill-switch-is-a-trap-how-mozilla-made-ai-your-problem.html)<!-- HN:47178062:end --><!-- HN:47167460:start -->
-* [47167460](https://news.social-protocols.org/stats?id=47167460) #4 -> [Show HN: Rynko Playground – 400ms JSON-to-PDF and Excel Engine](https://app.rynko.dev/playground)<!-- HN:47167460:end --><!-- HN:47182999:start -->
-* [47182999](https://news.social-protocols.org/stats?id=47182999) #4 24 points 6 comments -> [Tech people keep falling for the same scam](https://explodingcomma.com/posts/tech-people-keep-falling-for-the-same-scam)<!-- HN:47182999:end --><!-- HN:47183435:start -->
-* [47183435](https://news.social-protocols.org/stats?id=47183435) #20 13 points 2 comments -> [Your Device Identity Is Probably a Liability](https://smallstep.com/blog/ncsc-zero-trust-device-identity/)<!-- HN:47183435:end --><!-- HN:47184864:start -->
-* [47184864](https://news.social-protocols.org/stats?id=47184864) #18 7 points 2 comments -> [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)<!-- HN:47184864:end -->
 #### **Saturday, February 28, 2026**
 <!-- HN:47187450:start -->
 * [47187450](https://news.social-protocols.org/stats?id=47187450) #30 11 points 10 comments -> [Show HN: I built a site where you hire yourself instead of applying for jobs](https://hired.wtf)<!-- HN:47187450:end --><!-- HN:47191237:start -->
