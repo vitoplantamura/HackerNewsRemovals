@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, March 6, 2026**
 <!-- HN:47202360:start -->
 * [47202360](https://news.social-protocols.org/stats?id=47202360) #11 -> [The Mystery of Skype](https://clevcode.org/the-mystery-of-skype/)<!-- HN:47202360:end --><!-- HN:47273964:start -->
-* [47273964](https://news.social-protocols.org/stats?id=47273964) #15 36 points 41 comments -> [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)<!-- HN:47273964:end -->
+* [47273964](https://news.social-protocols.org/stats?id=47273964) #15 36 points 41 comments -> [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)<!-- HN:47273964:end --><!-- HN:47276399:start -->
+* [47276399](https://news.social-protocols.org/stats?id=47276399) #22 11 points 1 comments -> [United Airlines says it will boot passengers who refuse to use headphones](https://www.nbcnews.com/business/business-news/united-boot-passengers-dont-use-headphones-rcna261908)<!-- HN:47276399:end -->
