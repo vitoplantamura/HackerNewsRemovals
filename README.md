@@ -121,5 +121,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47266944](https://news.social-protocols.org/stats?id=47266944) #30 12 points 1 comments -> [As AI Turns Prevalent, UI Becomes Irrelevant](https://www.star-history.com/blog/ai-ui-irrelevant)<!-- HN:47266944:end -->
 #### **Friday, March 6, 2026**
 <!-- HN:47202360:start -->
-* [47202360](https://news.social-protocols.org/stats?id=47202360) #11 -> [The Mystery of Skype](https://clevcode.org/the-mystery-of-skype/)<!-- HN:47202360:end --><!-- HN:47273845:start -->
-* [47273845](https://news.social-protocols.org/stats?id=47273845) #6 11 points 3 comments -> [Async Programming Is Just Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)<!-- HN:47273845:end -->
+* [47202360](https://news.social-protocols.org/stats?id=47202360) #11 -> [The Mystery of Skype](https://clevcode.org/the-mystery-of-skype/)<!-- HN:47202360:end -->
