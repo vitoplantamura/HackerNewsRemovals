@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47219462](https://news.social-protocols.org/stats?id=47219462) #9 210 points 101 comments -> [Open Camera is a FOSS Camera App for Android](https://opencamera.org.uk/)<!-- HN:47219462:end --><!-- HN:47206990:start -->
 * [47206990](https://news.social-protocols.org/stats?id=47206990) #10 83 points 6 comments -> [Apache Otava](https://otava.apache.org/)<!-- HN:47206990:end --><!-- HN:47220411:start -->
 * [47220411](https://news.social-protocols.org/stats?id=47220411) #15 307 points 67 comments -> [Payphone Go](https://walzr.com/payphone-go/)<!-- HN:47220411:end --><!-- HN:47215112:start -->
-* [47215112](https://news.social-protocols.org/stats?id=47215112) #17 51 points 9 comments -> [Triplet Superconductor](https://www.sciencedaily.com/releases/2026/02/260221000252.htm)<!-- HN:47215112:end -->
+* [47215112](https://news.social-protocols.org/stats?id=47215112) #17 51 points 9 comments -> [Triplet Superconductor](https://www.sciencedaily.com/releases/2026/02/260221000252.htm)<!-- HN:47215112:end --><!-- HN:47284114:start -->
+* [47284114](https://news.social-protocols.org/stats?id=47284114) #13 42 points 9 comments -> [AI and the Illegal War](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)<!-- HN:47284114:end -->
