@@ -113,3 +113,10 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47277134](https://news.social-protocols.org/stats?id=47277134) #7 -> [Cursor Is Dead – How a $29B company became obsolete in under three years](https://www.permissionprotocol.com/blog/cursor-is-dead.html)<!-- HN:47277134:end --><!-- HN:47196525:start -->
 * [47196525](https://news.social-protocols.org/stats?id=47196525) #11 27 points 1 comments -> ["Our programs are fun to use" – Beagle Bros](https://unsung.aresluna.org/our-programs-are-fun-to-use/)<!-- HN:47196525:end --><!-- HN:47282060:start -->
 * [47282060](https://news.social-protocols.org/stats?id=47282060) #2 10 points 2 comments -> [Wild Crows in Sweden Help Clean Up Cigarette Butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)<!-- HN:47282060:end -->
+#### **Saturday, March 7, 2026**
+<!-- HN:47214708:start -->
+* [47214708](https://news.social-protocols.org/stats?id=47214708) #5 53 points 17 comments -> [Math Notepad](https://mathnotepad.com)<!-- HN:47214708:end --><!-- HN:47219462:start -->
+* [47219462](https://news.social-protocols.org/stats?id=47219462) #9 210 points 101 comments -> [Open Camera is a FOSS Camera App for Android](https://opencamera.org.uk/)<!-- HN:47219462:end --><!-- HN:47206990:start -->
+* [47206990](https://news.social-protocols.org/stats?id=47206990) #10 83 points 6 comments -> [Apache Otava](https://otava.apache.org/)<!-- HN:47206990:end --><!-- HN:47220411:start -->
+* [47220411](https://news.social-protocols.org/stats?id=47220411) #15 307 points 67 comments -> [Payphone Go](https://walzr.com/payphone-go/)<!-- HN:47220411:end --><!-- HN:47215112:start -->
+* [47215112](https://news.social-protocols.org/stats?id=47215112) #17 51 points 9 comments -> [Triplet Superconductor](https://www.sciencedaily.com/releases/2026/02/260221000252.htm)<!-- HN:47215112:end -->
