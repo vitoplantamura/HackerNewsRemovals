@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 8, 2026**
 <!-- HN:47292849:start -->
 * [47292849](https://news.social-protocols.org/stats?id=47292849) #29 11 points 1 comments -> [Patel gutted FBI counterintelligence team tasked with tracking Iranian threats](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran)<!-- HN:47292849:end --><!-- HN:47291834:start -->
-* [47291834](https://news.social-protocols.org/stats?id=47291834) #21 93 points 64 comments -> [$3T flows through U.S. nonprofits every year](https://charitysense.com/insights/the-3-trillion-blind-spot)<!-- HN:47291834:end -->
+* [47291834](https://news.social-protocols.org/stats?id=47291834) #21 93 points 64 comments -> [$3T flows through U.S. nonprofits every year](https://charitysense.com/insights/the-3-trillion-blind-spot)<!-- HN:47291834:end --><!-- HN:47292841:start -->
+* [47292841](https://news.social-protocols.org/stats?id=47292841) #17 24 points 31 comments -> [Ghostmd: Ghostty but for Markdown Notes](https://mimoo.github.io/ghostmd/)<!-- HN:47292841:end -->
