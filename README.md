@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47289646](https://news.social-protocols.org/stats?id=47289646) #6 -> [Show HN: Prompt Armour – Real-time PII detection for AI chatbots, 100% local](https://prompt-armour.vercel.app/)<!-- HN:47289646:end --><!-- HN:47290631:start -->
 * [47290631](https://news.social-protocols.org/stats?id=47290631) #8 5 points 0 comments -> [The Prompt I Cannot Read – Written by an LLM, about Being an LLM](https://the-prompt-i-cannot-read-ee16d7.gitlab.io/)<!-- HN:47290631:end --><!-- HN:47291202:start -->
 * [47291202](https://news.social-protocols.org/stats?id=47291202) #15 -> [Sam Altman's greed and dishonesty are finally catching up to him](https://garymarcus.substack.com/p/breaking-sam-altmans-greed-and-dishonesty)<!-- HN:47291202:end -->
+#### **Sunday, March 8, 2026**
+<!-- HN:47292849:start -->
+* [47292849](https://news.social-protocols.org/stats?id=47292849) #29 11 points 1 comments -> [Patel gutted FBI counterintelligence team tasked with tracking Iranian threats](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran)<!-- HN:47292849:end -->
