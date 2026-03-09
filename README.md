@@ -123,3 +123,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47261529](https://news.social-protocols.org/stats?id=47261529) #18 5 points 1 comments -> [We Turned Our Wireshark Wizard into a Markdown File](https://www.checklyhq.com/blog/building-an-ai-agent/)<!-- HN:47261529:end --><!-- HN:47300560:start -->
 * [47300560](https://news.social-protocols.org/stats?id=47300560) #10 7 points 1 comments -> [Show HN: WhatsApp Clone – No Setup or Signup](https://positive-intentions.com/)<!-- HN:47300560:end --><!-- HN:47302494:start -->
 * [47302494](https://news.social-protocols.org/stats?id=47302494) #16 4 points 0 comments -> [The Making and Unraveling of the American–Israeli Alliance](https://egyptianstreets.com/2026/03/06/the-making-and-unraveling-of-the-american-israeli-alliance/)<!-- HN:47302494:end -->
+#### **Monday, March 9, 2026**
+<!-- HN:47239117:start -->
+* [47239117](https://news.social-protocols.org/stats?id=47239117) #19 117 points 62 comments -> [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)<!-- HN:47239117:end --><!-- HN:47248801:start -->
+* [47248801](https://news.social-protocols.org/stats?id=47248801) #21 6 points 0 comments -> [Some Lotto Math](https://leancrew.com/all-this/2025/12/some-lotto-math/)<!-- HN:47248801:end -->
