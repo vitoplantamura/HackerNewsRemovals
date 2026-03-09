@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47239117:start -->
 * [47239117](https://news.social-protocols.org/stats?id=47239117) #19 117 points 62 comments -> [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)<!-- HN:47239117:end --><!-- HN:47248801:start -->
 * [47248801](https://news.social-protocols.org/stats?id=47248801) #21 6 points 0 comments -> [Some Lotto Math](https://leancrew.com/all-this/2025/12/some-lotto-math/)<!-- HN:47248801:end --><!-- HN:47266919:start -->
-* [47266919](https://news.social-protocols.org/stats?id=47266919) #23 16 points 5 comments -> [Are You Noticing This?](https://ryanholiday.net/are-you-noticing-this/)<!-- HN:47266919:end -->
+* [47266919](https://news.social-protocols.org/stats?id=47266919) #23 16 points 5 comments -> [Are You Noticing This?](https://ryanholiday.net/are-you-noticing-this/)<!-- HN:47266919:end --><!-- HN:47306157:start -->
+* [47306157](https://news.social-protocols.org/stats?id=47306157) #2 55 points 13 comments -> [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)<!-- HN:47306157:end -->
