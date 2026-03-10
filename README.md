@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47312946](https://news.social-protocols.org/stats?id=47312946) #12 5 points 1 comments -> [UK Cryptography Developer claims IP to protect UK National Security was stolen](https://lists.libre-soc.org/pipermail/libre-soc-dev/2026-March/007164.html)<!-- HN:47312946:end --><!-- HN:47314036:start -->
 * [47314036](https://news.social-protocols.org/stats?id=47314036) #6 10 points 0 comments -> [AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed](https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/)<!-- HN:47314036:end --><!-- HN:47313993:start -->
 * [47313993](https://news.social-protocols.org/stats?id=47313993) #29 8 points 1 comments -> [Teenagers report for duty as Croatia reinstates conscription](https://www.bbc.com/news/articles/c93j2l32lzgo)<!-- HN:47313993:end -->
+#### **Tuesday, March 10, 2026**
+<!-- HN:47317115:start -->
+* [47317115](https://news.social-protocols.org/stats?id=47317115) #6 11 points 3 comments -> [Helios: Real Real-Time Long Video Generation Model](https://www.alphaxiv.org/abs/2603.04379)<!-- HN:47317115:end -->
