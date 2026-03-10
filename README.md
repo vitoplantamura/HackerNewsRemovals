@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47313993](https://news.social-protocols.org/stats?id=47313993) #29 8 points 1 comments -> [Teenagers report for duty as Croatia reinstates conscription](https://www.bbc.com/news/articles/c93j2l32lzgo)<!-- HN:47313993:end -->
 #### **Tuesday, March 10, 2026**
 <!-- HN:47317115:start -->
-* [47317115](https://news.social-protocols.org/stats?id=47317115) #6 11 points 3 comments -> [Helios: Real Real-Time Long Video Generation Model](https://www.alphaxiv.org/abs/2603.04379)<!-- HN:47317115:end -->
+* [47317115](https://news.social-protocols.org/stats?id=47317115) #6 11 points 3 comments -> [Helios: Real Real-Time Long Video Generation Model](https://www.alphaxiv.org/abs/2603.04379)<!-- HN:47317115:end --><!-- HN:47313613:start -->
+* [47313613](https://news.social-protocols.org/stats?id=47313613) #16 205 points 70 comments -> [Workers report watching Ray-Ban Meta-shot footage of people using the bathroom](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)<!-- HN:47313613:end -->
