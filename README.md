@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47327367](https://news.social-protocols.org/stats?id=47327367) #30 35 points 2 comments -> [DOGE member took Social Security data on a thumb drive, whistleblower alleges](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge/)<!-- HN:47327367:end --><!-- HN:47328122:start -->
 * [47328122](https://news.social-protocols.org/stats?id=47328122) #30 9 points 2 comments -> [The Latest Republican Efforts to Make It Harder to Vote in the Midterms](https://www.newyorker.com/news/the-lede/the-latest-republican-efforts-to-make-it-harder-to-vote-in-the-midterms)<!-- HN:47328122:end --><!-- HN:47328532:start -->
 * [47328532](https://news.social-protocols.org/stats?id=47328532) #25 4 points 0 comments -> [Air strikes cause black rain and 'unprecedented' pollution in Tehran](https://www.bbc.com/news/articles/cqxd1nv3re2o)<!-- HN:47328532:end -->
+#### **Wednesday, March 11, 2026**
+<!-- HN:47331708:start -->
+* [47331708](https://news.social-protocols.org/stats?id=47331708) #11 13 points 1 comments -> [Sergey Brin Funds Misleading Ballot Measure to Negate Wealth Tax](https://prospect.org/2026/03/10/google-brin-california-wealth-tax-ballot-measure/)<!-- HN:47331708:end -->
