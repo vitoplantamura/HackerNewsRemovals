@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, March 4, 2026**
-<!-- HN:47242271:start -->
-* [47242271](https://news.social-protocols.org/stats?id=47242271) #5 6 points 0 comments -> [OpenClaw Partners with VirusTotal for Skill Security](https://openclaw.ai/blog/virustotal-partnership)<!-- HN:47242271:end --><!-- HN:47242567:start -->
-* [47242567](https://news.social-protocols.org/stats?id=47242567) #3 27 points 14 comments -> [Just Send the Prompt](https://justsendtheprompt.com/)<!-- HN:47242567:end --><!-- HN:47242496:start -->
-* [47242496](https://news.social-protocols.org/stats?id=47242496) #30 16 points 4 comments -> [CIA working to arm Kurdish forces to spark uprising in Iran, sources say](https://www.cnn.com/2026/03/03/politics/cia-arming-kurds-iran)<!-- HN:47242496:end --><!-- HN:47242765:start -->
-* [47242765](https://news.social-protocols.org/stats?id=47242765) #2 -> [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)<!-- HN:47242765:end --><!-- HN:47246530:start -->
-* [47246530](https://news.social-protocols.org/stats?id=47246530) #20 -> [US Supreme Court's Republicans seized most dangerous power in constitutional law](https://www.vox.com/politics/481401/supreme-court-mirabelli-bonta-sauron-wins)<!-- HN:47246530:end --><!-- HN:47250778:start -->
-* [47250778](https://news.social-protocols.org/stats?id=47250778) #2 45 points 7 comments -> [You Bought Zuck's Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)<!-- HN:47250778:end --><!-- HN:47252062:start -->
-* [47252062](https://news.social-protocols.org/stats?id=47252062) #20 9 points 6 comments -> [AfricaMuseum refuses to yield Congo geological archives despite US pressure](https://www.vrt.be/vrtnws/en/2026/02/12/africamuseum-refuses-to-hand-over-geological-archive-on-congo-to/)<!-- HN:47252062:end --><!-- HN:47250985:start -->
-* [47250985](https://news.social-protocols.org/stats?id=47250985) #10 58 points 15 comments -> [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)<!-- HN:47250985:end --><!-- HN:47246110:start -->
-* [47246110](https://news.social-protocols.org/stats?id=47246110) #3 816 points 455 comments -> [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)<!-- HN:47246110:end --><!-- HN:47255296:start -->
-* [47255296](https://news.social-protocols.org/stats?id=47255296) #15 9 points 1 comments -> [Show HN: I built a tool that checks if your ISP is spying on you](https://ismyispspying.com)<!-- HN:47255296:end --><!-- HN:47254624:start -->
-* [47254624](https://news.social-protocols.org/stats?id=47254624) #16 12 points 9 comments -> [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)<!-- HN:47254624:end -->
 #### **Thursday, March 5, 2026**<!-- HN:47256790:start -->
 * [47256790](https://news.social-protocols.org/stats?id=47256790) #4 -> [I left work early to get a hug from my wife](https://rxa.me/why/)<!-- HN:47256790:end --><!-- HN:47256105:start -->
 * [47256105](https://news.social-protocols.org/stats?id=47256105) #10 30 points 40 comments -> [What's Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/)<!-- HN:47256105:end --><!-- HN:47261418:start -->
