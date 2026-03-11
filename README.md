@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47328532](https://news.social-protocols.org/stats?id=47328532) #25 4 points 0 comments -> [Air strikes cause black rain and 'unprecedented' pollution in Tehran](https://www.bbc.com/news/articles/cqxd1nv3re2o)<!-- HN:47328532:end -->
 #### **Wednesday, March 11, 2026**
 <!-- HN:47331708:start -->
-* [47331708](https://news.social-protocols.org/stats?id=47331708) #11 13 points 1 comments -> [Sergey Brin Funds Misleading Ballot Measure to Negate Wealth Tax](https://prospect.org/2026/03/10/google-brin-california-wealth-tax-ballot-measure/)<!-- HN:47331708:end -->
+* [47331708](https://news.social-protocols.org/stats?id=47331708) #11 13 points 1 comments -> [Sergey Brin Funds Misleading Ballot Measure to Negate Wealth Tax](https://prospect.org/2026/03/10/google-brin-california-wealth-tax-ballot-measure/)<!-- HN:47331708:end --><!-- HN:47332939:start -->
+* [47332939](https://news.social-protocols.org/stats?id=47332939) #1 29 points 41 comments -> [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)<!-- HN:47332939:end -->
