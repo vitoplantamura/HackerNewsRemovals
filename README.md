@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, March 11, 2026**
 <!-- HN:47331708:start -->
 * [47331708](https://news.social-protocols.org/stats?id=47331708) #11 13 points 1 comments -> [Sergey Brin Funds Misleading Ballot Measure to Negate Wealth Tax](https://prospect.org/2026/03/10/google-brin-california-wealth-tax-ballot-measure/)<!-- HN:47331708:end --><!-- HN:47332939:start -->
-* [47332939](https://news.social-protocols.org/stats?id=47332939) #1 29 points 41 comments -> [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)<!-- HN:47332939:end -->
+* [47332939](https://news.social-protocols.org/stats?id=47332939) #1 29 points 41 comments -> [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)<!-- HN:47332939:end --><!-- HN:47275743:start -->
+* [47275743](https://news.social-protocols.org/stats?id=47275743) #21 14 points 18 comments -> [Docs directories are doomed](https://yagmin.com/blog/your-docs-directory-is-doomed/)<!-- HN:47275743:end -->
