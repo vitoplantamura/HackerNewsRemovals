@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47339888](https://news.social-protocols.org/stats?id=47339888) #12 80 points 38 comments -> [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)<!-- HN:47339888:end --><!-- HN:47339763:start -->
 * [47339763](https://news.social-protocols.org/stats?id=47339763) #30 11 points 2 comments -> [Nvidia Releases NemoClaw – Enterprise AI Agents, Redefined](https://nemoclaw.bot)<!-- HN:47339763:end --><!-- HN:47343112:start -->
 * [47343112](https://news.social-protocols.org/stats?id=47343112) #15 15 points 7 comments -> [NemoClaw – Nvidia's upcoming open-source AI agent platform](https://nemoclaw.bot)<!-- HN:47343112:end -->
+#### **Thursday, March 12, 2026**
+<!-- HN:47346137:start -->
+* [47346137](https://news.social-protocols.org/stats?id=47346137) #6 36 points 31 comments -> [Oil hits $100 a barrel despite deal to release record amount of reserves](https://www.bbc.com/news/articles/c1w5141vx53o)<!-- HN:47346137:end -->
