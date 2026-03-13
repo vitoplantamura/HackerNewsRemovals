@@ -136,5 +136,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47358033](https://news.social-protocols.org/stats?id=47358033) #10 4 points 0 comments -> [Qodo Outperforms Claude in Code Review Benchmark](https://www.qodo.ai/blog/qodo-outperforms-claude-in-code-review-benchmark/)<!-- HN:47358033:end -->
 #### **Friday, March 13, 2026**
 <!-- HN:47359136:start -->
-* [47359136](https://news.social-protocols.org/stats?id=47359136) #2 91 points 16 comments -> [Tennessee grandmother jailed after AI face recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)<!-- HN:47359136:end --><!-- HN:47360892:start -->
-* [47360892](https://news.social-protocols.org/stats?id=47360892) #3 -> [Why Technology Makes Us More Productive but Not Richer](https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup)<!-- HN:47360892:end -->
+* [47359136](https://news.social-protocols.org/stats?id=47359136) #2 91 points 16 comments -> [Tennessee grandmother jailed after AI face recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)<!-- HN:47359136:end -->
