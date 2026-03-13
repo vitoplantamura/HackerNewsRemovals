@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, March 13, 2026**
 <!-- HN:47359136:start -->
 * [47359136](https://news.social-protocols.org/stats?id=47359136) #2 91 points 16 comments -> [Tennessee grandmother jailed after AI face recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)<!-- HN:47359136:end --><!-- HN:47363901:start -->
-* [47363901](https://news.social-protocols.org/stats?id=47363901) #2 48 points 22 comments -> [301M Records Exposed: The HIPAA Breach Epidemic](https://ciphercue.com/blog/hipaa-breach-epidemic-301-million-records)<!-- HN:47363901:end -->
+* [47363901](https://news.social-protocols.org/stats?id=47363901) #2 48 points 22 comments -> [301M Records Exposed: The HIPAA Breach Epidemic](https://ciphercue.com/blog/hipaa-breach-epidemic-301-million-records)<!-- HN:47363901:end --><!-- HN:47364829:start -->
+* [47364829](https://news.social-protocols.org/stats?id=47364829) #4 6 points 0 comments -> [Four crew members killed after US refuelling plane crashes in Iraq](https://www.bbc.com/news/articles/cy0dz5ql17vo)<!-- HN:47364829:end -->
