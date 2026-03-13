@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47355213](https://news.social-protocols.org/stats?id=47355213) #9 30 points 16 comments -> [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS)<!-- HN:47355213:end --><!-- HN:47357294:start -->
 * [47357294](https://news.social-protocols.org/stats?id=47357294) #3 33 points 11 comments -> [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)<!-- HN:47357294:end --><!-- HN:47358033:start -->
 * [47358033](https://news.social-protocols.org/stats?id=47358033) #10 4 points 0 comments -> [Qodo Outperforms Claude in Code Review Benchmark](https://www.qodo.ai/blog/qodo-outperforms-claude-in-code-review-benchmark/)<!-- HN:47358033:end -->
+#### **Friday, March 13, 2026**
+<!-- HN:47359136:start -->
+* [47359136](https://news.social-protocols.org/stats?id=47359136) #2 91 points 16 comments -> [Tennessee grandmother jailed after AI face recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)<!-- HN:47359136:end -->
