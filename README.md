@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, March 6, 2026**
-<!-- HN:47202360:start -->
-* [47202360](https://news.social-protocols.org/stats?id=47202360) #11 -> [The Mystery of Skype](https://clevcode.org/the-mystery-of-skype/)<!-- HN:47202360:end --><!-- HN:47273964:start -->
-* [47273964](https://news.social-protocols.org/stats?id=47273964) #15 36 points 41 comments -> [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)<!-- HN:47273964:end --><!-- HN:47276399:start -->
-* [47276399](https://news.social-protocols.org/stats?id=47276399) #22 11 points 1 comments -> [United Airlines says it will boot passengers who refuse to use headphones](https://www.nbcnews.com/business/business-news/united-boot-passengers-dont-use-headphones-rcna261908)<!-- HN:47276399:end --><!-- HN:47277134:start -->
-* [47277134](https://news.social-protocols.org/stats?id=47277134) #7 -> [Cursor Is Dead – How a $29B company became obsolete in under three years](https://www.permissionprotocol.com/blog/cursor-is-dead.html)<!-- HN:47277134:end --><!-- HN:47196525:start -->
-* [47196525](https://news.social-protocols.org/stats?id=47196525) #11 27 points 1 comments -> ["Our programs are fun to use" – Beagle Bros](https://unsung.aresluna.org/our-programs-are-fun-to-use/)<!-- HN:47196525:end --><!-- HN:47282060:start -->
-* [47282060](https://news.social-protocols.org/stats?id=47282060) #2 10 points 2 comments -> [Wild Crows in Sweden Help Clean Up Cigarette Butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)<!-- HN:47282060:end -->
 #### **Saturday, March 7, 2026**
 <!-- HN:47214708:start -->
 * [47214708](https://news.social-protocols.org/stats?id=47214708) #5 53 points 17 comments -> [Math Notepad](https://mathnotepad.com)<!-- HN:47214708:end --><!-- HN:47219462:start -->
