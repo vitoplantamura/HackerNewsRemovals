@@ -124,4 +124,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 14, 2026**
 <!-- HN:47371486:start -->
 * [47371486](https://news.social-protocols.org/stats?id=47371486) #3 18 points 2 comments -> ["Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"](https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md)<!-- HN:47371486:end --><!-- HN:47371275:start -->
-* [47371275](https://news.social-protocols.org/stats?id=47371275) #10 31 points 40 comments -> [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)<!-- HN:47371275:end -->
+* [47371275](https://news.social-protocols.org/stats?id=47371275) #10 31 points 40 comments -> [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)<!-- HN:47371275:end --><!-- HN:47310815:start -->
+* [47310815](https://news.social-protocols.org/stats?id=47310815) #10 58 points 5 comments -> [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)<!-- HN:47310815:end --><!-- HN:47310591:start -->
+* [47310591](https://news.social-protocols.org/stats?id=47310591) #23 6 points 2 comments -> [Show HN: Robotics runtime in the browser (flight controller, WebAssembly)](https://cdn.copper-robotics.com/demo/flight-controller/index.html)<!-- HN:47310591:end --><!-- HN:47309397:start -->
+* [47309397](https://news.social-protocols.org/stats?id=47309397) #30 243 points 46 comments -> [Okmain: How to pick an OK main colour of an image](https://dgroshev.com/blog/okmain/)<!-- HN:47309397:end -->
