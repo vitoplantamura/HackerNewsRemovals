@@ -123,5 +123,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47367291](https://news.social-protocols.org/stats?id=47367291) #26 6 points 0 comments -> [ECJ says EU states must change gender of citizens even if nat'l laws forbid it](https://brusselssignal.eu/2026/03/ecj-says-member-states-must-change-gender-of-citizens-even-if-national-laws-forbid-it/)<!-- HN:47367291:end -->
 #### **Saturday, March 14, 2026**
 <!-- HN:47371486:start -->
-* [47371486](https://news.social-protocols.org/stats?id=47371486) #3 18 points 2 comments -> ["Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"](https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md)<!-- HN:47371486:end --><!-- HN:47370228:start -->
-* [47370228](https://news.social-protocols.org/stats?id=47370228) #28 12 points 0 comments -> [US orders 2,200 Marines to Middle East](https://www.iranintl.com/en/202603131206)<!-- HN:47370228:end -->
+* [47371486](https://news.social-protocols.org/stats?id=47371486) #3 18 points 2 comments -> ["Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"](https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md)<!-- HN:47371486:end -->
