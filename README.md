@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 14, 2026**
 <!-- HN:47371486:start -->
 * [47371486](https://news.social-protocols.org/stats?id=47371486) #3 18 points 2 comments -> ["Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"](https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md)<!-- HN:47371486:end --><!-- HN:47371275:start -->
-* [47371275](https://news.social-protocols.org/stats?id=47371275) #10 31 points 40 comments -> [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)<!-- HN:47371275:end -->
+* [47371275](https://news.social-protocols.org/stats?id=47371275) #10 31 points 40 comments -> [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)<!-- HN:47371275:end --><!-- HN:47372290:start -->
+* [47372290](https://news.social-protocols.org/stats?id=47372290) #2 92 points 10 comments -> [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/)<!-- HN:47372290:end -->
