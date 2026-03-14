@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47365597](https://news.social-protocols.org/stats?id=47365597) #5 190 points 24 comments -> [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)<!-- HN:47365597:end --><!-- HN:47365461:start -->
 * [47365461](https://news.social-protocols.org/stats?id=47365461) #25 40 points 3 comments -> [Two long-lost episodes of 'Doctor Who' have been found](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8)<!-- HN:47365461:end --><!-- HN:47367291:start -->
 * [47367291](https://news.social-protocols.org/stats?id=47367291) #26 6 points 0 comments -> [ECJ says EU states must change gender of citizens even if nat'l laws forbid it](https://brusselssignal.eu/2026/03/ecj-says-member-states-must-change-gender-of-citizens-even-if-national-laws-forbid-it/)<!-- HN:47367291:end -->
+#### **Saturday, March 14, 2026**
+<!-- HN:47371486:start -->
+* [47371486](https://news.social-protocols.org/stats?id=47371486) #3 18 points 2 comments -> ["Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"](https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md)<!-- HN:47371486:end -->
