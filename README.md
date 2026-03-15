@@ -128,4 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 15, 2026**
 <!-- HN:47382739:start -->
 * [47382739](https://news.social-protocols.org/stats?id=47382739) #11 103 points 2 comments -> [FCC chairman threatens TV broadcast licenses over news coverage](https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/)<!-- HN:47382739:end --><!-- HN:47383298:start -->
-* [47383298](https://news.social-protocols.org/stats?id=47383298) #12 60 points 33 comments -> [Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027)<!-- HN:47383298:end -->
+* [47383298](https://news.social-protocols.org/stats?id=47383298) #12 60 points 33 comments -> [Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027)<!-- HN:47383298:end --><!-- HN:47321469:start -->
+* [47321469](https://news.social-protocols.org/stats?id=47321469) #6 27 points 6 comments -> [Deriving Type Erasure](https://david.alvarezrosa.com/posts/deriving-type-erasure/)<!-- HN:47321469:end --><!-- HN:47320571:start -->
+* [47320571](https://news.social-protocols.org/stats?id=47320571) #17 44 points 19 comments -> [Offloading FFmpeg with Cloudflare](https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare)<!-- HN:47320571:end -->
