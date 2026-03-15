@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47381261](https://news.social-protocols.org/stats?id=47381261) #22 54 points 8 comments -> [Jared Kushner Solicits Funds for His Firm While Working as Mideast Envoy](https://www.nytimes.com/2026/03/13/business/jared-kushner-affinity-mideast-funds.html)<!-- HN:47381261:end -->
 #### **Sunday, March 15, 2026**
 <!-- HN:47382739:start -->
-* [47382739](https://news.social-protocols.org/stats?id=47382739) #11 103 points 2 comments -> [FCC chairman threatens TV broadcast licenses over news coverage](https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/)<!-- HN:47382739:end -->
+* [47382739](https://news.social-protocols.org/stats?id=47382739) #11 103 points 2 comments -> [FCC chairman threatens TV broadcast licenses over news coverage](https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/)<!-- HN:47382739:end --><!-- HN:47383298:start -->
+* [47383298](https://news.social-protocols.org/stats?id=47383298) #12 60 points 33 comments -> [Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027)<!-- HN:47383298:end -->
