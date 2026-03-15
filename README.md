@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, March 8, 2026**
-<!-- HN:47292849:start -->
-* [47292849](https://news.social-protocols.org/stats?id=47292849) #29 11 points 1 comments -> [Patel gutted FBI counterintelligence team tasked with tracking Iranian threats](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran)<!-- HN:47292849:end --><!-- HN:47292841:start -->
-* [47292841](https://news.social-protocols.org/stats?id=47292841) #17 24 points 31 comments -> [Ghostmd: Ghostty but for Markdown Notes](https://mimoo.github.io/ghostmd/)<!-- HN:47292841:end --><!-- HN:47293514:start -->
-* [47293514](https://news.social-protocols.org/stats?id=47293514) #20 36 points 21 comments -> [Iranian Women Graduate in Stem 3× the Rate of U.S. Women and Has 5× More PhDs](https://hrnews1.substack.com/p/iranian-women-graduate-in-stem-at)<!-- HN:47293514:end --><!-- HN:47294008:start -->
-* [47294008](https://news.social-protocols.org/stats?id=47294008) #22 32 points 29 comments -> [Israel Strikes Oil Facilities in Iran](https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html)<!-- HN:47294008:end --><!-- HN:47294082:start -->
-* [47294082](https://news.social-protocols.org/stats?id=47294082) #19 8 points 2 comments -> [Americans Are Now a Target for ICE](https://www.wsj.com/us-news/immigration-protests-noem-minneapolis-0b8bd496)<!-- HN:47294082:end --><!-- HN:47296787:start -->
-* [47296787](https://news.social-protocols.org/stats?id=47296787) #10 16 points 17 comments -> [You Don't Need a Vector Database](https://vecstore.app/blog/you-dont-need-a-vector-database)<!-- HN:47296787:end --><!-- HN:47261529:start -->
-* [47261529](https://news.social-protocols.org/stats?id=47261529) #18 5 points 1 comments -> [We Turned Our Wireshark Wizard into a Markdown File](https://www.checklyhq.com/blog/building-an-ai-agent/)<!-- HN:47261529:end --><!-- HN:47300560:start -->
-* [47300560](https://news.social-protocols.org/stats?id=47300560) #10 7 points 1 comments -> [Show HN: WhatsApp Clone – No Setup or Signup](https://positive-intentions.com/)<!-- HN:47300560:end --><!-- HN:47302494:start -->
-* [47302494](https://news.social-protocols.org/stats?id=47302494) #16 4 points 0 comments -> [The Making and Unraveling of the American–Israeli Alliance](https://egyptianstreets.com/2026/03/06/the-making-and-unraveling-of-the-american-israeli-alliance/)<!-- HN:47302494:end -->
 #### **Monday, March 9, 2026**
 <!-- HN:47239117:start -->
 * [47239117](https://news.social-protocols.org/stats?id=47239117) #19 117 points 62 comments -> [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)<!-- HN:47239117:end --><!-- HN:47248801:start -->
