@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47390287](https://news.social-protocols.org/stats?id=47390287) #8 8 points 1 comments -> [AI Didn't Make Expertise Optional. It Made It More Valuable](https://getaibook.com/blog/ai-didnt-make-expertise-optional/)<!-- HN:47390287:end -->
 #### **Monday, March 16, 2026**
 <!-- HN:47332593:start -->
-* [47332593](https://news.social-protocols.org/stats?id=47332593) #13 116 points 63 comments -> [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)<!-- HN:47332593:end -->
+* [47332593](https://news.social-protocols.org/stats?id=47332593) #13 116 points 63 comments -> [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)<!-- HN:47332593:end --><!-- HN:47396122:start -->
+* [47396122](https://news.social-protocols.org/stats?id=47396122) #10 5 points 1 comments -> [A curated list of AI slops](https://github.com/yikerman/awesome-ai-slop)<!-- HN:47396122:end -->
