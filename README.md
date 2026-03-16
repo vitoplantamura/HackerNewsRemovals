@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 16, 2026**
 <!-- HN:47332593:start -->
 * [47332593](https://news.social-protocols.org/stats?id=47332593) #13 116 points 63 comments -> [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)<!-- HN:47332593:end --><!-- HN:47396122:start -->
-* [47396122](https://news.social-protocols.org/stats?id=47396122) #10 5 points 1 comments -> [A curated list of AI slops](https://github.com/yikerman/awesome-ai-slop)<!-- HN:47396122:end -->
+* [47396122](https://news.social-protocols.org/stats?id=47396122) #10 5 points 1 comments -> [A curated list of AI slops](https://github.com/yikerman/awesome-ai-slop)<!-- HN:47396122:end --><!-- HN:47396557:start -->
+* [47396557](https://news.social-protocols.org/stats?id=47396557) #1 41 points 37 comments -> [I may 'hire' AI instead of a graduate student](https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student)<!-- HN:47396557:end -->
