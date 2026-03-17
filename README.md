@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47339818](https://news.social-protocols.org/stats?id=47339818) #27 202 points 76 comments -> [Bus travel from Lima to Rio de Janeiro](https://kenschutte.com/lima-to-rio-by-bus/)<!-- HN:47339818:end -->
 #### **Tuesday, March 17, 2026**
 <!-- HN:47406569:start -->
-* [47406569](https://news.social-protocols.org/stats?id=47406569) #25 20 points 10 comments -> [Show HN: Trackm, a personal finance web app](https://trackm.net)<!-- HN:47406569:end -->
+* [47406569](https://news.social-protocols.org/stats?id=47406569) #25 20 points 10 comments -> [Show HN: Trackm, a personal finance web app](https://trackm.net)<!-- HN:47406569:end --><!-- HN:47407846:start -->
+* [47407846](https://news.social-protocols.org/stats?id=47407846) #6 9 points 0 comments -> [Every 8 minutes, a case of sexual assault/misconduct was reported to Uber](https://every8minutes.com)<!-- HN:47407846:end -->
