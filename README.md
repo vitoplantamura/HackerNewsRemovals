@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, March 10, 2026**
-<!-- HN:47317115:start -->
-* [47317115](https://news.social-protocols.org/stats?id=47317115) #6 11 points 3 comments -> [Helios: Real Real-Time Long Video Generation Model](https://www.alphaxiv.org/abs/2603.04379)<!-- HN:47317115:end --><!-- HN:47313613:start -->
-* [47313613](https://news.social-protocols.org/stats?id=47313613) #16 205 points 70 comments -> [Workers report watching Ray-Ban Meta-shot footage of people using the bathroom](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)<!-- HN:47313613:end --><!-- HN:47316880:start -->
-* [47316880](https://news.social-protocols.org/stats?id=47316880) #1 210 points 50 comments -> [In Memoriam, Tony Hoare](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)<!-- HN:47316880:end --><!-- HN:47321494:start -->
-* [47321494](https://news.social-protocols.org/stats?id=47321494) #19 7 points 2 comments -> [OpenClaw Did Not Just Go Viral in China, It Solved a Structural Problem](https://hellochinatech.com/p/openclaw-china-ai-stack)<!-- HN:47321494:end --><!-- HN:47322002:start -->
-* [47322002](https://news.social-protocols.org/stats?id=47322002) #21 6 points 0 comments -> [There are 56 ethnicities in China–and 55 are getting squashed](https://economist.com/china/2026/03/09/there-are-56-ethnicities-in-china-and-55-are-getting-squashed)<!-- HN:47322002:end --><!-- HN:47323300:start -->
-* [47323300](https://news.social-protocols.org/stats?id=47323300) #9 3 points 2 comments -> [How Do You Choose a Managed Security Service Provider (MSSP)?](https://msspproviders.io/)<!-- HN:47323300:end --><!-- HN:47323828:start -->
-* [47323828](https://news.social-protocols.org/stats?id=47323828) #10 7 points 1 comments -> [You Bought the AI Licenses. Why Is Only One Developer Getting 10x Results?](https://skills.new/post/you-bought-the-ai-licenses-why-is-only-one-developer-getting-10x-results/)<!-- HN:47323828:end --><!-- HN:47323918:start -->
-* [47323918](https://news.social-protocols.org/stats?id=47323918) #22 10 points 3 comments -> [Intensifying global heat threatens livability for younger and older adults](https://iopscience.iop.org/article/10.1088/2752-5309/ae3c3a)<!-- HN:47323918:end --><!-- HN:47321533:start -->
-* [47321533](https://news.social-protocols.org/stats?id=47321533) #13 396 points 214 comments -> [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)<!-- HN:47321533:end --><!-- HN:47327143:start -->
-* [47327143](https://news.social-protocols.org/stats?id=47327143) #26 10 points 5 comments -> [Maybe the G in AGI stands for Gemini](https://www.robinsloan.com/lab/gemini-agi/)<!-- HN:47327143:end --><!-- HN:47327367:start -->
-* [47327367](https://news.social-protocols.org/stats?id=47327367) #30 35 points 2 comments -> [DOGE member took Social Security data on a thumb drive, whistleblower alleges](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge/)<!-- HN:47327367:end --><!-- HN:47328122:start -->
-* [47328122](https://news.social-protocols.org/stats?id=47328122) #30 9 points 2 comments -> [The Latest Republican Efforts to Make It Harder to Vote in the Midterms](https://www.newyorker.com/news/the-lede/the-latest-republican-efforts-to-make-it-harder-to-vote-in-the-midterms)<!-- HN:47328122:end --><!-- HN:47328532:start -->
-* [47328532](https://news.social-protocols.org/stats?id=47328532) #25 4 points 0 comments -> [Air strikes cause black rain and 'unprecedented' pollution in Tehran](https://www.bbc.com/news/articles/cqxd1nv3re2o)<!-- HN:47328532:end -->
 #### **Wednesday, March 11, 2026**
 <!-- HN:47331708:start -->
 * [47331708](https://news.social-protocols.org/stats?id=47331708) #11 13 points 1 comments -> [Sergey Brin Funds Misleading Ballot Measure to Negate Wealth Tax](https://prospect.org/2026/03/10/google-brin-california-wealth-tax-ballot-measure/)<!-- HN:47331708:end --><!-- HN:47332939:start -->
