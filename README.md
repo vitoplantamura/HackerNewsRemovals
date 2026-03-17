@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47406569:start -->
 * [47406569](https://news.social-protocols.org/stats?id=47406569) #25 20 points 10 comments -> [Show HN: Trackm, a personal finance web app](https://trackm.net)<!-- HN:47406569:end --><!-- HN:47407846:start -->
 * [47407846](https://news.social-protocols.org/stats?id=47407846) #6 9 points 0 comments -> [Every 8 minutes, a case of sexual assault/misconduct was reported to Uber](https://every8minutes.com)<!-- HN:47407846:end --><!-- HN:47407711:start -->
-* [47407711](https://news.social-protocols.org/stats?id=47407711) #28 8 points 1 comments -> [Early adult drinking linked to middleage cognitive decline–even after abstinence](https://medicalxpress.com/news/2026-03-early-adult-linked-middle-age.html)<!-- HN:47407711:end -->
+* [47407711](https://news.social-protocols.org/stats?id=47407711) #28 8 points 1 comments -> [Early adult drinking linked to middleage cognitive decline–even after abstinence](https://medicalxpress.com/news/2026-03-early-adult-linked-middle-age.html)<!-- HN:47407711:end --><!-- HN:47348652:start -->
+* [47348652](https://news.social-protocols.org/stats?id=47348652) #23 278 points 135 comments -> [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/)<!-- HN:47348652:end -->
