@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47418184](https://news.social-protocols.org/stats?id=47418184) #7 8 points 0 comments -> [Curated Female Founder Cohort in SF](https://jointheden.co/)<!-- HN:47418184:end --><!-- HN:47418595:start -->
 * [47418595](https://news.social-protocols.org/stats?id=47418595) #6 8 points 0 comments -> [Iranian citizens are calling in Israeli air strikes on their leaders](https://www.iranintl.com/en/202603179685)<!-- HN:47418595:end --><!-- HN:47417983:start -->
 * [47417983](https://news.social-protocols.org/stats?id=47417983) #5 71 points 16 comments -> [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)<!-- HN:47417983:end -->
+#### **Wednesday, March 18, 2026**
+<!-- HN:47420307:start -->
+* [47420307](https://news.social-protocols.org/stats?id=47420307) #17 9 points 1 comments -> [FAQs About the Public Debt](https://www.treasurydirect.gov/help-center/public-debt-faqs/)<!-- HN:47420307:end -->
