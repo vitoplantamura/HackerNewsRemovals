@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47417983](https://news.social-protocols.org/stats?id=47417983) #5 71 points 16 comments -> [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)<!-- HN:47417983:end -->
 #### **Wednesday, March 18, 2026**
 <!-- HN:47420307:start -->
-* [47420307](https://news.social-protocols.org/stats?id=47420307) #17 9 points 1 comments -> [FAQs About the Public Debt](https://www.treasurydirect.gov/help-center/public-debt-faqs/)<!-- HN:47420307:end -->
+* [47420307](https://news.social-protocols.org/stats?id=47420307) #17 9 points 1 comments -> [FAQs About the Public Debt](https://www.treasurydirect.gov/help-center/public-debt-faqs/)<!-- HN:47420307:end --><!-- HN:47361251:start -->
+* [47361251](https://news.social-protocols.org/stats?id=47361251) #17 115 points 30 comments -> [Chrome extension adjusts video speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)<!-- HN:47361251:end -->
