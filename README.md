@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, March 12, 2026**<!-- HN:47346383:start -->
-* [47346383](https://news.social-protocols.org/stats?id=47346383) #15 26 points 8 comments -> [US intelligence says Iran government is not at risk of collapse](https://www.reuters.com/business/media-telecom/us-intelligence-says-iran-government-is-not-risk-collapse-say-sources-2026-03-11/)<!-- HN:47346383:end --><!-- HN:47348573:start -->
-* [47348573](https://news.social-protocols.org/stats?id=47348573) #30 3 points 0 comments -> [Independent Geophysical Forensic Analysis of the Nordstream Pipeline Sabotage](https://www.geophysical-forensics.ch/nordstream.html)<!-- HN:47348573:end --><!-- HN:47350341:start -->
-* [47350341](https://news.social-protocols.org/stats?id=47350341) #25 7 points 0 comments -> [At Least 17 U.S. Sites Damaged in War with Iran, Analysis Shows](https://www.nytimes.com/interactive/2026/03/11/world/middleeast/iran-us-military-bases-strikes-map.html)<!-- HN:47350341:end --><!-- HN:47350252:start -->
-* [47350252](https://news.social-protocols.org/stats?id=47350252) #21 14 points 29 comments -> [Show HN: I built an SDK that scrambles HTML so scrapers get garbage](https://www.obscrd.dev/)<!-- HN:47350252:end --><!-- HN:47350467:start -->
-* [47350467](https://news.social-protocols.org/stats?id=47350467) #24 45 points 41 comments -> [USDA is closing buildings, relocating staff, and downsizing-a lot](https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/)<!-- HN:47350467:end --><!-- HN:47352819:start -->
-* [47352819](https://news.social-protocols.org/stats?id=47352819) #20 42 points 12 comments -> [Another DOGE staffer explaining how he flagged grants at NEH for "DEI"](https://bsky.app/profile/404media.co/post/3mgupw4v3ak2j)<!-- HN:47352819:end --><!-- HN:47353293:start -->
-* [47353293](https://news.social-protocols.org/stats?id=47353293) #7 8 points 0 comments -> [We will come to regret our every use of AI](https://libresolutions.network/articles/ai-regret/)<!-- HN:47353293:end --><!-- HN:47353981:start -->
-* [47353981](https://news.social-protocols.org/stats?id=47353981) #28 16 points 10 comments -> [Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs](https://logclaw.ai)<!-- HN:47353981:end --><!-- HN:47355213:start -->
-* [47355213](https://news.social-protocols.org/stats?id=47355213) #9 30 points 16 comments -> [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS)<!-- HN:47355213:end --><!-- HN:47357294:start -->
-* [47357294](https://news.social-protocols.org/stats?id=47357294) #3 33 points 11 comments -> [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)<!-- HN:47357294:end --><!-- HN:47358033:start -->
-* [47358033](https://news.social-protocols.org/stats?id=47358033) #10 4 points 0 comments -> [Qodo Outperforms Claude in Code Review Benchmark](https://www.qodo.ai/blog/qodo-outperforms-claude-in-code-review-benchmark/)<!-- HN:47358033:end -->
 #### **Friday, March 13, 2026**
 <!-- HN:47359136:start -->
 * [47359136](https://news.social-protocols.org/stats?id=47359136) #2 91 points 16 comments -> [Tennessee grandmother jailed after AI face recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud)<!-- HN:47359136:end --><!-- HN:47363901:start -->
