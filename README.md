@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47427290](https://news.social-protocols.org/stats?id=47427290) #11 57 points 17 comments -> [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)<!-- HN:47427290:end --><!-- HN:47431428:start -->
 * [47431428](https://news.social-protocols.org/stats?id=47431428) #28 11 points 1 comments -> [NYC High School Student Freed After 10 Months in ICE Detention](https://www.nytimes.com/2026/03/18/nyregion/nyc-high-school-student-ice-freed.html)<!-- HN:47431428:end --><!-- HN:47432522:start -->
 * [47432522](https://news.social-protocols.org/stats?id=47432522) #1 -> [Website to post Claude fuck ups](https://claudedidwhat.wtf)<!-- HN:47432522:end -->
+#### **Thursday, March 19, 2026**
+<!-- HN:47433363:start -->
+* [47433363](https://news.social-protocols.org/stats?id=47433363) #13 5 points 0 comments -> [Unplug ICE](https://unplugice.org/)<!-- HN:47433363:end -->
