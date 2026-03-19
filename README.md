@@ -129,5 +129,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47433363:start -->
 * [47433363](https://news.social-protocols.org/stats?id=47433363) #13 5 points 0 comments -> [Unplug ICE](https://unplugice.org/)<!-- HN:47433363:end --><!-- HN:47432540:start -->
 * [47432540](https://news.social-protocols.org/stats?id=47432540) #29 7 points 0 comments -> [Shooting-Free Days Decline in Major U.S. Cities](https://www.publichealth.columbia.edu/news/shooting-free-days-decline-major-u-s-cities-new-metric-aims-building-sustained-periods-peace)<!-- HN:47432540:end --><!-- HN:47381834:start -->
-* [47381834](https://news.social-protocols.org/stats?id=47381834) #21 24 points 7 comments -> [Your Framework Doesn't Matter](https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/)<!-- HN:47381834:end --><!-- HN:47436453:start -->
-* [47436453](https://news.social-protocols.org/stats?id=47436453) #1 40 points 7 comments -> [Translate Garry Tan's LinkedIn-speak to plain English](https://github.com/garrytan/gstack/pull/213)<!-- HN:47436453:end -->
+* [47381834](https://news.social-protocols.org/stats?id=47381834) #21 24 points 7 comments -> [Your Framework Doesn't Matter](https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/)<!-- HN:47381834:end -->
