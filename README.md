@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47432522](https://news.social-protocols.org/stats?id=47432522) #1 -> [Website to post Claude fuck ups](https://claudedidwhat.wtf)<!-- HN:47432522:end -->
 #### **Thursday, March 19, 2026**
 <!-- HN:47433363:start -->
-* [47433363](https://news.social-protocols.org/stats?id=47433363) #13 5 points 0 comments -> [Unplug ICE](https://unplugice.org/)<!-- HN:47433363:end -->
+* [47433363](https://news.social-protocols.org/stats?id=47433363) #13 5 points 0 comments -> [Unplug ICE](https://unplugice.org/)<!-- HN:47433363:end --><!-- HN:47432540:start -->
+* [47432540](https://news.social-protocols.org/stats?id=47432540) #29 7 points 0 comments -> [Shooting-Free Days Decline in Major U.S. Cities](https://www.publichealth.columbia.edu/news/shooting-free-days-decline-major-u-s-cities-new-metric-aims-building-sustained-periods-peace)<!-- HN:47432540:end -->
