@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47406731:start -->
 * [47406731](https://news.social-protocols.org/stats?id=47406731) #23 6 points 1 comments -> [I built a clip-on muscle sensor so personal trainers can show clients progress](https://inara.technology)<!-- HN:47406731:end --><!-- HN:47450514:start -->
 * [47450514](https://news.social-protocols.org/stats?id=47450514) #25 9 points 2 comments -> [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)<!-- HN:47450514:end --><!-- HN:47452828:start -->
-* [47452828](https://news.social-protocols.org/stats?id=47452828) #14 42 points 31 comments -> [3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html)<!-- HN:47452828:end -->
+* [47452828](https://news.social-protocols.org/stats?id=47452828) #14 42 points 31 comments -> [3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html)<!-- HN:47452828:end --><!-- HN:47453728:start -->
+* [47453728](https://news.social-protocols.org/stats?id=47453728) #5 7 points 6 comments -> [The 12" chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)<!-- HN:47453728:end -->
