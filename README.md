@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47442215](https://news.social-protocols.org/stats?id=47442215) #27 63 points 18 comments -> [Love of corporate bullshit is correlated with bad judgment](https://pluralistic.net/2026/03/19/jargon-watch/)<!-- HN:47442215:end -->
 #### **Friday, March 20, 2026**
 <!-- HN:47447317:start -->
-* [47447317](https://news.social-protocols.org/stats?id=47447317) #23 20 points 6 comments -> [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)<!-- HN:47447317:end -->
+* [47447317](https://news.social-protocols.org/stats?id=47447317) #23 20 points 6 comments -> [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)<!-- HN:47447317:end --><!-- HN:47406731:start -->
+* [47406731](https://news.social-protocols.org/stats?id=47406731) #23 6 points 1 comments -> [I built a clip-on muscle sensor so personal trainers can show clients progress](https://inara.technology)<!-- HN:47406731:end -->
