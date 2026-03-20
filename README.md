@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47442215](https://news.social-protocols.org/stats?id=47442215) #27 63 points 18 comments -> [Love of corporate bullshit is correlated with bad judgment](https://pluralistic.net/2026/03/19/jargon-watch/)<!-- HN:47442215:end -->
 #### **Friday, March 20, 2026**
 <!-- HN:47406731:start -->
-* [47406731](https://news.social-protocols.org/stats?id=47406731) #23 6 points 1 comments -> [I built a clip-on muscle sensor so personal trainers can show clients progress](https://inara.technology)<!-- HN:47406731:end -->
+* [47406731](https://news.social-protocols.org/stats?id=47406731) #23 6 points 1 comments -> [I built a clip-on muscle sensor so personal trainers can show clients progress](https://inara.technology)<!-- HN:47406731:end --><!-- HN:47450514:start -->
+* [47450514](https://news.social-protocols.org/stats?id=47450514) #25 9 points 2 comments -> [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)<!-- HN:47450514:end -->
