@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47388658](https://news.social-protocols.org/stats?id=47388658) #27 449 points 127 comments -> [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)<!-- HN:47388658:end --><!-- HN:47385439:start -->
 * [47385439](https://news.social-protocols.org/stats?id=47385439) #29 167 points 93 comments -> [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)<!-- HN:47385439:end --><!-- HN:47442215:start -->
 * [47442215](https://news.social-protocols.org/stats?id=47442215) #27 63 points 18 comments -> [Love of corporate bullshit is correlated with bad judgment](https://pluralistic.net/2026/03/19/jargon-watch/)<!-- HN:47442215:end -->
+#### **Friday, March 20, 2026**
+<!-- HN:47447317:start -->
+* [47447317](https://news.social-protocols.org/stats?id=47447317) #23 20 points 6 comments -> [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)<!-- HN:47447317:end -->
