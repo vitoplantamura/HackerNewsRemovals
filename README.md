@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, March 14, 2026**
-<!-- HN:47371486:start -->
-* [47371486](https://news.social-protocols.org/stats?id=47371486) #3 18 points 2 comments -> ["Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"](https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md)<!-- HN:47371486:end --><!-- HN:47310815:start -->
-* [47310815](https://news.social-protocols.org/stats?id=47310815) #10 58 points 5 comments -> [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)<!-- HN:47310815:end --><!-- HN:47310591:start -->
-* [47310591](https://news.social-protocols.org/stats?id=47310591) #23 6 points 2 comments -> [Show HN: Robotics runtime in the browser (flight controller, WebAssembly)](https://cdn.copper-robotics.com/demo/flight-controller/index.html)<!-- HN:47310591:end --><!-- HN:47309397:start -->
-* [47309397](https://news.social-protocols.org/stats?id=47309397) #30 243 points 46 comments -> [Okmain: How to pick an OK main colour of an image](https://dgroshev.com/blog/okmain/)<!-- HN:47309397:end --><!-- HN:47374676:start -->
-* [47374676](https://news.social-protocols.org/stats?id=47374676) #1 61 points 10 comments -> [Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture](https://tboteproject.com)<!-- HN:47374676:end --><!-- HN:47375008:start -->
-* [47375008](https://news.social-protocols.org/stats?id=47375008) #9 9 points 7 comments -> [UCP Protocol: The Internet Has 100M Shops and No Front Door](https://askucp.com/blog)<!-- HN:47375008:end --><!-- HN:47374958:start -->
-* [47374958](https://news.social-protocols.org/stats?id=47374958) #22 8 points 3 comments -> [Show HN: AgentArmor – open-source 8-layer security framework for AI agents](https://github.com/Agastya910/agentarmor)<!-- HN:47374958:end --><!-- HN:47378946:start -->
-* [47378946](https://news.social-protocols.org/stats?id=47378946) #5 5 points 0 comments -> [The United States of Eugenics](https://conversationalist.org/2025/04/17/united-states-america-eugenics-politics-policy-race-science-disablism-transphobia-racism-xenophobia-trump-immigration/)<!-- HN:47378946:end --><!-- HN:47379391:start -->
-* [47379391](https://news.social-protocols.org/stats?id=47379391) #11 32 points 7 comments -> [Digg.com Closing Due to Spam](https://digg.com?hn)<!-- HN:47379391:end --><!-- HN:47380530:start -->
-* [47380530](https://news.social-protocols.org/stats?id=47380530) #29 4 points 1 comments -> [Jürgen Habermas, influential German philosopher, dies at 96](https://www.washingtonpost.com/world/2026/03/14/juergen-habermas-dead-germany/8b2c0bc0-1fb0-11f1-a29c-fd43da9a479a_story.html)<!-- HN:47380530:end --><!-- HN:47380637:start -->
-* [47380637](https://news.social-protocols.org/stats?id=47380637) #12 3 points 0 comments -> [I rebuilt a daily habit because the default experience felt broken](https://apps.apple.com/us/app/brzzy-weather-local-forecasts/id6670187343)<!-- HN:47380637:end --><!-- HN:47381336:start -->
-* [47381336](https://news.social-protocols.org/stats?id=47381336) #18 5 points 4 comments -> [Cursor billed us $450 for a seat that existed for seconds](https://cursor.com)<!-- HN:47381336:end --><!-- HN:47381261:start -->
-* [47381261](https://news.social-protocols.org/stats?id=47381261) #22 54 points 8 comments -> [Jared Kushner Solicits Funds for His Firm While Working as Mideast Envoy](https://www.nytimes.com/2026/03/13/business/jared-kushner-affinity-mideast-funds.html)<!-- HN:47381261:end -->
 #### **Sunday, March 15, 2026**
 <!-- HN:47382739:start -->
 * [47382739](https://news.social-protocols.org/stats?id=47382739) #11 103 points 2 comments -> [FCC chairman threatens TV broadcast licenses over news coverage](https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/)<!-- HN:47382739:end --><!-- HN:47383298:start -->
