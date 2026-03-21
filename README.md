@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47454241](https://news.social-protocols.org/stats?id=47454241) #25 12 points 21 comments -> [Nvidia's Huang pitches AI tokens on top of salary](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)<!-- HN:47454241:end --><!-- HN:47457929:start -->
 * [47457929](https://news.social-protocols.org/stats?id=47457929) #9 34 points 7 comments -> [US to deploy additional troops to the Middle East, officials say](https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/)<!-- HN:47457929:end --><!-- HN:47459969:start -->
 * [47459969](https://news.social-protocols.org/stats?id=47459969) #11 24 points 9 comments -> [Time to Dump Windows?](https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/)<!-- HN:47459969:end -->
+#### **Saturday, March 21, 2026**
+<!-- HN:47462298:start -->
+* [47462298](https://news.social-protocols.org/stats?id=47462298) #9 28 points 21 comments -> [Why I'm Not Worried About Running Out of Work in the Age of AI](https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/)<!-- HN:47462298:end -->
