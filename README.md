@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, March 21, 2026**
 <!-- HN:47462298:start -->
 * [47462298](https://news.social-protocols.org/stats?id=47462298) #9 28 points 21 comments -> [Why I'm Not Worried About Running Out of Work in the Age of AI](https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/)<!-- HN:47462298:end --><!-- HN:47407293:start -->
-* [47407293](https://news.social-protocols.org/stats?id=47407293) #29 158 points 54 comments -> [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)<!-- HN:47407293:end -->
+* [47407293](https://news.social-protocols.org/stats?id=47407293) #29 158 points 54 comments -> [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)<!-- HN:47407293:end --><!-- HN:47464127:start -->
+* [47464127](https://news.social-protocols.org/stats?id=47464127) #25 17 points 2 comments -> [Israel and Weapons of Mass Destruction](https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction)<!-- HN:47464127:end -->
