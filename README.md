@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47459969](https://news.social-protocols.org/stats?id=47459969) #11 24 points 9 comments -> [Time to Dump Windows?](https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/)<!-- HN:47459969:end -->
 #### **Saturday, March 21, 2026**
 <!-- HN:47462298:start -->
-* [47462298](https://news.social-protocols.org/stats?id=47462298) #9 28 points 21 comments -> [Why I'm Not Worried About Running Out of Work in the Age of AI](https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/)<!-- HN:47462298:end -->
+* [47462298](https://news.social-protocols.org/stats?id=47462298) #9 28 points 21 comments -> [Why I'm Not Worried About Running Out of Work in the Age of AI](https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/)<!-- HN:47462298:end --><!-- HN:47462837:start -->
+* [47462837](https://news.social-protocols.org/stats?id=47462837) #8 3 points 1 comments -> [The Iran War Is Destroying Something More Valuable Than Oil](https://houseofsaud.com/iran-war-refinery-crisis-saudi-aramco/)<!-- HN:47462837:end -->
