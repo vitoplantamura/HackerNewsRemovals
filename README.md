@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47475039](https://news.social-protocols.org/stats?id=47475039) #28 5 points 0 comments -> [Rat King](https://en.wikipedia.org/wiki/Rat_king)<!-- HN:47475039:end --><!-- HN:47475232:start -->
 * [47475232](https://news.social-protocols.org/stats?id=47475232) #10 7 points 0 comments -> [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)<!-- HN:47475232:end --><!-- HN:47477653:start -->
 * [47477653](https://news.social-protocols.org/stats?id=47477653) #29 15 points 9 comments -> [Nintendo's not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)<!-- HN:47477653:end --><!-- HN:47477491:start -->
-* [47477491](https://news.social-protocols.org/stats?id=47477491) #24 9 points 10 comments -> [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)<!-- HN:47477491:end -->
+* [47477491](https://news.social-protocols.org/stats?id=47477491) #24 9 points 10 comments -> [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)<!-- HN:47477491:end --><!-- HN:47477339:start -->
+* [47477339](https://news.social-protocols.org/stats?id=47477339) #13 21 points 19 comments -> [Revise – An AI Editor for Documents](https://revise.io)<!-- HN:47477339:end -->
