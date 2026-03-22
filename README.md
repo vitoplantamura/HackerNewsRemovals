@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47473231](https://news.social-protocols.org/stats?id=47473231) #10 15 points 5 comments -> [JavaScript Is Enough](https://geajs.com/)<!-- HN:47473231:end --><!-- HN:47417424:start -->
 * [47417424](https://news.social-protocols.org/stats?id=47417424) #24 18 points 2 comments -> [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)<!-- HN:47417424:end --><!-- HN:47475039:start -->
 * [47475039](https://news.social-protocols.org/stats?id=47475039) #28 5 points 0 comments -> [Rat King](https://en.wikipedia.org/wiki/Rat_king)<!-- HN:47475039:end --><!-- HN:47475232:start -->
-* [47475232](https://news.social-protocols.org/stats?id=47475232) #10 7 points 0 comments -> [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)<!-- HN:47475232:end -->
+* [47475232](https://news.social-protocols.org/stats?id=47475232) #10 7 points 0 comments -> [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)<!-- HN:47475232:end --><!-- HN:47477653:start -->
+* [47477653](https://news.social-protocols.org/stats?id=47477653) #29 15 points 9 comments -> [Nintendo's not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)<!-- HN:47477653:end -->
