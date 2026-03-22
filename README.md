@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47471120](https://news.social-protocols.org/stats?id=47471120) #27 8 points 0 comments -> [Prevalence of GenAI sexualized image usage by adolescents in the US](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342824)<!-- HN:47471120:end -->
 #### **Sunday, March 22, 2026**
 <!-- HN:47471805:start -->
-* [47471805](https://news.social-protocols.org/stats?id=47471805) #5 68 points 11 comments -> [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)<!-- HN:47471805:end -->
+* [47471805](https://news.social-protocols.org/stats?id=47471805) #5 68 points 11 comments -> [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)<!-- HN:47471805:end --><!-- HN:47473231:start -->
+* [47473231](https://news.social-protocols.org/stats?id=47473231) #10 15 points 5 comments -> [JavaScript Is Enough](https://geajs.com/)<!-- HN:47473231:end -->
