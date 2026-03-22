@@ -143,3 +143,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47411110](https://news.social-protocols.org/stats?id=47411110) #8 78 points 9 comments -> [The seven hour explosion nobody could explain](https://phys.org/news/2026-03-hour-explosion.html)<!-- HN:47411110:end --><!-- HN:47413486:start -->
 * [47413486](https://news.social-protocols.org/stats?id=47413486) #23 7 points 0 comments -> [Esqueleto Tutorial](https://entropicthoughts.com/esqueleto-tutorial)<!-- HN:47413486:end --><!-- HN:47471120:start -->
 * [47471120](https://news.social-protocols.org/stats?id=47471120) #27 8 points 0 comments -> [Prevalence of GenAI sexualized image usage by adolescents in the US](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342824)<!-- HN:47471120:end -->
+#### **Sunday, March 22, 2026**
+<!-- HN:47471805:start -->
+* [47471805](https://news.social-protocols.org/stats?id=47471805) #5 68 points 11 comments -> [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)<!-- HN:47471805:end -->
