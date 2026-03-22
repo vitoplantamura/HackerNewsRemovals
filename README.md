@@ -128,8 +128,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47471120](https://news.social-protocols.org/stats?id=47471120) #27 8 points 0 comments -> [Prevalence of GenAI sexualized image usage by adolescents in the US](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342824)<!-- HN:47471120:end -->
 #### **Sunday, March 22, 2026**
 <!-- HN:47471805:start -->
-* [47471805](https://news.social-protocols.org/stats?id=47471805) #5 68 points 11 comments -> [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)<!-- HN:47471805:end --><!-- HN:47473231:start -->
-* [47473231](https://news.social-protocols.org/stats?id=47473231) #10 15 points 5 comments -> [JavaScript Is Enough](https://geajs.com/)<!-- HN:47473231:end --><!-- HN:47417424:start -->
+* [47471805](https://news.social-protocols.org/stats?id=47471805) #5 68 points 11 comments -> [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)<!-- HN:47471805:end --><!-- HN:47417424:start -->
 * [47417424](https://news.social-protocols.org/stats?id=47417424) #24 18 points 2 comments -> [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)<!-- HN:47417424:end --><!-- HN:47475039:start -->
 * [47475039](https://news.social-protocols.org/stats?id=47475039) #28 5 points 0 comments -> [Rat King](https://en.wikipedia.org/wiki/Rat_king)<!-- HN:47475039:end --><!-- HN:47475232:start -->
 * [47475232](https://news.social-protocols.org/stats?id=47475232) #10 7 points 0 comments -> [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)<!-- HN:47475232:end --><!-- HN:47477653:start -->
