@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47471805:start -->
 * [47471805](https://news.social-protocols.org/stats?id=47471805) #5 68 points 11 comments -> [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)<!-- HN:47471805:end --><!-- HN:47473231:start -->
 * [47473231](https://news.social-protocols.org/stats?id=47473231) #10 15 points 5 comments -> [JavaScript Is Enough](https://geajs.com/)<!-- HN:47473231:end --><!-- HN:47417424:start -->
-* [47417424](https://news.social-protocols.org/stats?id=47417424) #24 18 points 2 comments -> [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)<!-- HN:47417424:end -->
+* [47417424](https://news.social-protocols.org/stats?id=47417424) #24 18 points 2 comments -> [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)<!-- HN:47417424:end --><!-- HN:47475039:start -->
+* [47475039](https://news.social-protocols.org/stats?id=47475039) #28 5 points 0 comments -> [Rat King](https://en.wikipedia.org/wiki/Rat_king)<!-- HN:47475039:end -->
