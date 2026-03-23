@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47483233](https://news.social-protocols.org/stats?id=47483233) #9 8 points 1 comments -> [Supply Chain Attack on Trivy](https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack)<!-- HN:47483233:end -->
 #### **Monday, March 23, 2026**
 <!-- HN:47483371:start -->
-* [47483371](https://news.social-protocols.org/stats?id=47483371) #10 26 points 14 comments -> [Why I Vibe in Go, Not Rust or Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)<!-- HN:47483371:end -->
+* [47483371](https://news.social-protocols.org/stats?id=47483371) #10 26 points 14 comments -> [Why I Vibe in Go, Not Rust or Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)<!-- HN:47483371:end --><!-- HN:47487040:start -->
+* [47487040](https://news.social-protocols.org/stats?id=47487040) #3 5 points 0 comments -> [GB News seems to have become Reform TV–and Ofcom hasn't stopped it](https://www.prospectmagazine.co.uk/ideas/media/72784/gb-news-reform-tv-no-one-stopped-it)<!-- HN:47487040:end -->
