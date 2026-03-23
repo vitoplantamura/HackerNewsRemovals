@@ -200,3 +200,10 @@
 * [47389858](https://news.ycombinator.com/item?id=47389858) #3 31 points 9 comments -> [Tech companies defeat bill as AI drains local water supplies](https://www.theolympus.net/13531/)<!-- HN:47389858:end --><!-- HN:47389472:start -->
 * [47389472](https://news.ycombinator.com/item?id=47389472) #8 12 points 5 comments -> [The most brilliant move in corporate history?](https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/)<!-- HN:47389472:end --><!-- HN:47390287:start -->
 * [47390287](https://news.ycombinator.com/item?id=47390287) #8 8 points 1 comments -> [AI Didn't Make Expertise Optional. It Made It More Valuable](https://getaibook.com/blog/ai-didnt-make-expertise-optional/)<!-- HN:47390287:end -->
+#### **Monday, March 16, 2026**
+<!-- HN:47332593:start -->
+* [47332593](https://news.ycombinator.com/item?id=47332593) #13 116 points 63 comments -> [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)<!-- HN:47332593:end --><!-- HN:47396122:start -->
+* [47396122](https://news.ycombinator.com/item?id=47396122) #10 5 points 1 comments -> [A curated list of AI slops](https://github.com/yikerman/awesome-ai-slop)<!-- HN:47396122:end --><!-- HN:47397163:start -->
+* [47397163](https://news.ycombinator.com/item?id=47397163) #9 4 points 0 comments -> [LoKI – Local AI Assistant for Linux and WSL](https://schneider-ki.com/)<!-- HN:47397163:end --><!-- HN:47339463:start -->
+* [47339463](https://news.ycombinator.com/item?id=47339463) #25 173 points 69 comments -> [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner)<!-- HN:47339463:end --><!-- HN:47339818:start -->
+* [47339818](https://news.ycombinator.com/item?id=47339818) #27 202 points 76 comments -> [Bus travel from Lima to Rio de Janeiro](https://kenschutte.com/lima-to-rio-by-bus/)<!-- HN:47339818:end -->

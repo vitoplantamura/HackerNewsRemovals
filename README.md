@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, March 16, 2026**
-<!-- HN:47332593:start -->
-* [47332593](https://news.social-protocols.org/stats?id=47332593) #13 116 points 63 comments -> [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)<!-- HN:47332593:end --><!-- HN:47396122:start -->
-* [47396122](https://news.social-protocols.org/stats?id=47396122) #10 5 points 1 comments -> [A curated list of AI slops](https://github.com/yikerman/awesome-ai-slop)<!-- HN:47396122:end --><!-- HN:47397163:start -->
-* [47397163](https://news.social-protocols.org/stats?id=47397163) #9 4 points 0 comments -> [LoKI – Local AI Assistant for Linux and WSL](https://schneider-ki.com/)<!-- HN:47397163:end --><!-- HN:47339463:start -->
-* [47339463](https://news.social-protocols.org/stats?id=47339463) #25 173 points 69 comments -> [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner)<!-- HN:47339463:end --><!-- HN:47339818:start -->
-* [47339818](https://news.social-protocols.org/stats?id=47339818) #27 202 points 76 comments -> [Bus travel from Lima to Rio de Janeiro](https://kenschutte.com/lima-to-rio-by-bus/)<!-- HN:47339818:end -->
 #### **Tuesday, March 17, 2026**
 <!-- HN:47406569:start -->
 * [47406569](https://news.social-protocols.org/stats?id=47406569) #25 20 points 10 comments -> [Show HN: Trackm, a personal finance web app](https://trackm.net)<!-- HN:47406569:end --><!-- HN:47407846:start -->
