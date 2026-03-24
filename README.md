@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 24, 2026**
 <!-- HN:47496798:start -->
 * [47496798](https://news.social-protocols.org/stats?id=47496798) #6 31 points 29 comments -> [No, Windows Start does not use React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)<!-- HN:47496798:end --><!-- HN:47496232:start -->
-* [47496232](https://news.social-protocols.org/stats?id=47496232) #9 16 points 4 comments -> [Study: Workers who fall for 'corporate bullshit' may be worse at their jobs](https://www.theguardian.com/business/2026/mar/23/corporate-speak-study)<!-- HN:47496232:end -->
+* [47496232](https://news.social-protocols.org/stats?id=47496232) #9 16 points 4 comments -> [Study: Workers who fall for 'corporate bullshit' may be worse at their jobs](https://www.theguardian.com/business/2026/mar/23/corporate-speak-study)<!-- HN:47496232:end --><!-- HN:47498108:start -->
+* [47498108](https://news.social-protocols.org/stats?id=47498108) #2 16 points 2 comments -> [US bans new foreign-made consumer Internet routers](https://www.bbc.com/news/articles/c74787w149zo)<!-- HN:47498108:end -->
