@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47439821](https://news.social-protocols.org/stats?id=47439821) #20 12 points 1 comments -> [Conway's Game of Life, in real life](https://lcamtuf.coredump.cx/blog/conway/)<!-- HN:47439821:end --><!-- HN:47495820:start -->
 * [47495820](https://news.social-protocols.org/stats?id=47495820) #7 11 points 1 comments -> [FCC adds "routers produced in foreign countries" to covered list [pdf]](https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf)<!-- HN:47495820:end --><!-- HN:47495966:start -->
 * [47495966](https://news.social-protocols.org/stats?id=47495966) #17 9 points 20 comments -> [Nvidia CEO Jensen Huang says 'I think we've achieved AGI'](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)<!-- HN:47495966:end -->
+#### **Tuesday, March 24, 2026**
+<!-- HN:47496798:start -->
+* [47496798](https://news.social-protocols.org/stats?id=47496798) #6 31 points 29 comments -> [No, Windows Start does not use React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)<!-- HN:47496798:end -->
