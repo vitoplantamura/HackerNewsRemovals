@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47495966](https://news.social-protocols.org/stats?id=47495966) #17 9 points 20 comments -> [Nvidia CEO Jensen Huang says 'I think we've achieved AGI'](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)<!-- HN:47495966:end -->
 #### **Tuesday, March 24, 2026**
 <!-- HN:47496798:start -->
-* [47496798](https://news.social-protocols.org/stats?id=47496798) #6 31 points 29 comments -> [No, Windows Start does not use React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)<!-- HN:47496798:end -->
+* [47496798](https://news.social-protocols.org/stats?id=47496798) #6 31 points 29 comments -> [No, Windows Start does not use React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)<!-- HN:47496798:end --><!-- HN:47496232:start -->
+* [47496232](https://news.social-protocols.org/stats?id=47496232) #9 16 points 4 comments -> [Study: Workers who fall for 'corporate bullshit' may be worse at their jobs](https://www.theguardian.com/business/2026/mar/23/corporate-speak-study)<!-- HN:47496232:end -->
