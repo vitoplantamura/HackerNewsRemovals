@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, March 25, 2026**
 <!-- HN:47513098:start -->
 * [47513098](https://news.social-protocols.org/stats?id=47513098) #22 69 points 27 comments -> [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)<!-- HN:47513098:end --><!-- HN:47517105:start -->
-* [47517105](https://news.social-protocols.org/stats?id=47517105) #7 36 points 6 comments -> [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)<!-- HN:47517105:end -->
+* [47517105](https://news.social-protocols.org/stats?id=47517105) #7 36 points 6 comments -> [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)<!-- HN:47517105:end --><!-- HN:47517904:start -->
+* [47517904](https://news.social-protocols.org/stats?id=47517904) #25 6 points 0 comments -> [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)<!-- HN:47517904:end -->
