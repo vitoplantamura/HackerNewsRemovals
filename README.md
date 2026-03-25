@@ -138,3 +138,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47439413](https://news.social-protocols.org/stats?id=47439413) #24 123 points 131 comments -> [No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML](https://qitejs.qount25.dev)<!-- HN:47439413:end --><!-- HN:47510657:start -->
 * [47510657](https://news.social-protocols.org/stats?id=47510657) #11 10 points 3 comments -> [Thoughts on LLMs – Psychological Complications](https://parsingphase.dev/tech/LLMs/psychologicalFactors.html)<!-- HN:47510657:end --><!-- HN:47509234:start -->
 * [47509234](https://news.social-protocols.org/stats?id=47509234) #5 197 points 1 comments -> [Disney Exits OpenAI Deal After AI Giant Shutters Sora](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)<!-- HN:47509234:end -->
+#### **Wednesday, March 25, 2026**
+<!-- HN:47513098:start -->
+* [47513098](https://news.social-protocols.org/stats?id=47513098) #22 69 points 27 comments -> [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)<!-- HN:47513098:end -->
