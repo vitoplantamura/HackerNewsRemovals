@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, March 18, 2026**
-<!-- HN:47420307:start -->
-* [47420307](https://news.social-protocols.org/stats?id=47420307) #17 9 points 1 comments -> [FAQs About the Public Debt](https://www.treasurydirect.gov/help-center/public-debt-faqs/)<!-- HN:47420307:end --><!-- HN:47361251:start -->
-* [47361251](https://news.social-protocols.org/stats?id=47361251) #17 115 points 30 comments -> [Chrome extension adjusts video speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)<!-- HN:47361251:end --><!-- HN:47421742:start -->
-* [47421742](https://news.social-protocols.org/stats?id=47421742) #29 4 points 0 comments -> [Show HN: Bank Parser – Convert US Bank Statement PDFs to QuickBooks-Ready Excel](https://bank-parser.com)<!-- HN:47421742:end --><!-- HN:47367601:start -->
-* [47367601](https://news.social-protocols.org/stats?id=47367601) #11 116 points 30 comments -> [Pandas Exercises for Data Analysis (Interactive)](https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/)<!-- HN:47367601:end --><!-- HN:47371749:start -->
-* [47371749](https://news.social-protocols.org/stats?id=47371749) #12 79 points 40 comments -> [A Tiny Camera Revealed a Hidden Passage in the Great Pyramid](https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/)<!-- HN:47371749:end --><!-- HN:47372367:start -->
-* [47372367](https://news.social-protocols.org/stats?id=47372367) #14 379 points 103 comments -> [JPEG Compression](https://www.sophielwang.com/blog/jpeg)<!-- HN:47372367:end --><!-- HN:47369883:start -->
-* [47369883](https://news.social-protocols.org/stats?id=47369883) #30 313 points 47 comments -> [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory)<!-- HN:47369883:end --><!-- HN:47427271:start -->
-* [47427271](https://news.social-protocols.org/stats?id=47427271) #13 17 points 8 comments -> [Wide logging: Stripe's canonical log line pattern](https://blog.alcazarsec.com/tech/posts/wide-logging)<!-- HN:47427271:end --><!-- HN:47427388:start -->
-* [47427388](https://news.social-protocols.org/stats?id=47427388) #1 98 points 2 comments -> [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)<!-- HN:47427388:end --><!-- HN:47378568:start -->
-* [47378568](https://news.social-protocols.org/stats?id=47378568) #23 7 points 1 comments -> [A dither generator for triangular and hexagonal pixels (2025)](https://danieltemkin.com/DitherStudies)<!-- HN:47378568:end --><!-- HN:47427290:start -->
-* [47427290](https://news.social-protocols.org/stats?id=47427290) #11 57 points 17 comments -> [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)<!-- HN:47427290:end --><!-- HN:47431428:start -->
-* [47431428](https://news.social-protocols.org/stats?id=47431428) #28 11 points 1 comments -> [NYC High School Student Freed After 10 Months in ICE Detention](https://www.nytimes.com/2026/03/18/nyregion/nyc-high-school-student-ice-freed.html)<!-- HN:47431428:end --><!-- HN:47432522:start -->
-* [47432522](https://news.social-protocols.org/stats?id=47432522) #1 -> [Website to post Claude fuck ups](https://claudedidwhat.wtf)<!-- HN:47432522:end -->
 #### **Thursday, March 19, 2026**
 <!-- HN:47433363:start -->
 * [47433363](https://news.social-protocols.org/stats?id=47433363) #13 5 points 0 comments -> [Unplug ICE](https://unplugice.org/)<!-- HN:47433363:end --><!-- HN:47432540:start -->
