@@ -136,3 +136,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47523053](https://news.social-protocols.org/stats?id=47523053) #11 5 points 1 comments -> [Supreme Court rules ISPs aren't liable for subscribers' music piracy](https://www.engadget.com/entertainment/streaming/supreme-court-rules-isps-arent-liable-for-subscribers-music-piracy-163412791.html)<!-- HN:47523053:end --><!-- HN:47522492:start -->
 * [47522492](https://news.social-protocols.org/stats?id=47522492) #20 5 points 3 comments -> [Tired of Ghost Positions in Companies?](https://ghostjobs.net)<!-- HN:47522492:end --><!-- HN:47524633:start -->
 * [47524633](https://news.social-protocols.org/stats?id=47524633) #29 10 points 0 comments -> [ICE has been lying about being authorized to make arrests at immigration courts](https://bsky.app/profile/bradlander.bsky.social/post/3mhvpk32vxc2e)<!-- HN:47524633:end -->
+#### **Thursday, March 26, 2026**
+<!-- HN:47481983:start -->
+* [47481983](https://news.social-protocols.org/stats?id=47481983) #17 6 points 0 comments -> [We Solved the Recording Problem. The Playback Problem Is Still Broken](https://medium.com/@jo.sagar/we-solved-the-recording-problem-the-playback-problem-is-still-broken-1768038911b3)<!-- HN:47481983:end -->
