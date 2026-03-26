@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, March 26, 2026**
 <!-- HN:47481983:start -->
 * [47481983](https://news.social-protocols.org/stats?id=47481983) #17 6 points 0 comments -> [We Solved the Recording Problem. The Playback Problem Is Still Broken](https://medium.com/@jo.sagar/we-solved-the-recording-problem-the-playback-problem-is-still-broken-1768038911b3)<!-- HN:47481983:end --><!-- HN:47526276:start -->
-* [47526276](https://news.social-protocols.org/stats?id=47526276) #8 19 points 11 comments -> [Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens](https://justfielding.com/blog/nit-replacing-git-with-zig)<!-- HN:47526276:end -->
+* [47526276](https://news.social-protocols.org/stats?id=47526276) #8 19 points 11 comments -> [Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens](https://justfielding.com/blog/nit-replacing-git-with-zig)<!-- HN:47526276:end --><!-- HN:47528380:start -->
+* [47528380](https://news.social-protocols.org/stats?id=47528380) #4 35 points 32 comments -> [Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)<!-- HN:47528380:end -->
