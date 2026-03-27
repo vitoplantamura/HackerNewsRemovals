@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, March 20, 2026**
-<!-- HN:47406731:start -->
-* [47406731](https://news.social-protocols.org/stats?id=47406731) #23 6 points 1 comments -> [I built a clip-on muscle sensor so personal trainers can show clients progress](https://inara.technology)<!-- HN:47406731:end --><!-- HN:47450514:start -->
-* [47450514](https://news.social-protocols.org/stats?id=47450514) #25 9 points 2 comments -> [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)<!-- HN:47450514:end --><!-- HN:47452828:start -->
-* [47452828](https://news.social-protocols.org/stats?id=47452828) #14 42 points 31 comments -> [3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html)<!-- HN:47452828:end --><!-- HN:47453728:start -->
-* [47453728](https://news.social-protocols.org/stats?id=47453728) #5 7 points 6 comments -> [The 12" chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)<!-- HN:47453728:end --><!-- HN:47454241:start -->
-* [47454241](https://news.social-protocols.org/stats?id=47454241) #25 12 points 21 comments -> [Nvidia's Huang pitches AI tokens on top of salary](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)<!-- HN:47454241:end --><!-- HN:47457929:start -->
-* [47457929](https://news.social-protocols.org/stats?id=47457929) #9 34 points 7 comments -> [US to deploy additional troops to the Middle East, officials say](https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/)<!-- HN:47457929:end --><!-- HN:47459969:start -->
-* [47459969](https://news.social-protocols.org/stats?id=47459969) #11 24 points 9 comments -> [Time to Dump Windows?](https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/)<!-- HN:47459969:end -->
 #### **Saturday, March 21, 2026**
 <!-- HN:47462298:start -->
 * [47462298](https://news.social-protocols.org/stats?id=47462298) #9 28 points 21 comments -> [Why I'm Not Worried About Running Out of Work in the Age of AI](https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/)<!-- HN:47462298:end --><!-- HN:47407293:start -->
