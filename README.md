@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47532145](https://news.social-protocols.org/stats?id=47532145) #22 45 points 6 comments -> [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill)<!-- HN:47532145:end --><!-- HN:47457407:start -->
 * [47457407](https://news.social-protocols.org/stats?id=47457407) #5 106 points 49 comments -> [Fermented foods shaped human biology](https://press.asimov.com/articles/culture-shift)<!-- HN:47457407:end --><!-- HN:47534830:start -->
 * [47534830](https://news.social-protocols.org/stats?id=47534830) #30 11 points 5 comments -> [The Secret History of European Intelligence and Mossad's Assassination Campaign](https://www.lrb.co.uk/the-paper/v48/n06/andrew-cockburn/beware-the-mattress)<!-- HN:47534830:end -->
+#### **Friday, March 27, 2026**
+<!-- HN:47495076:start -->
+* [47495076](https://news.social-protocols.org/stats?id=47495076) #9 10 points 0 comments -> [Every Kid Gets a Robot](https://www.steamconnection.org/ekgar)<!-- HN:47495076:end -->
