@@ -145,8 +145,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47495076:start -->
 * [47495076](https://news.social-protocols.org/stats?id=47495076) #9 10 points 0 comments -> [Every Kid Gets a Robot](https://www.steamconnection.org/ekgar)<!-- HN:47495076:end --><!-- HN:47538078:start -->
 * [47538078](https://news.social-protocols.org/stats?id=47538078) #18 83 points 46 comments -> [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)<!-- HN:47538078:end --><!-- HN:47540422:start -->
-* [47540422](https://news.social-protocols.org/stats?id=47540422) #4 -> [Was the Iran War Caused by AI Psychosis?](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/)<!-- HN:47540422:end --><!-- HN:47540929:start -->
-* [47540929](https://news.social-protocols.org/stats?id=47540929) #4 26 points 40 comments -> [Should QA Exist](https://www.rubick.com/should-qa-exist/)<!-- HN:47540929:end --><!-- HN:47490571:start -->
+* [47540422](https://news.social-protocols.org/stats?id=47540422) #4 -> [Was the Iran War Caused by AI Psychosis?](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/)<!-- HN:47540422:end --><!-- HN:47490571:start -->
 * [47490571](https://news.social-protocols.org/stats?id=47490571) #16 6 points 3 comments -> [Understanding the Go Runtime: The Garbage Collector](https://internals-for-interns.com/posts/go-garbage-collector/)<!-- HN:47490571:end --><!-- HN:47543361:start -->
 * [47543361](https://news.social-protocols.org/stats?id=47543361) #29 17 points 14 comments -> [Rising Air-Conditioning Use Intensifies Global Warming](https://www.nature.com/articles/s41467-026-69393-1)<!-- HN:47543361:end --><!-- HN:47544006:start -->
 * [47544006](https://news.social-protocols.org/stats?id=47544006) #9 20 points 6 comments -> [SimpleX Chat](https://simplex.chat/)<!-- HN:47544006:end -->
