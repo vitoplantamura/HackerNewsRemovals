@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, March 27, 2026**
 <!-- HN:47495076:start -->
 * [47495076](https://news.social-protocols.org/stats?id=47495076) #9 10 points 0 comments -> [Every Kid Gets a Robot](https://www.steamconnection.org/ekgar)<!-- HN:47495076:end --><!-- HN:47538078:start -->
-* [47538078](https://news.social-protocols.org/stats?id=47538078) #18 83 points 46 comments -> [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)<!-- HN:47538078:end -->
+* [47538078](https://news.social-protocols.org/stats?id=47538078) #18 83 points 46 comments -> [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)<!-- HN:47538078:end --><!-- HN:47540422:start -->
+* [47540422](https://news.social-protocols.org/stats?id=47540422) #4 -> [Was the Iran War Caused by AI Psychosis?](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/)<!-- HN:47540422:end -->
