@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47546181](https://news.social-protocols.org/stats?id=47546181) #27 5 points 0 comments -> [Statistics Canada to Replace Food and Gas with "Huge TVs" in Inflation Reporting](https://lzon.ca/posts/series/duck/tv-inflation/)<!-- HN:47546181:end --><!-- HN:47547686:start -->
 * [47547686](https://news.social-protocols.org/stats?id=47547686) #7 4 points 0 comments -> [The telnyx packages on PyPI have been compromised](https://lwn.net/Articles/1065059/)<!-- HN:47547686:end --><!-- HN:47547671:start -->
 * [47547671](https://news.social-protocols.org/stats?id=47547671) #2 13 points 3 comments -> [Was the Iran War Caused by AI Psychosis?](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/)<!-- HN:47547671:end -->
+#### **Saturday, March 28, 2026**
+<!-- HN:47511838:start -->
+* [47511838](https://news.social-protocols.org/stats?id=47511838) #20 19 points 8 comments -> [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives)<!-- HN:47511838:end -->
