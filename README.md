@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47547671](https://news.social-protocols.org/stats?id=47547671) #2 13 points 3 comments -> [Was the Iran War Caused by AI Psychosis?](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/)<!-- HN:47547671:end -->
 #### **Saturday, March 28, 2026**
 <!-- HN:47511838:start -->
-* [47511838](https://news.social-protocols.org/stats?id=47511838) #20 19 points 8 comments -> [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives)<!-- HN:47511838:end -->
+* [47511838](https://news.social-protocols.org/stats?id=47511838) #20 19 points 8 comments -> [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives)<!-- HN:47511838:end --><!-- HN:47550366:start -->
+* [47550366](https://news.social-protocols.org/stats?id=47550366) #11 3 points 1 comments -> [Brent Price Now – Free AI oil market insights and email price alerts](https://brentpricenow.top/price-alerts)<!-- HN:47550366:end -->
