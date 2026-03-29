@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47558813](https://news.social-protocols.org/stats?id=47558813) #25 8 points 0 comments -> [Roman Catholic Churches See a Surge of New Converts](https://www.nytimes.com/2026/03/26/us/catholics-converts.html)<!-- HN:47558813:end -->
 #### **Sunday, March 29, 2026**
 <!-- HN:47559026:start -->
-* [47559026](https://news.social-protocols.org/stats?id=47559026) #25 6 points 0 comments -> [Attie.ai](https://attie.ai/login)<!-- HN:47559026:end -->
+* [47559026](https://news.social-protocols.org/stats?id=47559026) #25 6 points 0 comments -> [Attie.ai](https://attie.ai/login)<!-- HN:47559026:end --><!-- HN:47560592:start -->
+* [47560592](https://news.social-protocols.org/stats?id=47560592) #29 15 points 5 comments -> [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474)<!-- HN:47560592:end -->
