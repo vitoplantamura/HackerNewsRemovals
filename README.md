@@ -147,4 +147,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, March 29, 2026**
 <!-- HN:47559026:start -->
 * [47559026](https://news.social-protocols.org/stats?id=47559026) #25 6 points 0 comments -> [Attie.ai](https://attie.ai/login)<!-- HN:47559026:end --><!-- HN:47560592:start -->
-* [47560592](https://news.social-protocols.org/stats?id=47560592) #29 15 points 5 comments -> [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474)<!-- HN:47560592:end -->
+* [47560592](https://news.social-protocols.org/stats?id=47560592) #29 15 points 5 comments -> [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474)<!-- HN:47560592:end --><!-- HN:47506889:start -->
+* [47506889](https://news.social-protocols.org/stats?id=47506889) #21 64 points 2 comments -> [Meta Partners with Arm to Develop New Class of Data Center Silicon](https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/)<!-- HN:47506889:end -->
