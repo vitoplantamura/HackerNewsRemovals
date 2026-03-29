@@ -146,5 +146,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47558813](https://news.social-protocols.org/stats?id=47558813) #25 8 points 0 comments -> [Roman Catholic Churches See a Surge of New Converts](https://www.nytimes.com/2026/03/26/us/catholics-converts.html)<!-- HN:47558813:end -->
 #### **Sunday, March 29, 2026**
 <!-- HN:47559026:start -->
-* [47559026](https://news.social-protocols.org/stats?id=47559026) #25 6 points 0 comments -> [Attie.ai](https://attie.ai/login)<!-- HN:47559026:end --><!-- HN:47559948:start -->
-* [47559948](https://news.social-protocols.org/stats?id=47559948) #25 30 points 40 comments -> [Will the AI data centre boom become a $9T bust?](https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723)<!-- HN:47559948:end -->
+* [47559026](https://news.social-protocols.org/stats?id=47559026) #25 6 points 0 comments -> [Attie.ai](https://attie.ai/login)<!-- HN:47559026:end -->
