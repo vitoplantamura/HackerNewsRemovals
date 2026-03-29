@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47557058](https://news.social-protocols.org/stats?id=47557058) #21 15 points 4 comments -> [Improving personal tax filing with Claude CLI and Obsidian](https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian)<!-- HN:47557058:end --><!-- HN:47557804:start -->
 * [47557804](https://news.social-protocols.org/stats?id=47557804) #30 12 points 0 comments -> [Iran images appear to show land mines scattered by U.S. forces, a first in years](https://www.washingtonpost.com/investigations/2026/03/27/iran-us-land-mines/)<!-- HN:47557804:end --><!-- HN:47558813:start -->
 * [47558813](https://news.social-protocols.org/stats?id=47558813) #25 8 points 0 comments -> [Roman Catholic Churches See a Surge of New Converts](https://www.nytimes.com/2026/03/26/us/catholics-converts.html)<!-- HN:47558813:end -->
+#### **Sunday, March 29, 2026**
+<!-- HN:47559026:start -->
+* [47559026](https://news.social-protocols.org/stats?id=47559026) #25 6 points 0 comments -> [Attie.ai](https://attie.ai/login)<!-- HN:47559026:end -->
