@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, March 22, 2026**
-<!-- HN:47471805:start -->
-* [47471805](https://news.social-protocols.org/stats?id=47471805) #5 68 points 11 comments -> [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)<!-- HN:47471805:end --><!-- HN:47417424:start -->
-* [47417424](https://news.social-protocols.org/stats?id=47417424) #24 18 points 2 comments -> [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)<!-- HN:47417424:end --><!-- HN:47475039:start -->
-* [47475039](https://news.social-protocols.org/stats?id=47475039) #28 5 points 0 comments -> [Rat King](https://en.wikipedia.org/wiki/Rat_king)<!-- HN:47475039:end --><!-- HN:47475232:start -->
-* [47475232](https://news.social-protocols.org/stats?id=47475232) #10 7 points 0 comments -> [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)<!-- HN:47475232:end --><!-- HN:47477653:start -->
-* [47477653](https://news.social-protocols.org/stats?id=47477653) #29 15 points 9 comments -> [Nintendo's not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)<!-- HN:47477653:end --><!-- HN:47477491:start -->
-* [47477491](https://news.social-protocols.org/stats?id=47477491) #24 9 points 10 comments -> [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)<!-- HN:47477491:end --><!-- HN:47477068:start -->
-* [47477068](https://news.social-protocols.org/stats?id=47477068) #24 32 points 16 comments -> [Convincing Is Not Persuading](https://blog.alaindichiappari.dev/p/convincing-is-not-persuading)<!-- HN:47477068:end --><!-- HN:47480638:start -->
-* [47480638](https://news.social-protocols.org/stats?id=47480638) #4 8 points 1 comments -> [The biggest theft in human history occurred in broad daylight](https://labyrinth.pika.page/posts/the-biggest-theft-in-human-history-occurred-in-broad-daylight)<!-- HN:47480638:end --><!-- HN:47480492:start -->
-* [47480492](https://news.social-protocols.org/stats?id=47480492) #13 10 points 1 comments -> [Show HN: A Markdown file that turns your AI agent into an autonomous researcher](https://github.com/krzysztofdudek/ResearcherSkill)<!-- HN:47480492:end --><!-- HN:47480644:start -->
-* [47480644](https://news.social-protocols.org/stats?id=47480644) #12 19 points 5 comments -> [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage)<!-- HN:47480644:end --><!-- HN:47482252:start -->
-* [47482252](https://news.social-protocols.org/stats?id=47482252) #6 13 points 1 comments -> [AI Is Garbage and a Bubble](https://www.richardcarrier.info/archives/38652)<!-- HN:47482252:end --><!-- HN:47482585:start -->
-* [47482585](https://news.social-protocols.org/stats?id=47482585) #12 4 points 0 comments -> [Kash Patel's Nike Shoes Weren't Customized by Nike](https://www.yellopolitics.com/p/kash-patels-garish-custom-shoes-werent)<!-- HN:47482585:end --><!-- HN:47483211:start -->
-* [47483211](https://news.social-protocols.org/stats?id=47483211) #9 5 points 0 comments -> [51% of freelancers experience non-payment – payment-gated delivery as a solution](https://proposallock.vercel.app)<!-- HN:47483211:end --><!-- HN:47483233:start -->
-* [47483233](https://news.social-protocols.org/stats?id=47483233) #9 8 points 1 comments -> [Supply Chain Attack on Trivy](https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack)<!-- HN:47483233:end -->
 #### **Monday, March 23, 2026**
 <!-- HN:47483371:start -->
 * [47483371](https://news.social-protocols.org/stats?id=47483371) #10 26 points 14 comments -> [Why I Vibe in Go, Not Rust or Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)<!-- HN:47483371:end --><!-- HN:47487040:start -->
