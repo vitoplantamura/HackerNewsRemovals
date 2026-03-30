@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, March 30, 2026**
 <!-- HN:47568939:start -->
 * [47568939](https://news.social-protocols.org/stats?id=47568939) #13 7 points 1 comments -> [AI Tokens Are Mana](https://www.proofofconcept.pub/p/ai-tokens-are-mana)<!-- HN:47568939:end --><!-- HN:47569290:start -->
-* [47569290](https://news.social-protocols.org/stats?id=47569290) #7 14 points 14 comments -> [Something unexpected: Sunbathers live longer](https://www.health.harvard.edu/blog/heres-something-unexpected-sunbathers-live-longer-201606069738)<!-- HN:47569290:end -->
+* [47569290](https://news.social-protocols.org/stats?id=47569290) #7 14 points 14 comments -> [Something unexpected: Sunbathers live longer](https://www.health.harvard.edu/blog/heres-something-unexpected-sunbathers-live-longer-201606069738)<!-- HN:47569290:end --><!-- HN:47569835:start -->
+* [47569835](https://news.social-protocols.org/stats?id=47569835) #7 9 points 0 comments -> [Pretext](https://simonwillison.net/2026/Mar/29/pretext/)<!-- HN:47569835:end -->
