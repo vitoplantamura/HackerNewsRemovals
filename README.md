@@ -140,5 +140,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47566491](https://news.social-protocols.org/stats?id=47566491) #17 106 points 54 comments -> [The "Vibe Coding" Wall of Shame](https://crackr.dev/vibe-coding-failures)<!-- HN:47566491:end -->
 #### **Monday, March 30, 2026**
 <!-- HN:47568939:start -->
-* [47568939](https://news.social-protocols.org/stats?id=47568939) #13 7 points 1 comments -> [AI Tokens Are Mana](https://www.proofofconcept.pub/p/ai-tokens-are-mana)<!-- HN:47568939:end --><!-- HN:47568954:start -->
-* [47568954](https://news.social-protocols.org/stats?id=47568954) #28 7 points 0 comments -> [Israel suspends battalion assaulting, detaining CNN crew in West Bank](https://www.cnn.com/2026/03/29/middleeast/idf-suspends-battalion-assaulting-cnn-crew-in-west-bank-intl)<!-- HN:47568954:end -->
+* [47568939](https://news.social-protocols.org/stats?id=47568939) #13 7 points 1 comments -> [AI Tokens Are Mana](https://www.proofofconcept.pub/p/ai-tokens-are-mana)<!-- HN:47568939:end -->
