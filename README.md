@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, March 23, 2026**
-<!-- HN:47483371:start -->
-* [47483371](https://news.social-protocols.org/stats?id=47483371) #10 26 points 14 comments -> [Why I Vibe in Go, Not Rust or Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)<!-- HN:47483371:end --><!-- HN:47487040:start -->
-* [47487040](https://news.social-protocols.org/stats?id=47487040) #3 5 points 0 comments -> [GB News seems to have become Reform TV–and Ofcom hasn't stopped it](https://www.prospectmagazine.co.uk/ideas/media/72784/gb-news-reform-tv-no-one-stopped-it)<!-- HN:47487040:end --><!-- HN:47486644:start -->
-* [47486644](https://news.social-protocols.org/stats?id=47486644) #2 45 points 38 comments -> [White-Collar AI Apocalypse Narrative Is Just Another Bullshit](https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/)<!-- HN:47486644:end --><!-- HN:47488089:start -->
-* [47488089](https://news.social-protocols.org/stats?id=47488089) #23 12 points 7 comments -> [Trump Postpones Iran Energy Strikes for Five Days, Citing "Productive" Talks](https://sharetxt.live/blog/markets-react-as-trump-postpones-strikes-on-irans-power-plants)<!-- HN:47488089:end --><!-- HN:47489662:start -->
-* [47489662](https://news.social-protocols.org/stats?id=47489662) #10 12 points 1 comments -> [Wikipedia bans eight editors, six of them anti-Israel](https://www.jns.org/israel-news/wikipedia-bans-8-editors-6-of-them-anti-israel)<!-- HN:47489662:end --><!-- HN:47491117:start -->
-* [47491117](https://news.social-protocols.org/stats?id=47491117) #4 10 points 3 comments -> [Sed, a powerfull mini-language from the 70s](https://julienlargetpiet.tech/articles/sed-a-powerfull-mini-language-from-the-70s.html)<!-- HN:47491117:end --><!-- HN:47492285:start -->
-* [47492285](https://news.social-protocols.org/stats?id=47492285) #5 -> [Unix philosophy is dead Long live something else?](https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/)<!-- HN:47492285:end --><!-- HN:47493312:start -->
-* [47493312](https://news.social-protocols.org/stats?id=47493312) #11 -> [The machine didn't take your craft. You gave it up](https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/)<!-- HN:47493312:end --><!-- HN:47494232:start -->
-* [47494232](https://news.social-protocols.org/stats?id=47494232) #9 3 points 1 comments -> [We analyzed 134,000 legal AI interactions. Lawyers still win](https://haqq.ai/whitepaper/legal-ai-index)<!-- HN:47494232:end --><!-- HN:47495168:start -->
-* [47495168](https://news.social-protocols.org/stats?id=47495168) #8 -> [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)<!-- HN:47495168:end --><!-- HN:47494733:start -->
-* [47494733](https://news.social-protocols.org/stats?id=47494733) #27 7 points 2 comments -> [The machine didn't take your craft. You gave it up.](https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/)<!-- HN:47494733:end --><!-- HN:47495684:start -->
-* [47495684](https://news.social-protocols.org/stats?id=47495684) #2 16 points 0 comments -> [FCC Adds Routers Produced in Foreign Countries to Covered List](https://www.fcc.gov/document/fcc-adds-routers-produced-foreign-countries-covered-list)<!-- HN:47495684:end --><!-- HN:47494655:start -->
-* [47494655](https://news.social-protocols.org/stats?id=47494655) #24 15 points 12 comments -> [Next-generation electricity is almost here](https://www.gatesnotes.com/work/accelerate-energy-innovation/reader/the-next-generation-of-electricity-is-almost-here)<!-- HN:47494655:end --><!-- HN:47439821:start -->
-* [47439821](https://news.social-protocols.org/stats?id=47439821) #20 12 points 1 comments -> [Conway's Game of Life, in real life](https://lcamtuf.coredump.cx/blog/conway/)<!-- HN:47439821:end --><!-- HN:47495820:start -->
-* [47495820](https://news.social-protocols.org/stats?id=47495820) #7 11 points 1 comments -> [FCC adds "routers produced in foreign countries" to covered list [pdf]](https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf)<!-- HN:47495820:end --><!-- HN:47495966:start -->
-* [47495966](https://news.social-protocols.org/stats?id=47495966) #17 9 points 20 comments -> [Nvidia CEO Jensen Huang says 'I think we've achieved AGI'](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)<!-- HN:47495966:end -->
 #### **Tuesday, March 24, 2026**
 <!-- HN:47496798:start -->
 * [47496798](https://news.social-protocols.org/stats?id=47496798) #6 31 points 29 comments -> [No, Windows Start does not use React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)<!-- HN:47496798:end --><!-- HN:47496232:start -->
