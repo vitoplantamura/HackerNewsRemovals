@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47566491](https://news.social-protocols.org/stats?id=47566491) #17 106 points 54 comments -> [The "Vibe Coding" Wall of Shame](https://crackr.dev/vibe-coding-failures)<!-- HN:47566491:end -->
 #### **Monday, March 30, 2026**
 <!-- HN:47568939:start -->
-* [47568939](https://news.social-protocols.org/stats?id=47568939) #13 7 points 1 comments -> [AI Tokens Are Mana](https://www.proofofconcept.pub/p/ai-tokens-are-mana)<!-- HN:47568939:end -->
+* [47568939](https://news.social-protocols.org/stats?id=47568939) #13 7 points 1 comments -> [AI Tokens Are Mana](https://www.proofofconcept.pub/p/ai-tokens-are-mana)<!-- HN:47568939:end --><!-- HN:47569290:start -->
+* [47569290](https://news.social-protocols.org/stats?id=47569290) #7 14 points 14 comments -> [Something unexpected: Sunbathers live longer](https://www.health.harvard.edu/blog/heres-something-unexpected-sunbathers-live-longer-201606069738)<!-- HN:47569290:end -->
