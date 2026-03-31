@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, March 31, 2026**
 <!-- HN:47543332:start -->
 * [47543332](https://news.social-protocols.org/stats?id=47543332) #11 8 points 2 comments -> [Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/)<!-- HN:47543332:end --><!-- HN:47582545:start -->
-* [47582545](https://news.social-protocols.org/stats?id=47582545) #5 -> [Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)<!-- HN:47582545:end -->
+* [47582545](https://news.social-protocols.org/stats?id=47582545) #5 -> [Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)<!-- HN:47582545:end --><!-- HN:47582496:start -->
+* [47582496](https://news.social-protocols.org/stats?id=47582496) #15 -> [Show HN: Will AI take my job](https://aijobsreport.org/quiz)<!-- HN:47582496:end -->
