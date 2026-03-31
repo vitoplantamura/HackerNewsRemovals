@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47578310](https://news.social-protocols.org/stats?id=47578310) #17 5 points 2 comments -> [How Does Offline Bitcoin Signing Work Step by Step](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)<!-- HN:47578310:end -->
 #### **Tuesday, March 31, 2026**
 <!-- HN:47543332:start -->
-* [47543332](https://news.social-protocols.org/stats?id=47543332) #11 8 points 2 comments -> [Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/)<!-- HN:47543332:end -->
+* [47543332](https://news.social-protocols.org/stats?id=47543332) #11 8 points 2 comments -> [Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/)<!-- HN:47543332:end --><!-- HN:47582545:start -->
+* [47582545](https://news.social-protocols.org/stats?id=47582545) #5 -> [Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)<!-- HN:47582545:end -->
