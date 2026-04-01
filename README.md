@@ -137,3 +137,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47592183](https://news.social-protocols.org/stats?id=47592183) #21 9 points 18 comments -> [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)<!-- HN:47592183:end --><!-- HN:47593432:start -->
 * [47593432](https://news.social-protocols.org/stats?id=47593432) #4 -> [OpenAI raises $122B to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)<!-- HN:47593432:end --><!-- HN:47594040:start -->
 * [47594040](https://news.social-protocols.org/stats?id=47594040) #20 3 points 1 comments -> [Unhealthiest Foods on the Planet, According to Science](https://techfixated.com/100-unhealthiest-foods-on-the-planet-according-to-science/)<!-- HN:47594040:end -->
+#### **Wednesday, April 1, 2026**
+<!-- HN:47595873:start -->
+* [47595873](https://news.social-protocols.org/stats?id=47595873) #8 7 points 0 comments -> [Obsidian and Cursor had a baby. It's open source](https://cushionmd.com/)<!-- HN:47595873:end -->
