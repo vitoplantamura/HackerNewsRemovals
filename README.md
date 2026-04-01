@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 1, 2026**
 <!-- HN:47595873:start -->
 * [47595873](https://news.social-protocols.org/stats?id=47595873) #8 7 points 0 comments -> [Obsidian and Cursor had a baby. It's open source](https://cushionmd.com/)<!-- HN:47595873:end --><!-- HN:47596654:start -->
-* [47596654](https://news.social-protocols.org/stats?id=47596654) #1 32 points 24 comments -> [I built a 516-panel financial terminal in 3 weeks using AI](https://neuberg.ai/)<!-- HN:47596654:end -->
+* [47596654](https://news.social-protocols.org/stats?id=47596654) #1 32 points 24 comments -> [I built a 516-panel financial terminal in 3 weeks using AI](https://neuberg.ai/)<!-- HN:47596654:end --><!-- HN:47591104:start -->
+* [47591104](https://news.social-protocols.org/stats?id=47591104) #23 434 points 90 comments -> [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)<!-- HN:47591104:end -->
