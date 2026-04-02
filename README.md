@@ -141,5 +141,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47606195](https://news.social-protocols.org/stats?id=47606195) #9 8 points 0 comments -> [Software Engineering Is Becoming Civil Engineering](https://christophermeiklejohn.com/ai/engineering/2026/04/01/software-engineering-is-becoming-civil-engineering.html)<!-- HN:47606195:end --><!-- HN:47605270:start -->
 * [47605270](https://news.social-protocols.org/stats?id=47605270) #20 71 points 2 comments -> [SpaceX confidentially files to go public at $1.75T, reports say](https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market)<!-- HN:47605270:end -->
 #### **Thursday, April 2, 2026**
-<!-- HN:47607394:start -->
-* [47607394](https://news.social-protocols.org/stats?id=47607394) #25 6 points 1 comments -> [Open source CAD for Windows 2000 (SolveSpace)](https://github.com/solvespace/solvespace/issues/1036)<!-- HN:47607394:end -->
