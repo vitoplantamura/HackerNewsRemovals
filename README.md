@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, March 26, 2026**
-<!-- HN:47481983:start -->
-* [47481983](https://news.social-protocols.org/stats?id=47481983) #17 6 points 0 comments -> [We Solved the Recording Problem. The Playback Problem Is Still Broken](https://medium.com/@jo.sagar/we-solved-the-recording-problem-the-playback-problem-is-still-broken-1768038911b3)<!-- HN:47481983:end --><!-- HN:47526276:start -->
-* [47526276](https://news.social-protocols.org/stats?id=47526276) #8 19 points 11 comments -> [Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens](https://justfielding.com/blog/nit-replacing-git-with-zig)<!-- HN:47526276:end --><!-- HN:47528380:start -->
-* [47528380](https://news.social-protocols.org/stats?id=47528380) #4 35 points 32 comments -> [Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)<!-- HN:47528380:end --><!-- HN:47528683:start -->
-* [47528683](https://news.social-protocols.org/stats?id=47528683) #19 10 points 17 comments -> [Show HN: Relay – The open-source Claude Cowork for OpenClaw](https://github.com/SeventeenLabs/relay)<!-- HN:47528683:end --><!-- HN:47526467:start -->
-* [47526467](https://news.social-protocols.org/stats?id=47526467) #16 17 points 3 comments -> [The Cassandra of 'The Machine'](https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine)<!-- HN:47526467:end --><!-- HN:47529534:start -->
-* [47529534](https://news.social-protocols.org/stats?id=47529534) #8 288 points 199 comments -> [Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids](https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict)<!-- HN:47529534:end --><!-- HN:47530984:start -->
-* [47530984](https://news.social-protocols.org/stats?id=47530984) #23 63 points 7 comments -> [Meta and YouTube Found Negligent in Social-Media Addiction Trial](https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d)<!-- HN:47530984:end --><!-- HN:47529646:start -->
-* [47529646](https://news.social-protocols.org/stats?id=47529646) #5 533 points 120 comments -> [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c)<!-- HN:47529646:end --><!-- HN:47462834:start -->
-* [47462834](https://news.social-protocols.org/stats?id=47462834) #17 14 points 9 comments -> [Ant Chat](https://www.baothiento.com/ant-chat)<!-- HN:47462834:end --><!-- HN:47532145:start -->
-* [47532145](https://news.social-protocols.org/stats?id=47532145) #22 45 points 6 comments -> [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill)<!-- HN:47532145:end --><!-- HN:47457407:start -->
-* [47457407](https://news.social-protocols.org/stats?id=47457407) #5 106 points 49 comments -> [Fermented foods shaped human biology](https://press.asimov.com/articles/culture-shift)<!-- HN:47457407:end --><!-- HN:47534830:start -->
-* [47534830](https://news.social-protocols.org/stats?id=47534830) #30 11 points 5 comments -> [The Secret History of European Intelligence and Mossad's Assassination Campaign](https://www.lrb.co.uk/the-paper/v48/n06/andrew-cockburn/beware-the-mattress)<!-- HN:47534830:end -->
 #### **Friday, March 27, 2026**
 <!-- HN:47495076:start -->
 * [47495076](https://news.social-protocols.org/stats?id=47495076) #9 10 points 0 comments -> [Every Kid Gets a Robot](https://www.steamconnection.org/ekgar)<!-- HN:47495076:end --><!-- HN:47538078:start -->
