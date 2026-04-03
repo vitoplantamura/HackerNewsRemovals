@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, April 3, 2026**
 <!-- HN:47621591:start -->
 * [47621591](https://news.social-protocols.org/stats?id=47621591) #19 30 points 22 comments -> [Every Law a Commit – US Law in GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)<!-- HN:47621591:end --><!-- HN:47622776:start -->
-* [47622776](https://news.social-protocols.org/stats?id=47622776) #16 30 points 5 comments -> [US-Israeli bombing destroys oldest medical research center in Iran](https://www.egyptindependent.com/us-israeli-bombing-destroys-oldest-medical-research-center-in-iran-official-says/)<!-- HN:47622776:end -->
+* [47622776](https://news.social-protocols.org/stats?id=47622776) #16 30 points 5 comments -> [US-Israeli bombing destroys oldest medical research center in Iran](https://www.egyptindependent.com/us-israeli-bombing-destroys-oldest-medical-research-center-in-iran-official-says/)<!-- HN:47622776:end --><!-- HN:47623665:start -->
+* [47623665](https://news.social-protocols.org/stats?id=47623665) #24 17 points 2 comments -> [Pentagon Pete's Bigoted Reason for Firing Top General Leaks](https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/)<!-- HN:47623665:end -->
