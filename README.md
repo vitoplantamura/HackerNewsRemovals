@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, March 27, 2026**
-<!-- HN:47495076:start -->
-* [47495076](https://news.social-protocols.org/stats?id=47495076) #9 10 points 0 comments -> [Every Kid Gets a Robot](https://www.steamconnection.org/ekgar)<!-- HN:47495076:end --><!-- HN:47538078:start -->
-* [47538078](https://news.social-protocols.org/stats?id=47538078) #18 83 points 46 comments -> [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)<!-- HN:47538078:end --><!-- HN:47540422:start -->
-* [47540422](https://news.social-protocols.org/stats?id=47540422) #4 -> [Was the Iran War Caused by AI Psychosis?](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/)<!-- HN:47540422:end --><!-- HN:47490571:start -->
-* [47490571](https://news.social-protocols.org/stats?id=47490571) #16 6 points 3 comments -> [Understanding the Go Runtime: The Garbage Collector](https://internals-for-interns.com/posts/go-garbage-collector/)<!-- HN:47490571:end --><!-- HN:47543361:start -->
-* [47543361](https://news.social-protocols.org/stats?id=47543361) #29 17 points 14 comments -> [Rising Air-Conditioning Use Intensifies Global Warming](https://www.nature.com/articles/s41467-026-69393-1)<!-- HN:47543361:end --><!-- HN:47544006:start -->
-* [47544006](https://news.social-protocols.org/stats?id=47544006) #9 20 points 6 comments -> [SimpleX Chat](https://simplex.chat/)<!-- HN:47544006:end --><!-- HN:47546262:start -->
-* [47546262](https://news.social-protocols.org/stats?id=47546262) #4 23 points 33 comments -> [Don't Wait for Claude](https://jeapostrophe.github.io/tech/jc-workflow/)<!-- HN:47546262:end --><!-- HN:47546028:start -->
-* [47546028](https://news.social-protocols.org/stats?id=47546028) #13 53 points 19 comments -> [We broke 92% of SHA-256 – you should start to migrate from it](https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html)<!-- HN:47546028:end --><!-- HN:47490609:start -->
-* [47490609](https://news.social-protocols.org/stats?id=47490609) #10 164 points 58 comments -> [How and why to take a logarithm of an image [video]](https://www.youtube.com/watch?v=ldxFjLJ3rVY)<!-- HN:47490609:end --><!-- HN:47546265:start -->
-* [47546265](https://news.social-protocols.org/stats?id=47546265) #1 81 points 36 comments -> [PyPI package telnyx has been compromised in yet another supply chain attack](https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm)<!-- HN:47546265:end --><!-- HN:47546081:start -->
-* [47546081](https://news.social-protocols.org/stats?id=47546081) #7 16 points 4 comments -> [Telnyx Python SDK: Supply Chain Security Notice](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)<!-- HN:47546081:end --><!-- HN:47545032:start -->
-* [47545032](https://news.social-protocols.org/stats?id=47545032) #28 150 points 3 comments -> [Iran-linked hackers have breached FBI director's personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)<!-- HN:47545032:end --><!-- HN:47546181:start -->
-* [47546181](https://news.social-protocols.org/stats?id=47546181) #27 5 points 0 comments -> [Statistics Canada to Replace Food and Gas with "Huge TVs" in Inflation Reporting](https://lzon.ca/posts/series/duck/tv-inflation/)<!-- HN:47546181:end --><!-- HN:47547686:start -->
-* [47547686](https://news.social-protocols.org/stats?id=47547686) #7 4 points 0 comments -> [The telnyx packages on PyPI have been compromised](https://lwn.net/Articles/1065059/)<!-- HN:47547686:end --><!-- HN:47547671:start -->
-* [47547671](https://news.social-protocols.org/stats?id=47547671) #2 13 points 3 comments -> [Was the Iran War Caused by AI Psychosis?](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/)<!-- HN:47547671:end -->
 #### **Saturday, March 28, 2026**
 <!-- HN:47511838:start -->
 * [47511838](https://news.social-protocols.org/stats?id=47511838) #20 19 points 8 comments -> [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives)<!-- HN:47511838:end --><!-- HN:47550366:start -->
