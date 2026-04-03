@@ -135,3 +135,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47617787](https://news.social-protocols.org/stats?id=47617787) #22 -> [Attorney General Pam Bondi Out at DOJ](https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure)<!-- HN:47617787:end --><!-- HN:47619790:start -->
 * [47619790](https://news.social-protocols.org/stats?id=47619790) #15 8 points 1 comments -> [OpenAI Launches a Ballpoint Pen](https://chatgpt.com/pro-subscriber-gift/)<!-- HN:47619790:end --><!-- HN:47621023:start -->
 * [47621023](https://news.social-protocols.org/stats?id=47621023) #17 10 points 9 comments -> [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)<!-- HN:47621023:end -->
+#### **Friday, April 3, 2026**
+<!-- HN:47621591:start -->
+* [47621591](https://news.social-protocols.org/stats?id=47621591) #19 30 points 22 comments -> [Every Law a Commit – US Law in GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)<!-- HN:47621591:end -->
