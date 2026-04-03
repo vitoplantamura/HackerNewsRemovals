@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47621023](https://news.social-protocols.org/stats?id=47621023) #17 10 points 9 comments -> [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)<!-- HN:47621023:end -->
 #### **Friday, April 3, 2026**
 <!-- HN:47621591:start -->
-* [47621591](https://news.social-protocols.org/stats?id=47621591) #19 30 points 22 comments -> [Every Law a Commit – US Law in GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)<!-- HN:47621591:end -->
+* [47621591](https://news.social-protocols.org/stats?id=47621591) #19 30 points 22 comments -> [Every Law a Commit – US Law in GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)<!-- HN:47621591:end --><!-- HN:47622776:start -->
+* [47622776](https://news.social-protocols.org/stats?id=47622776) #16 30 points 5 comments -> [US-Israeli bombing destroys oldest medical research center in Iran](https://www.egyptindependent.com/us-israeli-bombing-destroys-oldest-medical-research-center-in-iran-official-says/)<!-- HN:47622776:end -->
