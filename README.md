@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47560967](https://news.social-protocols.org/stats?id=47560967) #30 132 points 29 comments -> [A Recipe for Steganogravy](https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html)<!-- HN:47560967:end -->
 #### **Saturday, April 4, 2026**
 <!-- HN:47634738:start -->
-* [47634738](https://news.social-protocols.org/stats?id=47634738) #14 6 points 0 comments -> [Anthropic open-sourced claude-code](https://github.com/anthropics/claude-code)<!-- HN:47634738:end -->
+* [47634738](https://news.social-protocols.org/stats?id=47634738) #14 6 points 0 comments -> [Anthropic open-sourced claude-code](https://github.com/anthropics/claude-code)<!-- HN:47634738:end --><!-- HN:47601033:start -->
+* [47601033](https://news.social-protocols.org/stats?id=47601033) #5 10 points 1 comments -> [New Color Mode Coming to GIMP](https://www.gimp.org/news/2026/04/01/new-color-mode-coming-to-gimp/)<!-- HN:47601033:end -->
