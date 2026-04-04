@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 4, 2026**
 <!-- HN:47634738:start -->
 * [47634738](https://news.social-protocols.org/stats?id=47634738) #14 6 points 0 comments -> [Anthropic open-sourced claude-code](https://github.com/anthropics/claude-code)<!-- HN:47634738:end --><!-- HN:47601033:start -->
-* [47601033](https://news.social-protocols.org/stats?id=47601033) #5 10 points 1 comments -> [New Color Mode Coming to GIMP](https://www.gimp.org/news/2026/04/01/new-color-mode-coming-to-gimp/)<!-- HN:47601033:end -->
+* [47601033](https://news.social-protocols.org/stats?id=47601033) #5 10 points 1 comments -> [New Color Mode Coming to GIMP](https://www.gimp.org/news/2026/04/01/new-color-mode-coming-to-gimp/)<!-- HN:47601033:end --><!-- HN:47631732:start -->
+* [47631732](https://news.social-protocols.org/stats?id=47631732) #22 477 points 260 comments -> [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)<!-- HN:47631732:end -->
