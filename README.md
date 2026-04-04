@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47567222](https://news.social-protocols.org/stats?id=47567222) #13 390 points 212 comments -> [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html)<!-- HN:47567222:end --><!-- HN:47562135:start -->
 * [47562135](https://news.social-protocols.org/stats?id=47562135) #27 86 points 5 comments -> [Show HN: TurboQuant for vector search – 2-4 bit compression](https://github.com/RyanCodrai/py-turboquant)<!-- HN:47562135:end --><!-- HN:47560967:start -->
 * [47560967](https://news.social-protocols.org/stats?id=47560967) #30 132 points 29 comments -> [A Recipe for Steganogravy](https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html)<!-- HN:47560967:end -->
+#### **Saturday, April 4, 2026**
+<!-- HN:47634738:start -->
+* [47634738](https://news.social-protocols.org/stats?id=47634738) #14 6 points 0 comments -> [Anthropic open-sourced claude-code](https://github.com/anthropics/claude-code)<!-- HN:47634738:end -->
