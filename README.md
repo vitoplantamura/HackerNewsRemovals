@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, March 29, 2026**
-<!-- HN:47559026:start -->
-* [47559026](https://news.social-protocols.org/stats?id=47559026) #25 6 points 0 comments -> [Attie.ai](https://attie.ai/login)<!-- HN:47559026:end --><!-- HN:47560592:start -->
-* [47560592](https://news.social-protocols.org/stats?id=47560592) #29 15 points 5 comments -> [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474)<!-- HN:47560592:end --><!-- HN:47506889:start -->
-* [47506889](https://news.social-protocols.org/stats?id=47506889) #21 64 points 2 comments -> [Meta Partners with Arm to Develop New Class of Data Center Silicon](https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/)<!-- HN:47506889:end --><!-- HN:47562294:start -->
-* [47562294](https://news.social-protocols.org/stats?id=47562294) #16 7 points 0 comments -> [I built a better, human like memory, for Agents](https://github.com/emson/elfmem)<!-- HN:47562294:end --><!-- HN:47562589:start -->
-* [47562589](https://news.social-protocols.org/stats?id=47562589) #11 29 points 15 comments -> [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)<!-- HN:47562589:end --><!-- HN:47563325:start -->
-* [47563325](https://news.social-protocols.org/stats?id=47563325) #8 18 points 20 comments -> [Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges](https://mcpaas.live/globe)<!-- HN:47563325:end --><!-- HN:47563172:start -->
-* [47563172](https://news.social-protocols.org/stats?id=47563172) #25 -> [Patriot Crisis: US Embezzles Switzerland's Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)<!-- HN:47563172:end --><!-- HN:47563921:start -->
-* [47563921](https://news.social-protocols.org/stats?id=47563921) #13 51 points 10 comments -> [App that shows real-time lightning on Earth is showing bombings in Middle East](https://maps.blitzortung.org/)<!-- HN:47563921:end --><!-- HN:47566268:start -->
-* [47566268](https://news.social-protocols.org/stats?id=47566268) #11 14 points 1 comments -> [Personal AI Development Environment](https://github.com/rbren/personal-ai-devbox)<!-- HN:47566268:end --><!-- HN:47566491:start -->
-* [47566491](https://news.social-protocols.org/stats?id=47566491) #17 106 points 54 comments -> [The "Vibe Coding" Wall of Shame](https://crackr.dev/vibe-coding-failures)<!-- HN:47566491:end -->
 #### **Monday, March 30, 2026**
 <!-- HN:47568939:start -->
 * [47568939](https://news.social-protocols.org/stats?id=47568939) #13 7 points 1 comments -> [AI Tokens Are Mana](https://www.proofofconcept.pub/p/ai-tokens-are-mana)<!-- HN:47568939:end --><!-- HN:47569290:start -->
