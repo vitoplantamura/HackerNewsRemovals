@@ -149,4 +149,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47644410](https://news.social-protocols.org/stats?id=47644410) #5 11 points 3 comments -> [Banning All Anthropic Employees](https://joeyh.name/blog/entry/banning_all_Anthropic_employees/)<!-- HN:47644410:end -->
 #### **Sunday, April 5, 2026**
 <!-- HN:47644610:start -->
-* [47644610](https://news.social-protocols.org/stats?id=47644610) #6 18 points 22 comments -> [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)<!-- HN:47644610:end -->
+* [47644610](https://news.social-protocols.org/stats?id=47644610) #6 18 points 22 comments -> [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)<!-- HN:47644610:end --><!-- HN:47606954:start -->
+* [47606954](https://news.social-protocols.org/stats?id=47606954) #23 3 points 0 comments -> [Non-Determinism Isn't a Bug. It's Tuesday](https://www.kasava.dev/blog/why-pms-are-built-for-ai)<!-- HN:47606954:end -->
