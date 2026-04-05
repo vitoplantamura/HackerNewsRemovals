@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 5, 2026**
 <!-- HN:47644610:start -->
 * [47644610](https://news.social-protocols.org/stats?id=47644610) #6 18 points 22 comments -> [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)<!-- HN:47644610:end --><!-- HN:47606954:start -->
-* [47606954](https://news.social-protocols.org/stats?id=47606954) #23 3 points 0 comments -> [Non-Determinism Isn't a Bug. It's Tuesday](https://www.kasava.dev/blog/why-pms-are-built-for-ai)<!-- HN:47606954:end -->
+* [47606954](https://news.social-protocols.org/stats?id=47606954) #23 3 points 0 comments -> [Non-Determinism Isn't a Bug. It's Tuesday](https://www.kasava.dev/blog/why-pms-are-built-for-ai)<!-- HN:47606954:end --><!-- HN:47644605:start -->
+* [47644605](https://news.social-protocols.org/stats?id=47644605) #21 32 points 6 comments -> [Sens Ask Gabbard to Tell Americans That VPN Use Subjects Them to Surveillance](https://www.techdirt.com/2026/04/03/senators-ask-tulsi-gabbard-to-tell-americans-that-vpn-use-might-subject-them-to-domestic-surveillance/)<!-- HN:47644605:end -->
