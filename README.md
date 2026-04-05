@@ -147,3 +147,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47643620](https://news.social-protocols.org/stats?id=47643620) #18 -> [Seat Pricing Is Dead](http://seatpricing.rip/)<!-- HN:47643620:end --><!-- HN:47644291:start -->
 * [47644291](https://news.social-protocols.org/stats?id=47644291) #14 17 points 4 comments -> [America is heading for a recession – and it may be the worst yet](https://thehill.com/opinion/finance/5814974-middle-class-decline-permanent-crisis/)<!-- HN:47644291:end --><!-- HN:47644410:start -->
 * [47644410](https://news.social-protocols.org/stats?id=47644410) #5 11 points 3 comments -> [Banning All Anthropic Employees](https://joeyh.name/blog/entry/banning_all_Anthropic_employees/)<!-- HN:47644410:end -->
+#### **Sunday, April 5, 2026**
+<!-- HN:47644610:start -->
+* [47644610](https://news.social-protocols.org/stats?id=47644610) #6 18 points 22 comments -> [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)<!-- HN:47644610:end -->
