@@ -138,3 +138,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47588929](https://news.social-protocols.org/stats?id=47588929) #19 8 points 4 comments -> [DNS is Simple. DNS is Hard](https://www.wespiser.com/posts/2026-03-29-dns-simple-dns-hard.html)<!-- HN:47588929:end --><!-- HN:47652487:start -->
 * [47652487](https://news.social-protocols.org/stats?id=47652487) #29 34 points 6 comments -> [Show HN: Enter an Instagram/TikTok handle, get a data-backed price for collab](https://priceinfluencer.com)<!-- HN:47652487:end --><!-- HN:47653954:start -->
 * [47653954](https://news.social-protocols.org/stats?id=47653954) #9 4 points 0 comments -> [Policy on adding AI generated content to my software projects](https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/)<!-- HN:47653954:end -->
+#### **Monday, April 6, 2026**
+<!-- HN:47655338:start -->
+* [47655338](https://news.social-protocols.org/stats?id=47655338) #8 24 points 40 comments -> [Peter Thiel's big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)<!-- HN:47655338:end -->
