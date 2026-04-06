@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47653954](https://news.social-protocols.org/stats?id=47653954) #9 4 points 0 comments -> [Policy on adding AI generated content to my software projects](https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/)<!-- HN:47653954:end -->
 #### **Monday, April 6, 2026**
 <!-- HN:47655338:start -->
-* [47655338](https://news.social-protocols.org/stats?id=47655338) #8 24 points 40 comments -> [Peter Thiel's big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)<!-- HN:47655338:end -->
+* [47655338](https://news.social-protocols.org/stats?id=47655338) #8 24 points 40 comments -> [Peter Thiel's big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)<!-- HN:47655338:end --><!-- HN:47656035:start -->
+* [47656035](https://news.social-protocols.org/stats?id=47656035) #25 4 points 0 comments -> [US War Machine Is Built on Decades of Lies. The Assault on Iran Is No Exception](https://truthout.org/articles/us-war-machine-is-built-on-decades-of-lies-the-assault-on-iran-is-no-exception/)<!-- HN:47656035:end -->
