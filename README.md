@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, March 30, 2026**
-<!-- HN:47568939:start -->
-* [47568939](https://news.social-protocols.org/stats?id=47568939) #13 7 points 1 comments -> [AI Tokens Are Mana](https://www.proofofconcept.pub/p/ai-tokens-are-mana)<!-- HN:47568939:end --><!-- HN:47569290:start -->
-* [47569290](https://news.social-protocols.org/stats?id=47569290) #7 14 points 14 comments -> [Something unexpected: Sunbathers live longer](https://www.health.harvard.edu/blog/heres-something-unexpected-sunbathers-live-longer-201606069738)<!-- HN:47569290:end --><!-- HN:47569835:start -->
-* [47569835](https://news.social-protocols.org/stats?id=47569835) #7 9 points 0 comments -> [Pretext](https://simonwillison.net/2026/Mar/29/pretext/)<!-- HN:47569835:end --><!-- HN:47571064:start -->
-* [47571064](https://news.social-protocols.org/stats?id=47571064) #28 27 points 40 comments -> [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)<!-- HN:47571064:end --><!-- HN:47572008:start -->
-* [47572008](https://news.social-protocols.org/stats?id=47572008) #22 8 points 3 comments -> [Apple nailed AI by doing fucking nothing lol](https://xcancel.com/cryptopunk7213/status/2038351931589193953?s=20)<!-- HN:47572008:end --><!-- HN:47572611:start -->
-* [47572611](https://news.social-protocols.org/stats?id=47572611) #7 -> [MCP is great, you're just using it wrong](https://techstackups.com/comparisons/mcp-is-solving-the-wrong-problem/)<!-- HN:47572611:end --><!-- HN:47574045:start -->
-* [47574045](https://news.social-protocols.org/stats?id=47574045) #4 15 points 2 comments -> [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)<!-- HN:47574045:end --><!-- HN:47574547:start -->
-* [47574547](https://news.social-protocols.org/stats?id=47574547) #16 9 points 2 comments -> [Pharma is dosing drugs wrong – the quantum tunneling correction nobody is using](https://sectio-aurea-q.github.io/pharma-dosing-error.html)<!-- HN:47574547:end --><!-- HN:47526828:start -->
-* [47526828](https://news.social-protocols.org/stats?id=47526828) #15 15 points 7 comments -> [The coming PLG to SLG apocalypse](https://www.withsahel.com/blog/plg-to-enterprise-timeline-compression)<!-- HN:47526828:end --><!-- HN:47572910:start -->
-* [47572910](https://news.social-protocols.org/stats?id=47572910) #16 137 points 101 comments -> [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)<!-- HN:47572910:end --><!-- HN:47575212:start -->
-* [47575212](https://news.social-protocols.org/stats?id=47575212) #4 314 points 158 comments -> ["Over 1.5 million GitHub PRs have had ads injected into them by Copilot"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)<!-- HN:47575212:end --><!-- HN:47578310:start -->
-* [47578310](https://news.social-protocols.org/stats?id=47578310) #17 5 points 2 comments -> [How Does Offline Bitcoin Signing Work Step by Step](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)<!-- HN:47578310:end -->
 #### **Tuesday, March 31, 2026**
 <!-- HN:47543332:start -->
 * [47543332](https://news.social-protocols.org/stats?id=47543332) #11 8 points 2 comments -> [Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/)<!-- HN:47543332:end --><!-- HN:47582545:start -->
