@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47666170](https://news.social-protocols.org/stats?id=47666170) #14 4 points 1 comments -> [AI agents over SSH from your phone. Starting to think this is where dev is going](https://onepilotapp.com)<!-- HN:47666170:end -->
 #### **Tuesday, April 7, 2026**
 <!-- HN:47654346:start -->
-* [47654346](https://news.social-protocols.org/stats?id=47654346) #30 -> [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)<!-- HN:47654346:end -->
+* [47654346](https://news.social-protocols.org/stats?id=47654346) #30 -> [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)<!-- HN:47654346:end --><!-- HN:47670276:start -->
+* [47670276](https://news.social-protocols.org/stats?id=47670276) #27 18 points 8 comments -> [Why the majority of vibe coded projects fail](https://www.reddit.com/r/ClaudeAI/s/Vkkzi4lUW0)<!-- HN:47670276:end -->
