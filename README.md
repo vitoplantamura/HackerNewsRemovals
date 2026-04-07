@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, March 31, 2026**
-<!-- HN:47543332:start -->
-* [47543332](https://news.social-protocols.org/stats?id=47543332) #11 8 points 2 comments -> [Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/)<!-- HN:47543332:end --><!-- HN:47582545:start -->
-* [47582545](https://news.social-protocols.org/stats?id=47582545) #5 -> [Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)<!-- HN:47582545:end --><!-- HN:47582496:start -->
-* [47582496](https://news.social-protocols.org/stats?id=47582496) #15 -> [Show HN: Will AI take my job](https://aijobsreport.org/quiz)<!-- HN:47582496:end --><!-- HN:47583151:start -->
-* [47583151](https://news.social-protocols.org/stats?id=47583151) #11 9 points 13 comments -> [Show HN: Raincast – Describe an app, get a native desktop app (open source)](https://github.com/tihiera/raincast)<!-- HN:47583151:end --><!-- HN:47583586:start -->
-* [47583586](https://news.social-protocols.org/stats?id=47583586) #14 4 points 1 comments -> [2026 has been the most pivotal year in my career and it's only March](https://nullprogram.com/blog/2026/03/29/)<!-- HN:47583586:end --><!-- HN:47584009:start -->
-* [47584009](https://news.social-protocols.org/stats?id=47584009) #19 8 points 2 comments -> [Show HN: Free AI Coding Skills for Rails](https://www.railsreviews.com/skills)<!-- HN:47584009:end --><!-- HN:47561653:start -->
-* [47561653](https://news.social-protocols.org/stats?id=47561653) #14 12 points 2 comments -> [What fork() Actually Copies](https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/)<!-- HN:47561653:end --><!-- HN:47584304:start -->
-* [47584304](https://news.social-protocols.org/stats?id=47584304) #13 29 points 11 comments -> [Closed Source AI = Neofeudalism](https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html)<!-- HN:47584304:end --><!-- HN:47584850:start -->
-* [47584850](https://news.social-protocols.org/stats?id=47584850) #1 42 points 2 comments -> [Claude Code full source code leaked on NPM](https://github.com/chatgptprojects/claude-code)<!-- HN:47584850:end --><!-- HN:47586146:start -->
-* [47586146](https://news.social-protocols.org/stats?id=47586146) #12 4 points 0 comments -> [Marketplace for bots? Who needs that?](https://botstall.com)<!-- HN:47586146:end --><!-- HN:47589185:start -->
-* [47589185](https://news.social-protocols.org/stats?id=47589185) #14 8 points 1 comments -> [Dot – A Siri Replacement learns skills through Apple Shortcuts](https://apps.apple.com/us/app/dot-ai-personal-assistant/id6758647775)<!-- HN:47589185:end --><!-- HN:47591014:start -->
-* [47591014](https://news.social-protocols.org/stats?id=47591014) #15 12 points 2 comments -> [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)<!-- HN:47591014:end --><!-- HN:47521813:start -->
-* [47521813](https://news.social-protocols.org/stats?id=47521813) #24 113 points 104 comments -> [A Love Letter to 'Girl Games'](https://aftermath.site/a-love-letter-to-girl-games/)<!-- HN:47521813:end --><!-- HN:47592183:start -->
-* [47592183](https://news.social-protocols.org/stats?id=47592183) #21 9 points 18 comments -> [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)<!-- HN:47592183:end --><!-- HN:47593432:start -->
-* [47593432](https://news.social-protocols.org/stats?id=47593432) #4 -> [OpenAI raises $122B to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)<!-- HN:47593432:end --><!-- HN:47594040:start -->
-* [47594040](https://news.social-protocols.org/stats?id=47594040) #20 3 points 1 comments -> [Unhealthiest Foods on the Planet, According to Science](https://techfixated.com/100-unhealthiest-foods-on-the-planet-according-to-science/)<!-- HN:47594040:end -->
 #### **Wednesday, April 1, 2026**
 <!-- HN:47595873:start -->
 * [47595873](https://news.social-protocols.org/stats?id=47595873) #8 7 points 0 comments -> [Obsidian and Cursor had a baby. It's open source](https://cushionmd.com/)<!-- HN:47595873:end --><!-- HN:47596654:start -->
