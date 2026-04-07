@@ -152,3 +152,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47662894](https://news.social-protocols.org/stats?id=47662894) #30 5 points 0 comments -> [US-Iranian War: a best case scenario](https://kamilkazani.substack.com/p/us-iranian-war-a-best-case-scenario)<!-- HN:47662894:end --><!-- HN:47663285:start -->
 * [47663285](https://news.social-protocols.org/stats?id=47663285) #11 14 points 20 comments -> [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)<!-- HN:47663285:end --><!-- HN:47666170:start -->
 * [47666170](https://news.social-protocols.org/stats?id=47666170) #14 4 points 1 comments -> [AI agents over SSH from your phone. Starting to think this is where dev is going](https://onepilotapp.com)<!-- HN:47666170:end -->
+#### **Tuesday, April 7, 2026**
+<!-- HN:47654346:start -->
+* [47654346](https://news.social-protocols.org/stats?id=47654346) #30 -> [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)<!-- HN:47654346:end -->
