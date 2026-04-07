@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 7, 2026**
 <!-- HN:47654346:start -->
 * [47654346](https://news.social-protocols.org/stats?id=47654346) #30 -> [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)<!-- HN:47654346:end --><!-- HN:47670276:start -->
-* [47670276](https://news.social-protocols.org/stats?id=47670276) #27 18 points 8 comments -> [Why the majority of vibe coded projects fail](https://www.reddit.com/r/ClaudeAI/s/Vkkzi4lUW0)<!-- HN:47670276:end -->
+* [47670276](https://news.social-protocols.org/stats?id=47670276) #27 18 points 8 comments -> [Why the majority of vibe coded projects fail](https://www.reddit.com/r/ClaudeAI/s/Vkkzi4lUW0)<!-- HN:47670276:end --><!-- HN:47670929:start -->
+* [47670929](https://news.social-protocols.org/stats?id=47670929) #1 36 points 31 comments -> [People Love to Work Hard](https://www.anildash.com/2026/04/06/people-love-to-work-hard/)<!-- HN:47670929:end -->
