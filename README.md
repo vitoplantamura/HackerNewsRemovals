@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 8, 2026**
 <!-- HN:47682500:start -->
 * [47682500](https://news.social-protocols.org/stats?id=47682500) #16 11 points 1 comments -> [USCIS.gov sends user/visitor data to Meta and Google](https://varlog.in/inspect/)<!-- HN:47682500:end --><!-- HN:47683033:start -->
-* [47683033](https://news.social-protocols.org/stats?id=47683033) #11 10 points 1 comments -> [US, Iran say they have agreed to a two-week ceasefire](https://apnews.com/live/iran-war-israel-trump-04-07-2026)<!-- HN:47683033:end -->
+* [47683033](https://news.social-protocols.org/stats?id=47683033) #11 10 points 1 comments -> [US, Iran say they have agreed to a two-week ceasefire](https://apnews.com/live/iran-war-israel-trump-04-07-2026)<!-- HN:47683033:end --><!-- HN:47688947:start -->
+* [47688947](https://news.social-protocols.org/stats?id=47688947) #13 3 points 1 comments -> [Trier OS – Industrial Operating System](https://github.com/DougTrier/trier-os)<!-- HN:47688947:end -->
