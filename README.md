@@ -146,3 +146,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47674786](https://news.social-protocols.org/stats?id=47674786) #19 17 points 6 comments -> [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)<!-- HN:47674786:end --><!-- HN:47681954:start -->
 * [47681954](https://news.social-protocols.org/stats?id=47681954) #20 5 points 4 comments -> [Is your app idea worth building?](https://www.build-check.com/)<!-- HN:47681954:end --><!-- HN:47615041:start -->
 * [47615041](https://news.social-protocols.org/stats?id=47615041) #19 10 points 1 comments -> [Developer relations after the cheat code machine](https://sunilpai.dev/posts/developer-relations/)<!-- HN:47615041:end -->
+#### **Wednesday, April 8, 2026**
+<!-- HN:47682500:start -->
+* [47682500](https://news.social-protocols.org/stats?id=47682500) #16 11 points 1 comments -> [USCIS.gov sends user/visitor data to Meta and Google](https://varlog.in/inspect/)<!-- HN:47682500:end -->
