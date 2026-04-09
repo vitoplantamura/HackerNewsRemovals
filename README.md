@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, April 9, 2026**
 <!-- HN:47697952:start -->
 * [47697952](https://news.social-protocols.org/stats?id=47697952) #8 26 points 1 comments -> [Little Snitch for Linux – Because Nothing Else Came Close](https://obdev.at/blog/little-snitch-for-linux/)<!-- HN:47697952:end --><!-- HN:47696760:start -->
-* [47696760](https://news.social-protocols.org/stats?id=47696760) #24 22 points 40 comments -> [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)<!-- HN:47696760:end -->
+* [47696760](https://news.social-protocols.org/stats?id=47696760) #24 22 points 40 comments -> [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)<!-- HN:47696760:end --><!-- HN:47700058:start -->
+* [47700058](https://news.social-protocols.org/stats?id=47700058) #7 6 points 0 comments -> [Hungary is not just an illiberal state. It is a state with a moral mission](https://www.noemamag.com/the-return-of-the-moral-state/)<!-- HN:47700058:end -->
