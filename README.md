@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, April 2, 2026**<!-- HN:47608731:start -->
-* [47608731](https://news.social-protocols.org/stats?id=47608731) #25 6 points 6 comments -> [All Travelers Will Need Clear Carry-On Bags Starting This Summer](https://upgradedpoints.com/news/tsa-announces-new-clear-bag-policy/)<!-- HN:47608731:end --><!-- HN:47611242:start -->
-* [47611242](https://news.social-protocols.org/stats?id=47611242) #30 6 points 3 comments -> [They Planned Their Escape: A Systems Architect's Guide to the Iran Trade Scandal](https://60tb.tech/posts/iran-trade-scandal)<!-- HN:47611242:end --><!-- HN:47611500:start -->
-* [47611500](https://news.social-protocols.org/stats?id=47611500) #13 5 points 13 comments -> [Should AI have the right to say 'No' to its owner?](https://github.com/Jang-woo-AnnaSoft/execution-boundaries)<!-- HN:47611500:end --><!-- HN:47611093:start -->
-* [47611093](https://news.social-protocols.org/stats?id=47611093) #16 10 points 7 comments -> [We will all work for AGI](https://indiansinai.com/stories/we-will-work-for-agi)<!-- HN:47611093:end --><!-- HN:47613350:start -->
-* [47613350](https://news.social-protocols.org/stats?id=47613350) #6 6 points 1 comments -> [Leaked IRGC manual shows systematic use of civilian sites as missile cover](https://www.iranintl.com/en/202603319302)<!-- HN:47613350:end --><!-- HN:47613351:start -->
-* [47613351](https://news.social-protocols.org/stats?id=47613351) #27 12 points 7 comments -> [A Founder Tried to Pitch – and Got a Restraining Order](https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan)<!-- HN:47613351:end --><!-- HN:47613248:start -->
-* [47613248](https://news.social-protocols.org/stats?id=47613248) #26 14 points 41 comments -> [Which European countries have the best salaries after taxes?](https://www.euronews.com/my-europe/2026/04/02/which-european-countries-have-the-best-salaries-after-taxes)<!-- HN:47613248:end --><!-- HN:47615809:start -->
-* [47615809](https://news.social-protocols.org/stats?id=47615809) #27 9 points 2 comments -> [Inference Engine for Apple Silicon](https://github.com/ondeinference/onde)<!-- HN:47615809:end --><!-- HN:47617787:start -->
-* [47617787](https://news.social-protocols.org/stats?id=47617787) #22 -> [Attorney General Pam Bondi Out at DOJ](https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure)<!-- HN:47617787:end --><!-- HN:47619790:start -->
-* [47619790](https://news.social-protocols.org/stats?id=47619790) #15 8 points 1 comments -> [OpenAI Launches a Ballpoint Pen](https://chatgpt.com/pro-subscriber-gift/)<!-- HN:47619790:end --><!-- HN:47621023:start -->
-* [47621023](https://news.social-protocols.org/stats?id=47621023) #17 10 points 9 comments -> [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)<!-- HN:47621023:end -->
 #### **Friday, April 3, 2026**
 <!-- HN:47621591:start -->
 * [47621591](https://news.social-protocols.org/stats?id=47621591) #19 30 points 22 comments -> [Every Law a Commit – US Law in GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)<!-- HN:47621591:end --><!-- HN:47622776:start -->
