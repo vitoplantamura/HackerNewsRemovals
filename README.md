@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, April 10, 2026**
 <!-- HN:47648854:start -->
 * [47648854](https://news.social-protocols.org/stats?id=47648854) #30 16 points 2 comments -> [Progressive encoding and decoding of 'repeated' protobuffer fields](https://schilk.co/blog/protobuffer-repeat-append/)<!-- HN:47648854:end --><!-- HN:47711964:start -->
-* [47711964](https://news.social-protocols.org/stats?id=47711964) #27 33 points 20 comments -> [Sam Altman's Coworkers Say He Can Barely Code and Misunderstands Basic Concepts](https://futurism.com/artificial-intelligence/sam-altman-technical-coding)<!-- HN:47711964:end -->
+* [47711964](https://news.social-protocols.org/stats?id=47711964) #27 33 points 20 comments -> [Sam Altman's Coworkers Say He Can Barely Code and Misunderstands Basic Concepts](https://futurism.com/artificial-intelligence/sam-altman-technical-coding)<!-- HN:47711964:end --><!-- HN:47714239:start -->
+* [47714239](https://news.social-protocols.org/stats?id=47714239) #8 33 points 13 comments -> [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)<!-- HN:47714239:end -->
