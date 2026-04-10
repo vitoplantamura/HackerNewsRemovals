@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47706611](https://news.social-protocols.org/stats?id=47706611) #3 12 points 1 comments -> [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)<!-- HN:47706611:end -->
 #### **Friday, April 10, 2026**
 <!-- HN:47648854:start -->
-* [47648854](https://news.social-protocols.org/stats?id=47648854) #30 16 points 2 comments -> [Progressive encoding and decoding of 'repeated' protobuffer fields](https://schilk.co/blog/protobuffer-repeat-append/)<!-- HN:47648854:end -->
+* [47648854](https://news.social-protocols.org/stats?id=47648854) #30 16 points 2 comments -> [Progressive encoding and decoding of 'repeated' protobuffer fields](https://schilk.co/blog/protobuffer-repeat-append/)<!-- HN:47648854:end --><!-- HN:47711964:start -->
+* [47711964](https://news.social-protocols.org/stats?id=47711964) #27 33 points 20 comments -> [Sam Altman's Coworkers Say He Can Barely Code and Misunderstands Basic Concepts](https://futurism.com/artificial-intelligence/sam-altman-technical-coding)<!-- HN:47711964:end -->
