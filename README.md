@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47648854:start -->
 * [47648854](https://news.social-protocols.org/stats?id=47648854) #30 16 points 2 comments -> [Progressive encoding and decoding of 'repeated' protobuffer fields](https://schilk.co/blog/protobuffer-repeat-append/)<!-- HN:47648854:end --><!-- HN:47711964:start -->
 * [47711964](https://news.social-protocols.org/stats?id=47711964) #27 33 points 20 comments -> [Sam Altman's Coworkers Say He Can Barely Code and Misunderstands Basic Concepts](https://futurism.com/artificial-intelligence/sam-altman-technical-coding)<!-- HN:47711964:end --><!-- HN:47714239:start -->
-* [47714239](https://news.social-protocols.org/stats?id=47714239) #8 33 points 13 comments -> [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)<!-- HN:47714239:end -->
+* [47714239](https://news.social-protocols.org/stats?id=47714239) #8 33 points 13 comments -> [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)<!-- HN:47714239:end --><!-- HN:47714634:start -->
+* [47714634](https://news.social-protocols.org/stats?id=47714634) #5 15 points 2 comments -> [How Uv Works Under the Hood](https://noos.blog/posts/uv-how-it-works-under-the-hood/)<!-- HN:47714634:end -->
