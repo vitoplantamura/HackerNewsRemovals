@@ -113,3 +113,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47700058](https://news.social-protocols.org/stats?id=47700058) #7 6 points 0 comments -> [Hungary is not just an illiberal state. It is a state with a moral mission](https://www.noemamag.com/the-return-of-the-moral-state/)<!-- HN:47700058:end --><!-- HN:47706120:start -->
 * [47706120](https://news.social-protocols.org/stats?id=47706120) #7 52 points 31 comments -> [EFF Logs Out of X](https://twitter.com/EFF/status/2042278157609480566)<!-- HN:47706120:end --><!-- HN:47706611:start -->
 * [47706611](https://news.social-protocols.org/stats?id=47706611) #3 12 points 1 comments -> [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)<!-- HN:47706611:end -->
+#### **Friday, April 10, 2026**
+<!-- HN:47648854:start -->
+* [47648854](https://news.social-protocols.org/stats?id=47648854) #30 16 points 2 comments -> [Progressive encoding and decoding of 'repeated' protobuffer fields](https://schilk.co/blog/protobuffer-repeat-append/)<!-- HN:47648854:end -->
