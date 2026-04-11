@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47721516](https://news.social-protocols.org/stats?id=47721516) #22 13 points 3 comments -> ["Not Even Government Agencies" - Proton's misleading marketing](https://blog.ppb1701.com/not-even-government-agencies)<!-- HN:47721516:end -->
 #### **Saturday, April 11, 2026**
 <!-- HN:47727387:start -->
-* [47727387](https://news.social-protocols.org/stats?id=47727387) #18 33 points 40 comments -> [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)<!-- HN:47727387:end -->
+* [47727387](https://news.social-protocols.org/stats?id=47727387) #18 33 points 40 comments -> [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)<!-- HN:47727387:end --><!-- HN:47728134:start -->
+* [47728134](https://news.social-protocols.org/stats?id=47728134) #21 17 points 6 comments -> [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)<!-- HN:47728134:end -->
