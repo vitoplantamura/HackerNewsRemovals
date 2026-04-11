@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47719526](https://news.social-protocols.org/stats?id=47719526) #28 -> [Names and faces of those killed by Israel in its April 8 massacre](https://today.lorientlejour.com/article/1502922/names-and-faces-of-those-killed-by-israel-in-its-april-8-massacre.html)<!-- HN:47719526:end --><!-- HN:47721874:start -->
 * [47721874](https://news.social-protocols.org/stats?id=47721874) #14 4 points 2 comments -> [Claude AI Assistant for Microsoft Office](https://pivot.claude.ai)<!-- HN:47721874:end --><!-- HN:47721516:start -->
 * [47721516](https://news.social-protocols.org/stats?id=47721516) #22 13 points 3 comments -> ["Not Even Government Agencies" - Proton's misleading marketing](https://blog.ppb1701.com/not-even-government-agencies)<!-- HN:47721516:end -->
+#### **Saturday, April 11, 2026**
+<!-- HN:47727387:start -->
+* [47727387](https://news.social-protocols.org/stats?id=47727387) #18 33 points 40 comments -> [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)<!-- HN:47727387:end -->
