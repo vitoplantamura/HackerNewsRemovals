@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, April 4, 2026**
-<!-- HN:47634738:start -->
-* [47634738](https://news.social-protocols.org/stats?id=47634738) #14 6 points 0 comments -> [Anthropic open-sourced claude-code](https://github.com/anthropics/claude-code)<!-- HN:47634738:end --><!-- HN:47601033:start -->
-* [47601033](https://news.social-protocols.org/stats?id=47601033) #5 10 points 1 comments -> [New Color Mode Coming to GIMP](https://www.gimp.org/news/2026/04/01/new-color-mode-coming-to-gimp/)<!-- HN:47601033:end --><!-- HN:47631732:start -->
-* [47631732](https://news.social-protocols.org/stats?id=47631732) #22 477 points 260 comments -> [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)<!-- HN:47631732:end --><!-- HN:47605531:start -->
-* [47605531](https://news.social-protocols.org/stats?id=47605531) #20 5 points 0 comments -> [Paperweight, an April Fool's Prank from 40 years ago](https://www.goto10retro.com/p/paperweight-an-april-fools-prank)<!-- HN:47605531:end --><!-- HN:47635616:start -->
-* [47635616](https://news.social-protocols.org/stats?id=47635616) #16 15 points 13 comments -> [Delve sets the record straight on anonymous attacks](https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks)<!-- HN:47635616:end --><!-- HN:47637228:start -->
-* [47637228](https://news.social-protocols.org/stats?id=47637228) #5 11 points 3 comments -> [TurboQuant model weight compression support added to Llamacpp](https://github.com/TheTom/llama-cpp-turboquant/pull/45)<!-- HN:47637228:end --><!-- HN:47640770:start -->
-* [47640770](https://news.social-protocols.org/stats?id=47640770) #23 4 points 0 comments -> [Show HN: DocMason – Agent Knowledge Base for local complex office files](https://github.com/jetxu-llm/docmason)<!-- HN:47640770:end --><!-- HN:47641487:start -->
-* [47641487](https://news.social-protocols.org/stats?id=47641487) #25 7 points 4 comments -> [Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub)<!-- HN:47641487:end --><!-- HN:47643620:start -->
-* [47643620](https://news.social-protocols.org/stats?id=47643620) #18 -> [Seat Pricing Is Dead](http://seatpricing.rip/)<!-- HN:47643620:end --><!-- HN:47644291:start -->
-* [47644291](https://news.social-protocols.org/stats?id=47644291) #14 17 points 4 comments -> [America is heading for a recession – and it may be the worst yet](https://thehill.com/opinion/finance/5814974-middle-class-decline-permanent-crisis/)<!-- HN:47644291:end --><!-- HN:47644410:start -->
-* [47644410](https://news.social-protocols.org/stats?id=47644410) #5 11 points 3 comments -> [Banning All Anthropic Employees](https://joeyh.name/blog/entry/banning_all_Anthropic_employees/)<!-- HN:47644410:end -->
 #### **Sunday, April 5, 2026**
 <!-- HN:47644610:start -->
 * [47644610](https://news.social-protocols.org/stats?id=47644610) #6 18 points 22 comments -> [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)<!-- HN:47644610:end --><!-- HN:47606954:start -->
