@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 11, 2026**
 <!-- HN:47727387:start -->
 * [47727387](https://news.social-protocols.org/stats?id=47727387) #18 33 points 40 comments -> [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)<!-- HN:47727387:end --><!-- HN:47728134:start -->
-* [47728134](https://news.social-protocols.org/stats?id=47728134) #21 17 points 6 comments -> [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)<!-- HN:47728134:end -->
+* [47728134](https://news.social-protocols.org/stats?id=47728134) #21 17 points 6 comments -> [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)<!-- HN:47728134:end --><!-- HN:47729069:start -->
+* [47729069](https://news.social-protocols.org/stats?id=47729069) #22 16 points 5 comments -> [BlueHammer abuses Windows Defender's update process to gain SYSTEM access](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)<!-- HN:47729069:end -->
