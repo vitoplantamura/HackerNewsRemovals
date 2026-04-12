@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47730963](https://news.social-protocols.org/stats?id=47730963) #25 8 points 0 comments -> [Brazil seizes over 1,100 weapons and 1.5 tons of drugs from US, says official](https://www.reuters.com/world/americas/brazil-seizes-over-1100-weapons-15-tons-drugs-us-says-official-2026-04-10/)<!-- HN:47730963:end --><!-- HN:47733385:start -->
 * [47733385](https://news.social-protocols.org/stats?id=47733385) #22 9 points 20 comments -> [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)<!-- HN:47733385:end --><!-- HN:47734224:start -->
 * [47734224](https://news.social-protocols.org/stats?id=47734224) #12 7 points 0 comments -> [Democratic AI to serve the public – OneProject.org](https://oneproject.org/how-to-make-ai-serve-the-public/)<!-- HN:47734224:end -->
+#### **Sunday, April 12, 2026**
+<!-- HN:47735101:start -->
+* [47735101](https://news.social-protocols.org/stats?id=47735101) #5 21 points 15 comments -> [AI Job Loss Tracker](https://jobloss.ai/)<!-- HN:47735101:end -->
