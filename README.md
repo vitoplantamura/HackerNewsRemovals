@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47734224](https://news.social-protocols.org/stats?id=47734224) #12 7 points 0 comments -> [Democratic AI to serve the public – OneProject.org](https://oneproject.org/how-to-make-ai-serve-the-public/)<!-- HN:47734224:end -->
 #### **Sunday, April 12, 2026**
 <!-- HN:47735101:start -->
-* [47735101](https://news.social-protocols.org/stats?id=47735101) #5 21 points 15 comments -> [AI Job Loss Tracker](https://jobloss.ai/)<!-- HN:47735101:end -->
+* [47735101](https://news.social-protocols.org/stats?id=47735101) #5 21 points 15 comments -> [AI Job Loss Tracker](https://jobloss.ai/)<!-- HN:47735101:end --><!-- HN:47735704:start -->
+* [47735704](https://news.social-protocols.org/stats?id=47735704) #18 61 points 43 comments -> [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)<!-- HN:47735704:end -->
