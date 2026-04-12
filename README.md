@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 12, 2026**
 <!-- HN:47735101:start -->
 * [47735101](https://news.social-protocols.org/stats?id=47735101) #5 21 points 15 comments -> [AI Job Loss Tracker](https://jobloss.ai/)<!-- HN:47735101:end --><!-- HN:47735704:start -->
-* [47735704](https://news.social-protocols.org/stats?id=47735704) #18 61 points 43 comments -> [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)<!-- HN:47735704:end -->
+* [47735704](https://news.social-protocols.org/stats?id=47735704) #18 61 points 43 comments -> [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)<!-- HN:47735704:end --><!-- HN:47735507:start -->
+* [47735507](https://news.social-protocols.org/stats?id=47735507) #25 10 points 1 comments -> [Used Graphify to turn incidents into a queryable knowledge graph](https://github.com/Rootly-AI-Labs/rootly-graphify-importer)<!-- HN:47735507:end -->
