@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, April 6, 2026**
-<!-- HN:47655338:start -->
-* [47655338](https://news.social-protocols.org/stats?id=47655338) #8 24 points 40 comments -> [Peter Thiel's big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)<!-- HN:47655338:end --><!-- HN:47656035:start -->
-* [47656035](https://news.social-protocols.org/stats?id=47656035) #25 4 points 0 comments -> [US War Machine Is Built on Decades of Lies. The Assault on Iran Is No Exception](https://truthout.org/articles/us-war-machine-is-built-on-decades-of-lies-the-assault-on-iran-is-no-exception/)<!-- HN:47656035:end --><!-- HN:47655618:start -->
-* [47655618](https://news.social-protocols.org/stats?id=47655618) #22 10 points 3 comments -> [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/)<!-- HN:47655618:end --><!-- HN:47594345:start -->
-* [47594345](https://news.social-protocols.org/stats?id=47594345) #29 33 points 4 comments -> [Wavelets on Graphs via Spectral Graph Theory (2009)](https://arxiv.org/abs/0912.3848)<!-- HN:47594345:end --><!-- HN:47655329:start -->
-* [47655329](https://news.social-protocols.org/stats?id=47655329) #2 150 points 32 comments -> [Copilot is 'for entertainment purposes only', per Microsoft's terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)<!-- HN:47655329:end --><!-- HN:47657699:start -->
-* [47657699](https://news.social-protocols.org/stats?id=47657699) #3 46 points 30 comments -> [VS Code rebuilt on Tauri. Same architecture, 96% smaller](https://github.com/Sidenai/sidex)<!-- HN:47657699:end --><!-- HN:47658328:start -->
-* [47658328](https://news.social-protocols.org/stats?id=47658328) #7 41 points 11 comments -> [Euro-Office – Your sovereign office](https://github.com/Euro-Office)<!-- HN:47658328:end --><!-- HN:47659109:start -->
-* [47659109](https://news.social-protocols.org/stats?id=47659109) #2 264 points 73 comments -> [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)<!-- HN:47659109:end --><!-- HN:47662442:start -->
-* [47662442](https://news.social-protocols.org/stats?id=47662442) #16 20 points 41 comments -> [More Americans Are Breaking into the Upper Middle Class](https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2)<!-- HN:47662442:end --><!-- HN:47662894:start -->
-* [47662894](https://news.social-protocols.org/stats?id=47662894) #30 5 points 0 comments -> [US-Iranian War: a best case scenario](https://kamilkazani.substack.com/p/us-iranian-war-a-best-case-scenario)<!-- HN:47662894:end --><!-- HN:47666170:start -->
-* [47666170](https://news.social-protocols.org/stats?id=47666170) #14 4 points 1 comments -> [AI agents over SSH from your phone. Starting to think this is where dev is going](https://onepilotapp.com)<!-- HN:47666170:end -->
 #### **Tuesday, April 7, 2026**
 <!-- HN:47654346:start -->
 * [47654346](https://news.social-protocols.org/stats?id=47654346) #30 -> [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)<!-- HN:47654346:end --><!-- HN:47670276:start -->
