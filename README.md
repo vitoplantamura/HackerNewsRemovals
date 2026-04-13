@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47747330:start -->
 * [47747330](https://news.social-protocols.org/stats?id=47747330) #18 24 points 10 comments -> [Kindle users in uproar re: latest update, old devices now unusable: 'Fuck You '](https://nypost.com/2026/04/09/tech/kindle-to-cease-support-for-old-devices-causing-user-uproar/)<!-- HN:47747330:end --><!-- HN:47675444:start -->
 * [47675444](https://news.social-protocols.org/stats?id=47675444) #21 242 points 42 comments -> [Happy Map](https://pudding.cool/2026/02/happy-map/)<!-- HN:47675444:end --><!-- HN:47749164:start -->
-* [47749164](https://news.social-protocols.org/stats?id=47749164) #21 14 points 4 comments -> [Opus 4.6 hallucinates twice as more today than when it released](https://www.bridgebench.ai/hallucination)<!-- HN:47749164:end -->
+* [47749164](https://news.social-protocols.org/stats?id=47749164) #21 14 points 4 comments -> [Opus 4.6 hallucinates twice as more today than when it released](https://www.bridgebench.ai/hallucination)<!-- HN:47749164:end --><!-- HN:47751029:start -->
+* [47751029](https://news.social-protocols.org/stats?id=47751029) #3 12 points 0 comments -> [I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949)<!-- HN:47751029:end -->
