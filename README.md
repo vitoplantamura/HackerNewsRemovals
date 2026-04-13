@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, April 13, 2026**
 <!-- HN:47747330:start -->
 * [47747330](https://news.social-protocols.org/stats?id=47747330) #18 24 points 10 comments -> [Kindle users in uproar re: latest update, old devices now unusable: 'Fuck You '](https://nypost.com/2026/04/09/tech/kindle-to-cease-support-for-old-devices-causing-user-uproar/)<!-- HN:47747330:end --><!-- HN:47675444:start -->
-* [47675444](https://news.social-protocols.org/stats?id=47675444) #21 242 points 42 comments -> [Happy Map](https://pudding.cool/2026/02/happy-map/)<!-- HN:47675444:end -->
+* [47675444](https://news.social-protocols.org/stats?id=47675444) #21 242 points 42 comments -> [Happy Map](https://pudding.cool/2026/02/happy-map/)<!-- HN:47675444:end --><!-- HN:47749164:start -->
+* [47749164](https://news.social-protocols.org/stats?id=47749164) #21 14 points 4 comments -> [Opus 4.6 hallucinates twice as more today than when it released](https://www.bridgebench.ai/hallucination)<!-- HN:47749164:end -->
