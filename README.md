@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 14, 2026**
 <!-- HN:47757775:start -->
 * [47757775](https://news.social-protocols.org/stats?id=47757775) #29 98 points 114 comments -> [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)<!-- HN:47757775:end --><!-- HN:47759400:start -->
-* [47759400](https://news.social-protocols.org/stats?id=47759400) #18 6 points 0 comments -> [SnapState - Persistent state for AI agent workflows](https://snapstate.dev)<!-- HN:47759400:end -->
+* [47759400](https://news.social-protocols.org/stats?id=47759400) #18 6 points 0 comments -> [SnapState - Persistent state for AI agent workflows](https://snapstate.dev)<!-- HN:47759400:end --><!-- HN:47757595:start -->
+* [47757595](https://news.social-protocols.org/stats?id=47757595) #22 27 points 1 comments -> [Mathematical Minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/)<!-- HN:47757595:end -->
