@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, April 7, 2026**
-<!-- HN:47654346:start -->
-* [47654346](https://news.social-protocols.org/stats?id=47654346) #30 -> [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)<!-- HN:47654346:end --><!-- HN:47670276:start -->
-* [47670276](https://news.social-protocols.org/stats?id=47670276) #27 18 points 8 comments -> [Why the majority of vibe coded projects fail](https://www.reddit.com/r/ClaudeAI/s/Vkkzi4lUW0)<!-- HN:47670276:end --><!-- HN:47670929:start -->
-* [47670929](https://news.social-protocols.org/stats?id=47670929) #1 36 points 31 comments -> [People Love to Work Hard](https://www.anildash.com/2026/04/06/people-love-to-work-hard/)<!-- HN:47670929:end --><!-- HN:47673104:start -->
-* [47673104](https://news.social-protocols.org/stats?id=47673104) #7 9 points 2 comments -> [AI Won't Replace You, but a Manager Using AI Will](https://yanivpreiss.com/2026/04/06/ai-wont-replace-you-but-a-manager-using-ai-will/)<!-- HN:47673104:end --><!-- HN:47672268:start -->
-* [47672268](https://news.social-protocols.org/stats?id=47672268) #26 10 points 4 comments -> [Iran Is Not Blocking the Strait of Hormuz. It's Running a Toll Booth](https://www.shatterbelt.co/articles/iran-hormuz-toll-booth)<!-- HN:47672268:end --><!-- HN:47673919:start -->
-* [47673919](https://news.social-protocols.org/stats?id=47673919) #16 8 points 2 comments -> [AI agents can communicate with each other, and can't be caught](https://arxiv.org/abs/2604.04757)<!-- HN:47673919:end --><!-- HN:47674469:start -->
-* [47674469](https://news.social-protocols.org/stats?id=47674469) #22 4 points 0 comments -> [10 Enduring Lessons from Adam Smith](https://thedailyeconomy.org/article/the-wealth-of-nations-at-250-ten-profound-quotations-from-adam-smith/)<!-- HN:47674469:end --><!-- HN:47674786:start -->
-* [47674786](https://news.social-protocols.org/stats?id=47674786) #19 17 points 6 comments -> [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)<!-- HN:47674786:end --><!-- HN:47681954:start -->
-* [47681954](https://news.social-protocols.org/stats?id=47681954) #20 5 points 4 comments -> [Is your app idea worth building?](https://www.build-check.com/)<!-- HN:47681954:end --><!-- HN:47615041:start -->
-* [47615041](https://news.social-protocols.org/stats?id=47615041) #19 10 points 1 comments -> [Developer relations after the cheat code machine](https://sunilpai.dev/posts/developer-relations/)<!-- HN:47615041:end -->
 #### **Wednesday, April 8, 2026**
 <!-- HN:47682500:start -->
 * [47682500](https://news.social-protocols.org/stats?id=47682500) #16 11 points 1 comments -> [USCIS.gov sends user/visitor data to Meta and Google](https://varlog.in/inspect/)<!-- HN:47682500:end --><!-- HN:47683033:start -->
