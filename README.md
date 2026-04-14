@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47757033](https://news.social-protocols.org/stats?id=47757033) #29 20 points 19 comments -> [Google has the same AI adoption curve as John Deere](https://twitter.com/i/status/2043747998740689171)<!-- HN:47757033:end -->
 #### **Tuesday, April 14, 2026**
 <!-- HN:47757775:start -->
-* [47757775](https://news.social-protocols.org/stats?id=47757775) #29 98 points 114 comments -> [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)<!-- HN:47757775:end -->
+* [47757775](https://news.social-protocols.org/stats?id=47757775) #29 98 points 114 comments -> [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)<!-- HN:47757775:end --><!-- HN:47759400:start -->
+* [47759400](https://news.social-protocols.org/stats?id=47759400) #18 6 points 0 comments -> [SnapState - Persistent state for AI agent workflows](https://snapstate.dev)<!-- HN:47759400:end -->
