@@ -111,3 +111,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47753446](https://news.social-protocols.org/stats?id=47753446) #19 8 points 3 comments -> [Alpine Divorce: A Hike That Ends a Relationship](https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html)<!-- HN:47753446:end --><!-- HN:47756081:start -->
 * [47756081](https://news.social-protocols.org/stats?id=47756081) #21 36 points 10 comments -> [Austerity Creates Fascism](https://pluralistic.net/2026/04/12/always-great/)<!-- HN:47756081:end --><!-- HN:47757033:start -->
 * [47757033](https://news.social-protocols.org/stats?id=47757033) #29 20 points 19 comments -> [Google has the same AI adoption curve as John Deere](https://twitter.com/i/status/2043747998740689171)<!-- HN:47757033:end -->
+#### **Tuesday, April 14, 2026**
+<!-- HN:47757775:start -->
+* [47757775](https://news.social-protocols.org/stats?id=47757775) #29 98 points 114 comments -> [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)<!-- HN:47757775:end -->
