@@ -115,5 +115,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47769967](https://news.social-protocols.org/stats?id=47769967) #16 119 points 2 comments -> [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)<!-- HN:47769967:end --><!-- HN:47768195:start -->
 * [47768195](https://news.social-protocols.org/stats?id=47768195) #6 388 points 366 comments -> [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)<!-- HN:47768195:end -->
 #### **Wednesday, April 15, 2026**
-<!-- HN:47775338:start -->
-* [47775338](https://news.social-protocols.org/stats?id=47775338) #11 11 points 1 comments -> [Viral victory: Iran is beating the land of tech bros in the social media wars](https://www.theguardian.com/world/2026/apr/15/iran-beating-us-social-media-wars)<!-- HN:47775338:end -->
