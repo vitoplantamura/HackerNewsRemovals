@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47770400](https://news.social-protocols.org/stats?id=47770400) #18 2 points 2 comments -> [Show HN: Sk.illmd.com, a forum for talking about and showing off agent skills](https://skillmd.discourse.group/)<!-- HN:47770400:end --><!-- HN:47769967:start -->
 * [47769967](https://news.social-protocols.org/stats?id=47769967) #16 119 points 2 comments -> [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)<!-- HN:47769967:end --><!-- HN:47768195:start -->
 * [47768195](https://news.social-protocols.org/stats?id=47768195) #6 388 points 366 comments -> [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)<!-- HN:47768195:end -->
-#### **Wednesday, April 15, 2026**
+#### **Wednesday, April 15, 2026**<!-- HN:47779856:start -->
+* [47779856](https://news.social-protocols.org/stats?id=47779856) #18 28 points 41 comments -> [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)<!-- HN:47779856:end -->
