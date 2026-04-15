@@ -100,3 +100,11 @@
 * [47674786](https://news.ycombinator.com/item?id=47674786) #19 17 points 6 comments -> [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)<!-- HN:47674786:end --><!-- HN:47681954:start -->
 * [47681954](https://news.ycombinator.com/item?id=47681954) #20 5 points 4 comments -> [Is your app idea worth building?](https://www.build-check.com/)<!-- HN:47681954:end --><!-- HN:47615041:start -->
 * [47615041](https://news.ycombinator.com/item?id=47615041) #19 10 points 1 comments -> [Developer relations after the cheat code machine](https://sunilpai.dev/posts/developer-relations/)<!-- HN:47615041:end -->
+#### **Wednesday, April 8, 2026**
+<!-- HN:47682500:start -->
+* [47682500](https://news.ycombinator.com/item?id=47682500) #16 11 points 1 comments -> [USCIS.gov sends user/visitor data to Meta and Google](https://varlog.in/inspect/)<!-- HN:47682500:end --><!-- HN:47683033:start -->
+* [47683033](https://news.ycombinator.com/item?id=47683033) #11 10 points 1 comments -> [US, Iran say they have agreed to a two-week ceasefire](https://apnews.com/live/iran-war-israel-trump-04-07-2026)<!-- HN:47683033:end --><!-- HN:47688947:start -->
+* [47688947](https://news.ycombinator.com/item?id=47688947) #13 3 points 1 comments -> [Trier OS – Industrial Operating System](https://github.com/DougTrier/trier-os)<!-- HN:47688947:end --><!-- HN:47691363:start -->
+* [47691363](https://news.ycombinator.com/item?id=47691363) #7 18 points 22 comments -> [F-35 Got Hit](https://www.shatterbelt.co/articles/f35-got-hit)<!-- HN:47691363:end --><!-- HN:47692102:start -->
+* [47692102](https://news.ycombinator.com/item?id=47692102) #3 188 points 137 comments -> [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)<!-- HN:47692102:end --><!-- HN:47663285:start -->
+* [47663285](https://news.ycombinator.com/item?id=47663285) #22 35 points 33 comments -> [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)<!-- HN:47663285:end -->
