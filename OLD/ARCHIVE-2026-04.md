@@ -108,3 +108,10 @@
 * [47691363](https://news.ycombinator.com/item?id=47691363) #7 18 points 22 comments -> [F-35 Got Hit](https://www.shatterbelt.co/articles/f35-got-hit)<!-- HN:47691363:end --><!-- HN:47692102:start -->
 * [47692102](https://news.ycombinator.com/item?id=47692102) #3 188 points 137 comments -> [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)<!-- HN:47692102:end --><!-- HN:47663285:start -->
 * [47663285](https://news.ycombinator.com/item?id=47663285) #22 35 points 33 comments -> [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)<!-- HN:47663285:end -->
+#### **Thursday, April 9, 2026**
+<!-- HN:47697952:start -->
+* [47697952](https://news.ycombinator.com/item?id=47697952) #8 26 points 1 comments -> [Little Snitch for Linux – Because Nothing Else Came Close](https://obdev.at/blog/little-snitch-for-linux/)<!-- HN:47697952:end --><!-- HN:47696760:start -->
+* [47696760](https://news.ycombinator.com/item?id=47696760) #24 22 points 40 comments -> [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)<!-- HN:47696760:end --><!-- HN:47700058:start -->
+* [47700058](https://news.ycombinator.com/item?id=47700058) #7 6 points 0 comments -> [Hungary is not just an illiberal state. It is a state with a moral mission](https://www.noemamag.com/the-return-of-the-moral-state/)<!-- HN:47700058:end --><!-- HN:47706120:start -->
+* [47706120](https://news.ycombinator.com/item?id=47706120) #7 52 points 31 comments -> [EFF Logs Out of X](https://twitter.com/EFF/status/2042278157609480566)<!-- HN:47706120:end --><!-- HN:47706611:start -->
+* [47706611](https://news.ycombinator.com/item?id=47706611) #3 12 points 1 comments -> [I Let Claude Code Autonomously Run Ads for a Month](https://read.technically.dev/p/i-let-claude-code-autonomously-run)<!-- HN:47706611:end -->
