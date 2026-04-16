@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47784060](https://news.social-protocols.org/stats?id=47784060) #19 9 points 2 comments -> [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)<!-- HN:47784060:end -->
 #### **Thursday, April 16, 2026**
 <!-- HN:47787368:start -->
-* [47787368](https://news.social-protocols.org/stats?id=47787368) #22 53 points 9 comments -> [Amazon AI Cancelling Webcomics](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html)<!-- HN:47787368:end -->
+* [47787368](https://news.social-protocols.org/stats?id=47787368) #22 53 points 9 comments -> [Amazon AI Cancelling Webcomics](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html)<!-- HN:47787368:end --><!-- HN:47720941:start -->
+* [47720941](https://news.social-protocols.org/stats?id=47720941) #16 17 points 6 comments -> [A Mercury Rover Could Explore the Planet by Sticking to the Terminator](https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator)<!-- HN:47720941:end -->
