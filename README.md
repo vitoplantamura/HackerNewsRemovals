@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, April 16, 2026**
 <!-- HN:47787368:start -->
 * [47787368](https://news.social-protocols.org/stats?id=47787368) #22 53 points 9 comments -> [Amazon AI Cancelling Webcomics](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html)<!-- HN:47787368:end --><!-- HN:47720941:start -->
-* [47720941](https://news.social-protocols.org/stats?id=47720941) #16 17 points 6 comments -> [A Mercury Rover Could Explore the Planet by Sticking to the Terminator](https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator)<!-- HN:47720941:end -->
+* [47720941](https://news.social-protocols.org/stats?id=47720941) #16 17 points 6 comments -> [A Mercury Rover Could Explore the Planet by Sticking to the Terminator](https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator)<!-- HN:47720941:end --><!-- HN:47788773:start -->
+* [47788773](https://news.social-protocols.org/stats?id=47788773) #20 9 points 5 comments -> [AWS/GCP too expensive? Cloudexit.pro will help you move to bare-metal](https://cloudexit.pro/)<!-- HN:47788773:end -->
