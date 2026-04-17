@@ -109,3 +109,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47738520](https://news.social-protocols.org/stats?id=47738520) #12 92 points 84 comments -> [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)<!-- HN:47738520:end --><!-- HN:47737041:start -->
 * [47737041](https://news.social-protocols.org/stats?id=47737041) #18 7 points 0 comments -> [How the Roll Function Works (In APL\360 and Its Descendants)](https://www.jsoftware.com/papers/roll.htm)<!-- HN:47737041:end --><!-- HN:47798468:start -->
 * [47798468](https://news.social-protocols.org/stats?id=47798468) #20 10 points 8 comments -> [Five men control AI. Who should control them?](https://www.economist.com/insider/the-insider/five-men-control-ai-who-should-control-them)<!-- HN:47798468:end -->
+#### **Friday, April 17, 2026**
+<!-- HN:47751608:start -->
+* [47751608](https://news.social-protocols.org/stats?id=47751608) #22 12 points 10 comments -> [288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio](https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/)<!-- HN:47751608:end -->
