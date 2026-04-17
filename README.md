@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, April 17, 2026**
 <!-- HN:47751608:start -->
 * [47751608](https://news.social-protocols.org/stats?id=47751608) #22 12 points 10 comments -> [288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio](https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/)<!-- HN:47751608:end --><!-- HN:47803005:start -->
-* [47803005](https://news.social-protocols.org/stats?id=47803005) #2 11 points 5 comments -> [First bikebell against noise-canceling headphones](https://www.welovecycling.com/wide/duobell/)<!-- HN:47803005:end -->
+* [47803005](https://news.social-protocols.org/stats?id=47803005) #2 11 points 5 comments -> [First bikebell against noise-canceling headphones](https://www.welovecycling.com/wide/duobell/)<!-- HN:47803005:end --><!-- HN:47803477:start -->
+* [47803477](https://news.social-protocols.org/stats?id=47803477) #5 13 points 40 comments -> [How to make buffet breakfasts less wasteful](https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful)<!-- HN:47803477:end -->
