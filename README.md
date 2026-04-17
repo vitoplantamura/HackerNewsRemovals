@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, April 10, 2026**
-<!-- HN:47648854:start -->
-* [47648854](https://news.social-protocols.org/stats?id=47648854) #30 16 points 2 comments -> [Progressive encoding and decoding of 'repeated' protobuffer fields](https://schilk.co/blog/protobuffer-repeat-append/)<!-- HN:47648854:end --><!-- HN:47711964:start -->
-* [47711964](https://news.social-protocols.org/stats?id=47711964) #27 33 points 20 comments -> [Sam Altman's Coworkers Say He Can Barely Code and Misunderstands Basic Concepts](https://futurism.com/artificial-intelligence/sam-altman-technical-coding)<!-- HN:47711964:end --><!-- HN:47714239:start -->
-* [47714239](https://news.social-protocols.org/stats?id=47714239) #8 33 points 13 comments -> [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)<!-- HN:47714239:end --><!-- HN:47714634:start -->
-* [47714634](https://news.social-protocols.org/stats?id=47714634) #5 15 points 2 comments -> [How Uv Works Under the Hood](https://noos.blog/posts/uv-how-it-works-under-the-hood/)<!-- HN:47714634:end --><!-- HN:47715618:start -->
-* [47715618](https://news.social-protocols.org/stats?id=47715618) #26 12 points 0 comments -> [Untaxed hidden wealth surpasses wealth of the poorest half of humanity](https://www.oxfam.org/en/press-releases/untaxed-wealth-hidden-offshore-richest-01-surpasses-entire-wealth-poorest-half)<!-- HN:47715618:end --><!-- HN:47715530:start -->
-* [47715530](https://news.social-protocols.org/stats?id=47715530) #18 3 points 0 comments -> [We're Getting the Wrong Message from Mythos](https://danielmiessler.com/blog/wrong-message-from-mythos)<!-- HN:47715530:end --><!-- HN:47716219:start -->
-* [47716219](https://news.social-protocols.org/stats?id=47716219) #27 8 points 4 comments -> [Python Is Dead](https://calebfenton.substack.com/p/python-is-dead)<!-- HN:47716219:end --><!-- HN:47716412:start -->
-* [47716412](https://news.social-protocols.org/stats?id=47716412) #1 334 points 94 comments -> [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)<!-- HN:47716412:end --><!-- HN:47716043:start -->
-* [47716043](https://news.social-protocols.org/stats?id=47716043) #7 746 points 359 comments -> [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)<!-- HN:47716043:end --><!-- HN:47718718:start -->
-* [47718718](https://news.social-protocols.org/stats?id=47718718) #18 13 points 0 comments -> [Consumer sentiment plummets to record low as Iran war jacks up inflation](https://www.cnn.com/2026/04/10/economy/us-consumer-sentiment-record-low-april)<!-- HN:47718718:end --><!-- HN:47718830:start -->
-* [47718830](https://news.social-protocols.org/stats?id=47718830) #4 113 points 1 comments -> [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/)<!-- HN:47718830:end --><!-- HN:47721022:start -->
-* [47721022](https://news.social-protocols.org/stats?id=47721022) #9 6 points 0 comments -> [How Social Media Feminised Us All](https://www.freyaindia.co.uk/p/how-social-media-feminised-us-all)<!-- HN:47721022:end --><!-- HN:47719526:start -->
-* [47719526](https://news.social-protocols.org/stats?id=47719526) #28 -> [Names and faces of those killed by Israel in its April 8 massacre](https://today.lorientlejour.com/article/1502922/names-and-faces-of-those-killed-by-israel-in-its-april-8-massacre.html)<!-- HN:47719526:end --><!-- HN:47721874:start -->
-* [47721874](https://news.social-protocols.org/stats?id=47721874) #14 4 points 2 comments -> [Claude AI Assistant for Microsoft Office](https://pivot.claude.ai)<!-- HN:47721874:end --><!-- HN:47721516:start -->
-* [47721516](https://news.social-protocols.org/stats?id=47721516) #22 13 points 3 comments -> ["Not Even Government Agencies" - Proton's misleading marketing](https://blog.ppb1701.com/not-even-government-agencies)<!-- HN:47721516:end -->
 #### **Saturday, April 11, 2026**
 <!-- HN:47727387:start -->
 * [47727387](https://news.social-protocols.org/stats?id=47727387) #18 33 points 40 comments -> [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)<!-- HN:47727387:end --><!-- HN:47728134:start -->
