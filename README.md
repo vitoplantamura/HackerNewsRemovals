@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47737041](https://news.social-protocols.org/stats?id=47737041) #18 7 points 0 comments -> [How the Roll Function Works (In APL\360 and Its Descendants)](https://www.jsoftware.com/papers/roll.htm)<!-- HN:47737041:end -->
 #### **Friday, April 17, 2026**
 <!-- HN:47751608:start -->
-* [47751608](https://news.social-protocols.org/stats?id=47751608) #22 12 points 10 comments -> [288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio](https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/)<!-- HN:47751608:end -->
+* [47751608](https://news.social-protocols.org/stats?id=47751608) #22 12 points 10 comments -> [288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio](https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/)<!-- HN:47751608:end --><!-- HN:47803005:start -->
+* [47803005](https://news.social-protocols.org/stats?id=47803005) #2 11 points 5 comments -> [First bikebell against noise-canceling headphones](https://www.welovecycling.com/wide/duobell/)<!-- HN:47803005:end -->
