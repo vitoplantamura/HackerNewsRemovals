@@ -111,3 +111,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47808343](https://news.social-protocols.org/stats?id=47808343) #12 4 points 0 comments -> [Claude Design](https://claude.ai/design)<!-- HN:47808343:end --><!-- HN:47808588:start -->
 * [47808588](https://news.social-protocols.org/stats?id=47808588) #24 7 points 0 comments -> [xAI has Released Grok 4.3 (beta)](https://twitter.com/techdevnotes/status/2045072883206991973)<!-- HN:47808588:end --><!-- HN:47751830:start -->
 * [47751830](https://news.social-protocols.org/stats?id=47751830) #22 69 points 39 comments -> [The Utopia of the Family Computer](https://mudmapmagazine.com/the-utopia-of-the-family-computer/)<!-- HN:47751830:end -->
+#### **Saturday, April 18, 2026**
+<!-- HN:47815269:start -->
+* [47815269](https://news.social-protocols.org/stats?id=47815269) #14 58 points 14 comments -> [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)<!-- HN:47815269:end -->
