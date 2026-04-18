@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, April 18, 2026**
 <!-- HN:47815269:start -->
 * [47815269](https://news.social-protocols.org/stats?id=47815269) #14 58 points 14 comments -> [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)<!-- HN:47815269:end --><!-- HN:47816514:start -->
-* [47816514](https://news.social-protocols.org/stats?id=47816514) #7 7 points 3 comments -> [Show HN: Solyto – a free, open-source all-in-one personal management app](https://solyto.app)<!-- HN:47816514:end -->
+* [47816514](https://news.social-protocols.org/stats?id=47816514) #7 7 points 3 comments -> [Show HN: Solyto – a free, open-source all-in-one personal management app](https://solyto.app)<!-- HN:47816514:end --><!-- HN:47817303:start -->
+* [47817303](https://news.social-protocols.org/stats?id=47817303) #26 13 points 0 comments -> [White House probes wave of missing or dead American scientists](https://www.foxnews.com/video/6393235356112)<!-- HN:47817303:end -->
