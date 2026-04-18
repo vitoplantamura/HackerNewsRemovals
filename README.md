@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, April 11, 2026**
-<!-- HN:47727387:start -->
-* [47727387](https://news.social-protocols.org/stats?id=47727387) #18 33 points 40 comments -> [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)<!-- HN:47727387:end --><!-- HN:47728134:start -->
-* [47728134](https://news.social-protocols.org/stats?id=47728134) #21 17 points 6 comments -> [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)<!-- HN:47728134:end --><!-- HN:47728721:start -->
-* [47728721](https://news.social-protocols.org/stats?id=47728721) #23 26 points 40 comments -> [Artemis II is competency porn](https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and)<!-- HN:47728721:end --><!-- HN:47730963:start -->
-* [47730963](https://news.social-protocols.org/stats?id=47730963) #25 8 points 0 comments -> [Brazil seizes over 1,100 weapons and 1.5 tons of drugs from US, says official](https://www.reuters.com/world/americas/brazil-seizes-over-1100-weapons-15-tons-drugs-us-says-official-2026-04-10/)<!-- HN:47730963:end --><!-- HN:47733385:start -->
-* [47733385](https://news.social-protocols.org/stats?id=47733385) #22 9 points 20 comments -> [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)<!-- HN:47733385:end --><!-- HN:47734224:start -->
-* [47734224](https://news.social-protocols.org/stats?id=47734224) #12 7 points 0 comments -> [Democratic AI to serve the public – OneProject.org](https://oneproject.org/how-to-make-ai-serve-the-public/)<!-- HN:47734224:end -->
 #### **Sunday, April 12, 2026**
 <!-- HN:47735101:start -->
 * [47735101](https://news.social-protocols.org/stats?id=47735101) #5 21 points 15 comments -> [AI Job Loss Tracker](https://jobloss.ai/)<!-- HN:47735101:end --><!-- HN:47735704:start -->

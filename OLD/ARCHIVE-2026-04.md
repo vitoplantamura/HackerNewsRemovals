@@ -132,3 +132,11 @@
 * [47719526](https://news.ycombinator.com/item?id=47719526) #28 -> [Names and faces of those killed by Israel in its April 8 massacre](https://today.lorientlejour.com/article/1502922/names-and-faces-of-those-killed-by-israel-in-its-april-8-massacre.html)<!-- HN:47719526:end --><!-- HN:47721874:start -->
 * [47721874](https://news.ycombinator.com/item?id=47721874) #14 4 points 2 comments -> [Claude AI Assistant for Microsoft Office](https://pivot.claude.ai)<!-- HN:47721874:end --><!-- HN:47721516:start -->
 * [47721516](https://news.ycombinator.com/item?id=47721516) #22 13 points 3 comments -> ["Not Even Government Agencies" - Proton's misleading marketing](https://blog.ppb1701.com/not-even-government-agencies)<!-- HN:47721516:end -->
+#### **Saturday, April 11, 2026**
+<!-- HN:47727387:start -->
+* [47727387](https://news.ycombinator.com/item?id=47727387) #18 33 points 40 comments -> [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)<!-- HN:47727387:end --><!-- HN:47728134:start -->
+* [47728134](https://news.ycombinator.com/item?id=47728134) #21 17 points 6 comments -> [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)<!-- HN:47728134:end --><!-- HN:47728721:start -->
+* [47728721](https://news.ycombinator.com/item?id=47728721) #23 26 points 40 comments -> [Artemis II is competency porn](https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and)<!-- HN:47728721:end --><!-- HN:47730963:start -->
+* [47730963](https://news.ycombinator.com/item?id=47730963) #25 8 points 0 comments -> [Brazil seizes over 1,100 weapons and 1.5 tons of drugs from US, says official](https://www.reuters.com/world/americas/brazil-seizes-over-1100-weapons-15-tons-drugs-us-says-official-2026-04-10/)<!-- HN:47730963:end --><!-- HN:47733385:start -->
+* [47733385](https://news.ycombinator.com/item?id=47733385) #22 9 points 20 comments -> [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)<!-- HN:47733385:end --><!-- HN:47734224:start -->
+* [47734224](https://news.ycombinator.com/item?id=47734224) #12 7 points 0 comments -> [Democratic AI to serve the public – OneProject.org](https://oneproject.org/how-to-make-ai-serve-the-public/)<!-- HN:47734224:end -->
