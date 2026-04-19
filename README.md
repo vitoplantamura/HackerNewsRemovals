@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47820071](https://news.social-protocols.org/stats?id=47820071) #10 3 points 1 comments -> [What Is Llms.txt and Does Your Business Need One?](https://semarkglobal.com/blog/what-is-llms-txt-does-your-business-need-one)<!-- HN:47820071:end -->
 #### **Sunday, April 19, 2026**
 <!-- HN:47756320:start -->
-* [47756320](https://news.social-protocols.org/stats?id=47756320) #28 138 points 72 comments -> [Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)<!-- HN:47756320:end -->
+* [47756320](https://news.social-protocols.org/stats?id=47756320) #28 138 points 72 comments -> [Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)<!-- HN:47756320:end --><!-- HN:47822375:start -->
+* [47822375](https://news.social-protocols.org/stats?id=47822375) #9 3 points 0 comments -> [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)<!-- HN:47822375:end -->
