@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, April 19, 2026**
 <!-- HN:47756320:start -->
 * [47756320](https://news.social-protocols.org/stats?id=47756320) #28 138 points 72 comments -> [Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)<!-- HN:47756320:end --><!-- HN:47822375:start -->
-* [47822375](https://news.social-protocols.org/stats?id=47822375) #9 3 points 0 comments -> [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)<!-- HN:47822375:end -->
+* [47822375](https://news.social-protocols.org/stats?id=47822375) #9 3 points 0 comments -> [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)<!-- HN:47822375:end --><!-- HN:47824105:start -->
+* [47824105](https://news.social-protocols.org/stats?id=47824105) #24 11 points 2 comments -> [Turning Point USA Is Expanding Its Reach to K-12 Schools](https://www.edweek.org/policy-politics/how-charlie-kirks-turning-point-usa-is-expanding-its-reach-to-k-12-schools/2025/09)<!-- HN:47824105:end -->
