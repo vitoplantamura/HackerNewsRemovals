@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, April 12, 2026**
-<!-- HN:47735101:start -->
-* [47735101](https://news.social-protocols.org/stats?id=47735101) #5 21 points 15 comments -> [AI Job Loss Tracker](https://jobloss.ai/)<!-- HN:47735101:end --><!-- HN:47735704:start -->
-* [47735704](https://news.social-protocols.org/stats?id=47735704) #18 61 points 43 comments -> [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo)<!-- HN:47735704:end --><!-- HN:47735507:start -->
-* [47735507](https://news.social-protocols.org/stats?id=47735507) #25 10 points 1 comments -> [Used Graphify to turn incidents into a queryable knowledge graph](https://github.com/Rootly-AI-Labs/rootly-graphify-importer)<!-- HN:47735507:end --><!-- HN:47671365:start -->
-* [47671365](https://news.social-protocols.org/stats?id=47671365) #21 15 points 5 comments -> [Dcmake: A new CMake debugger UI](https://nullprogram.com/blog/2026/04/07/)<!-- HN:47671365:end --><!-- HN:47735927:start -->
-* [47735927](https://news.social-protocols.org/stats?id=47735927) #30 -> [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)<!-- HN:47735927:end --><!-- HN:47736907:start -->
-* [47736907](https://news.social-protocols.org/stats?id=47736907) #19 54 points 12 comments -> [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)<!-- HN:47736907:end --><!-- HN:47737928:start -->
-* [47737928](https://news.social-protocols.org/stats?id=47737928) #27 77 points 25 comments -> [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/)<!-- HN:47737928:end --><!-- HN:47735810:start -->
-* [47735810](https://news.social-protocols.org/stats?id=47735810) #26 54 points 37 comments -> [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)<!-- HN:47735810:end --><!-- HN:47738996:start -->
-* [47738996](https://news.social-protocols.org/stats?id=47738996) #15 21 points 10 comments -> [Why weekends are under threat](https://thehustle.co/originals/why-weekends-are-under-threat)<!-- HN:47738996:end --><!-- HN:47737563:start -->
-* [47737563](https://news.social-protocols.org/stats?id=47737563) #10 298 points 493 comments -> [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)<!-- HN:47737563:end --><!-- HN:47742460:start -->
-* [47742460](https://news.social-protocols.org/stats?id=47742460) #25 16 points 14 comments -> [Are sugar substitutes healthier than the real thing?](https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing)<!-- HN:47742460:end --><!-- HN:47743553:start -->
-* [47743553](https://news.social-protocols.org/stats?id=47743553) #18 102 points 20 comments -> [Viktor Orbán concedes defeat after 'painful' election result](https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab)<!-- HN:47743553:end --><!-- HN:47744614:start -->
-* [47744614](https://news.social-protocols.org/stats?id=47744614) #30 -> [Orban ousted after 16 years as Hungarians flock to pro-EU rival](https://www.reuters.com/world/europe/orban-ousted-after-16-years-hungarians-flock-pro-eu-rival-2026-04-12/)<!-- HN:47744614:end --><!-- HN:47744050:start -->
-* [47744050](https://news.social-protocols.org/stats?id=47744050) #11 13 points 5 comments -> [Solar panels are creating an unexpected effect by forming rainfall clouds](https://www.ecoportal.net/en/solar-panels-are-creating-rain-clouds/19854/)<!-- HN:47744050:end --><!-- HN:47745355:start -->
-* [47745355](https://news.social-protocols.org/stats?id=47745355) #14 4 points 0 comments -> [Google Externalised the Cost of Renaming Gmail](https://nativerse-ventures.com/gmail-rename-cascade)<!-- HN:47745355:end -->
 #### **Monday, April 13, 2026**
 <!-- HN:47747330:start -->
 * [47747330](https://news.social-protocols.org/stats?id=47747330) #18 24 points 10 comments -> [Kindle users in uproar re: latest update, old devices now unusable: 'Fuck You '](https://nypost.com/2026/04/09/tech/kindle-to-cease-support-for-old-devices-causing-user-uproar/)<!-- HN:47747330:end --><!-- HN:47675444:start -->
