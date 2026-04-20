@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, April 13, 2026**
-<!-- HN:47747330:start -->
-* [47747330](https://news.social-protocols.org/stats?id=47747330) #18 24 points 10 comments -> [Kindle users in uproar re: latest update, old devices now unusable: 'Fuck You '](https://nypost.com/2026/04/09/tech/kindle-to-cease-support-for-old-devices-causing-user-uproar/)<!-- HN:47747330:end --><!-- HN:47675444:start -->
-* [47675444](https://news.social-protocols.org/stats?id=47675444) #21 242 points 42 comments -> [Happy Map](https://pudding.cool/2026/02/happy-map/)<!-- HN:47675444:end --><!-- HN:47749164:start -->
-* [47749164](https://news.social-protocols.org/stats?id=47749164) #21 14 points 4 comments -> [Opus 4.6 hallucinates twice as more today than when it released](https://www.bridgebench.ai/hallucination)<!-- HN:47749164:end --><!-- HN:47750939:start -->
-* [47750939](https://news.social-protocols.org/stats?id=47750939) #19 35 points 41 comments -> [The hottest college major [Computer Science] hit a wall. What happened?](https://www.washingtonpost.com/technology/2026/04/13/computer-science-major-ai/)<!-- HN:47750939:end --><!-- HN:47752856:start -->
-* [47752856](https://news.social-protocols.org/stats?id=47752856) #14 6 points 1 comments -> [An Oligarchy of Old People](https://www.theatlantic.com/magazine/2026/05/gerontocracy-wealth-power/686585/)<!-- HN:47752856:end --><!-- HN:47753656:start -->
-* [47753656](https://news.social-protocols.org/stats?id=47753656) #5 4 points 2 comments -> [Stealthy RCE on Hardened Linux: Noexec and Userland Execution PoC](https://hardenedlinux.org/blog/2026-04-13-stealthy-rce-on-hardened-linux-noexec--userland-execution-poc/)<!-- HN:47753656:end --><!-- HN:47753446:start -->
-* [47753446](https://news.social-protocols.org/stats?id=47753446) #19 8 points 3 comments -> [Alpine Divorce: A Hike That Ends a Relationship](https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html)<!-- HN:47753446:end --><!-- HN:47756081:start -->
-* [47756081](https://news.social-protocols.org/stats?id=47756081) #21 36 points 10 comments -> [Austerity Creates Fascism](https://pluralistic.net/2026/04/12/always-great/)<!-- HN:47756081:end --><!-- HN:47757033:start -->
-* [47757033](https://news.social-protocols.org/stats?id=47757033) #29 20 points 19 comments -> [Google has the same AI adoption curve as John Deere](https://twitter.com/i/status/2043747998740689171)<!-- HN:47757033:end -->
 #### **Tuesday, April 14, 2026**
 <!-- HN:47757775:start -->
 * [47757775](https://news.social-protocols.org/stats?id=47757775) #29 98 points 114 comments -> [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)<!-- HN:47757775:end --><!-- HN:47759400:start -->
