@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47824976](https://news.social-protocols.org/stats?id=47824976) #1 375 points 2 comments -> [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)<!-- HN:47824976:end --><!-- HN:47827424:start -->
 * [47827424](https://news.social-protocols.org/stats?id=47827424) #8 5 points 0 comments -> [Islamic Medicine (2018)](https://hekint.org/2018/11/19/islamic-medicine/)<!-- HN:47827424:end -->
 #### **Monday, April 20, 2026**<!-- HN:47829280:start -->
-* [47829280](https://news.social-protocols.org/stats?id=47829280) #5 13 points 7 comments -> [The race to build the next WordPress](https://opencomputer.dev/blog/the-race-to-build-the-next-wordpress/)<!-- HN:47829280:end -->
+* [47829280](https://news.social-protocols.org/stats?id=47829280) #5 13 points 7 comments -> [The race to build the next WordPress](https://opencomputer.dev/blog/the-race-to-build-the-next-wordpress/)<!-- HN:47829280:end --><!-- HN:47829015:start -->
+* [47829015](https://news.social-protocols.org/stats?id=47829015) #28 -> [Canada's PM calls economic ties with US a weakness that must be corrected](https://abcnews.com/Business/wireStory/canadas-prime-minister-economic-ties-us-weakness-corrected-132187806)<!-- HN:47829015:end -->
