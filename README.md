@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, April 21, 2026**
 <!-- HN:47843573:start -->
 * [47843573](https://news.social-protocols.org/stats?id=47843573) #21 10 points 3 comments -> [FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick](https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/)<!-- HN:47843573:end --><!-- HN:47844797:start -->
-* [47844797](https://news.social-protocols.org/stats?id=47844797) #25 69 points 11 comments -> [Israeli soldiers using sexual assault to force Palestinians out of West Bank](https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says)<!-- HN:47844797:end -->
+* [47844797](https://news.social-protocols.org/stats?id=47844797) #25 69 points 11 comments -> [Israeli soldiers using sexual assault to force Palestinians out of West Bank](https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says)<!-- HN:47844797:end --><!-- HN:47848110:start -->
+* [47848110](https://news.social-protocols.org/stats?id=47848110) #6 11 points 5 comments -> [Show HN: Antenna – RSS reader with a built-in MCP server](https://antennafeed.com/)<!-- HN:47848110:end -->
