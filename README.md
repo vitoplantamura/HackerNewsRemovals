@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, April 14, 2026**
-<!-- HN:47757775:start -->
-* [47757775](https://news.social-protocols.org/stats?id=47757775) #29 98 points 114 comments -> [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)<!-- HN:47757775:end --><!-- HN:47759400:start -->
-* [47759400](https://news.social-protocols.org/stats?id=47759400) #18 6 points 0 comments -> [SnapState - Persistent state for AI agent workflows](https://snapstate.dev)<!-- HN:47759400:end --><!-- HN:47757595:start -->
-* [47757595](https://news.social-protocols.org/stats?id=47757595) #22 27 points 1 comments -> [Mathematical Minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/)<!-- HN:47757595:end --><!-- HN:47760925:start -->
-* [47760925](https://news.social-protocols.org/stats?id=47760925) #29 133 points 35 comments -> [Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)<!-- HN:47760925:end --><!-- HN:47766960:start -->
-* [47766960](https://news.social-protocols.org/stats?id=47766960) #2 44 points 12 comments -> [AI Will Never Be Ethical or Safe](https://meiert.com/blog/ai-ethics-and-safety/)<!-- HN:47766960:end --><!-- HN:47770330:start -->
-* [47770330](https://news.social-protocols.org/stats?id=47770330) #7 7 points 1 comments -> [The cost of building a workflow editor on React Flow](https://www.workflowbuilder.io/blog/build-vs-buy-workflow-editor-hidden-cost-react-flow)<!-- HN:47770330:end --><!-- HN:47770400:start -->
-* [47770400](https://news.social-protocols.org/stats?id=47770400) #18 2 points 2 comments -> [Show HN: Sk.illmd.com, a forum for talking about and showing off agent skills](https://skillmd.discourse.group/)<!-- HN:47770400:end --><!-- HN:47769967:start -->
-* [47769967](https://news.social-protocols.org/stats?id=47769967) #16 119 points 2 comments -> [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)<!-- HN:47769967:end --><!-- HN:47768195:start -->
-* [47768195](https://news.social-protocols.org/stats?id=47768195) #6 388 points 366 comments -> [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)<!-- HN:47768195:end -->
 #### **Wednesday, April 15, 2026**<!-- HN:47779856:start -->
 * [47779856](https://news.social-protocols.org/stats?id=47779856) #18 28 points 41 comments -> [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)<!-- HN:47779856:end --><!-- HN:47778366:start -->
 * [47778366](https://news.social-protocols.org/stats?id=47778366) #27 104 points 2 comments -> [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)<!-- HN:47778366:end --><!-- HN:47783873:start -->
