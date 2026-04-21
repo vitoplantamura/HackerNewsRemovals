@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47840570](https://news.social-protocols.org/stats?id=47840570) #2 50 points 1 comments -> [Tim Cook Stepping Down as Apple CEO, John Ternus Taking Over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/)<!-- HN:47840570:end -->
 #### **Tuesday, April 21, 2026**
 <!-- HN:47843573:start -->
-* [47843573](https://news.social-protocols.org/stats?id=47843573) #21 10 points 3 comments -> [FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick](https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/)<!-- HN:47843573:end -->
+* [47843573](https://news.social-protocols.org/stats?id=47843573) #21 10 points 3 comments -> [FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick](https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/)<!-- HN:47843573:end --><!-- HN:47844797:start -->
+* [47844797](https://news.social-protocols.org/stats?id=47844797) #25 69 points 11 comments -> [Israeli soldiers using sexual assault to force Palestinians out of West Bank](https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says)<!-- HN:47844797:end -->
