@@ -112,5 +112,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, April 22, 2026**
 <!-- HN:47855616:start -->
 * [47855616](https://news.social-protocols.org/stats?id=47855616) #9 102 points 41 comments -> [SpaceX Says It Has Agreement to Acquire Cursor for $60B](https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion)<!-- HN:47855616:end --><!-- HN:47855448:start -->
-* [47855448](https://news.social-protocols.org/stats?id=47855448) #15 96 points 69 comments -> [SpaceX Said to Agree to Buy Cursor for More Than $50B](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)<!-- HN:47855448:end --><!-- HN:47855565:start -->
-* [47855565](https://news.social-protocols.org/stats?id=47855565) #5 201 points 126 comments -> [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)<!-- HN:47855565:end -->
+* [47855448](https://news.social-protocols.org/stats?id=47855448) #15 96 points 69 comments -> [SpaceX Said to Agree to Buy Cursor for More Than $50B](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)<!-- HN:47855448:end -->
