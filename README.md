@@ -43,11 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, April 15, 2026**<!-- HN:47779856:start -->
-* [47779856](https://news.social-protocols.org/stats?id=47779856) #18 28 points 41 comments -> [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)<!-- HN:47779856:end --><!-- HN:47778366:start -->
-* [47778366](https://news.social-protocols.org/stats?id=47778366) #27 104 points 2 comments -> [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)<!-- HN:47778366:end --><!-- HN:47783873:start -->
-* [47783873](https://news.social-protocols.org/stats?id=47783873) #29 32 points 1 comments -> [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)<!-- HN:47783873:end --><!-- HN:47784060:start -->
-* [47784060](https://news.social-protocols.org/stats?id=47784060) #19 9 points 2 comments -> [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)<!-- HN:47784060:end -->
 #### **Thursday, April 16, 2026**
 <!-- HN:47787368:start -->
 * [47787368](https://news.social-protocols.org/stats?id=47787368) #22 53 points 9 comments -> [Amazon AI Cancelling Webcomics](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html)<!-- HN:47787368:end --><!-- HN:47720941:start -->
