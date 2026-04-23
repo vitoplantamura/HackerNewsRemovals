@@ -110,3 +110,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47865432](https://news.social-protocols.org/stats?id=47865432) #8 6 points 1 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:47865432:end --><!-- HN:47865838:start -->
 * [47865838](https://news.social-protocols.org/stats?id=47865838) #8 24 points 6 comments -> [The Tech Oligarch's Republic](https://www.forever-wars.com/the-tech-oligarchs-republic/)<!-- HN:47865838:end --><!-- HN:47870528:start -->
 * [47870528](https://news.social-protocols.org/stats?id=47870528) #18 5 points 0 comments -> [Islam Is Not the Cause of Honor Killings. It's Part of the Solution](https://yaqeeninstitute.org/read/paper/islam-is-not-the-cause-of-honor-killings-its-part-of-the-solution)<!-- HN:47870528:end -->
+#### **Thursday, April 23, 2026**
+<!-- HN:47872008:start -->
+* [47872008](https://news.social-protocols.org/stats?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end -->
