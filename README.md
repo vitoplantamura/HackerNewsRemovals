@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, April 23, 2026**
 <!-- HN:47872008:start -->
 * [47872008](https://news.social-protocols.org/stats?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end --><!-- HN:47873517:start -->
-* [47873517](https://news.social-protocols.org/stats?id=47873517) #13 6 points 2 comments -> [Former Israeli intelligence agents from Unit 8200 hired by Apple](https://vuseum.wordpress.com/2025/07/22/ex-spie-israeliane-dellunita-8200-assunte-da-apple/)<!-- HN:47873517:end -->
+* [47873517](https://news.social-protocols.org/stats?id=47873517) #13 6 points 2 comments -> [Former Israeli intelligence agents from Unit 8200 hired by Apple](https://vuseum.wordpress.com/2025/07/22/ex-spie-israeliane-dellunita-8200-assunte-da-apple/)<!-- HN:47873517:end --><!-- HN:47873646:start -->
+* [47873646](https://news.social-protocols.org/stats?id=47873646) #22 15 points 0 comments -> [FIU Student Arrested After Joking About Netanyahu on WhatsApp](https://www.youtube.com/watch?v=o1Zsb1IijYY)<!-- HN:47873646:end -->
