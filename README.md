@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47870528](https://news.social-protocols.org/stats?id=47870528) #18 5 points 0 comments -> [Islam Is Not the Cause of Honor Killings. It's Part of the Solution](https://yaqeeninstitute.org/read/paper/islam-is-not-the-cause-of-honor-killings-its-part-of-the-solution)<!-- HN:47870528:end -->
 #### **Thursday, April 23, 2026**
 <!-- HN:47872008:start -->
-* [47872008](https://news.social-protocols.org/stats?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end -->
+* [47872008](https://news.social-protocols.org/stats?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end --><!-- HN:47873517:start -->
+* [47873517](https://news.social-protocols.org/stats?id=47873517) #13 6 points 2 comments -> [Former Israeli intelligence agents from Unit 8200 hired by Apple](https://vuseum.wordpress.com/2025/07/22/ex-spie-israeliane-dellunita-8200-assunte-da-apple/)<!-- HN:47873517:end -->
