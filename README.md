@@ -112,5 +112,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47870528](https://news.social-protocols.org/stats?id=47870528) #18 5 points 0 comments -> [Islam Is Not the Cause of Honor Killings. It's Part of the Solution](https://yaqeeninstitute.org/read/paper/islam-is-not-the-cause-of-honor-killings-its-part-of-the-solution)<!-- HN:47870528:end -->
 #### **Thursday, April 23, 2026**
 <!-- HN:47872008:start -->
-* [47872008](https://news.social-protocols.org/stats?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end --><!-- HN:47872200:start -->
-* [47872200](https://news.social-protocols.org/stats?id=47872200) #14 49 points 17 comments -> [A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)<!-- HN:47872200:end -->
+* [47872008](https://news.social-protocols.org/stats?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end -->
