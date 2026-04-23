@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, April 16, 2026**
-<!-- HN:47787368:start -->
-* [47787368](https://news.social-protocols.org/stats?id=47787368) #22 53 points 9 comments -> [Amazon AI Cancelling Webcomics](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html)<!-- HN:47787368:end --><!-- HN:47720941:start -->
-* [47720941](https://news.social-protocols.org/stats?id=47720941) #16 17 points 6 comments -> [A Mercury Rover Could Explore the Planet by Sticking to the Terminator](https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator)<!-- HN:47720941:end --><!-- HN:47788773:start -->
-* [47788773](https://news.social-protocols.org/stats?id=47788773) #20 9 points 5 comments -> [AWS/GCP too expensive? Cloudexit.pro will help you move to bare-metal](https://cloudexit.pro/)<!-- HN:47788773:end --><!-- HN:47788857:start -->
-* [47788857](https://news.social-protocols.org/stats?id=47788857) #10 93 points 61 comments -> [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)<!-- HN:47788857:end --><!-- HN:47791507:start -->
-* [47791507](https://news.social-protocols.org/stats?id=47791507) #29 47 points 40 comments -> [The noise we make is hurting animals. Can we learn to shut up?](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/)<!-- HN:47791507:end --><!-- HN:47793493:start -->
-* [47793493](https://news.social-protocols.org/stats?id=47793493) #2 163 points 86 comments -> [Claude Opus 4.7](https://www.anthropic.com/claude/opus)<!-- HN:47793493:end --><!-- HN:47795152:start -->
-* [47795152](https://news.social-protocols.org/stats?id=47795152) #30 9 points 0 comments -> [Armed Off-Duty Cop Tried to Incite Violence at a High School Anti-ICE Protest](https://theintercept.com/2026/04/15/high-school-ice-protest-arizona-armed-cop/)<!-- HN:47795152:end --><!-- HN:47733059:start -->
-* [47733059](https://news.social-protocols.org/stats?id=47733059) #4 104 points 37 comments -> [PCI Express over Fiber [video]](https://www.youtube.com/watch?v=XaDa9bBucEI)<!-- HN:47733059:end --><!-- HN:47736331:start -->
-* [47736331](https://news.social-protocols.org/stats?id=47736331) #6 59 points 24 comments -> [TigerBeetle: A Trillion Transactions [video]](https://www.youtube.com/watch?v=y2_BqkKTbD8)<!-- HN:47736331:end --><!-- HN:47738520:start -->
-* [47738520](https://news.social-protocols.org/stats?id=47738520) #12 92 points 84 comments -> [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)<!-- HN:47738520:end --><!-- HN:47737041:start -->
-* [47737041](https://news.social-protocols.org/stats?id=47737041) #18 7 points 0 comments -> [How the Roll Function Works (In APL\360 and Its Descendants)](https://www.jsoftware.com/papers/roll.htm)<!-- HN:47737041:end -->
 #### **Friday, April 17, 2026**
 <!-- HN:47751608:start -->
 * [47751608](https://news.social-protocols.org/stats?id=47751608) #22 12 points 10 comments -> [288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio](https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/)<!-- HN:47751608:end --><!-- HN:47803005:start -->
