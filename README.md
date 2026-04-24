@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47874673](https://news.social-protocols.org/stats?id=47874673) #30 5 points 0 comments -> [The Demonization of Male Ambition – Lisa Britton](https://lisabritton.substack.com/p/the-demonization-of-male-ambition)<!-- HN:47874673:end --><!-- HN:47876365:start -->
 * [47876365](https://news.social-protocols.org/stats?id=47876365) #6 10 points 0 comments -> [I checked 506 citations from ChatGPT,Claude, Gemini Deep Research- 36% are wrong](https://spineframe.xyz/blog)<!-- HN:47876365:end --><!-- HN:47876282:start -->
 * [47876282](https://news.social-protocols.org/stats?id=47876282) #11 7 points 2 comments -> [Be sinceerly human – AI to undo your AI writing](https://sinceerly.com/)<!-- HN:47876282:end -->
+#### **Friday, April 24, 2026**
+<!-- HN:47883205:start -->
+* [47883205](https://news.social-protocols.org/stats?id=47883205) #19 4 points 0 comments -> [How tolls saved Britain from pothole hell in the Industrial Revolution](https://www.cam.ac.uk/stories/fixing-the-roads-turnpikes)<!-- HN:47883205:end -->
