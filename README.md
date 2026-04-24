@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:47883205:start -->
 * [47883205](https://news.social-protocols.org/stats?id=47883205) #19 4 points 0 comments -> [How tolls saved Britain from pothole hell in the Industrial Revolution](https://www.cam.ac.uk/stories/fixing-the-roads-turnpikes)<!-- HN:47883205:end --><!-- HN:47885014:start -->
 * [47885014](https://news.social-protocols.org/stats?id=47885014) #29 146 points 14 comments -> [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)<!-- HN:47885014:end --><!-- HN:47888159:start -->
-* [47888159](https://news.social-protocols.org/stats?id=47888159) #15 2 points 1 comments -> [Wisp – Social that's fun again](https://wisp.mobile)<!-- HN:47888159:end -->
+* [47888159](https://news.social-protocols.org/stats?id=47888159) #15 2 points 1 comments -> [Wisp – Social that's fun again](https://wisp.mobile)<!-- HN:47888159:end --><!-- HN:47889664:start -->
+* [47889664](https://news.social-protocols.org/stats?id=47889664) #17 11 points 0 comments -> [The Era of Citizens United Could Be Nearing Its End](https://jacobin.com/2026/04/citizens-united-electoral-corruption-case)<!-- HN:47889664:end -->
