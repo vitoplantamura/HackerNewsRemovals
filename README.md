@@ -115,5 +115,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47862870](https://news.social-protocols.org/stats?id=47862870) #12 19 points 0 comments -> [The SPLC indictment, the Klan history behind it, and ignominy of Todd Blanche](https://www.lawdork.com/p/splc-indictment-united-klans-of-america)<!-- HN:47862870:end -->
 #### **Saturday, April 25, 2026**
 <!-- HN:47898744:start -->
-* [47898744](https://news.social-protocols.org/stats?id=47898744) #1 27 points 1 comments -> [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)<!-- HN:47898744:end --><!-- HN:47849455:start -->
-* [47849455](https://news.social-protocols.org/stats?id=47849455) #11 11 points 0 comments -> [The mail sent to a video game publisher](https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth)<!-- HN:47849455:end -->
+* [47898744](https://news.social-protocols.org/stats?id=47898744) #1 27 points 1 comments -> [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)<!-- HN:47898744:end -->
