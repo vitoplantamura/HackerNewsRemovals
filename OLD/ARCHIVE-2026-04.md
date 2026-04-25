@@ -208,3 +208,11 @@
 * [47808343](https://news.ycombinator.com/item?id=47808343) #12 4 points 0 comments -> [Claude Design](https://claude.ai/design)<!-- HN:47808343:end --><!-- HN:47808588:start -->
 * [47808588](https://news.ycombinator.com/item?id=47808588) #24 7 points 0 comments -> [xAI has Released Grok 4.3 (beta)](https://twitter.com/techdevnotes/status/2045072883206991973)<!-- HN:47808588:end --><!-- HN:47751830:start -->
 * [47751830](https://news.ycombinator.com/item?id=47751830) #22 69 points 39 comments -> [The Utopia of the Family Computer](https://mudmapmagazine.com/the-utopia-of-the-family-computer/)<!-- HN:47751830:end -->
+#### **Saturday, April 18, 2026**
+<!-- HN:47815269:start -->
+* [47815269](https://news.ycombinator.com/item?id=47815269) #14 58 points 14 comments -> [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)<!-- HN:47815269:end --><!-- HN:47816514:start -->
+* [47816514](https://news.ycombinator.com/item?id=47816514) #7 7 points 3 comments -> [Show HN: Solyto – a free, open-source all-in-one personal management app](https://solyto.app)<!-- HN:47816514:end --><!-- HN:47817303:start -->
+* [47817303](https://news.ycombinator.com/item?id=47817303) #26 13 points 0 comments -> [White House probes wave of missing or dead American scientists](https://www.foxnews.com/video/6393235356112)<!-- HN:47817303:end --><!-- HN:47817902:start -->
+* [47817902](https://news.ycombinator.com/item?id=47817902) #18 15 points 2 comments -> [Headless Everything for Personal AI](https://interconnected.org/home/2026/04/18/headless)<!-- HN:47817902:end --><!-- HN:47817555:start -->
+* [47817555](https://news.ycombinator.com/item?id=47817555) #24 9 points 3 comments -> [Rail: A self-hosting language that speaks TLS alone](https://github.com/zemo-g/rail)<!-- HN:47817555:end --><!-- HN:47820071:start -->
+* [47820071](https://news.ycombinator.com/item?id=47820071) #10 3 points 1 comments -> [What Is Llms.txt and Does Your Business Need One?](https://semarkglobal.com/blog/what-is-llms-txt-does-your-business-need-one)<!-- HN:47820071:end -->
