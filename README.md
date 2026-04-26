@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, April 19, 2026**
-<!-- HN:47756320:start -->
-* [47756320](https://news.social-protocols.org/stats?id=47756320) #28 138 points 72 comments -> [Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)<!-- HN:47756320:end --><!-- HN:47822375:start -->
-* [47822375](https://news.social-protocols.org/stats?id=47822375) #9 3 points 0 comments -> [Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code](https://github.com/JoJa84/Codefone)<!-- HN:47822375:end --><!-- HN:47824105:start -->
-* [47824105](https://news.social-protocols.org/stats?id=47824105) #24 11 points 2 comments -> [Turning Point USA Is Expanding Its Reach to K-12 Schools](https://www.edweek.org/policy-politics/how-charlie-kirks-turning-point-usa-is-expanding-its-reach-to-k-12-schools/2025/09)<!-- HN:47824105:end --><!-- HN:47824038:start -->
-* [47824038](https://news.social-protocols.org/stats?id=47824038) #16 -> [The EU digital ID wallet can't deliver the privacy properties it claims](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/26)<!-- HN:47824038:end --><!-- HN:47824832:start -->
-* [47824832](https://news.social-protocols.org/stats?id=47824832) #14 16 points 1 comments -> [Discord Read Receipts Exploit: When, How Often, How Long](https://paul.koeck.dev/writeups/discord-read-receipts)<!-- HN:47824832:end --><!-- HN:47825432:start -->
-* [47825432](https://news.social-protocols.org/stats?id=47825432) #11 7 points 1 comments -> [543 Hours: What happens when AI runs while you sleep](https://michael.roth.rocks/research/543-hours/)<!-- HN:47825432:end --><!-- HN:47826473:start -->
-* [47826473](https://news.social-protocols.org/stats?id=47826473) #11 24 points 1 comments -> [Europe has 'maybe six weeks of jet fuel left'](https://www.bbc.com/news/articles/czjw2kz0l22o)<!-- HN:47826473:end --><!-- HN:47825590:start -->
-* [47825590](https://news.social-protocols.org/stats?id=47825590) #21 8 points 4 comments -> [Gender reassignment significantly increases psychiatric morbidity](https://onlinelibrary.wiley.com/doi/10.1111/apa.70533)<!-- HN:47825590:end --><!-- HN:47824976:start -->
-* [47824976](https://news.social-protocols.org/stats?id=47824976) #1 375 points 2 comments -> [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)<!-- HN:47824976:end --><!-- HN:47827424:start -->
-* [47827424](https://news.social-protocols.org/stats?id=47827424) #8 5 points 0 comments -> [Islamic Medicine (2018)](https://hekint.org/2018/11/19/islamic-medicine/)<!-- HN:47827424:end -->
 #### **Monday, April 20, 2026**<!-- HN:47829015:start -->
 * [47829015](https://news.social-protocols.org/stats?id=47829015) #28 -> [Canada's PM calls economic ties with US a weakness that must be corrected](https://abcnews.com/Business/wireStory/canadas-prime-minister-economic-ties-us-weakness-corrected-132187806)<!-- HN:47829015:end --><!-- HN:47829800:start -->
 * [47829800](https://news.social-protocols.org/stats?id=47829800) #17 37 points 9 comments -> [Anthropic installs spyware when you install Claude Desktop](https://www.thatprivacyguy.com/blog/anthropic-spyware/)<!-- HN:47829800:end --><!-- HN:47830234:start -->
