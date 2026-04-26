@@ -106,3 +106,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47898744](https://news.social-protocols.org/stats?id=47898744) #1 27 points 1 comments -> [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)<!-- HN:47898744:end --><!-- HN:47901993:start -->
 * [47901993](https://news.social-protocols.org/stats?id=47901993) #18 16 points 41 comments -> [UK to permanently ban future generations from buying cigarettes](https://nypost.com/2026/04/21/world-news/uk-to-permanently-ban-future-generations-from-buying-cigarettes/)<!-- HN:47901993:end --><!-- HN:47903737:start -->
 * [47903737](https://news.social-protocols.org/stats?id=47903737) #12 10 points 3 comments -> [IPv7: Identity-Centric Network Protocol – IETF Draft and Rust Implementation](https://datatracker.ietf.org/doc/draft-subbiah-ipv7/)<!-- HN:47903737:end -->
+#### **Sunday, April 26, 2026**
+<!-- HN:47906937:start -->
+* [47906937](https://news.social-protocols.org/stats?id=47906937) #23 6 points 0 comments -> [The death of the American Dream is now official](https://thehill.com/opinion/finance/5846892-american-dream-debt-crisis/)<!-- HN:47906937:end -->
