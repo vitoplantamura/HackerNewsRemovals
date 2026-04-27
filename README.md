@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, April 20, 2026**<!-- HN:47829015:start -->
-* [47829015](https://news.social-protocols.org/stats?id=47829015) #28 -> [Canada's PM calls economic ties with US a weakness that must be corrected](https://abcnews.com/Business/wireStory/canadas-prime-minister-economic-ties-us-weakness-corrected-132187806)<!-- HN:47829015:end --><!-- HN:47829800:start -->
-* [47829800](https://news.social-protocols.org/stats?id=47829800) #17 37 points 9 comments -> [Anthropic installs spyware when you install Claude Desktop](https://www.thatprivacyguy.com/blog/anthropic-spyware/)<!-- HN:47829800:end --><!-- HN:47830234:start -->
-* [47830234](https://news.social-protocols.org/stats?id=47830234) #4 5 points 0 comments -> [Anthropic installs spyware when you install Claude Desktop](https://blog.alexewerlof.com/p/local-browser-ai)<!-- HN:47830234:end --><!-- HN:47830534:start -->
-* [47830534](https://news.social-protocols.org/stats?id=47830534) #3 7 points 0 comments -> [DIDs Are Cool. We Didn't Need Them](https://www.inamoon.com/blog/dids-vs-subjects)<!-- HN:47830534:end --><!-- HN:47829757:start -->
-* [47829757](https://news.social-protocols.org/stats?id=47829757) #18 12 points 2 comments -> [Contra Benn Jordan, data center (and all) sub-audible infrasound issues are fake](https://blog.andymasley.com/p/contra-benn-jordan-data-center-and)<!-- HN:47829757:end --><!-- HN:47766185:start -->
-* [47766185](https://news.social-protocols.org/stats?id=47766185) #23 18 points 7 comments -> [Recovering Windows Live Writer Files](https://benovermyer.com/blog/2026/04/recovering-windows-live-writer-files/)<!-- HN:47766185:end --><!-- HN:47831499:start -->
-* [47831499](https://news.social-protocols.org/stats?id=47831499) #30 42 points 11 comments -> [Tracking when Trump chickens out](https://www.thetacotracker.com/)<!-- HN:47831499:end --><!-- HN:47833156:start -->
-* [47833156](https://news.social-protocols.org/stats?id=47833156) #1 249 points 116 comments -> [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)<!-- HN:47833156:end --><!-- HN:47838969:start -->
-* [47838969](https://news.social-protocols.org/stats?id=47838969) #11 6 points 1 comments -> [Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon](https://www.bbc.com/news/articles/cpd575n1znzo)<!-- HN:47838969:end --><!-- HN:47838178:start -->
-* [47838178](https://news.social-protocols.org/stats?id=47838178) #21 75 points 20 comments -> [The Palantir's Stasi Protocols](https://professorsigmund.com/praxis/palantir-stasi-protocols.html)<!-- HN:47838178:end --><!-- HN:47840570:start -->
-* [47840570](https://news.social-protocols.org/stats?id=47840570) #2 50 points 1 comments -> [Tim Cook Stepping Down as Apple CEO, John Ternus Taking Over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/)<!-- HN:47840570:end -->
 #### **Tuesday, April 21, 2026**
 <!-- HN:47843573:start -->
 * [47843573](https://news.social-protocols.org/stats?id=47843573) #21 10 points 3 comments -> [FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick](https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/)<!-- HN:47843573:end --><!-- HN:47848110:start -->
