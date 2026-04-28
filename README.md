@@ -98,4 +98,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47926286](https://news.social-protocols.org/stats?id=47926286) #23 13 points 1 comments -> [Sebastian Sawe breaks iconic sub-two-hour marathon barrier](https://www.bbc.com/sport/athletics/articles/cp383n09030o)<!-- HN:47926286:end -->
 #### **Tuesday, April 28, 2026**<!-- HN:47929077:start -->
 * [47929077](https://news.social-protocols.org/stats?id=47929077) #18 13 points 6 comments -> [Show HN: 49Agents – Infinite canvas IDE for AI agents](https://github.com/49Agents/49Agents)<!-- HN:47929077:end --><!-- HN:47934264:start -->
-* [47934264](https://news.social-protocols.org/stats?id=47934264) #3 12 points 2 comments -> [GTK2-NG: A community effort to revive and modernize GTK2](https://git.devuan.org/Daemonratte/gtk2-ng)<!-- HN:47934264:end -->
+* [47934264](https://news.social-protocols.org/stats?id=47934264) #3 12 points 2 comments -> [GTK2-NG: A community effort to revive and modernize GTK2](https://git.devuan.org/Daemonratte/gtk2-ng)<!-- HN:47934264:end --><!-- HN:47934281:start -->
+* [47934281](https://news.social-protocols.org/stats?id=47934281) #29 10 points 0 comments -> [United Arab Emirates to quit oil cartel OPEC](https://www.bbc.co.uk/news/articles/cj4pxwlr52yo)<!-- HN:47934281:end -->
