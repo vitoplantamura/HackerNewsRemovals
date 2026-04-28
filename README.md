@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, April 21, 2026**
-<!-- HN:47843573:start -->
-* [47843573](https://news.social-protocols.org/stats?id=47843573) #21 10 points 3 comments -> [FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick](https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/)<!-- HN:47843573:end --><!-- HN:47848110:start -->
-* [47848110](https://news.social-protocols.org/stats?id=47848110) #17 -> [Show HN: Antenna – RSS reader with a built-in MCP server](https://antennafeed.com/)<!-- HN:47848110:end --><!-- HN:47822372:start -->
-* [47822372](https://news.social-protocols.org/stats?id=47822372) #27 77 points 29 comments -> [Bullshit About Bullshit Machines [pdf]](https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf)<!-- HN:47822372:end --><!-- HN:47849018:start -->
-* [47849018](https://news.social-protocols.org/stats?id=47849018) #21 9 points 1 comments -> [Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'](https://www.bbc.com/news/articles/cd9v420y190o)<!-- HN:47849018:end --><!-- HN:47849131:start -->
-* [47849131](https://news.social-protocols.org/stats?id=47849131) #27 5 points 0 comments -> [My University Hired a Terrorist](https://www.facultyleaks.com/p/my-university-hired-terrorist)<!-- HN:47849131:end --><!-- HN:47844431:start -->
-* [47844431](https://news.social-protocols.org/stats?id=47844431) #27 272 points 145 comments -> [A Roblox cheat and one AI tool brought down Vercel's platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)<!-- HN:47844431:end --><!-- HN:47789445:start -->
-* [47789445](https://news.social-protocols.org/stats?id=47789445) #26 47 points 0 comments -> [Leonardo, Borgia, and Machiavelli: A Fateful Collusion](https://www.historytoday.com/archive/leonardo-borgia-and-machiavelli-fateful-collusion)<!-- HN:47789445:end --><!-- HN:47851242:start -->
-* [47851242](https://news.social-protocols.org/stats?id=47851242) #24 47 points 10 comments -> [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)<!-- HN:47851242:end -->
 #### **Wednesday, April 22, 2026**
 <!-- HN:47855616:start -->
 * [47855616](https://news.social-protocols.org/stats?id=47855616) #9 102 points 41 comments -> [SpaceX Says It Has Agreement to Acquire Cursor for $60B](https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion)<!-- HN:47855616:end --><!-- HN:47855448:start -->
