@@ -94,4 +94,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47937349](https://news.social-protocols.org/stats?id=47937349) #5 222 points 138 comments -> [Warp is now Open-Source](https://github.com/warpdotdev/warp)<!-- HN:47937349:end -->
 #### **Wednesday, April 29, 2026**
 <!-- HN:47942952:start -->
-* [47942952](https://news.social-protocols.org/stats?id=47942952) #6 -> [Fuck Off AI Music](http://fuckoffaimusic.com/)<!-- HN:47942952:end -->
+* [47942952](https://news.social-protocols.org/stats?id=47942952) #6 -> [Fuck Off AI Music](http://fuckoffaimusic.com/)<!-- HN:47942952:end --><!-- HN:47946578:start -->
+* [47946578](https://news.social-protocols.org/stats?id=47946578) #24 7 points 5 comments -> [The most important events in human history will all happen in the next 20 years](https://substack.com/home/post/p-195694687)<!-- HN:47946578:end -->
