@@ -264,3 +264,11 @@
 * [47865432](https://news.ycombinator.com/item?id=47865432) #8 6 points 1 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:47865432:end --><!-- HN:47865838:start -->
 * [47865838](https://news.ycombinator.com/item?id=47865838) #8 24 points 6 comments -> [The Tech Oligarch's Republic](https://www.forever-wars.com/the-tech-oligarchs-republic/)<!-- HN:47865838:end --><!-- HN:47870528:start -->
 * [47870528](https://news.ycombinator.com/item?id=47870528) #18 5 points 0 comments -> [Islam Is Not the Cause of Honor Killings. It's Part of the Solution](https://yaqeeninstitute.org/read/paper/islam-is-not-the-cause-of-honor-killings-its-part-of-the-solution)<!-- HN:47870528:end -->
+#### **Thursday, April 23, 2026**
+<!-- HN:47872008:start -->
+* [47872008](https://news.ycombinator.com/item?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end --><!-- HN:47873517:start -->
+* [47873517](https://news.ycombinator.com/item?id=47873517) #13 6 points 2 comments -> [Former Israeli intelligence agents from Unit 8200 hired by Apple](https://vuseum.wordpress.com/2025/07/22/ex-spie-israeliane-dellunita-8200-assunte-da-apple/)<!-- HN:47873517:end --><!-- HN:47873646:start -->
+* [47873646](https://news.ycombinator.com/item?id=47873646) #22 15 points 0 comments -> [FIU Student Arrested After Joking About Netanyahu on WhatsApp](https://www.youtube.com/watch?v=o1Zsb1IijYY)<!-- HN:47873646:end --><!-- HN:47874673:start -->
+* [47874673](https://news.ycombinator.com/item?id=47874673) #30 5 points 0 comments -> [The Demonization of Male Ambition – Lisa Britton](https://lisabritton.substack.com/p/the-demonization-of-male-ambition)<!-- HN:47874673:end --><!-- HN:47876365:start -->
+* [47876365](https://news.ycombinator.com/item?id=47876365) #6 10 points 0 comments -> [I checked 506 citations from ChatGPT,Claude, Gemini Deep Research- 36% are wrong](https://spineframe.xyz/blog)<!-- HN:47876365:end --><!-- HN:47876282:start -->
+* [47876282](https://news.ycombinator.com/item?id=47876282) #11 7 points 2 comments -> [Be sinceerly human – AI to undo your AI writing](https://sinceerly.com/)<!-- HN:47876282:end -->

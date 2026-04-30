@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, April 23, 2026**
-<!-- HN:47872008:start -->
-* [47872008](https://news.social-protocols.org/stats?id=47872008) #3 52 points 21 comments -> [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)<!-- HN:47872008:end --><!-- HN:47873517:start -->
-* [47873517](https://news.social-protocols.org/stats?id=47873517) #13 6 points 2 comments -> [Former Israeli intelligence agents from Unit 8200 hired by Apple](https://vuseum.wordpress.com/2025/07/22/ex-spie-israeliane-dellunita-8200-assunte-da-apple/)<!-- HN:47873517:end --><!-- HN:47873646:start -->
-* [47873646](https://news.social-protocols.org/stats?id=47873646) #22 15 points 0 comments -> [FIU Student Arrested After Joking About Netanyahu on WhatsApp](https://www.youtube.com/watch?v=o1Zsb1IijYY)<!-- HN:47873646:end --><!-- HN:47874673:start -->
-* [47874673](https://news.social-protocols.org/stats?id=47874673) #30 5 points 0 comments -> [The Demonization of Male Ambition – Lisa Britton](https://lisabritton.substack.com/p/the-demonization-of-male-ambition)<!-- HN:47874673:end --><!-- HN:47876365:start -->
-* [47876365](https://news.social-protocols.org/stats?id=47876365) #6 10 points 0 comments -> [I checked 506 citations from ChatGPT,Claude, Gemini Deep Research- 36% are wrong](https://spineframe.xyz/blog)<!-- HN:47876365:end --><!-- HN:47876282:start -->
-* [47876282](https://news.social-protocols.org/stats?id=47876282) #11 7 points 2 comments -> [Be sinceerly human – AI to undo your AI writing](https://sinceerly.com/)<!-- HN:47876282:end -->
 #### **Friday, April 24, 2026**
 <!-- HN:47883205:start -->
 * [47883205](https://news.social-protocols.org/stats?id=47883205) #19 4 points 0 comments -> [How tolls saved Britain from pothole hell in the Industrial Revolution](https://www.cam.ac.uk/stories/fixing-the-roads-turnpikes)<!-- HN:47883205:end --><!-- HN:47885014:start -->
