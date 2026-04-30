@@ -98,4 +98,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, April 30, 2026**
 <!-- HN:47955297:start -->
 * [47955297](https://news.social-protocols.org/stats?id=47955297) #3 117 points 64 comments -> [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)<!-- HN:47955297:end --><!-- HN:47958364:start -->
-* [47958364](https://news.social-protocols.org/stats?id=47958364) #10 17 points 2 comments -> [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions)<!-- HN:47958364:end -->
+* [47958364](https://news.social-protocols.org/stats?id=47958364) #10 17 points 2 comments -> [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions)<!-- HN:47958364:end --><!-- HN:47924575:start -->
+* [47924575](https://news.social-protocols.org/stats?id=47924575) #27 20 points 7 comments -> [Who Is That Knocking at My (SSH) Door?](https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html)<!-- HN:47924575:end -->
