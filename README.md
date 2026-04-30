@@ -95,3 +95,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47952807](https://news.social-protocols.org/stats?id=47952807) #16 7 points 2 comments -> [The end of "Just ask Sarah"](https://simme.dev/posts/the-end-of-just-ask-sarah/)<!-- HN:47952807:end --><!-- HN:47955677:start -->
 * [47955677](https://news.social-protocols.org/stats?id=47955677) #10 7 points 4 comments -> [View transactions sent to a Monero address](https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2)<!-- HN:47955677:end --><!-- HN:47955689:start -->
 * [47955689](https://news.social-protocols.org/stats?id=47955689) #22 9 points 2 comments -> [8647 Is a Prime Number](https://www.numberempire.com/8647)<!-- HN:47955689:end -->
+#### **Thursday, April 30, 2026**
+<!-- HN:47955297:start -->
+* [47955297](https://news.social-protocols.org/stats?id=47955297) #3 117 points 64 comments -> [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)<!-- HN:47955297:end -->
