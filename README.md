@@ -97,4 +97,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47955689](https://news.social-protocols.org/stats?id=47955689) #22 9 points 2 comments -> [8647 Is a Prime Number](https://www.numberempire.com/8647)<!-- HN:47955689:end -->
 #### **Thursday, April 30, 2026**
 <!-- HN:47955297:start -->
-* [47955297](https://news.social-protocols.org/stats?id=47955297) #3 117 points 64 comments -> [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)<!-- HN:47955297:end -->
+* [47955297](https://news.social-protocols.org/stats?id=47955297) #3 117 points 64 comments -> [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)<!-- HN:47955297:end --><!-- HN:47958364:start -->
+* [47958364](https://news.social-protocols.org/stats?id=47958364) #10 17 points 2 comments -> [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions)<!-- HN:47958364:end -->
