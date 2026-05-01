@@ -91,3 +91,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47961968](https://news.social-protocols.org/stats?id=47961968) #15 6 points 5 comments -> [I Built a WebAssembly Runtime in 5 Days](https://tingouw.com/blog/cloud_notes/badwater_intro)<!-- HN:47961968:end --><!-- HN:47933197:start -->
 * [47933197](https://news.social-protocols.org/stats?id=47933197) #27 48 points 12 comments -> [A statement from members of the Toki Pona community](https://tokipona.net/wile-pona/)<!-- HN:47933197:end --><!-- HN:47968027:start -->
 * [47968027](https://news.social-protocols.org/stats?id=47968027) #12 5 points 2 comments -> [Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017](https://github.com/rootsecdev/cve_2026_31431)<!-- HN:47968027:end -->
+#### **Friday, May 1, 2026**
+<!-- HN:47970089:start -->
+* [47970089](https://news.social-protocols.org/stats?id=47970089) #7 6 points 0 comments -> [ClawIRC – IRC Chat for Agents](https://clawirc.com/)<!-- HN:47970089:end -->
