@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, April 24, 2026**
-<!-- HN:47883205:start -->
-* [47883205](https://news.social-protocols.org/stats?id=47883205) #19 4 points 0 comments -> [How tolls saved Britain from pothole hell in the Industrial Revolution](https://www.cam.ac.uk/stories/fixing-the-roads-turnpikes)<!-- HN:47883205:end --><!-- HN:47885014:start -->
-* [47885014](https://news.social-protocols.org/stats?id=47885014) #29 146 points 14 comments -> [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)<!-- HN:47885014:end --><!-- HN:47888159:start -->
-* [47888159](https://news.social-protocols.org/stats?id=47888159) #15 2 points 1 comments -> [Wisp – Social that's fun again](https://wisp.mobile)<!-- HN:47888159:end --><!-- HN:47889664:start -->
-* [47889664](https://news.social-protocols.org/stats?id=47889664) #22 18 points 1 comments -> [The Era of Citizens United Could Be Nearing Its End](https://jacobin.com/2026/04/citizens-united-electoral-corruption-case)<!-- HN:47889664:end --><!-- HN:47890319:start -->
-* [47890319](https://news.social-protocols.org/stats?id=47890319) #23 16 points 3 comments -> [Iran War Has Drained U.S. Supplies of Critical, Costly Weapons](https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html)<!-- HN:47890319:end --><!-- HN:47888557:start -->
-* [47888557](https://news.social-protocols.org/stats?id=47888557) #5 183 points 68 comments -> [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)<!-- HN:47888557:end --><!-- HN:47891260:start -->
-* [47891260](https://news.social-protocols.org/stats?id=47891260) #23 23 points 3 comments -> [AI as a Fascist Artifact](https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/)<!-- HN:47891260:end --><!-- HN:47890365:start -->
-* [47890365](https://news.social-protocols.org/stats?id=47890365) #25 37 points 40 comments -> [Linux 7.1 Removes Drivers for Bus Mouse Support](https://www.phoronix.com/news/Linux-7.1-Input)<!-- HN:47890365:end --><!-- HN:47893541:start -->
-* [47893541](https://news.social-protocols.org/stats?id=47893541) #6 9 points 4 comments -> [Microsoft OpenClaw](https://github.com/microsoft/openclaw)<!-- HN:47893541:end --><!-- HN:47895080:start -->
-* [47895080](https://news.social-protocols.org/stats?id=47895080) #1 200 points 106 comments -> [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)<!-- HN:47895080:end --><!-- HN:47894129:start -->
-* [47894129](https://news.social-protocols.org/stats?id=47894129) #16 48 points 24 comments -> [Google investing up to $40B in Anthropic](https://www.wsj.com/finance/investing/google-expands-anthropic-investment-with-40-billion-commitment-99b4de74)<!-- HN:47894129:end --><!-- HN:47862870:start -->
-* [47862870](https://news.social-protocols.org/stats?id=47862870) #12 19 points 0 comments -> [The SPLC indictment, the Klan history behind it, and ignominy of Todd Blanche](https://www.lawdork.com/p/splc-indictment-united-klans-of-america)<!-- HN:47862870:end -->
 #### **Saturday, April 25, 2026**
 <!-- HN:47898744:start -->
 * [47898744](https://news.social-protocols.org/stats?id=47898744) #1 27 points 1 comments -> [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)<!-- HN:47898744:end --><!-- HN:47901993:start -->
