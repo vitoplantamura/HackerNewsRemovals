@@ -93,4 +93,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47968027](https://news.social-protocols.org/stats?id=47968027) #12 5 points 2 comments -> [Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017](https://github.com/rootsecdev/cve_2026_31431)<!-- HN:47968027:end -->
 #### **Friday, May 1, 2026**
 <!-- HN:47970089:start -->
-* [47970089](https://news.social-protocols.org/stats?id=47970089) #7 6 points 0 comments -> [ClawIRC – IRC Chat for Agents](https://clawirc.com/)<!-- HN:47970089:end -->
+* [47970089](https://news.social-protocols.org/stats?id=47970089) #7 6 points 0 comments -> [ClawIRC – IRC Chat for Agents](https://clawirc.com/)<!-- HN:47970089:end --><!-- HN:47967262:start -->
+* [47967262](https://news.social-protocols.org/stats?id=47967262) #2 407 points 180 comments -> [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)<!-- HN:47967262:end -->
