@@ -92,3 +92,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47970243](https://news.social-protocols.org/stats?id=47970243) #21 4 points 0 comments -> [AI Skills as loader spec, not prompts – why the architecture changes everything](https://internals.laxmena.com/p/what-youre-actually-writing-when)<!-- HN:47970243:end --><!-- HN:47971771:start -->
 * [47971771](https://news.social-protocols.org/stats?id=47971771) #14 69 points 2 comments -> [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)<!-- HN:47971771:end --><!-- HN:47975763:start -->
 * [47975763](https://news.social-protocols.org/stats?id=47975763) #20 24 points 15 comments -> [Confessions of a Millennial in Tech](https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech)<!-- HN:47975763:end -->
+#### **Saturday, May 2, 2026**
+<!-- HN:47982293:start -->
+* [47982293](https://news.social-protocols.org/stats?id=47982293) #22 13 points 2 comments -> [Thousands of Pentagon Civilian Workers Will Be Fired Next Week as Purge Begins](https://www.military.com/daily-news/2025/02/21/pentagon-fire-5400-civilian-employees-first-step-trumps-purge-of-federal-workers.html)<!-- HN:47982293:end -->
