@@ -286,3 +286,8 @@
 * [47895080](https://news.ycombinator.com/item?id=47895080) #1 200 points 106 comments -> [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)<!-- HN:47895080:end --><!-- HN:47894129:start -->
 * [47894129](https://news.ycombinator.com/item?id=47894129) #16 48 points 24 comments -> [Google investing up to $40B in Anthropic](https://www.wsj.com/finance/investing/google-expands-anthropic-investment-with-40-billion-commitment-99b4de74)<!-- HN:47894129:end --><!-- HN:47862870:start -->
 * [47862870](https://news.ycombinator.com/item?id=47862870) #12 19 points 0 comments -> [The SPLC indictment, the Klan history behind it, and ignominy of Todd Blanche](https://www.lawdork.com/p/splc-indictment-united-klans-of-america)<!-- HN:47862870:end -->
+#### **Saturday, April 25, 2026**
+<!-- HN:47898744:start -->
+* [47898744](https://news.ycombinator.com/item?id=47898744) #1 27 points 1 comments -> [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)<!-- HN:47898744:end --><!-- HN:47901993:start -->
+* [47901993](https://news.ycombinator.com/item?id=47901993) #18 16 points 41 comments -> [UK to permanently ban future generations from buying cigarettes](https://nypost.com/2026/04/21/world-news/uk-to-permanently-ban-future-generations-from-buying-cigarettes/)<!-- HN:47901993:end --><!-- HN:47903737:start -->
+* [47903737](https://news.ycombinator.com/item?id=47903737) #12 10 points 3 comments -> [IPv7: Identity-Centric Network Protocol – IETF Draft and Rust Implementation](https://datatracker.ietf.org/doc/draft-subbiah-ipv7/)<!-- HN:47903737:end -->
