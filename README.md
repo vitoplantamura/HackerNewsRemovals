@@ -94,4 +94,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47975763](https://news.social-protocols.org/stats?id=47975763) #20 24 points 15 comments -> [Confessions of a Millennial in Tech](https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech)<!-- HN:47975763:end -->
 #### **Saturday, May 2, 2026**
 <!-- HN:47982293:start -->
-* [47982293](https://news.social-protocols.org/stats?id=47982293) #22 13 points 2 comments -> [Thousands of Pentagon Civilian Workers Will Be Fired Next Week as Purge Begins](https://www.military.com/daily-news/2025/02/21/pentagon-fire-5400-civilian-employees-first-step-trumps-purge-of-federal-workers.html)<!-- HN:47982293:end -->
+* [47982293](https://news.social-protocols.org/stats?id=47982293) #22 13 points 2 comments -> [Thousands of Pentagon Civilian Workers Will Be Fired Next Week as Purge Begins](https://www.military.com/daily-news/2025/02/21/pentagon-fire-5400-civilian-employees-first-step-trumps-purge-of-federal-workers.html)<!-- HN:47982293:end --><!-- HN:47984301:start -->
+* [47984301](https://news.social-protocols.org/stats?id=47984301) #9 5 points 0 comments -> [Show HN: Hollow is an open-sourced self-modifying agentic system](https://github.com/ninjahawk/hollow-agentOS)<!-- HN:47984301:end -->
