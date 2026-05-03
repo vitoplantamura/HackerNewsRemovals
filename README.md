@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, April 26, 2026**
-<!-- HN:47906937:start -->
-* [47906937](https://news.social-protocols.org/stats?id=47906937) #23 6 points 0 comments -> [The death of the American Dream is now official](https://thehill.com/opinion/finance/5846892-american-dream-debt-crisis/)<!-- HN:47906937:end --><!-- HN:47841141:start -->
-* [47841141](https://news.social-protocols.org/stats?id=47841141) #28 116 points 20 comments -> [Desmond Morris has died](https://www.bbc.com/news/articles/c51y797v200o)<!-- HN:47841141:end --><!-- HN:47907205:start -->
-* [47907205](https://news.social-protocols.org/stats?id=47907205) #21 15 points 2 comments -> [A Home Made PBX](https://wandel.ca/homepage/pbx.html)<!-- HN:47907205:end --><!-- HN:47909942:start -->
-* [47909942](https://news.social-protocols.org/stats?id=47909942) #12 95 points 65 comments -> [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation)<!-- HN:47909942:end --><!-- HN:47914215:start -->
-* [47914215](https://news.social-protocols.org/stats?id=47914215) #4 13 points 12 comments -> [Let's Quit Open Source and go for Human Source (HSL 0.2)](https://github.com/xdgrulez/human-source-license)<!-- HN:47914215:end --><!-- HN:47914496:start -->
-* [47914496](https://news.social-protocols.org/stats?id=47914496) #4 34 points 2 comments -> [1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon](https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/)<!-- HN:47914496:end -->
 #### **Monday, April 27, 2026**
 <!-- HN:47914438:start -->
 * [47914438](https://news.social-protocols.org/stats?id=47914438) #4 73 points 1 comments -> [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca)<!-- HN:47914438:end --><!-- HN:47926286:start -->
