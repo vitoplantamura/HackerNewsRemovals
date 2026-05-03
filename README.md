@@ -96,3 +96,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47957680](https://news.social-protocols.org/stats?id=47957680) #21 6 points 0 comments -> [Demonstrating the idea of gamma camera imaging [video]](https://www.youtube.com/watch?v=PyGlHtvihXA)<!-- HN:47957680:end --><!-- HN:47989931:start -->
 * [47989931](https://news.social-protocols.org/stats?id=47989931) #18 38 points 33 comments -> [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)<!-- HN:47989931:end --><!-- HN:47953347:start -->
 * [47953347](https://news.social-protocols.org/stats?id=47953347) #16 68 points 137 comments -> [Why IPv6 is so complicated](https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md)<!-- HN:47953347:end -->
+#### **Sunday, May 3, 2026**
+<!-- HN:47992351:start -->
+* [47992351](https://news.social-protocols.org/stats?id=47992351) #16 3 points 3 comments -> [A Common Proof of the Riemann Hypothesis and the Collatz Conjecture](https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime)<!-- HN:47992351:end -->
