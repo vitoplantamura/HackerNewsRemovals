@@ -103,3 +103,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47990047](https://news.social-protocols.org/stats?id=47990047) #12 17 points 4 comments -> [Automating Hermitage to see how transactions differ in MySQL and MariaDB](https://theconsensus.dev/p/2026/05/02/automating-hermitage.html)<!-- HN:47990047:end --><!-- HN:47997403:start -->
 * [47997403](https://news.social-protocols.org/stats?id=47997403) #19 8 points 8 comments -> [The Hiddn Financial Bubble in AI Infrastructure [pdf]](https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf)<!-- HN:47997403:end --><!-- HN:47999395:start -->
 * [47999395](https://news.social-protocols.org/stats?id=47999395) #9 21 points 5 comments -> [Maybe AI Isn't a Bubble After All](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)<!-- HN:47999395:end -->
+#### **Monday, May 4, 2026**
+<!-- HN:48005000:start -->
+* [48005000](https://news.social-protocols.org/stats?id=48005000) #22 9 points 0 comments -> [Israel national security minister served gold death penalty noose birthday cake](https://www.independent.co.uk/news/world/middle-east/israel-minister-death-penalty-noose-birthday-cake-b2969820.html)<!-- HN:48005000:end -->
