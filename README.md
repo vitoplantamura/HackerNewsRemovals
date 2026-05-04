@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [47999395](https://news.social-protocols.org/stats?id=47999395) #9 21 points 5 comments -> [Maybe AI Isn't a Bubble After All](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)<!-- HN:47999395:end -->
 #### **Monday, May 4, 2026**
 <!-- HN:48005000:start -->
-* [48005000](https://news.social-protocols.org/stats?id=48005000) #22 9 points 0 comments -> [Israel national security minister served gold death penalty noose birthday cake](https://www.independent.co.uk/news/world/middle-east/israel-minister-death-penalty-noose-birthday-cake-b2969820.html)<!-- HN:48005000:end -->
+* [48005000](https://news.social-protocols.org/stats?id=48005000) #22 9 points 0 comments -> [Israel national security minister served gold death penalty noose birthday cake](https://www.independent.co.uk/news/world/middle-east/israel-minister-death-penalty-noose-birthday-cake-b2969820.html)<!-- HN:48005000:end --><!-- HN:48005484:start -->
+* [48005484](https://news.social-protocols.org/stats?id=48005484) #4 9 points 4 comments -> [Midori, the first browser to offer a VPN with Mesh technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)<!-- HN:48005484:end -->
