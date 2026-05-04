@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 4, 2026**
 <!-- HN:48005000:start -->
 * [48005000](https://news.social-protocols.org/stats?id=48005000) #22 9 points 0 comments -> [Israel national security minister served gold death penalty noose birthday cake](https://www.independent.co.uk/news/world/middle-east/israel-minister-death-penalty-noose-birthday-cake-b2969820.html)<!-- HN:48005000:end --><!-- HN:48005484:start -->
-* [48005484](https://news.social-protocols.org/stats?id=48005484) #4 9 points 4 comments -> [Midori, the first browser to offer a VPN with Mesh technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)<!-- HN:48005484:end -->
+* [48005484](https://news.social-protocols.org/stats?id=48005484) #4 9 points 4 comments -> [Midori, the first browser to offer a VPN with Mesh technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)<!-- HN:48005484:end --><!-- HN:47962032:start -->
+* [47962032](https://news.social-protocols.org/stats?id=47962032) #7 5 points 0 comments -> [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/)<!-- HN:47962032:end -->
