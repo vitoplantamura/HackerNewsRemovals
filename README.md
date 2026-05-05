@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, April 28, 2026**<!-- HN:47929077:start -->
-* [47929077](https://news.social-protocols.org/stats?id=47929077) #18 13 points 6 comments -> [Show HN: 49Agents – Infinite canvas IDE for AI agents](https://github.com/49Agents/49Agents)<!-- HN:47929077:end --><!-- HN:47934264:start -->
-* [47934264](https://news.social-protocols.org/stats?id=47934264) #3 12 points 2 comments -> [GTK2-NG: A community effort to revive and modernize GTK2](https://git.devuan.org/Daemonratte/gtk2-ng)<!-- HN:47934264:end --><!-- HN:47934281:start -->
-* [47934281](https://news.social-protocols.org/stats?id=47934281) #29 10 points 0 comments -> [United Arab Emirates to quit oil cartel OPEC](https://www.bbc.co.uk/news/articles/cj4pxwlr52yo)<!-- HN:47934281:end --><!-- HN:47934878:start -->
-* [47934878](https://news.social-protocols.org/stats?id=47934878) #24 11 points 2 comments -> [Ex-Mossad chief: Settler violence an existential threat, could spark civil war](https://www.timesofisrael.com/ex-mossad-chief-settler-violence-an-existential-threat-curbing-it-could-spark-civil-war/)<!-- HN:47934878:end --><!-- HN:47934294:start -->
-* [47934294](https://news.social-protocols.org/stats?id=47934294) #17 12 points 1 comments -> [I Forgot to Code](https://reggieescobar.com/blog/how-i-forgot-to-code)<!-- HN:47934294:end --><!-- HN:47936036:start -->
-* [47936036](https://news.social-protocols.org/stats?id=47936036) #21 8 points 0 comments -> [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)<!-- HN:47936036:end --><!-- HN:47934120:start -->
-* [47934120](https://news.social-protocols.org/stats?id=47934120) #30 308 points 164 comments -> [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)<!-- HN:47934120:end --><!-- HN:47940203:start -->
-* [47940203](https://news.social-protocols.org/stats?id=47940203) #29 9 points 4 comments -> [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)<!-- HN:47940203:end --><!-- HN:47937349:start -->
-* [47937349](https://news.social-protocols.org/stats?id=47937349) #5 222 points 138 comments -> [Warp is now Open-Source](https://github.com/warpdotdev/warp)<!-- HN:47937349:end -->
 #### **Wednesday, April 29, 2026**
 <!-- HN:47942952:start -->
 * [47942952](https://news.social-protocols.org/stats?id=47942952) #6 -> [Fuck Off AI Music](http://fuckoffaimusic.com/)<!-- HN:47942952:end --><!-- HN:47946578:start -->
