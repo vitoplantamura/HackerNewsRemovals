@@ -110,3 +110,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48015006](https://news.social-protocols.org/stats?id=48015006) #19 6 points 5 comments -> [Claude Is Dead](https://www.javiertordable.com/claude-is-dead/)<!-- HN:48015006:end --><!-- HN:48015146:start -->
 * [48015146](https://news.social-protocols.org/stats?id=48015146) #18 20 points 40 comments -> [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607)<!-- HN:48015146:end --><!-- HN:48015548:start -->
 * [48015548](https://news.social-protocols.org/stats?id=48015548) #12 15 points 5 comments -> [What do we lose when AI does our work?](https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/)<!-- HN:48015548:end -->
+#### **Tuesday, May 5, 2026**
+<!-- HN:48017526:start -->
+* [48017526](https://news.social-protocols.org/stats?id=48017526) #23 6 points 8 comments -> [Linux, Windows or macOS: Which Operating System to Use in 2026?](https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/)<!-- HN:48017526:end -->
