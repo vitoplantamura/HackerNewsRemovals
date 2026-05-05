@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48015548](https://news.social-protocols.org/stats?id=48015548) #12 15 points 5 comments -> [What do we lose when AI does our work?](https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/)<!-- HN:48015548:end -->
 #### **Tuesday, May 5, 2026**
 <!-- HN:48017526:start -->
-* [48017526](https://news.social-protocols.org/stats?id=48017526) #23 6 points 8 comments -> [Linux, Windows or macOS: Which Operating System to Use in 2026?](https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/)<!-- HN:48017526:end -->
+* [48017526](https://news.social-protocols.org/stats?id=48017526) #23 6 points 8 comments -> [Linux, Windows or macOS: Which Operating System to Use in 2026?](https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/)<!-- HN:48017526:end --><!-- HN:48017602:start -->
+* [48017602](https://news.social-protocols.org/stats?id=48017602) #13 12 points 4 comments -> [An LLM agent that runs on any Linux box](https://getclaw.site/#demo)<!-- HN:48017602:end -->
