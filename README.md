@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, May 6, 2026**
 <!-- HN:48029034:start -->
 * [48029034](https://news.social-protocols.org/stats?id=48029034) #26 16 points 6 comments -> [A website ranking judges by elo for the cases they dismiss in SF](https://sfcrime.pages.dev/)<!-- HN:48029034:end --><!-- HN:48029334:start -->
-* [48029334](https://news.social-protocols.org/stats?id=48029334) #13 143 points 3 comments -> [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)<!-- HN:48029334:end -->
+* [48029334](https://news.social-protocols.org/stats?id=48029334) #13 143 points 3 comments -> [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)<!-- HN:48029334:end --><!-- HN:48033118:start -->
+* [48033118](https://news.social-protocols.org/stats?id=48033118) #5 11 points 1 comments -> [.de domains were 'down' for 2 hours](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)<!-- HN:48033118:end -->
