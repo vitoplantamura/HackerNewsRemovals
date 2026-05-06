@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48027022](https://news.social-protocols.org/stats?id=48027022) #13 8 points 5 comments -> [What five years of data tells us about lasting relationships](https://hanker.dating/study)<!-- HN:48027022:end -->
 #### **Wednesday, May 6, 2026**
 <!-- HN:48029034:start -->
-* [48029034](https://news.social-protocols.org/stats?id=48029034) #26 16 points 6 comments -> [A website ranking judges by elo for the cases they dismiss in SF](https://sfcrime.pages.dev/)<!-- HN:48029034:end -->
+* [48029034](https://news.social-protocols.org/stats?id=48029034) #26 16 points 6 comments -> [A website ranking judges by elo for the cases they dismiss in SF](https://sfcrime.pages.dev/)<!-- HN:48029034:end --><!-- HN:48029334:start -->
+* [48029334](https://news.social-protocols.org/stats?id=48029334) #13 143 points 3 comments -> [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)<!-- HN:48029334:end -->
