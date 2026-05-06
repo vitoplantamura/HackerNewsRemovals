@@ -313,3 +313,13 @@
 * [47934120](https://news.ycombinator.com/item?id=47934120) #30 308 points 164 comments -> [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)<!-- HN:47934120:end --><!-- HN:47940203:start -->
 * [47940203](https://news.ycombinator.com/item?id=47940203) #29 9 points 4 comments -> [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)<!-- HN:47940203:end --><!-- HN:47937349:start -->
 * [47937349](https://news.ycombinator.com/item?id=47937349) #5 222 points 138 comments -> [Warp is now Open-Source](https://github.com/warpdotdev/warp)<!-- HN:47937349:end -->
+#### **Wednesday, April 29, 2026**
+<!-- HN:47942952:start -->
+* [47942952](https://news.ycombinator.com/item?id=47942952) #6 -> [Fuck Off AI Music](http://fuckoffaimusic.com/)<!-- HN:47942952:end --><!-- HN:47946578:start -->
+* [47946578](https://news.ycombinator.com/item?id=47946578) #24 7 points 5 comments -> [The most important events in human history will all happen in the next 20 years](https://substack.com/home/post/p-195694687)<!-- HN:47946578:end --><!-- HN:47947170:start -->
+* [47947170](https://news.ycombinator.com/item?id=47947170) #16 8 points 0 comments -> [Read any beehiiv site paywall/distraction free](https://beehiiv-reader.vercel.app/)<!-- HN:47947170:end --><!-- HN:47946958:start -->
+* [47946958](https://news.ycombinator.com/item?id=47946958) #7 375 points 196 comments -> [HashiCorp co-founder says GitHub 'no longer a place for serious work'](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/)<!-- HN:47946958:end --><!-- HN:47949864:start -->
+* [47949864](https://news.ycombinator.com/item?id=47949864) #13 12 points 0 comments -> [I built ten custom subagents to tame a 500K-line Clojure codebase](https://www.metabase.com/blog/ten-custom-subagents)<!-- HN:47949864:end --><!-- HN:47950605:start -->
+* [47950605](https://news.ycombinator.com/item?id=47950605) #10 8 points 1 comments -> [The US Tech Giant Where Employees Wear IDF Uniforms to Work](https://www.donotpanic.news/p/exclusive-the-us-tech-giant-where)<!-- HN:47950605:end --><!-- HN:47955677:start -->
+* [47955677](https://news.ycombinator.com/item?id=47955677) #10 7 points 4 comments -> [View transactions sent to a Monero address](https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2)<!-- HN:47955677:end --><!-- HN:47955689:start -->
+* [47955689](https://news.ycombinator.com/item?id=47955689) #22 9 points 2 comments -> [8647 Is a Prime Number](https://www.numberempire.com/8647)<!-- HN:47955689:end -->
