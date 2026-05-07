@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48042842:start -->
 * [48042842](https://news.social-protocols.org/stats?id=48042842) #17 61 points 39 comments -> [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)<!-- HN:48042842:end --><!-- HN:48043378:start -->
 * [48043378](https://news.social-protocols.org/stats?id=48043378) #22 40 points 14 comments -> [Kash Patel's Personalized Bourbon Stash](https://www.theatlantic.com/politics/2026/05/kash-patel-fbi-bourbon/687066/)<!-- HN:48043378:end --><!-- HN:48043866:start -->
-* [48043866](https://news.social-protocols.org/stats?id=48043866) #22 14 points 2 comments -> [They Don't Look Like Me](https://niccolorastrelli.com/they-dont-look-like-me)<!-- HN:48043866:end -->
+* [48043866](https://news.social-protocols.org/stats?id=48043866) #22 14 points 2 comments -> [They Don't Look Like Me](https://niccolorastrelli.com/they-dont-look-like-me)<!-- HN:48043866:end --><!-- HN:48044022:start -->
+* [48044022](https://news.social-protocols.org/stats?id=48044022) #10 37 points 10 comments -> [How I made $350K from an open-source JavaScript library using dual licensing](https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/)<!-- HN:48044022:end -->
