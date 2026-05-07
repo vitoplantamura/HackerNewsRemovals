@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, April 30, 2026**
-<!-- HN:47955297:start -->
-* [47955297](https://news.social-protocols.org/stats?id=47955297) #3 117 points 64 comments -> [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)<!-- HN:47955297:end --><!-- HN:47958364:start -->
-* [47958364](https://news.social-protocols.org/stats?id=47958364) #10 17 points 2 comments -> [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions)<!-- HN:47958364:end --><!-- HN:47924575:start -->
-* [47924575](https://news.social-protocols.org/stats?id=47924575) #27 20 points 7 comments -> [Who Is That Knocking at My (SSH) Door?](https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html)<!-- HN:47924575:end --><!-- HN:47926506:start -->
-* [47926506](https://news.social-protocols.org/stats?id=47926506) #14 8 points 3 comments -> [The Duolingo taxi test–could being rude to the driver cost you your dream job?](https://phys.org/news/2026-04-duolingo-taxi-rude-driver-job.html)<!-- HN:47926506:end --><!-- HN:47962064:start -->
-* [47962064](https://news.social-protocols.org/stats?id=47962064) #14 15 points 0 comments -> [The UAE doubles down on Israel and America](https://www.economist.com/leaders/2026/04/30/the-uae-doubles-down-on-israel-and-america)<!-- HN:47962064:end --><!-- HN:47961968:start -->
-* [47961968](https://news.social-protocols.org/stats?id=47961968) #15 6 points 5 comments -> [I Built a WebAssembly Runtime in 5 Days](https://tingouw.com/blog/cloud_notes/badwater_intro)<!-- HN:47961968:end --><!-- HN:47933197:start -->
-* [47933197](https://news.social-protocols.org/stats?id=47933197) #27 48 points 12 comments -> [A statement from members of the Toki Pona community](https://tokipona.net/wile-pona/)<!-- HN:47933197:end --><!-- HN:47968027:start -->
-* [47968027](https://news.social-protocols.org/stats?id=47968027) #12 5 points 2 comments -> [Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017](https://github.com/rootsecdev/cve_2026_31431)<!-- HN:47968027:end -->
 #### **Friday, May 1, 2026**
 <!-- HN:47970089:start -->
 * [47970089](https://news.social-protocols.org/stats?id=47970089) #7 6 points 0 comments -> [ClawIRC – IRC Chat for Agents](https://clawirc.com/)<!-- HN:47970089:end --><!-- HN:47967262:start -->
