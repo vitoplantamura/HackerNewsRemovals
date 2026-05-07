@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48038031](https://news.social-protocols.org/stats?id=48038031) #6 29 points 40 comments -> [The Disadvantages of an Elite Education (2008)](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)<!-- HN:48038031:end -->
 #### **Thursday, May 7, 2026**
 <!-- HN:48042842:start -->
-* [48042842](https://news.social-protocols.org/stats?id=48042842) #17 61 points 39 comments -> [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)<!-- HN:48042842:end -->
+* [48042842](https://news.social-protocols.org/stats?id=48042842) #17 61 points 39 comments -> [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)<!-- HN:48042842:end --><!-- HN:48043378:start -->
+* [48043378](https://news.social-protocols.org/stats?id=48043378) #22 40 points 14 comments -> [Kash Patel's Personalized Bourbon Stash](https://www.theatlantic.com/politics/2026/05/kash-patel-fbi-bourbon/687066/)<!-- HN:48043378:end -->
