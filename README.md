@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48036524](https://news.social-protocols.org/stats?id=48036524) #8 5 points 3 comments -> [The next great software company won't sell software](https://blog.layerx.xyz/service-as-a-software)<!-- HN:48036524:end --><!-- HN:48037465:start -->
 * [48037465](https://news.social-protocols.org/stats?id=48037465) #2 27 points 8 comments -> [Some kids are bypassing age verification checks with a fake mustache](https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/)<!-- HN:48037465:end --><!-- HN:48038031:start -->
 * [48038031](https://news.social-protocols.org/stats?id=48038031) #6 29 points 40 comments -> [The Disadvantages of an Elite Education (2008)](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)<!-- HN:48038031:end -->
+#### **Thursday, May 7, 2026**
+<!-- HN:48042842:start -->
+* [48042842](https://news.social-protocols.org/stats?id=48042842) #17 61 points 39 comments -> [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)<!-- HN:48042842:end -->
