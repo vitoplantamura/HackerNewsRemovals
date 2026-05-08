@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, May 8, 2026**<!-- HN:48056003:start -->
 * [48056003](https://news.social-protocols.org/stats?id=48056003) #23 33 points 56 comments -> [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week)<!-- HN:48056003:end --><!-- HN:48058217:start -->
 * [48058217](https://news.social-protocols.org/stats?id=48058217) #19 17 points 2 comments -> [New York state set to ban law enforcement, including ICE, from wearing masks](https://www.reuters.com/legal/government/new-york-state-set-ban-law-enforcement-including-ice-wearing-masks-2026-05-07/)<!-- HN:48058217:end --><!-- HN:48062997:start -->
-* [48062997](https://news.social-protocols.org/stats?id=48062997) #3 79 points 36 comments -> [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)<!-- HN:48062997:end -->
+* [48062997](https://news.social-protocols.org/stats?id=48062997) #3 79 points 36 comments -> [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)<!-- HN:48062997:end --><!-- HN:48063199:start -->
+* [48063199](https://news.social-protocols.org/stats?id=48063199) #9 2 points 0 comments -> [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)<!-- HN:48063199:end -->
