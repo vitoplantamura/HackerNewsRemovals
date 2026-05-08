@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48051080](https://news.social-protocols.org/stats?id=48051080) #2 60 points 30 comments -> [Authorities say Flock cameras' data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)<!-- HN:48051080:end --><!-- HN:48054732:start -->
 * [48054732](https://news.social-protocols.org/stats?id=48054732) #8 49 points 15 comments -> [Utah senator smacks ABC reporters phone out of hand amid Data Center controversy](https://www.abc4.com/news/digital-exclusives/reporter-jj-nursery-utah-senator-jerry-stevenson-box-elder-county-data-center/)<!-- HN:48054732:end --><!-- HN:48054953:start -->
 * [48054953](https://news.social-protocols.org/stats?id=48054953) #12 7 points 1 comments -> [Why The Pentagon Is Quadrupling Missile Production, and Why It Won't Be Enough](https://militarymachine.com/pentagon-missile-production-surge-2026)<!-- HN:48054953:end -->
+#### **Friday, May 8, 2026**
+<!-- HN:48056003:start -->
+* [48056003](https://news.social-protocols.org/stats?id=48056003) #13 30 points 40 comments -> [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week)<!-- HN:48056003:end -->
