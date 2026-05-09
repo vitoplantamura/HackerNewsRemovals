@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 2, 2026**
-<!-- HN:47982293:start -->
-* [47982293](https://news.social-protocols.org/stats?id=47982293) #22 13 points 2 comments -> [Thousands of Pentagon Civilian Workers Will Be Fired Next Week as Purge Begins](https://www.military.com/daily-news/2025/02/21/pentagon-fire-5400-civilian-employees-first-step-trumps-purge-of-federal-workers.html)<!-- HN:47982293:end --><!-- HN:47984301:start -->
-* [47984301](https://news.social-protocols.org/stats?id=47984301) #9 5 points 0 comments -> [Show HN: Hollow is an open-sourced self-modifying agentic system](https://github.com/ninjahawk/hollow-agentOS)<!-- HN:47984301:end --><!-- HN:47984486:start -->
-* [47984486](https://news.social-protocols.org/stats?id=47984486) #18 28 points 15 comments -> [SKILL.make: Makefile Styled Skill File](https://github.com/Teaonly/SKILL.make)<!-- HN:47984486:end --><!-- HN:47985353:start -->
-* [47985353](https://news.social-protocols.org/stats?id=47985353) #14 36 points 13 comments -> [Pushed by Trump policies, top U.S. battery scientist is moving to Singapore](https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore)<!-- HN:47985353:end --><!-- HN:47985725:start -->
-* [47985725](https://news.social-protocols.org/stats?id=47985725) #4 22 points 11 comments -> [The Century-Long Pause in Fundamental Physics](https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics)<!-- HN:47985725:end --><!-- HN:47986578:start -->
-* [47986578](https://news.social-protocols.org/stats?id=47986578) #1 24 points 15 comments -> [Mini PC for local LLMs in 2026](https://terminalbytes.com/best-mini-pc-for-local-llm-2026/)<!-- HN:47986578:end --><!-- HN:47985704:start -->
-* [47985704](https://news.social-protocols.org/stats?id=47985704) #23 55 points 11 comments -> [Craig Venter of Human Genome Project Dies at 79](https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome)<!-- HN:47985704:end --><!-- HN:47957680:start -->
-* [47957680](https://news.social-protocols.org/stats?id=47957680) #21 6 points 0 comments -> [Demonstrating the idea of gamma camera imaging [video]](https://www.youtube.com/watch?v=PyGlHtvihXA)<!-- HN:47957680:end --><!-- HN:47989931:start -->
-* [47989931](https://news.social-protocols.org/stats?id=47989931) #18 38 points 33 comments -> [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)<!-- HN:47989931:end --><!-- HN:47953347:start -->
-* [47953347](https://news.social-protocols.org/stats?id=47953347) #16 68 points 137 comments -> [Why IPv6 is so complicated](https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md)<!-- HN:47953347:end -->
 #### **Sunday, May 3, 2026**
 <!-- HN:47992351:start -->
 * [47992351](https://news.social-protocols.org/stats?id=47992351) #16 3 points 3 comments -> [A Common Proof of the Riemann Hypothesis and the Collatz Conjecture](https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime)<!-- HN:47992351:end --><!-- HN:47993636:start -->
