@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48068475](https://news.social-protocols.org/stats?id=48068475) #14 17 points 1 comments -> [Dirty Frag: Universal Linux LPE](https://github.com/V4bel/dirtyfrag)<!-- HN:48068475:end --><!-- HN:48069354:start -->
 * [48069354](https://news.social-protocols.org/stats?id=48069354) #19 -> [Judge rules DOGE cancellation of humanities grants was unconstitutional](https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e)<!-- HN:48069354:end --><!-- HN:48069088:start -->
 * [48069088](https://news.social-protocols.org/stats?id=48069088) #3 37 points 9 comments -> [AWS data center outage hits trading on Fanduel, Coinbase](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html)<!-- HN:48069088:end -->
+#### **Saturday, May 9, 2026**
+<!-- HN:48069844:start -->
+* [48069844](https://news.social-protocols.org/stats?id=48069844) #25 3 points 0 comments -> [Unprecedented GPS Game in the AppStore](https://cheapshot.co/)<!-- HN:48069844:end -->
