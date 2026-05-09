@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48069088](https://news.social-protocols.org/stats?id=48069088) #3 37 points 9 comments -> [AWS data center outage hits trading on Fanduel, Coinbase](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html)<!-- HN:48069088:end -->
 #### **Saturday, May 9, 2026**
 <!-- HN:48069844:start -->
-* [48069844](https://news.social-protocols.org/stats?id=48069844) #25 3 points 0 comments -> [Unprecedented GPS Game in the AppStore](https://cheapshot.co/)<!-- HN:48069844:end -->
+* [48069844](https://news.social-protocols.org/stats?id=48069844) #25 3 points 0 comments -> [Unprecedented GPS Game in the AppStore](https://cheapshot.co/)<!-- HN:48069844:end --><!-- HN:48070721:start -->
+* [48070721](https://news.social-protocols.org/stats?id=48070721) #22 6 points 23 comments -> [I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/)<!-- HN:48070721:end -->
