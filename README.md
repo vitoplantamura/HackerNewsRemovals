@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 9, 2026**
 <!-- HN:48069844:start -->
 * [48069844](https://news.social-protocols.org/stats?id=48069844) #25 3 points 0 comments -> [Unprecedented GPS Game in the AppStore](https://cheapshot.co/)<!-- HN:48069844:end --><!-- HN:48070721:start -->
-* [48070721](https://news.social-protocols.org/stats?id=48070721) #22 6 points 23 comments -> [I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/)<!-- HN:48070721:end -->
+* [48070721](https://news.social-protocols.org/stats?id=48070721) #22 6 points 23 comments -> [I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/)<!-- HN:48070721:end --><!-- HN:48072319:start -->
+* [48072319](https://news.social-protocols.org/stats?id=48072319) #6 34 points 18 comments -> [I Will Never Use AI to Code](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)<!-- HN:48072319:end -->
