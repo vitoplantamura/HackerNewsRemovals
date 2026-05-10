@@ -114,5 +114,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48079114](https://news.social-protocols.org/stats?id=48079114) #8 10 points 0 comments -> [User just tricked Grok and Bankrbot to send tokens with Morse code](https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/)<!-- HN:48079114:end -->
 #### **Sunday, May 10, 2026**
 <!-- HN:48072720:start -->
-* [48072720](https://news.social-protocols.org/stats?id=48072720) #30 178 points 72 comments -> [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)<!-- HN:48072720:end --><!-- HN:48082878:start -->
-* [48082878](https://news.social-protocols.org/stats?id=48082878) #11 8 points 1 comments -> [Doctors Just Staged the Quietest Coup in American History](https://thegrimhistorian.substack.com/p/36-doctors-just-staged-the-quietest)<!-- HN:48082878:end -->
+* [48072720](https://news.social-protocols.org/stats?id=48072720) #30 178 points 72 comments -> [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)<!-- HN:48072720:end -->
