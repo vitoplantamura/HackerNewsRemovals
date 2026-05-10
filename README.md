@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, May 3, 2026**
-<!-- HN:47992351:start -->
-* [47992351](https://news.social-protocols.org/stats?id=47992351) #16 3 points 3 comments -> [A Common Proof of the Riemann Hypothesis and the Collatz Conjecture](https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime)<!-- HN:47992351:end --><!-- HN:47993636:start -->
-* [47993636](https://news.social-protocols.org/stats?id=47993636) #9 10 points 3 comments -> [The Reality of Being a Man in Your 50s in South Korea](https://indignified.com/the-hidden-realities-of-midlife-masculinity-in-south-korea/)<!-- HN:47993636:end --><!-- HN:47962645:start -->
-* [47962645](https://news.social-protocols.org/stats?id=47962645) #6 86 points 16 comments -> [The IBM Granite 4.1 family of models](https://research.ibm.com/blog/granite-4-1-ai-foundation-models)<!-- HN:47962645:end --><!-- HN:47995065:start -->
-* [47995065](https://news.social-protocols.org/stats?id=47995065) #7 7 points 3 comments -> [Thoth – open-source Local-first AI Assistant](https://github.com/siddsachar/Thoth)<!-- HN:47995065:end --><!-- HN:47995815:start -->
-* [47995815](https://news.social-protocols.org/stats?id=47995815) #11 15 points 5 comments -> [All Four Sentinel-1 Satellites Are Now Live](https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/)<!-- HN:47995815:end --><!-- HN:47996945:start -->
-* [47996945](https://news.social-protocols.org/stats?id=47996945) #10 5 points 0 comments -> [The Petroleum System Is Entering Its Volatile Decline Phase](https://cleantechnica.com/2026/04/29/the-petroleum-system-is-entering-its-volatile-decline-phase/)<!-- HN:47996945:end --><!-- HN:47990047:start -->
-* [47990047](https://news.social-protocols.org/stats?id=47990047) #12 17 points 4 comments -> [Automating Hermitage to see how transactions differ in MySQL and MariaDB](https://theconsensus.dev/p/2026/05/02/automating-hermitage.html)<!-- HN:47990047:end --><!-- HN:47997403:start -->
-* [47997403](https://news.social-protocols.org/stats?id=47997403) #19 8 points 8 comments -> [The Hiddn Financial Bubble in AI Infrastructure [pdf]](https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf)<!-- HN:47997403:end --><!-- HN:47999395:start -->
-* [47999395](https://news.social-protocols.org/stats?id=47999395) #9 21 points 5 comments -> [Maybe AI Isn't a Bubble After All](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)<!-- HN:47999395:end -->
 #### **Monday, May 4, 2026**
 <!-- HN:48005000:start -->
 * [48005000](https://news.social-protocols.org/stats?id=48005000) #22 9 points 0 comments -> [Israel national security minister served gold death penalty noose birthday cake](https://www.independent.co.uk/news/world/middle-east/israel-minister-death-penalty-noose-birthday-cake-b2969820.html)<!-- HN:48005000:end --><!-- HN:48005484:start -->
