@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48079114](https://news.social-protocols.org/stats?id=48079114) #8 10 points 0 comments -> [User just tricked Grok and Bankrbot to send tokens with Morse code](https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/)<!-- HN:48079114:end -->
 #### **Sunday, May 10, 2026**
 <!-- HN:48072720:start -->
-* [48072720](https://news.social-protocols.org/stats?id=48072720) #30 178 points 72 comments -> [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)<!-- HN:48072720:end -->
+* [48072720](https://news.social-protocols.org/stats?id=48072720) #30 178 points 72 comments -> [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)<!-- HN:48072720:end --><!-- HN:48077966:start -->
+* [48077966](https://news.social-protocols.org/stats?id=48077966) #26 40 points 40 comments -> [I Caught the Car](https://undecidability.net/senior/)<!-- HN:48077966:end -->
