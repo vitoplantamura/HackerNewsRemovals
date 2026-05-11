@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48072720](https://news.social-protocols.org/stats?id=48072720) #30 178 points 72 comments -> [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)<!-- HN:48072720:end --><!-- HN:48082342:start -->
 * [48082342](https://news.social-protocols.org/stats?id=48082342) #15 8 points 3 comments -> [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)<!-- HN:48082342:end --><!-- HN:48081094:start -->
 * [48081094](https://news.social-protocols.org/stats?id=48081094) #18 25 points 29 comments -> [Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)<!-- HN:48081094:end -->
-#### **Monday, May 11, 2026**
+#### **Monday, May 11, 2026**<!-- HN:48089319:start -->
+* [48089319](https://news.social-protocols.org/stats?id=48089319) #14 18 points 7 comments -> [AI Productivity Fails](https://blog.sshh.io/p/how-ai-productivity-fails)<!-- HN:48089319:end -->
