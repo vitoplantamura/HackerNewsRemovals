@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, May 4, 2026**
-<!-- HN:48005000:start -->
-* [48005000](https://news.social-protocols.org/stats?id=48005000) #22 9 points 0 comments -> [Israel national security minister served gold death penalty noose birthday cake](https://www.independent.co.uk/news/world/middle-east/israel-minister-death-penalty-noose-birthday-cake-b2969820.html)<!-- HN:48005000:end --><!-- HN:48005484:start -->
-* [48005484](https://news.social-protocols.org/stats?id=48005484) #4 9 points 4 comments -> [Midori, the first browser to offer a VPN with Mesh technology](https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/)<!-- HN:48005484:end --><!-- HN:48006522:start -->
-* [48006522](https://news.social-protocols.org/stats?id=48006522) #18 11 points 4 comments -> [Ruflo: Multi-agent AI orchestration for Claude Code](https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md)<!-- HN:48006522:end --><!-- HN:48006832:start -->
-* [48006832](https://news.social-protocols.org/stats?id=48006832) #2 -> [Amsterdam bans public adverts for meat and fossil fuels](https://www.bbc.com/news/articles/c9wejdekpwyo)<!-- HN:48006832:end --><!-- HN:48007145:start -->
-* [48007145](https://news.social-protocols.org/stats?id=48007145) #7 89 points 35 comments -> [ASML's Best Selling Product Isn't What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)<!-- HN:48007145:end --><!-- HN:48008805:start -->
-* [48008805](https://news.social-protocols.org/stats?id=48008805) #6 7 points 1 comments -> [Show HN: Let – Offline-first life events tracker (React Native, SQLite)](https://github.com/p32929/let)<!-- HN:48008805:end --><!-- HN:48010033:start -->
-* [48010033](https://news.social-protocols.org/stats?id=48010033) #10 8 points 6 comments -> [Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)<!-- HN:48010033:end --><!-- HN:48008326:start -->
-* [48008326](https://news.social-protocols.org/stats?id=48008326) #20 102 points 54 comments -> [Someone allegedly used a hairdryer to rig Polymarket weather bets](https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html)<!-- HN:48008326:end --><!-- HN:48010992:start -->
-* [48010992](https://news.social-protocols.org/stats?id=48010992) #22 22 points 3 comments -> ["They would never use the death star on us"](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)<!-- HN:48010992:end --><!-- HN:48009697:start -->
-* [48009697](https://news.social-protocols.org/stats?id=48009697) #3 527 points 449 comments -> [Removable batteries in smartphones will be mandatory in the EU starting in 2027](https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/)<!-- HN:48009697:end --><!-- HN:48012695:start -->
-* [48012695](https://news.social-protocols.org/stats?id=48012695) #19 25 points 17 comments -> [Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline](https://geeksandgamers.com/remove-star-wars-sequel-trilogy/)<!-- HN:48012695:end --><!-- HN:48015006:start -->
-* [48015006](https://news.social-protocols.org/stats?id=48015006) #19 6 points 5 comments -> [Claude Is Dead](https://www.javiertordable.com/claude-is-dead/)<!-- HN:48015006:end --><!-- HN:48015146:start -->
-* [48015146](https://news.social-protocols.org/stats?id=48015146) #18 20 points 40 comments -> [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607)<!-- HN:48015146:end --><!-- HN:48015548:start -->
-* [48015548](https://news.social-protocols.org/stats?id=48015548) #12 15 points 5 comments -> [What do we lose when AI does our work?](https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/)<!-- HN:48015548:end -->
 #### **Tuesday, May 5, 2026**
 <!-- HN:48017526:start -->
 * [48017526](https://news.social-protocols.org/stats?id=48017526) #23 6 points 8 comments -> [Linux, Windows or macOS: Which Operating System to Use in 2026?](https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/)<!-- HN:48017526:end --><!-- HN:48017602:start -->
