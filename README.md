@@ -110,6 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48074229](https://news.social-protocols.org/stats?id=48074229) #21 4 points 0 comments -> [Mouse Wheel Tweaks](https://mcpedl.com/mouse-wheel-tweaks/)<!-- HN:48074229:end -->
 #### **Tuesday, May 12, 2026**
 <!-- HN:48102221:start -->
-* [48102221](https://news.social-protocols.org/stats?id=48102221) #15 6 points 0 comments -> [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)<!-- HN:48102221:end --><!-- HN:48102360:start -->
-* [48102360](https://news.social-protocols.org/stats?id=48102360) #12 14 points 40 comments -> [Can we code our way out of gentrification?](https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification)<!-- HN:48102360:end --><!-- HN:48103459:start -->
+* [48102221](https://news.social-protocols.org/stats?id=48102221) #15 6 points 0 comments -> [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)<!-- HN:48102221:end --><!-- HN:48103459:start -->
 * [48103459](https://news.social-protocols.org/stats?id=48103459) #12 38 points 27 comments -> [Fake building: Claude wrote 3k lines instead of import pywikibot](https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/)<!-- HN:48103459:end -->
