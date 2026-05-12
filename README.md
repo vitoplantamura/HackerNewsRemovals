@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48097651](https://news.social-protocols.org/stats?id=48097651) #5 11 points 5 comments -> [How to Leave Instagram](https://www.a-side.social/blog/how-to-leave-instagram/)<!-- HN:48097651:end --><!-- HN:48096471:start -->
 * [48096471](https://news.social-protocols.org/stats?id=48096471) #25 40 points 38 comments -> [Should you leave red herrings about yourself online?](https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online)<!-- HN:48096471:end --><!-- HN:48074229:start -->
 * [48074229](https://news.social-protocols.org/stats?id=48074229) #21 4 points 0 comments -> [Mouse Wheel Tweaks](https://mcpedl.com/mouse-wheel-tweaks/)<!-- HN:48074229:end -->
+#### **Tuesday, May 12, 2026**
+<!-- HN:48102221:start -->
+* [48102221](https://news.social-protocols.org/stats?id=48102221) #15 6 points 0 comments -> [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)<!-- HN:48102221:end -->
