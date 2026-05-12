@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, May 5, 2026**
-<!-- HN:48017526:start -->
-* [48017526](https://news.social-protocols.org/stats?id=48017526) #23 6 points 8 comments -> [Linux, Windows or macOS: Which Operating System to Use in 2026?](https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/)<!-- HN:48017526:end --><!-- HN:48017602:start -->
-* [48017602](https://news.social-protocols.org/stats?id=48017602) #13 12 points 4 comments -> [An LLM agent that runs on any Linux box](https://getclaw.site/#demo)<!-- HN:48017602:end --><!-- HN:48018098:start -->
-* [48018098](https://news.social-protocols.org/stats?id=48018098) #11 10 points 5 comments -> [OpenAI can't build working RSS feeds](https://openai.com/news/rss.xml)<!-- HN:48018098:end --><!-- HN:48020249:start -->
-* [48020249](https://news.social-protocols.org/stats?id=48020249) #25 13 points 8 comments -> [Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative](https://idiotproofseo.com/)<!-- HN:48020249:end --><!-- HN:48027022:start -->
-* [48027022](https://news.social-protocols.org/stats?id=48027022) #13 8 points 5 comments -> [What five years of data tells us about lasting relationships](https://hanker.dating/study)<!-- HN:48027022:end -->
 #### **Wednesday, May 6, 2026**
 <!-- HN:48029034:start -->
 * [48029034](https://news.social-protocols.org/stats?id=48029034) #26 16 points 6 comments -> [A website ranking judges by elo for the cases they dismiss in SF](https://sfcrime.pages.dev/)<!-- HN:48029034:end --><!-- HN:48029334:start -->
