@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 6, 2026**
-<!-- HN:48029034:start -->
-* [48029034](https://news.social-protocols.org/stats?id=48029034) #26 16 points 6 comments -> [A website ranking judges by elo for the cases they dismiss in SF](https://sfcrime.pages.dev/)<!-- HN:48029034:end --><!-- HN:48029334:start -->
-* [48029334](https://news.social-protocols.org/stats?id=48029334) #13 143 points 3 comments -> [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)<!-- HN:48029334:end --><!-- HN:48033118:start -->
-* [48033118](https://news.social-protocols.org/stats?id=48033118) #5 11 points 1 comments -> [.de domains were 'down' for 2 hours](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)<!-- HN:48033118:end --><!-- HN:48033729:start -->
-* [48033729](https://news.social-protocols.org/stats?id=48033729) #4 8 points 2 comments -> [You made me rich, thank you](https://github.com/theori-io/copy-fail-CVE-2026-31431/issues/128)<!-- HN:48033729:end --><!-- HN:48033689:start -->
-* [48033689](https://news.social-protocols.org/stats?id=48033689) #30 34 points 35 comments -> [The Boring Internet](https://www.terrygodier.com/the-boring-internet)<!-- HN:48033689:end --><!-- HN:48033952:start -->
-* [48033952](https://news.social-protocols.org/stats?id=48033952) #22 10 points 2 comments -> [The AI operator: Biggest role in Silicon Valley](https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley)<!-- HN:48033952:end --><!-- HN:48034372:start -->
-* [48034372](https://news.social-protocols.org/stats?id=48034372) #19 24 points 14 comments -> [NZ Government to Disestablish the BSA](https://www.beehive.govt.nz/release/government-disestablish-bsa)<!-- HN:48034372:end --><!-- HN:48035874:start -->
-* [48035874](https://news.social-protocols.org/stats?id=48035874) #5 5 points 0 comments -> [Australia will run an overt command economy by 2040](https://caseyhandmer.wordpress.com/2026/04/16/australia-will-run-an-overt-command-economy-by-2040/)<!-- HN:48035874:end --><!-- HN:48036524:start -->
-* [48036524](https://news.social-protocols.org/stats?id=48036524) #8 5 points 3 comments -> [The next great software company won't sell software](https://blog.layerx.xyz/service-as-a-software)<!-- HN:48036524:end --><!-- HN:48037465:start -->
-* [48037465](https://news.social-protocols.org/stats?id=48037465) #2 27 points 8 comments -> [Some kids are bypassing age verification checks with a fake mustache](https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/)<!-- HN:48037465:end --><!-- HN:48038031:start -->
-* [48038031](https://news.social-protocols.org/stats?id=48038031) #6 29 points 40 comments -> [The Disadvantages of an Elite Education (2008)](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)<!-- HN:48038031:end -->
 #### **Thursday, May 7, 2026**
 <!-- HN:48042842:start -->
 * [48042842](https://news.social-protocols.org/stats?id=48042842) #17 61 points 39 comments -> [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)<!-- HN:48042842:end --><!-- HN:48043378:start -->
