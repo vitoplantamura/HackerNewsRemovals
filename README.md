@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48112190](https://news.social-protocols.org/stats?id=48112190) #22 15 points 3 comments -> [Unauthorized Anthropic stock sales and investment scams](https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams)<!-- HN:48112190:end -->
 #### **Wednesday, May 13, 2026**
 <!-- HN:48116604:start -->
-* [48116604](https://news.social-protocols.org/stats?id=48116604) #30 15 points 6 comments -> [AI shouldn't have a meter. Unlimited tokens. Forever](https://www.openmonoagent.ai/)<!-- HN:48116604:end -->
+* [48116604](https://news.social-protocols.org/stats?id=48116604) #30 15 points 6 comments -> [AI shouldn't have a meter. Unlimited tokens. Forever](https://www.openmonoagent.ai/)<!-- HN:48116604:end --><!-- HN:48117733:start -->
+* [48117733](https://news.social-protocols.org/stats?id=48117733) #30 4 points 1 comments -> [We tested super-resolution pre-filter for LPR OCR. It did nothing](https://www.wink.co/documentation/Neural-Super-Resolution-Pre-Filter-LPR-2026)<!-- HN:48117733:end -->
