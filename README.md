@@ -103,3 +103,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48075303](https://news.social-protocols.org/stats?id=48075303) #14 5 points 0 comments -> [Jankó Keyboard](https://en.wikipedia.org/wiki/Jank%C3%B3_keyboard)<!-- HN:48075303:end --><!-- HN:48080179:start -->
 * [48080179](https://news.social-protocols.org/stats?id=48080179) #30 27 points 40 comments -> [Analysis points to a unexpected cause of reading difficulties](https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html)<!-- HN:48080179:end --><!-- HN:48112190:start -->
 * [48112190](https://news.social-protocols.org/stats?id=48112190) #22 15 points 3 comments -> [Unauthorized Anthropic stock sales and investment scams](https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams)<!-- HN:48112190:end -->
+#### **Wednesday, May 13, 2026**
+<!-- HN:48116604:start -->
+* [48116604](https://news.social-protocols.org/stats?id=48116604) #30 15 points 6 comments -> [AI shouldn't have a meter. Unlimited tokens. Forever](https://www.openmonoagent.ai/)<!-- HN:48116604:end -->
