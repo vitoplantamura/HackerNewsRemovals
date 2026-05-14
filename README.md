@@ -103,3 +103,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48125757](https://news.social-protocols.org/stats?id=48125757) #8 6 points 2 comments -> [Nginx.org/En/Changes](https://nginx.org/en/CHANGES)<!-- HN:48125757:end --><!-- HN:48125194:start -->
 * [48125194](https://news.social-protocols.org/stats?id=48125194) #22 9 points 5 comments -> [Telegram Is Gone](https://lazybea.rs/telegram-is-gone/)<!-- HN:48125194:end --><!-- HN:48125494:start -->
 * [48125494](https://news.social-protocols.org/stats?id=48125494) #29 68 points 21 comments -> [ReactOS](https://reactos.org/)<!-- HN:48125494:end -->
+#### **Thursday, May 14, 2026**
+<!-- HN:48129598:start -->
+* [48129598](https://news.social-protocols.org/stats?id=48129598) #1 23 points 8 comments -> [Who Trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)<!-- HN:48129598:end -->
