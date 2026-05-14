@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48125494](https://news.social-protocols.org/stats?id=48125494) #29 68 points 21 comments -> [ReactOS](https://reactos.org/)<!-- HN:48125494:end -->
 #### **Thursday, May 14, 2026**
 <!-- HN:48129598:start -->
-* [48129598](https://news.social-protocols.org/stats?id=48129598) #1 23 points 8 comments -> [Who Trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)<!-- HN:48129598:end -->
+* [48129598](https://news.social-protocols.org/stats?id=48129598) #1 23 points 8 comments -> [Who Trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)<!-- HN:48129598:end --><!-- HN:48130976:start -->
+* [48130976](https://news.social-protocols.org/stats?id=48130976) #15 12 points 2 comments -> [Built to help my dad pass CCNA, now were changing how people learn networking](https://switchlab.dev/)<!-- HN:48130976:end -->
