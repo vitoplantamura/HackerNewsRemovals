@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48129598:start -->
 * [48129598](https://news.social-protocols.org/stats?id=48129598) #1 23 points 8 comments -> [Who Trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)<!-- HN:48129598:end --><!-- HN:48130976:start -->
 * [48130976](https://news.social-protocols.org/stats?id=48130976) #15 12 points 2 comments -> [Built to help my dad pass CCNA, now were changing how people learn networking](https://switchlab.dev/)<!-- HN:48130976:end --><!-- HN:48131888:start -->
-* [48131888](https://news.social-protocols.org/stats?id=48131888) #16 25 points 16 comments -> [LLMs are breaking 20 year old system design](https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/)<!-- HN:48131888:end -->
+* [48131888](https://news.social-protocols.org/stats?id=48131888) #16 25 points 16 comments -> [LLMs are breaking 20 year old system design](https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/)<!-- HN:48131888:end --><!-- HN:48132159:start -->
+* [48132159](https://news.social-protocols.org/stats?id=48132159) #5 27 points 40 comments -> [What the Hell Was Going on with Cigarette Ads in the 70s?](https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/)<!-- HN:48132159:end -->
