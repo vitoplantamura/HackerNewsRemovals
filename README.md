@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, May 8, 2026**<!-- HN:48056003:start -->
-* [48056003](https://news.social-protocols.org/stats?id=48056003) #23 33 points 56 comments -> [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week)<!-- HN:48056003:end --><!-- HN:48058217:start -->
-* [48058217](https://news.social-protocols.org/stats?id=48058217) #19 17 points 2 comments -> [New York state set to ban law enforcement, including ICE, from wearing masks](https://www.reuters.com/legal/government/new-york-state-set-ban-law-enforcement-including-ice-wearing-masks-2026-05-07/)<!-- HN:48058217:end --><!-- HN:48062530:start -->
-* [48062530](https://news.social-protocols.org/stats?id=48062530) #18 37 points 41 comments -> [UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters](https://www.war.gov/UFO/#release)<!-- HN:48062530:end --><!-- HN:48065332:start -->
-* [48065332](https://news.social-protocols.org/stats?id=48065332) #15 10 points 0 comments -> [Banks are funding climate chaos. You don't have to](https://www.not-ship.com/banks-are-funding-climate-chaos-you-dont-have-to-2/)<!-- HN:48065332:end --><!-- HN:48069009:start -->
-* [48069009](https://news.social-protocols.org/stats?id=48069009) #27 5 points 1 comments -> [If Anyone Builds It, Everyone Dies](https://ifanyonebuildsit.com/)<!-- HN:48069009:end --><!-- HN:48068475:start -->
-* [48068475](https://news.social-protocols.org/stats?id=48068475) #14 17 points 1 comments -> [Dirty Frag: Universal Linux LPE](https://github.com/V4bel/dirtyfrag)<!-- HN:48068475:end --><!-- HN:48069354:start -->
-* [48069354](https://news.social-protocols.org/stats?id=48069354) #19 -> [Judge rules DOGE cancellation of humanities grants was unconstitutional](https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e)<!-- HN:48069354:end --><!-- HN:48069088:start -->
-* [48069088](https://news.social-protocols.org/stats?id=48069088) #3 37 points 9 comments -> [AWS data center outage hits trading on Fanduel, Coinbase](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html)<!-- HN:48069088:end -->
 #### **Saturday, May 9, 2026**
 <!-- HN:48069844:start -->
 * [48069844](https://news.social-protocols.org/stats?id=48069844) #25 3 points 0 comments -> [Unprecedented GPS Game in the AppStore](https://cheapshot.co/)<!-- HN:48069844:end --><!-- HN:48070721:start -->
