@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, May 16, 2026**
 <!-- HN:48121143:start -->
 * [48121143](https://news.social-protocols.org/stats?id=48121143) #14 6 points 0 comments -> [Matlab: Communications Toolbox](https://www.mathworks.com/products/communications.html)<!-- HN:48121143:end --><!-- HN:48158737:start -->
-* [48158737](https://news.social-protocols.org/stats?id=48158737) #4 3 points 4 comments -> [Setting up an AI-native organization](https://aweb.ai/blog/ai-first-company-howto)<!-- HN:48158737:end -->
+* [48158737](https://news.social-protocols.org/stats?id=48158737) #4 3 points 4 comments -> [Setting up an AI-native organization](https://aweb.ai/blog/ai-first-company-howto)<!-- HN:48158737:end --><!-- HN:48158110:start -->
+* [48158110](https://news.social-protocols.org/stats?id=48158110) #26 39 points 41 comments -> [Someone Shared a Real Monet Painting as AI and Asked for Critiques](https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/)<!-- HN:48158110:end -->
