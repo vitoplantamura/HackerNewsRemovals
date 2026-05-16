@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48152675](https://news.social-protocols.org/stats?id=48152675) #8 10 points 10 comments -> [Show HN: Claude Code vs. Codex Global Usage Leaderboard](https://costhawk.ai/leaderboard)<!-- HN:48152675:end -->
 #### **Saturday, May 16, 2026**
 <!-- HN:48121143:start -->
-* [48121143](https://news.social-protocols.org/stats?id=48121143) #14 6 points 0 comments -> [Matlab: Communications Toolbox](https://www.mathworks.com/products/communications.html)<!-- HN:48121143:end -->
+* [48121143](https://news.social-protocols.org/stats?id=48121143) #14 6 points 0 comments -> [Matlab: Communications Toolbox](https://www.mathworks.com/products/communications.html)<!-- HN:48121143:end --><!-- HN:48158737:start -->
+* [48158737](https://news.social-protocols.org/stats?id=48158737) #4 3 points 4 comments -> [Setting up an AI-native organization](https://aweb.ai/blog/ai-first-company-howto)<!-- HN:48158737:end -->
