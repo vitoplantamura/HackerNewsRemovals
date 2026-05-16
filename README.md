@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 9, 2026**
-<!-- HN:48069844:start -->
-* [48069844](https://news.social-protocols.org/stats?id=48069844) #25 3 points 0 comments -> [Unprecedented GPS Game in the AppStore](https://cheapshot.co/)<!-- HN:48069844:end --><!-- HN:48070721:start -->
-* [48070721](https://news.social-protocols.org/stats?id=48070721) #22 6 points 23 comments -> [I built GitHub Store to 12,500 stars in 6 months – I started at 16](https://github-store.org/blog/how-i-built-github-store/)<!-- HN:48070721:end --><!-- HN:48072319:start -->
-* [48072319](https://news.social-protocols.org/stats?id=48072319) #30 39 points 29 comments -> [I Will Never Use AI to Code](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)<!-- HN:48072319:end --><!-- HN:48072671:start -->
-* [48072671](https://news.social-protocols.org/stats?id=48072671) #6 19 points 2 comments -> [Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying)<!-- HN:48072671:end --><!-- HN:48040522:start -->
-* [48040522](https://news.social-protocols.org/stats?id=48040522) #27 13 points 3 comments -> [How to Optimize MongoDB Query Performance with Indexes](https://visualeaf.com/blog/mongodb-query-optimization-indexes/)<!-- HN:48040522:end --><!-- HN:48077231:start -->
-* [48077231](https://news.social-protocols.org/stats?id=48077231) #3 89 points 4 comments -> [Bun ported to Rust in 6 days](https://xunroll.com/thread/2053047748191232310)<!-- HN:48077231:end --><!-- HN:48077314:start -->
-* [48077314](https://news.social-protocols.org/stats?id=48077314) #11 29 points 11 comments -> ["Dirty Frag" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)<!-- HN:48077314:end --><!-- HN:48078538:start -->
-* [48078538](https://news.social-protocols.org/stats?id=48078538) #17 10 points 2 comments -> [The 90 Day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)<!-- HN:48078538:end --><!-- HN:48078617:start -->
-* [48078617](https://news.social-protocols.org/stats?id=48078617) #18 3 points 0 comments -> [The Death of the Roadmap](https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html)<!-- HN:48078617:end --><!-- HN:48079114:start -->
-* [48079114](https://news.social-protocols.org/stats?id=48079114) #8 10 points 0 comments -> [User just tricked Grok and Bankrbot to send tokens with Morse code](https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/)<!-- HN:48079114:end -->
 #### **Sunday, May 10, 2026**
 <!-- HN:48072720:start -->
 * [48072720](https://news.social-protocols.org/stats?id=48072720) #30 178 points 72 comments -> [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)<!-- HN:48072720:end --><!-- HN:48082342:start -->
