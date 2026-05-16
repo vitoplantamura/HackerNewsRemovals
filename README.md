@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48145144](https://news.social-protocols.org/stats?id=48145144) #1 69 points 4 comments -> [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/)<!-- HN:48145144:end --><!-- HN:48151227:start -->
 * [48151227](https://news.social-protocols.org/stats?id=48151227) #21 15 points 11 comments -> [Show HN: Find local farms near you with raw dairy, pasture eggs, and more](https://farm-to-door.com/)<!-- HN:48151227:end --><!-- HN:48152675:start -->
 * [48152675](https://news.social-protocols.org/stats?id=48152675) #8 10 points 10 comments -> [Show HN: Claude Code vs. Codex Global Usage Leaderboard](https://costhawk.ai/leaderboard)<!-- HN:48152675:end -->
+#### **Saturday, May 16, 2026**
+<!-- HN:48121143:start -->
+* [48121143](https://news.social-protocols.org/stats?id=48121143) #14 6 points 0 comments -> [Matlab: Communications Toolbox](https://www.mathworks.com/products/communications.html)<!-- HN:48121143:end -->
