@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48161974](https://news.social-protocols.org/stats?id=48161974) #10 95 points 23 comments -> [Technofascism](https://third-bit.com/2026/05/15/technofascism/)<!-- HN:48161974:end -->
 #### **Sunday, May 17, 2026**
 <!-- HN:48120162:start -->
-* [48120162](https://news.social-protocols.org/stats?id=48120162) #4 212 points 100 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:48120162:end -->
+* [48120162](https://news.social-protocols.org/stats?id=48120162) #4 212 points 100 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:48120162:end --><!-- HN:48164229:start -->
+* [48164229](https://news.social-protocols.org/stats?id=48164229) #9 31 points 14 comments -> [I tried to make Claude make me money on open-source bounties](https://github.com/ztc00/algora-scout/blob/main/POST.md)<!-- HN:48164229:end -->
