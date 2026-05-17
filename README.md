@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48160837](https://news.social-protocols.org/stats?id=48160837) #27 25 points 4 comments -> [Mode collapse has a name, and he's selling cancer treatment advice on Amazon](https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/)<!-- HN:48160837:end --><!-- HN:48162431:start -->
 * [48162431](https://news.social-protocols.org/stats?id=48162431) #30 6 points 0 comments -> [Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)](https://gamevibe.us/33-tower-defense)<!-- HN:48162431:end --><!-- HN:48161974:start -->
 * [48161974](https://news.social-protocols.org/stats?id=48161974) #10 95 points 23 comments -> [Technofascism](https://third-bit.com/2026/05/15/technofascism/)<!-- HN:48161974:end -->
+#### **Sunday, May 17, 2026**
+<!-- HN:48120162:start -->
+* [48120162](https://news.social-protocols.org/stats?id=48120162) #4 212 points 100 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:48120162:end -->
