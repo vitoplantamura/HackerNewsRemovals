@@ -97,3 +97,8 @@
 * [48078538](https://news.ycombinator.com/item?id=48078538) #17 10 points 2 comments -> [The 90 Day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)<!-- HN:48078538:end --><!-- HN:48078617:start -->
 * [48078617](https://news.ycombinator.com/item?id=48078617) #18 3 points 0 comments -> [The Death of the Roadmap](https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html)<!-- HN:48078617:end --><!-- HN:48079114:start -->
 * [48079114](https://news.ycombinator.com/item?id=48079114) #8 10 points 0 comments -> [User just tricked Grok and Bankrbot to send tokens with Morse code](https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/)<!-- HN:48079114:end -->
+#### **Sunday, May 10, 2026**
+<!-- HN:48072720:start -->
+* [48072720](https://news.ycombinator.com/item?id=48072720) #30 178 points 72 comments -> [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)<!-- HN:48072720:end --><!-- HN:48082342:start -->
+* [48082342](https://news.ycombinator.com/item?id=48082342) #15 8 points 3 comments -> [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)<!-- HN:48082342:end --><!-- HN:48081094:start -->
+* [48081094](https://news.ycombinator.com/item?id=48081094) #18 25 points 29 comments -> [Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)<!-- HN:48081094:end -->
