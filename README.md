@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, May 17, 2026**
 <!-- HN:48120162:start -->
 * [48120162](https://news.social-protocols.org/stats?id=48120162) #4 212 points 100 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:48120162:end --><!-- HN:48164229:start -->
-* [48164229](https://news.social-protocols.org/stats?id=48164229) #9 31 points 14 comments -> [I tried to make Claude make me money on open-source bounties](https://github.com/ztc00/algora-scout/blob/main/POST.md)<!-- HN:48164229:end -->
+* [48164229](https://news.social-protocols.org/stats?id=48164229) #9 31 points 14 comments -> [I tried to make Claude make me money on open-source bounties](https://github.com/ztc00/algora-scout/blob/main/POST.md)<!-- HN:48164229:end --><!-- HN:48127151:start -->
+* [48127151](https://news.social-protocols.org/stats?id=48127151) #12 45 points 40 comments -> [Stochastic Parrots: Frequently Unasked Questions](https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11)<!-- HN:48127151:end -->
