@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, May 11, 2026**<!-- HN:48089319:start -->
-* [48089319](https://news.social-protocols.org/stats?id=48089319) #14 18 points 7 comments -> [AI Productivity Fails](https://blog.sshh.io/p/how-ai-productivity-fails)<!-- HN:48089319:end --><!-- HN:48089531:start -->
-* [48089531](https://news.social-protocols.org/stats?id=48089531) #27 18 points 12 comments -> [Make America AI Ready: Strengths, Weaknesses, and Recommendations](https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/)<!-- HN:48089531:end --><!-- HN:48067402:start -->
-* [48067402](https://news.social-protocols.org/stats?id=48067402) #17 26 points 7 comments -> [I designed Microsoft's EA channel in 2001. It's being dismantled in 2026](https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/)<!-- HN:48067402:end --><!-- HN:48090349:start -->
-* [48090349](https://news.social-protocols.org/stats?id=48090349) #15 6 points 0 comments -> [BSides Austin Is on Hold](https://bsidesaustin.com/)<!-- HN:48090349:end --><!-- HN:48092462:start -->
-* [48092462](https://news.social-protocols.org/stats?id=48092462) #25 8 points 0 comments -> [Truth Social lays bare narrow obsessions of an online president](https://www.npr.org/2026/05/08/nx-s1-5749358/trump-truth-social-online-posts-iran-white-house-ballroom)<!-- HN:48092462:end --><!-- HN:48093016:start -->
-* [48093016](https://news.social-protocols.org/stats?id=48093016) #13 7 points 5 comments -> [When Is "Next Friday"?](https://whenisnextfriday.com/)<!-- HN:48093016:end --><!-- HN:48093468:start -->
-* [48093468](https://news.social-protocols.org/stats?id=48093468) #14 16 points 1 comments -> [Organized Dogmatism Controls the Message about Gender Bias in the Academy](https://journalofcontroversialideas.org/article/6/1/313)<!-- HN:48093468:end --><!-- HN:48093950:start -->
-* [48093950](https://news.social-protocols.org/stats?id=48093950) #4 10 points 2 comments -> [From Today, Software Engineering Is Dead](https://building138.com/from-today-software-engineering-is-dead)<!-- HN:48093950:end --><!-- HN:48095566:start -->
-* [48095566](https://news.social-protocols.org/stats?id=48095566) #30 5 points 0 comments -> [Iran's two-tier internet access fuels anger and exposes cracks in the regime](https://www.cnn.com/2026/05/10/middleeast/iran-internet-pro-blackout-access-vpn-intl)<!-- HN:48095566:end --><!-- HN:48096045:start -->
-* [48096045](https://news.social-protocols.org/stats?id=48096045) #16 14 points 15 comments -> [Show HN: Free tool to see how much AI bots are costing your site](https://botcost.dev)<!-- HN:48096045:end --><!-- HN:48097651:start -->
-* [48097651](https://news.social-protocols.org/stats?id=48097651) #5 11 points 5 comments -> [How to Leave Instagram](https://www.a-side.social/blog/how-to-leave-instagram/)<!-- HN:48097651:end --><!-- HN:48096471:start -->
-* [48096471](https://news.social-protocols.org/stats?id=48096471) #25 40 points 38 comments -> [Should you leave red herrings about yourself online?](https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online)<!-- HN:48096471:end --><!-- HN:48074229:start -->
-* [48074229](https://news.social-protocols.org/stats?id=48074229) #21 4 points 0 comments -> [Mouse Wheel Tweaks](https://mcpedl.com/mouse-wheel-tweaks/)<!-- HN:48074229:end -->
 #### **Tuesday, May 12, 2026**
 <!-- HN:48102221:start -->
 * [48102221](https://news.social-protocols.org/stats?id=48102221) #15 6 points 0 comments -> [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)<!-- HN:48102221:end --><!-- HN:48103459:start -->
