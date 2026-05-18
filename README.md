@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 18, 2026**
 <!-- HN:48175140:start -->
 * [48175140](https://news.social-protocols.org/stats?id=48175140) #4 22 points 22 comments -> [There Is No 'Hard Problem of Consciousness'](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)<!-- HN:48175140:end --><!-- HN:48175597:start -->
-* [48175597](https://news.social-protocols.org/stats?id=48175597) #1 10 points 5 comments -> [Freelang – a Libc-free, direct sys/kernel call language with weird concurrency](https://freelang.dev)<!-- HN:48175597:end -->
+* [48175597](https://news.social-protocols.org/stats?id=48175597) #1 10 points 5 comments -> [Freelang – a Libc-free, direct sys/kernel call language with weird concurrency](https://freelang.dev)<!-- HN:48175597:end --><!-- HN:48175307:start -->
+* [48175307](https://news.social-protocols.org/stats?id=48175307) #13 7 points 1 comments -> [Which country voted the best at Eurovision?](https://lalitm.com/post/which-country-voted-best-at-eurovision/)<!-- HN:48175307:end -->
