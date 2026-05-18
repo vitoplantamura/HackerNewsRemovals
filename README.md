@@ -107,3 +107,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48171826](https://news.social-protocols.org/stats?id=48171826) #8 63 points 36 comments -> [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake)<!-- HN:48171826:end --><!-- HN:48168856:start -->
 * [48168856](https://news.social-protocols.org/stats?id=48168856) #4 528 points 225 comments -> [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)<!-- HN:48168856:end --><!-- HN:48170247:start -->
 * [48170247](https://news.social-protocols.org/stats?id=48170247) #18 90 points 22 comments -> [Dontsurveil.me](https://opencivics-labs.github.io/dontsurveil.me/c22.html)<!-- HN:48170247:end -->
+#### **Monday, May 18, 2026**
+<!-- HN:48175140:start -->
+* [48175140](https://news.social-protocols.org/stats?id=48175140) #4 22 points 22 comments -> [There Is No 'Hard Problem of Consciousness'](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)<!-- HN:48175140:end -->
