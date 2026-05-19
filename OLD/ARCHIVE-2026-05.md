@@ -116,3 +116,11 @@
 * [48097651](https://news.ycombinator.com/item?id=48097651) #5 11 points 5 comments -> [How to Leave Instagram](https://www.a-side.social/blog/how-to-leave-instagram/)<!-- HN:48097651:end --><!-- HN:48096471:start -->
 * [48096471](https://news.ycombinator.com/item?id=48096471) #25 40 points 38 comments -> [Should you leave red herrings about yourself online?](https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online)<!-- HN:48096471:end --><!-- HN:48074229:start -->
 * [48074229](https://news.ycombinator.com/item?id=48074229) #21 4 points 0 comments -> [Mouse Wheel Tweaks](https://mcpedl.com/mouse-wheel-tweaks/)<!-- HN:48074229:end -->
+#### **Tuesday, May 12, 2026**
+<!-- HN:48102221:start -->
+* [48102221](https://news.ycombinator.com/item?id=48102221) #15 6 points 0 comments -> [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)<!-- HN:48102221:end --><!-- HN:48103459:start -->
+* [48103459](https://news.ycombinator.com/item?id=48103459) #12 38 points 27 comments -> [Fake building: Claude wrote 3k lines instead of import pywikibot](https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/)<!-- HN:48103459:end --><!-- HN:48108273:start -->
+* [48108273](https://news.ycombinator.com/item?id=48108273) #27 8 points 0 comments -> [The gutting of USAID has left a void China will not fill](https://www.economist.com/asia/2026/05/07/the-gutting-of-usaid-has-left-a-void-china-will-not-fill)<!-- HN:48108273:end --><!-- HN:48075303:start -->
+* [48075303](https://news.ycombinator.com/item?id=48075303) #14 5 points 0 comments -> [Jankó Keyboard](https://en.wikipedia.org/wiki/Jank%C3%B3_keyboard)<!-- HN:48075303:end --><!-- HN:48080179:start -->
+* [48080179](https://news.ycombinator.com/item?id=48080179) #30 27 points 40 comments -> [Analysis points to a unexpected cause of reading difficulties](https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html)<!-- HN:48080179:end --><!-- HN:48112190:start -->
+* [48112190](https://news.ycombinator.com/item?id=48112190) #22 15 points 3 comments -> [Unauthorized Anthropic stock sales and investment scams](https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams)<!-- HN:48112190:end -->
