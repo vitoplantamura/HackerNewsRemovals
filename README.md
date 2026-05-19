@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48184921](https://news.social-protocols.org/stats?id=48184921) #11 7 points 5 comments -> [Crypto industry lobbies to evade AML/CTF rules](https://www.standwithcrypto.org/eu/en/manifesto)<!-- HN:48184921:end --><!-- HN:48184944:start -->
 * [48184944](https://news.social-protocols.org/stats?id=48184944) #12 9 points 1 comments -> [The tyranny of single page apps](https://blog.bidisaster.party/spas/)<!-- HN:48184944:end --><!-- HN:48186326:start -->
 * [48186326](https://news.social-protocols.org/stats?id=48186326) #17 44 points 27 comments -> [Mexican government breached by solo user with Claude, 150 GB exfiltrated](https://konstantintkachuk.com/writing/the-floor-doesnt-exist/)<!-- HN:48186326:end -->
+#### **Tuesday, May 19, 2026**
+<!-- HN:48187706:start -->
+* [48187706](https://news.social-protocols.org/stats?id=48187706) #12 -> [Data Center Waste Heat as an Emerging Urban Thermal Hazard](https://asmedigitalcollection.asme.org/sustainablebuildings/article/doi/10.1115/1.4071922/1233035/Data-center-waste-heat-as-an-emerging-urban)<!-- HN:48187706:end -->
