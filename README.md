@@ -101,8 +101,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48170247](https://news.social-protocols.org/stats?id=48170247) #18 90 points 22 comments -> [Dontsurveil.me](https://opencivics-labs.github.io/dontsurveil.me/c22.html)<!-- HN:48170247:end -->
 #### **Monday, May 18, 2026**
 <!-- HN:48175597:start -->
-* [48175597](https://news.social-protocols.org/stats?id=48175597) #1 10 points 5 comments -> [Freelang – a Libc-free, direct sys/kernel call language with weird concurrency](https://freelang.dev)<!-- HN:48175597:end --><!-- HN:48175820:start -->
-* [48175820](https://news.social-protocols.org/stats?id=48175820) #28 44 points 15 comments -> [Why bambu_networking violates the AGPL in Bambu Studio](https://github.com/jarczakpawel/OrcaSlicer-bambulab/blob/main/bambu_agpl.md)<!-- HN:48175820:end --><!-- HN:48175307:start -->
+* [48175597](https://news.social-protocols.org/stats?id=48175597) #1 10 points 5 comments -> [Freelang – a Libc-free, direct sys/kernel call language with weird concurrency](https://freelang.dev)<!-- HN:48175597:end --><!-- HN:48175307:start -->
 * [48175307](https://news.social-protocols.org/stats?id=48175307) #21 15 points 7 comments -> [Which country voted the best at Eurovision?](https://lalitm.com/post/which-country-voted-best-at-eurovision/)<!-- HN:48175307:end --><!-- HN:48176902:start -->
 * [48176902](https://news.social-protocols.org/stats?id=48176902) #1 20 points 7 comments -> [Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late](https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back)<!-- HN:48176902:end --><!-- HN:48153278:start -->
 * [48153278](https://news.social-protocols.org/stats?id=48153278) #27 5 points 2 comments -> [The 30-Hour Shift That Turned a San Jose Robot Lab into a Global Spectacle](https://beeble.com/en/blog/the-30-hour-shift-that-turned-a-san-jose-robot-lab-into-a-global-spectacle)<!-- HN:48153278:end --><!-- HN:48178124:start -->
