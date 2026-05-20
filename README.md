@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48196764](https://news.social-protocols.org/stats?id=48196764) #23 98 points 124 comments -> [Google Search as you know it is over](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)<!-- HN:48196764:end --><!-- HN:48169508:start -->
 * [48169508](https://news.social-protocols.org/stats?id=48169508) #6 43 points 5 comments -> [KV Cache Is Becoming the Memory Hierarchy of Inference](https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html)<!-- HN:48169508:end --><!-- HN:48197859:start -->
 * [48197859](https://news.social-protocols.org/stats?id=48197859) #18 5 points 1 comments -> [Andrej Karpathy Joins Anthropic](https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic)<!-- HN:48197859:end -->
+#### **Wednesday, May 20, 2026**
+<!-- HN:48200827:start -->
+* [48200827](https://news.social-protocols.org/stats?id=48200827) #26 58 points 40 comments -> [Railway Is Having a Major Outage](https://status.railway.com/#/)<!-- HN:48200827:end -->
