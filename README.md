@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48197859](https://news.social-protocols.org/stats?id=48197859) #18 5 points 1 comments -> [Andrej Karpathy Joins Anthropic](https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic)<!-- HN:48197859:end -->
 #### **Wednesday, May 20, 2026**
 <!-- HN:48200827:start -->
-* [48200827](https://news.social-protocols.org/stats?id=48200827) #26 58 points 40 comments -> [Railway Is Having a Major Outage](https://status.railway.com/#/)<!-- HN:48200827:end -->
+* [48200827](https://news.social-protocols.org/stats?id=48200827) #26 58 points 40 comments -> [Railway Is Having a Major Outage](https://status.railway.com/#/)<!-- HN:48200827:end --><!-- HN:48172093:start -->
+* [48172093](https://news.social-protocols.org/stats?id=48172093) #14 15 points 10 comments -> [Microsoft is 1.84 Peters, Google is 0.66. What's the Peter unit?](https://github.com/zozo123/peter-gt-your-org)<!-- HN:48172093:end -->
