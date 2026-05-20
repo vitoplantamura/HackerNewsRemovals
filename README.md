@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 13, 2026**
-<!-- HN:48116604:start -->
-* [48116604](https://news.social-protocols.org/stats?id=48116604) #30 15 points 6 comments -> [AI shouldn't have a meter. Unlimited tokens. Forever](https://www.openmonoagent.ai/)<!-- HN:48116604:end --><!-- HN:48117733:start -->
-* [48117733](https://news.social-protocols.org/stats?id=48117733) #30 4 points 1 comments -> [We tested super-resolution pre-filter for LPR OCR. It did nothing](https://www.wink.co/documentation/Neural-Super-Resolution-Pre-Filter-LPR-2026)<!-- HN:48117733:end --><!-- HN:48118573:start -->
-* [48118573](https://news.social-protocols.org/stats?id=48118573) #8 5 points 4 comments -> [One Startup Is Gambling. Ten Is Mathematics](https://www.mynameisfeng.com/blog/one-startup-is-gambling-ten-is-mathematics)<!-- HN:48118573:end --><!-- HN:48118908:start -->
-* [48118908](https://news.social-protocols.org/stats?id=48118908) #3 9 points 11 comments -> [AluminiumOS, by Google: Android Reimagined for the Desktop](https://aluminium-os.com/)<!-- HN:48118908:end --><!-- HN:48120081:start -->
-* [48120081](https://news.social-protocols.org/stats?id=48120081) #27 4 points 2 comments -> [Show HN: I asked AI to write Sci-Fi for eternity](https://f055.net/thattimei/that-time-i-asked-ai-to-write-sci-fi-for-eternity/)<!-- HN:48120081:end --><!-- HN:48122624:start -->
-* [48122624](https://news.social-protocols.org/stats?id=48122624) #21 34 points 41 comments -> [The AI Backlash Could Get Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)<!-- HN:48122624:end --><!-- HN:48122285:start -->
-* [48122285](https://news.social-protocols.org/stats?id=48122285) #28 6 points 6 comments -> [European Stagnation Is Real](https://www.siliconcontinent.com/p/european-stagnation-is-real)<!-- HN:48122285:end --><!-- HN:48125757:start -->
-* [48125757](https://news.social-protocols.org/stats?id=48125757) #8 6 points 2 comments -> [Nginx.org/En/Changes](https://nginx.org/en/CHANGES)<!-- HN:48125757:end --><!-- HN:48125194:start -->
-* [48125194](https://news.social-protocols.org/stats?id=48125194) #22 9 points 5 comments -> [Telegram Is Gone](https://lazybea.rs/telegram-is-gone/)<!-- HN:48125194:end --><!-- HN:48125494:start -->
-* [48125494](https://news.social-protocols.org/stats?id=48125494) #29 68 points 21 comments -> [ReactOS](https://reactos.org/)<!-- HN:48125494:end -->
 #### **Thursday, May 14, 2026**
 <!-- HN:48129598:start -->
 * [48129598](https://news.social-protocols.org/stats?id=48129598) #1 23 points 8 comments -> [Who Trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)<!-- HN:48129598:end --><!-- HN:48130976:start -->
