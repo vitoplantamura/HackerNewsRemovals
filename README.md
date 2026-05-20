@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48200827:start -->
 * [48200827](https://news.social-protocols.org/stats?id=48200827) #26 58 points 40 comments -> [Railway Is Having a Major Outage](https://status.railway.com/#/)<!-- HN:48200827:end --><!-- HN:48202993:start -->
 * [48202993](https://news.social-protocols.org/stats?id=48202993) #6 249 points 6 comments -> [GitHub Compromised](https://twitter.com/i/status/2056949168208552080)<!-- HN:48202993:end --><!-- HN:48204998:start -->
-* [48204998](https://news.social-protocols.org/stats?id=48204998) #15 3 points 0 comments -> [Watch RT Live Anywhere in the World](https://rtlive.ru)<!-- HN:48204998:end -->
+* [48204998](https://news.social-protocols.org/stats?id=48204998) #15 3 points 0 comments -> [Watch RT Live Anywhere in the World](https://rtlive.ru)<!-- HN:48204998:end --><!-- HN:48204843:start -->
+* [48204843](https://news.social-protocols.org/stats?id=48204843) #6 9 points 2 comments -> [The AI Quant Desk for Onchain Finance](https://grid.raster.finance/en/portfolio-analytics)<!-- HN:48204843:end -->
