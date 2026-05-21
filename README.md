@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, May 14, 2026**
-<!-- HN:48129598:start -->
-* [48129598](https://news.social-protocols.org/stats?id=48129598) #1 23 points 8 comments -> [Who Trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)<!-- HN:48129598:end --><!-- HN:48130976:start -->
-* [48130976](https://news.social-protocols.org/stats?id=48130976) #15 12 points 2 comments -> [Built to help my dad pass CCNA, now were changing how people learn networking](https://switchlab.dev/)<!-- HN:48130976:end --><!-- HN:48131888:start -->
-* [48131888](https://news.social-protocols.org/stats?id=48131888) #16 25 points 16 comments -> [LLMs are breaking 20 year old system design](https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/)<!-- HN:48131888:end --><!-- HN:48133917:start -->
-* [48133917](https://news.social-protocols.org/stats?id=48133917) #21 8 points 4 comments -> [Ryan Cohen hits back at eBay, says his takeover proposal should not be dismissed](https://www.reuters.com/world/ryan-cohen-says-ebay-directors-should-not-dismiss-his-proposal-without-engaging-2026-05-13/)<!-- HN:48133917:end --><!-- HN:48136234:start -->
-* [48136234](https://news.social-protocols.org/stats?id=48136234) #3 -> [Al Jazeera documentary highlights USC's sale of dead bodies to US Navy, Israel](https://www.uscannenbergmedia.com/2026/05/11/al-jazeera-documentary-highlights-uscs-sale-of-dead-bodies-to-us-navy-israeli-military/)<!-- HN:48136234:end --><!-- HN:48136712:start -->
-* [48136712](https://news.social-protocols.org/stats?id=48136712) #10 4 points 2 comments -> [LLM Witch Hunts are getting F'in Irritating](https://write.as/shantnu/llm-witch-hunts-are-getting-really-fin-irritating)<!-- HN:48136712:end --><!-- HN:48136943:start -->
-* [48136943](https://news.social-protocols.org/stats?id=48136943) #9 9 points 5 comments -> [New agents.txt file found on DreamHost](https://journal.kvibber.com/2026/05/agents-txt-on-dreamhost/)<!-- HN:48136943:end --><!-- HN:48138572:start -->
-* [48138572](https://news.social-protocols.org/stats?id=48138572) #20 86 points 70 comments -> [Bun's Rust rewrite has been merged](https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)<!-- HN:48138572:end --><!-- HN:48138869:start -->
-* [48138869](https://news.social-protocols.org/stats?id=48138869) #14 -> [Andreessen Horowitz Is Spending on Politics Like No Other](https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html)<!-- HN:48138869:end --><!-- HN:48141206:start -->
-* [48141206](https://news.social-protocols.org/stats?id=48141206) #28 14 points 7 comments -> [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)<!-- HN:48141206:end --><!-- HN:48142057:start -->
-* [48142057](https://news.social-protocols.org/stats?id=48142057) #23 7 points 3 comments -> [IPv8](https://openipv8.org/)<!-- HN:48142057:end -->
 #### **Friday, May 15, 2026**
 <!-- HN:48139144:start -->
 * [48139144](https://news.social-protocols.org/stats?id=48139144) #24 88 points 49 comments -> [You Don't Align an AI, You Align with It](https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it)<!-- HN:48139144:end --><!-- HN:48145144:start -->
