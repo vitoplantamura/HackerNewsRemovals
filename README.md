@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, May 21, 2026**
 <!-- HN:48217052:start -->
 * [48217052](https://news.social-protocols.org/stats?id=48217052) #21 133 points 3 comments -> [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)<!-- HN:48217052:end --><!-- HN:48220829:start -->
-* [48220829](https://news.social-protocols.org/stats?id=48220829) #9 13 points 6 comments -> [A Girl Who Couldn't Draw Home](https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home)<!-- HN:48220829:end -->
+* [48220829](https://news.social-protocols.org/stats?id=48220829) #9 13 points 6 comments -> [A Girl Who Couldn't Draw Home](https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home)<!-- HN:48220829:end --><!-- HN:48224161:start -->
+* [48224161](https://news.social-protocols.org/stats?id=48224161) #22 3 points 1 comments -> [What 1,281 agent runs reveal about coding agent failure in large codebases](https://tessl.io/blog/coding-agent-failure-patterns-large-codebases/)<!-- HN:48224161:end -->
