@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48207509](https://news.social-protocols.org/stats?id=48207509) #5 27 points 41 comments -> [560-610 minutes of exercise a week needed for substantial heart benefits](https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/)<!-- HN:48207509:end --><!-- HN:48213666:start -->
 * [48213666](https://news.social-protocols.org/stats?id=48213666) #26 16 points 1 comments -> [In Yesterday's IO Keynote Google Declared War on the Remnants of the Web](https://tldr.nettime.org/@tante/116605858023186072)<!-- HN:48213666:end --><!-- HN:48207004:start -->
 * [48207004](https://news.social-protocols.org/stats?id=48207004) #25 887 points 700 comments -> [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)<!-- HN:48207004:end -->
+#### **Thursday, May 21, 2026**
+<!-- HN:48217052:start -->
+* [48217052](https://news.social-protocols.org/stats?id=48217052) #21 133 points 3 comments -> [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)<!-- HN:48217052:end -->
