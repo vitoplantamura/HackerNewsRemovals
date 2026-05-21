@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, May 21, 2026**
 <!-- HN:48217052:start -->
 * [48217052](https://news.social-protocols.org/stats?id=48217052) #21 133 points 3 comments -> [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)<!-- HN:48217052:end --><!-- HN:48220829:start -->
-* [48220829](https://news.social-protocols.org/stats?id=48220829) #9 13 points 6 comments -> [A Girl Who Couldn't Draw Home](https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home)<!-- HN:48220829:end -->
+* [48220829](https://news.social-protocols.org/stats?id=48220829) #9 13 points 6 comments -> [A Girl Who Couldn't Draw Home](https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home)<!-- HN:48220829:end --><!-- HN:48221976:start -->
+* [48221976](https://news.social-protocols.org/stats?id=48221976) #7 86 points 28 comments -> [Gemini randomly dumped its system prompt](https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c)<!-- HN:48221976:end -->
