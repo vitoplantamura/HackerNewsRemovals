@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48207004](https://news.social-protocols.org/stats?id=48207004) #25 887 points 700 comments -> [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)<!-- HN:48207004:end -->
 #### **Thursday, May 21, 2026**
 <!-- HN:48217052:start -->
-* [48217052](https://news.social-protocols.org/stats?id=48217052) #21 133 points 3 comments -> [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)<!-- HN:48217052:end -->
+* [48217052](https://news.social-protocols.org/stats?id=48217052) #21 133 points 3 comments -> [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)<!-- HN:48217052:end --><!-- HN:48220829:start -->
+* [48220829](https://news.social-protocols.org/stats?id=48220829) #9 13 points 6 comments -> [A Girl Who Couldn't Draw Home](https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home)<!-- HN:48220829:end -->
