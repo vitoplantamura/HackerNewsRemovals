@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48231674](https://news.social-protocols.org/stats?id=48231674) #2 -> [Show HN: Tight C, a systems language with 10 keywords](https://github.com/alonsovm44/tc-lang/)<!-- HN:48231674:end --><!-- HN:48232060:start -->
 * [48232060](https://news.social-protocols.org/stats?id=48232060) #29 18 points 12 comments -> [Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT](https://pythongiant.github.io/KVBoost/)<!-- HN:48232060:end --><!-- HN:48233289:start -->
 * [48233289](https://news.social-protocols.org/stats?id=48233289) #1 22 points 13 comments -> [We should get rid of average CPU utilization](https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/)<!-- HN:48233289:end --><!-- HN:48232901:start -->
-* [48232901](https://news.social-protocols.org/stats?id=48232901) #18 7 points 0 comments -> [Pokélike](https://pokelike.xyz/)<!-- HN:48232901:end -->
+* [48232901](https://news.social-protocols.org/stats?id=48232901) #18 7 points 0 comments -> [Pokélike](https://pokelike.xyz/)<!-- HN:48232901:end --><!-- HN:48234380:start -->
+* [48234380](https://news.social-protocols.org/stats?id=48234380) #3 8 points 2 comments -> [Deno 2.8](https://deno.com/blog/v2.8)<!-- HN:48234380:end -->
