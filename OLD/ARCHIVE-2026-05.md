@@ -149,3 +149,9 @@
 * [48138869](https://news.ycombinator.com/item?id=48138869) #14 -> [Andreessen Horowitz Is Spending on Politics Like No Other](https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html)<!-- HN:48138869:end --><!-- HN:48141206:start -->
 * [48141206](https://news.ycombinator.com/item?id=48141206) #28 14 points 7 comments -> [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)<!-- HN:48141206:end --><!-- HN:48142057:start -->
 * [48142057](https://news.ycombinator.com/item?id=48142057) #23 7 points 3 comments -> [IPv8](https://openipv8.org/)<!-- HN:48142057:end -->
+#### **Friday, May 15, 2026**
+<!-- HN:48139144:start -->
+* [48139144](https://news.ycombinator.com/item?id=48139144) #24 88 points 49 comments -> [You Don't Align an AI, You Align with It](https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it)<!-- HN:48139144:end --><!-- HN:48145144:start -->
+* [48145144](https://news.ycombinator.com/item?id=48145144) #1 69 points 4 comments -> [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/)<!-- HN:48145144:end --><!-- HN:48151227:start -->
+* [48151227](https://news.ycombinator.com/item?id=48151227) #21 15 points 11 comments -> [Show HN: Find local farms near you with raw dairy, pasture eggs, and more](https://farm-to-door.com/)<!-- HN:48151227:end --><!-- HN:48152675:start -->
+* [48152675](https://news.ycombinator.com/item?id=48152675) #8 10 points 10 comments -> [Show HN: Claude Code vs. Codex Global Usage Leaderboard](https://costhawk.ai/leaderboard)<!-- HN:48152675:end -->
