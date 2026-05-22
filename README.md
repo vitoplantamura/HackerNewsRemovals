@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48229260](https://news.social-protocols.org/stats?id=48229260) #20 29 points 8 comments -> [Curtis Yarvin and the Political Evolution of Silicon Valley Reactionaries](https://www.dontbeasucker.blog/p/the-butterflies-in-your-stomach)<!-- HN:48229260:end -->
 #### **Friday, May 22, 2026**<!-- HN:48231256:start -->
 * [48231256](https://news.social-protocols.org/stats?id=48231256) #8 7 points 3 comments -> [Coins Stream](https://coins.stream)<!-- HN:48231256:end --><!-- HN:48231674:start -->
-* [48231674](https://news.social-protocols.org/stats?id=48231674) #2 -> [Show HN: Tight C, a systems language with 10 keywords](https://github.com/alonsovm44/tc-lang/)<!-- HN:48231674:end -->
+* [48231674](https://news.social-protocols.org/stats?id=48231674) #2 -> [Show HN: Tight C, a systems language with 10 keywords](https://github.com/alonsovm44/tc-lang/)<!-- HN:48231674:end --><!-- HN:48232060:start -->
+* [48232060](https://news.social-protocols.org/stats?id=48232060) #29 18 points 12 comments -> [Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT](https://pythongiant.github.io/KVBoost/)<!-- HN:48232060:end -->
