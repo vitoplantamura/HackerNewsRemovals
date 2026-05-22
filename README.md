@@ -120,5 +120,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48182797](https://news.social-protocols.org/stats?id=48182797) #23 6 points 1 comments -> [Starchild-1: The First Real-Time Multimodal World Model](https://odyssey.ml/introducing-starchild-1)<!-- HN:48182797:end --><!-- HN:48229260:start -->
 * [48229260](https://news.social-protocols.org/stats?id=48229260) #20 29 points 8 comments -> [Curtis Yarvin and the Political Evolution of Silicon Valley Reactionaries](https://www.dontbeasucker.blog/p/the-butterflies-in-your-stomach)<!-- HN:48229260:end -->
 #### **Friday, May 22, 2026**
-<!-- HN:48231477:start -->
-* [48231477](https://news.social-protocols.org/stats?id=48231477) #1 29 points 7 comments -> [Logging Off](https://user8.bearblog.dev/logging-off/)<!-- HN:48231477:end -->
