@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48219853](https://news.social-protocols.org/stats?id=48219853) #26 53 points 11 comments -> [AI Engineering from Scratch](https://aiengineeringfromscratch.com)<!-- HN:48219853:end --><!-- HN:48250126:start -->
 * [48250126](https://news.social-protocols.org/stats?id=48250126) #20 6 points 1 comments -> [CC-Wiki: Turn Claude Code sessions into a shareable knowledge base wiki](https://github.com/tejpalv/cc-wiki)<!-- HN:48250126:end --><!-- HN:48251553:start -->
 * [48251553](https://news.social-protocols.org/stats?id=48251553) #11 12 points 18 comments -> [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)<!-- HN:48251553:end --><!-- HN:48251229:start -->
-* [48251229](https://news.social-protocols.org/stats?id=48251229) #19 11 points 3 comments -> [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)<!-- HN:48251229:end -->
+* [48251229](https://news.social-protocols.org/stats?id=48251229) #19 11 points 3 comments -> [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)<!-- HN:48251229:end --><!-- HN:48252007:start -->
+* [48252007](https://news.social-protocols.org/stats?id=48252007) #3 9 points 2 comments -> [Markdown Is Not LaTeX](https://www.iconoclasts.blog/joe/markdown-is-not-latex)<!-- HN:48252007:end -->
