@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 16, 2026**
-<!-- HN:48121143:start -->
-* [48121143](https://news.social-protocols.org/stats?id=48121143) #14 6 points 0 comments -> [Matlab: Communications Toolbox](https://www.mathworks.com/products/communications.html)<!-- HN:48121143:end --><!-- HN:48158737:start -->
-* [48158737](https://news.social-protocols.org/stats?id=48158737) #4 3 points 4 comments -> [Setting up an AI-native organization](https://aweb.ai/blog/ai-first-company-howto)<!-- HN:48158737:end --><!-- HN:48158110:start -->
-* [48158110](https://news.social-protocols.org/stats?id=48158110) #26 39 points 41 comments -> [Someone Shared a Real Monet Painting as AI and Asked for Critiques](https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/)<!-- HN:48158110:end --><!-- HN:48159604:start -->
-* [48159604](https://news.social-protocols.org/stats?id=48159604) #14 6 points 2 comments -> [The End of Refugee Resettlement](https://www.newyorker.com/news/letter-from-jordan/the-end-of-refugee-resettlement)<!-- HN:48159604:end --><!-- HN:48160313:start -->
-* [48160313](https://news.social-protocols.org/stats?id=48160313) #5 7 points 7 comments -> [I spent my whole career building passive income. Here's what I got wrong](https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/)<!-- HN:48160313:end --><!-- HN:48161891:start -->
-* [48161891](https://news.social-protocols.org/stats?id=48161891) #26 -> [Impeaching Every Federal Judge and Justice Who Endorsed Unitary Executive Theory](https://cmarmitage.substack.com/p/the-case-for-impeaching-and-removing)<!-- HN:48161891:end --><!-- HN:48160837:start -->
-* [48160837](https://news.social-protocols.org/stats?id=48160837) #27 25 points 4 comments -> [Mode collapse has a name, and he's selling cancer treatment advice on Amazon](https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/)<!-- HN:48160837:end --><!-- HN:48162431:start -->
-* [48162431](https://news.social-protocols.org/stats?id=48162431) #30 6 points 0 comments -> [Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)](https://gamevibe.us/33-tower-defense)<!-- HN:48162431:end --><!-- HN:48161974:start -->
-* [48161974](https://news.social-protocols.org/stats?id=48161974) #10 95 points 23 comments -> [Technofascism](https://third-bit.com/2026/05/15/technofascism/)<!-- HN:48161974:end -->
 #### **Sunday, May 17, 2026**
 <!-- HN:48120162:start -->
 * [48120162](https://news.social-protocols.org/stats?id=48120162) #4 212 points 100 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:48120162:end --><!-- HN:48164229:start -->
