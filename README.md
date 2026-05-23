@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48239043](https://news.social-protocols.org/stats?id=48239043) #3 -> [Tulsi Gabbard resigns as US director of national intelligence](https://www.bbc.com/news/articles/cvgj2gkv1x1o)<!-- HN:48239043:end --><!-- HN:48239710:start -->
 * [48239710](https://news.social-protocols.org/stats?id=48239710) #15 7 points 0 comments -> [The ten steps towards a dictatorship](https://nonogra.ph/the-ten-steps-towards-a-dictatorship-05-22-2026)<!-- HN:48239710:end --><!-- HN:48237985:start -->
 * [48237985](https://news.social-protocols.org/stats?id=48237985) #18 47 points 31 comments -> [Show HN: My dad is a forensic accountant. I automated ~62% of his job](https://case-trail.com/blog/ai-forensic-accounting-automation)<!-- HN:48237985:end -->
-#### **Saturday, May 23, 2026**
+#### **Saturday, May 23, 2026**<!-- HN:48243863:start -->
+* [48243863](https://news.social-protocols.org/stats?id=48243863) #1 191 points 128 comments -> [Is AI Profitable Yet?](https://isaiprofitable.com/)<!-- HN:48243863:end -->
