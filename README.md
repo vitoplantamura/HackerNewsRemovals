@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, May 17, 2026**
-<!-- HN:48120162:start -->
-* [48120162](https://news.social-protocols.org/stats?id=48120162) #4 212 points 100 comments -> [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)<!-- HN:48120162:end --><!-- HN:48164229:start -->
-* [48164229](https://news.social-protocols.org/stats?id=48164229) #9 31 points 14 comments -> [I tried to make Claude make me money on open-source bounties](https://github.com/ztc00/algora-scout/blob/main/POST.md)<!-- HN:48164229:end --><!-- HN:48127151:start -->
-* [48127151](https://news.social-protocols.org/stats?id=48127151) #12 45 points 40 comments -> [Stochastic Parrots: Frequently Unasked Questions](https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11)<!-- HN:48127151:end --><!-- HN:48166275:start -->
-* [48166275](https://news.social-protocols.org/stats?id=48166275) #5 19 points 9 comments -> [Show HN: Codiff, a local diff review tool](https://github.com/nkzw-tech/codiff/releases)<!-- HN:48166275:end --><!-- HN:48166877:start -->
-* [48166877](https://news.social-protocols.org/stats?id=48166877) #26 44 points 13 comments -> [Ten Signs of Fascism. America has all of them](https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all)<!-- HN:48166877:end --><!-- HN:48167823:start -->
-* [48167823](https://news.social-protocols.org/stats?id=48167823) #3 10 points 8 comments -> [Klaxon a livr earthquake map with no back end](https://klaxon.live/)<!-- HN:48167823:end --><!-- HN:48169255:start -->
-* [48169255](https://news.social-protocols.org/stats?id=48169255) #13 12 points 0 comments -> [The ultimate female fantasy – A feminist critique of Beauty and the Beast](https://storica.club/blog/beast-was-the-best-part/)<!-- HN:48169255:end --><!-- HN:48170505:start -->
-* [48170505](https://news.social-protocols.org/stats?id=48170505) #8 8 points 2 comments -> [Age Assurance on the Internet: Identity, Privacy, and the Limits of Verification](https://sphericalcowconsulting.com/2026/04/14/age-assurance/)<!-- HN:48170505:end --><!-- HN:48171948:start -->
-* [48171948](https://news.social-protocols.org/stats?id=48171948) #5 12 points 1 comments -> [How a New Israeli Policy Cuts Off Humanitarian Aid in Gaza](https://www.newyorker.com/science/medical-dispatch/how-a-new-israeli-policy-cuts-off-humanitarian-aid-in-gaza)<!-- HN:48171948:end --><!-- HN:48171826:start -->
-* [48171826](https://news.social-protocols.org/stats?id=48171826) #8 63 points 36 comments -> [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake)<!-- HN:48171826:end --><!-- HN:48168856:start -->
-* [48168856](https://news.social-protocols.org/stats?id=48168856) #4 528 points 225 comments -> [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)<!-- HN:48168856:end --><!-- HN:48170247:start -->
-* [48170247](https://news.social-protocols.org/stats?id=48170247) #18 90 points 22 comments -> [Dontsurveil.me](https://opencivics-labs.github.io/dontsurveil.me/c22.html)<!-- HN:48170247:end -->
 #### **Monday, May 18, 2026**
 <!-- HN:48175597:start -->
 * [48175597](https://news.social-protocols.org/stats?id=48175597) #1 10 points 5 comments -> [Freelang – a Libc-free, direct sys/kernel call language with weird concurrency](https://freelang.dev)<!-- HN:48175597:end --><!-- HN:48175307:start -->
