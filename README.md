@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48251553](https://news.social-protocols.org/stats?id=48251553) #11 12 points 18 comments -> [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)<!-- HN:48251553:end --><!-- HN:48251229:start -->
 * [48251229](https://news.social-protocols.org/stats?id=48251229) #19 11 points 3 comments -> [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)<!-- HN:48251229:end --><!-- HN:48252007:start -->
 * [48252007](https://news.social-protocols.org/stats?id=48252007) #3 9 points 2 comments -> [Markdown Is Not LaTeX](https://www.iconoclasts.blog/joe/markdown-is-not-latex)<!-- HN:48252007:end -->
+#### **Sunday, May 24, 2026**
+<!-- HN:48253089:start -->
+* [48253089](https://news.social-protocols.org/stats?id=48253089) #10 2 points 0 comments -> [Meshtastic em Portugal: a rede construída pelas pessoas](https://tech.neural-rage.com/artigos/meshtastic-em-portugal-a-rede-construida-pelas-pessoas/)<!-- HN:48253089:end -->
