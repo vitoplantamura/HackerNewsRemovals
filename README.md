@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48252007](https://news.social-protocols.org/stats?id=48252007) #3 9 points 2 comments -> [Markdown Is Not LaTeX](https://www.iconoclasts.blog/joe/markdown-is-not-latex)<!-- HN:48252007:end -->
 #### **Sunday, May 24, 2026**
 <!-- HN:48253089:start -->
-* [48253089](https://news.social-protocols.org/stats?id=48253089) #10 2 points 0 comments -> [Meshtastic em Portugal: a rede construída pelas pessoas](https://tech.neural-rage.com/artigos/meshtastic-em-portugal-a-rede-construida-pelas-pessoas/)<!-- HN:48253089:end -->
+* [48253089](https://news.social-protocols.org/stats?id=48253089) #10 2 points 0 comments -> [Meshtastic em Portugal: a rede construída pelas pessoas](https://tech.neural-rage.com/artigos/meshtastic-em-portugal-a-rede-construida-pelas-pessoas/)<!-- HN:48253089:end --><!-- HN:48253198:start -->
+* [48253198](https://news.social-protocols.org/stats?id=48253198) #13 9 points 0 comments -> [Suspect killed after opening fire on Secret Service agents near White House](https://www.bbc.com/news/live/c5y09vpe713t)<!-- HN:48253198:end -->
