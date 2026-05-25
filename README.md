@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, May 25, 2026**
 <!-- HN:48261829:start -->
 * [48261829](https://news.social-protocols.org/stats?id=48261829) #14 -> [AI is becoming increasingly unpopular](https://www.marketscreener.com/news/ai-is-becoming-increasingly-unpopular-ce7f5ad9d88af026)<!-- HN:48261829:end --><!-- HN:48228800:start -->
-* [48228800](https://news.social-protocols.org/stats?id=48228800) #18 6 points 1 comments -> [Jen Can Never Leave](https://www.darthealth.com/blog/jen-can-never-leave)<!-- HN:48228800:end -->
+* [48228800](https://news.social-protocols.org/stats?id=48228800) #18 6 points 1 comments -> [Jen Can Never Leave](https://www.darthealth.com/blog/jen-can-never-leave)<!-- HN:48228800:end --><!-- HN:48266485:start -->
+* [48266485](https://news.social-protocols.org/stats?id=48266485) #3 322 points 148 comments -> [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)<!-- HN:48266485:end -->
