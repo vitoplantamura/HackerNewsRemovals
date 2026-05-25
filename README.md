@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48259485](https://news.social-protocols.org/stats?id=48259485) #15 9 points 2 comments -> [CBP updated its electronic device search directive in Jan 2026](https://www.mayerbrown.com/en/insights/publications/2026/04/traveling-abroad-your-phone-may-be-the-first-checkpoint)<!-- HN:48259485:end --><!-- HN:48260302:start -->
 * [48260302](https://news.social-protocols.org/stats?id=48260302) #17 7 points 4 comments -> [Why Physical Reality Is a Collective Construction](https://mimetra.com/blog/consciousness-fusion/)<!-- HN:48260302:end --><!-- HN:48257410:start -->
 * [48257410](https://news.social-protocols.org/stats?id=48257410) #29 203 points 2 comments -> [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)<!-- HN:48257410:end -->
+#### **Monday, May 25, 2026**
+<!-- HN:48261829:start -->
+* [48261829](https://news.social-protocols.org/stats?id=48261829) #14 -> [AI is becoming increasingly unpopular](https://www.marketscreener.com/news/ai-is-becoming-increasingly-unpopular-ce7f5ad9d88af026)<!-- HN:48261829:end -->
