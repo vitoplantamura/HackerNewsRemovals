@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, May 18, 2026**
-<!-- HN:48175597:start -->
-* [48175597](https://news.social-protocols.org/stats?id=48175597) #1 10 points 5 comments -> [Freelang – a Libc-free, direct sys/kernel call language with weird concurrency](https://freelang.dev)<!-- HN:48175597:end --><!-- HN:48175307:start -->
-* [48175307](https://news.social-protocols.org/stats?id=48175307) #21 15 points 7 comments -> [Which country voted the best at Eurovision?](https://lalitm.com/post/which-country-voted-best-at-eurovision/)<!-- HN:48175307:end --><!-- HN:48176902:start -->
-* [48176902](https://news.social-protocols.org/stats?id=48176902) #1 20 points 7 comments -> [Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late](https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back)<!-- HN:48176902:end --><!-- HN:48153278:start -->
-* [48153278](https://news.social-protocols.org/stats?id=48153278) #27 5 points 2 comments -> [The 30-Hour Shift That Turned a San Jose Robot Lab into a Global Spectacle](https://beeble.com/en/blog/the-30-hour-shift-that-turned-a-san-jose-robot-lab-into-a-global-spectacle)<!-- HN:48153278:end --><!-- HN:48178124:start -->
-* [48178124](https://news.social-protocols.org/stats?id=48178124) #2 17 points 3 comments -> [The Global Fertility Crisis Is Worse Than You Probably Think](https://www.derekthompson.org/p/why-the-whole-world-stopped-having)<!-- HN:48178124:end --><!-- HN:48179026:start -->
-* [48179026](https://news.social-protocols.org/stats?id=48179026) #27 7 points 3 comments -> [Should I take my car to the carwash 50M away or walk?](https://twitter.com/openservai/status/2055663644944576846)<!-- HN:48179026:end --><!-- HN:48179130:start -->
-* [48179130](https://news.social-protocols.org/stats?id=48179130) #26 19 points 20 comments -> [Russia is starting to lose ground in Ukraine](https://www.economist.com/graphic-detail/2026/05/17/russia-is-starting-to-lose-ground-in-ukraine)<!-- HN:48179130:end --><!-- HN:48177584:start -->
-* [48177584](https://news.social-protocols.org/stats?id=48177584) #23 -> [WHO declares major outbreak of Ebola virus species an international emergency](https://www.science.org/content/article/major-outbreak-rare-ebola-virus-species-northern-congo-alarms-scientists)<!-- HN:48177584:end --><!-- HN:48179467:start -->
-* [48179467](https://news.social-protocols.org/stats?id=48179467) #15 7 points 1 comments -> [The American epoch of oil is collapsing. What comes next could be ugly](https://www.theguardian.com/us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables)<!-- HN:48179467:end --><!-- HN:48179931:start -->
-* [48179931](https://news.social-protocols.org/stats?id=48179931) #10 26 points 5 comments -> [Shame them, shun them, ban them, beat them](https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat)<!-- HN:48179931:end --><!-- HN:48183060:start -->
-* [48183060](https://news.social-protocols.org/stats?id=48183060) #4 62 points 20 comments -> [At least 100 deaths reported in Ebola outbreak in DR Congo](https://www.bbc.com/news/articles/cq6pz60p996o)<!-- HN:48183060:end --><!-- HN:48184921:start -->
-* [48184921](https://news.social-protocols.org/stats?id=48184921) #11 7 points 5 comments -> [Crypto industry lobbies to evade AML/CTF rules](https://www.standwithcrypto.org/eu/en/manifesto)<!-- HN:48184921:end --><!-- HN:48184944:start -->
-* [48184944](https://news.social-protocols.org/stats?id=48184944) #12 9 points 1 comments -> [The tyranny of single page apps](https://blog.bidisaster.party/spas/)<!-- HN:48184944:end --><!-- HN:48186326:start -->
-* [48186326](https://news.social-protocols.org/stats?id=48186326) #17 44 points 27 comments -> [Mexican government breached by solo user with Claude, 150 GB exfiltrated](https://konstantintkachuk.com/writing/the-floor-doesnt-exist/)<!-- HN:48186326:end -->
 #### **Tuesday, May 19, 2026**
 <!-- HN:48187706:start -->
 * [48187706](https://news.social-protocols.org/stats?id=48187706) #12 -> [Data Center Waste Heat as an Emerging Urban Thermal Hazard](https://asmedigitalcollection.asme.org/sustainablebuildings/article/doi/10.1115/1.4071922/1233035/Data-center-waste-heat-as-an-emerging-urban)<!-- HN:48187706:end --><!-- HN:48188908:start -->
