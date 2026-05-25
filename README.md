@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48257410](https://news.social-protocols.org/stats?id=48257410) #29 203 points 2 comments -> [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)<!-- HN:48257410:end -->
 #### **Monday, May 25, 2026**
 <!-- HN:48261829:start -->
-* [48261829](https://news.social-protocols.org/stats?id=48261829) #14 -> [AI is becoming increasingly unpopular](https://www.marketscreener.com/news/ai-is-becoming-increasingly-unpopular-ce7f5ad9d88af026)<!-- HN:48261829:end -->
+* [48261829](https://news.social-protocols.org/stats?id=48261829) #14 -> [AI is becoming increasingly unpopular](https://www.marketscreener.com/news/ai-is-becoming-increasingly-unpopular-ce7f5ad9d88af026)<!-- HN:48261829:end --><!-- HN:48264290:start -->
+* [48264290](https://news.social-protocols.org/stats?id=48264290) #10 9 points 1 comments -> [If you let AI do your writing, I will come to your house and kill you](https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will)<!-- HN:48264290:end -->
