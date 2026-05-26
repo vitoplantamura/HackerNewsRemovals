@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, May 26, 2026**
 <!-- HN:48272945:start -->
 * [48272945](https://news.social-protocols.org/stats?id=48272945) #30 11 points 4 comments -> [Citing Gandalf, Pope Leo says we must "disarm" AI](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)<!-- HN:48272945:end --><!-- HN:48272694:start -->
-* [48272694](https://news.social-protocols.org/stats?id=48272694) #29 21 points 8 comments -> [Agentic Patterns](https://veso.ai/research/agentic-patterns/)<!-- HN:48272694:end -->
+* [48272694](https://news.social-protocols.org/stats?id=48272694) #29 21 points 8 comments -> [Agentic Patterns](https://veso.ai/research/agentic-patterns/)<!-- HN:48272694:end --><!-- HN:48274018:start -->
+* [48274018](https://news.social-protocols.org/stats?id=48274018) #26 7 points 11 comments -> [Browser-based file encryption tool using WebCrypto](https://secvant.com/)<!-- HN:48274018:end -->
