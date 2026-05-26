@@ -107,3 +107,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48269437](https://news.social-protocols.org/stats?id=48269437) #23 21 points 5 comments -> [Google facing court for retaliation against Gaza whistleblower](https://www.foxglove.org.uk/2026/05/20/google-court-retaliation-gaza-whistleblower/)<!-- HN:48269437:end --><!-- HN:48272481:start -->
 * [48272481](https://news.social-protocols.org/stats?id=48272481) #30 6 points 0 comments -> [I'm done. I'm f***ing done [video]](https://www.youtube.com/watch?v=VucjurQUHO8)<!-- HN:48272481:end --><!-- HN:48271933:start -->
 * [48271933](https://news.social-protocols.org/stats?id=48271933) #27 29 points 40 comments -> [Ferrari Luce, Maranello's first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)<!-- HN:48271933:end -->
+#### **Tuesday, May 26, 2026**
+<!-- HN:48272945:start -->
+* [48272945](https://news.social-protocols.org/stats?id=48272945) #30 11 points 4 comments -> [Citing Gandalf, Pope Leo says we must "disarm" AI](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)<!-- HN:48272945:end -->
