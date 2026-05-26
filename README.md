@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, May 19, 2026**
-<!-- HN:48187706:start -->
-* [48187706](https://news.social-protocols.org/stats?id=48187706) #12 -> [Data Center Waste Heat as an Emerging Urban Thermal Hazard](https://asmedigitalcollection.asme.org/sustainablebuildings/article/doi/10.1115/1.4071922/1233035/Data-center-waste-heat-as-an-emerging-urban)<!-- HN:48187706:end --><!-- HN:48188908:start -->
-* [48188908](https://news.social-protocols.org/stats?id=48188908) #8 7 points 1 comments -> [Bornagain.com](http://bornagain.com/)<!-- HN:48188908:end --><!-- HN:48189544:start -->
-* [48189544](https://news.social-protocols.org/stats?id=48189544) #8 2 points 0 comments -> [Show HN: Closed Rings – A CLI-first time tracker for developers](https://closedrings.sh/en)<!-- HN:48189544:end --><!-- HN:48192727:start -->
-* [48192727](https://news.social-protocols.org/stats?id=48192727) #18 33 points 9 comments -> [IDF struggles to curb endless feed of soldiers posting misdeeds on social media](https://www.timesofisrael.com/idf-struggles-to-throttle-endless-feed-of-soldiers-posting-misdeeds-on-social-media/)<!-- HN:48192727:end --><!-- HN:48193578:start -->
-* [48193578](https://news.social-protocols.org/stats?id=48193578) #23 60 points 49 comments -> [Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz](https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/)<!-- HN:48193578:end --><!-- HN:48195589:start -->
-* [48195589](https://news.social-protocols.org/stats?id=48195589) #9 6 points 3 comments -> [Slopinator: Attack AI training with poisoned GitHub repositories](https://codeberg.org/the-slopinator/slopinator)<!-- HN:48195589:end --><!-- HN:48192397:start -->
-* [48192397](https://news.social-protocols.org/stats?id=48192397) #24 104 points 19 comments -> [U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub](https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330)<!-- HN:48192397:end --><!-- HN:48195387:start -->
-* [48195387](https://news.social-protocols.org/stats?id=48195387) #19 18 points 7 comments -> [RuView – See through walls with WiFi](https://github.com/ruvnet/RuView)<!-- HN:48195387:end --><!-- HN:48196008:start -->
-* [48196008](https://news.social-protocols.org/stats?id=48196008) #13 9 points 6 comments -> [Raindrop Workshop: Your local OSS agent debugger](https://github.com/raindrop-ai/workshop)<!-- HN:48196008:end --><!-- HN:48195914:start -->
-* [48195914](https://news.social-protocols.org/stats?id=48195914) #24 26 points 2 comments -> [Google IO 26 Keynote](https://www.youtube.com/watch?v=wYSncx9zLIU)<!-- HN:48195914:end --><!-- HN:48196656:start -->
-* [48196656](https://news.social-protocols.org/stats?id=48196656) #1 171 points 1 comments -> [Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)<!-- HN:48196656:end --><!-- HN:48196764:start -->
-* [48196764](https://news.social-protocols.org/stats?id=48196764) #23 98 points 124 comments -> [Google Search as you know it is over](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)<!-- HN:48196764:end --><!-- HN:48169508:start -->
-* [48169508](https://news.social-protocols.org/stats?id=48169508) #6 43 points 5 comments -> [KV Cache Is Becoming the Memory Hierarchy of Inference](https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html)<!-- HN:48169508:end --><!-- HN:48197859:start -->
-* [48197859](https://news.social-protocols.org/stats?id=48197859) #18 5 points 1 comments -> [Andrej Karpathy Joins Anthropic](https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic)<!-- HN:48197859:end -->
 #### **Wednesday, May 20, 2026**
 <!-- HN:48200827:start -->
 * [48200827](https://news.social-protocols.org/stats?id=48200827) #26 58 points 40 comments -> [Railway Is Having a Major Outage](https://status.railway.com/#/)<!-- HN:48200827:end --><!-- HN:48202993:start -->
