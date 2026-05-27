@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, May 27, 2026**
 <!-- HN:48287007:start -->
 * [48287007](https://news.social-protocols.org/stats?id=48287007) #4 22 points 3 comments -> [Colorado and California Exempt Open Source from Age Attestation](https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation)<!-- HN:48287007:end --><!-- HN:48287808:start -->
-* [48287808](https://news.social-protocols.org/stats?id=48287808) #29 33 points 13 comments -> [Agent Memory: An Anatomy](https://brgsk.xyz/agent-memory-anatomy/)<!-- HN:48287808:end -->
+* [48287808](https://news.social-protocols.org/stats?id=48287808) #29 33 points 13 comments -> [Agent Memory: An Anatomy](https://brgsk.xyz/agent-memory-anatomy/)<!-- HN:48287808:end --><!-- HN:48287220:start -->
+* [48287220](https://news.social-protocols.org/stats?id=48287220) #3 68 points 43 comments -> [Xiaomi MiMo-v2.5 price drops 99% – AI pricing war](https://platform.xiaomimimo.com/docs/en-US/welcome)<!-- HN:48287220:end -->
