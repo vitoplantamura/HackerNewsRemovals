@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 20, 2026**
-<!-- HN:48200827:start -->
-* [48200827](https://news.social-protocols.org/stats?id=48200827) #26 58 points 40 comments -> [Railway Is Having a Major Outage](https://status.railway.com/#/)<!-- HN:48200827:end --><!-- HN:48202993:start -->
-* [48202993](https://news.social-protocols.org/stats?id=48202993) #6 249 points 6 comments -> [GitHub Compromised](https://twitter.com/i/status/2056949168208552080)<!-- HN:48202993:end --><!-- HN:48204998:start -->
-* [48204998](https://news.social-protocols.org/stats?id=48204998) #15 3 points 0 comments -> [Watch RT Live Anywhere in the World](https://rtlive.ru)<!-- HN:48204998:end --><!-- HN:48204843:start -->
-* [48204843](https://news.social-protocols.org/stats?id=48204843) #6 9 points 2 comments -> [The AI Quant Desk for Onchain Finance](https://grid.raster.finance/en/portfolio-analytics)<!-- HN:48204843:end --><!-- HN:48170546:start -->
-* [48170546](https://news.social-protocols.org/stats?id=48170546) #15 9 points 1 comments -> [Show HN: Typeset sitelen pona and copy a PNG (for toki pona speakers)](https://sitelen.vercel.app/)<!-- HN:48170546:end --><!-- HN:48172366:start -->
-* [48172366](https://news.social-protocols.org/stats?id=48172366) #24 7 points 5 comments -> [Enabling Resizable Bar on RTX 3080 Vbios via GitHub](https://github.com/danindiana/rtx3080-rebar-vbios/tree/master)<!-- HN:48172366:end --><!-- HN:48207509:start -->
-* [48207509](https://news.social-protocols.org/stats?id=48207509) #5 27 points 41 comments -> [560-610 minutes of exercise a week needed for substantial heart benefits](https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/)<!-- HN:48207509:end --><!-- HN:48213666:start -->
-* [48213666](https://news.social-protocols.org/stats?id=48213666) #26 16 points 1 comments -> [In Yesterday's IO Keynote Google Declared War on the Remnants of the Web](https://tldr.nettime.org/@tante/116605858023186072)<!-- HN:48213666:end --><!-- HN:48207004:start -->
-* [48207004](https://news.social-protocols.org/stats?id=48207004) #25 887 points 700 comments -> [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)<!-- HN:48207004:end -->
 #### **Thursday, May 21, 2026**
 <!-- HN:48217052:start -->
 * [48217052](https://news.social-protocols.org/stats?id=48217052) #21 133 points 3 comments -> [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)<!-- HN:48217052:end --><!-- HN:48220829:start -->
