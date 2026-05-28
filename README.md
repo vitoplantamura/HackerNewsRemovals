@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, May 21, 2026**
-<!-- HN:48217052:start -->
-* [48217052](https://news.social-protocols.org/stats?id=48217052) #21 133 points 3 comments -> [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)<!-- HN:48217052:end --><!-- HN:48220829:start -->
-* [48220829](https://news.social-protocols.org/stats?id=48220829) #9 13 points 6 comments -> [A Girl Who Couldn't Draw Home](https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home)<!-- HN:48220829:end --><!-- HN:48224161:start -->
-* [48224161](https://news.social-protocols.org/stats?id=48224161) #22 3 points 1 comments -> [What 1,281 agent runs reveal about coding agent failure in large codebases](https://tessl.io/blog/coding-agent-failure-patterns-large-codebases/)<!-- HN:48224161:end --><!-- HN:48225399:start -->
-* [48225399](https://news.social-protocols.org/stats?id=48225399) #8 5 points 0 comments -> [Wes mckinney releases multiple bangers](https://kenn.io/)<!-- HN:48225399:end --><!-- HN:48182797:start -->
-* [48182797](https://news.social-protocols.org/stats?id=48182797) #23 6 points 1 comments -> [Starchild-1: The First Real-Time Multimodal World Model](https://odyssey.ml/introducing-starchild-1)<!-- HN:48182797:end --><!-- HN:48229260:start -->
-* [48229260](https://news.social-protocols.org/stats?id=48229260) #20 29 points 8 comments -> [Curtis Yarvin and the Political Evolution of Silicon Valley Reactionaries](https://www.dontbeasucker.blog/p/the-butterflies-in-your-stomach)<!-- HN:48229260:end -->
 #### **Friday, May 22, 2026**<!-- HN:48231256:start -->
 * [48231256](https://news.social-protocols.org/stats?id=48231256) #8 7 points 3 comments -> [Coins Stream](https://coins.stream)<!-- HN:48231256:end --><!-- HN:48231674:start -->
 * [48231674](https://news.social-protocols.org/stats?id=48231674) #2 -> [Show HN: Tight C, a systems language with 10 keywords](https://github.com/alonsovm44/tc-lang/)<!-- HN:48231674:end --><!-- HN:48232060:start -->
