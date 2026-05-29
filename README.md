@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48317073:start -->
 * [48317073](https://news.social-protocols.org/stats?id=48317073) #28 9 points 0 comments -> [The internet has become too American to trust](https://thewalrus.ca/the-internet-has-become-too-american-to-trust/)<!-- HN:48317073:end --><!-- HN:48317224:start -->
 * [48317224](https://news.social-protocols.org/stats?id=48317224) #18 6 points 5 comments -> [Eric Schmidt: you don't have any friends](https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ)<!-- HN:48317224:end --><!-- HN:48316958:start -->
-* [48316958](https://news.social-protocols.org/stats?id=48316958) #29 12 points 7 comments -> [The Silent Critic](https://www.tft.io/the-silent-critic/)<!-- HN:48316958:end -->
+* [48316958](https://news.social-protocols.org/stats?id=48316958) #29 12 points 7 comments -> [The Silent Critic](https://www.tft.io/the-silent-critic/)<!-- HN:48316958:end --><!-- HN:48266950:start -->
+* [48266950](https://news.social-protocols.org/stats?id=48266950) #13 4 points 0 comments -> [How a Startup Is Collapsing a 200-Year-Old Supply Chain](https://www.carryology.com/insights/how-a-startup-is-collapsing-a-200-year-old-supply-chain/)<!-- HN:48266950:end -->
