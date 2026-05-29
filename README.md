@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48316462](https://news.social-protocols.org/stats?id=48316462) #7 12 points 4 comments -> [Minimax M3](https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/)<!-- HN:48316462:end -->
 #### **Friday, May 29, 2026**
 <!-- HN:48317073:start -->
-* [48317073](https://news.social-protocols.org/stats?id=48317073) #28 9 points 0 comments -> [The internet has become too American to trust](https://thewalrus.ca/the-internet-has-become-too-american-to-trust/)<!-- HN:48317073:end -->
+* [48317073](https://news.social-protocols.org/stats?id=48317073) #28 9 points 0 comments -> [The internet has become too American to trust](https://thewalrus.ca/the-internet-has-become-too-american-to-trust/)<!-- HN:48317073:end --><!-- HN:48317224:start -->
+* [48317224](https://news.social-protocols.org/stats?id=48317224) #18 6 points 5 comments -> [Eric Schmidt: you don't have any friends](https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ)<!-- HN:48317224:end -->
