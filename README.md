@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48269609](https://news.social-protocols.org/stats?id=48269609) #21 4 points 4 comments -> [You Were Never Declaring State. You Were Observing by Hand](https://webframp.com/posts/you-were-never-declaring-state/)<!-- HN:48269609:end --><!-- HN:48314650:start -->
 * [48314650](https://news.social-protocols.org/stats?id=48314650) #12 18 points 5 comments -> [Caio, a cleaner search engine for 500k+ tech jobs](https://caio-jobs.com/)<!-- HN:48314650:end --><!-- HN:48316462:start -->
 * [48316462](https://news.social-protocols.org/stats?id=48316462) #7 12 points 4 comments -> [Minimax M3](https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/)<!-- HN:48316462:end -->
+#### **Friday, May 29, 2026**
+<!-- HN:48317073:start -->
+* [48317073](https://news.social-protocols.org/stats?id=48317073) #28 9 points 0 comments -> [The internet has become too American to trust](https://thewalrus.ca/the-internet-has-become-too-american-to-trust/)<!-- HN:48317073:end -->
