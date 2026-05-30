@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48328088](https://news.social-protocols.org/stats?id=48328088) #22 8 points 1 comments -> [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)<!-- HN:48328088:end -->
 #### **Saturday, May 30, 2026**
 <!-- HN:48332889:start -->
-* [48332889](https://news.social-protocols.org/stats?id=48332889) #13 10 points 0 comments -> [Records Show UC Sharing Data with US Customs and Border Protection](https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html)<!-- HN:48332889:end -->
+* [48332889](https://news.social-protocols.org/stats?id=48332889) #13 10 points 0 comments -> [Records Show UC Sharing Data with US Customs and Border Protection](https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html)<!-- HN:48332889:end --><!-- HN:48333177:start -->
+* [48333177](https://news.social-protocols.org/stats?id=48333177) #24 6 points 1 comments -> [Company accidentally blows $500M on Claude AI in one month](https://www.msn.com/en-us/news/technology/company-accidentally-blows-500-000-000-on-claude-ai-in-one-month/ar-AA24nahv)<!-- HN:48333177:end -->
