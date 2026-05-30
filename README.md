@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48325707](https://news.social-protocols.org/stats?id=48325707) #14 10 points 1 comments -> [Rsync maintainer starts uses Claude, regressions mount](https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390)<!-- HN:48325707:end --><!-- HN:48321264:start -->
 * [48321264](https://news.social-protocols.org/stats?id=48321264) #28 84 points 92 comments -> [Is This Sustainable?](https://jamiehurst.co.uk/2026-05-24_ai-sustainable)<!-- HN:48321264:end --><!-- HN:48328088:start -->
 * [48328088](https://news.social-protocols.org/stats?id=48328088) #22 8 points 1 comments -> [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)<!-- HN:48328088:end -->
+#### **Saturday, May 30, 2026**
+<!-- HN:48332889:start -->
+* [48332889](https://news.social-protocols.org/stats?id=48332889) #13 10 points 0 comments -> [Records Show UC Sharing Data with US Customs and Border Protection](https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html)<!-- HN:48332889:end -->
