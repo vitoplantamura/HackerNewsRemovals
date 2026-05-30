@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, May 23, 2026**<!-- HN:48243863:start -->
-* [48243863](https://news.social-protocols.org/stats?id=48243863) #1 191 points 128 comments -> [Is AI Profitable Yet?](https://isaiprofitable.com/)<!-- HN:48243863:end --><!-- HN:48244476:start -->
-* [48244476](https://news.social-protocols.org/stats?id=48244476) #5 15 points 3 comments -> [Google Is Killing ChromeOS: Aluminium OS, Its Android-Based Replacement](https://techjournal.org/google-aluminium-os-replacing-chromeos)<!-- HN:48244476:end --><!-- HN:48244220:start -->
-* [48244220](https://news.social-protocols.org/stats?id=48244220) #26 66 points 51 comments -> [New rule requires most green-card applicants to apply from outside U.S.](https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/)<!-- HN:48244220:end --><!-- HN:48220710:start -->
-* [48220710](https://news.social-protocols.org/stats?id=48220710) #12 11 points 5 comments -> [Let the AI Cook](https://www.ivan.codes/blog/let-it-cook)<!-- HN:48220710:end --><!-- HN:48244434:start -->
-* [48244434](https://news.social-protocols.org/stats?id=48244434) #19 197 points 49 comments -> [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)<!-- HN:48244434:end --><!-- HN:48244992:start -->
-* [48244992](https://news.social-protocols.org/stats?id=48244992) #4 13 points 5 comments -> [White House ordering agencies to place its new app on all employees' govt phones](https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738/)<!-- HN:48244992:end --><!-- HN:48249553:start -->
-* [48249553](https://news.social-protocols.org/stats?id=48249553) #8 55 points 17 comments -> [JWT is a scam and your app doesn't need it](https://www.dusanmalusev.dev/blog/jwt-is-a-scam-and-your-app-doesnt-need-it)<!-- HN:48249553:end --><!-- HN:48219853:start -->
-* [48219853](https://news.social-protocols.org/stats?id=48219853) #26 53 points 11 comments -> [AI Engineering from Scratch](https://aiengineeringfromscratch.com)<!-- HN:48219853:end --><!-- HN:48250126:start -->
-* [48250126](https://news.social-protocols.org/stats?id=48250126) #20 6 points 1 comments -> [CC-Wiki: Turn Claude Code sessions into a shareable knowledge base wiki](https://github.com/tejpalv/cc-wiki)<!-- HN:48250126:end --><!-- HN:48251553:start -->
-* [48251553](https://news.social-protocols.org/stats?id=48251553) #11 12 points 18 comments -> [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)<!-- HN:48251553:end --><!-- HN:48251229:start -->
-* [48251229](https://news.social-protocols.org/stats?id=48251229) #19 11 points 3 comments -> [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)<!-- HN:48251229:end --><!-- HN:48252007:start -->
-* [48252007](https://news.social-protocols.org/stats?id=48252007) #3 9 points 2 comments -> [Markdown Is Not LaTeX](https://www.iconoclasts.blog/joe/markdown-is-not-latex)<!-- HN:48252007:end -->
 #### **Sunday, May 24, 2026**
 <!-- HN:48253089:start -->
 * [48253089](https://news.social-protocols.org/stats?id=48253089) #10 2 points 0 comments -> [Meshtastic em Portugal: a rede construída pelas pessoas](https://tech.neural-rage.com/artigos/meshtastic-em-portugal-a-rede-construida-pelas-pessoas/)<!-- HN:48253089:end --><!-- HN:48253198:start -->
