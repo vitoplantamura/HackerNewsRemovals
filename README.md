@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48340958](https://news.social-protocols.org/stats?id=48340958) #23 6 points 0 comments -> [AWS Budgets Has an 8-Hour Delay. Your Bedrock Bill Doesn't](https://blog.llmcap.io/aws-budgets-has-an-8-hour-delay-your-bedrock-bill-doesn-t)<!-- HN:48340958:end -->
 #### **Sunday, May 31, 2026**
 <!-- HN:48341505:start -->
-* [48341505](https://news.social-protocols.org/stats?id=48341505) #20 8 points 1 comments -> [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)<!-- HN:48341505:end -->
+* [48341505](https://news.social-protocols.org/stats?id=48341505) #20 8 points 1 comments -> [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)<!-- HN:48341505:end --><!-- HN:48342097:start -->
+* [48342097](https://news.social-protocols.org/stats?id=48342097) #3 39 points 16 comments -> [Anyone can build a platform now. Almost nobody can get people to find it](https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it)<!-- HN:48342097:end -->
