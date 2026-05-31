@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48340528](https://news.social-protocols.org/stats?id=48340528) #16 9 points 5 comments -> [Kore: Binary File Format Optimized for Modern Data Systems (Open Source)](https://github.com/arunkatherashala/Kore)<!-- HN:48340528:end --><!-- HN:48340944:start -->
 * [48340944](https://news.social-protocols.org/stats?id=48340944) #16 -> [Republicans are trying to kill science in this country](https://www.npr.org/2026/05/21/nx-s1-5828768/science-funding-cuts-nih-trump-administration)<!-- HN:48340944:end --><!-- HN:48340958:start -->
 * [48340958](https://news.social-protocols.org/stats?id=48340958) #23 6 points 0 comments -> [AWS Budgets Has an 8-Hour Delay. Your Bedrock Bill Doesn't](https://blog.llmcap.io/aws-budgets-has-an-8-hour-delay-your-bedrock-bill-doesn-t)<!-- HN:48340958:end -->
+#### **Sunday, May 31, 2026**
+<!-- HN:48341505:start -->
+* [48341505](https://news.social-protocols.org/stats?id=48341505) #20 8 points 1 comments -> [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)<!-- HN:48341505:end -->
