@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48341505:start -->
 * [48341505](https://news.social-protocols.org/stats?id=48341505) #20 8 points 1 comments -> [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)<!-- HN:48341505:end --><!-- HN:48342097:start -->
 * [48342097](https://news.social-protocols.org/stats?id=48342097) #3 39 points 16 comments -> [Anyone can build a platform now. Almost nobody can get people to find it](https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it)<!-- HN:48342097:end --><!-- HN:48303859:start -->
-* [48303859](https://news.social-protocols.org/stats?id=48303859) #23 5 points 0 comments -> [Carbon Nanotube CPU Cooling](https://www.lttlabs.com/articles/2026/05/26/carbice-ice-pads)<!-- HN:48303859:end -->
+* [48303859](https://news.social-protocols.org/stats?id=48303859) #23 5 points 0 comments -> [Carbon Nanotube CPU Cooling](https://www.lttlabs.com/articles/2026/05/26/carbice-ice-pads)<!-- HN:48303859:end --><!-- HN:48342705:start -->
+* [48342705](https://news.social-protocols.org/stats?id=48342705) #4 -> [Please Do Not Vibe Fuck Up This Software – Rsync](https://github.com/RsyncProject/rsync/issues/929)<!-- HN:48342705:end -->
