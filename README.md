@@ -120,4 +120,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 1, 2026**
 <!-- HN:48346947:start -->
 * [48346947](https://news.social-protocols.org/stats?id=48346947) #6 506 points 328 comments -> [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)<!-- HN:48346947:end --><!-- HN:48352627:start -->
-* [48352627](https://news.social-protocols.org/stats?id=48352627) #10 26 points 40 comments -> [Surface Laptop Ultra: Made for World Makers](https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/)<!-- HN:48352627:end -->
+* [48352627](https://news.social-protocols.org/stats?id=48352627) #10 26 points 40 comments -> [Surface Laptop Ultra: Made for World Makers](https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/)<!-- HN:48352627:end --><!-- HN:48353670:start -->
+* [48353670](https://news.social-protocols.org/stats?id=48353670) #19 24 points 40 comments -> [Dune's Butlerian Jihad and the Future of AI](https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai)<!-- HN:48353670:end -->
