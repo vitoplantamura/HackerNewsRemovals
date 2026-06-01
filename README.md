@@ -117,3 +117,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48344930](https://news.social-protocols.org/stats?id=48344930) #6 4 points 1 comments -> [Show HN: The Tired Engineer](https://www.thetiredengineer.com/)<!-- HN:48344930:end --><!-- HN:48345414:start -->
 * [48345414](https://news.social-protocols.org/stats?id=48345414) #24 9 points 11 comments -> [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)<!-- HN:48345414:end --><!-- HN:48346697:start -->
 * [48346697](https://news.social-protocols.org/stats?id=48346697) #9 17 points 6 comments -> [An Analysis of GrapheneOS's Server Infrastructure](https://write.as/hcbg2iz91vzqh)<!-- HN:48346697:end -->
+#### **Monday, June 1, 2026**
+<!-- HN:48346947:start -->
+* [48346947](https://news.social-protocols.org/stats?id=48346947) #6 506 points 328 comments -> [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)<!-- HN:48346947:end -->
