@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, May 26, 2026**
-<!-- HN:48272945:start -->
-* [48272945](https://news.social-protocols.org/stats?id=48272945) #30 11 points 4 comments -> [Citing Gandalf, Pope Leo says we must "disarm" AI](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)<!-- HN:48272945:end --><!-- HN:48272694:start -->
-* [48272694](https://news.social-protocols.org/stats?id=48272694) #29 21 points 8 comments -> [Agentic Patterns](https://veso.ai/research/agentic-patterns/)<!-- HN:48272694:end --><!-- HN:48274018:start -->
-* [48274018](https://news.social-protocols.org/stats?id=48274018) #26 7 points 11 comments -> [Browser-based file encryption tool using WebCrypto](https://secvant.com/)<!-- HN:48274018:end --><!-- HN:48243849:start -->
-* [48243849](https://news.social-protocols.org/stats?id=48243849) #21 16 points 12 comments -> [You Only Use 10% of Printf() – Here Are Things They Didn't Teach You [video]](https://www.youtube.com/watch?v=kdnN0kk7MS0)<!-- HN:48243849:end --><!-- HN:48277537:start -->
-* [48277537](https://news.social-protocols.org/stats?id=48277537) #16 83 points 38 comments -> [I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty](https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html)<!-- HN:48277537:end --><!-- HN:48278832:start -->
-* [48278832](https://news.social-protocols.org/stats?id=48278832) #3 13 points 9 comments -> [Nearly half (44%) of every T-shirt goes to waste before you even buy it](https://norwegianscitechnews.com/2026/05/nearly-half-of-every-t-shirt-goes-to-waste-before-you-even-buy-it/)<!-- HN:48278832:end --><!-- HN:48279321:start -->
-* [48279321](https://news.social-protocols.org/stats?id=48279321) #7 157 points 75 comments -> [AWS Fired the One Employee Who Gave a Damn](https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/)<!-- HN:48279321:end --><!-- HN:48244075:start -->
-* [48244075](https://news.social-protocols.org/stats?id=48244075) #20 13 points 2 comments -> [Trying to preserve other peoples code](https://github.com/Essenceia/CRC_generator/tree/main)<!-- HN:48244075:end --><!-- HN:48287025:start -->
-* [48287025](https://news.social-protocols.org/stats?id=48287025) #2 20 points 12 comments -> [Uber blows through its AI budget in 1 quarter](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/)<!-- HN:48287025:end --><!-- HN:48286428:start -->
-* [48286428](https://news.social-protocols.org/stats?id=48286428) #20 4 points 2 comments -> [Bouncy Castle Communism Is the Solution](https://www.laborpolitics.com/p/bouncy-castle-communism)<!-- HN:48286428:end -->
 #### **Wednesday, May 27, 2026**
 <!-- HN:48287007:start -->
 * [48287007](https://news.social-protocols.org/stats?id=48287007) #4 22 points 3 comments -> [Colorado and California Exempt Open Source from Age Attestation](https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation)<!-- HN:48287007:end --><!-- HN:48287808:start -->
