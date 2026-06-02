@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48314719](https://news.social-protocols.org/stats?id=48314719) #30 44 points 40 comments -> [Two Ways to Draw Infinite Jest's Sierpinski Gasket](https://www.chiply.dev/post-ij-sierpinski)<!-- HN:48314719:end --><!-- HN:48361346:start -->
 * [48361346](https://news.social-protocols.org/stats?id=48361346) #4 45 points 16 comments -> [Hackers Used Meta's AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)<!-- HN:48361346:end --><!-- HN:48352627:start -->
 * [48352627](https://news.social-protocols.org/stats?id=48352627) #24 92 points 194 comments -> [Surface Laptop Ultra: Made for World Makers](https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/)<!-- HN:48352627:end -->
+#### **Tuesday, June 2, 2026**
+<!-- HN:48367253:start -->
+* [48367253](https://news.social-protocols.org/stats?id=48367253) #9 -> [Cloudflare CDN Pricing 2026: Real Cost per GB, Hidden Fees and Best Alternatives](https://blog.blazingcdn.com/en-us/what-is-the-price-per-gb-of-cloudflare-cdn)<!-- HN:48367253:end -->
