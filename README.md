@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48352627](https://news.social-protocols.org/stats?id=48352627) #24 92 points 194 comments -> [Surface Laptop Ultra: Made for World Makers](https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/)<!-- HN:48352627:end -->
 #### **Tuesday, June 2, 2026**
 <!-- HN:48367253:start -->
-* [48367253](https://news.social-protocols.org/stats?id=48367253) #9 -> [Cloudflare CDN Pricing 2026: Real Cost per GB, Hidden Fees and Best Alternatives](https://blog.blazingcdn.com/en-us/what-is-the-price-per-gb-of-cloudflare-cdn)<!-- HN:48367253:end -->
+* [48367253](https://news.social-protocols.org/stats?id=48367253) #9 -> [Cloudflare CDN Pricing 2026: Real Cost per GB, Hidden Fees and Best Alternatives](https://blog.blazingcdn.com/en-us/what-is-the-price-per-gb-of-cloudflare-cdn)<!-- HN:48367253:end --><!-- HN:48367009:start -->
+* [48367009](https://news.social-protocols.org/stats?id=48367009) #23 5 points 3 comments -> [Not Every Byte Gets a Vote](https://mitander.xyz/posts/not-every-byte-gets-a-vote/)<!-- HN:48367009:end -->
