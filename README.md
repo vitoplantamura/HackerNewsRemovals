@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, May 27, 2026**
-<!-- HN:48287007:start -->
-* [48287007](https://news.social-protocols.org/stats?id=48287007) #4 22 points 3 comments -> [Colorado and California Exempt Open Source from Age Attestation](https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation)<!-- HN:48287007:end --><!-- HN:48287808:start -->
-* [48287808](https://news.social-protocols.org/stats?id=48287808) #29 33 points 13 comments -> [Agent Memory: An Anatomy](https://brgsk.xyz/agent-memory-anatomy/)<!-- HN:48287808:end --><!-- HN:48287220:start -->
-* [48287220](https://news.social-protocols.org/stats?id=48287220) #3 68 points 43 comments -> [Xiaomi MiMo-v2.5 price drops 99% – AI pricing war](https://platform.xiaomimimo.com/docs/en-US/welcome)<!-- HN:48287220:end --><!-- HN:48288761:start -->
-* [48288761](https://news.social-protocols.org/stats?id=48288761) #9 5 points 0 comments -> [Gear Commit: Dev gadget box personalized from GitHub activity](https://gearcommit.nanocorp.app/)<!-- HN:48288761:end --><!-- HN:48292775:start -->
-* [48292775](https://news.social-protocols.org/stats?id=48292775) #13 10 points 6 comments -> [Jensen Huang Just Told Every CEO Hiding Behind AI Layoffs to Shut Up](https://www.thestateofbrand.com/news/jensen-huang-ai-layoffs)<!-- HN:48292775:end --><!-- HN:48265629:start -->
-* [48265629](https://news.social-protocols.org/stats?id=48265629) #7 15 points 4 comments -> [Thunderbolt vs. USB-C: what the connector hides](https://www.whatcable.uk/blog/thunderbolt-vs-usb-c)<!-- HN:48265629:end --><!-- HN:48294315:start -->
-* [48294315](https://news.social-protocols.org/stats?id=48294315) #3 39 points 24 comments -> [Why AI Agents Cannot Change Software Systems](https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html)<!-- HN:48294315:end --><!-- HN:48298837:start -->
-* [48298837](https://news.social-protocols.org/stats?id=48298837) #12 33 points 38 comments -> [Germany Law to Force Algorithm Boost for State-Approved News](https://nonogra.ph/germany-considers-law-to-force-social-media-algorithm-boost-for-state-approved-news-05-27-2026)<!-- HN:48298837:end --><!-- HN:48299414:start -->
-* [48299414](https://news.social-protocols.org/stats?id=48299414) #25 4 points 0 comments -> [Deterministic Hydrodynamic Quantum Engine in Rust](https://github.com/fbcouto/deterministic-wave-engine)<!-- HN:48299414:end --><!-- HN:48253063:start -->
-* [48253063](https://news.social-protocols.org/stats?id=48253063) #27 8 points 2 comments -> [Reconstructing a Mixbook movie from its data API with FFmpeg](https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html)<!-- HN:48253063:end -->
 #### **Thursday, May 28, 2026**
 <!-- HN:48307231:start -->
 * [48307231](https://news.social-protocols.org/stats?id=48307231) #11 315 points 134 comments -> [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)<!-- HN:48307231:end --><!-- HN:48309463:start -->
