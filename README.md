@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48377014](https://news.social-protocols.org/stats?id=48377014) #7 -> [I got tired of proprietary supplement blends, so I open-sourced my formulas](https://nuc.luyml.com)<!-- HN:48377014:end -->
 #### **Wednesday, June 3, 2026**
 <!-- HN:48378099:start -->
-* [48378099](https://news.social-protocols.org/stats?id=48378099) #30 60 points 56 comments -> [I Don't Want My Search Engine to Think for Me](https://searchzee.com/blog/search-without-ai-summaries)<!-- HN:48378099:end -->
+* [48378099](https://news.social-protocols.org/stats?id=48378099) #30 60 points 56 comments -> [I Don't Want My Search Engine to Think for Me](https://searchzee.com/blog/search-without-ai-summaries)<!-- HN:48378099:end --><!-- HN:48377631:start -->
+* [48377631](https://news.social-protocols.org/stats?id=48377631) #12 49 points 30 comments -> [LLMs are not the black box you were promised](https://www.jay.ai/blog/llms-are-not-a-black-box)<!-- HN:48377631:end -->
