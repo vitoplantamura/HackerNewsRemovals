@@ -300,3 +300,10 @@
 * [48298837](https://news.ycombinator.com/item?id=48298837) #12 33 points 38 comments -> [Germany Law to Force Algorithm Boost for State-Approved News](https://nonogra.ph/germany-considers-law-to-force-social-media-algorithm-boost-for-state-approved-news-05-27-2026)<!-- HN:48298837:end --><!-- HN:48299414:start -->
 * [48299414](https://news.ycombinator.com/item?id=48299414) #25 4 points 0 comments -> [Deterministic Hydrodynamic Quantum Engine in Rust](https://github.com/fbcouto/deterministic-wave-engine)<!-- HN:48299414:end --><!-- HN:48253063:start -->
 * [48253063](https://news.ycombinator.com/item?id=48253063) #27 8 points 2 comments -> [Reconstructing a Mixbook movie from its data API with FFmpeg](https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html)<!-- HN:48253063:end -->
+#### **Thursday, May 28, 2026**
+<!-- HN:48307231:start -->
+* [48307231](https://news.ycombinator.com/item?id=48307231) #11 315 points 134 comments -> [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)<!-- HN:48307231:end --><!-- HN:48309463:start -->
+* [48309463](https://news.ycombinator.com/item?id=48309463) #3 40 points 26 comments -> [Valve hikes Steam Deck prices by more than 40%, blaming rising costs](https://www.bbc.com/news/articles/cz725d5d1x7o)<!-- HN:48309463:end --><!-- HN:48269609:start -->
+* [48269609](https://news.ycombinator.com/item?id=48269609) #21 4 points 4 comments -> [You Were Never Declaring State. You Were Observing by Hand](https://webframp.com/posts/you-were-never-declaring-state/)<!-- HN:48269609:end --><!-- HN:48314650:start -->
+* [48314650](https://news.ycombinator.com/item?id=48314650) #12 18 points 5 comments -> [Caio, a cleaner search engine for 500k+ tech jobs](https://caio-jobs.com/)<!-- HN:48314650:end --><!-- HN:48316462:start -->
+* [48316462](https://news.ycombinator.com/item?id=48316462) #7 12 points 4 comments -> [Minimax M3](https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/)<!-- HN:48316462:end -->
