@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48383248](https://news.social-protocols.org/stats?id=48383248) #9 17 points 19 comments -> [Which sparkling water is the best?](https://www.maximevidal.com/sparkling-water)<!-- HN:48383248:end --><!-- HN:48383451:start -->
 * [48383451](https://news.social-protocols.org/stats?id=48383451) #13 22 points 8 comments -> [Take Action: LAPD Removed Crime Location Data. Here's Why It Matters](https://blog.spotcrime.com/2026/06/take-action-lapd-removed-crime-location.html)<!-- HN:48383451:end --><!-- HN:48378349:start -->
 * [48378349](https://news.social-protocols.org/stats?id=48378349) #23 16 points 3 comments -> [I Found a Bug in Apple's Fsck_hfs](https://medium.com/@kivancgunalp/i-found-a-bug-in-apples-fsck-hfs-here-s-how-i-tracked-it-down-edc782ce5cf9)<!-- HN:48378349:end -->
+#### **Thursday, June 4, 2026**
+<!-- HN:48391153:start -->
+* [48391153](https://news.social-protocols.org/stats?id=48391153) #30 24 points 5 comments -> [Tony Gilroy Accepts Award for Andor: "Fuck the Empire "](https://kottke.org/26/06/tony-gilroy-accepts-award-for-andor-fuck-the-empire-1)<!-- HN:48391153:end -->
