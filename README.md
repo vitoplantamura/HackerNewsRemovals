@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, June 5, 2026**
 <!-- HN:48406328:start -->
 * [48406328](https://news.social-protocols.org/stats?id=48406328) #11 6 points 2 comments -> [Bricks and Minifigs Parts Ways with Franchise Owners](https://bricksandminifigs.com/blog/blog/2026/06/04/bricks-and-minifigs-salem-joshua-johnson-brandon-best-resignation/)<!-- HN:48406328:end --><!-- HN:48407068:start -->
-* [48407068](https://news.social-protocols.org/stats?id=48407068) #10 22 points 41 comments -> [What happens if Japan takes in zero immigrants?](https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero)<!-- HN:48407068:end -->
+* [48407068](https://news.social-protocols.org/stats?id=48407068) #10 22 points 41 comments -> [What happens if Japan takes in zero immigrants?](https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero)<!-- HN:48407068:end --><!-- HN:48407753:start -->
+* [48407753](https://news.social-protocols.org/stats?id=48407753) #14 35 points 15 comments -> [SpaceX: Flying High on Impunity](https://georgiebc.wordpress.com/2026/06/01/flying-high-on-impunity/)<!-- HN:48407753:end -->
