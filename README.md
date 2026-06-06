@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, June 6, 2026**
 <!-- HN:48419023:start -->
 * [48419023](https://news.social-protocols.org/stats?id=48419023) #20 66 points 2 comments -> [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)<!-- HN:48419023:end --><!-- HN:48385990:start -->
-* [48385990](https://news.social-protocols.org/stats?id=48385990) #21 11 points 4 comments -> [What 100k concurrent sandboxes has taught us so far](https://www.computesdk.com/blog/scale-invitational-update/)<!-- HN:48385990:end -->
+* [48385990](https://news.social-protocols.org/stats?id=48385990) #21 11 points 4 comments -> [What 100k concurrent sandboxes has taught us so far](https://www.computesdk.com/blog/scale-invitational-update/)<!-- HN:48385990:end --><!-- HN:48423381:start -->
+* [48423381](https://news.social-protocols.org/stats?id=48423381) #20 8 points 4 comments -> [Is anyone here interested in contributing to this OS?](https://github.com/valivalivali/x-os)<!-- HN:48423381:end -->
