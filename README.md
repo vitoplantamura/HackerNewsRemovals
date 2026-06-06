@@ -100,3 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48414974](https://news.social-protocols.org/stats?id=48414974) #9 11 points 6 comments -> [Am I Unc?](https://amiunc.com/)<!-- HN:48414974:end --><!-- HN:48415279:start -->
 * [48415279](https://news.social-protocols.org/stats?id=48415279) #5 46 points 2 comments -> [Adyen Selected as Payment Services Provider for GOV.UK Pay](https://www.adyen.com/press-and-media/adyen-payments-gov-uk)<!-- HN:48415279:end --><!-- HN:48418949:start -->
 * [48418949](https://news.social-protocols.org/stats?id=48418949) #13 23 points 21 comments -> [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)<!-- HN:48418949:end -->
+#### **Saturday, June 6, 2026**
+<!-- HN:48419023:start -->
+* [48419023](https://news.social-protocols.org/stats?id=48419023) #20 66 points 2 comments -> [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)<!-- HN:48419023:end -->
