@@ -101,4 +101,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48418949](https://news.social-protocols.org/stats?id=48418949) #13 23 points 21 comments -> [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)<!-- HN:48418949:end -->
 #### **Saturday, June 6, 2026**
 <!-- HN:48419023:start -->
-* [48419023](https://news.social-protocols.org/stats?id=48419023) #20 66 points 2 comments -> [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)<!-- HN:48419023:end -->
+* [48419023](https://news.social-protocols.org/stats?id=48419023) #20 66 points 2 comments -> [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)<!-- HN:48419023:end --><!-- HN:48385990:start -->
+* [48385990](https://news.social-protocols.org/stats?id=48385990) #21 11 points 4 comments -> [What 100k concurrent sandboxes has taught us so far](https://www.computesdk.com/blog/scale-invitational-update/)<!-- HN:48385990:end -->
