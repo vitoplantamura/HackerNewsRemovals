@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48429940](https://news.social-protocols.org/stats?id=48429940) #17 14 points 7 comments -> [No Babies? Blame Capitalism](https://jacobin.com/2026/06/birth-rates-capitalism-socialism-germany)<!-- HN:48429940:end -->
 #### **Sunday, June 7, 2026**<!-- HN:48358339:start -->
 * [48358339](https://news.social-protocols.org/stats?id=48358339) #22 20 points 4 comments -> [PyTorch Custom Operation](https://leimao.github.io/blog/PyTorch-Custom-Operation/)<!-- HN:48358339:end --><!-- HN:48348876:start -->
-* [48348876](https://news.social-protocols.org/stats?id=48348876) #26 87 points 18 comments -> [Building Rust Procedural Macros from the Grounds Up](https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html)<!-- HN:48348876:end -->
+* [48348876](https://news.social-protocols.org/stats?id=48348876) #26 87 points 18 comments -> [Building Rust Procedural Macros from the Grounds Up](https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html)<!-- HN:48348876:end --><!-- HN:48430693:start -->
+* [48430693](https://news.social-protocols.org/stats?id=48430693) #20 17 points 9 comments -> [Show HN: DomainTasker – avoid losing domains and surprise renewals](https://domaintasker.com/)<!-- HN:48430693:end -->
