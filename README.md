@@ -100,4 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48428796](https://news.social-protocols.org/stats?id=48428796) #15 36 points 19 comments -> [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)<!-- HN:48428796:end --><!-- HN:48423990:start -->
 * [48423990](https://news.social-protocols.org/stats?id=48423990) #14 404 points 2 comments -> [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)<!-- HN:48423990:end --><!-- HN:48429940:start -->
 * [48429940](https://news.social-protocols.org/stats?id=48429940) #17 14 points 7 comments -> [No Babies? Blame Capitalism](https://jacobin.com/2026/06/birth-rates-capitalism-socialism-germany)<!-- HN:48429940:end -->
-#### **Sunday, June 7, 2026**
+#### **Sunday, June 7, 2026**<!-- HN:48358339:start -->
+* [48358339](https://news.social-protocols.org/stats?id=48358339) #22 20 points 4 comments -> [PyTorch Custom Operation](https://leimao.github.io/blog/PyTorch-Custom-Operation/)<!-- HN:48358339:end --><!-- HN:48348876:start -->
+* [48348876](https://news.social-protocols.org/stats?id=48348876) #26 87 points 18 comments -> [Building Rust Procedural Macros from the Grounds Up](https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html)<!-- HN:48348876:end -->
