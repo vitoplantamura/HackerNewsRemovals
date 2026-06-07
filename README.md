@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, May 31, 2026**
-<!-- HN:48341505:start -->
-* [48341505](https://news.social-protocols.org/stats?id=48341505) #20 8 points 1 comments -> [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)<!-- HN:48341505:end --><!-- HN:48342097:start -->
-* [48342097](https://news.social-protocols.org/stats?id=48342097) #3 39 points 16 comments -> [Anyone can build a platform now. Almost nobody can get people to find it](https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it)<!-- HN:48342097:end --><!-- HN:48303859:start -->
-* [48303859](https://news.social-protocols.org/stats?id=48303859) #23 5 points 0 comments -> [Carbon Nanotube CPU Cooling](https://www.lttlabs.com/articles/2026/05/26/carbice-ice-pads)<!-- HN:48303859:end --><!-- HN:48343061:start -->
-* [48343061](https://news.social-protocols.org/stats?id=48343061) #24 11 points 0 comments -> [Building a LangGraph pipeline for production data engineering](https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline)<!-- HN:48343061:end --><!-- HN:48343445:start -->
-* [48343445](https://news.social-protocols.org/stats?id=48343445) #22 5 points 1 comments -> [The ~500kB NBSDGames 6 managed to be published ahead of GTA 6](https://github.com/abakh/nbsdgames/releases)<!-- HN:48343445:end --><!-- HN:48309623:start -->
-* [48309623](https://news.social-protocols.org/stats?id=48309623) #21 10 points 1 comments -> [Soviet 80s supercomputer project "Start"](https://start.iis.nsk.su/)<!-- HN:48309623:end --><!-- HN:48344930:start -->
-* [48344930](https://news.social-protocols.org/stats?id=48344930) #6 4 points 1 comments -> [Show HN: The Tired Engineer](https://www.thetiredengineer.com/)<!-- HN:48344930:end --><!-- HN:48345414:start -->
-* [48345414](https://news.social-protocols.org/stats?id=48345414) #24 9 points 11 comments -> [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)<!-- HN:48345414:end --><!-- HN:48346697:start -->
-* [48346697](https://news.social-protocols.org/stats?id=48346697) #9 17 points 6 comments -> [An Analysis of GrapheneOS's Server Infrastructure](https://write.as/hcbg2iz91vzqh)<!-- HN:48346697:end -->
 #### **Monday, June 1, 2026**
 <!-- HN:48346947:start -->
 * [48346947](https://news.social-protocols.org/stats?id=48346947) #6 506 points 328 comments -> [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)<!-- HN:48346947:end --><!-- HN:48353670:start -->
@@ -112,5 +101,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48423990](https://news.social-protocols.org/stats?id=48423990) #14 404 points 2 comments -> [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)<!-- HN:48423990:end --><!-- HN:48429940:start -->
 * [48429940](https://news.social-protocols.org/stats?id=48429940) #17 14 points 7 comments -> [No Babies? Blame Capitalism](https://jacobin.com/2026/06/birth-rates-capitalism-socialism-germany)<!-- HN:48429940:end -->
 #### **Sunday, June 7, 2026**
-<!-- HN:48430212:start -->
-* [48430212](https://news.social-protocols.org/stats?id=48430212) #24 29 points 13 comments -> [DoD Officially Drops 180 Faiths from Military's Recognized Religion List](https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list)<!-- HN:48430212:end -->
