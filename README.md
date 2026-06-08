@@ -112,3 +112,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48437442](https://news.social-protocols.org/stats?id=48437442) #12 -> [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)<!-- HN:48437442:end --><!-- HN:48438854:start -->
 * [48438854](https://news.social-protocols.org/stats?id=48438854) #29 14 points 9 comments -> [Data centers consumed 264B gallons of water as drought hits nearly 63% of US](https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-u-s)<!-- HN:48438854:end --><!-- HN:48437814:start -->
 * [48437814](https://news.social-protocols.org/stats?id=48437814) #26 7 points 0 comments -> [Iran says staff blocked from entering US after players given World Cup visas](https://www.bbc.com/news/articles/cy8286nqz87o)<!-- HN:48437814:end -->
+#### **Monday, June 8, 2026**
+<!-- HN:48404070:start -->
+* [48404070](https://news.social-protocols.org/stats?id=48404070) #16 5 points 3 comments -> [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)<!-- HN:48404070:end -->
