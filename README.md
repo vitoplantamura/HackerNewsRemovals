@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 1, 2026**
-<!-- HN:48346947:start -->
-* [48346947](https://news.social-protocols.org/stats?id=48346947) #6 506 points 328 comments -> [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)<!-- HN:48346947:end --><!-- HN:48353670:start -->
-* [48353670](https://news.social-protocols.org/stats?id=48353670) #19 24 points 40 comments -> [Dune's Butlerian Jihad and the Future of AI](https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai)<!-- HN:48353670:end --><!-- HN:48354405:start -->
-* [48354405](https://news.social-protocols.org/stats?id=48354405) #21 25 points 40 comments -> [Why Are Large Language Models So Terrible at Video Games?](https://spectrum.ieee.org/ai-video-games-llms-togelius)<!-- HN:48354405:end --><!-- HN:48301135:start -->
-* [48301135](https://news.social-protocols.org/stats?id=48301135) #22 42 points 40 comments -> [Sony Launches Bravia 9 II and Bravia 7 II with 'True RGB'](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779897602)<!-- HN:48301135:end --><!-- HN:48354414:start -->
-* [48354414](https://news.social-protocols.org/stats?id=48354414) #18 21 points 15 comments -> [two strangers. one call. no names](https://just2voices.com/)<!-- HN:48354414:end --><!-- HN:48314719:start -->
-* [48314719](https://news.social-protocols.org/stats?id=48314719) #30 44 points 40 comments -> [Two Ways to Draw Infinite Jest's Sierpinski Gasket](https://www.chiply.dev/post-ij-sierpinski)<!-- HN:48314719:end --><!-- HN:48361346:start -->
-* [48361346](https://news.social-protocols.org/stats?id=48361346) #4 45 points 16 comments -> [Hackers Used Meta's AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)<!-- HN:48361346:end --><!-- HN:48352627:start -->
-* [48352627](https://news.social-protocols.org/stats?id=48352627) #24 92 points 194 comments -> [Surface Laptop Ultra: Made for World Makers](https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/)<!-- HN:48352627:end -->
 #### **Tuesday, June 2, 2026**
 <!-- HN:48367253:start -->
 * [48367253](https://news.social-protocols.org/stats?id=48367253) #9 -> [Cloudflare CDN Pricing 2026: Real Cost per GB, Hidden Fees and Best Alternatives](https://blog.blazingcdn.com/en-us/what-is-the-price-per-gb-of-cloudflare-cdn)<!-- HN:48367253:end --><!-- HN:48367009:start -->
