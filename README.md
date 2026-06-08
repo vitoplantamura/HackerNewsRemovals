@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48437814](https://news.social-protocols.org/stats?id=48437814) #26 7 points 0 comments -> [Iran says staff blocked from entering US after players given World Cup visas](https://www.bbc.com/news/articles/cy8286nqz87o)<!-- HN:48437814:end -->
 #### **Monday, June 8, 2026**
 <!-- HN:48404070:start -->
-* [48404070](https://news.social-protocols.org/stats?id=48404070) #16 5 points 3 comments -> [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)<!-- HN:48404070:end -->
+* [48404070](https://news.social-protocols.org/stats?id=48404070) #16 5 points 3 comments -> [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)<!-- HN:48404070:end --><!-- HN:48438754:start -->
+* [48438754](https://news.social-protocols.org/stats?id=48438754) #17 20 points 15 comments -> [VibeOS: First ever AI-native operating system](https://vibeos.sh/)<!-- HN:48438754:end -->
