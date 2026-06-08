@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 8, 2026**
 <!-- HN:48404070:start -->
 * [48404070](https://news.social-protocols.org/stats?id=48404070) #16 5 points 3 comments -> [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)<!-- HN:48404070:end --><!-- HN:48438754:start -->
-* [48438754](https://news.social-protocols.org/stats?id=48438754) #17 20 points 15 comments -> [VibeOS: First ever AI-native operating system](https://vibeos.sh/)<!-- HN:48438754:end -->
+* [48438754](https://news.social-protocols.org/stats?id=48438754) #17 20 points 15 comments -> [VibeOS: First ever AI-native operating system](https://vibeos.sh/)<!-- HN:48438754:end --><!-- HN:48439709:start -->
+* [48439709](https://news.social-protocols.org/stats?id=48439709) #27 13 points 2 comments -> [US troops, families adjust to new normal of Iran war](https://www.reuters.com/business/aerospace-defense/us-troops-families-adjust-to-new-normal-iran-war-2026-06-07/)<!-- HN:48439709:end -->
