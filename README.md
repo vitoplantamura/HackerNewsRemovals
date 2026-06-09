@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, June 2, 2026**
-<!-- HN:48367253:start -->
-* [48367253](https://news.social-protocols.org/stats?id=48367253) #9 -> [Cloudflare CDN Pricing 2026: Real Cost per GB, Hidden Fees and Best Alternatives](https://blog.blazingcdn.com/en-us/what-is-the-price-per-gb-of-cloudflare-cdn)<!-- HN:48367253:end --><!-- HN:48367009:start -->
-* [48367009](https://news.social-protocols.org/stats?id=48367009) #23 5 points 3 comments -> [Not Every Byte Gets a Vote](https://mitander.xyz/posts/not-every-byte-gets-a-vote/)<!-- HN:48367009:end --><!-- HN:48368456:start -->
-* [48368456](https://news.social-protocols.org/stats?id=48368456) #25 6 points 0 comments -> [A Zipper Patent Sat in a Garage for 40 Years. Now It's Real.](https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/)<!-- HN:48368456:end --><!-- HN:48357075:start -->
-* [48357075](https://news.social-protocols.org/stats?id=48357075) #26 529 points 49 comments -> [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)<!-- HN:48357075:end --><!-- HN:48371671:start -->
-* [48371671](https://news.social-protocols.org/stats?id=48371671) #22 -> ["I was just scammed for $500K by Polymarket."](https://xcancel.com/willo2_Poly/status/2061640812132516321)<!-- HN:48371671:end --><!-- HN:48375544:start -->
-* [48375544](https://news.social-protocols.org/stats?id=48375544) #3 55 points 27 comments -> [Uber caps employee AI spending after blowing through budget in four months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)<!-- HN:48375544:end --><!-- HN:48377014:start -->
-* [48377014](https://news.social-protocols.org/stats?id=48377014) #7 -> [I got tired of proprietary supplement blends, so I open-sourced my formulas](https://nuc.luyml.com)<!-- HN:48377014:end -->
 #### **Wednesday, June 3, 2026**
 <!-- HN:48378099:start -->
 * [48378099](https://news.social-protocols.org/stats?id=48378099) #30 60 points 56 comments -> [I Don't Want My Search Engine to Think for Me](https://searchzee.com/blog/search-without-ai-summaries)<!-- HN:48378099:end --><!-- HN:48377631:start -->
