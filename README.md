@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, June 9, 2026**
 <!-- HN:48453873:start -->
 * [48453873](https://news.social-protocols.org/stats?id=48453873) #29 10 points 1 comments -> [Remembering the USS Liberty – and why it still matters](https://captimes.com/opinion/guest-columns/opinion-remembering-the-uss-liberty-and-why-it-still-matters/article_5880cb7e-e863-4c1b-95fb-dfdc5b3e4de2.html)<!-- HN:48453873:end --><!-- HN:48419000:start -->
-* [48419000](https://news.social-protocols.org/stats?id=48419000) #28 49 points 27 comments -> [Hermes Agent – Open-Source AI Agent with Persistent Memory](https://hermes-agent.org/)<!-- HN:48419000:end -->
+* [48419000](https://news.social-protocols.org/stats?id=48419000) #28 49 points 27 comments -> [Hermes Agent – Open-Source AI Agent with Persistent Memory](https://hermes-agent.org/)<!-- HN:48419000:end --><!-- HN:48456104:start -->
+* [48456104](https://news.social-protocols.org/stats?id=48456104) #3 8 points 2 comments -> [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)<!-- HN:48456104:end -->
