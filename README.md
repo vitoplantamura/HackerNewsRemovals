@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48384630](https://news.social-protocols.org/stats?id=48384630) #22 34 points 0 comments -> [Mutation Testing in Haskell](https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell)<!-- HN:48384630:end -->
 #### **Tuesday, June 9, 2026**
 <!-- HN:48453873:start -->
-* [48453873](https://news.social-protocols.org/stats?id=48453873) #29 10 points 1 comments -> [Remembering the USS Liberty – and why it still matters](https://captimes.com/opinion/guest-columns/opinion-remembering-the-uss-liberty-and-why-it-still-matters/article_5880cb7e-e863-4c1b-95fb-dfdc5b3e4de2.html)<!-- HN:48453873:end -->
+* [48453873](https://news.social-protocols.org/stats?id=48453873) #29 10 points 1 comments -> [Remembering the USS Liberty – and why it still matters](https://captimes.com/opinion/guest-columns/opinion-remembering-the-uss-liberty-and-why-it-still-matters/article_5880cb7e-e863-4c1b-95fb-dfdc5b3e4de2.html)<!-- HN:48453873:end --><!-- HN:48419000:start -->
+* [48419000](https://news.social-protocols.org/stats?id=48419000) #28 49 points 27 comments -> [Hermes Agent – Open-Source AI Agent with Persistent Memory](https://hermes-agent.org/)<!-- HN:48419000:end -->
