@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, June 3, 2026**
-<!-- HN:48378099:start -->
-* [48378099](https://news.social-protocols.org/stats?id=48378099) #30 60 points 56 comments -> [I Don't Want My Search Engine to Think for Me](https://searchzee.com/blog/search-without-ai-summaries)<!-- HN:48378099:end --><!-- HN:48377631:start -->
-* [48377631](https://news.social-protocols.org/stats?id=48377631) #12 49 points 30 comments -> [LLMs are not the black box you were promised](https://www.jay.ai/blog/llms-are-not-a-black-box)<!-- HN:48377631:end --><!-- HN:48378995:start -->
-* [48378995](https://news.social-protocols.org/stats?id=48378995) #22 11 points 40 comments -> [Can A.I. Produce Writing That We Want to Read?](https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read)<!-- HN:48378995:end --><!-- HN:48382782:start -->
-* [48382782](https://news.social-protocols.org/stats?id=48382782) #4 8 points 3 comments -> [Did Claude Opus 4.8 distill Alibaba's Qwen? Here's what the evidence says](https://blog.kilo.ai/p/did-claude-opus-48-distill-alibabas)<!-- HN:48382782:end --><!-- HN:48341806:start -->
-* [48341806](https://news.social-protocols.org/stats?id=48341806) #17 19 points 7 comments -> [OpenRidingController – DIY horse riding controller for the PC](https://github.com/Squalius-cephalus/OpenRidingController)<!-- HN:48341806:end --><!-- HN:48383018:start -->
-* [48383018](https://news.social-protocols.org/stats?id=48383018) #7 39 points 41 comments -> [Bun Has Been Converted to Rust. Now What?](https://bytecode.news/posts/2026/06/bun-has-been-converted-to-rust-now-what)<!-- HN:48383018:end --><!-- HN:48383248:start -->
-* [48383248](https://news.social-protocols.org/stats?id=48383248) #9 17 points 19 comments -> [Which sparkling water is the best?](https://www.maximevidal.com/sparkling-water)<!-- HN:48383248:end --><!-- HN:48383451:start -->
-* [48383451](https://news.social-protocols.org/stats?id=48383451) #13 22 points 8 comments -> [Take Action: LAPD Removed Crime Location Data. Here's Why It Matters](https://blog.spotcrime.com/2026/06/take-action-lapd-removed-crime-location.html)<!-- HN:48383451:end --><!-- HN:48378349:start -->
-* [48378349](https://news.social-protocols.org/stats?id=48378349) #23 16 points 3 comments -> [I Found a Bug in Apple's Fsck_hfs](https://medium.com/@kivancgunalp/i-found-a-bug-in-apples-fsck-hfs-here-s-how-i-tracked-it-down-edc782ce5cf9)<!-- HN:48378349:end -->
 #### **Thursday, June 4, 2026**<!-- HN:48400544:start -->
 * [48400544](https://news.social-protocols.org/stats?id=48400544) #13 7 points 7 comments -> [Show HN: Open Terminal – A Bloomberg Style App for Research](https://tesseractanalytics.ai/)<!-- HN:48400544:end --><!-- HN:48355607:start -->
 * [48355607](https://news.social-protocols.org/stats?id=48355607) #18 74 points 71 comments -> [Now Is the Best Time to Be a Duct Tape Engineer](https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23)<!-- HN:48355607:end --><!-- HN:48402052:start -->
