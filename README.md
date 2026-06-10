@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48458890](https://news.social-protocols.org/stats?id=48458890) #2 320 points 3 comments -> [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)<!-- HN:48458890:end --><!-- HN:48461522:start -->
 * [48461522](https://news.social-protocols.org/stats?id=48461522) #29 6 points 1 comments -> [I ran an arbitrage bot on Polymarket. Here are the real numbers](https://kacho.io/polymarket-arbitrage-real-numbers)<!-- HN:48461522:end --><!-- HN:48463811:start -->
 * [48463811](https://news.social-protocols.org/stats?id=48463811) #3 205 points 1 comments -> [System Card: Claude Fable 5 and Claude Mythos 5 [pdf]](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf)<!-- HN:48463811:end -->
+#### **Wednesday, June 10, 2026**
+<!-- HN:48470557:start -->
+* [48470557](https://news.social-protocols.org/stats?id=48470557) #5 4 points 2 comments -> [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/)<!-- HN:48470557:end -->
