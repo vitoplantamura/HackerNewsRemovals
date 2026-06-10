@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48463811](https://news.social-protocols.org/stats?id=48463811) #3 205 points 1 comments -> [System Card: Claude Fable 5 and Claude Mythos 5 [pdf]](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf)<!-- HN:48463811:end -->
 #### **Wednesday, June 10, 2026**
 <!-- HN:48470557:start -->
-* [48470557](https://news.social-protocols.org/stats?id=48470557) #5 4 points 2 comments -> [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/)<!-- HN:48470557:end -->
+* [48470557](https://news.social-protocols.org/stats?id=48470557) #5 4 points 2 comments -> [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/)<!-- HN:48470557:end --><!-- HN:48473731:start -->
+* [48473731](https://news.social-protocols.org/stats?id=48473731) #27 23 points 12 comments -> [Notepad++ Zero-Click RCE via Path Traversal (CVE-2026-52884)](https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-p58x-r3c9-x9p6)<!-- HN:48473731:end -->
