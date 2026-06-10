@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, June 10, 2026**
 <!-- HN:48470557:start -->
 * [48470557](https://news.social-protocols.org/stats?id=48470557) #5 4 points 2 comments -> [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/)<!-- HN:48470557:end --><!-- HN:48473731:start -->
-* [48473731](https://news.social-protocols.org/stats?id=48473731) #27 23 points 12 comments -> [Notepad++ Zero-Click RCE via Path Traversal (CVE-2026-52884)](https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-p58x-r3c9-x9p6)<!-- HN:48473731:end -->
+* [48473731](https://news.social-protocols.org/stats?id=48473731) #27 23 points 12 comments -> [Notepad++ Zero-Click RCE via Path Traversal (CVE-2026-52884)](https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-p58x-r3c9-x9p6)<!-- HN:48473731:end --><!-- HN:48476514:start -->
+* [48476514](https://news.social-protocols.org/stats?id=48476514) #16 14 points 14 comments -> [GnuCash is right. It's also why I built my own finance app](https://k-id.app/blog/gnucash-is-right/)<!-- HN:48476514:end -->
