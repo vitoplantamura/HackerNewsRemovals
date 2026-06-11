@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48482955](https://news.social-protocols.org/stats?id=48482955) #12 30 points 35 comments -> [Organic foods are not healthier or pesticide free](https://news.immunologic.org/p/organic-foods-are-not-healthieror)<!-- HN:48482955:end -->
 #### **Thursday, June 11, 2026**
 <!-- HN:48484475:start -->
-* [48484475](https://news.social-protocols.org/stats?id=48484475) #6 8 points 2 comments -> [Aws.com and google.com don't have DNSSEC enabled](https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053)<!-- HN:48484475:end -->
+* [48484475](https://news.social-protocols.org/stats?id=48484475) #6 8 points 2 comments -> [Aws.com and google.com don't have DNSSEC enabled](https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053)<!-- HN:48484475:end --><!-- HN:48484695:start -->
+* [48484695](https://news.social-protocols.org/stats?id=48484695) #13 8 points 3 comments -> [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)<!-- HN:48484695:end -->
