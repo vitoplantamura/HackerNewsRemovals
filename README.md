@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, June 4, 2026**<!-- HN:48400544:start -->
-* [48400544](https://news.social-protocols.org/stats?id=48400544) #13 7 points 7 comments -> [Show HN: Open Terminal – A Bloomberg Style App for Research](https://tesseractanalytics.ai/)<!-- HN:48400544:end --><!-- HN:48355607:start -->
-* [48355607](https://news.social-protocols.org/stats?id=48355607) #18 74 points 71 comments -> [Now Is the Best Time to Be a Duct Tape Engineer](https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23)<!-- HN:48355607:end --><!-- HN:48402052:start -->
-* [48402052](https://news.social-protocols.org/stats?id=48402052) #7 24 points 42 comments -> [Fear and Social Pressure Are 'Overarming' the U.S.](https://home.dartmouth.edu/news/2026/06/how-fear-and-social-pressure-are-overarming-us)<!-- HN:48402052:end --><!-- HN:48404434:start -->
-* [48404434](https://news.social-protocols.org/stats?id=48404434) #26 11 points 14 comments -> [Most men lie about how tall they are](https://www.newyorker.com/culture/the-lede/the-men-who-lie-about-their-height)<!-- HN:48404434:end --><!-- HN:48363683:start -->
-* [48363683](https://news.social-protocols.org/stats?id=48363683) #15 9 points 1 comments -> [My two light switches got stuck in an infinite echo loop](https://docodethatmatters.com/the-infinite-echo-state-mirror-bug/)<!-- HN:48363683:end -->
 #### **Friday, June 5, 2026**
 <!-- HN:48406328:start -->
 * [48406328](https://news.social-protocols.org/stats?id=48406328) #11 6 points 2 comments -> [Bricks and Minifigs Parts Ways with Franchise Owners](https://bricksandminifigs.com/blog/blog/2026/06/04/bricks-and-minifigs-salem-joshua-johnson-brandon-best-resignation/)<!-- HN:48406328:end --><!-- HN:48407068:start -->
