@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, June 5, 2026**
-<!-- HN:48406328:start -->
-* [48406328](https://news.social-protocols.org/stats?id=48406328) #11 6 points 2 comments -> [Bricks and Minifigs Parts Ways with Franchise Owners](https://bricksandminifigs.com/blog/blog/2026/06/04/bricks-and-minifigs-salem-joshua-johnson-brandon-best-resignation/)<!-- HN:48406328:end --><!-- HN:48407068:start -->
-* [48407068](https://news.social-protocols.org/stats?id=48407068) #10 22 points 41 comments -> [What happens if Japan takes in zero immigrants?](https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero)<!-- HN:48407068:end --><!-- HN:48407753:start -->
-* [48407753](https://news.social-protocols.org/stats?id=48407753) #14 35 points 15 comments -> [SpaceX: Flying High on Impunity](https://georgiebc.wordpress.com/2026/06/01/flying-high-on-impunity/)<!-- HN:48407753:end --><!-- HN:48411542:start -->
-* [48411542](https://news.social-protocols.org/stats?id=48411542) #27 19 points 12 comments -> [Ad Blocker Test – Check If Your Ad Blocker Works](https://adblock.turtlecute.org/)<!-- HN:48411542:end --><!-- HN:48414974:start -->
-* [48414974](https://news.social-protocols.org/stats?id=48414974) #9 11 points 6 comments -> [Am I Unc?](https://amiunc.com/)<!-- HN:48414974:end --><!-- HN:48415279:start -->
-* [48415279](https://news.social-protocols.org/stats?id=48415279) #5 46 points 2 comments -> [Adyen Selected as Payment Services Provider for GOV.UK Pay](https://www.adyen.com/press-and-media/adyen-payments-gov-uk)<!-- HN:48415279:end --><!-- HN:48418949:start -->
-* [48418949](https://news.social-protocols.org/stats?id=48418949) #13 23 points 21 comments -> [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)<!-- HN:48418949:end -->
 #### **Saturday, June 6, 2026**
 <!-- HN:48419023:start -->
 * [48419023](https://news.social-protocols.org/stats?id=48419023) #20 66 points 2 comments -> [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)<!-- HN:48419023:end --><!-- HN:48385990:start -->
