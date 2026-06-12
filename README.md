@@ -100,3 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48484695](https://news.social-protocols.org/stats?id=48484695) #13 8 points 3 comments -> [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)<!-- HN:48484695:end --><!-- HN:48446554:start -->
 * [48446554](https://news.social-protocols.org/stats?id=48446554) #12 10 points 2 comments -> [Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC](https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation)<!-- HN:48446554:end --><!-- HN:48493786:start -->
 * [48493786](https://news.social-protocols.org/stats?id=48493786) #25 7 points 4 comments -> [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)<!-- HN:48493786:end -->
+#### **Friday, June 12, 2026**
+<!-- HN:48449899:start -->
+* [48449899](https://news.social-protocols.org/stats?id=48449899) #22 16 points 2 comments -> [I Stopped Fighting My Tools and Built a Game Engine in D](https://blog.dlang.org/2026/05/29/i-stopped-fighting-my-tools-and-built-a-game-engine-in-d/)<!-- HN:48449899:end -->
