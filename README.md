@@ -97,3 +97,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48508649](https://news.social-protocols.org/stats?id=48508649) #24 -> [Kagi Magic](https://kagi.com/magic)<!-- HN:48508649:end --><!-- HN:48510082:start -->
 * [48510082](https://news.social-protocols.org/stats?id=48510082) #26 13 points 0 comments -> [Satellite images reveal Putin is preparing for war with Europe](https://www.dailymail.com/news/article-15894289/Warnings-Putin-preparing-larger-war-Europe-satellite-images-reveal-military-expansion-NATO-border.html)<!-- HN:48510082:end --><!-- HN:48508949:start -->
 * [48508949](https://news.social-protocols.org/stats?id=48508949) #23 31 points 24 comments -> [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)<!-- HN:48508949:end -->
+#### **Saturday, June 13, 2026**
+<!-- HN:48510230:start -->
+* [48510230](https://news.social-protocols.org/stats?id=48510230) #26 24 points 22 comments -> [DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26)<!-- HN:48510230:end -->
