@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, June 13, 2026**
 <!-- HN:48510230:start -->
 * [48510230](https://news.social-protocols.org/stats?id=48510230) #26 24 points 22 comments -> [DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26)<!-- HN:48510230:end --><!-- HN:48511121:start -->
-* [48511121](https://news.social-protocols.org/stats?id=48511121) #3 242 points 123 comments -> [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)<!-- HN:48511121:end -->
+* [48511121](https://news.social-protocols.org/stats?id=48511121) #3 242 points 123 comments -> [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)<!-- HN:48511121:end --><!-- HN:48510357:start -->
+* [48510357](https://news.social-protocols.org/stats?id=48510357) #29 89 points 9 comments -> [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)<!-- HN:48510357:end -->
