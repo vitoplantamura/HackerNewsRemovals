@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, June 6, 2026**
-<!-- HN:48419023:start -->
-* [48419023](https://news.social-protocols.org/stats?id=48419023) #20 66 points 2 comments -> [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)<!-- HN:48419023:end --><!-- HN:48385990:start -->
-* [48385990](https://news.social-protocols.org/stats?id=48385990) #21 11 points 4 comments -> [What 100k concurrent sandboxes has taught us so far](https://www.computesdk.com/blog/scale-invitational-update/)<!-- HN:48385990:end --><!-- HN:48423381:start -->
-* [48423381](https://news.social-protocols.org/stats?id=48423381) #20 8 points 4 comments -> [Is anyone here interested in contributing to this OS?](https://github.com/valivalivali/x-os)<!-- HN:48423381:end --><!-- HN:48423541:start -->
-* [48423541](https://news.social-protocols.org/stats?id=48423541) #13 36 points 31 comments -> [Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)<!-- HN:48423541:end --><!-- HN:48425983:start -->
-* [48425983](https://news.social-protocols.org/stats?id=48425983) #7 14 points 2 comments -> [AI didn't break the web. The dotcons did – AI just turned up the volume](https://hamishcampbell.com/ai-didnt-break-the-web-the-dotcons-did-ai-just-turned-up-the-volume/)<!-- HN:48425983:end --><!-- HN:48396417:start -->
-* [48396417](https://news.social-protocols.org/stats?id=48396417) #13 14 points 3 comments -> [Lambda isn't leaking memory, your metrics are lying to you](https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/)<!-- HN:48396417:end --><!-- HN:48429343:start -->
-* [48429343](https://news.social-protocols.org/stats?id=48429343) #2 9 points 1 comments -> [They are looting your life savings](https://social.bau-ha.us/@raganwald/116705256401454865)<!-- HN:48429343:end --><!-- HN:48428796:start -->
-* [48428796](https://news.social-protocols.org/stats?id=48428796) #15 36 points 19 comments -> [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)<!-- HN:48428796:end --><!-- HN:48423990:start -->
-* [48423990](https://news.social-protocols.org/stats?id=48423990) #14 404 points 2 comments -> [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)<!-- HN:48423990:end --><!-- HN:48429940:start -->
-* [48429940](https://news.social-protocols.org/stats?id=48429940) #17 14 points 7 comments -> [No Babies? Blame Capitalism](https://jacobin.com/2026/06/birth-rates-capitalism-socialism-germany)<!-- HN:48429940:end -->
 #### **Sunday, June 7, 2026**<!-- HN:48358339:start -->
 * [48358339](https://news.social-protocols.org/stats?id=48358339) #22 20 points 4 comments -> [PyTorch Custom Operation](https://leimao.github.io/blog/PyTorch-Custom-Operation/)<!-- HN:48358339:end --><!-- HN:48348876:start -->
 * [48348876](https://news.social-protocols.org/stats?id=48348876) #26 87 points 18 comments -> [Building Rust Procedural Macros from the Grounds Up](https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html)<!-- HN:48348876:end --><!-- HN:48430693:start -->
