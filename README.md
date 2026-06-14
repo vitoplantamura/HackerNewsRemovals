@@ -102,5 +102,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48522555:start -->
 * [48522555](https://news.social-protocols.org/stats?id=48522555) #14 31 points 18 comments -> [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)<!-- HN:48522555:end --><!-- HN:48522237:start -->
 * [48522237](https://news.social-protocols.org/stats?id=48522237) #26 28 points 2 comments -> [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)<!-- HN:48522237:end --><!-- HN:48526028:start -->
-* [48526028](https://news.social-protocols.org/stats?id=48526028) #20 5 points 2 comments -> [UK police officer under criminal investigation over alleged use of AI](https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6)<!-- HN:48526028:end --><!-- HN:48526360:start -->
-* [48526360](https://news.social-protocols.org/stats?id=48526360) #6 27 points 40 comments -> [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)<!-- HN:48526360:end -->
+* [48526028](https://news.social-protocols.org/stats?id=48526028) #20 5 points 2 comments -> [UK police officer under criminal investigation over alleged use of AI](https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6)<!-- HN:48526028:end -->
