@@ -98,3 +98,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48467028](https://news.social-protocols.org/stats?id=48467028) #28 19 points 15 comments -> [Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires](https://www.motor1.com/news/798011/route-66-missouri-musical-road/)<!-- HN:48467028:end --><!-- HN:48519567:start -->
 * [48519567](https://news.social-protocols.org/stats?id=48519567) #28 33 points 19 comments -> [Show HN: Verso – A $14.99 Mac word processor with no subscription](https://www.versowriter.app)<!-- HN:48519567:end --><!-- HN:48520305:start -->
 * [48520305](https://news.social-protocols.org/stats?id=48520305) #13 3 points 0 comments -> [Best YouTube Downloader Alternatives That Work in 2026](https://www.youtubexx.com/)<!-- HN:48520305:end -->
+#### **Sunday, June 14, 2026**
+<!-- HN:48522555:start -->
+* [48522555](https://news.social-protocols.org/stats?id=48522555) #14 31 points 18 comments -> [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)<!-- HN:48522555:end -->
