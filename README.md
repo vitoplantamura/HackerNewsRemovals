@@ -100,4 +100,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48520305](https://news.social-protocols.org/stats?id=48520305) #13 3 points 0 comments -> [Best YouTube Downloader Alternatives That Work in 2026](https://www.youtubexx.com/)<!-- HN:48520305:end -->
 #### **Sunday, June 14, 2026**
 <!-- HN:48522555:start -->
-* [48522555](https://news.social-protocols.org/stats?id=48522555) #14 31 points 18 comments -> [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)<!-- HN:48522555:end -->
+* [48522555](https://news.social-protocols.org/stats?id=48522555) #14 31 points 18 comments -> [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)<!-- HN:48522555:end --><!-- HN:48522237:start -->
+* [48522237](https://news.social-protocols.org/stats?id=48522237) #26 28 points 2 comments -> [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)<!-- HN:48522237:end -->
