@@ -101,5 +101,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 14, 2026**
 <!-- HN:48522555:start -->
 * [48522555](https://news.social-protocols.org/stats?id=48522555) #14 31 points 18 comments -> [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)<!-- HN:48522555:end --><!-- HN:48522237:start -->
-* [48522237](https://news.social-protocols.org/stats?id=48522237) #26 28 points 2 comments -> [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)<!-- HN:48522237:end --><!-- HN:48473509:start -->
-* [48473509](https://news.social-protocols.org/stats?id=48473509) #19 11 points 2 comments -> [The Field Guide to CSS Grid Lanes](https://gridlanes.webkit.org/)<!-- HN:48473509:end -->
+* [48522237](https://news.social-protocols.org/stats?id=48522237) #26 28 points 2 comments -> [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)<!-- HN:48522237:end -->
