@@ -97,4 +97,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 15, 2026**
 <!-- HN:48533736:start -->
 * [48533736](https://news.social-protocols.org/stats?id=48533736) #15 35 points 34 comments -> [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)<!-- HN:48533736:end --><!-- HN:48533829:start -->
-* [48533829](https://news.social-protocols.org/stats?id=48533829) #3 26 points 43 comments -> [What even is food authenticity? Why we guard carbonara, and flatten chicken rice](https://iza.ac/posts/2026/06/food-authenticity/)<!-- HN:48533829:end -->
+* [48533829](https://news.social-protocols.org/stats?id=48533829) #3 26 points 43 comments -> [What even is food authenticity? Why we guard carbonara, and flatten chicken rice](https://iza.ac/posts/2026/06/food-authenticity/)<!-- HN:48533829:end --><!-- HN:48535118:start -->
+* [48535118](https://news.social-protocols.org/stats?id=48535118) #2 86 points 13 comments -> [The rich aren't your role models](https://theslowburningfuse.wordpress.com/2026/06/14/the-rich-arent-your-role-models-theyre-your-oppressors/)<!-- HN:48535118:end -->
