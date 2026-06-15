@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 8, 2026**
-<!-- HN:48404070:start -->
-* [48404070](https://news.social-protocols.org/stats?id=48404070) #16 5 points 3 comments -> [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)<!-- HN:48404070:end --><!-- HN:48438754:start -->
-* [48438754](https://news.social-protocols.org/stats?id=48438754) #17 20 points 15 comments -> [VibeOS: First ever AI-native operating system](https://vibeos.sh/)<!-- HN:48438754:end --><!-- HN:48439709:start -->
-* [48439709](https://news.social-protocols.org/stats?id=48439709) #27 13 points 2 comments -> [US troops, families adjust to new normal of Iran war](https://www.reuters.com/business/aerospace-defense/us-troops-families-adjust-to-new-normal-iran-war-2026-06-07/)<!-- HN:48439709:end --><!-- HN:48369703:start -->
-* [48369703](https://news.social-protocols.org/stats?id=48369703) #16 28 points 19 comments -> [A Fundamental Principle of Aeronautical Engineering Has Been Overturned](https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html)<!-- HN:48369703:end --><!-- HN:48397765:start -->
-* [48397765](https://news.social-protocols.org/stats?id=48397765) #19 38 points 35 comments -> [Learn PHP in 2026 (Yes, Really)](https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84)<!-- HN:48397765:end --><!-- HN:48440811:start -->
-* [48440811](https://news.social-protocols.org/stats?id=48440811) #11 20 points 11 comments -> [90210 – running the show without property tax](https://github.com/Achint08/90210)<!-- HN:48440811:end --><!-- HN:48444543:start -->
-* [48444543](https://news.social-protocols.org/stats?id=48444543) #11 60 points 28 comments -> [The iPhone explains 33–52% of fertility decline among women aged 15–44](https://www.nber.org/papers/w35310)<!-- HN:48444543:end --><!-- HN:48386689:start -->
-* [48386689](https://news.social-protocols.org/stats?id=48386689) #9 18 points 13 comments -> [The 15-minute city is a dead end](https://blogs.lse.ac.uk/covid19/2021/05/28/the-15-minute-city-is-a-dead-end-cities-must-be-places-of-opportunity-for-everyone/)<!-- HN:48386689:end --><!-- HN:48446899:start -->
-* [48446899](https://news.social-protocols.org/stats?id=48446899) #21 18 points 3 comments -> [Proton is funding the French far right on YouTube](https://old.reddit.com/r/degoogle/comments/1tzbizh/proton_is_funding_the_french_far_right_on_youtube)<!-- HN:48446899:end --><!-- HN:48384630:start -->
-* [48384630](https://news.social-protocols.org/stats?id=48384630) #22 34 points 0 comments -> [Mutation Testing in Haskell](https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell)<!-- HN:48384630:end -->
 #### **Tuesday, June 9, 2026**
 <!-- HN:48453873:start -->
 * [48453873](https://news.social-protocols.org/stats?id=48453873) #29 10 points 1 comments -> [Remembering the USS Liberty – and why it still matters](https://captimes.com/opinion/guest-columns/opinion-remembering-the-uss-liberty-and-why-it-still-matters/article_5880cb7e-e863-4c1b-95fb-dfdc5b3e4de2.html)<!-- HN:48453873:end --><!-- HN:48419000:start -->
