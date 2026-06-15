@@ -96,4 +96,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48531986](https://news.social-protocols.org/stats?id=48531986) #7 7 points 6 comments -> [Bring Siri AI to EU iPhone Users Safely](https://siri4eu.com)<!-- HN:48531986:end -->
 #### **Monday, June 15, 2026**
 <!-- HN:48533736:start -->
-* [48533736](https://news.social-protocols.org/stats?id=48533736) #15 35 points 34 comments -> [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)<!-- HN:48533736:end -->
+* [48533736](https://news.social-protocols.org/stats?id=48533736) #15 35 points 34 comments -> [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)<!-- HN:48533736:end --><!-- HN:48533829:start -->
+* [48533829](https://news.social-protocols.org/stats?id=48533829) #3 26 points 43 comments -> [What even is food authenticity? Why we guard carbonara, and flatten chicken rice](https://iza.ac/posts/2026/06/food-authenticity/)<!-- HN:48533829:end -->
