@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48492548](https://news.social-protocols.org/stats?id=48492548) #8 16 points 4 comments -> [Bots flooded my anti-bot startup with 55,000 fake signups](https://humaverify.com/blog/anatomy-of-a-55k-bot-attack)<!-- HN:48492548:end --><!-- HN:48546648:start -->
 * [48546648](https://news.social-protocols.org/stats?id=48546648) #20 20 points 3 comments -> [Commander Keen Games (free book)](https://forgottenbytes.net/)<!-- HN:48546648:end -->
 #### **Tuesday, June 16, 2026**<!-- HN:48553438:start -->
-* [48553438](https://news.social-protocols.org/stats?id=48553438) #15 4 points 1 comments -> [Electrifying the Cow Path](https://sebas.fika.bar/electrifying-the-cow-path-01KSJS9QM201WECVBBV2HKAV6M)<!-- HN:48553438:end -->
+* [48553438](https://news.social-protocols.org/stats?id=48553438) #15 4 points 1 comments -> [Electrifying the Cow Path](https://sebas.fika.bar/electrifying-the-cow-path-01KSJS9QM201WECVBBV2HKAV6M)<!-- HN:48553438:end --><!-- HN:48554677:start -->
+* [48554677](https://news.social-protocols.org/stats?id=48554677) #7 6 points 8 comments -> [Show HN: Voice Age Verification](https://agewarden.ai/)<!-- HN:48554677:end -->
