@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, June 16, 2026**<!-- HN:48553438:start -->
 * [48553438](https://news.social-protocols.org/stats?id=48553438) #15 4 points 1 comments -> [Electrifying the Cow Path](https://sebas.fika.bar/electrifying-the-cow-path-01KSJS9QM201WECVBBV2HKAV6M)<!-- HN:48553438:end --><!-- HN:48554677:start -->
 * [48554677](https://news.social-protocols.org/stats?id=48554677) #7 6 points 8 comments -> [Show HN: Voice Age Verification](https://agewarden.ai/)<!-- HN:48554677:end --><!-- HN:48554208:start -->
-* [48554208](https://news.social-protocols.org/stats?id=48554208) #20 110 points 43 comments -> [Russian artist and Putin critic shot dead in Poland](https://www.bbc.com/news/articles/clyrzd5g6k2o)<!-- HN:48554208:end -->
+* [48554208](https://news.social-protocols.org/stats?id=48554208) #20 110 points 43 comments -> [Russian artist and Putin critic shot dead in Poland](https://www.bbc.com/news/articles/clyrzd5g6k2o)<!-- HN:48554208:end --><!-- HN:48554215:start -->
+* [48554215](https://news.social-protocols.org/stats?id=48554215) #20 264 points 299 comments -> [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo)<!-- HN:48554215:end -->
