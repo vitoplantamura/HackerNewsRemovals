@@ -103,5 +103,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48492548](https://news.social-protocols.org/stats?id=48492548) #8 16 points 4 comments -> [Bots flooded my anti-bot startup with 55,000 fake signups](https://humaverify.com/blog/anatomy-of-a-55k-bot-attack)<!-- HN:48492548:end --><!-- HN:48546648:start -->
 * [48546648](https://news.social-protocols.org/stats?id=48546648) #20 20 points 3 comments -> [Commander Keen Games (free book)](https://forgottenbytes.net/)<!-- HN:48546648:end -->
 #### **Tuesday, June 16, 2026**
-<!-- HN:48549628:start -->
-* [48549628](https://news.social-protocols.org/stats?id=48549628) #9 18 points 40 comments -> [Humanity isn't ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion)<!-- HN:48549628:end -->
