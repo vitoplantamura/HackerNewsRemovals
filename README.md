@@ -103,3 +103,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48556414](https://news.social-protocols.org/stats?id=48556414) #7 128 points 3 comments -> [Google Chrome's Next Update Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers)<!-- HN:48556414:end --><!-- HN:48558545:start -->
 * [48558545](https://news.social-protocols.org/stats?id=48558545) #6 40 points 23 comments -> [Gamers beware: malicious wallpapers on Steam found stealing accounts](https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/)<!-- HN:48558545:end --><!-- HN:48562274:start -->
 * [48562274](https://news.social-protocols.org/stats?id=48562274) #13 26 points 18 comments -> [Total Iran Economic Damage Estimate](https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/)<!-- HN:48562274:end -->
+#### **Wednesday, June 17, 2026**
+<!-- HN:48565130:start -->
+* [48565130](https://news.social-protocols.org/stats?id=48565130) #1 187 points 164 comments -> [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)<!-- HN:48565130:end -->
