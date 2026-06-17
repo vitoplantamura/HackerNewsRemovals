@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, June 10, 2026**
-<!-- HN:48470557:start -->
-* [48470557](https://news.social-protocols.org/stats?id=48470557) #5 4 points 2 comments -> [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/)<!-- HN:48470557:end --><!-- HN:48473731:start -->
-* [48473731](https://news.social-protocols.org/stats?id=48473731) #27 23 points 12 comments -> [Notepad++ Zero-Click RCE via Path Traversal (CVE-2026-52884)](https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-p58x-r3c9-x9p6)<!-- HN:48473731:end --><!-- HN:48476514:start -->
-* [48476514](https://news.social-protocols.org/stats?id=48476514) #16 14 points 14 comments -> [GnuCash is right. It's also why I built my own finance app](https://k-id.app/blog/gnucash-is-right/)<!-- HN:48476514:end --><!-- HN:48427324:start -->
-* [48427324](https://news.social-protocols.org/stats?id=48427324) #20 11 points 4 comments -> [A Server Called Mercury](https://kennethreitz.org/essays/2026-06-05-a_server_called_mercury)<!-- HN:48427324:end --><!-- HN:48482955:start -->
-* [48482955](https://news.social-protocols.org/stats?id=48482955) #12 30 points 35 comments -> [Organic foods are not healthier or pesticide free](https://news.immunologic.org/p/organic-foods-are-not-healthieror)<!-- HN:48482955:end -->
 #### **Thursday, June 11, 2026**
 <!-- HN:48484475:start -->
 * [48484475](https://news.social-protocols.org/stats?id=48484475) #6 8 points 2 comments -> [Aws.com and google.com don't have DNSSEC enabled](https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053)<!-- HN:48484475:end --><!-- HN:48484695:start -->
