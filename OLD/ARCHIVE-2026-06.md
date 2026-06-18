@@ -94,3 +94,9 @@
 * [48476514](https://news.ycombinator.com/item?id=48476514) #16 14 points 14 comments -> [GnuCash is right. It's also why I built my own finance app](https://k-id.app/blog/gnucash-is-right/)<!-- HN:48476514:end --><!-- HN:48427324:start -->
 * [48427324](https://news.ycombinator.com/item?id=48427324) #20 11 points 4 comments -> [A Server Called Mercury](https://kennethreitz.org/essays/2026-06-05-a_server_called_mercury)<!-- HN:48427324:end --><!-- HN:48482955:start -->
 * [48482955](https://news.ycombinator.com/item?id=48482955) #12 30 points 35 comments -> [Organic foods are not healthier or pesticide free](https://news.immunologic.org/p/organic-foods-are-not-healthieror)<!-- HN:48482955:end -->
+#### **Thursday, June 11, 2026**
+<!-- HN:48484475:start -->
+* [48484475](https://news.ycombinator.com/item?id=48484475) #6 8 points 2 comments -> [Aws.com and google.com don't have DNSSEC enabled](https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053)<!-- HN:48484475:end --><!-- HN:48484695:start -->
+* [48484695](https://news.ycombinator.com/item?id=48484695) #13 8 points 3 comments -> [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)<!-- HN:48484695:end --><!-- HN:48446554:start -->
+* [48446554](https://news.ycombinator.com/item?id=48446554) #12 10 points 2 comments -> [Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC](https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation)<!-- HN:48446554:end --><!-- HN:48493786:start -->
+* [48493786](https://news.ycombinator.com/item?id=48493786) #25 7 points 4 comments -> [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)<!-- HN:48493786:end -->
