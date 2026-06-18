@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, June 18, 2026**
 <!-- HN:48577208:start -->
 * [48577208](https://news.social-protocols.org/stats?id=48577208) #6 341 points 4 comments -> [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)<!-- HN:48577208:end --><!-- HN:48579718:start -->
-* [48579718](https://news.social-protocols.org/stats?id=48579718) #1 74 points 5 comments -> [Midjourney Ultrasonic CT Scanner](https://www.midjourney.com/medical/blogpost)<!-- HN:48579718:end -->
+* [48579718](https://news.social-protocols.org/stats?id=48579718) #1 74 points 5 comments -> [Midjourney Ultrasonic CT Scanner](https://www.midjourney.com/medical/blogpost)<!-- HN:48579718:end --><!-- HN:48573435:start -->
+* [48573435](https://news.social-protocols.org/stats?id=48573435) #19 134 points 107 comments -> [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)<!-- HN:48573435:end -->
