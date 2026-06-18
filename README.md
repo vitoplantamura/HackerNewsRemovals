@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48576307](https://news.social-protocols.org/stats?id=48576307) #24 22 points 11 comments -> [Apple Intelligence may become mandatory in iOS and macOS 27](https://manualdousuario.net/en/apple-intelligence-mandatory-ios-macos-27/)<!-- HN:48576307:end -->
 #### **Thursday, June 18, 2026**
 <!-- HN:48577208:start -->
-* [48577208](https://news.social-protocols.org/stats?id=48577208) #6 341 points 4 comments -> [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)<!-- HN:48577208:end -->
+* [48577208](https://news.social-protocols.org/stats?id=48577208) #6 341 points 4 comments -> [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)<!-- HN:48577208:end --><!-- HN:48579718:start -->
+* [48579718](https://news.social-protocols.org/stats?id=48579718) #1 74 points 5 comments -> [Midjourney Ultrasonic CT Scanner](https://www.midjourney.com/medical/blogpost)<!-- HN:48579718:end -->
