@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, June 19, 2026**
 <!-- HN:48539412:start -->
 * [48539412](https://news.social-protocols.org/stats?id=48539412) #27 24 points 13 comments -> [It doesn't matter if it works](https://henry.codes/writing/it-doesnt-matter-if-it-works/)<!-- HN:48539412:end --><!-- HN:48594012:start -->
-* [48594012](https://news.social-protocols.org/stats?id=48594012) #29 33 points 9 comments -> [GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It](https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/)<!-- HN:48594012:end -->
+* [48594012](https://news.social-protocols.org/stats?id=48594012) #29 33 points 9 comments -> [GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It](https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/)<!-- HN:48594012:end --><!-- HN:48523800:start -->
+* [48523800](https://news.social-protocols.org/stats?id=48523800) #30 24 points 18 comments -> [Automating my job away](https://austinhenley.com/blog/automatingmyjob.html)<!-- HN:48523800:end -->
