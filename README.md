@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48542963](https://news.social-protocols.org/stats?id=48542963) #26 15 points 28 comments -> [My LSM tree was slower than a B-tree. Then I profiled it](https://aasheesh.vercel.app/blog/lsm-tree)<!-- HN:48542963:end --><!-- HN:48590280:start -->
 * [48590280](https://news.social-protocols.org/stats?id=48590280) #17 9 points 1 comments -> [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)<!-- HN:48590280:end --><!-- HN:48591562:start -->
 * [48591562](https://news.social-protocols.org/stats?id=48591562) #6 52 points 18 comments -> [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)<!-- HN:48591562:end -->
+#### **Friday, June 19, 2026**
+<!-- HN:48539412:start -->
+* [48539412](https://news.social-protocols.org/stats?id=48539412) #27 24 points 13 comments -> [It doesn't matter if it works](https://henry.codes/writing/it-doesnt-matter-if-it-works/)<!-- HN:48539412:end -->
