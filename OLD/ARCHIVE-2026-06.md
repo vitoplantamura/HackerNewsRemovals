@@ -100,3 +100,12 @@
 * [48484695](https://news.ycombinator.com/item?id=48484695) #13 8 points 3 comments -> [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)<!-- HN:48484695:end --><!-- HN:48446554:start -->
 * [48446554](https://news.ycombinator.com/item?id=48446554) #12 10 points 2 comments -> [Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC](https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation)<!-- HN:48446554:end --><!-- HN:48493786:start -->
 * [48493786](https://news.ycombinator.com/item?id=48493786) #25 7 points 4 comments -> [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)<!-- HN:48493786:end -->
+#### **Friday, June 12, 2026**
+<!-- HN:48449899:start -->
+* [48449899](https://news.ycombinator.com/item?id=48449899) #22 16 points 2 comments -> [I Stopped Fighting My Tools and Built a Game Engine in D](https://blog.dlang.org/2026/05/29/i-stopped-fighting-my-tools-and-built-a-game-engine-in-d/)<!-- HN:48449899:end --><!-- HN:48505373:start -->
+* [48505373](https://news.ycombinator.com/item?id=48505373) #3 20 points 3 comments -> [Wasi: WebGPU – A Proposed WebAssembly System Interface API](https://github.com/WebAssembly/wasi-webgpu)<!-- HN:48505373:end --><!-- HN:48507836:start -->
+* [48507836](https://news.ycombinator.com/item?id=48507836) #13 69 points 17 comments -> [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)<!-- HN:48507836:end --><!-- HN:48505561:start -->
+* [48505561](https://news.ycombinator.com/item?id=48505561) #24 107 points 63 comments -> [Keygen.music](https://keygen.music)<!-- HN:48505561:end --><!-- HN:48508649:start -->
+* [48508649](https://news.ycombinator.com/item?id=48508649) #24 -> [Kagi Magic](https://kagi.com/magic)<!-- HN:48508649:end --><!-- HN:48510082:start -->
+* [48510082](https://news.ycombinator.com/item?id=48510082) #26 13 points 0 comments -> [Satellite images reveal Putin is preparing for war with Europe](https://www.dailymail.com/news/article-15894289/Warnings-Putin-preparing-larger-war-Europe-satellite-images-reveal-military-expansion-NATO-border.html)<!-- HN:48510082:end --><!-- HN:48508949:start -->
+* [48508949](https://news.ycombinator.com/item?id=48508949) #23 31 points 24 comments -> [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)<!-- HN:48508949:end -->

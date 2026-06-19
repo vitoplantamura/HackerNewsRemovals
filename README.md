@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, June 12, 2026**
-<!-- HN:48449899:start -->
-* [48449899](https://news.social-protocols.org/stats?id=48449899) #22 16 points 2 comments -> [I Stopped Fighting My Tools and Built a Game Engine in D](https://blog.dlang.org/2026/05/29/i-stopped-fighting-my-tools-and-built-a-game-engine-in-d/)<!-- HN:48449899:end --><!-- HN:48505373:start -->
-* [48505373](https://news.social-protocols.org/stats?id=48505373) #3 20 points 3 comments -> [Wasi: WebGPU – A Proposed WebAssembly System Interface API](https://github.com/WebAssembly/wasi-webgpu)<!-- HN:48505373:end --><!-- HN:48507836:start -->
-* [48507836](https://news.social-protocols.org/stats?id=48507836) #13 69 points 17 comments -> [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)<!-- HN:48507836:end --><!-- HN:48505561:start -->
-* [48505561](https://news.social-protocols.org/stats?id=48505561) #24 107 points 63 comments -> [Keygen.music](https://keygen.music)<!-- HN:48505561:end --><!-- HN:48508649:start -->
-* [48508649](https://news.social-protocols.org/stats?id=48508649) #24 -> [Kagi Magic](https://kagi.com/magic)<!-- HN:48508649:end --><!-- HN:48510082:start -->
-* [48510082](https://news.social-protocols.org/stats?id=48510082) #26 13 points 0 comments -> [Satellite images reveal Putin is preparing for war with Europe](https://www.dailymail.com/news/article-15894289/Warnings-Putin-preparing-larger-war-Europe-satellite-images-reveal-military-expansion-NATO-border.html)<!-- HN:48510082:end --><!-- HN:48508949:start -->
-* [48508949](https://news.social-protocols.org/stats?id=48508949) #23 31 points 24 comments -> [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)<!-- HN:48508949:end -->
 #### **Saturday, June 13, 2026**
 <!-- HN:48510230:start -->
 * [48510230](https://news.social-protocols.org/stats?id=48510230) #26 24 points 22 comments -> [DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26)<!-- HN:48510230:end --><!-- HN:48511121:start -->
