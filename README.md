@@ -116,4 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48527520](https://news.social-protocols.org/stats?id=48527520) #25 6 points 3 comments -> [Music generation using Algebra, presented as web MIDI shop](https://monictheory.com)<!-- HN:48527520:end -->
 #### **Saturday, June 20, 2026**
 <!-- HN:48554812:start -->
-* [48554812](https://news.social-protocols.org/stats?id=48554812) #10 11 points 0 comments -> [A Love Story](https://pudding.cool/2026/06/love-story/)<!-- HN:48554812:end -->
+* [48554812](https://news.social-protocols.org/stats?id=48554812) #10 11 points 0 comments -> [A Love Story](https://pudding.cool/2026/06/love-story/)<!-- HN:48554812:end --><!-- HN:48605778:start -->
+* [48605778](https://news.social-protocols.org/stats?id=48605778) #2 14 points 9 comments -> [XLibre XServer 25.2.0 Released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes)<!-- HN:48605778:end --><!-- HN:48604186:start -->
+* [48604186](https://news.social-protocols.org/stats?id=48604186) #10 195 points 110 comments -> [Americans express unease over SpaceX's influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk)<!-- HN:48604186:end -->
