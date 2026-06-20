@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, June 13, 2026**
-<!-- HN:48510230:start -->
-* [48510230](https://news.social-protocols.org/stats?id=48510230) #26 24 points 22 comments -> [DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26)<!-- HN:48510230:end --><!-- HN:48511121:start -->
-* [48511121](https://news.social-protocols.org/stats?id=48511121) #3 242 points 123 comments -> [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)<!-- HN:48511121:end --><!-- HN:48510357:start -->
-* [48510357](https://news.social-protocols.org/stats?id=48510357) #29 89 points 9 comments -> [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)<!-- HN:48510357:end --><!-- HN:48511168:start -->
-* [48511168](https://news.social-protocols.org/stats?id=48511168) #22 86 points 20 comments -> [As a result of a US Government directive, we are suspending access to Fable 5](https://twitter.com/ClaudeDevs/status/2065597942602531163)<!-- HN:48511168:end --><!-- HN:48511812:start -->
-* [48511812](https://news.social-protocols.org/stats?id=48511812) #24 16 points 2 comments -> [Anthropic's leaning in to the whole nanny state thing](https://honeypot.net/2026/06/12/anthropics-leaning-in-to-the.html)<!-- HN:48511812:end --><!-- HN:48515344:start -->
-* [48515344](https://news.social-protocols.org/stats?id=48515344) #12 3 points 0 comments -> [The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough](https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails)<!-- HN:48515344:end --><!-- HN:48516585:start -->
-* [48516585](https://news.social-protocols.org/stats?id=48516585) #6 12 points 11 comments -> [Thoughts on AI and Jobs](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)<!-- HN:48516585:end --><!-- HN:48516053:start -->
-* [48516053](https://news.social-protocols.org/stats?id=48516053) #20 8 points 8 comments -> [Labor Is a Market Distortion, we need VAT and UBI](https://wilsoniumite.com/2026/06/07/labor-is-a-market-distortion/)<!-- HN:48516053:end --><!-- HN:48467028:start -->
-* [48467028](https://news.social-protocols.org/stats?id=48467028) #28 19 points 15 comments -> [Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires](https://www.motor1.com/news/798011/route-66-missouri-musical-road/)<!-- HN:48467028:end --><!-- HN:48519567:start -->
-* [48519567](https://news.social-protocols.org/stats?id=48519567) #28 33 points 19 comments -> [Show HN: Verso – A $14.99 Mac word processor with no subscription](https://www.versowriter.app)<!-- HN:48519567:end --><!-- HN:48520305:start -->
-* [48520305](https://news.social-protocols.org/stats?id=48520305) #13 3 points 0 comments -> [Best YouTube Downloader Alternatives That Work in 2026](https://www.youtubexx.com/)<!-- HN:48520305:end -->
 #### **Sunday, June 14, 2026**
 <!-- HN:48522555:start -->
 * [48522555](https://news.social-protocols.org/stats?id=48522555) #14 31 points 18 comments -> [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)<!-- HN:48522555:end --><!-- HN:48522237:start -->
