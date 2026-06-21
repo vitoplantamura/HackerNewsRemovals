@@ -122,3 +122,11 @@
 * [48467028](https://news.ycombinator.com/item?id=48467028) #28 19 points 15 comments -> [Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires](https://www.motor1.com/news/798011/route-66-missouri-musical-road/)<!-- HN:48467028:end --><!-- HN:48519567:start -->
 * [48519567](https://news.ycombinator.com/item?id=48519567) #28 33 points 19 comments -> [Show HN: Verso – A $14.99 Mac word processor with no subscription](https://www.versowriter.app)<!-- HN:48519567:end --><!-- HN:48520305:start -->
 * [48520305](https://news.ycombinator.com/item?id=48520305) #13 3 points 0 comments -> [Best YouTube Downloader Alternatives That Work in 2026](https://www.youtubexx.com/)<!-- HN:48520305:end -->
+#### **Sunday, June 14, 2026**
+<!-- HN:48522555:start -->
+* [48522555](https://news.ycombinator.com/item?id=48522555) #14 31 points 18 comments -> [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)<!-- HN:48522555:end --><!-- HN:48522237:start -->
+* [48522237](https://news.ycombinator.com/item?id=48522237) #26 28 points 2 comments -> [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)<!-- HN:48522237:end --><!-- HN:48526028:start -->
+* [48526028](https://news.ycombinator.com/item?id=48526028) #20 5 points 2 comments -> [UK police officer under criminal investigation over alleged use of AI](https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6)<!-- HN:48526028:end --><!-- HN:48527392:start -->
+* [48527392](https://news.ycombinator.com/item?id=48527392) #27 -> [SpaceX, Adding It Up – The $235B Cash Gap](https://capefearadvisors.substack.com/p/spacex-adding-it-up-the-235-billion)<!-- HN:48527392:end --><!-- HN:48530048:start -->
+* [48530048](https://news.ycombinator.com/item?id=48530048) #13 -> [Amodei the Man Behind DeepSeek?](https://txt.fyi/e8f40392583842df)<!-- HN:48530048:end --><!-- HN:48531986:start -->
+* [48531986](https://news.ycombinator.com/item?id=48531986) #7 7 points 6 comments -> [Bring Siri AI to EU iPhone Users Safely](https://siri4eu.com)<!-- HN:48531986:end -->
