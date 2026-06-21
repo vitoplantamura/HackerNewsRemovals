@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48613674](https://news.social-protocols.org/stats?id=48613674) #13 9 points 2 comments -> [Stop calling the Super Productionizer a 'baby blender' – Frank Elavsky](https://www.frank.computer/blog/2025/06/baby-blender.html)<!-- HN:48613674:end -->
 #### **Sunday, June 21, 2026**
 <!-- HN:48613732:start -->
-* [48613732](https://news.social-protocols.org/stats?id=48613732) #17 149 points 61 comments -> [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)<!-- HN:48613732:end -->
+* [48613732](https://news.social-protocols.org/stats?id=48613732) #17 149 points 61 comments -> [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)<!-- HN:48613732:end --><!-- HN:48614062:start -->
+* [48614062](https://news.social-protocols.org/stats?id=48614062) #17 8 points 1 comments -> [Show HN: Submarius – Global water clarity for divers](https://submarius.com)<!-- HN:48614062:end -->
