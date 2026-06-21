@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48560535](https://news.social-protocols.org/stats?id=48560535) #26 29 points 5 comments -> [S‑CURVES a field guide to technology adoption · 1825–2026](https://escurves.com/)<!-- HN:48560535:end --><!-- HN:48612029:start -->
 * [48612029](https://news.social-protocols.org/stats?id=48612029) #15 10 points 7 comments -> [Google display wrong flags for world cup 2026](https://swiss-cow.com/blog/google-world-cup-wrong-flags)<!-- HN:48612029:end --><!-- HN:48613674:start -->
 * [48613674](https://news.social-protocols.org/stats?id=48613674) #13 9 points 2 comments -> [Stop calling the Super Productionizer a 'baby blender' – Frank Elavsky](https://www.frank.computer/blog/2025/06/baby-blender.html)<!-- HN:48613674:end -->
+#### **Sunday, June 21, 2026**
+<!-- HN:48613732:start -->
+* [48613732](https://news.social-protocols.org/stats?id=48613732) #17 149 points 61 comments -> [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)<!-- HN:48613732:end -->
