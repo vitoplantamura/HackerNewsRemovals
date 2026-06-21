@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48613732:start -->
 * [48613732](https://news.social-protocols.org/stats?id=48613732) #17 149 points 61 comments -> [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)<!-- HN:48613732:end --><!-- HN:48614062:start -->
 * [48614062](https://news.social-protocols.org/stats?id=48614062) #17 8 points 1 comments -> [Show HN: Submarius – Global water clarity for divers](https://submarius.com)<!-- HN:48614062:end --><!-- HN:48594286:start -->
-* [48594286](https://news.social-protocols.org/stats?id=48594286) #20 8 points 1 comments -> [Moving Beyond Fork() + Exec()](https://lwn.net/Articles/1076018/)<!-- HN:48594286:end -->
+* [48594286](https://news.social-protocols.org/stats?id=48594286) #20 8 points 1 comments -> [Moving Beyond Fork() + Exec()](https://lwn.net/Articles/1076018/)<!-- HN:48594286:end --><!-- HN:48617278:start -->
+* [48617278](https://news.social-protocols.org/stats?id=48617278) #5 11 points 5 comments -> [NSA director: 'Mythos "broke into almost all of our classified systems in hours"](https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic)<!-- HN:48617278:end -->
