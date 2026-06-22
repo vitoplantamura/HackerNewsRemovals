@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 15, 2026**
-<!-- HN:48533736:start -->
-* [48533736](https://news.social-protocols.org/stats?id=48533736) #15 35 points 34 comments -> [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)<!-- HN:48533736:end --><!-- HN:48533829:start -->
-* [48533829](https://news.social-protocols.org/stats?id=48533829) #3 26 points 43 comments -> [What even is food authenticity? Why we guard carbonara, and flatten chicken rice](https://iza.ac/posts/2026/06/food-authenticity/)<!-- HN:48533829:end --><!-- HN:48535118:start -->
-* [48535118](https://news.social-protocols.org/stats?id=48535118) #2 86 points 13 comments -> [The rich aren't your role models](https://theslowburningfuse.wordpress.com/2026/06/14/the-rich-arent-your-role-models-theyre-your-oppressors/)<!-- HN:48535118:end --><!-- HN:48491773:start -->
-* [48491773](https://news.social-protocols.org/stats?id=48491773) #30 -> [Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall](https://prawns.dev/blogs/memory-wall)<!-- HN:48491773:end --><!-- HN:48533976:start -->
-* [48533976](https://news.social-protocols.org/stats?id=48533976) #25 72 points 175 comments -> [US and Iran announce deal to end military operations](https://www.bbc.com/news/live/cj0grpyg4v1t)<!-- HN:48533976:end --><!-- HN:48538350:start -->
-* [48538350](https://news.social-protocols.org/stats?id=48538350) #12 23 points 42 comments -> [UK Brings in Full Social Media Ban for Under-16s](https://deadline.com/2026/06/uk-social-media-ban-under-16s-x-youtube-tiktok-reddit-1236956163/)<!-- HN:48538350:end --><!-- HN:48539859:start -->
-* [48539859](https://news.social-protocols.org/stats?id=48539859) #4 20 points 7 comments -> [Belgian politicians would rather risk treason charges than trust engineers](http://mikhailian.mova.org/node/325)<!-- HN:48539859:end --><!-- HN:48540428:start -->
-* [48540428](https://news.social-protocols.org/stats?id=48540428) #30 5 points 1 comments -> [Tesla presented misleading 'Full Self-Driving' safety data to European regulator](https://www.reuters.com/world/tesla-presented-misleading-full-self-driving-safety-data-european-regulators-2026-06-15/)<!-- HN:48540428:end --><!-- HN:48541222:start -->
-* [48541222](https://news.social-protocols.org/stats?id=48541222) #2 13 points 12 comments -> [I wrote 5000 lines of assembly because I was angry](https://ujjwalvivek.com/blog/log_0009_baremetal.md)<!-- HN:48541222:end --><!-- HN:48540813:start -->
-* [48540813](https://news.social-protocols.org/stats?id=48540813) #21 36 points 17 comments -> [Applying Brevity and Language Efficiency in Prompt Engineering](https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html)<!-- HN:48540813:end --><!-- HN:48499690:start -->
-* [48499690](https://news.social-protocols.org/stats?id=48499690) #27 23 points 12 comments -> [Stdx, Rust's extended standard library](https://kerkour.com/stdx)<!-- HN:48499690:end --><!-- HN:48542209:start -->
-* [48542209](https://news.social-protocols.org/stats?id=48542209) #11 75 points 6 comments -> [Fox Is Buying Roku](https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger)<!-- HN:48542209:end --><!-- HN:48492548:start -->
-* [48492548](https://news.social-protocols.org/stats?id=48492548) #8 16 points 4 comments -> [Bots flooded my anti-bot startup with 55,000 fake signups](https://humaverify.com/blog/anatomy-of-a-55k-bot-attack)<!-- HN:48492548:end --><!-- HN:48546648:start -->
-* [48546648](https://news.social-protocols.org/stats?id=48546648) #20 20 points 3 comments -> [Commander Keen Games (free book)](https://forgottenbytes.net/)<!-- HN:48546648:end -->
 #### **Tuesday, June 16, 2026**<!-- HN:48553438:start -->
 * [48553438](https://news.social-protocols.org/stats?id=48553438) #15 4 points 1 comments -> [Electrifying the Cow Path](https://sebas.fika.bar/electrifying-the-cow-path-01KSJS9QM201WECVBBV2HKAV6M)<!-- HN:48553438:end --><!-- HN:48554677:start -->
 * [48554677](https://news.social-protocols.org/stats?id=48554677) #7 6 points 8 comments -> [Show HN: Voice Age Verification](https://agewarden.ai/)<!-- HN:48554677:end --><!-- HN:48554208:start -->
