@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48623347](https://news.social-protocols.org/stats?id=48623347) #22 20 points 6 comments -> [The Deadly Rise of Giant Trucks and S.U.V.s](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html)<!-- HN:48623347:end -->
 #### **Monday, June 22, 2026**
 <!-- HN:48623568:start -->
-* [48623568](https://news.social-protocols.org/stats?id=48623568) #18 3 points 1 comments -> [Norway Bans AI for Kids 6-13 in Schools](https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/)<!-- HN:48623568:end -->
+* [48623568](https://news.social-protocols.org/stats?id=48623568) #18 3 points 1 comments -> [Norway Bans AI for Kids 6-13 in Schools](https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/)<!-- HN:48623568:end --><!-- HN:48623159:start -->
+* [48623159](https://news.social-protocols.org/stats?id=48623159) #10 -> [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)<!-- HN:48623159:end -->
