@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 22, 2026**
 <!-- HN:48623568:start -->
 * [48623568](https://news.social-protocols.org/stats?id=48623568) #18 3 points 1 comments -> [Norway Bans AI for Kids 6-13 in Schools](https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/)<!-- HN:48623568:end --><!-- HN:48623159:start -->
-* [48623159](https://news.social-protocols.org/stats?id=48623159) #10 -> [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)<!-- HN:48623159:end -->
+* [48623159](https://news.social-protocols.org/stats?id=48623159) #10 -> [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)<!-- HN:48623159:end --><!-- HN:48624195:start -->
+* [48624195](https://news.social-protocols.org/stats?id=48624195) #4 9 points 0 comments -> [The Doom Justifies the Valuation](https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html)<!-- HN:48624195:end -->
