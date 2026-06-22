@@ -143,3 +143,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48621847](https://news.social-protocols.org/stats?id=48621847) #7 4 points 0 comments -> [Selah // Your inbox is the Bible app](https://selah.to)<!-- HN:48621847:end --><!-- HN:48622815:start -->
 * [48622815](https://news.social-protocols.org/stats?id=48622815) #7 28 points 30 comments -> [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)<!-- HN:48622815:end --><!-- HN:48623347:start -->
 * [48623347](https://news.social-protocols.org/stats?id=48623347) #22 20 points 6 comments -> [The Deadly Rise of Giant Trucks and S.U.V.s](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html)<!-- HN:48623347:end -->
+#### **Monday, June 22, 2026**
+<!-- HN:48623568:start -->
+* [48623568](https://news.social-protocols.org/stats?id=48623568) #18 3 points 1 comments -> [Norway Bans AI for Kids 6-13 in Schools](https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/)<!-- HN:48623568:end -->
