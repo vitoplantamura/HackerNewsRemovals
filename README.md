@@ -139,3 +139,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48632989](https://news.social-protocols.org/stats?id=48632989) #9 48 points 21 comments -> [Steam Machine Game Testing](https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article)<!-- HN:48632989:end --><!-- HN:48635363:start -->
 * [48635363](https://news.social-protocols.org/stats?id=48635363) #12 3 points 0 comments -> [Brazilian Psychic Predicts Alien Invasion During World Cup Game Next Week](https://www.coasttocoastam.com/article/brazilian-psychic-predicts-alien-invasion-during-world-cup-game-next-week/)<!-- HN:48635363:end --><!-- HN:48636100:start -->
 * [48636100](https://news.social-protocols.org/stats?id=48636100) #20 82 points 95 comments -> [Tacky men with ridiculous glasses want you to wear them too](https://manualdousuario.net/en/smart-glasses-ugly-tacky/)<!-- HN:48636100:end -->
+#### **Tuesday, June 23, 2026**
+<!-- HN:48600312:start -->
+* [48600312](https://news.social-protocols.org/stats?id=48600312) #11 966 points 398 comments -> [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)<!-- HN:48600312:end --><!-- HN:48637566:start -->
+* [48637566](https://news.social-protocols.org/stats?id=48637566) #12 8 points 0 comments -> [AI's PR Problem](https://blog.dshr.org/2026/05/ais-pr-problem.html)<!-- HN:48637566:end -->
