@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, June 16, 2026**<!-- HN:48553438:start -->
-* [48553438](https://news.social-protocols.org/stats?id=48553438) #15 4 points 1 comments -> [Electrifying the Cow Path](https://sebas.fika.bar/electrifying-the-cow-path-01KSJS9QM201WECVBBV2HKAV6M)<!-- HN:48553438:end --><!-- HN:48554677:start -->
-* [48554677](https://news.social-protocols.org/stats?id=48554677) #7 6 points 8 comments -> [Show HN: Voice Age Verification](https://agewarden.ai/)<!-- HN:48554677:end --><!-- HN:48554208:start -->
-* [48554208](https://news.social-protocols.org/stats?id=48554208) #20 110 points 43 comments -> [Russian artist and Putin critic shot dead in Poland](https://www.bbc.com/news/articles/clyrzd5g6k2o)<!-- HN:48554208:end --><!-- HN:48554215:start -->
-* [48554215](https://news.social-protocols.org/stats?id=48554215) #20 264 points 299 comments -> [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo)<!-- HN:48554215:end --><!-- HN:48556414:start -->
-* [48556414](https://news.social-protocols.org/stats?id=48556414) #7 128 points 3 comments -> [Google Chrome's Next Update Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers)<!-- HN:48556414:end --><!-- HN:48558545:start -->
-* [48558545](https://news.social-protocols.org/stats?id=48558545) #6 40 points 23 comments -> [Gamers beware: malicious wallpapers on Steam found stealing accounts](https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/)<!-- HN:48558545:end --><!-- HN:48562274:start -->
-* [48562274](https://news.social-protocols.org/stats?id=48562274) #13 26 points 18 comments -> [Total Iran Economic Damage Estimate](https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/)<!-- HN:48562274:end -->
 #### **Wednesday, June 17, 2026**
 <!-- HN:48565130:start -->
 * [48565130](https://news.social-protocols.org/stats?id=48565130) #1 187 points 164 comments -> [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)<!-- HN:48565130:end --><!-- HN:48566326:start -->
