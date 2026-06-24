@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48653746:start -->
 * [48653746](https://news.social-protocols.org/stats?id=48653746) #16 18 points 10 comments -> [How to Passive-Aggressively Shame People Who Use LLMs Selfishly](https://joshmoody.org/blog/selfish-ai/)<!-- HN:48653746:end --><!-- HN:48654823:start -->
 * [48654823](https://news.social-protocols.org/stats?id=48654823) #13 4 points 0 comments -> [LineShine Debuts at No. 1 as the TOP500 Enters a New Global Exascale Era](https://top500.org/news/lineshine-debuts-no-1-top500-enters-new-global-exascale-era/)<!-- HN:48654823:end --><!-- HN:48654765:start -->
-* [48654765](https://news.social-protocols.org/stats?id=48654765) #17 6 points 1 comments -> [Sakana Fugu: a multi-agent system delivered as one model](https://github.com/SakanaAI/fugu)<!-- HN:48654765:end -->
+* [48654765](https://news.social-protocols.org/stats?id=48654765) #17 6 points 1 comments -> [Sakana Fugu: a multi-agent system delivered as one model](https://github.com/SakanaAI/fugu)<!-- HN:48654765:end --><!-- HN:48656807:start -->
+* [48656807](https://news.social-protocols.org/stats?id=48656807) #2 19 points 13 comments -> [GitHub Is Becoming a Giant AI Code Dump](https://maref.cc/en/blog/vibe-coding-crisis/)<!-- HN:48656807:end -->
