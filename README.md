@@ -138,4 +138,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48651552](https://news.social-protocols.org/stats?id=48651552) #17 68 points 44 comments -> [All train services in Germany halted after train radio communications disruption](https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html)<!-- HN:48651552:end -->
 #### **Wednesday, June 24, 2026**
 <!-- HN:48653746:start -->
-* [48653746](https://news.social-protocols.org/stats?id=48653746) #16 18 points 10 comments -> [How to Passive-Aggressively Shame People Who Use LLMs Selfishly](https://joshmoody.org/blog/selfish-ai/)<!-- HN:48653746:end -->
+* [48653746](https://news.social-protocols.org/stats?id=48653746) #16 18 points 10 comments -> [How to Passive-Aggressively Shame People Who Use LLMs Selfishly](https://joshmoody.org/blog/selfish-ai/)<!-- HN:48653746:end --><!-- HN:48654823:start -->
+* [48654823](https://news.social-protocols.org/stats?id=48654823) #13 4 points 0 comments -> [LineShine Debuts at No. 1 as the TOP500 Enters a New Global Exascale Era](https://top500.org/news/lineshine-debuts-no-1-top500-enters-new-global-exascale-era/)<!-- HN:48654823:end --><!-- HN:48654765:start -->
+* [48654765](https://news.social-protocols.org/stats?id=48654765) #17 6 points 1 comments -> [Sakana Fugu: a multi-agent system delivered as one model](https://github.com/SakanaAI/fugu)<!-- HN:48654765:end -->
