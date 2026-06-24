@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, June 17, 2026**
-<!-- HN:48565130:start -->
-* [48565130](https://news.social-protocols.org/stats?id=48565130) #1 187 points 164 comments -> [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)<!-- HN:48565130:end --><!-- HN:48566326:start -->
-* [48566326](https://news.social-protocols.org/stats?id=48566326) #3 27 points 3 comments -> [Peter Thiel's private society attendance list leaked via hard-coded HTML](https://github.com/nzaki-dev/dialog)<!-- HN:48566326:end --><!-- HN:48566095:start -->
-* [48566095](https://news.social-protocols.org/stats?id=48566095) #13 17 points 1 comments -> [Apple plans change to Hide My Email that could make it less effective](https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/)<!-- HN:48566095:end --><!-- HN:48497067:start -->
-* [48497067](https://news.social-protocols.org/stats?id=48497067) #26 105 points 4 comments -> [Formal Methods and the Future of Programming](https://blog.janestreet.com/formal-methods-at-jane-street-index/)<!-- HN:48497067:end --><!-- HN:48567574:start -->
-* [48567574](https://news.social-protocols.org/stats?id=48567574) #5 4 points 0 comments -> [Most of the CVE-2026-4020 attackers are the same client](https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020)<!-- HN:48567574:end --><!-- HN:48570763:start -->
-* [48570763](https://news.social-protocols.org/stats?id=48570763) #19 98 points 40 comments -> [ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker](https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/)<!-- HN:48570763:end --><!-- HN:48576113:start -->
-* [48576113](https://news.social-protocols.org/stats?id=48576113) #10 62 points 18 comments -> [Krugman: Musk, a Human Ponzi Scheme](https://paulkrugman.substack.com/p/elon-musk-human-ponzi-scheme)<!-- HN:48576113:end --><!-- HN:48576307:start -->
-* [48576307](https://news.social-protocols.org/stats?id=48576307) #24 22 points 11 comments -> [Apple Intelligence may become mandatory in iOS and macOS 27](https://manualdousuario.net/en/apple-intelligence-mandatory-ios-macos-27/)<!-- HN:48576307:end -->
 #### **Thursday, June 18, 2026**
 <!-- HN:48577208:start -->
 * [48577208](https://news.social-protocols.org/stats?id=48577208) #6 341 points 4 comments -> [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)<!-- HN:48577208:end --><!-- HN:48579718:start -->
