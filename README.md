@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, June 18, 2026**
-<!-- HN:48577208:start -->
-* [48577208](https://news.social-protocols.org/stats?id=48577208) #6 341 points 4 comments -> [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)<!-- HN:48577208:end --><!-- HN:48579718:start -->
-* [48579718](https://news.social-protocols.org/stats?id=48579718) #1 74 points 5 comments -> [Midjourney Ultrasonic CT Scanner](https://www.midjourney.com/medical/blogpost)<!-- HN:48579718:end --><!-- HN:48573435:start -->
-* [48573435](https://news.social-protocols.org/stats?id=48573435) #19 134 points 107 comments -> [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)<!-- HN:48573435:end --><!-- HN:48580147:start -->
-* [48580147](https://news.social-protocols.org/stats?id=48580147) #18 5 points 2 comments -> [Continue has been acquired by Cursor](https://www.continue.dev/)<!-- HN:48580147:end --><!-- HN:48581485:start -->
-* [48581485](https://news.social-protocols.org/stats?id=48581485) #8 22 points 3 comments -> [How to Become a Person After Smartphones Have Rotted Your Brain](https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain)<!-- HN:48581485:end --><!-- HN:48583843:start -->
-* [48583843](https://news.social-protocols.org/stats?id=48583843) #15 46 points 44 comments -> [Challenging the Narrative of European Decline](https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478)<!-- HN:48583843:end --><!-- HN:48585626:start -->
-* [48585626](https://news.social-protocols.org/stats?id=48585626) #23 3 points 0 comments -> [Converting Books into Visual Novels](https://github.com/JohnQPulp/PublicDomainPulp)<!-- HN:48585626:end --><!-- HN:48584873:start -->
-* [48584873](https://news.social-protocols.org/stats?id=48584873) #21 22 points 30 comments -> [Git platform built for agentic era](https://gitlawb.com/node)<!-- HN:48584873:end --><!-- HN:48586811:start -->
-* [48586811](https://news.social-protocols.org/stats?id=48586811) #23 14 points 7 comments -> [Show HN: 10x better performance from the Coding Harnesses with LLM-wiki](https://llm-wiki.net/)<!-- HN:48586811:end --><!-- HN:48588072:start -->
-* [48588072](https://news.social-protocols.org/stats?id=48588072) #8 10 points 1 comments -> [Securing the Future of AI Agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)<!-- HN:48588072:end --><!-- HN:48588206:start -->
-* [48588206](https://news.social-protocols.org/stats?id=48588206) #19 26 points 12 comments -> [Tech CEOs are breaking the law](https://kiesow.net/tech-ceos-are-breaking-the-law/)<!-- HN:48588206:end --><!-- HN:48542963:start -->
-* [48542963](https://news.social-protocols.org/stats?id=48542963) #26 15 points 28 comments -> [My LSM tree was slower than a B-tree. Then I profiled it](https://aasheesh.vercel.app/blog/lsm-tree)<!-- HN:48542963:end --><!-- HN:48590280:start -->
-* [48590280](https://news.social-protocols.org/stats?id=48590280) #17 9 points 1 comments -> [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)<!-- HN:48590280:end --><!-- HN:48591562:start -->
-* [48591562](https://news.social-protocols.org/stats?id=48591562) #6 52 points 18 comments -> [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)<!-- HN:48591562:end -->
 #### **Friday, June 19, 2026**
 <!-- HN:48539412:start -->
 * [48539412](https://news.social-protocols.org/stats?id=48539412) #27 24 points 13 comments -> [It doesn't matter if it works](https://henry.codes/writing/it-doesnt-matter-if-it-works/)<!-- HN:48539412:end --><!-- HN:48594012:start -->
