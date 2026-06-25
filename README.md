@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48659257](https://news.social-protocols.org/stats?id=48659257) #7 139 points 1 comments -> [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)<!-- HN:48659257:end --><!-- HN:48627980:start -->
 * [48627980](https://news.social-protocols.org/stats?id=48627980) #17 8 points 4 comments -> [How a Microsecond-Level Low-Latency Engine Works](https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee)<!-- HN:48627980:end --><!-- HN:48665740:start -->
 * [48665740](https://news.social-protocols.org/stats?id=48665740) #10 4 points 5 comments -> [A Tesla Crashed Through a Harris County Home. Is the Car to Blame?](https://www.readponder.com/essay/a-tesla-crashed-through-a-harris-county-home-is-the-car-to-blame)<!-- HN:48665740:end -->
+#### **Thursday, June 25, 2026**
+<!-- HN:48667277:start -->
+* [48667277](https://news.social-protocols.org/stats?id=48667277) #18 7 points 0 comments -> [10 Years of Euthanasia in Canada: 27 Deaths a Day](https://zenit.org/2026/06/22/10-years-of-euthanasia-in-canada-27-deaths-a-day-10000-a-year-and-now-theyre-targeting-the-mentally-ill/)<!-- HN:48667277:end -->
