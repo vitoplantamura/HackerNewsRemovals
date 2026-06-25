@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48665740](https://news.social-protocols.org/stats?id=48665740) #10 4 points 5 comments -> [A Tesla Crashed Through a Harris County Home. Is the Car to Blame?](https://www.readponder.com/essay/a-tesla-crashed-through-a-harris-county-home-is-the-car-to-blame)<!-- HN:48665740:end -->
 #### **Thursday, June 25, 2026**
 <!-- HN:48667277:start -->
-* [48667277](https://news.social-protocols.org/stats?id=48667277) #18 7 points 0 comments -> [10 Years of Euthanasia in Canada: 27 Deaths a Day](https://zenit.org/2026/06/22/10-years-of-euthanasia-in-canada-27-deaths-a-day-10000-a-year-and-now-theyre-targeting-the-mentally-ill/)<!-- HN:48667277:end -->
+* [48667277](https://news.social-protocols.org/stats?id=48667277) #18 7 points 0 comments -> [10 Years of Euthanasia in Canada: 27 Deaths a Day](https://zenit.org/2026/06/22/10-years-of-euthanasia-in-canada-27-deaths-a-day-10000-a-year-and-now-theyre-targeting-the-mentally-ill/)<!-- HN:48667277:end --><!-- HN:48668662:start -->
+* [48668662](https://news.social-protocols.org/stats?id=48668662) #29 32 points 40 comments -> [GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box](https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box)<!-- HN:48668662:end -->
