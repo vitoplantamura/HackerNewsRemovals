@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, June 19, 2026**
-<!-- HN:48539412:start -->
-* [48539412](https://news.social-protocols.org/stats?id=48539412) #27 24 points 13 comments -> [It doesn't matter if it works](https://henry.codes/writing/it-doesnt-matter-if-it-works/)<!-- HN:48539412:end --><!-- HN:48594012:start -->
-* [48594012](https://news.social-protocols.org/stats?id=48594012) #29 33 points 9 comments -> [GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It](https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/)<!-- HN:48594012:end --><!-- HN:48523800:start -->
-* [48523800](https://news.social-protocols.org/stats?id=48523800) #30 24 points 18 comments -> [Automating my job away](https://austinhenley.com/blog/automatingmyjob.html)<!-- HN:48523800:end --><!-- HN:48595390:start -->
-* [48595390](https://news.social-protocols.org/stats?id=48595390) #12 6 points 0 comments -> [Iran Delays U.S. Peace Talks over Israeli Attacks in Lebanon](https://maritime-executive.com/article/report-iran-suspends-hormuz-talks-because-of-israeli-attacks-in-lebanon)<!-- HN:48595390:end --><!-- HN:48595316:start -->
-* [48595316](https://news.social-protocols.org/stats?id=48595316) #16 6 points 3 comments -> [The ISA Doesn't Matter Where It Counts](https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts)<!-- HN:48595316:end --><!-- HN:48597760:start -->
-* [48597760](https://news.social-protocols.org/stats?id=48597760) #2 18 points 0 comments -> [Banning trade with Israeli settlements in Palestine](https://www.regjeringen.no/en/whats-new/proposal-for-a-bill-banning-trade-with-israeli-settlements-in-palestine-announced-for-public-consultation/id3166860/)<!-- HN:48597760:end --><!-- HN:48597783:start -->
-* [48597783](https://news.social-protocols.org/stats?id=48597783) #2 11 points 5 comments -> [Google is turning Android into a 'sloperating' system. Your thoughts?](https://android-developers.googleblog.com/2026/06/Android-17.html)<!-- HN:48597783:end --><!-- HN:48597668:start -->
-* [48597668](https://news.social-protocols.org/stats?id=48597668) #11 28 points 41 comments -> [From Australia to Europe, countries move to curb children's social media access](https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/)<!-- HN:48597668:end --><!-- HN:48600236:start -->
-* [48600236](https://news.social-protocols.org/stats?id=48600236) #22 33 points 40 comments -> [Spotify Killed the Thrill of the Hunt](https://erildrun.bearblog.dev/spotify-killed-the-thrill-of-the-hunt/)<!-- HN:48600236:end --><!-- HN:48600666:start -->
-* [48600666](https://news.social-protocols.org/stats?id=48600666) #9 6 points 2 comments -> [What if Palantir's logo was square?](https://www.jasonwu.ink/signals/2026-06-18-palantir-square)<!-- HN:48600666:end --><!-- HN:48527520:start -->
-* [48527520](https://news.social-protocols.org/stats?id=48527520) #25 6 points 3 comments -> [Music generation using Algebra, presented as web MIDI shop](https://monictheory.com)<!-- HN:48527520:end -->
 #### **Saturday, June 20, 2026**
 <!-- HN:48554812:start -->
 * [48554812](https://news.social-protocols.org/stats?id=48554812) #10 11 points 0 comments -> [A Love Story](https://pudding.cool/2026/06/love-story/)<!-- HN:48554812:end --><!-- HN:48605778:start -->
