@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48678820](https://news.social-protocols.org/stats?id=48678820) #20 15 points 18 comments -> [The Customer Who Almost Killed Slack, Stripe, and Airbnb](https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/)<!-- HN:48678820:end -->
 #### **Friday, June 26, 2026**
 <!-- HN:48680727:start -->
-* [48680727](https://news.social-protocols.org/stats?id=48680727) #10 14 points 5 comments -> [Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)](https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum)<!-- HN:48680727:end -->
+* [48680727](https://news.social-protocols.org/stats?id=48680727) #10 14 points 5 comments -> [Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)](https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum)<!-- HN:48680727:end --><!-- HN:48629112:start -->
+* [48629112](https://news.social-protocols.org/stats?id=48629112) #19 3 points 0 comments -> [You Have to Poop in the Eiffel Tower [video]](https://www.youtube.com/watch?v=1v2g3GLaJtE)<!-- HN:48629112:end -->
