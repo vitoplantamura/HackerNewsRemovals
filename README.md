@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48680727:start -->
 * [48680727](https://news.social-protocols.org/stats?id=48680727) #10 14 points 5 comments -> [Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)](https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum)<!-- HN:48680727:end --><!-- HN:48629112:start -->
 * [48629112](https://news.social-protocols.org/stats?id=48629112) #19 3 points 0 comments -> [You Have to Poop in the Eiffel Tower [video]](https://www.youtube.com/watch?v=1v2g3GLaJtE)<!-- HN:48629112:end --><!-- HN:48681361:start -->
-* [48681361](https://news.social-protocols.org/stats?id=48681361) #30 23 points 6 comments -> [A data race that doesn't compile (in Rust)](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/)<!-- HN:48681361:end -->
+* [48681361](https://news.social-protocols.org/stats?id=48681361) #30 23 points 6 comments -> [A data race that doesn't compile (in Rust)](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/)<!-- HN:48681361:end --><!-- HN:48623687:start -->
+* [48623687](https://news.social-protocols.org/stats?id=48623687) #17 5 points 1 comments -> [Falcon GX the most powerful brand engineering tool](https://falcon.so/)<!-- HN:48623687:end -->
