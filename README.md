@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48687508](https://news.social-protocols.org/stats?id=48687508) #21 51 points 34 comments -> [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)<!-- HN:48687508:end --><!-- HN:48689182:start -->
 * [48689182](https://news.social-protocols.org/stats?id=48689182) #20 16 points 2 comments -> [Ex-NOAA employees laid off by DOGE rebuilt climate website](https://www.climate.us/)<!-- HN:48689182:end --><!-- HN:48692620:start -->
 * [48692620](https://news.social-protocols.org/stats?id=48692620) #25 8 points 2 comments -> [US strikes Iran in response to drone strike on commercial ship](https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship)<!-- HN:48692620:end -->
+#### **Saturday, June 27, 2026**
+<!-- HN:48695981:start -->
+* [48695981](https://news.social-protocols.org/stats?id=48695981) #23 10 points 0 comments -> [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)<!-- HN:48695981:end -->
