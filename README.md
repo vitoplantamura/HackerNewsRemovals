@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48692620](https://news.social-protocols.org/stats?id=48692620) #25 8 points 2 comments -> [US strikes Iran in response to drone strike on commercial ship](https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship)<!-- HN:48692620:end -->
 #### **Saturday, June 27, 2026**
 <!-- HN:48695981:start -->
-* [48695981](https://news.social-protocols.org/stats?id=48695981) #23 10 points 0 comments -> [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)<!-- HN:48695981:end -->
+* [48695981](https://news.social-protocols.org/stats?id=48695981) #23 10 points 0 comments -> [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)<!-- HN:48695981:end --><!-- HN:48648008:start -->
+* [48648008](https://news.social-protocols.org/stats?id=48648008) #15 13 points 0 comments -> [Building apps using TanStack Start](https://lovable.dev/blog/building-apps-using-tanstack-start)<!-- HN:48648008:end -->
