@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48695981:start -->
 * [48695981](https://news.social-protocols.org/stats?id=48695981) #23 10 points 0 comments -> [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)<!-- HN:48695981:end --><!-- HN:48648008:start -->
 * [48648008](https://news.social-protocols.org/stats?id=48648008) #15 13 points 0 comments -> [Building apps using TanStack Start](https://lovable.dev/blog/building-apps-using-tanstack-start)<!-- HN:48648008:end --><!-- HN:48696176:start -->
-* [48696176](https://news.social-protocols.org/stats?id=48696176) #3 4 points 0 comments -> [World Cup fans frustrated by 'confusing and expensive' tipping culture in US](https://www.bbc.com/news/articles/clyxgjykx7lo)<!-- HN:48696176:end -->
+* [48696176](https://news.social-protocols.org/stats?id=48696176) #3 4 points 0 comments -> [World Cup fans frustrated by 'confusing and expensive' tipping culture in US](https://www.bbc.com/news/articles/clyxgjykx7lo)<!-- HN:48696176:end --><!-- HN:48690709:start -->
+* [48690709](https://news.social-protocols.org/stats?id=48690709) #29 81 points 1 comments -> [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)<!-- HN:48690709:end -->
