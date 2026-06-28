@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, June 28, 2026**
 <!-- HN:48705396:start -->
 * [48705396](https://news.social-protocols.org/stats?id=48705396) #28 9 points 0 comments -> [Hungary holds first post-Orban Budapest Pride march](https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596)<!-- HN:48705396:end --><!-- HN:48705276:start -->
-* [48705276](https://news.social-protocols.org/stats?id=48705276) #25 38 points 41 comments -> [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)<!-- HN:48705276:end -->
+* [48705276](https://news.social-protocols.org/stats?id=48705276) #25 38 points 41 comments -> [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)<!-- HN:48705276:end --><!-- HN:48703968:start -->
+* [48703968](https://news.social-protocols.org/stats?id=48703968) #12 205 points 131 comments -> [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)<!-- HN:48703968:end -->
