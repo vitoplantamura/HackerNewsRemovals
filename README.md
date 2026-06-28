@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, June 21, 2026**
-<!-- HN:48613732:start -->
-* [48613732](https://news.social-protocols.org/stats?id=48613732) #17 149 points 61 comments -> [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)<!-- HN:48613732:end --><!-- HN:48614062:start -->
-* [48614062](https://news.social-protocols.org/stats?id=48614062) #17 8 points 1 comments -> [Show HN: Submarius – Global water clarity for divers](https://submarius.com)<!-- HN:48614062:end --><!-- HN:48594286:start -->
-* [48594286](https://news.social-protocols.org/stats?id=48594286) #20 8 points 1 comments -> [Moving Beyond Fork() + Exec()](https://lwn.net/Articles/1076018/)<!-- HN:48594286:end --><!-- HN:48577601:start -->
-* [48577601](https://news.social-protocols.org/stats?id=48577601) #26 18 points 2 comments -> [Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87](https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html)<!-- HN:48577601:end --><!-- HN:48618761:start -->
-* [48618761](https://news.social-protocols.org/stats?id=48618761) #4 8 points 0 comments -> [Artificial](https://www.inkandswitch.com/tangents/artificial/)<!-- HN:48618761:end --><!-- HN:48619396:start -->
-* [48619396](https://news.social-protocols.org/stats?id=48619396) #15 18 points 4 comments -> [Former Olympian denies vandalising Washington Reflecting Pool after arrest](https://www.bbc.com/news/articles/c8d26051vv2o)<!-- HN:48619396:end --><!-- HN:48590573:start -->
-* [48590573](https://news.social-protocols.org/stats?id=48590573) #21 9 points 3 comments -> [The Great Intermediary Panic](https://www.minid.net/2013/1/23/the-great-intermediary-panic)<!-- HN:48590573:end --><!-- HN:48618442:start -->
-* [48618442](https://news.social-protocols.org/stats?id=48618442) #11 21 points 11 comments -> [Smashing the NIMBYs created modern capitalism](https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/)<!-- HN:48618442:end --><!-- HN:48619783:start -->
-* [48619783](https://news.social-protocols.org/stats?id=48619783) #25 10 points 0 comments -> [Olympian arrested for touching remnants of decaying Reflecting Pool: report](https://www.rawstory.com/reflecting-pool-paint-algae/)<!-- HN:48619783:end --><!-- HN:48620402:start -->
-* [48620402](https://news.social-protocols.org/stats?id=48620402) #14 11 points 1 comments -> [AI is a mass psychotic delusion [video]](https://www.youtube.com/watch?v=WNiSUGCC-gY)<!-- HN:48620402:end --><!-- HN:48621847:start -->
-* [48621847](https://news.social-protocols.org/stats?id=48621847) #7 4 points 0 comments -> [Selah // Your inbox is the Bible app](https://selah.to)<!-- HN:48621847:end --><!-- HN:48622815:start -->
-* [48622815](https://news.social-protocols.org/stats?id=48622815) #7 28 points 30 comments -> [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)<!-- HN:48622815:end -->
 #### **Monday, June 22, 2026**
 <!-- HN:48623568:start -->
 * [48623568](https://news.social-protocols.org/stats?id=48623568) #18 3 points 1 comments -> [Norway Bans AI for Kids 6-13 in Schools](https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/)<!-- HN:48623568:end --><!-- HN:48623159:start -->
