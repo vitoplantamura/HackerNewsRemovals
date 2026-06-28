@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48648341](https://news.social-protocols.org/stats?id=48648341) #14 11 points 16 comments -> [Why Windows 95 Was Tech's Last True Revolution](https://comuniq.xyz/post.php?t=1307)<!-- HN:48648341:end --><!-- HN:48699969:start -->
 * [48699969](https://news.social-protocols.org/stats?id=48699969) #21 12 points 15 comments -> ["No, I swear I wrote this."](https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this)<!-- HN:48699969:end --><!-- HN:48701766:start -->
 * [48701766](https://news.social-protocols.org/stats?id=48701766) #20 9 points 40 comments -> [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)<!-- HN:48701766:end -->
+#### **Sunday, June 28, 2026**
+<!-- HN:48705396:start -->
+* [48705396](https://news.social-protocols.org/stats?id=48705396) #28 9 points 0 comments -> [Hungary holds first post-Orban Budapest Pride march](https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596)<!-- HN:48705396:end -->
