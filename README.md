@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48701766](https://news.social-protocols.org/stats?id=48701766) #20 9 points 40 comments -> [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)<!-- HN:48701766:end -->
 #### **Sunday, June 28, 2026**
 <!-- HN:48705396:start -->
-* [48705396](https://news.social-protocols.org/stats?id=48705396) #28 9 points 0 comments -> [Hungary holds first post-Orban Budapest Pride march](https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596)<!-- HN:48705396:end -->
+* [48705396](https://news.social-protocols.org/stats?id=48705396) #28 9 points 0 comments -> [Hungary holds first post-Orban Budapest Pride march](https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596)<!-- HN:48705396:end --><!-- HN:48705276:start -->
+* [48705276](https://news.social-protocols.org/stats?id=48705276) #25 38 points 41 comments -> [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)<!-- HN:48705276:end -->
