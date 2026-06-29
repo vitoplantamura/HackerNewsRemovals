@@ -119,8 +119,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48710749](https://news.social-protocols.org/stats?id=48710749) #9 120 points 43 comments -> [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)<!-- HN:48710749:end --><!-- HN:48712604:start -->
 * [48712604](https://news.social-protocols.org/stats?id=48712604) #15 9 points 2 comments -> [Microsoft worker emails employees about company's support of Israel](https://www.thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails/)<!-- HN:48712604:end -->
 #### **Monday, June 29, 2026**
-<!-- HN:48712762:start -->
-* [48712762](https://news.social-protocols.org/stats?id=48712762) #17 28 points 23 comments -> [Cigarettes](https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/)<!-- HN:48712762:end --><!-- HN:48712338:start -->
+<!-- HN:48712338:start -->
 * [48712338](https://news.social-protocols.org/stats?id=48712338) #3 35 points 2 comments -> [A QNX-inspired operating system with selectable kernels](https://qsoe.net)<!-- HN:48712338:end --><!-- HN:48713686:start -->
 * [48713686](https://news.social-protocols.org/stats?id=48713686) #5 22 points 13 comments -> [Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM](https://www.phantafield.com/whitepaper)<!-- HN:48713686:end --><!-- HN:48713887:start -->
 * [48713887](https://news.social-protocols.org/stats?id=48713887) #8 68 points 16 comments -> [Tell Congress: Don't Force Age Checks Online](https://act.eff.org/action/tell-congress-don-t-force-age-checks-online)<!-- HN:48713887:end -->
