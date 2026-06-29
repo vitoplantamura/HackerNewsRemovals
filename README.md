@@ -121,4 +121,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, June 29, 2026**
 <!-- HN:48712762:start -->
 * [48712762](https://news.social-protocols.org/stats?id=48712762) #17 28 points 23 comments -> [Cigarettes](https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/)<!-- HN:48712762:end --><!-- HN:48712338:start -->
-* [48712338](https://news.social-protocols.org/stats?id=48712338) #3 35 points 2 comments -> [A QNX-inspired operating system with selectable kernels](https://qsoe.net)<!-- HN:48712338:end -->
+* [48712338](https://news.social-protocols.org/stats?id=48712338) #3 35 points 2 comments -> [A QNX-inspired operating system with selectable kernels](https://qsoe.net)<!-- HN:48712338:end --><!-- HN:48713686:start -->
+* [48713686](https://news.social-protocols.org/stats?id=48713686) #5 22 points 13 comments -> [Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM](https://www.phantafield.com/whitepaper)<!-- HN:48713686:end -->
