@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 22, 2026**
-<!-- HN:48623568:start -->
-* [48623568](https://news.social-protocols.org/stats?id=48623568) #18 3 points 1 comments -> [Norway Bans AI for Kids 6-13 in Schools](https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/)<!-- HN:48623568:end --><!-- HN:48623159:start -->
-* [48623159](https://news.social-protocols.org/stats?id=48623159) #10 -> [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)<!-- HN:48623159:end --><!-- HN:48624153:start -->
-* [48624153](https://news.social-protocols.org/stats?id=48624153) #3 31 points 32 comments -> [Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6](https://status.claude.com/incidents/lv35v0q9nsj2)<!-- HN:48624153:end --><!-- HN:48576209:start -->
-* [48576209](https://news.social-protocols.org/stats?id=48576209) #17 5 points 0 comments -> [How the dark, violent medieval origins of Robin Hood were erased](https://www.bbc.com/culture/article/20260616-the-dark-violent-medieval-origins-of-robin-hood)<!-- HN:48576209:end --><!-- HN:48601810:start -->
-* [48601810](https://news.social-protocols.org/stats?id=48601810) #10 -> [The Story of Semicolon](https://sheets.works/data-viz/semicolon)<!-- HN:48601810:end --><!-- HN:48632053:start -->
-* [48632053](https://news.social-protocols.org/stats?id=48632053) #10 11 points 3 comments -> [Apparently I'm not a woman because I use Linux](https://danielle.bearblog.dev/apparently-im-not-a-woman-because-i-use-linux/)<!-- HN:48632053:end --><!-- HN:48633012:start -->
-* [48633012](https://news.social-protocols.org/stats?id=48633012) #18 41 points 3 comments -> [Steam Machine Launches Today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)<!-- HN:48633012:end --><!-- HN:48632989:start -->
-* [48632989](https://news.social-protocols.org/stats?id=48632989) #9 48 points 21 comments -> [Steam Machine Game Testing](https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article)<!-- HN:48632989:end --><!-- HN:48635363:start -->
-* [48635363](https://news.social-protocols.org/stats?id=48635363) #12 3 points 0 comments -> [Brazilian Psychic Predicts Alien Invasion During World Cup Game Next Week](https://www.coasttocoastam.com/article/brazilian-psychic-predicts-alien-invasion-during-world-cup-game-next-week/)<!-- HN:48635363:end --><!-- HN:48636100:start -->
-* [48636100](https://news.social-protocols.org/stats?id=48636100) #20 82 points 95 comments -> [Tacky men with ridiculous glasses want you to wear them too](https://manualdousuario.net/en/smart-glasses-ugly-tacky/)<!-- HN:48636100:end -->
 #### **Tuesday, June 23, 2026**
 <!-- HN:48600312:start -->
 * [48600312](https://news.social-protocols.org/stats?id=48600312) #11 966 points 398 comments -> [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)<!-- HN:48600312:end --><!-- HN:48637566:start -->
