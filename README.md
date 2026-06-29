@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48708265](https://news.social-protocols.org/stats?id=48708265) #20 7 points 3 comments -> [Does Your Paper Really Suck?](https://www.sina.bio/posts/does-your-paper-really-suck.html)<!-- HN:48708265:end --><!-- HN:48710749:start -->
 * [48710749](https://news.social-protocols.org/stats?id=48710749) #9 120 points 43 comments -> [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)<!-- HN:48710749:end --><!-- HN:48712604:start -->
 * [48712604](https://news.social-protocols.org/stats?id=48712604) #15 9 points 2 comments -> [Microsoft worker emails employees about company's support of Israel](https://www.thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails/)<!-- HN:48712604:end -->
+#### **Monday, June 29, 2026**
+<!-- HN:48712762:start -->
+* [48712762](https://news.social-protocols.org/stats?id=48712762) #17 28 points 23 comments -> [Cigarettes](https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/)<!-- HN:48712762:end -->
