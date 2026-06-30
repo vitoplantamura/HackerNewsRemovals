@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, June 23, 2026**
-<!-- HN:48600312:start -->
-* [48600312](https://news.social-protocols.org/stats?id=48600312) #11 966 points 398 comments -> [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)<!-- HN:48600312:end --><!-- HN:48637566:start -->
-* [48637566](https://news.social-protocols.org/stats?id=48637566) #12 8 points 0 comments -> [AI's PR Problem](https://blog.dshr.org/2026/05/ais-pr-problem.html)<!-- HN:48637566:end --><!-- HN:48638274:start -->
-* [48638274](https://news.social-protocols.org/stats?id=48638274) #13 5 points 1 comments -> [Fable 5 wrote a Windows kernel in 38 minutes](https://tolmo.com/blog/when-the-model-writes-the-kernel/)<!-- HN:48638274:end --><!-- HN:48638660:start -->
-* [48638660](https://news.social-protocols.org/stats?id=48638660) #5 158 points 71 comments -> [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/)<!-- HN:48638660:end --><!-- HN:48641869:start -->
-* [48641869](https://news.social-protocols.org/stats?id=48641869) #21 5 points 2 comments -> [EU could open deportation centres outside bloc by next year, says Denmark PM](https://www.ft.com/content/cce58433-02bf-47aa-9222-89dd4e0ba2bd)<!-- HN:48641869:end --><!-- HN:48641763:start -->
-* [48641763](https://news.social-protocols.org/stats?id=48641763) #19 13 points 9 comments -> [Show HN: Ideate a trading strategy with an Ex-Citadel Trader](https://sean-but-ai.vercel.app/)<!-- HN:48641763:end --><!-- HN:48648371:start -->
-* [48648371](https://news.social-protocols.org/stats?id=48648371) #13 170 points 6 comments -> [75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why](https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why)<!-- HN:48648371:end --><!-- HN:48649183:start -->
-* [48649183](https://news.social-protocols.org/stats?id=48649183) #20 16 points 12 comments -> [The End of Code Review: Coding Agents Supersede Human Inspection](https://arxiv.org/abs/2606.13175)<!-- HN:48649183:end --><!-- HN:48650924:start -->
-* [48650924](https://news.social-protocols.org/stats?id=48650924) #20 21 points 4 comments -> [Scars mark Britain's economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)<!-- HN:48650924:end --><!-- HN:48650311:start -->
-* [48650311](https://news.social-protocols.org/stats?id=48650311) #3 179 points 145 comments -> [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)<!-- HN:48650311:end --><!-- HN:48651163:start -->
-* [48651163](https://news.social-protocols.org/stats?id=48651163) #22 18 points 3 comments -> [Audit finds San Francisco tax official steered $10M contract to friend](https://sfstandard.com/2026/06/23/audit-sparked-standard-investigation-finds-tax-official-steered-10m-contract-friend/)<!-- HN:48651163:end --><!-- HN:48651494:start -->
-* [48651494](https://news.social-protocols.org/stats?id=48651494) #26 7 points 3 comments -> [No AI Co-Authors. A Manifesto](https://no-ai-coauthors.dev)<!-- HN:48651494:end --><!-- HN:48651700:start -->
-* [48651700](https://news.social-protocols.org/stats?id=48651700) #12 9 points 1 comments -> [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)<!-- HN:48651700:end --><!-- HN:48651552:start -->
-* [48651552](https://news.social-protocols.org/stats?id=48651552) #17 68 points 44 comments -> [All train services in Germany halted after train radio communications disruption](https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html)<!-- HN:48651552:end -->
 #### **Wednesday, June 24, 2026**
 <!-- HN:48653746:start -->
 * [48653746](https://news.social-protocols.org/stats?id=48653746) #16 18 points 10 comments -> [How to Passive-Aggressively Shame People Who Use LLMs Selfishly](https://joshmoody.org/blog/selfish-ai/)<!-- HN:48653746:end --><!-- HN:48654823:start -->
