@@ -118,3 +118,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48722366](https://news.social-protocols.org/stats?id=48722366) #6 12 points 0 comments -> [Mullvad's co-founder is bankrolling the far right](https://korben.info/en/mullvad-cofounder-funding-far-right.html)<!-- HN:48722366:end --><!-- HN:48723276:start -->
 * [48723276](https://news.social-protocols.org/stats?id=48723276) #13 17 points 9 comments -> [The 80% Problem: The Last 20% Is Where the Engineer Used to Live](https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html)<!-- HN:48723276:end --><!-- HN:48668269:start -->
 * [48668269](https://news.social-protocols.org/stats?id=48668269) #17 11 points 6 comments -> [Alternatives to Nested If Function](https://medium.com/@crispomwangi/7-alternatives-to-nested-if-function-a9cb07f3df1e)<!-- HN:48668269:end -->
+#### **Tuesday, June 30, 2026**
+<!-- HN:48727059:start -->
+* [48727059](https://news.social-protocols.org/stats?id=48727059) #17 4 points 3 comments -> [What any website can see about you](https://mysysinfo.com)<!-- HN:48727059:end --><!-- HN:48725359:start -->
+* [48725359](https://news.social-protocols.org/stats?id=48725359) #22 29 points 40 comments -> [You really shouldn't copy-paste errors into Claude Code](https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code)<!-- HN:48725359:end -->
