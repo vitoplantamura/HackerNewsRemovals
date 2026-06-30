@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48727059:start -->
 * [48727059](https://news.social-protocols.org/stats?id=48727059) #17 4 points 3 comments -> [What any website can see about you](https://mysysinfo.com)<!-- HN:48727059:end --><!-- HN:48725359:start -->
 * [48725359](https://news.social-protocols.org/stats?id=48725359) #22 29 points 40 comments -> [You really shouldn't copy-paste errors into Claude Code](https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code)<!-- HN:48725359:end --><!-- HN:48727538:start -->
-* [48727538](https://news.social-protocols.org/stats?id=48727538) #25 26 points 22 comments -> [Why Won't Europe Build AI Data Centers in Iceland?](https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/)<!-- HN:48727538:end -->
+* [48727538](https://news.social-protocols.org/stats?id=48727538) #25 26 points 22 comments -> [Why Won't Europe Build AI Data Centers in Iceland?](https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/)<!-- HN:48727538:end --><!-- HN:48728442:start -->
+* [48728442](https://news.social-protocols.org/stats?id=48728442) #30 10 points 0 comments -> [ICE Tracks Down Woman to Force Her to Delete Instagram Post](https://newrepublic.com/post/212340/ice-poll-worker-election-delete-instagram-post)<!-- HN:48728442:end -->
