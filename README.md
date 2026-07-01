@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48737302](https://news.social-protocols.org/stats?id=48737302) #18 20 points 13 comments -> [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)<!-- HN:48737302:end --><!-- HN:48737575:start -->
 * [48737575](https://news.social-protocols.org/stats?id=48737575) #17 13 points 0 comments -> [AI Is Making Us Lose Our Individuality](https://emmettbuckthompson.com/blog/ai-is-making-us-lose-our-individuality)<!-- HN:48737575:end --><!-- HN:48738413:start -->
 * [48738413](https://news.social-protocols.org/stats?id=48738413) #30 15 points 40 comments -> [The best thing that's ever happened for multiplayer games?](https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/)<!-- HN:48738413:end -->
+#### **Wednesday, July 1, 2026**
+<!-- HN:48740817:start -->
+* [48740817](https://news.social-protocols.org/stats?id=48740817) #23 63 points 2 comments -> [Claude Fable 5 export control lifted](https://twitter.com/synthwavedd/status/2072103052635451559)<!-- HN:48740817:end -->
