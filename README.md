@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48738413](https://news.social-protocols.org/stats?id=48738413) #30 15 points 40 comments -> [The best thing that's ever happened for multiplayer games?](https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/)<!-- HN:48738413:end -->
 #### **Wednesday, July 1, 2026**
 <!-- HN:48740817:start -->
-* [48740817](https://news.social-protocols.org/stats?id=48740817) #23 63 points 2 comments -> [Claude Fable 5 export control lifted](https://twitter.com/synthwavedd/status/2072103052635451559)<!-- HN:48740817:end -->
+* [48740817](https://news.social-protocols.org/stats?id=48740817) #23 63 points 2 comments -> [Claude Fable 5 export control lifted](https://twitter.com/synthwavedd/status/2072103052635451559)<!-- HN:48740817:end --><!-- HN:48740805:start -->
+* [48740805](https://news.social-protocols.org/stats?id=48740805) #20 42 points 7 comments -> [Anthropic to restoring access to Claude Fable 5 and Mythos 5 from tomorrow](https://xcancel.com/AnthropicAI/status/2072106151890809341)<!-- HN:48740805:end -->
