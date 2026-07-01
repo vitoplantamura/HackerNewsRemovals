@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48738413](https://news.social-protocols.org/stats?id=48738413) #30 15 points 40 comments -> [The best thing that's ever happened for multiplayer games?](https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/)<!-- HN:48738413:end -->
 #### **Wednesday, July 1, 2026**
 <!-- HN:48740817:start -->
-* [48740817](https://news.social-protocols.org/stats?id=48740817) #23 63 points 2 comments -> [Claude Fable 5 export control lifted](https://twitter.com/synthwavedd/status/2072103052635451559)<!-- HN:48740817:end -->
+* [48740817](https://news.social-protocols.org/stats?id=48740817) #23 63 points 2 comments -> [Claude Fable 5 export control lifted](https://twitter.com/synthwavedd/status/2072103052635451559)<!-- HN:48740817:end --><!-- HN:48741012:start -->
+* [48741012](https://news.social-protocols.org/stats?id=48741012) #1 134 points 33 comments -> [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f)<!-- HN:48741012:end -->
