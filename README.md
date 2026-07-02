@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48751752](https://news.social-protocols.org/stats?id=48751752) #6 262 points 142 comments -> [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)<!-- HN:48751752:end --><!-- HN:48753342:start -->
 * [48753342](https://news.social-protocols.org/stats?id=48753342) #22 37 points 15 comments -> [Japan has 41% of the 100-year companies – secrets of 1,447-year survival](https://www.j-times.org/en/media/articles/japan-shinise-1400-years-2026/)<!-- HN:48753342:end --><!-- HN:48754128:start -->
 * [48754128](https://news.social-protocols.org/stats?id=48754128) #12 38 points 22 comments -> [US feds are actively hiring "person who decides which models to ban"](https://www.usajobs.gov/job/856265200)<!-- HN:48754128:end -->
+#### **Thursday, July 2, 2026**
+<!-- HN:48755965:start -->
+* [48755965](https://news.social-protocols.org/stats?id=48755965) #8 18 points 0 comments -> [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)<!-- HN:48755965:end -->
