@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48755653:start -->
 * [48755653](https://news.social-protocols.org/stats?id=48755653) #13 14 points 3 comments -> [Avoiding Fallback in Distributed Systems](https://builder.aws.com)<!-- HN:48755653:end --><!-- HN:48756038:start -->
 * [48756038](https://news.social-protocols.org/stats?id=48756038) #10 11 points 5 comments -> [Show HN: Meow – The 4th and final JavaScript runtime and toolchain](https://meow.style)<!-- HN:48756038:end --><!-- HN:48757500:start -->
-* [48757500](https://news.social-protocols.org/stats?id=48757500) #7 13 points 3 comments -> [MarketFish – Simulate a market with 128 AI consumers before you launch](https://github.com/Key-wxh/market-fish)<!-- HN:48757500:end -->
+* [48757500](https://news.social-protocols.org/stats?id=48757500) #7 13 points 3 comments -> [MarketFish – Simulate a market with 128 AI consumers before you launch](https://github.com/Key-wxh/market-fish)<!-- HN:48757500:end --><!-- HN:48759252:start -->
+* [48759252](https://news.social-protocols.org/stats?id=48759252) #7 10 points 5 comments -> [Canadian boy, 11, dies of rabies after waking to bat on his face](https://www.bbc.com/news/articles/c982m1m95q9o)<!-- HN:48759252:end -->
