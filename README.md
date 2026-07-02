@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, July 2, 2026**
 <!-- HN:48755965:start -->
 * [48755965](https://news.social-protocols.org/stats?id=48755965) #8 18 points 0 comments -> [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)<!-- HN:48755965:end --><!-- HN:48755653:start -->
-* [48755653](https://news.social-protocols.org/stats?id=48755653) #13 14 points 3 comments -> [Avoiding Fallback in Distributed Systems](https://builder.aws.com)<!-- HN:48755653:end -->
+* [48755653](https://news.social-protocols.org/stats?id=48755653) #13 14 points 3 comments -> [Avoiding Fallback in Distributed Systems](https://builder.aws.com)<!-- HN:48755653:end --><!-- HN:48756038:start -->
+* [48756038](https://news.social-protocols.org/stats?id=48756038) #10 11 points 5 comments -> [Show HN: Meow – The 4th and final JavaScript runtime and toolchain](https://meow.style)<!-- HN:48756038:end -->
