@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48769110:start -->
 * [48769110](https://news.social-protocols.org/stats?id=48769110) #13 18 points 40 comments -> ["An AI Job Apocalypse?" – Goldman Sachs Report [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=)<!-- HN:48769110:end --><!-- HN:48770226:start -->
 * [48770226](https://news.social-protocols.org/stats?id=48770226) #12 10 points 6 comments -> [Ask HN: Looking for work, donations, friendship, or advisors](https://cjohnson.io/history)<!-- HN:48770226:end --><!-- HN:48770677:start -->
-* [48770677](https://news.social-protocols.org/stats?id=48770677) #10 9 points 0 comments -> [Wasmer: Fast, secure, lightweight containers based on WebAssembly](https://wasmer.io/)<!-- HN:48770677:end -->
+* [48770677](https://news.social-protocols.org/stats?id=48770677) #10 9 points 0 comments -> [Wasmer: Fast, secure, lightweight containers based on WebAssembly](https://wasmer.io/)<!-- HN:48770677:end --><!-- HN:48770575:start -->
+* [48770575](https://news.social-protocols.org/stats?id=48770575) #18 13 points 2 comments -> [Every AI Visibility Tool Is Lying to You](https://canonry.ai/blog/ai-visibility-tools-are-lying)<!-- HN:48770575:end -->
