@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 3, 2026**
 <!-- HN:48769110:start -->
 * [48769110](https://news.social-protocols.org/stats?id=48769110) #13 18 points 40 comments -> ["An AI Job Apocalypse?" – Goldman Sachs Report [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=)<!-- HN:48769110:end --><!-- HN:48770226:start -->
-* [48770226](https://news.social-protocols.org/stats?id=48770226) #12 10 points 6 comments -> [Ask HN: Looking for work, donations, friendship, or advisors](https://cjohnson.io/history)<!-- HN:48770226:end -->
+* [48770226](https://news.social-protocols.org/stats?id=48770226) #12 10 points 6 comments -> [Ask HN: Looking for work, donations, friendship, or advisors](https://cjohnson.io/history)<!-- HN:48770226:end --><!-- HN:48766209:start -->
+* [48766209](https://news.social-protocols.org/stats?id=48766209) #15 119 points 45 comments -> [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)<!-- HN:48766209:end -->
