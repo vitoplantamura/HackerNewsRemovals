@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48732250](https://news.social-protocols.org/stats?id=48732250) #21 9 points 0 comments -> [Too many tables are bad for you](https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/)<!-- HN:48732250:end --><!-- HN:48766630:start -->
 * [48766630](https://news.social-protocols.org/stats?id=48766630) #14 3 points 1 comments -> [Rust Is Not a Memory-Safe Language](http://unsoliciteddave.blogspot.com/2026/07/rust-is-not-memory-safe.html)<!-- HN:48766630:end --><!-- HN:48767515:start -->
 * [48767515](https://news.social-protocols.org/stats?id=48767515) #22 10 points 7 comments -> [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)<!-- HN:48767515:end -->
+#### **Friday, July 3, 2026**
+<!-- HN:48769110:start -->
+* [48769110](https://news.social-protocols.org/stats?id=48769110) #13 18 points 40 comments -> ["An AI Job Apocalypse?" – Goldman Sachs Report [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=)<!-- HN:48769110:end -->
