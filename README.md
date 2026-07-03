@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48767515](https://news.social-protocols.org/stats?id=48767515) #22 10 points 7 comments -> [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)<!-- HN:48767515:end -->
 #### **Friday, July 3, 2026**
 <!-- HN:48769110:start -->
-* [48769110](https://news.social-protocols.org/stats?id=48769110) #13 18 points 40 comments -> ["An AI Job Apocalypse?" – Goldman Sachs Report [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=)<!-- HN:48769110:end -->
+* [48769110](https://news.social-protocols.org/stats?id=48769110) #13 18 points 40 comments -> ["An AI Job Apocalypse?" – Goldman Sachs Report [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=)<!-- HN:48769110:end --><!-- HN:48770226:start -->
+* [48770226](https://news.social-protocols.org/stats?id=48770226) #12 10 points 6 comments -> [Ask HN: Looking for work, donations, friendship, or advisors](https://cjohnson.io/history)<!-- HN:48770226:end -->
