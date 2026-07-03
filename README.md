@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, June 26, 2026**
-<!-- HN:48680727:start -->
-* [48680727](https://news.social-protocols.org/stats?id=48680727) #10 14 points 5 comments -> [Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)](https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum)<!-- HN:48680727:end --><!-- HN:48629112:start -->
-* [48629112](https://news.social-protocols.org/stats?id=48629112) #19 3 points 0 comments -> [You Have to Poop in the Eiffel Tower [video]](https://www.youtube.com/watch?v=1v2g3GLaJtE)<!-- HN:48629112:end --><!-- HN:48681361:start -->
-* [48681361](https://news.social-protocols.org/stats?id=48681361) #30 23 points 6 comments -> [A data race that doesn't compile (in Rust)](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/)<!-- HN:48681361:end --><!-- HN:48623687:start -->
-* [48623687](https://news.social-protocols.org/stats?id=48623687) #17 5 points 1 comments -> [Falcon GX the most powerful brand engineering tool](https://falcon.so/)<!-- HN:48623687:end --><!-- HN:48684063:start -->
-* [48684063](https://news.social-protocols.org/stats?id=48684063) #29 6 points 0 comments -> [Alan Greenspan Has Died](https://businessdesk.co.nz/article/economy/remembering-alan-greenspan)<!-- HN:48684063:end --><!-- HN:48685789:start -->
-* [48685789](https://news.social-protocols.org/stats?id=48685789) #14 7 points 2 comments -> [What Would C. S. Lewis Have Thought of AI?](https://chroniclesmagazine.org/web/what-would-c-s-lewis-have-thought-of-ai/)<!-- HN:48685789:end --><!-- HN:48686576:start -->
-* [48686576](https://news.social-protocols.org/stats?id=48686576) #22 16 points 22 comments -> [Why were Covid vaccine trials so fast?](https://www.clinicaltrialsabundance.blog/p/why-were-covid-vaccine-trials-so-fast)<!-- HN:48686576:end --><!-- HN:48630499:start -->
-* [48630499](https://news.social-protocols.org/stats?id=48630499) #17 33 points 12 comments -> [The best thing that has ever happened for multiplayer games](https://mas-bandwidth.com/the-best-thing-that-has-ever-happened-for-multiplayer-games/)<!-- HN:48630499:end --><!-- HN:48687794:start -->
-* [48687794](https://news.social-protocols.org/stats?id=48687794) #11 21 points 16 comments -> [Why software engineers are grieving](https://dev.jimgrey.net/2026/06/25/why-software-engineers-are-grieving/)<!-- HN:48687794:end --><!-- HN:48687508:start -->
-* [48687508](https://news.social-protocols.org/stats?id=48687508) #21 51 points 34 comments -> [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)<!-- HN:48687508:end --><!-- HN:48689182:start -->
-* [48689182](https://news.social-protocols.org/stats?id=48689182) #20 16 points 2 comments -> [Ex-NOAA employees laid off by DOGE rebuilt climate website](https://www.climate.us/)<!-- HN:48689182:end --><!-- HN:48692620:start -->
-* [48692620](https://news.social-protocols.org/stats?id=48692620) #25 8 points 2 comments -> [US strikes Iran in response to drone strike on commercial ship](https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship)<!-- HN:48692620:end -->
 #### **Saturday, June 27, 2026**
 <!-- HN:48695981:start -->
 * [48695981](https://news.social-protocols.org/stats?id=48695981) #23 10 points 0 comments -> [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)<!-- HN:48695981:end --><!-- HN:48648008:start -->
