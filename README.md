@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, June 27, 2026**
-<!-- HN:48695981:start -->
-* [48695981](https://news.social-protocols.org/stats?id=48695981) #23 10 points 0 comments -> [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)<!-- HN:48695981:end --><!-- HN:48648008:start -->
-* [48648008](https://news.social-protocols.org/stats?id=48648008) #15 13 points 0 comments -> [Building apps using TanStack Start](https://lovable.dev/blog/building-apps-using-tanstack-start)<!-- HN:48648008:end --><!-- HN:48696176:start -->
-* [48696176](https://news.social-protocols.org/stats?id=48696176) #3 4 points 0 comments -> [World Cup fans frustrated by 'confusing and expensive' tipping culture in US](https://www.bbc.com/news/articles/clyxgjykx7lo)<!-- HN:48696176:end --><!-- HN:48690709:start -->
-* [48690709](https://news.social-protocols.org/stats?id=48690709) #29 81 points 1 comments -> [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)<!-- HN:48690709:end --><!-- HN:48648341:start -->
-* [48648341](https://news.social-protocols.org/stats?id=48648341) #14 11 points 16 comments -> [Why Windows 95 Was Tech's Last True Revolution](https://comuniq.xyz/post.php?t=1307)<!-- HN:48648341:end --><!-- HN:48699969:start -->
-* [48699969](https://news.social-protocols.org/stats?id=48699969) #21 12 points 15 comments -> ["No, I swear I wrote this."](https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this)<!-- HN:48699969:end --><!-- HN:48701766:start -->
-* [48701766](https://news.social-protocols.org/stats?id=48701766) #20 9 points 40 comments -> [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)<!-- HN:48701766:end -->
 #### **Sunday, June 28, 2026**
 <!-- HN:48705396:start -->
 * [48705396](https://news.social-protocols.org/stats?id=48705396) #28 9 points 0 comments -> [Hungary holds first post-Orban Budapest Pride march](https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596)<!-- HN:48705396:end --><!-- HN:48705276:start -->

@@ -296,3 +296,12 @@
 * [48687508](https://news.ycombinator.com/item?id=48687508) #21 51 points 34 comments -> [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)<!-- HN:48687508:end --><!-- HN:48689182:start -->
 * [48689182](https://news.ycombinator.com/item?id=48689182) #20 16 points 2 comments -> [Ex-NOAA employees laid off by DOGE rebuilt climate website](https://www.climate.us/)<!-- HN:48689182:end --><!-- HN:48692620:start -->
 * [48692620](https://news.ycombinator.com/item?id=48692620) #25 8 points 2 comments -> [US strikes Iran in response to drone strike on commercial ship](https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship)<!-- HN:48692620:end -->
+#### **Saturday, June 27, 2026**
+<!-- HN:48695981:start -->
+* [48695981](https://news.ycombinator.com/item?id=48695981) #23 10 points 0 comments -> [Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html)<!-- HN:48695981:end --><!-- HN:48648008:start -->
+* [48648008](https://news.ycombinator.com/item?id=48648008) #15 13 points 0 comments -> [Building apps using TanStack Start](https://lovable.dev/blog/building-apps-using-tanstack-start)<!-- HN:48648008:end --><!-- HN:48696176:start -->
+* [48696176](https://news.ycombinator.com/item?id=48696176) #3 4 points 0 comments -> [World Cup fans frustrated by 'confusing and expensive' tipping culture in US](https://www.bbc.com/news/articles/clyxgjykx7lo)<!-- HN:48696176:end --><!-- HN:48690709:start -->
+* [48690709](https://news.ycombinator.com/item?id=48690709) #29 81 points 1 comments -> [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)<!-- HN:48690709:end --><!-- HN:48648341:start -->
+* [48648341](https://news.ycombinator.com/item?id=48648341) #14 11 points 16 comments -> [Why Windows 95 Was Tech's Last True Revolution](https://comuniq.xyz/post.php?t=1307)<!-- HN:48648341:end --><!-- HN:48699969:start -->
+* [48699969](https://news.ycombinator.com/item?id=48699969) #21 12 points 15 comments -> ["No, I swear I wrote this."](https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this)<!-- HN:48699969:end --><!-- HN:48701766:start -->
+* [48701766](https://news.ycombinator.com/item?id=48701766) #20 9 points 40 comments -> [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)<!-- HN:48701766:end -->
