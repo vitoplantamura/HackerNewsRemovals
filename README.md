@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48779415](https://news.social-protocols.org/stats?id=48779415) #16 34 points 20 comments -> [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)<!-- HN:48779415:end --><!-- HN:48780352:start -->
 * [48780352](https://news.social-protocols.org/stats?id=48780352) #13 40 points 19 comments -> [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)<!-- HN:48780352:end --><!-- HN:48780857:start -->
 * [48780857](https://news.social-protocols.org/stats?id=48780857) #14 9 points 2 comments -> [Elevating Privileges from Firefox to Android Root](https://rootme.nebusec.ai/)<!-- HN:48780857:end -->
+#### **Saturday, July 4, 2026**
+<!-- HN:48781597:start -->
+* [48781597](https://news.social-protocols.org/stats?id=48781597) #9 -> [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)<!-- HN:48781597:end -->
