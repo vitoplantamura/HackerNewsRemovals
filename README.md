@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 4, 2026**
 <!-- HN:48781865:start -->
 * [48781865](https://news.social-protocols.org/stats?id=48781865) #10 7 points 2 comments -> [CueBench for Developers is live: score how well you drive coding agents](https://app.cuebench.dev)<!-- HN:48781865:end --><!-- HN:48783020:start -->
-* [48783020](https://news.social-protocols.org/stats?id=48783020) #2 9 points 1 comments -> [Bloomberg Terminal Is Ugly and Clunky–Everyone Still Uses It](https://oztalking.com/en/issues/bloomberg-terminal-lock-in)<!-- HN:48783020:end -->
+* [48783020](https://news.social-protocols.org/stats?id=48783020) #2 9 points 1 comments -> [Bloomberg Terminal Is Ugly and Clunky–Everyone Still Uses It](https://oztalking.com/en/issues/bloomberg-terminal-lock-in)<!-- HN:48783020:end --><!-- HN:48783125:start -->
+* [48783125](https://news.social-protocols.org/stats?id=48783125) #12 6 points 3 comments -> [Godot bans "vibe-coded" code contributions](https://theguptalog.blogspot.com/2026/07/godot-bans-ai-generated-code.html)<!-- HN:48783125:end -->
