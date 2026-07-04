@@ -135,5 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48780352](https://news.social-protocols.org/stats?id=48780352) #13 40 points 19 comments -> [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)<!-- HN:48780352:end --><!-- HN:48780857:start -->
 * [48780857](https://news.social-protocols.org/stats?id=48780857) #14 9 points 2 comments -> [Elevating Privileges from Firefox to Android Root](https://rootme.nebusec.ai/)<!-- HN:48780857:end -->
 #### **Saturday, July 4, 2026**
-<!-- HN:48781597:start -->
-* [48781597](https://news.social-protocols.org/stats?id=48781597) #9 -> [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)<!-- HN:48781597:end -->
+<!-- HN:48781865:start -->
+* [48781865](https://news.social-protocols.org/stats?id=48781865) #10 7 points 2 comments -> [CueBench for Developers is live: score how well you drive coding agents](https://app.cuebench.dev)<!-- HN:48781865:end -->
