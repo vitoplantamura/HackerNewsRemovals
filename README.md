@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, June 28, 2026**
-<!-- HN:48705396:start -->
-* [48705396](https://news.social-protocols.org/stats?id=48705396) #28 9 points 0 comments -> [Hungary holds first post-Orban Budapest Pride march](https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596)<!-- HN:48705396:end --><!-- HN:48705276:start -->
-* [48705276](https://news.social-protocols.org/stats?id=48705276) #25 38 points 41 comments -> [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)<!-- HN:48705276:end --><!-- HN:48703968:start -->
-* [48703968](https://news.social-protocols.org/stats?id=48703968) #12 205 points 131 comments -> [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)<!-- HN:48703968:end --><!-- HN:48655158:start -->
-* [48655158](https://news.social-protocols.org/stats?id=48655158) #12 5 points 0 comments -> [Instantiating UI Components with Distinguishing Variations [pdf]](https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf)<!-- HN:48655158:end --><!-- HN:48706690:start -->
-* [48706690](https://news.social-protocols.org/stats?id=48706690) #19 14 points 14 comments -> [Guy in his basement creates a drug to treat Alzheimer's disease using AI](https://twitter.com/DouglasYaoDY/status/2070904914050797582)<!-- HN:48706690:end --><!-- HN:48706903:start -->
-* [48706903](https://news.social-protocols.org/stats?id=48706903) #4 23 points 41 comments -> [Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?](https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor)<!-- HN:48706903:end --><!-- HN:48708265:start -->
-* [48708265](https://news.social-protocols.org/stats?id=48708265) #20 7 points 3 comments -> [Does Your Paper Really Suck?](https://www.sina.bio/posts/does-your-paper-really-suck.html)<!-- HN:48708265:end --><!-- HN:48710749:start -->
-* [48710749](https://news.social-protocols.org/stats?id=48710749) #9 120 points 43 comments -> [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)<!-- HN:48710749:end --><!-- HN:48712604:start -->
-* [48712604](https://news.social-protocols.org/stats?id=48712604) #15 9 points 2 comments -> [Microsoft worker emails employees about company's support of Israel](https://www.thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails/)<!-- HN:48712604:end -->
 #### **Monday, June 29, 2026**
 <!-- HN:48712338:start -->
 * [48712338](https://news.social-protocols.org/stats?id=48712338) #3 35 points 2 comments -> [A QNX-inspired operating system with selectable kernels](https://qsoe.net)<!-- HN:48712338:end --><!-- HN:48713686:start -->
