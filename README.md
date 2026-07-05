@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, July 5, 2026**
 <!-- HN:48790122:start -->
 * [48790122](https://news.social-protocols.org/stats?id=48790122) #23 9 points 6 comments -> [Zo Computer](https://www.zo.computer)<!-- HN:48790122:end --><!-- HN:48789325:start -->
-* [48789325](https://news.social-protocols.org/stats?id=48789325) #26 28 points 41 comments -> [My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress](https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/)<!-- HN:48789325:end -->
+* [48789325](https://news.social-protocols.org/stats?id=48789325) #26 28 points 41 comments -> [My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress](https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/)<!-- HN:48789325:end --><!-- HN:48747762:start -->
+* [48747762](https://news.social-protocols.org/stats?id=48747762) #20 30 points 40 comments -> [Can you build a recognizable World Map in under 500 bytes?](https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes)<!-- HN:48747762:end -->
