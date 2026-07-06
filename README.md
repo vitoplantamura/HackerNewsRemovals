@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, June 29, 2026**
-<!-- HN:48712338:start -->
-* [48712338](https://news.social-protocols.org/stats?id=48712338) #3 35 points 2 comments -> [A QNX-inspired operating system with selectable kernels](https://qsoe.net)<!-- HN:48712338:end --><!-- HN:48713686:start -->
-* [48713686](https://news.social-protocols.org/stats?id=48713686) #5 22 points 13 comments -> [Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM](https://www.phantafield.com/whitepaper)<!-- HN:48713686:end --><!-- HN:48713887:start -->
-* [48713887](https://news.social-protocols.org/stats?id=48713887) #8 68 points 16 comments -> [Tell Congress: Don't Force Age Checks Online](https://act.eff.org/action/tell-congress-don-t-force-age-checks-online)<!-- HN:48713887:end --><!-- HN:48714919:start -->
-* [48714919](https://news.social-protocols.org/stats?id=48714919) #4 21 points 4 comments -> [Some Simple Economics of AGI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838)<!-- HN:48714919:end --><!-- HN:48717573:start -->
-* [48717573](https://news.social-protocols.org/stats?id=48717573) #18 4 points 0 comments -> [Children in West Bank are being killed by Israel without accountability](https://www.theguardian.com/world/2026/jun/29/is-it-israels-aim-to-kill-our-children-west-bank-parents-implore-end-to-idfs-child-killings-with-impunity)<!-- HN:48717573:end --><!-- HN:48719665:start -->
-* [48719665](https://news.social-protocols.org/stats?id=48719665) #27 54 points 35 comments -> [A field guide to the modern front end for developers who hand-wrote HTML](https://davidpoblador.com/deep-dives/the-descent/)<!-- HN:48719665:end --><!-- HN:48720179:start -->
-* [48720179](https://news.social-protocols.org/stats?id=48720179) #10 12 points 3 comments -> [WebGL Without a GPU](https://microlink.io/blog/webgl-without-a-gpu)<!-- HN:48720179:end --><!-- HN:48719483:start -->
-* [48719483](https://news.social-protocols.org/stats?id=48719483) #20 12 points 6 comments -> [DocumentDB – a MongoDB compatible open-source database](https://documentdb.io/)<!-- HN:48719483:end --><!-- HN:48720997:start -->
-* [48720997](https://news.social-protocols.org/stats?id=48720997) #4 15 points 0 comments -> [Mullvad's co-founder is bankrolling the far right](https://korben.info/en/mullvad-cofounder-funding-far-right.html)<!-- HN:48720997:end --><!-- HN:48721083:start -->
-* [48721083](https://news.social-protocols.org/stats?id=48721083) #2 30 points 6 comments -> [Mullvad VPN co-founder donated ~500,000USD to Swedish far-right political party](https://www.flamman.se/techprofil-ger-miljoner-till-orebropartiet/)<!-- HN:48721083:end --><!-- HN:48722366:start -->
-* [48722366](https://news.social-protocols.org/stats?id=48722366) #6 12 points 0 comments -> [Mullvad's co-founder is bankrolling the far right](https://korben.info/en/mullvad-cofounder-funding-far-right.html)<!-- HN:48722366:end --><!-- HN:48723276:start -->
-* [48723276](https://news.social-protocols.org/stats?id=48723276) #13 17 points 9 comments -> [The 80% Problem: The Last 20% Is Where the Engineer Used to Live](https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html)<!-- HN:48723276:end --><!-- HN:48668269:start -->
-* [48668269](https://news.social-protocols.org/stats?id=48668269) #17 11 points 6 comments -> [Alternatives to Nested If Function](https://medium.com/@crispomwangi/7-alternatives-to-nested-if-function-a9cb07f3df1e)<!-- HN:48668269:end -->
 #### **Tuesday, June 30, 2026**
 <!-- HN:48727059:start -->
 * [48727059](https://news.social-protocols.org/stats?id=48727059) #17 4 points 3 comments -> [What any website can see about you](https://mysysinfo.com)<!-- HN:48727059:end --><!-- HN:48725359:start -->
