@@ -142,3 +142,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48797824](https://news.social-protocols.org/stats?id=48797824) #30 9 points 2 comments -> [How to Dox Anyone](https://madattheinternet.substack.com/p/how-to-dox-anyone)<!-- HN:48797824:end --><!-- HN:48797878:start -->
 * [48797878](https://news.social-protocols.org/stats?id=48797878) #22 11 points 3 comments -> [Y Combinator.singles](https://www.ycombinator.singles/)<!-- HN:48797878:end --><!-- HN:48798409:start -->
 * [48798409](https://news.social-protocols.org/stats?id=48798409) #7 8 points 1 comments -> [AI Can Steal Your Bank Account in Hours](https://jmagineuniverse.blogspot.com/p/six-hours-to-infiltrate-bank-how-ai-is_0978359463.html)<!-- HN:48798409:end -->
+#### **Monday, July 6, 2026**
+<!-- HN:48798187:start -->
+* [48798187](https://news.social-protocols.org/stats?id=48798187) #30 9 points 2 comments -> [Had an idea for a Rust editor with simple Vim mode for learning](https://github.com/electronicsleep/rust-vim)<!-- HN:48798187:end -->
