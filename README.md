@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 6, 2026**
 <!-- HN:48798187:start -->
 * [48798187](https://news.social-protocols.org/stats?id=48798187) #30 9 points 2 comments -> [Had an idea for a Rust editor with simple Vim mode for learning](https://github.com/electronicsleep/rust-vim)<!-- HN:48798187:end --><!-- HN:48799220:start -->
-* [48799220](https://news.social-protocols.org/stats?id=48799220) #14 5 points 6 comments -> [Strange Balls found on Queensland beaches could be toxic 'space debris': experts](https://www.inkl.com/news/strange-balls-found-on-queensland-beaches-could-be-toxic-space-debris-experts-warn)<!-- HN:48799220:end -->
+* [48799220](https://news.social-protocols.org/stats?id=48799220) #14 5 points 6 comments -> [Strange Balls found on Queensland beaches could be toxic 'space debris': experts](https://www.inkl.com/news/strange-balls-found-on-queensland-beaches-could-be-toxic-space-debris-experts-warn)<!-- HN:48799220:end --><!-- HN:48799192:start -->
+* [48799192](https://news.social-protocols.org/stats?id=48799192) #22 7 points 0 comments -> [Building Agents That Don't Break Themselves](https://fly.io/blog/building-agents-that-dont-break-themselves/)<!-- HN:48799192:end -->
