@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48811357](https://news.social-protocols.org/stats?id=48811357) #30 3 points 0 comments -> [Claude and Codex and Grok: my current workflow and its friction](https://www.nativesoul.dev/)<!-- HN:48811357:end -->
 #### **Tuesday, July 7, 2026**
 <!-- HN:48812450:start -->
-* [48812450](https://news.social-protocols.org/stats?id=48812450) #16 5 points 2 comments -> [I created a free tool that pairs your Nasic and past performance to win contract](https://www.fedfinder.net/)<!-- HN:48812450:end -->
+* [48812450](https://news.social-protocols.org/stats?id=48812450) #16 5 points 2 comments -> [I created a free tool that pairs your Nasic and past performance to win contract](https://www.fedfinder.net/)<!-- HN:48812450:end --><!-- HN:48770485:start -->
+* [48770485](https://news.social-protocols.org/stats?id=48770485) #12 6 points 2 comments -> [Artificial and Fake Eggs: Dance of Death](https://www.researchgate.net/publication/281149909_Artificial_and_Fake_Eggs_Dance_of_Death)<!-- HN:48770485:end -->
