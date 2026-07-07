@@ -150,4 +150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48812450:start -->
 * [48812450](https://news.social-protocols.org/stats?id=48812450) #16 5 points 2 comments -> [I created a free tool that pairs your Nasic and past performance to win contract](https://www.fedfinder.net/)<!-- HN:48812450:end --><!-- HN:48770485:start -->
 * [48770485](https://news.social-protocols.org/stats?id=48770485) #12 6 points 2 comments -> [Artificial and Fake Eggs: Dance of Death](https://www.researchgate.net/publication/281149909_Artificial_and_Fake_Eggs_Dance_of_Death)<!-- HN:48770485:end --><!-- HN:48814852:start -->
-* [48814852](https://news.social-protocols.org/stats?id=48814852) #8 4 points 0 comments -> [Fable – Inner Forward Pass](https://claude.ai/public/artifacts/05b42f8b-a4a3-4a7a-9774-c5d427ada379)<!-- HN:48814852:end -->
+* [48814852](https://news.social-protocols.org/stats?id=48814852) #8 4 points 0 comments -> [Fable – Inner Forward Pass](https://claude.ai/public/artifacts/05b42f8b-a4a3-4a7a-9774-c5d427ada379)<!-- HN:48814852:end --><!-- HN:48816087:start -->
+* [48816087](https://news.social-protocols.org/stats?id=48816087) #1 6 points 1 comments -> [IDE with agentic support built using Flutter](https://lumide.dev)<!-- HN:48816087:end -->
