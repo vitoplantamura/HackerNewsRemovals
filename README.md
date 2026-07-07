@@ -146,3 +146,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48807884](https://news.social-protocols.org/stats?id=48807884) #20 11 points 5 comments -> [Fable Built a 3D Model of Aristotle's Cognitive Architecture](https://conceptual-spaces.vercel.app)<!-- HN:48807884:end --><!-- HN:48810453:start -->
 * [48810453](https://news.social-protocols.org/stats?id=48810453) #28 9 points 0 comments -> [DOGE Shrank the Payroll, Not the Deficit](https://rubbishtalk.com/economy/doge-shrank-the-payroll-not-the-deficit/)<!-- HN:48810453:end --><!-- HN:48811357:start -->
 * [48811357](https://news.social-protocols.org/stats?id=48811357) #30 3 points 0 comments -> [Claude and Codex and Grok: my current workflow and its friction](https://www.nativesoul.dev/)<!-- HN:48811357:end -->
+#### **Tuesday, July 7, 2026**
+<!-- HN:48812450:start -->
+* [48812450](https://news.social-protocols.org/stats?id=48812450) #16 5 points 2 comments -> [I created a free tool that pairs your Nasic and past performance to win contract](https://www.fedfinder.net/)<!-- HN:48812450:end -->
