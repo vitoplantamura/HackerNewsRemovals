@@ -148,4 +148,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48819084](https://news.social-protocols.org/stats?id=48819084) #30 10 points 1 comments -> [Secret Tracker in Claude Code Uncovered, Anthropic Directly Deletes Code](https://voi.id/en/technology/583552)<!-- HN:48819084:end --><!-- HN:48821691:start -->
 * [48821691](https://news.social-protocols.org/stats?id=48821691) #28 5 points 3 comments -> [Decrypting View State Messages](https://zeroed.tech/blog/decrypting-viewstate-messages/)<!-- HN:48821691:end -->
 #### **Wednesday, July 8, 2026**<!-- HN:48826118:start -->
-* [48826118](https://news.social-protocols.org/stats?id=48826118) #27 4 points 2 comments -> [Path to Google's #1 Position](https://mysevenstars.com/articles/SEO-Google-top-rank.html)<!-- HN:48826118:end -->
+* [48826118](https://news.social-protocols.org/stats?id=48826118) #27 4 points 2 comments -> [Path to Google's #1 Position](https://mysevenstars.com/articles/SEO-Google-top-rank.html)<!-- HN:48826118:end --><!-- HN:48826572:start -->
+* [48826572](https://news.social-protocols.org/stats?id=48826572) #26 8 points 0 comments -> [Ranked worst to best: 13 flavors of Pure Leaf iced tea](https://www.tastingtable.com/1866292/pure-leaf-iced-tea-flavors-ranked/)<!-- HN:48826572:end -->
