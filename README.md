@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48837286](https://news.social-protocols.org/stats?id=48837286) #13 3 points 1 comments -> [The Great Cholesterol Scam and the Dangers of Statins](https://www.midwesterndoctor.com/p/the-great-cholesterol-scam-and-the)<!-- HN:48837286:end -->
 #### **Thursday, July 9, 2026**
 <!-- HN:48839751:start -->
-* [48839751](https://news.social-protocols.org/stats?id=48839751) #11 19 points 3 comments -> [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)<!-- HN:48839751:end -->
+* [48839751](https://news.social-protocols.org/stats?id=48839751) #11 19 points 3 comments -> [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)<!-- HN:48839751:end --><!-- HN:48783470:start -->
+* [48783470](https://news.social-protocols.org/stats?id=48783470) #19 4 points 0 comments -> [The Factorio Effect](https://dangrafham.com/the-factorio-effect)<!-- HN:48783470:end -->
