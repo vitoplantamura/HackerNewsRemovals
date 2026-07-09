@@ -136,3 +136,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48826756](https://news.social-protocols.org/stats?id=48826756) #2 9 points 4 comments -> [Google Gemini Killed Perplexity AI](https://fatjoe.com/blog/perplexity-ai-stats/)<!-- HN:48826756:end --><!-- HN:48830388:start -->
 * [48830388](https://news.social-protocols.org/stats?id=48830388) #7 15 points 17 comments -> [We Got This Wrong. and We Are Fixing It](https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063)<!-- HN:48830388:end --><!-- HN:48837286:start -->
 * [48837286](https://news.social-protocols.org/stats?id=48837286) #13 3 points 1 comments -> [The Great Cholesterol Scam and the Dangers of Statins](https://www.midwesterndoctor.com/p/the-great-cholesterol-scam-and-the)<!-- HN:48837286:end -->
+#### **Thursday, July 9, 2026**
+<!-- HN:48839751:start -->
+* [48839751](https://news.social-protocols.org/stats?id=48839751) #11 19 points 3 comments -> [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)<!-- HN:48839751:end -->
