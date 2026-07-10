@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48851430](https://news.social-protocols.org/stats?id=48851430) #8 15 points 5 comments -> [Don't Get Sick in America](https://blogography.com/archives/2026/07/dont-get-sick-in-america.html)<!-- HN:48851430:end -->
 #### **Friday, July 10, 2026**
 <!-- HN:48804935:start -->
-* [48804935](https://news.social-protocols.org/stats?id=48804935) #22 35 points 41 comments -> [I Changed My Name](https://robida.net/entries/2026/07/01/i-changed-my-name)<!-- HN:48804935:end -->
+* [48804935](https://news.social-protocols.org/stats?id=48804935) #22 35 points 41 comments -> [I Changed My Name](https://robida.net/entries/2026/07/01/i-changed-my-name)<!-- HN:48804935:end --><!-- HN:48854224:start -->
+* [48854224](https://news.social-protocols.org/stats?id=48854224) #9 9 points 3 comments -> [Show HN: I built a free app for New Yorkers to save money on groceries](https://sbnyc.app/)<!-- HN:48854224:end -->
