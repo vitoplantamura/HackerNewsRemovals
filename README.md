@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 10, 2026**
 <!-- HN:48804935:start -->
 * [48804935](https://news.social-protocols.org/stats?id=48804935) #22 35 points 41 comments -> [I Changed My Name](https://robida.net/entries/2026/07/01/i-changed-my-name)<!-- HN:48804935:end --><!-- HN:48854638:start -->
-* [48854638](https://news.social-protocols.org/stats?id=48854638) #8 30 points 40 comments -> [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)<!-- HN:48854638:end -->
+* [48854638](https://news.social-protocols.org/stats?id=48854638) #8 30 points 40 comments -> [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)<!-- HN:48854638:end --><!-- HN:48805587:start -->
+* [48805587](https://news.social-protocols.org/stats?id=48805587) #10 6 points 2 comments -> [Preempt_none Is Dead; Your Postgres Probably Doesn't Care](https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/)<!-- HN:48805587:end -->
