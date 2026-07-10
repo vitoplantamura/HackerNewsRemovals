@@ -153,3 +153,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48846928](https://news.social-protocols.org/stats?id=48846928) #25 24 points 3 comments -> [New "Revenue Larping Trend" is this real?](https://www.larp.website/)<!-- HN:48846928:end --><!-- HN:48850428:start -->
 * [48850428](https://news.social-protocols.org/stats?id=48850428) #29 9 points 2 comments -> [Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs](https://www.cortex.io/drive)<!-- HN:48850428:end --><!-- HN:48851430:start -->
 * [48851430](https://news.social-protocols.org/stats?id=48851430) #8 15 points 5 comments -> [Don't Get Sick in America](https://blogography.com/archives/2026/07/dont-get-sick-in-america.html)<!-- HN:48851430:end -->
+#### **Friday, July 10, 2026**
+<!-- HN:48804935:start -->
+* [48804935](https://news.social-protocols.org/stats?id=48804935) #22 35 points 41 comments -> [I Changed My Name](https://robida.net/entries/2026/07/01/i-changed-my-name)<!-- HN:48804935:end -->
