@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48865431](https://news.social-protocols.org/stats?id=48865431) #25 102 points 12 comments -> [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)<!-- HN:48865431:end -->
 #### **Saturday, July 11, 2026**
 <!-- HN:48867079:start -->
-* [48867079](https://news.social-protocols.org/stats?id=48867079) #11 8 points 1 comments -> [SF Farmers Market allows laundering food stamps for drug purchases](https://thevoicesf.org/snap-to-cash-how-food-assistance-vouchers-were-traded-for-cash-at-the-heart-of-the-city-farmers-market/)<!-- HN:48867079:end -->
+* [48867079](https://news.social-protocols.org/stats?id=48867079) #11 8 points 1 comments -> [SF Farmers Market allows laundering food stamps for drug purchases](https://thevoicesf.org/snap-to-cash-how-food-assistance-vouchers-were-traded-for-cash-at-the-heart-of-the-city-farmers-market/)<!-- HN:48867079:end --><!-- HN:48867124:start -->
+* [48867124](https://news.social-protocols.org/stats?id=48867124) #6 6 points 0 comments -> [Show HN: We beat Cloudflare's bot detection (open-source stealth browser)](https://tilion.dev/blog/cloudflare-blocks-agents)<!-- HN:48867124:end -->
