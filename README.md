@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, July 4, 2026**
-<!-- HN:48781865:start -->
-* [48781865](https://news.social-protocols.org/stats?id=48781865) #10 7 points 2 comments -> [CueBench for Developers is live: score how well you drive coding agents](https://app.cuebench.dev)<!-- HN:48781865:end --><!-- HN:48783125:start -->
-* [48783125](https://news.social-protocols.org/stats?id=48783125) #12 6 points 3 comments -> [Godot bans "vibe-coded" code contributions](https://theguptalog.blogspot.com/2026/07/godot-bans-ai-generated-code.html)<!-- HN:48783125:end --><!-- HN:48785026:start -->
-* [48785026](https://news.social-protocols.org/stats?id=48785026) #3 10 points 4 comments -> [Show HN: Foundation, a different approach to software and AI](https://github.com/nmxmxh/foundation)<!-- HN:48785026:end --><!-- HN:48785573:start -->
-* [48785573](https://news.social-protocols.org/stats?id=48785573) #15 -> ['All men are created equal': America has lost its values. It's time to go back](https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence)<!-- HN:48785573:end --><!-- HN:48788041:start -->
-* [48788041](https://news.social-protocols.org/stats?id=48788041) #15 2 points 0 comments -> [Iredis](https://github.com/laixintao/iredis)<!-- HN:48788041:end --><!-- HN:48765066:start -->
-* [48765066](https://news.social-protocols.org/stats?id=48765066) #11 8 points 0 comments -> [At Dog School, children gain a sense of achievement](https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja)<!-- HN:48765066:end -->
 #### **Sunday, July 5, 2026**
 <!-- HN:48790122:start -->
 * [48790122](https://news.social-protocols.org/stats?id=48790122) #23 9 points 6 comments -> [Zo Computer](https://www.zo.computer)<!-- HN:48790122:end --><!-- HN:48789325:start -->

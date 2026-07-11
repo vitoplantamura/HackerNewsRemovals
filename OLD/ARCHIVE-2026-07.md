@@ -46,3 +46,11 @@
 * [48779415](https://news.ycombinator.com/item?id=48779415) #16 34 points 20 comments -> [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)<!-- HN:48779415:end --><!-- HN:48780352:start -->
 * [48780352](https://news.ycombinator.com/item?id=48780352) #13 40 points 19 comments -> [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)<!-- HN:48780352:end --><!-- HN:48780857:start -->
 * [48780857](https://news.ycombinator.com/item?id=48780857) #14 9 points 2 comments -> [Elevating Privileges from Firefox to Android Root](https://rootme.nebusec.ai/)<!-- HN:48780857:end -->
+#### **Saturday, July 4, 2026**
+<!-- HN:48781865:start -->
+* [48781865](https://news.ycombinator.com/item?id=48781865) #10 7 points 2 comments -> [CueBench for Developers is live: score how well you drive coding agents](https://app.cuebench.dev)<!-- HN:48781865:end --><!-- HN:48783125:start -->
+* [48783125](https://news.ycombinator.com/item?id=48783125) #12 6 points 3 comments -> [Godot bans "vibe-coded" code contributions](https://theguptalog.blogspot.com/2026/07/godot-bans-ai-generated-code.html)<!-- HN:48783125:end --><!-- HN:48785026:start -->
+* [48785026](https://news.ycombinator.com/item?id=48785026) #3 10 points 4 comments -> [Show HN: Foundation, a different approach to software and AI](https://github.com/nmxmxh/foundation)<!-- HN:48785026:end --><!-- HN:48785573:start -->
+* [48785573](https://news.ycombinator.com/item?id=48785573) #15 -> ['All men are created equal': America has lost its values. It's time to go back](https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence)<!-- HN:48785573:end --><!-- HN:48788041:start -->
+* [48788041](https://news.ycombinator.com/item?id=48788041) #15 2 points 0 comments -> [Iredis](https://github.com/laixintao/iredis)<!-- HN:48788041:end --><!-- HN:48765066:start -->
+* [48765066](https://news.ycombinator.com/item?id=48765066) #11 8 points 0 comments -> [At Dog School, children gain a sense of achievement](https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja)<!-- HN:48765066:end -->
