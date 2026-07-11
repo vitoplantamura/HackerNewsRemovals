@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 11, 2026**
 <!-- HN:48867124:start -->
 * [48867124](https://news.social-protocols.org/stats?id=48867124) #6 6 points 0 comments -> [Show HN: We beat Cloudflare's bot detection (open-source stealth browser)](https://tilion.dev/blog/cloudflare-blocks-agents)<!-- HN:48867124:end --><!-- HN:48867220:start -->
-* [48867220](https://news.social-protocols.org/stats?id=48867220) #25 6 points 2 comments -> [The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty](https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/)<!-- HN:48867220:end -->
+* [48867220](https://news.social-protocols.org/stats?id=48867220) #25 6 points 2 comments -> [The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty](https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/)<!-- HN:48867220:end --><!-- HN:48867364:start -->
+* [48867364](https://news.social-protocols.org/stats?id=48867364) #15 12 points 10 comments -> [I've been building this alone for months. Roast it before I lose any more time](https://peakd.io)<!-- HN:48867364:end -->
