@@ -142,3 +142,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48862467](https://news.social-protocols.org/stats?id=48862467) #23 45 points 38 comments -> [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)<!-- HN:48862467:end --><!-- HN:48864158:start -->
 * [48864158](https://news.social-protocols.org/stats?id=48864158) #29 173 points 44 comments -> [Mayor Mamdani Announces Landmark "Click-to-Cancel" Consumer Protection Rules](https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot)<!-- HN:48864158:end --><!-- HN:48865431:start -->
 * [48865431](https://news.social-protocols.org/stats?id=48865431) #25 102 points 12 comments -> [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)<!-- HN:48865431:end -->
+#### **Saturday, July 11, 2026**
+<!-- HN:48867079:start -->
+* [48867079](https://news.social-protocols.org/stats?id=48867079) #11 8 points 1 comments -> [SF Farmers Market allows laundering food stamps for drug purchases](https://thevoicesf.org/snap-to-cash-how-food-assistance-vouchers-were-traded-for-cash-at-the-heart-of-the-city-farmers-market/)<!-- HN:48867079:end -->
