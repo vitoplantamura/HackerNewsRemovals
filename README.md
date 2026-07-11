@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, July 11, 2026**
 <!-- HN:48867079:start -->
 * [48867079](https://news.social-protocols.org/stats?id=48867079) #11 8 points 1 comments -> [SF Farmers Market allows laundering food stamps for drug purchases](https://thevoicesf.org/snap-to-cash-how-food-assistance-vouchers-were-traded-for-cash-at-the-heart-of-the-city-farmers-market/)<!-- HN:48867079:end --><!-- HN:48867124:start -->
-* [48867124](https://news.social-protocols.org/stats?id=48867124) #6 6 points 0 comments -> [Show HN: We beat Cloudflare's bot detection (open-source stealth browser)](https://tilion.dev/blog/cloudflare-blocks-agents)<!-- HN:48867124:end -->
+* [48867124](https://news.social-protocols.org/stats?id=48867124) #6 6 points 0 comments -> [Show HN: We beat Cloudflare's bot detection (open-source stealth browser)](https://tilion.dev/blog/cloudflare-blocks-agents)<!-- HN:48867124:end --><!-- HN:48867220:start -->
+* [48867220](https://news.social-protocols.org/stats?id=48867220) #25 6 points 2 comments -> [The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty](https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/)<!-- HN:48867220:end -->
