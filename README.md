@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48875709](https://news.social-protocols.org/stats?id=48875709) #2 21 points 8 comments -> [OpenAI Forked Git on GitHub](https://github.com/openai/git)<!-- HN:48875709:end --><!-- HN:48875494:start -->
 * [48875494](https://news.social-protocols.org/stats?id=48875494) #21 34 points 40 comments -> [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)<!-- HN:48875494:end -->
 #### **Sunday, July 12, 2026**<!-- HN:48876970:start -->
-* [48876970](https://news.social-protocols.org/stats?id=48876970) #9 12 points 12 comments -> [Odyssey Linux](https://odysseylinux.org)<!-- HN:48876970:end -->
+* [48876970](https://news.social-protocols.org/stats?id=48876970) #9 12 points 12 comments -> [Odyssey Linux](https://odysseylinux.org)<!-- HN:48876970:end --><!-- HN:48877349:start -->
+* [48877349](https://news.social-protocols.org/stats?id=48877349) #12 31 points 9 comments -> [Firefox 12.58% for Desktop Browser Market Share in North America June 2026](https://gs.statcounter.com/browser-market-share/desktop/north-america)<!-- HN:48877349:end -->
