@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48873978](https://news.social-protocols.org/stats?id=48873978) #22 12 points 7 comments -> [Alex Karp Is Saying What Every Angry CEO Is Thinking About AI](https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c)<!-- HN:48873978:end --><!-- HN:48875709:start -->
 * [48875709](https://news.social-protocols.org/stats?id=48875709) #2 21 points 8 comments -> [OpenAI Forked Git on GitHub](https://github.com/openai/git)<!-- HN:48875709:end --><!-- HN:48875494:start -->
 * [48875494](https://news.social-protocols.org/stats?id=48875494) #21 34 points 40 comments -> [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)<!-- HN:48875494:end -->
+#### **Sunday, July 12, 2026**
+<!-- HN:48876970:start -->
+* [48876970](https://news.social-protocols.org/stats?id=48876970) #4 8 points 5 comments -> [Odyssey Linux](https://odysseylinux.org)<!-- HN:48876970:end -->
