@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48885097](https://news.social-protocols.org/stats?id=48885097) #24 8 points 2 comments -> [I made a free Islamic prayer app to quit saying "I'll pray in 5 minutes"](https://better-prayer.com)<!-- HN:48885097:end -->
 #### **Monday, July 13, 2026**
 <!-- HN:48850285:start -->
-* [48850285](https://news.social-protocols.org/stats?id=48850285) #29 13 points 5 comments -> [Nicotine pouches, tobacco's latest ploy](https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html)<!-- HN:48850285:end -->
+* [48850285](https://news.social-protocols.org/stats?id=48850285) #29 13 points 5 comments -> [Nicotine pouches, tobacco's latest ploy](https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html)<!-- HN:48850285:end --><!-- HN:48886065:start -->
+* [48886065](https://news.social-protocols.org/stats?id=48886065) #29 58 points 20 comments -> [Billion Dollar PDFs](https://billiondollarpdf.com/)<!-- HN:48886065:end -->
