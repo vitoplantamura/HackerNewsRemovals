@@ -152,3 +152,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48885049](https://news.social-protocols.org/stats?id=48885049) #4 6 points 1 comments -> [Nuclear war survival guide reveals seven everyday items if disaster strikes](https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html)<!-- HN:48885049:end --><!-- HN:48885236:start -->
 * [48885236](https://news.social-protocols.org/stats?id=48885236) #19 5 points 0 comments -> [I trained a 113M-parameter earthquake LLM from absolute scratch](https://github.com/jiazhe868/nanogpt-seis)<!-- HN:48885236:end --><!-- HN:48885097:start -->
 * [48885097](https://news.social-protocols.org/stats?id=48885097) #24 8 points 2 comments -> [I made a free Islamic prayer app to quit saying "I'll pray in 5 minutes"](https://better-prayer.com)<!-- HN:48885097:end -->
+#### **Monday, July 13, 2026**
+<!-- HN:48885779:start -->
+* [48885779](https://news.social-protocols.org/stats?id=48885779) #9 10 points 0 comments -> [How to Get What You Want](https://andys.blog/how-to-get-what-you-want/)<!-- HN:48885779:end --><!-- HN:48885846:start -->
+* [48885846](https://news.social-protocols.org/stats?id=48885846) #29 9 points 1 comments -> [Lindsey Graham Dead at 71](https://www.economist.com/united-states/2026/07/12/lindsey-graham-represented-the-arc-of-his-party)<!-- HN:48885846:end -->
