@@ -135,4 +135,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48850285:start -->
 * [48850285](https://news.social-protocols.org/stats?id=48850285) #29 13 points 5 comments -> [Nicotine pouches, tobacco's latest ploy](https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html)<!-- HN:48850285:end --><!-- HN:48886065:start -->
 * [48886065](https://news.social-protocols.org/stats?id=48886065) #29 58 points 20 comments -> [Billion Dollar PDFs](https://billiondollarpdf.com/)<!-- HN:48886065:end --><!-- HN:48886368:start -->
-* [48886368](https://news.social-protocols.org/stats?id=48886368) #12 8 points 1 comments -> [Gameboy is back ( no signup)](https://gb.omniiii.com/)<!-- HN:48886368:end -->
+* [48886368](https://news.social-protocols.org/stats?id=48886368) #12 8 points 1 comments -> [Gameboy is back ( no signup)](https://gb.omniiii.com/)<!-- HN:48886368:end --><!-- HN:48818314:start -->
+* [48818314](https://news.social-protocols.org/stats?id=48818314) #6 17 points 0 comments -> [A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed](https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/)<!-- HN:48818314:end --><!-- HN:48822234:start -->
+* [48822234](https://news.social-protocols.org/stats?id=48822234) #21 80 points 17 comments -> [Deir El-Medina Strikes](https://en.wikipedia.org/wiki/Deir_el-Medina_strikes)<!-- HN:48822234:end -->
