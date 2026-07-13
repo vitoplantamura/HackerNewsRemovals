@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 13, 2026**
 <!-- HN:48850285:start -->
 * [48850285](https://news.social-protocols.org/stats?id=48850285) #29 13 points 5 comments -> [Nicotine pouches, tobacco's latest ploy](https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html)<!-- HN:48850285:end --><!-- HN:48886065:start -->
-* [48886065](https://news.social-protocols.org/stats?id=48886065) #29 58 points 20 comments -> [Billion Dollar PDFs](https://billiondollarpdf.com/)<!-- HN:48886065:end -->
+* [48886065](https://news.social-protocols.org/stats?id=48886065) #29 58 points 20 comments -> [Billion Dollar PDFs](https://billiondollarpdf.com/)<!-- HN:48886065:end --><!-- HN:48886368:start -->
+* [48886368](https://news.social-protocols.org/stats?id=48886368) #12 8 points 1 comments -> [Gameboy is back ( no signup)](https://gb.omniiii.com/)<!-- HN:48886368:end -->
