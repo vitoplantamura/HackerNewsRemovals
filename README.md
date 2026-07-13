@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 13, 2026**
 <!-- HN:48885779:start -->
 * [48885779](https://news.social-protocols.org/stats?id=48885779) #9 10 points 0 comments -> [How to Get What You Want](https://andys.blog/how-to-get-what-you-want/)<!-- HN:48885779:end --><!-- HN:48885846:start -->
-* [48885846](https://news.social-protocols.org/stats?id=48885846) #29 9 points 1 comments -> [Lindsey Graham Dead at 71](https://www.economist.com/united-states/2026/07/12/lindsey-graham-represented-the-arc-of-his-party)<!-- HN:48885846:end -->
+* [48885846](https://news.social-protocols.org/stats?id=48885846) #29 9 points 1 comments -> [Lindsey Graham Dead at 71](https://www.economist.com/united-states/2026/07/12/lindsey-graham-represented-the-arc-of-his-party)<!-- HN:48885846:end --><!-- HN:48850285:start -->
+* [48850285](https://news.social-protocols.org/stats?id=48850285) #29 13 points 5 comments -> [Nicotine pouches, tobacco's latest ploy](https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html)<!-- HN:48850285:end -->
