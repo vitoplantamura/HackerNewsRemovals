@@ -43,27 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, July 6, 2026**
-<!-- HN:48798187:start -->
-* [48798187](https://news.social-protocols.org/stats?id=48798187) #30 9 points 2 comments -> [Had an idea for a Rust editor with simple Vim mode for learning](https://github.com/electronicsleep/rust-vim)<!-- HN:48798187:end --><!-- HN:48799220:start -->
-* [48799220](https://news.social-protocols.org/stats?id=48799220) #14 5 points 6 comments -> [Strange Balls found on Queensland beaches could be toxic 'space debris': experts](https://www.inkl.com/news/strange-balls-found-on-queensland-beaches-could-be-toxic-space-debris-experts-warn)<!-- HN:48799220:end --><!-- HN:48799192:start -->
-* [48799192](https://news.social-protocols.org/stats?id=48799192) #22 7 points 0 comments -> [Building Agents That Don't Break Themselves](https://fly.io/blog/building-agents-that-dont-break-themselves/)<!-- HN:48799192:end --><!-- HN:48799677:start -->
-* [48799677](https://news.social-protocols.org/stats?id=48799677) #6 6 points 5 comments -> [Children Adopt AI 3x Faster Than Adults – and We're Not Ready](https://hackenewhome.blogspot.com/p/ai-is-taking-over-kids-lives-unicef.html)<!-- HN:48799677:end --><!-- HN:48757074:start -->
-* [48757074](https://news.social-protocols.org/stats?id=48757074) #28 14 points 3 comments -> [Show HN: I wrote a Rust book ending with a Redis clone](https://shankhan3.gumroad.com/l/dnwmtp)<!-- HN:48757074:end --><!-- HN:48803286:start -->
-* [48803286](https://news.social-protocols.org/stats?id=48803286) #4 11 points 2 comments -> [I'm just so bored of AI](https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/)<!-- HN:48803286:end --><!-- HN:48803507:start -->
-* [48803507](https://news.social-protocols.org/stats?id=48803507) #6 3 points 0 comments -> [Probably the best AI detector tool is ready](https://aidetector.my/en)<!-- HN:48803507:end --><!-- HN:48803621:start -->
-* [48803621](https://news.social-protocols.org/stats?id=48803621) #3 8 points 5 comments -> [Kill the Plastic AI Portrait](https://realistic-shot-deploy-eight.vercel.app/)<!-- HN:48803621:end --><!-- HN:48801488:start -->
-* [48801488](https://news.social-protocols.org/stats?id=48801488) #20 48 points 38 comments -> [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)<!-- HN:48801488:end --><!-- HN:48804113:start -->
-* [48804113](https://news.social-protocols.org/stats?id=48804113) #5 8 points 0 comments -> [I packed 16 GB of GGUF quants into 1.8 GB, losslessly](https://github.com/theadamdanielsson/ggufpacker)<!-- HN:48804113:end --><!-- HN:48804049:start -->
-* [48804049](https://news.social-protocols.org/stats?id=48804049) #10 36 points 25 comments -> [Bryan Johnson: I have an autoimmune disease. My stomach is eating itself](https://twitter.com/bryan_johnson/status/2072069730517860385)<!-- HN:48804049:end --><!-- HN:48804176:start -->
-* [48804176](https://news.social-protocols.org/stats?id=48804176) #14 25 points 12 comments -> [The Fear of Dying Before You Become Yourself](https://www.dailicle.com/read/the-fear-of-dying-before-you-become-yourself)<!-- HN:48804176:end --><!-- HN:48804218:start -->
-* [48804218](https://news.social-protocols.org/stats?id=48804218) #5 37 points 9 comments -> [Real time map of France's rail network](https://carto.tchoo.net/)<!-- HN:48804218:end --><!-- HN:48804000:start -->
-* [48804000](https://news.social-protocols.org/stats?id=48804000) #22 14 points 9 comments -> [Show HN: Pet Reminder – A macOS reminder app with a desktop pet](https://reminder.w3cub.com/)<!-- HN:48804000:end --><!-- HN:48805627:start -->
-* [48805627](https://news.social-protocols.org/stats?id=48805627) #11 71 points 24 comments -> [Google Chrome Installed a 4GB AI Model on Your PC](https://oztalking.com/en/issues/hidden-4gb-ai-model)<!-- HN:48805627:end --><!-- HN:48808047:start -->
-* [48808047](https://news.social-protocols.org/stats?id=48808047) #21 6 points 3 comments -> [Schizo founder story (terrorist to tech exit)](https://peteryoung.me/the-terrorists-guide-to-retiring-young/)<!-- HN:48808047:end --><!-- HN:48807884:start -->
-* [48807884](https://news.social-protocols.org/stats?id=48807884) #20 11 points 5 comments -> [Fable Built a 3D Model of Aristotle's Cognitive Architecture](https://conceptual-spaces.vercel.app)<!-- HN:48807884:end --><!-- HN:48810453:start -->
-* [48810453](https://news.social-protocols.org/stats?id=48810453) #28 9 points 0 comments -> [DOGE Shrank the Payroll, Not the Deficit](https://rubbishtalk.com/economy/doge-shrank-the-payroll-not-the-deficit/)<!-- HN:48810453:end --><!-- HN:48811357:start -->
-* [48811357](https://news.social-protocols.org/stats?id=48811357) #30 3 points 0 comments -> [Claude and Codex and Grok: my current workflow and its friction](https://www.nativesoul.dev/)<!-- HN:48811357:end -->
 #### **Tuesday, July 7, 2026**
 <!-- HN:48812450:start -->
 * [48812450](https://news.social-protocols.org/stats?id=48812450) #16 5 points 2 comments -> [I created a free tool that pairs your Nasic and past performance to win contract](https://www.fedfinder.net/)<!-- HN:48812450:end --><!-- HN:48770485:start -->
