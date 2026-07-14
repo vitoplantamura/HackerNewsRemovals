@@ -144,5 +144,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48903701](https://news.social-protocols.org/stats?id=48903701) #28 8 points 5 comments -> [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)<!-- HN:48903701:end --><!-- HN:48905030:start -->
 * [48905030](https://news.social-protocols.org/stats?id=48905030) #6 14 points 4 comments -> [Show HN: Beautiful QR Codes](https://scanwayy.com)<!-- HN:48905030:end --><!-- HN:48905122:start -->
 * [48905122](https://news.social-protocols.org/stats?id=48905122) #11 13 points 3 comments -> [The Definition of Done](https://adi.bio/done)<!-- HN:48905122:end --><!-- HN:48906339:start -->
-* [48906339](https://news.social-protocols.org/stats?id=48906339) #22 4 points 0 comments -> [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)<!-- HN:48906339:end --><!-- HN:48905290:start -->
-* [48905290](https://news.social-protocols.org/stats?id=48905290) #29 248 points 158 comments -> [Germany set to restrict its Freedom of Information Act](https://www.dw.com/en/germany-freedom-of-information-act/a-77939695)<!-- HN:48905290:end -->
+* [48906339](https://news.social-protocols.org/stats?id=48906339) #22 4 points 0 comments -> [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)<!-- HN:48906339:end -->
