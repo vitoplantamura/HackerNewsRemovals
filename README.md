@@ -144,4 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48903701](https://news.social-protocols.org/stats?id=48903701) #28 8 points 5 comments -> [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)<!-- HN:48903701:end --><!-- HN:48905030:start -->
 * [48905030](https://news.social-protocols.org/stats?id=48905030) #6 14 points 4 comments -> [Show HN: Beautiful QR Codes](https://scanwayy.com)<!-- HN:48905030:end --><!-- HN:48905122:start -->
 * [48905122](https://news.social-protocols.org/stats?id=48905122) #11 13 points 3 comments -> [The Definition of Done](https://adi.bio/done)<!-- HN:48905122:end --><!-- HN:48906339:start -->
-* [48906339](https://news.social-protocols.org/stats?id=48906339) #22 4 points 0 comments -> [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)<!-- HN:48906339:end -->
+* [48906339](https://news.social-protocols.org/stats?id=48906339) #22 4 points 0 comments -> [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)<!-- HN:48906339:end --><!-- HN:48847943:start -->
+* [48847943](https://news.social-protocols.org/stats?id=48847943) #12 142 points 20 comments -> [The tiny cell that wasn't there](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)<!-- HN:48847943:end --><!-- HN:48850688:start -->
+* [48850688](https://news.social-protocols.org/stats?id=48850688) #29 65 points 7 comments -> [Paxos Made Simple (2001)[pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)<!-- HN:48850688:end -->
