@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, July 14, 2026**
 <!-- HN:48901788:start -->
 * [48901788](https://news.social-protocols.org/stats?id=48901788) #23 3 points 0 comments -> [America's Other Elections Problem](https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem)<!-- HN:48901788:end --><!-- HN:48901695:start -->
-* [48901695](https://news.social-protocols.org/stats?id=48901695) #25 37 points 13 comments -> [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)<!-- HN:48901695:end -->
+* [48901695](https://news.social-protocols.org/stats?id=48901695) #25 37 points 13 comments -> [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)<!-- HN:48901695:end --><!-- HN:48903701:start -->
+* [48903701](https://news.social-protocols.org/stats?id=48903701) #28 8 points 5 comments -> [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)<!-- HN:48903701:end -->
