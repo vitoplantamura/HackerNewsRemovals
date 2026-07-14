@@ -137,3 +137,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48897969](https://news.social-protocols.org/stats?id=48897969) #28 8 points 6 comments -> [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)<!-- HN:48897969:end --><!-- HN:48899741:start -->
 * [48899741](https://news.social-protocols.org/stats?id=48899741) #16 -> [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)<!-- HN:48899741:end --><!-- HN:48896800:start -->
 * [48896800](https://news.social-protocols.org/stats?id=48896800) #9 146 points 72 comments -> [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)<!-- HN:48896800:end -->
+#### **Tuesday, July 14, 2026**
+<!-- HN:48901788:start -->
+* [48901788](https://news.social-protocols.org/stats?id=48901788) #23 3 points 0 comments -> [America's Other Elections Problem](https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem)<!-- HN:48901788:end -->
