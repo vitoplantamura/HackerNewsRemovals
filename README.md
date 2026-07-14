@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, July 14, 2026**
 <!-- HN:48901788:start -->
 * [48901788](https://news.social-protocols.org/stats?id=48901788) #23 3 points 0 comments -> [America's Other Elections Problem](https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem)<!-- HN:48901788:end --><!-- HN:48901695:start -->
-* [48901695](https://news.social-protocols.org/stats?id=48901695) #25 37 points 13 comments -> [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)<!-- HN:48901695:end -->
+* [48901695](https://news.social-protocols.org/stats?id=48901695) #25 37 points 13 comments -> [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)<!-- HN:48901695:end --><!-- HN:48903777:start -->
+* [48903777](https://news.social-protocols.org/stats?id=48903777) #1 52 points 11 comments -> [European "age verification" "app" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)<!-- HN:48903777:end -->
