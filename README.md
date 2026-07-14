@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48896800](https://news.social-protocols.org/stats?id=48896800) #9 146 points 72 comments -> [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)<!-- HN:48896800:end -->
 #### **Tuesday, July 14, 2026**
 <!-- HN:48901788:start -->
-* [48901788](https://news.social-protocols.org/stats?id=48901788) #23 3 points 0 comments -> [America's Other Elections Problem](https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem)<!-- HN:48901788:end -->
+* [48901788](https://news.social-protocols.org/stats?id=48901788) #23 3 points 0 comments -> [America's Other Elections Problem](https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem)<!-- HN:48901788:end --><!-- HN:48901695:start -->
+* [48901695](https://news.social-protocols.org/stats?id=48901695) #25 37 points 13 comments -> [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)<!-- HN:48901695:end -->
