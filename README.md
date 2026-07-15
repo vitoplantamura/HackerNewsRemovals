@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48913953:start -->
 * [48913953](https://news.social-protocols.org/stats?id=48913953) #12 10 points 5 comments -> [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)<!-- HN:48913953:end --><!-- HN:48918530:start -->
 * [48918530](https://news.social-protocols.org/stats?id=48918530) #2 19 points 40 comments -> [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)<!-- HN:48918530:end --><!-- HN:48919242:start -->
-* [48919242](https://news.social-protocols.org/stats?id=48919242) #4 23 points 41 comments -> [Why do people hate the tech industry? (2023)](https://www.sevarg.net/2023/03/25/why-people-hate-tech/)<!-- HN:48919242:end -->
+* [48919242](https://news.social-protocols.org/stats?id=48919242) #4 23 points 41 comments -> [Why do people hate the tech industry? (2023)](https://www.sevarg.net/2023/03/25/why-people-hate-tech/)<!-- HN:48919242:end --><!-- HN:48919004:start -->
+* [48919004](https://news.social-protocols.org/stats?id=48919004) #21 6 points 2 comments -> [Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor](https://dl.acm.org/doi/10.1145/3800645.3813051)<!-- HN:48919004:end -->
