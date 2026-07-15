@@ -148,3 +148,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48847943](https://news.social-protocols.org/stats?id=48847943) #12 142 points 20 comments -> [The tiny cell that wasn't there](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)<!-- HN:48847943:end --><!-- HN:48850688:start -->
 * [48850688](https://news.social-protocols.org/stats?id=48850688) #29 65 points 7 comments -> [Paxos Made Simple (2001)[pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)<!-- HN:48850688:end --><!-- HN:48913220:start -->
 * [48913220](https://news.social-protocols.org/stats?id=48913220) #12 78 points 12 comments -> [Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games](https://xcancel.com/JoshuaKhane/status/2076918699248803977)<!-- HN:48913220:end -->
+#### **Wednesday, July 15, 2026**
+<!-- HN:48913953:start -->
+* [48913953](https://news.social-protocols.org/stats?id=48913953) #12 10 points 5 comments -> [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)<!-- HN:48913953:end -->
