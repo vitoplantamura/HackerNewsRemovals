@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48913220](https://news.social-protocols.org/stats?id=48913220) #12 78 points 12 comments -> [Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games](https://xcancel.com/JoshuaKhane/status/2076918699248803977)<!-- HN:48913220:end -->
 #### **Wednesday, July 15, 2026**
 <!-- HN:48913953:start -->
-* [48913953](https://news.social-protocols.org/stats?id=48913953) #12 10 points 5 comments -> [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)<!-- HN:48913953:end -->
+* [48913953](https://news.social-protocols.org/stats?id=48913953) #12 10 points 5 comments -> [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)<!-- HN:48913953:end --><!-- HN:48918530:start -->
+* [48918530](https://news.social-protocols.org/stats?id=48918530) #2 19 points 40 comments -> [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)<!-- HN:48918530:end -->
