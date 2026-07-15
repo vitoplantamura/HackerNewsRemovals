@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, July 8, 2026**<!-- HN:48826118:start -->
-* [48826118](https://news.social-protocols.org/stats?id=48826118) #27 4 points 2 comments -> [Path to Google's #1 Position](https://mysevenstars.com/articles/SEO-Google-top-rank.html)<!-- HN:48826118:end --><!-- HN:48826572:start -->
-* [48826572](https://news.social-protocols.org/stats?id=48826572) #26 8 points 0 comments -> [Ranked worst to best: 13 flavors of Pure Leaf iced tea](https://www.tastingtable.com/1866292/pure-leaf-iced-tea-flavors-ranked/)<!-- HN:48826572:end --><!-- HN:48826756:start -->
-* [48826756](https://news.social-protocols.org/stats?id=48826756) #2 9 points 4 comments -> [Google Gemini Killed Perplexity AI](https://fatjoe.com/blog/perplexity-ai-stats/)<!-- HN:48826756:end --><!-- HN:48830388:start -->
-* [48830388](https://news.social-protocols.org/stats?id=48830388) #7 15 points 17 comments -> [We Got This Wrong. and We Are Fixing It](https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063)<!-- HN:48830388:end --><!-- HN:48837286:start -->
-* [48837286](https://news.social-protocols.org/stats?id=48837286) #13 3 points 1 comments -> [The Great Cholesterol Scam and the Dangers of Statins](https://www.midwesterndoctor.com/p/the-great-cholesterol-scam-and-the)<!-- HN:48837286:end -->
 #### **Thursday, July 9, 2026**
 <!-- HN:48839751:start -->
 * [48839751](https://news.social-protocols.org/stats?id=48839751) #11 19 points 3 comments -> [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)<!-- HN:48839751:end --><!-- HN:48783470:start -->
