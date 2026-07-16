@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, July 9, 2026**
-<!-- HN:48839751:start -->
-* [48839751](https://news.social-protocols.org/stats?id=48839751) #11 19 points 3 comments -> [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)<!-- HN:48839751:end --><!-- HN:48783470:start -->
-* [48783470](https://news.social-protocols.org/stats?id=48783470) #19 4 points 0 comments -> [The Factorio Effect](https://dangrafham.com/the-factorio-effect)<!-- HN:48783470:end --><!-- HN:48843585:start -->
-* [48843585](https://news.social-protocols.org/stats?id=48843585) #5 4 points 0 comments -> [Please Delete Your Repository](https://github.com/Vandivier/ladderly-3/issues/652)<!-- HN:48843585:end --><!-- HN:48803545:start -->
-* [48803545](https://news.social-protocols.org/stats?id=48803545) #12 13 points 8 comments -> [Why is there smoke from the boiler room? – Botanical Garden using Home Assistant](https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/)<!-- HN:48803545:end --><!-- HN:48844956:start -->
-* [48844956](https://news.social-protocols.org/stats?id=48844956) #12 17 points 2 comments -> [Show HN: 92% of US city websites fail Ada accessibility](https://accesslumens.com/research/state-of-us-local-government-accessibility-2026)<!-- HN:48844956:end --><!-- HN:48845326:start -->
-* [48845326](https://news.social-protocols.org/stats?id=48845326) #11 9 points 9 comments -> [AI builders outnumber AI governance hires 7:1 in Europe](https://axipro.co/eu-ai-act-hiring-gap-study/)<!-- HN:48845326:end --><!-- HN:48845555:start -->
-* [48845555](https://news.social-protocols.org/stats?id=48845555) #22 9 points 2 comments -> [Is It Safe to Host HTML That Runs Its Own JavaScript?](https://sharemypage.app/blog/is-it-safe-to-host-html-that-runs-javascript)<!-- HN:48845555:end --><!-- HN:48845269:start -->
-* [48845269](https://news.social-protocols.org/stats?id=48845269) #19 29 points 42 comments -> [Just Pay the Subscription](https://www.uncommonapps.nyc/p/just-pay-the-subscription)<!-- HN:48845269:end --><!-- HN:48845440:start -->
-* [48845440](https://news.social-protocols.org/stats?id=48845440) #30 31 points 6 comments -> [MSG database tracked hundreds. Labels include "LGBTQIA," and low to high "risk."](https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/)<!-- HN:48845440:end --><!-- HN:48847446:start -->
-* [48847446](https://news.social-protocols.org/stats?id=48847446) #5 10 points 0 comments -> [Deadly bacteria found in city's wastewater system tied to Meta data center](https://www.dailymail.com/sciencetech/article-15962981/mark-zuckerberg-meta-wyoming-ai-data-center-bacteria.html)<!-- HN:48847446:end --><!-- HN:48847368:start -->
-* [48847368](https://news.social-protocols.org/stats?id=48847368) #24 4 points 6 comments -> [Stop Using reCAPTCHA – It's Not a Real Captcha](https://na0341.bearblog.dev/info/stop-using-recaptcha/)<!-- HN:48847368:end --><!-- HN:48845526:start -->
-* [48845526](https://news.social-protocols.org/stats?id=48845526) #30 36 points 40 comments -> [A new way to reflect on how you use Claude](https://www.anthropic.com/news/reflect-with-claude)<!-- HN:48845526:end --><!-- HN:48846928:start -->
-* [48846928](https://news.social-protocols.org/stats?id=48846928) #25 24 points 3 comments -> [New "Revenue Larping Trend" is this real?](https://www.larp.website/)<!-- HN:48846928:end --><!-- HN:48850428:start -->
-* [48850428](https://news.social-protocols.org/stats?id=48850428) #29 9 points 2 comments -> [Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs](https://www.cortex.io/drive)<!-- HN:48850428:end --><!-- HN:48851430:start -->
-* [48851430](https://news.social-protocols.org/stats?id=48851430) #8 15 points 5 comments -> [Don't Get Sick in America](https://blogography.com/archives/2026/07/dont-get-sick-in-america.html)<!-- HN:48851430:end -->
 #### **Friday, July 10, 2026**
 <!-- HN:48805587:start -->
 * [48805587](https://news.social-protocols.org/stats?id=48805587) #10 6 points 2 comments -> [Preempt_none Is Dead; Your Postgres Probably Doesn't Care](https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/)<!-- HN:48805587:end --><!-- HN:48856685:start -->
