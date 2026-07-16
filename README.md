@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48930149:start -->
 * [48930149](https://news.social-protocols.org/stats?id=48930149) #28 17 points 6 comments -> [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)<!-- HN:48930149:end --><!-- HN:48882777:start -->
 * [48882777](https://news.social-protocols.org/stats?id=48882777) #12 15 points 12 comments -> [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/)<!-- HN:48882777:end --><!-- HN:48932889:start -->
-* [48932889](https://news.social-protocols.org/stats?id=48932889) #20 4 points 0 comments -> [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)<!-- HN:48932889:end -->
+* [48932889](https://news.social-protocols.org/stats?id=48932889) #20 4 points 0 comments -> [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)<!-- HN:48932889:end --><!-- HN:48934340:start -->
+* [48934340](https://news.social-protocols.org/stats?id=48934340) #21 5 points 5 comments -> [Show HN: We hid a backdoor in an LLM – $51,200 on finding it](https://protora.vulcora.se/challenge)<!-- HN:48934340:end -->
