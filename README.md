@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48927136](https://news.social-protocols.org/stats?id=48927136) #10 29 points 41 comments -> [The End of Creativity](https://hugodaniel.com/posts/the-end-of-creativity/)<!-- HN:48927136:end -->
 #### **Thursday, July 16, 2026**
 <!-- HN:48930149:start -->
-* [48930149](https://news.social-protocols.org/stats?id=48930149) #28 17 points 6 comments -> [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)<!-- HN:48930149:end -->
+* [48930149](https://news.social-protocols.org/stats?id=48930149) #28 17 points 6 comments -> [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)<!-- HN:48930149:end --><!-- HN:48882777:start -->
+* [48882777](https://news.social-protocols.org/stats?id=48882777) #12 15 points 12 comments -> [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/)<!-- HN:48882777:end -->
