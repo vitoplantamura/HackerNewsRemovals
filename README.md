@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48924929](https://news.social-protocols.org/stats?id=48924929) #1 113 points 21 comments -> [Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM](https://thinkingmachines.ai/inkling/)<!-- HN:48924929:end --><!-- HN:48926841:start -->
 * [48926841](https://news.social-protocols.org/stats?id=48926841) #6 20 points 4 comments -> [Grok Build is open source](https://x.ai/open-source)<!-- HN:48926841:end --><!-- HN:48927136:start -->
 * [48927136](https://news.social-protocols.org/stats?id=48927136) #10 29 points 41 comments -> [The End of Creativity](https://hugodaniel.com/posts/the-end-of-creativity/)<!-- HN:48927136:end -->
+#### **Thursday, July 16, 2026**
+<!-- HN:48930149:start -->
+* [48930149](https://news.social-protocols.org/stats?id=48930149) #28 17 points 6 comments -> [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)<!-- HN:48930149:end -->
