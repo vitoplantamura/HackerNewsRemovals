@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48939580](https://news.social-protocols.org/stats?id=48939580) #2 47 points 2 comments -> [Kimi K3 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/kimi-k3)<!-- HN:48939580:end --><!-- HN:48870746:start -->
 * [48870746](https://news.social-protocols.org/stats?id=48870746) #24 5 points 1 comments -> [Show HN: Make images render brighter than white by abusing Rec.2100 PQ profiles](https://superwhite.app/blog/how-it-works)<!-- HN:48870746:end --><!-- HN:48940801:start -->
 * [48940801](https://news.social-protocols.org/stats?id=48940801) #23 12 points 7 comments -> [Just Do Things](https://ray.zo.space/blog/just-do-things)<!-- HN:48940801:end -->
+#### **Friday, July 17, 2026**
+<!-- HN:48941051:start -->
+* [48941051](https://news.social-protocols.org/stats?id=48941051) #25 6 points 8 comments -> [Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection](https://github.com/cgrtml/reasongate)<!-- HN:48941051:end -->
