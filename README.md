@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 17, 2026**
 <!-- HN:48941051:start -->
 * [48941051](https://news.social-protocols.org/stats?id=48941051) #25 6 points 8 comments -> [Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection](https://github.com/cgrtml/reasongate)<!-- HN:48941051:end --><!-- HN:48942250:start -->
-* [48942250](https://news.social-protocols.org/stats?id=48942250) #9 43 points 24 comments -> [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/)<!-- HN:48942250:end -->
+* [48942250](https://news.social-protocols.org/stats?id=48942250) #9 43 points 24 comments -> [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/)<!-- HN:48942250:end --><!-- HN:48947754:start -->
+* [48947754](https://news.social-protocols.org/stats?id=48947754) #23 11 points 13 comments -> [Show HN: On-chain bond market where the issuers are AI agents](https://selbonds.now)<!-- HN:48947754:end -->
