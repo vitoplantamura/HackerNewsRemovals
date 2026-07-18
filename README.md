@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, July 11, 2026**
-<!-- HN:48867124:start -->
-* [48867124](https://news.social-protocols.org/stats?id=48867124) #6 6 points 0 comments -> [Show HN: We beat Cloudflare's bot detection (open-source stealth browser)](https://tilion.dev/blog/cloudflare-blocks-agents)<!-- HN:48867124:end --><!-- HN:48867220:start -->
-* [48867220](https://news.social-protocols.org/stats?id=48867220) #25 6 points 2 comments -> [The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty](https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/)<!-- HN:48867220:end --><!-- HN:48867364:start -->
-* [48867364](https://news.social-protocols.org/stats?id=48867364) #15 12 points 10 comments -> [I've been building this alone for months. Roast it before I lose any more time](https://peakd.io)<!-- HN:48867364:end --><!-- HN:48814341:start -->
-* [48814341](https://news.social-protocols.org/stats?id=48814341) #8 4 points 0 comments -> [The Rule of 7 and the 7-Touchpoint Myth](https://anartfulscience.com/insights/rule-of-7-marketing/)<!-- HN:48814341:end --><!-- HN:48869243:start -->
-* [48869243](https://news.social-protocols.org/stats?id=48869243) #15 39 points 11 comments -> [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)<!-- HN:48869243:end --><!-- HN:48870966:start -->
-* [48870966](https://news.social-protocols.org/stats?id=48870966) #1 15 points 2 comments -> [pgrust passes 100% of the Postgres regression tests](https://malisper.me/pgrust-passes-100-of-postgresqls-regression-tests/)<!-- HN:48870966:end --><!-- HN:48817088:start -->
-* [48817088](https://news.social-protocols.org/stats?id=48817088) #28 3 points 0 comments -> [Show HN: Sdlc factory built on pi.dev:intent-&gt;DDD-&gt;architecture-&gt;tested code](https://github.com/arman-jalili/guardian-framework)<!-- HN:48817088:end --><!-- HN:48871716:start -->
-* [48871716](https://news.social-protocols.org/stats?id=48871716) #3 8 points 2 comments -> [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)<!-- HN:48871716:end --><!-- HN:48873978:start -->
-* [48873978](https://news.social-protocols.org/stats?id=48873978) #22 12 points 7 comments -> [Alex Karp Is Saying What Every Angry CEO Is Thinking About AI](https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c)<!-- HN:48873978:end --><!-- HN:48875709:start -->
-* [48875709](https://news.social-protocols.org/stats?id=48875709) #2 21 points 8 comments -> [OpenAI Forked Git on GitHub](https://github.com/openai/git)<!-- HN:48875709:end --><!-- HN:48875494:start -->
-* [48875494](https://news.social-protocols.org/stats?id=48875494) #21 34 points 40 comments -> [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)<!-- HN:48875494:end -->
 #### **Sunday, July 12, 2026**<!-- HN:48876970:start -->
 * [48876970](https://news.social-protocols.org/stats?id=48876970) #9 12 points 12 comments -> [Odyssey Linux](https://odysseylinux.org)<!-- HN:48876970:end --><!-- HN:48877349:start -->
 * [48877349](https://news.social-protocols.org/stats?id=48877349) #12 31 points 9 comments -> [Firefox 12.58% for Desktop Browser Market Share in North America June 2026](https://gs.statcounter.com/browser-market-share/desktop/north-america)<!-- HN:48877349:end --><!-- HN:48877421:start -->
