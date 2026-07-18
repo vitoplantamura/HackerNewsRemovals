@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48924855](https://news.social-protocols.org/stats?id=48924855) #14 7 points 2 comments -> [Show HN: Tarit – a hypervisor which is 2x faster than firecracker](https://github.com/instavm/tarit)<!-- HN:48924855:end -->
 #### **Saturday, July 18, 2026**
 <!-- HN:48953830:start -->
-* [48953830](https://news.social-protocols.org/stats?id=48953830) #16 5 points 0 comments -> [Native C# CEL Implementation](https://www.nuget.org/packages/Celly)<!-- HN:48953830:end -->
+* [48953830](https://news.social-protocols.org/stats?id=48953830) #16 5 points 0 comments -> [Native C# CEL Implementation](https://www.nuget.org/packages/Celly)<!-- HN:48953830:end --><!-- HN:48954267:start -->
+* [48954267](https://news.social-protocols.org/stats?id=48954267) #4 8 points 0 comments -> [Algorithm for NP-Complete Sudoku](https://zenodo.org/records/21420871)<!-- HN:48954267:end -->
