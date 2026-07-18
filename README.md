@@ -138,3 +138,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48951014](https://news.social-protocols.org/stats?id=48951014) #12 50 points 14 comments -> [ICE Flight Monitor Interactive Dashboard](https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard)<!-- HN:48951014:end --><!-- HN:48952450:start -->
 * [48952450](https://news.social-protocols.org/stats?id=48952450) #8 8 points 2 comments -> [I built a digital F1 garage to learn how Formula 1 cars work](https://paddockpass.app)<!-- HN:48952450:end --><!-- HN:48924855:start -->
 * [48924855](https://news.social-protocols.org/stats?id=48924855) #14 7 points 2 comments -> [Show HN: Tarit – a hypervisor which is 2x faster than firecracker](https://github.com/instavm/tarit)<!-- HN:48924855:end -->
+#### **Saturday, July 18, 2026**
+<!-- HN:48953830:start -->
+* [48953830](https://news.social-protocols.org/stats?id=48953830) #16 5 points 0 comments -> [Native C# CEL Implementation](https://www.nuget.org/packages/Celly)<!-- HN:48953830:end -->
