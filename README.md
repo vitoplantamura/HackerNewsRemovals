@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48953830:start -->
 * [48953830](https://news.social-protocols.org/stats?id=48953830) #16 5 points 0 comments -> [Native C# CEL Implementation](https://www.nuget.org/packages/Celly)<!-- HN:48953830:end --><!-- HN:48954267:start -->
 * [48954267](https://news.social-protocols.org/stats?id=48954267) #4 8 points 0 comments -> [Algorithm for NP-Complete Sudoku](https://zenodo.org/records/21420871)<!-- HN:48954267:end --><!-- HN:48955740:start -->
-* [48955740](https://news.social-protocols.org/stats?id=48955740) #29 10 points 1 comments -> [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)<!-- HN:48955740:end -->
+* [48955740](https://news.social-protocols.org/stats?id=48955740) #29 10 points 1 comments -> [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)<!-- HN:48955740:end --><!-- HN:48957175:start -->
+* [48957175](https://news.social-protocols.org/stats?id=48957175) #29 9 points 0 comments -> [America Broke Its Own Military](https://tribunemag.co.uk/2026/07/how-america-broke-its-own-military)<!-- HN:48957175:end -->
