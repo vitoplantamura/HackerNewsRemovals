@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48963642:start -->
 * [48963642](https://news.social-protocols.org/stats?id=48963642) #22 13 points 3 comments -> [AI Bubble vs. Dot Com Crash. History Is Repeating](https://www.youtube.com/watch?v=zWJ-g5u9Rqs)<!-- HN:48963642:end --><!-- HN:48965983:start -->
 * [48965983](https://news.social-protocols.org/stats?id=48965983) #30 9 points 4 comments -> [Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally](https://offlinetts.com/)<!-- HN:48965983:end --><!-- HN:48882993:start -->
-* [48882993](https://news.social-protocols.org/stats?id=48882993) #9 6 points 2 comments -> [I Put My Son in a Swamp](https://thepotato.tech/posts/i-put-my-son-in-a-swamp/)<!-- HN:48882993:end -->
+* [48882993](https://news.social-protocols.org/stats?id=48882993) #9 6 points 2 comments -> [I Put My Son in a Swamp](https://thepotato.tech/posts/i-put-my-son-in-a-swamp/)<!-- HN:48882993:end --><!-- HN:48966754:start -->
+* [48966754](https://news.social-protocols.org/stats?id=48966754) #17 25 points 2 comments -> [Qwen 3.8 Max](https://qwen.ai/home)<!-- HN:48966754:end -->
