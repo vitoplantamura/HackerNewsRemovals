@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48965983](https://news.social-protocols.org/stats?id=48965983) #30 9 points 4 comments -> [Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally](https://offlinetts.com/)<!-- HN:48965983:end --><!-- HN:48882993:start -->
 * [48882993](https://news.social-protocols.org/stats?id=48882993) #9 6 points 2 comments -> [I Put My Son in a Swamp](https://thepotato.tech/posts/i-put-my-son-in-a-swamp/)<!-- HN:48882993:end --><!-- HN:48966754:start -->
 * [48966754](https://news.social-protocols.org/stats?id=48966754) #17 25 points 2 comments -> [Qwen 3.8 Max](https://qwen.ai/home)<!-- HN:48966754:end --><!-- HN:48966665:start -->
-* [48966665](https://news.social-protocols.org/stats?id=48966665) #16 6 points 7 comments -> [Save GPT-5.5](https://save-gpt-5-5.fyi/)<!-- HN:48966665:end -->
+* [48966665](https://news.social-protocols.org/stats?id=48966665) #16 6 points 7 comments -> [Save GPT-5.5](https://save-gpt-5-5.fyi/)<!-- HN:48966665:end --><!-- HN:48966190:start -->
+* [48966190](https://news.social-protocols.org/stats?id=48966190) #1 211 points 96 comments -> [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)<!-- HN:48966190:end -->
