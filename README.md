@@ -132,5 +132,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48962405](https://news.social-protocols.org/stats?id=48962405) #27 4 points 2 comments -> [Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)](https://github.com/saineshnakra/automated-data-analyst)<!-- HN:48962405:end -->
 #### **Sunday, July 19, 2026**
 <!-- HN:48963642:start -->
-* [48963642](https://news.social-protocols.org/stats?id=48963642) #22 13 points 3 comments -> [AI Bubble vs. Dot Com Crash. History Is Repeating](https://www.youtube.com/watch?v=zWJ-g5u9Rqs)<!-- HN:48963642:end --><!-- HN:48961157:start -->
-* [48961157](https://news.social-protocols.org/stats?id=48961157) #26 26 points 40 comments -> [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/)<!-- HN:48961157:end -->
+* [48963642](https://news.social-protocols.org/stats?id=48963642) #22 13 points 3 comments -> [AI Bubble vs. Dot Com Crash. History Is Repeating](https://www.youtube.com/watch?v=zWJ-g5u9Rqs)<!-- HN:48963642:end -->
