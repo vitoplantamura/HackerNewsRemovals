@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48966665](https://news.social-protocols.org/stats?id=48966665) #16 6 points 7 comments -> [Save GPT-5.5](https://save-gpt-5-5.fyi/)<!-- HN:48966665:end --><!-- HN:48966190:start -->
 * [48966190](https://news.social-protocols.org/stats?id=48966190) #1 211 points 96 comments -> [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)<!-- HN:48966190:end --><!-- HN:48966939:start -->
 * [48966939](https://news.social-protocols.org/stats?id=48966939) #23 9 points 0 comments -> [Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir](https://github.com/CaviraOSS/Akashic)<!-- HN:48966939:end --><!-- HN:48930892:start -->
-* [48930892](https://news.social-protocols.org/stats?id=48930892) #13 7 points 3 comments -> [Holding the LLM Stack in Your Head](https://thegustafson.com/series)<!-- HN:48930892:end -->
+* [48930892](https://news.social-protocols.org/stats?id=48930892) #13 7 points 3 comments -> [Holding the LLM Stack in Your Head](https://thegustafson.com/series)<!-- HN:48930892:end --><!-- HN:48970684:start -->
+* [48970684](https://news.social-protocols.org/stats?id=48970684) #10 11 points 8 comments -> [Show HN: How much profit does your employer make per employee?](https://yourfairshare.info)<!-- HN:48970684:end -->
