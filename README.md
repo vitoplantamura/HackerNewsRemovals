@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48966754](https://news.social-protocols.org/stats?id=48966754) #17 25 points 2 comments -> [Qwen 3.8 Max](https://qwen.ai/home)<!-- HN:48966754:end --><!-- HN:48966665:start -->
 * [48966665](https://news.social-protocols.org/stats?id=48966665) #16 6 points 7 comments -> [Save GPT-5.5](https://save-gpt-5-5.fyi/)<!-- HN:48966665:end --><!-- HN:48966190:start -->
 * [48966190](https://news.social-protocols.org/stats?id=48966190) #1 211 points 96 comments -> [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)<!-- HN:48966190:end --><!-- HN:48966939:start -->
-* [48966939](https://news.social-protocols.org/stats?id=48966939) #23 9 points 0 comments -> [Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir](https://github.com/CaviraOSS/Akashic)<!-- HN:48966939:end -->
+* [48966939](https://news.social-protocols.org/stats?id=48966939) #23 9 points 0 comments -> [Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir](https://github.com/CaviraOSS/Akashic)<!-- HN:48966939:end --><!-- HN:48930892:start -->
+* [48930892](https://news.social-protocols.org/stats?id=48930892) #13 7 points 3 comments -> [Holding the LLM Stack in Your Head](https://thegustafson.com/series)<!-- HN:48930892:end -->
