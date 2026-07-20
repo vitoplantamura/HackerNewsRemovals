@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48972524](https://news.social-protocols.org/stats?id=48972524) #4 11 points 3 comments -> [Spain beats Argentina to win the World Cup](https://english.elpais.com/sports/2026-07-19/spain-beat-argentina-to-win-the-world-cup.html)<!-- HN:48972524:end -->
 #### **Monday, July 20, 2026**
 <!-- HN:48972928:start -->
-* [48972928](https://news.social-protocols.org/stats?id=48972928) #17 28 points 13 comments -> [CO2 overload in blood suggests toxic atmosphere within 50 years](https://doi.org/10.1007/s11869-026-01918-5)<!-- HN:48972928:end -->
+* [48972928](https://news.social-protocols.org/stats?id=48972928) #17 28 points 13 comments -> [CO2 overload in blood suggests toxic atmosphere within 50 years](https://doi.org/10.1007/s11869-026-01918-5)<!-- HN:48972928:end --><!-- HN:48904070:start -->
+* [48904070](https://news.social-protocols.org/stats?id=48904070) #15 5 points 1 comments -> [Native SDK from Vercel](https://native-sdk.dev/)<!-- HN:48904070:end -->
