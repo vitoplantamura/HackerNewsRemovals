@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 20, 2026**
 <!-- HN:48972928:start -->
 * [48972928](https://news.social-protocols.org/stats?id=48972928) #17 28 points 13 comments -> [CO2 overload in blood suggests toxic atmosphere within 50 years](https://doi.org/10.1007/s11869-026-01918-5)<!-- HN:48972928:end --><!-- HN:48904070:start -->
-* [48904070](https://news.social-protocols.org/stats?id=48904070) #15 5 points 1 comments -> [Native SDK from Vercel](https://native-sdk.dev/)<!-- HN:48904070:end -->
+* [48904070](https://news.social-protocols.org/stats?id=48904070) #15 5 points 1 comments -> [Native SDK from Vercel](https://native-sdk.dev/)<!-- HN:48904070:end --><!-- HN:48974426:start -->
+* [48974426](https://news.social-protocols.org/stats?id=48974426) #21 32 points 12 comments -> [Big Tech Needs to Justify AI Spending as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks)<!-- HN:48974426:end -->
