@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48972197](https://news.social-protocols.org/stats?id=48972197) #11 3 points 0 comments -> [Principia Artificialis – Mathematical Foundations of Artificial Thought](https://github.com/holland202/Principia-Artificialis)<!-- HN:48972197:end --><!-- HN:48971999:start -->
 * [48971999](https://news.social-protocols.org/stats?id=48971999) #9 10 points 0 comments -> [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios)<!-- HN:48971999:end --><!-- HN:48972524:start -->
 * [48972524](https://news.social-protocols.org/stats?id=48972524) #4 11 points 3 comments -> [Spain beats Argentina to win the World Cup](https://english.elpais.com/sports/2026-07-19/spain-beat-argentina-to-win-the-world-cup.html)<!-- HN:48972524:end -->
+#### **Monday, July 20, 2026**
+<!-- HN:48972928:start -->
+* [48972928](https://news.social-protocols.org/stats?id=48972928) #17 28 points 13 comments -> [CO2 overload in blood suggests toxic atmosphere within 50 years](https://doi.org/10.1007/s11869-026-01918-5)<!-- HN:48972928:end -->
