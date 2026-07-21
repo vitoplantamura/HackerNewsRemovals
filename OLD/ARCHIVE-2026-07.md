@@ -209,3 +209,14 @@
 * [48897969](https://news.ycombinator.com/item?id=48897969) #28 8 points 6 comments -> [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)<!-- HN:48897969:end --><!-- HN:48899741:start -->
 * [48899741](https://news.ycombinator.com/item?id=48899741) #16 -> [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)<!-- HN:48899741:end --><!-- HN:48896800:start -->
 * [48896800](https://news.ycombinator.com/item?id=48896800) #9 146 points 72 comments -> [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)<!-- HN:48896800:end -->
+#### **Tuesday, July 14, 2026**
+<!-- HN:48901788:start -->
+* [48901788](https://news.ycombinator.com/item?id=48901788) #23 3 points 0 comments -> [America's Other Elections Problem](https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem)<!-- HN:48901788:end --><!-- HN:48901695:start -->
+* [48901695](https://news.ycombinator.com/item?id=48901695) #25 37 points 13 comments -> [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)<!-- HN:48901695:end --><!-- HN:48903701:start -->
+* [48903701](https://news.ycombinator.com/item?id=48903701) #28 8 points 5 comments -> [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)<!-- HN:48903701:end --><!-- HN:48905030:start -->
+* [48905030](https://news.ycombinator.com/item?id=48905030) #6 14 points 4 comments -> [Show HN: Beautiful QR Codes](https://scanwayy.com)<!-- HN:48905030:end --><!-- HN:48905122:start -->
+* [48905122](https://news.ycombinator.com/item?id=48905122) #11 13 points 3 comments -> [The Definition of Done](https://adi.bio/done)<!-- HN:48905122:end --><!-- HN:48906339:start -->
+* [48906339](https://news.ycombinator.com/item?id=48906339) #22 4 points 0 comments -> [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)<!-- HN:48906339:end --><!-- HN:48847943:start -->
+* [48847943](https://news.ycombinator.com/item?id=48847943) #12 142 points 20 comments -> [The tiny cell that wasn't there](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)<!-- HN:48847943:end --><!-- HN:48850688:start -->
+* [48850688](https://news.ycombinator.com/item?id=48850688) #29 65 points 7 comments -> [Paxos Made Simple (2001)[pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)<!-- HN:48850688:end --><!-- HN:48913220:start -->
+* [48913220](https://news.ycombinator.com/item?id=48913220) #12 78 points 12 comments -> [Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games](https://xcancel.com/JoshuaKhane/status/2076918699248803977)<!-- HN:48913220:end -->

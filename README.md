@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, July 14, 2026**
-<!-- HN:48901788:start -->
-* [48901788](https://news.social-protocols.org/stats?id=48901788) #23 3 points 0 comments -> [America's Other Elections Problem](https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem)<!-- HN:48901788:end --><!-- HN:48901695:start -->
-* [48901695](https://news.social-protocols.org/stats?id=48901695) #25 37 points 13 comments -> [Agents.md – Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)<!-- HN:48901695:end --><!-- HN:48903701:start -->
-* [48903701](https://news.social-protocols.org/stats?id=48903701) #28 8 points 5 comments -> [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)<!-- HN:48903701:end --><!-- HN:48905030:start -->
-* [48905030](https://news.social-protocols.org/stats?id=48905030) #6 14 points 4 comments -> [Show HN: Beautiful QR Codes](https://scanwayy.com)<!-- HN:48905030:end --><!-- HN:48905122:start -->
-* [48905122](https://news.social-protocols.org/stats?id=48905122) #11 13 points 3 comments -> [The Definition of Done](https://adi.bio/done)<!-- HN:48905122:end --><!-- HN:48906339:start -->
-* [48906339](https://news.social-protocols.org/stats?id=48906339) #22 4 points 0 comments -> [Serena Williams Fit-Dex](https://serena-williams-fitdex.netlify.app/)<!-- HN:48906339:end --><!-- HN:48847943:start -->
-* [48847943](https://news.social-protocols.org/stats?id=48847943) #12 142 points 20 comments -> [The tiny cell that wasn't there](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)<!-- HN:48847943:end --><!-- HN:48850688:start -->
-* [48850688](https://news.social-protocols.org/stats?id=48850688) #29 65 points 7 comments -> [Paxos Made Simple (2001)[pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)<!-- HN:48850688:end --><!-- HN:48913220:start -->
-* [48913220](https://news.social-protocols.org/stats?id=48913220) #12 78 points 12 comments -> [Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games](https://xcancel.com/JoshuaKhane/status/2076918699248803977)<!-- HN:48913220:end -->
 #### **Wednesday, July 15, 2026**
 <!-- HN:48913953:start -->
 * [48913953](https://news.social-protocols.org/stats?id=48913953) #12 10 points 5 comments -> [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)<!-- HN:48913953:end --><!-- HN:48918530:start -->
