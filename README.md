@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48936658](https://news.social-protocols.org/stats?id=48936658) #21 12 points 3 comments -> [What I Learned from Reimplementing 40 Multi-Agent LLM Papers](https://medium.com/@Koukyosyumei/what-i-learned-from-reimplementing-40-multi-agent-llm-papers-bd6b574f5659)<!-- HN:48936658:end -->
 #### **Tuesday, July 21, 2026**
 <!-- HN:48901918:start -->
-* [48901918](https://news.social-protocols.org/stats?id=48901918) #21 16 points 3 comments -> [Rendering Fonts Quickly on the GPU](https://www.outercloud.dev/blogs/webgpu-font-rendering/)<!-- HN:48901918:end -->
+* [48901918](https://news.social-protocols.org/stats?id=48901918) #21 16 points 3 comments -> [Rendering Fonts Quickly on the GPU](https://www.outercloud.dev/blogs/webgpu-font-rendering/)<!-- HN:48901918:end --><!-- HN:48986912:start -->
+* [48986912](https://news.social-protocols.org/stats?id=48986912) #13 4 points 2 comments -> [Show HN: I made email signatures less boring](https://esigna.app)<!-- HN:48986912:end -->
