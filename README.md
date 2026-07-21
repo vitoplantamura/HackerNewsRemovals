@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48980375](https://news.social-protocols.org/stats?id=48980375) #23 13 points 3 comments -> [SaaS *is* dead. But not because AI "killed" it, because AI killed it](https://avivcarmi.com/saas-is-dead/)<!-- HN:48980375:end --><!-- HN:48910259:start -->
 * [48910259](https://news.social-protocols.org/stats?id=48910259) #23 8 points 2 comments -> [Another Entry in the "Stuff Im Glad Im Not Responsible for" Ledger](https://blog.cloudflare.com/dnssec-nta-ede-33/)<!-- HN:48910259:end --><!-- HN:48936658:start -->
 * [48936658](https://news.social-protocols.org/stats?id=48936658) #21 12 points 3 comments -> [What I Learned from Reimplementing 40 Multi-Agent LLM Papers](https://medium.com/@Koukyosyumei/what-i-learned-from-reimplementing-40-multi-agent-llm-papers-bd6b574f5659)<!-- HN:48936658:end -->
+#### **Tuesday, July 21, 2026**
+<!-- HN:48901918:start -->
+* [48901918](https://news.social-protocols.org/stats?id=48901918) #21 16 points 3 comments -> [Rendering Fonts Quickly on the GPU](https://www.outercloud.dev/blogs/webgpu-font-rendering/)<!-- HN:48901918:end -->
