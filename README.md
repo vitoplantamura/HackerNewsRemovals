@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, July 22, 2026**
 <!-- HN:48999376:start -->
 * [48999376](https://news.social-protocols.org/stats?id=48999376) #9 27 points 4 comments -> [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)<!-- HN:48999376:end --><!-- HN:49002010:start -->
-* [49002010](https://news.social-protocols.org/stats?id=49002010) #19 6 points 2 comments -> [Airglow browser lets users modify YouTube, Gmail and Spotify in real time](https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time)<!-- HN:49002010:end -->
+* [49002010](https://news.social-protocols.org/stats?id=49002010) #19 6 points 2 comments -> [Airglow browser lets users modify YouTube, Gmail and Spotify in real time](https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time)<!-- HN:49002010:end --><!-- HN:49001775:start -->
+* [49001775](https://news.social-protocols.org/stats?id=49001775) #19 17 points 3 comments -> [Ten ways a check passes while the thing it checks is broken](https://phronesis.world/papers/ways-of-checking/)<!-- HN:49001775:end -->
