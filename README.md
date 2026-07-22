@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, July 15, 2026**
-<!-- HN:48913953:start -->
-* [48913953](https://news.social-protocols.org/stats?id=48913953) #12 10 points 5 comments -> [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)<!-- HN:48913953:end --><!-- HN:48918530:start -->
-* [48918530](https://news.social-protocols.org/stats?id=48918530) #2 19 points 40 comments -> [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)<!-- HN:48918530:end --><!-- HN:48919004:start -->
-* [48919004](https://news.social-protocols.org/stats?id=48919004) #21 6 points 2 comments -> [Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor](https://dl.acm.org/doi/10.1145/3800645.3813051)<!-- HN:48919004:end --><!-- HN:48919265:start -->
-* [48919265](https://news.social-protocols.org/stats?id=48919265) #29 6 points 7 comments -> [Filmgrab: Films A-Z](https://film-grab.com/movies-a-z/)<!-- HN:48919265:end --><!-- HN:48919832:start -->
-* [48919832](https://news.social-protocols.org/stats?id=48919832) #16 8 points 5 comments -> [The $110/month self-improving pipeline](https://andywidjaja.com/blog/110-pipeline)<!-- HN:48919832:end --><!-- HN:48918956:start -->
-* [48918956](https://news.social-protocols.org/stats?id=48918956) #15 31 points 40 comments -> [Societal Impacts: Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages)<!-- HN:48918956:end --><!-- HN:48920836:start -->
-* [48920836](https://news.social-protocols.org/stats?id=48920836) #10 25 points 41 comments -> [US House of Representatives takes step to make daylight saving time permanent](https://www.bbc.com/news/articles/cz9l9venjd8o)<!-- HN:48920836:end --><!-- HN:48920537:start -->
-* [48920537](https://news.social-protocols.org/stats?id=48920537) #16 14 points 23 comments -> [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)<!-- HN:48920537:end --><!-- HN:48920156:start -->
-* [48920156](https://news.social-protocols.org/stats?id=48920156) #27 13 points 20 comments -> [What `for x in y` hides from you – From Scratch Code](https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/)<!-- HN:48920156:end --><!-- HN:48924929:start -->
-* [48924929](https://news.social-protocols.org/stats?id=48924929) #1 113 points 21 comments -> [Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM](https://thinkingmachines.ai/inkling/)<!-- HN:48924929:end --><!-- HN:48926841:start -->
-* [48926841](https://news.social-protocols.org/stats?id=48926841) #6 20 points 4 comments -> [Grok Build is open source](https://x.ai/open-source)<!-- HN:48926841:end --><!-- HN:48927136:start -->
-* [48927136](https://news.social-protocols.org/stats?id=48927136) #10 29 points 41 comments -> [The End of Creativity](https://hugodaniel.com/posts/the-end-of-creativity/)<!-- HN:48927136:end -->
 #### **Thursday, July 16, 2026**
 <!-- HN:48930149:start -->
 * [48930149](https://news.social-protocols.org/stats?id=48930149) #28 17 points 6 comments -> [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)<!-- HN:48930149:end --><!-- HN:48882777:start -->
