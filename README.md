@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48995946](https://news.social-protocols.org/stats?id=48995946) #30 24 points 10 comments -> [How did the H1B visa become the 'Indian' visa](https://numberstation.fm/the-body-shop/)<!-- HN:48995946:end -->
 #### **Wednesday, July 22, 2026**
 <!-- HN:48999376:start -->
-* [48999376](https://news.social-protocols.org/stats?id=48999376) #9 27 points 4 comments -> [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)<!-- HN:48999376:end -->
+* [48999376](https://news.social-protocols.org/stats?id=48999376) #9 27 points 4 comments -> [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)<!-- HN:48999376:end --><!-- HN:49002010:start -->
+* [49002010](https://news.social-protocols.org/stats?id=49002010) #19 6 points 2 comments -> [Airglow browser lets users modify YouTube, Gmail and Spotify in real time](https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time)<!-- HN:49002010:end -->
