@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48994103](https://news.social-protocols.org/stats?id=48994103) #20 29 points 41 comments -> [Amid nurse shortage, a university rolls out the welcome mat for men](https://text.npr.org/nx-s1-5869813)<!-- HN:48994103:end --><!-- HN:48995333:start -->
 * [48995333](https://news.social-protocols.org/stats?id=48995333) #25 11 points 3 comments -> [Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf](https://github.com/matheuzgomes/decoreba)<!-- HN:48995333:end --><!-- HN:48995946:start -->
 * [48995946](https://news.social-protocols.org/stats?id=48995946) #30 24 points 10 comments -> [How did the H1B visa become the 'Indian' visa](https://numberstation.fm/the-body-shop/)<!-- HN:48995946:end -->
+#### **Wednesday, July 22, 2026**
+<!-- HN:48999376:start -->
+* [48999376](https://news.social-protocols.org/stats?id=48999376) #9 27 points 4 comments -> [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)<!-- HN:48999376:end -->
