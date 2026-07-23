@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, July 23, 2026**
 <!-- HN:49015999:start -->
 * [49015999](https://news.social-protocols.org/stats?id=49015999) #13 3 points 4 comments -> [Google illegally retains customer data](https://discuss.ai.google.dev/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/175294)<!-- HN:49015999:end --><!-- HN:49017170:start -->
-* [49017170](https://news.social-protocols.org/stats?id=49017170) #24 4 points 1 comments -> [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)<!-- HN:49017170:end -->
+* [49017170](https://news.social-protocols.org/stats?id=49017170) #24 4 points 1 comments -> [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)<!-- HN:49017170:end --><!-- HN:48977463:start -->
+* [48977463](https://news.social-protocols.org/stats?id=48977463) #26 45 points 40 comments -> [Why malloc always does more than I asked for?](https://ssenthilnathan3.github.io/blog/malloc/)<!-- HN:48977463:end -->
