@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49008217](https://news.social-protocols.org/stats?id=49008217) #10 10 points 2 comments -> [I Am Buiding BorgIOS to de-shitify the Internet](https://github.com/bitmonky/BorgIOS)<!-- HN:49008217:end --><!-- HN:49007487:start -->
 * [49007487](https://news.social-protocols.org/stats?id=49007487) #28 44 points 26 comments -> [How to Read a Painting](https://sheets.works/data-viz/how-to-read-a-painting/)<!-- HN:49007487:end --><!-- HN:48933232:start -->
 * [48933232](https://news.social-protocols.org/stats?id=48933232) #11 36 points 7 comments -> [Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog](https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/)<!-- HN:48933232:end -->
+#### **Thursday, July 23, 2026**
+<!-- HN:49014798:start -->
+* [49014798](https://news.social-protocols.org/stats?id=49014798) #23 7 points 4 comments -> [Why I'm building a note taking app without AI](https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai)<!-- HN:49014798:end -->
