@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [48933232](https://news.social-protocols.org/stats?id=48933232) #11 36 points 7 comments -> [Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog](https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/)<!-- HN:48933232:end -->
 #### **Thursday, July 23, 2026**
 <!-- HN:49014798:start -->
-* [49014798](https://news.social-protocols.org/stats?id=49014798) #23 7 points 4 comments -> [Why I'm building a note taking app without AI](https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai)<!-- HN:49014798:end -->
+* [49014798](https://news.social-protocols.org/stats?id=49014798) #23 7 points 4 comments -> [Why I'm building a note taking app without AI](https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai)<!-- HN:49014798:end --><!-- HN:49015999:start -->
+* [49015999](https://news.social-protocols.org/stats?id=49015999) #13 3 points 4 comments -> [Google illegally retains customer data](https://discuss.ai.google.dev/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/175294)<!-- HN:49015999:end -->
