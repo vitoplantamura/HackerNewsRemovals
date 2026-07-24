@@ -126,4 +126,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49027426](https://news.social-protocols.org/stats?id=49027426) #21 18 points 7 comments -> [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)<!-- HN:49027426:end -->
 #### **Friday, July 24, 2026**
 <!-- HN:49029554:start -->
-* [49029554](https://news.social-protocols.org/stats?id=49029554) #18 2 points 0 comments -> [Feral cats fail at urban rodent control (2018)](https://wildlife.org/rats-feral-cats-fail-at-urban-rodent-control/)<!-- HN:49029554:end -->
+* [49029554](https://news.social-protocols.org/stats?id=49029554) #18 2 points 0 comments -> [Feral cats fail at urban rodent control (2018)](https://wildlife.org/rats-feral-cats-fail-at-urban-rodent-control/)<!-- HN:49029554:end --><!-- HN:48959008:start -->
+* [48959008](https://news.social-protocols.org/stats?id=48959008) #6 62 points 13 comments -> [What else do people draw on gradient.horse?](https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/)<!-- HN:48959008:end --><!-- HN:48951500:start -->
+* [48951500](https://news.social-protocols.org/stats?id=48951500) #10 99 points 32 comments -> [A24 Is Copyright Striking Backrooms Artwork Older Than the Movie](https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/)<!-- HN:48951500:end --><!-- HN:48952392:start -->
+* [48952392](https://news.social-protocols.org/stats?id=48952392) #14 36 points 6 comments -> [Interview with Matheus Moreira about Lone Lisp and Linux Kernel](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)<!-- HN:48952392:end -->
