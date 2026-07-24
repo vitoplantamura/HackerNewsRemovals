@@ -132,3 +132,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49022838](https://news.social-protocols.org/stats?id=49022838) #9 29 points 40 comments -> [Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude](https://typebulb.com/u/lab/you-re-relatively-right/full)<!-- HN:49022838:end --><!-- HN:49024993:start -->
 * [49024993](https://news.social-protocols.org/stats?id=49024993) #21 4 points 4 comments -> [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt/)<!-- HN:49024993:end --><!-- HN:49027426:start -->
 * [49027426](https://news.social-protocols.org/stats?id=49027426) #21 18 points 7 comments -> [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)<!-- HN:49027426:end -->
+#### **Friday, July 24, 2026**
+<!-- HN:49029554:start -->
+* [49029554](https://news.social-protocols.org/stats?id=49029554) #18 2 points 0 comments -> [Feral cats fail at urban rodent control (2018)](https://wildlife.org/rats-feral-cats-fail-at-urban-rodent-control/)<!-- HN:49029554:end -->
