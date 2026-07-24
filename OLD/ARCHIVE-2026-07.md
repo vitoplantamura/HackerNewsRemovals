@@ -253,3 +253,11 @@
 * [48939580](https://news.ycombinator.com/item?id=48939580) #2 47 points 2 comments -> [Kimi K3 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/kimi-k3)<!-- HN:48939580:end --><!-- HN:48870746:start -->
 * [48870746](https://news.ycombinator.com/item?id=48870746) #24 5 points 1 comments -> [Show HN: Make images render brighter than white by abusing Rec.2100 PQ profiles](https://superwhite.app/blog/how-it-works)<!-- HN:48870746:end --><!-- HN:48940801:start -->
 * [48940801](https://news.ycombinator.com/item?id=48940801) #23 12 points 7 comments -> [Just Do Things](https://ray.zo.space/blog/just-do-things)<!-- HN:48940801:end -->
+#### **Friday, July 17, 2026**
+<!-- HN:48941051:start -->
+* [48941051](https://news.ycombinator.com/item?id=48941051) #25 6 points 8 comments -> [Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection](https://github.com/cgrtml/reasongate)<!-- HN:48941051:end --><!-- HN:48942250:start -->
+* [48942250](https://news.ycombinator.com/item?id=48942250) #9 43 points 24 comments -> [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/)<!-- HN:48942250:end --><!-- HN:48951147:start -->
+* [48951147](https://news.ycombinator.com/item?id=48951147) #6 -> [Why the People Who Could Fix It Are the First to Leave](https://www.hackingleadership.com/p/why-the-people-who-could-fix-it-are-the-first-to-leave)<!-- HN:48951147:end --><!-- HN:48951014:start -->
+* [48951014](https://news.ycombinator.com/item?id=48951014) #12 50 points 14 comments -> [ICE Flight Monitor Interactive Dashboard](https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard)<!-- HN:48951014:end --><!-- HN:48952450:start -->
+* [48952450](https://news.ycombinator.com/item?id=48952450) #8 8 points 2 comments -> [I built a digital F1 garage to learn how Formula 1 cars work](https://paddockpass.app)<!-- HN:48952450:end --><!-- HN:48924855:start -->
+* [48924855](https://news.ycombinator.com/item?id=48924855) #14 7 points 2 comments -> [Show HN: Tarit – a hypervisor which is 2x faster than firecracker](https://github.com/instavm/tarit)<!-- HN:48924855:end -->
