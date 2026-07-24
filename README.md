@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:48951500:start -->
 * [48951500](https://news.social-protocols.org/stats?id=48951500) #10 99 points 32 comments -> [A24 Is Copyright Striking Backrooms Artwork Older Than the Movie](https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/)<!-- HN:48951500:end --><!-- HN:48952392:start -->
 * [48952392](https://news.social-protocols.org/stats?id=48952392) #14 36 points 6 comments -> [Interview with Matheus Moreira about Lone Lisp and Linux Kernel](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)<!-- HN:48952392:end --><!-- HN:49031330:start -->
-* [49031330](https://news.social-protocols.org/stats?id=49031330) #3 8 points 0 comments -> [Zuckerberg Emojis](https://rybakov.com/blog/zuckerberg_emojis/)<!-- HN:49031330:end -->
+* [49031330](https://news.social-protocols.org/stats?id=49031330) #3 8 points 0 comments -> [Zuckerberg Emojis](https://rybakov.com/blog/zuckerberg_emojis/)<!-- HN:49031330:end --><!-- HN:49027985:start -->
+* [49027985](https://news.social-protocols.org/stats?id=49027985) #30 54 points 18 comments -> [Stripe in talks to buy OpenRouter for ~10B](https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74)<!-- HN:49027985:end -->
