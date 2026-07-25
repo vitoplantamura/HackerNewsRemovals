@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49038260](https://news.social-protocols.org/stats?id=49038260) #20 3 points 1 comments -> [Must have tool for agentic workspace and Mac users](https://github.com/rohankc69/clickit)<!-- HN:49038260:end --><!-- HN:49038393:start -->
 * [49038393](https://news.social-protocols.org/stats?id=49038393) #17 72 points 8 comments -> [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)<!-- HN:49038393:end -->
 #### **Saturday, July 25, 2026**<!-- HN:49008624:start -->
-* [49008624](https://news.social-protocols.org/stats?id=49008624) #15 -> [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)<!-- HN:49008624:end -->
+* [49008624](https://news.social-protocols.org/stats?id=49008624) #15 -> [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)<!-- HN:49008624:end --><!-- HN:49047198:start -->
+* [49047198](https://news.social-protocols.org/stats?id=49047198) #13 43 points 28 comments -> [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)<!-- HN:49047198:end -->
