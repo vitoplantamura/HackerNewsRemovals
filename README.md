@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, July 18, 2026**
-<!-- HN:48953830:start -->
-* [48953830](https://news.social-protocols.org/stats?id=48953830) #16 5 points 0 comments -> [Native C# CEL Implementation](https://www.nuget.org/packages/Celly)<!-- HN:48953830:end --><!-- HN:48954267:start -->
-* [48954267](https://news.social-protocols.org/stats?id=48954267) #4 8 points 0 comments -> [Algorithm for NP-Complete Sudoku](https://zenodo.org/records/21420871)<!-- HN:48954267:end --><!-- HN:48955740:start -->
-* [48955740](https://news.social-protocols.org/stats?id=48955740) #29 10 points 1 comments -> [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)<!-- HN:48955740:end --><!-- HN:48903490:start -->
-* [48903490](https://news.social-protocols.org/stats?id=48903490) #13 8 points 1 comments -> [Responsive Design Calculator](https://www.redblobgames.com/blog/2026-07-11-responsive-design-calculator/)<!-- HN:48903490:end --><!-- HN:48959314:start -->
-* [48959314](https://news.social-protocols.org/stats?id=48959314) #6 13 points 0 comments -> [Frozen 2 should be Rated R](https://interconnected.org/home/2026/07/17/frozen)<!-- HN:48959314:end --><!-- HN:48959473:start -->
-* [48959473](https://news.social-protocols.org/stats?id=48959473) #18 35 points 40 comments -> [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)<!-- HN:48959473:end --><!-- HN:48959575:start -->
-* [48959575](https://news.social-protocols.org/stats?id=48959575) #27 29 points 26 comments -> [Heresy](https://paulgraham.com/heresy.html)<!-- HN:48959575:end --><!-- HN:48960416:start -->
-* [48960416](https://news.social-protocols.org/stats?id=48960416) #24 11 points 4 comments -> [In Germany if you say a restaurant is just ok they send the gestapo after you](https://twitter.com/eigen_moomin/status/2077471686295957749)<!-- HN:48960416:end --><!-- HN:48960551:start -->
-* [48960551](https://news.social-protocols.org/stats?id=48960551) #14 28 points 40 comments -> [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)<!-- HN:48960551:end --><!-- HN:48959102:start -->
-* [48959102](https://news.social-protocols.org/stats?id=48959102) #28 30 points 40 comments -> [The Fermi Paradox, Percolation, and Inbreeding](https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/)<!-- HN:48959102:end --><!-- HN:48962963:start -->
-* [48962963](https://news.social-protocols.org/stats?id=48962963) #10 9 points 1 comments -> [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)<!-- HN:48962963:end --><!-- HN:48904912:start -->
-* [48904912](https://news.social-protocols.org/stats?id=48904912) #29 32 points 6 comments -> [Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps](https://github.com/rejourneyco/rejourney)<!-- HN:48904912:end --><!-- HN:48962405:start -->
-* [48962405](https://news.social-protocols.org/stats?id=48962405) #27 4 points 2 comments -> [Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)](https://github.com/saineshnakra/automated-data-analyst)<!-- HN:48962405:end -->
 #### **Sunday, July 19, 2026**
 <!-- HN:48963642:start -->
 * [48963642](https://news.social-protocols.org/stats?id=48963642) #22 13 points 3 comments -> [AI Bubble vs. Dot Com Crash. History Is Repeating](https://www.youtube.com/watch?v=zWJ-g5u9Rqs)<!-- HN:48963642:end --><!-- HN:48965983:start -->
