@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, July 19, 2026**
-<!-- HN:48963642:start -->
-* [48963642](https://news.social-protocols.org/stats?id=48963642) #22 13 points 3 comments -> [AI Bubble vs. Dot Com Crash. History Is Repeating](https://www.youtube.com/watch?v=zWJ-g5u9Rqs)<!-- HN:48963642:end --><!-- HN:48965983:start -->
-* [48965983](https://news.social-protocols.org/stats?id=48965983) #30 9 points 4 comments -> [Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally](https://offlinetts.com/)<!-- HN:48965983:end --><!-- HN:48882993:start -->
-* [48882993](https://news.social-protocols.org/stats?id=48882993) #9 6 points 2 comments -> [I Put My Son in a Swamp](https://thepotato.tech/posts/i-put-my-son-in-a-swamp/)<!-- HN:48882993:end --><!-- HN:48966754:start -->
-* [48966754](https://news.social-protocols.org/stats?id=48966754) #17 25 points 2 comments -> [Qwen 3.8 Max](https://qwen.ai/home)<!-- HN:48966754:end --><!-- HN:48966665:start -->
-* [48966665](https://news.social-protocols.org/stats?id=48966665) #16 6 points 7 comments -> [Save GPT-5.5](https://save-gpt-5-5.fyi/)<!-- HN:48966665:end --><!-- HN:48966190:start -->
-* [48966190](https://news.social-protocols.org/stats?id=48966190) #1 211 points 96 comments -> [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)<!-- HN:48966190:end --><!-- HN:48966939:start -->
-* [48966939](https://news.social-protocols.org/stats?id=48966939) #23 9 points 0 comments -> [Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir](https://github.com/CaviraOSS/Akashic)<!-- HN:48966939:end --><!-- HN:48930892:start -->
-* [48930892](https://news.social-protocols.org/stats?id=48930892) #13 7 points 3 comments -> [Holding the LLM Stack in Your Head](https://thegustafson.com/series)<!-- HN:48930892:end --><!-- HN:48970684:start -->
-* [48970684](https://news.social-protocols.org/stats?id=48970684) #10 11 points 8 comments -> [Show HN: How much profit does your employer make per employee?](https://yourfairshare.info)<!-- HN:48970684:end --><!-- HN:48972197:start -->
-* [48972197](https://news.social-protocols.org/stats?id=48972197) #11 3 points 0 comments -> [Principia Artificialis – Mathematical Foundations of Artificial Thought](https://github.com/holland202/Principia-Artificialis)<!-- HN:48972197:end --><!-- HN:48971999:start -->
-* [48971999](https://news.social-protocols.org/stats?id=48971999) #9 10 points 0 comments -> [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios)<!-- HN:48971999:end --><!-- HN:48972524:start -->
-* [48972524](https://news.social-protocols.org/stats?id=48972524) #4 11 points 3 comments -> [Spain beats Argentina to win the World Cup](https://english.elpais.com/sports/2026-07-19/spain-beat-argentina-to-win-the-world-cup.html)<!-- HN:48972524:end -->
 #### **Monday, July 20, 2026**
 <!-- HN:48972928:start -->
 * [48972928](https://news.social-protocols.org/stats?id=48972928) #17 28 points 13 comments -> [CO2 overload in blood suggests toxic atmosphere within 50 years](https://doi.org/10.1007/s11869-026-01918-5)<!-- HN:48972928:end --><!-- HN:48904070:start -->
