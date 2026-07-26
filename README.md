@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49005722](https://news.social-protocols.org/stats?id=49005722) #25 6 points 0 comments -> [Pkgxray – inspect what gets installed, not what executes](https://github.com/adamsjack711-ux/pkgxray)<!-- HN:49005722:end --><!-- HN:49052406:start -->
 * [49052406](https://news.social-protocols.org/stats?id=49052406) #9 11 points 1 comments -> [We Need a National Ballroom](https://weneedaballroom.com/)<!-- HN:49052406:end --><!-- HN:49052625:start -->
 * [49052625](https://news.social-protocols.org/stats?id=49052625) #14 11 points 0 comments -> [As Supreme Court decisions grow sharper, study examines justices’ concessions](https://www.umass.edu/news/article/supreme-court-decisions-grow-sharper-study-examines-justices-calculated-concessions)<!-- HN:49052625:end -->
-#### **Sunday, July 26, 2026**
+#### **Sunday, July 26, 2026**<!-- HN:49054108:start -->
+* [49054108](https://news.social-protocols.org/stats?id=49054108) #30 5 points 0 comments -> [Google ignored my site for 13 weeks, so I audited everyone who outranks me](https://getqrcodepro.com/blog/google-ranking-evidence)<!-- HN:49054108:end -->
