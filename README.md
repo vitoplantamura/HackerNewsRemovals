@@ -120,5 +120,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49052406](https://news.social-protocols.org/stats?id=49052406) #9 11 points 1 comments -> [We Need a National Ballroom](https://weneedaballroom.com/)<!-- HN:49052406:end --><!-- HN:49052625:start -->
 * [49052625](https://news.social-protocols.org/stats?id=49052625) #14 11 points 0 comments -> [As Supreme Court decisions grow sharper, study examines justices’ concessions](https://www.umass.edu/news/article/supreme-court-decisions-grow-sharper-study-examines-justices-calculated-concessions)<!-- HN:49052625:end -->
 #### **Sunday, July 26, 2026**
-<!-- HN:49013551:start -->
-* [49013551](https://news.social-protocols.org/stats?id=49013551) #14 14 points 2 comments -> [Star Axis](https://en.wikipedia.org/wiki/Star_Axis)<!-- HN:49013551:end -->
