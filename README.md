@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49061015](https://news.social-protocols.org/stats?id=49061015) #23 16 points 15 comments -> [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)<!-- HN:49061015:end -->
 #### **Monday, July 27, 2026**
 <!-- HN:49063454:start -->
-* [49063454](https://news.social-protocols.org/stats?id=49063454) #1 39 points 14 comments -> [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)<!-- HN:49063454:end -->
+* [49063454](https://news.social-protocols.org/stats?id=49063454) #1 39 points 14 comments -> [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)<!-- HN:49063454:end --><!-- HN:49063186:start -->
+* [49063186](https://news.social-protocols.org/stats?id=49063186) #13 15 points 19 comments -> [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge)<!-- HN:49063186:end -->
