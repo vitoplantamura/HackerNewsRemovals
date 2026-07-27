@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, July 27, 2026**
 <!-- HN:49063454:start -->
 * [49063454](https://news.social-protocols.org/stats?id=49063454) #1 39 points 14 comments -> [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)<!-- HN:49063454:end --><!-- HN:49063186:start -->
-* [49063186](https://news.social-protocols.org/stats?id=49063186) #13 15 points 19 comments -> [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge)<!-- HN:49063186:end -->
+* [49063186](https://news.social-protocols.org/stats?id=49063186) #13 15 points 19 comments -> [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge)<!-- HN:49063186:end --><!-- HN:49063789:start -->
+* [49063789](https://news.social-protocols.org/stats?id=49063789) #4 30 points 41 comments -> [I Championed Prediction Markets. Look What They've Become](https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look)<!-- HN:49063789:end -->
