@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49061652](https://news.social-protocols.org/stats?id=49061652) #5 8 points 1 comments -> [Show HN: Free Bible study that explains every chapter you read](https://learnofchrist.com)<!-- HN:49061652:end --><!-- HN:49061620:start -->
 * [49061620](https://news.social-protocols.org/stats?id=49061620) #3 16 points 8 comments -> [Kimi K3 is not cheap](https://www.alexinch.com/blog/kimi-k3)<!-- HN:49061620:end --><!-- HN:49061015:start -->
 * [49061015](https://news.social-protocols.org/stats?id=49061015) #23 16 points 15 comments -> [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)<!-- HN:49061015:end -->
+#### **Monday, July 27, 2026**
+<!-- HN:49063454:start -->
+* [49063454](https://news.social-protocols.org/stats?id=49063454) #1 39 points 14 comments -> [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)<!-- HN:49063454:end -->
