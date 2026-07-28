@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, July 21, 2026**
-<!-- HN:48901918:start -->
-* [48901918](https://news.social-protocols.org/stats?id=48901918) #21 16 points 3 comments -> [Rendering Fonts Quickly on the GPU](https://www.outercloud.dev/blogs/webgpu-font-rendering/)<!-- HN:48901918:end --><!-- HN:48986912:start -->
-* [48986912](https://news.social-protocols.org/stats?id=48986912) #13 4 points 2 comments -> [Show HN: I made email signatures less boring](https://esigna.app)<!-- HN:48986912:end --><!-- HN:48987618:start -->
-* [48987618](https://news.social-protocols.org/stats?id=48987618) #7 6 points 0 comments -> [Show HN: Turn casual photos into professional headshots with AI](https://portraify.app)<!-- HN:48987618:end --><!-- HN:48987958:start -->
-* [48987958](https://news.social-protocols.org/stats?id=48987958) #19 3 points 0 comments -> [Bash for Browser Front End](https://alganet.github.io/terminal/?p=post:2026-07-21-00-Bash-for-Browser-Frontend&lang=en)<!-- HN:48987958:end --><!-- HN:48988265:start -->
-* [48988265](https://news.social-protocols.org/stats?id=48988265) #20 25 points 18 comments -> [Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/)<!-- HN:48988265:end --><!-- HN:48988189:start -->
-* [48988189](https://news.social-protocols.org/stats?id=48988189) #15 12 points 9 comments -> [Zoom is now Chrome only](https://zoom.us/test)<!-- HN:48988189:end --><!-- HN:48937703:start -->
-* [48937703](https://news.social-protocols.org/stats?id=48937703) #23 11 points 4 comments -> [Flight Planning with Little Navmap](https://tech.marksblogg.com/little-navmap-flight-planning.html)<!-- HN:48937703:end --><!-- HN:48968474:start -->
-* [48968474](https://news.social-protocols.org/stats?id=48968474) #12 17 points 40 comments -> [Postmortem of a British Startup: Tract](https://buildwithtract.com/)<!-- HN:48968474:end --><!-- HN:48992028:start -->
-* [48992028](https://news.social-protocols.org/stats?id=48992028) #6 4 points 1 comments -> [Garzed – my garden waters itself off soil-moisture sensors](https://garzed.com)<!-- HN:48992028:end --><!-- HN:48992039:start -->
-* [48992039](https://news.social-protocols.org/stats?id=48992039) #27 19 points 3 comments -> [Mullvad and Daniel Berntsson's Failed Cleanup](https://markwrites.io/mullvad-and-daniel-berntssons-failed-cleanup/)<!-- HN:48992039:end --><!-- HN:48992960:start -->
-* [48992960](https://news.social-protocols.org/stats?id=48992960) #12 20 points 11 comments -> [Sarah's Wager](https://colossus.com/article/sarah-guo-conviction/)<!-- HN:48992960:end --><!-- HN:48993448:start -->
-* [48993448](https://news.social-protocols.org/stats?id=48993448) #9 174 points 86 comments -> [ICE to Pay Thomson Reuters $125M to Find Voter Fraud](https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/)<!-- HN:48993448:end --><!-- HN:48994103:start -->
-* [48994103](https://news.social-protocols.org/stats?id=48994103) #20 29 points 41 comments -> [Amid nurse shortage, a university rolls out the welcome mat for men](https://text.npr.org/nx-s1-5869813)<!-- HN:48994103:end --><!-- HN:48995333:start -->
-* [48995333](https://news.social-protocols.org/stats?id=48995333) #25 11 points 3 comments -> [Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf](https://github.com/matheuzgomes/decoreba)<!-- HN:48995333:end --><!-- HN:48995946:start -->
-* [48995946](https://news.social-protocols.org/stats?id=48995946) #30 24 points 10 comments -> [How did the H1B visa become the 'Indian' visa](https://numberstation.fm/the-body-shop/)<!-- HN:48995946:end -->
 #### **Wednesday, July 22, 2026**
 <!-- HN:48999376:start -->
 * [48999376](https://news.social-protocols.org/stats?id=48999376) #9 27 points 4 comments -> [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)<!-- HN:48999376:end --><!-- HN:49002010:start -->
