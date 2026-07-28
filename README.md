@@ -123,3 +123,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49007852](https://news.social-protocols.org/stats?id=49007852) #15 79 points 34 comments -> [Building a Fast Lock-Free Queue in Modern C++ from Scratch](https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/)<!-- HN:49007852:end --><!-- HN:49075608:start -->
 * [49075608](https://news.social-protocols.org/stats?id=49075608) #19 -> [Israel's $45M experiment with AI text messages to shape the US public opinion](https://www.ynetnews.com/article/rjczjxqvfx)<!-- HN:49075608:end --><!-- HN:49074974:start -->
 * [49074974](https://news.social-protocols.org/stats?id=49074974) #17 4 points 1 comments -> [Platform engineering 2.0 mitigates AI security and compliance risks](https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks)<!-- HN:49074974:end -->
+#### **Tuesday, July 28, 2026**
+<!-- HN:49076712:start -->
+* [49076712](https://news.social-protocols.org/stats?id=49076712) #11 33 points 40 comments -> [America has become an entrepreneur's paradise](https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise)<!-- HN:49076712:end -->
