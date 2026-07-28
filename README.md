@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49074974](https://news.social-protocols.org/stats?id=49074974) #17 4 points 1 comments -> [Platform engineering 2.0 mitigates AI security and compliance risks](https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks)<!-- HN:49074974:end -->
 #### **Tuesday, July 28, 2026**
 <!-- HN:49076712:start -->
-* [49076712](https://news.social-protocols.org/stats?id=49076712) #11 33 points 40 comments -> [America has become an entrepreneur's paradise](https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise)<!-- HN:49076712:end -->
+* [49076712](https://news.social-protocols.org/stats?id=49076712) #11 33 points 40 comments -> [America has become an entrepreneur's paradise](https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise)<!-- HN:49076712:end --><!-- HN:49077362:start -->
+* [49077362](https://news.social-protocols.org/stats?id=49077362) #5 10 points 0 comments -> [The CEO of Shopify is contemptuous of democracy](https://www.jakelandau.ca/p/the-ceo-of-shopify-is-contemptuous)<!-- HN:49077362:end -->
