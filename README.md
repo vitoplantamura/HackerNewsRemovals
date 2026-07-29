@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, July 22, 2026**
-<!-- HN:48999376:start -->
-* [48999376](https://news.social-protocols.org/stats?id=48999376) #9 27 points 4 comments -> [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)<!-- HN:48999376:end --><!-- HN:49002010:start -->
-* [49002010](https://news.social-protocols.org/stats?id=49002010) #19 6 points 2 comments -> [Airglow browser lets users modify YouTube, Gmail and Spotify in real time](https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time)<!-- HN:49002010:end --><!-- HN:49001775:start -->
-* [49001775](https://news.social-protocols.org/stats?id=49001775) #19 17 points 3 comments -> [Ten ways a check passes while the thing it checks is broken](https://phronesis.world/papers/ways-of-checking/)<!-- HN:49001775:end --><!-- HN:49001930:start -->
-* [49001930](https://news.social-protocols.org/stats?id=49001930) #3 61 points 6 comments -> [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)<!-- HN:49001930:end --><!-- HN:49001708:start -->
-* [49001708](https://news.social-protocols.org/stats?id=49001708) #29 18 points 40 comments -> [Tesla Balance Bike](https://shop.tesla.com/product/balance-bike-for-kids)<!-- HN:49001708:end --><!-- HN:49003465:start -->
-* [49003465](https://news.social-protocols.org/stats?id=49003465) #13 38 points 40 comments -> [Codeberg: ToU extension to prohibit LLM-extrusions](https://codeberg.org/Codeberg/org/pulls/1253)<!-- HN:49003465:end --><!-- HN:49004914:start -->
-* [49004914](https://news.social-protocols.org/stats?id=49004914) #13 5 points 0 comments -> [OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips](https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/)<!-- HN:49004914:end --><!-- HN:49005398:start -->
-* [49005398](https://news.social-protocols.org/stats?id=49005398) #30 69 points 80 comments -> [OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)<!-- HN:49005398:end --><!-- HN:49008217:start -->
-* [49008217](https://news.social-protocols.org/stats?id=49008217) #10 10 points 2 comments -> [I Am Buiding BorgIOS to de-shitify the Internet](https://github.com/bitmonky/BorgIOS)<!-- HN:49008217:end --><!-- HN:49007487:start -->
-* [49007487](https://news.social-protocols.org/stats?id=49007487) #28 44 points 26 comments -> [How to Read a Painting](https://sheets.works/data-viz/how-to-read-a-painting/)<!-- HN:49007487:end --><!-- HN:48933232:start -->
-* [48933232](https://news.social-protocols.org/stats?id=48933232) #11 36 points 7 comments -> [Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog](https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/)<!-- HN:48933232:end -->
 #### **Thursday, July 23, 2026**
 <!-- HN:49015999:start -->
 * [49015999](https://news.social-protocols.org/stats?id=49015999) #13 3 points 4 comments -> [Google illegally retains customer data](https://discuss.ai.google.dev/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/175294)<!-- HN:49015999:end --><!-- HN:49017170:start -->
