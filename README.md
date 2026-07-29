@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49091048](https://news.social-protocols.org/stats?id=49091048) #18 4 points 0 comments -> [Leeaky Catches hidden fees draining your travel budget](https://leeaky.vercel.app/)<!-- HN:49091048:end -->
 #### **Wednesday, July 29, 2026**
 <!-- HN:49090083:start -->
-* [49090083](https://news.social-protocols.org/stats?id=49090083) #5 55 points 2 comments -> [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo)<!-- HN:49090083:end -->
+* [49090083](https://news.social-protocols.org/stats?id=49090083) #5 55 points 2 comments -> [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo)<!-- HN:49090083:end --><!-- HN:49091153:start -->
+* [49091153](https://news.social-protocols.org/stats?id=49091153) #9 19 points 42 comments -> [Schools are adding pepper-spraying drones to help combat active shooters](https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/)<!-- HN:49091153:end -->
