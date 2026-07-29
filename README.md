@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49095620](https://news.social-protocols.org/stats?id=49095620) #6 6 points 0 comments -> [Who's a Rat](https://whosarat.com/)<!-- HN:49095620:end --><!-- HN:49058673:start -->
 * [49058673](https://news.social-protocols.org/stats?id=49058673) #19 14 points 8 comments -> [CSV Is Never Just CSV](https://immaschinenraum.blog/en/funpark/never-just-csv/)<!-- HN:49058673:end --><!-- HN:49095787:start -->
 * [49095787](https://news.social-protocols.org/stats?id=49095787) #19 8 points 1 comments -> [We Hardened an AI Security Platform Against 16 Critical Vulnerabilities](https://aegis-security.higgsfield.app)<!-- HN:49095787:end --><!-- HN:49095823:start -->
-* [49095823](https://news.social-protocols.org/stats?id=49095823) #17 13 points 3 comments -> [Starling: The first real desktop written by AI](https://starling.build/)<!-- HN:49095823:end -->
+* [49095823](https://news.social-protocols.org/stats?id=49095823) #17 13 points 3 comments -> [Starling: The first real desktop written by AI](https://starling.build/)<!-- HN:49095823:end --><!-- HN:49078196:start -->
+* [49078196](https://news.social-protocols.org/stats?id=49078196) #15 -> [PostgreSQL's MVCC is bad. So is everyone else's](https://boringsql.com/posts/mvcc-bad-bad/)<!-- HN:49078196:end -->
