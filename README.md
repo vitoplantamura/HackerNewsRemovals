@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49036404](https://news.social-protocols.org/stats?id=49036404) #28 34 points 17 comments -> [Learning Musical Multitasking](https://www.jefftk.com/p/learning-musical-multitasking)<!-- HN:49036404:end -->
 #### **Thursday, July 30, 2026**
 <!-- HN:49104611:start -->
-* [49104611](https://news.social-protocols.org/stats?id=49104611) #7 8 points 2 comments -> [Sell Your AI Skills?](https://capabase.ai/learn/sell-your-ai-skills)<!-- HN:49104611:end -->
+* [49104611](https://news.social-protocols.org/stats?id=49104611) #7 8 points 2 comments -> [Sell Your AI Skills?](https://capabase.ai/learn/sell-your-ai-skills)<!-- HN:49104611:end --><!-- HN:49104996:start -->
+* [49104996](https://news.social-protocols.org/stats?id=49104996) #12 16 points 6 comments -> [Starter Homes Are Piling Up While Luxury Homes Fly Off the Market](https://www.zillow.com/research/starter-homes-price-tiers-36571/)<!-- HN:49104996:end -->
