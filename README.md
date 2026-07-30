@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49098466](https://news.social-protocols.org/stats?id=49098466) #6 132 points 52 comments -> [Hugging Face: Anatomy of a frontier-lab agent intrusion](https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html)<!-- HN:49098466:end --><!-- HN:49040469:start -->
 * [49040469](https://news.social-protocols.org/stats?id=49040469) #16 14 points 1 comments -> [Aurora DSQL: Scalable, Multi-Region OLTP](http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html)<!-- HN:49040469:end --><!-- HN:49036404:start -->
 * [49036404](https://news.social-protocols.org/stats?id=49036404) #28 34 points 17 comments -> [Learning Musical Multitasking](https://www.jefftk.com/p/learning-musical-multitasking)<!-- HN:49036404:end -->
+#### **Thursday, July 30, 2026**
+<!-- HN:49104611:start -->
+* [49104611](https://news.social-protocols.org/stats?id=49104611) #7 8 points 2 comments -> [Sell Your AI Skills?](https://capabase.ai/learn/sell-your-ai-skills)<!-- HN:49104611:end -->
