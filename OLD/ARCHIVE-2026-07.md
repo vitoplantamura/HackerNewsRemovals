@@ -333,3 +333,12 @@
 * [49008217](https://news.ycombinator.com/item?id=49008217) #10 10 points 2 comments -> [I Am Buiding BorgIOS to de-shitify the Internet](https://github.com/bitmonky/BorgIOS)<!-- HN:49008217:end --><!-- HN:49007487:start -->
 * [49007487](https://news.ycombinator.com/item?id=49007487) #28 44 points 26 comments -> [How to Read a Painting](https://sheets.works/data-viz/how-to-read-a-painting/)<!-- HN:49007487:end --><!-- HN:48933232:start -->
 * [48933232](https://news.ycombinator.com/item?id=48933232) #11 36 points 7 comments -> [Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog](https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/)<!-- HN:48933232:end -->
+#### **Thursday, July 23, 2026**
+<!-- HN:49015999:start -->
+* [49015999](https://news.ycombinator.com/item?id=49015999) #13 3 points 4 comments -> [Google illegally retains customer data](https://discuss.ai.google.dev/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/175294)<!-- HN:49015999:end --><!-- HN:49017170:start -->
+* [49017170](https://news.ycombinator.com/item?id=49017170) #24 4 points 1 comments -> [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)<!-- HN:49017170:end --><!-- HN:48977463:start -->
+* [48977463](https://news.ycombinator.com/item?id=48977463) #26 45 points 40 comments -> [Why malloc always does more than I asked for?](https://ssenthilnathan3.github.io/blog/malloc/)<!-- HN:48977463:end --><!-- HN:49022644:start -->
+* [49022644](https://news.ycombinator.com/item?id=49022644) #20 16 points 1 comments -> [Vulkan Tutorial](https://vulkan-tutorial.com/)<!-- HN:49022644:end --><!-- HN:49022838:start -->
+* [49022838](https://news.ycombinator.com/item?id=49022838) #9 29 points 40 comments -> [Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude](https://typebulb.com/u/lab/you-re-relatively-right/full)<!-- HN:49022838:end --><!-- HN:49024993:start -->
+* [49024993](https://news.ycombinator.com/item?id=49024993) #21 4 points 4 comments -> [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt/)<!-- HN:49024993:end --><!-- HN:49027426:start -->
+* [49027426](https://news.ycombinator.com/item?id=49027426) #21 18 points 7 comments -> [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)<!-- HN:49027426:end -->

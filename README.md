@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, July 23, 2026**
-<!-- HN:49015999:start -->
-* [49015999](https://news.social-protocols.org/stats?id=49015999) #13 3 points 4 comments -> [Google illegally retains customer data](https://discuss.ai.google.dev/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/175294)<!-- HN:49015999:end --><!-- HN:49017170:start -->
-* [49017170](https://news.social-protocols.org/stats?id=49017170) #24 4 points 1 comments -> [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)<!-- HN:49017170:end --><!-- HN:48977463:start -->
-* [48977463](https://news.social-protocols.org/stats?id=48977463) #26 45 points 40 comments -> [Why malloc always does more than I asked for?](https://ssenthilnathan3.github.io/blog/malloc/)<!-- HN:48977463:end --><!-- HN:49022644:start -->
-* [49022644](https://news.social-protocols.org/stats?id=49022644) #20 16 points 1 comments -> [Vulkan Tutorial](https://vulkan-tutorial.com/)<!-- HN:49022644:end --><!-- HN:49022838:start -->
-* [49022838](https://news.social-protocols.org/stats?id=49022838) #9 29 points 40 comments -> [Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude](https://typebulb.com/u/lab/you-re-relatively-right/full)<!-- HN:49022838:end --><!-- HN:49024993:start -->
-* [49024993](https://news.social-protocols.org/stats?id=49024993) #21 4 points 4 comments -> [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt/)<!-- HN:49024993:end --><!-- HN:49027426:start -->
-* [49027426](https://news.social-protocols.org/stats?id=49027426) #21 18 points 7 comments -> [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)<!-- HN:49027426:end -->
 #### **Friday, July 24, 2026**
 <!-- HN:48951500:start -->
 * [48951500](https://news.social-protocols.org/stats?id=48951500) #10 99 points 32 comments -> [A24 Is Copyright Striking Backrooms Artwork Older Than the Movie](https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/)<!-- HN:48951500:end --><!-- HN:48952392:start -->
