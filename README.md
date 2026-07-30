@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49104611:start -->
 * [49104611](https://news.social-protocols.org/stats?id=49104611) #7 8 points 2 comments -> [Sell Your AI Skills?](https://capabase.ai/learn/sell-your-ai-skills)<!-- HN:49104611:end --><!-- HN:49104996:start -->
 * [49104996](https://news.social-protocols.org/stats?id=49104996) #12 16 points 6 comments -> [Starter Homes Are Piling Up While Luxury Homes Fly Off the Market](https://www.zillow.com/research/starter-homes-price-tiers-36571/)<!-- HN:49104996:end --><!-- HN:49106643:start -->
-* [49106643](https://news.social-protocols.org/stats?id=49106643) #1 42 points 20 comments -> [EU now fears US interference in European elections](https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/)<!-- HN:49106643:end -->
+* [49106643](https://news.social-protocols.org/stats?id=49106643) #1 42 points 20 comments -> [EU now fears US interference in European elections](https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/)<!-- HN:49106643:end --><!-- HN:49106568:start -->
+* [49106568](https://news.social-protocols.org/stats?id=49106568) #30 12 points 1 comments -> [Claude is down for 2nd consecutive day](https://status.claude.com/incidents/fsh2zzzl2c4l)<!-- HN:49106568:end -->
