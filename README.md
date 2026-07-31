@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49115620](https://news.social-protocols.org/stats?id=49115620) #12 18 points 17 comments -> [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)<!-- HN:49115620:end -->
 #### **Friday, July 31, 2026**
 <!-- HN:49119322:start -->
-* [49119322](https://news.social-protocols.org/stats?id=49119322) #8 10 points 1 comments -> [Human Honeypot](https://human2llm.pages.dev/)<!-- HN:49119322:end -->
+* [49119322](https://news.social-protocols.org/stats?id=49119322) #8 10 points 1 comments -> [Human Honeypot](https://human2llm.pages.dev/)<!-- HN:49119322:end --><!-- HN:49122462:start -->
+* [49122462](https://news.social-protocols.org/stats?id=49122462) #4 6 points 0 comments -> [About 60k migrants arrive in Ceuta in 24 hours, Spanish territory's leader says](https://www.bbc.com/news/articles/cx2kp639yx4o)<!-- HN:49122462:end -->
