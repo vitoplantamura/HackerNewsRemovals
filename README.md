@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49111925](https://news.social-protocols.org/stats?id=49111925) #10 4 points 0 comments -> [Postgres rewritten in Rust v0.2, now faster than Postgres and ClickHouse](https://github.com/malisper/pgrust/releases/tag/v0.2-release)<!-- HN:49111925:end --><!-- HN:49111312:start -->
 * [49111312](https://news.social-protocols.org/stats?id=49111312) #17 7 points 3 comments -> [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)<!-- HN:49111312:end --><!-- HN:49115620:start -->
 * [49115620](https://news.social-protocols.org/stats?id=49115620) #12 18 points 17 comments -> [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)<!-- HN:49115620:end -->
+#### **Friday, July 31, 2026**
+<!-- HN:49119322:start -->
+* [49119322](https://news.social-protocols.org/stats?id=49119322) #8 10 points 1 comments -> [Human Honeypot](https://human2llm.pages.dev/)<!-- HN:49119322:end -->
