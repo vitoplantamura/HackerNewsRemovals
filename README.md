@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, July 31, 2026**
 <!-- HN:49119322:start -->
 * [49119322](https://news.social-protocols.org/stats?id=49119322) #8 10 points 1 comments -> [Human Honeypot](https://human2llm.pages.dev/)<!-- HN:49119322:end --><!-- HN:49122462:start -->
-* [49122462](https://news.social-protocols.org/stats?id=49122462) #4 6 points 0 comments -> [About 60k migrants arrive in Ceuta in 24 hours, Spanish territory's leader says](https://www.bbc.com/news/articles/cx2kp639yx4o)<!-- HN:49122462:end -->
+* [49122462](https://news.social-protocols.org/stats?id=49122462) #4 6 points 0 comments -> [About 60k migrants arrive in Ceuta in 24 hours, Spanish territory's leader says](https://www.bbc.com/news/articles/cx2kp639yx4o)<!-- HN:49122462:end --><!-- HN:49122785:start -->
+* [49122785](https://news.social-protocols.org/stats?id=49122785) #17 7 points 0 comments -> [Another Reason Not to Use "AI" for Your Writing](https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/)<!-- HN:49122785:end -->
