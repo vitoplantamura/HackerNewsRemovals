@@ -161,4 +161,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49136065](https://news.social-protocols.org/stats?id=49136065) #10 3 points 3 comments -> [DNS propagation checker that shows the results as a box of 24 donuts](https://donutdns.com)<!-- HN:49136065:end --><!-- HN:49135914:start -->
 * [49135914](https://news.social-protocols.org/stats?id=49135914) #14 19 points 32 comments -> [I Fired My AI Assitant](https://chreke.com/posts/i-fired-my-ai-assistant)<!-- HN:49135914:end --><!-- HN:49136061:start -->
 * [49136061](https://news.social-protocols.org/stats?id=49136061) #11 7 points 2 comments -> [Twelve Years Without a VPN](https://khessin.de/twelve-years-without-a-vpn/)<!-- HN:49136061:end --><!-- HN:49136134:start -->
-* [49136134](https://news.social-protocols.org/stats?id=49136134) #16 16 points 1 comments -> [Tesla Spyware](https://ma.tt/2026/07/tesla-spyware/)<!-- HN:49136134:end -->
+* [49136134](https://news.social-protocols.org/stats?id=49136134) #16 16 points 1 comments -> [Tesla Spyware](https://ma.tt/2026/07/tesla-spyware/)<!-- HN:49136134:end --><!-- HN:49135184:start -->
+* [49135184](https://news.social-protocols.org/stats?id=49135184) #24 8 points 6 comments -> [Toast IDE Gets Markdown Spell Checking](https://github.com/paradise-runner/toast)<!-- HN:49135184:end -->
