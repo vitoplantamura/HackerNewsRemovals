@@ -147,4 +147,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, August 1, 2026**
 <!-- HN:49070810:start -->
 * [49070810](https://news.social-protocols.org/stats?id=49070810) #18 122 points 13 comments -> [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)<!-- HN:49070810:end --><!-- HN:49130723:start -->
-* [49130723](https://news.social-protocols.org/stats?id=49130723) #11 3 points 0 comments -> [What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model](https://minimaxh3.art/blog/what-is-minimax-h3)<!-- HN:49130723:end -->
+* [49130723](https://news.social-protocols.org/stats?id=49130723) #11 3 points 0 comments -> [What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model](https://minimaxh3.art/blog/what-is-minimax-h3)<!-- HN:49130723:end --><!-- HN:49095744:start -->
+* [49095744](https://news.social-protocols.org/stats?id=49095744) #7 7 points 0 comments -> [History remembers two Robert McNamaras](https://indevelopmentmag.com/numbers-man/)<!-- HN:49095744:end -->
