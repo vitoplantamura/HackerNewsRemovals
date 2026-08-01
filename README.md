@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49126201](https://news.social-protocols.org/stats?id=49126201) #6 45 points 6 comments -> [AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup](https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup)<!-- HN:49126201:end --><!-- HN:49128751:start -->
 * [49128751](https://news.social-protocols.org/stats?id=49128751) #29 9 points 1 comments -> [Thomson Reuters built its own AI model that now ranks among the best](https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/)<!-- HN:49128751:end --><!-- HN:49129699:start -->
 * [49129699](https://news.social-protocols.org/stats?id=49129699) #6 10 points 2 comments -> [That Viral Photo of San Francisco NIMBYs Shows Why Housing Is Winning](https://inpractice.yimbyaction.org/p/that-viral-photo-of-san-francisco)<!-- HN:49129699:end -->
+#### **Saturday, August 1, 2026**
+<!-- HN:49070810:start -->
+* [49070810](https://news.social-protocols.org/stats?id=49070810) #18 122 points 13 comments -> [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)<!-- HN:49070810:end -->
