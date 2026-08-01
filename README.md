@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, July 25, 2026**<!-- HN:49008624:start -->
-* [49008624](https://news.social-protocols.org/stats?id=49008624) #15 -> [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)<!-- HN:49008624:end --><!-- HN:49047198:start -->
-* [49047198](https://news.social-protocols.org/stats?id=49047198) #13 43 points 28 comments -> [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)<!-- HN:49047198:end --><!-- HN:49049241:start -->
-* [49049241](https://news.social-protocols.org/stats?id=49049241) #29 16 points 14 comments -> [Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)<!-- HN:49049241:end --><!-- HN:48984984:start -->
-* [48984984](https://news.social-protocols.org/stats?id=48984984) #26 4 points 1 comments -> [D-FINE-seg – detection, instance and semantic segmentation in one model](https://github.com/ArgoHA/D-FINE-seg)<!-- HN:48984984:end --><!-- HN:49050412:start -->
-* [49050412](https://news.social-protocols.org/stats?id=49050412) #11 7 points 7 comments -> [The Hitler Salute Was Never German](https://warcommons.com/2026/07/25/hitler-salute-origin-history-roman-salute-mussolini/)<!-- HN:49050412:end --><!-- HN:49005722:start -->
-* [49005722](https://news.social-protocols.org/stats?id=49005722) #25 6 points 0 comments -> [Pkgxray – inspect what gets installed, not what executes](https://github.com/adamsjack711-ux/pkgxray)<!-- HN:49005722:end --><!-- HN:49052406:start -->
-* [49052406](https://news.social-protocols.org/stats?id=49052406) #9 11 points 1 comments -> [We Need a National Ballroom](https://weneedaballroom.com/)<!-- HN:49052406:end --><!-- HN:49052625:start -->
-* [49052625](https://news.social-protocols.org/stats?id=49052625) #14 11 points 0 comments -> [As Supreme Court decisions grow sharper, study examines justices’ concessions](https://www.umass.edu/news/article/supreme-court-decisions-grow-sharper-study-examines-justices-calculated-concessions)<!-- HN:49052625:end -->
 #### **Sunday, July 26, 2026**<!-- HN:49054108:start -->
 * [49054108](https://news.social-protocols.org/stats?id=49054108) #30 5 points 0 comments -> [Google ignored my site for 13 weeks, so I audited everyone who outranks me](https://getqrcodepro.com/blog/google-ranking-evidence)<!-- HN:49054108:end --><!-- HN:48976262:start -->
 * [48976262](https://news.social-protocols.org/stats?id=48976262) #5 648 points 158 comments -> [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)<!-- HN:48976262:end --><!-- HN:48989304:start -->
