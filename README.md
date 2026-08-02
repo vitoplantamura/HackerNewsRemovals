@@ -169,3 +169,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49137413](https://news.social-protocols.org/stats?id=49137413) #24 3 points 0 comments -> [I made Squirrel game with Flutter and Flame](https://danvilela.com/squirrel-up)<!-- HN:49137413:end --><!-- HN:49137410:start -->
 * [49137410](https://news.social-protocols.org/stats?id=49137410) #29 8 points 1 comments -> [Show HN: Cockpit for you Claude Code agents in Rust](https://episko.dev/)<!-- HN:49137410:end --><!-- HN:49138731:start -->
 * [49138731](https://news.social-protocols.org/stats?id=49138731) #5 11 points 4 comments -> [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)<!-- HN:49138731:end -->
+#### **Sunday, August 2, 2026**
+<!-- HN:49120000:start -->
+* [49120000](https://news.social-protocols.org/stats?id=49120000) #18 9 points 3 comments -> [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)<!-- HN:49120000:end -->
