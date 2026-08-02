@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, July 26, 2026**<!-- HN:49054108:start -->
-* [49054108](https://news.social-protocols.org/stats?id=49054108) #30 5 points 0 comments -> [Google ignored my site for 13 weeks, so I audited everyone who outranks me](https://getqrcodepro.com/blog/google-ranking-evidence)<!-- HN:49054108:end --><!-- HN:48976262:start -->
-* [48976262](https://news.social-protocols.org/stats?id=48976262) #5 648 points 158 comments -> [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)<!-- HN:48976262:end --><!-- HN:48989304:start -->
-* [48989304](https://news.social-protocols.org/stats?id=48989304) #15 15 points 3 comments -> [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)<!-- HN:48989304:end --><!-- HN:48991984:start -->
-* [48991984](https://news.social-protocols.org/stats?id=48991984) #22 125 points 88 comments -> [GDID Windows – Cut the tracker that follows you even under VPN](https://korben.info/en/gdid-windows-cut-tracker-vpn.html)<!-- HN:48991984:end --><!-- HN:49055339:start -->
-* [49055339](https://news.social-protocols.org/stats?id=49055339) #5 7 points 4 comments -> [Vision 50 Years Phone – Keeping old Android phones fast without root](https://github.com/50YearsPhone/vision-50-years-phone)<!-- HN:49055339:end --><!-- HN:49056689:start -->
-* [49056689](https://news.social-protocols.org/stats?id=49056689) #10 9 points 0 comments -> [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)<!-- HN:49056689:end --><!-- HN:49059587:start -->
-* [49059587](https://news.social-protocols.org/stats?id=49059587) #16 34 points 7 comments -> [This July I Was Fired from Simple AI (A Deeply YC Company)](https://andys.blog/this-july-i-was-fired-from-simple-ai/)<!-- HN:49059587:end --><!-- HN:49060205:start -->
-* [49060205](https://news.social-protocols.org/stats?id=49060205) #3 42 points 8 comments -> [Lidl Introduces the European Payment Method Wero in Germany](https://unternehmen.lidl.de/pressreleases/260724_lidl_pi_einfuehrung_wero)<!-- HN:49060205:end --><!-- HN:49060279:start -->
-* [49060279](https://news.social-protocols.org/stats?id=49060279) #24 15 points 3 comments -> [Show HN: Boffin – Staff-engineer layer for AI coding agents](https://github.com/MicSm/boffin)<!-- HN:49060279:end --><!-- HN:49060802:start -->
-* [49060802](https://news.social-protocols.org/stats?id=49060802) #11 10 points 3 comments -> [Google Cache used to have a copy of this page at](https://www.hornet.org/wikipedia-notes.txt)<!-- HN:49060802:end --><!-- HN:49060998:start -->
-* [49060998](https://news.social-protocols.org/stats?id=49060998) #20 15 points 3 comments -> [Show HN: The Occult Gatsby](https://occultgatsby.work)<!-- HN:49060998:end --><!-- HN:49061652:start -->
-* [49061652](https://news.social-protocols.org/stats?id=49061652) #5 8 points 1 comments -> [Show HN: Free Bible study that explains every chapter you read](https://learnofchrist.com)<!-- HN:49061652:end --><!-- HN:49061620:start -->
-* [49061620](https://news.social-protocols.org/stats?id=49061620) #3 16 points 8 comments -> [Kimi K3 is not cheap](https://www.alexinch.com/blog/kimi-k3)<!-- HN:49061620:end --><!-- HN:49061015:start -->
-* [49061015](https://news.social-protocols.org/stats?id=49061015) #23 16 points 15 comments -> [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)<!-- HN:49061015:end -->
 #### **Monday, July 27, 2026**
 <!-- HN:49063186:start -->
 * [49063186](https://news.social-protocols.org/stats?id=49063186) #13 15 points 19 comments -> [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge)<!-- HN:49063186:end --><!-- HN:49063789:start -->
