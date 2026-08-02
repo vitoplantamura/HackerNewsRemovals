@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49120000:start -->
 * [49120000](https://news.social-protocols.org/stats?id=49120000) #18 9 points 3 comments -> [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)<!-- HN:49120000:end --><!-- HN:49139562:start -->
 * [49139562](https://news.social-protocols.org/stats?id=49139562) #23 31 points 23 comments -> [Stop fucking around with database commits and transactions](https://www.droppedasbaby.com/posts/db-commits/)<!-- HN:49139562:end --><!-- HN:49139865:start -->
-* [49139865](https://news.social-protocols.org/stats?id=49139865) #21 4 points 0 comments -> [Walsh: Multi-agent research pipeline with risk manager that can veto trades](https://github.com/ats4321/walsh)<!-- HN:49139865:end -->
+* [49139865](https://news.social-protocols.org/stats?id=49139865) #21 4 points 0 comments -> [Walsh: Multi-agent research pipeline with risk manager that can veto trades](https://github.com/ats4321/walsh)<!-- HN:49139865:end --><!-- HN:49140080:start -->
+* [49140080](https://news.social-protocols.org/stats?id=49140080) #11 8 points 2 comments -> [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002)<!-- HN:49140080:end -->
