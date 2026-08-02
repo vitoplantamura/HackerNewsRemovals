@@ -156,4 +156,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49138731](https://news.social-protocols.org/stats?id=49138731) #5 11 points 4 comments -> [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)<!-- HN:49138731:end -->
 #### **Sunday, August 2, 2026**
 <!-- HN:49120000:start -->
-* [49120000](https://news.social-protocols.org/stats?id=49120000) #18 9 points 3 comments -> [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)<!-- HN:49120000:end -->
+* [49120000](https://news.social-protocols.org/stats?id=49120000) #18 9 points 3 comments -> [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)<!-- HN:49120000:end --><!-- HN:49139562:start -->
+* [49139562](https://news.social-protocols.org/stats?id=49139562) #23 31 points 23 comments -> [Stop fucking around with database commits and transactions](https://www.droppedasbaby.com/posts/db-commits/)<!-- HN:49139562:end -->
