@@ -165,4 +165,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49148335](https://news.social-protocols.org/stats?id=49148335) #6 8 points 1 comments -> [WireguardTCP: WireGuard over TCP](https://wireguardtcp.net/)<!-- HN:49148335:end --><!-- HN:49148163:start -->
 * [49148163](https://news.social-protocols.org/stats?id=49148163) #11 8 points 1 comments -> [Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust](https://github.com/0xchasercat/draco/)<!-- HN:49148163:end -->
 #### **Monday, August 3, 2026**<!-- HN:49150490:start -->
-* [49150490](https://news.social-protocols.org/stats?id=49150490) #21 18 points 1 comments -> [Qwen 3.8 Max Live Now](https://www.qwencloud.com/models/qwen3.8-max)<!-- HN:49150490:end -->
+* [49150490](https://news.social-protocols.org/stats?id=49150490) #21 18 points 1 comments -> [Qwen 3.8 Max Live Now](https://www.qwencloud.com/models/qwen3.8-max)<!-- HN:49150490:end --><!-- HN:49150561:start -->
+* [49150561](https://news.social-protocols.org/stats?id=49150561) #2 161 points 64 comments -> [OpenAI's super PAC is funding AI-generated news site attacking industry critics](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)<!-- HN:49150561:end -->
