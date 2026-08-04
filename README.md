@@ -153,4 +153,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49158837](https://news.social-protocols.org/stats?id=49158837) #19 28 points 4 comments -> [Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/)<!-- HN:49158837:end -->
 #### **Tuesday, August 4, 2026**
 <!-- HN:49163158:start -->
-* [49163158](https://news.social-protocols.org/stats?id=49163158) #3 10 points 0 comments -> [Native Apps Should Be Avoided Whenever Possible](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)<!-- HN:49163158:end -->
+* [49163158](https://news.social-protocols.org/stats?id=49163158) #3 10 points 0 comments -> [Native Apps Should Be Avoided Whenever Possible](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)<!-- HN:49163158:end --><!-- HN:49097083:start -->
+* [49097083](https://news.social-protocols.org/stats?id=49097083) #13 8 points 3 comments -> [Nobody checked which state IBM's flagship quantum chemistry results compute](https://zenodo.org/records/21359923)<!-- HN:49097083:end -->
