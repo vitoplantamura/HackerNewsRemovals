@@ -151,3 +151,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49154237](https://news.social-protocols.org/stats?id=49154237) #13 191 points 76 comments -> [ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)<!-- HN:49154237:end --><!-- HN:49156559:start -->
 * [49156559](https://news.social-protocols.org/stats?id=49156559) #22 -> [TSA Privatization Returns Airport Security to a Dangerous Past](https://prospect.org/2026/08/03/tsa-privatization-airport-security-911-trump-bush/)<!-- HN:49156559:end --><!-- HN:49158837:start -->
 * [49158837](https://news.social-protocols.org/stats?id=49158837) #19 28 points 4 comments -> [Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/)<!-- HN:49158837:end -->
+#### **Tuesday, August 4, 2026**
+<!-- HN:49163158:start -->
+* [49163158](https://news.social-protocols.org/stats?id=49163158) #3 10 points 0 comments -> [Native Apps Should Be Avoided Whenever Possible](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)<!-- HN:49163158:end -->
