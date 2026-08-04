@@ -155,4 +155,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49163158:start -->
 * [49163158](https://news.social-protocols.org/stats?id=49163158) #3 10 points 0 comments -> [Native Apps Should Be Avoided Whenever Possible](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)<!-- HN:49163158:end --><!-- HN:49097083:start -->
 * [49097083](https://news.social-protocols.org/stats?id=49097083) #13 8 points 3 comments -> [Nobody checked which state IBM's flagship quantum chemistry results compute](https://zenodo.org/records/21359923)<!-- HN:49097083:end --><!-- HN:49166749:start -->
-* [49166749](https://news.social-protocols.org/stats?id=49166749) #6 23 points 40 comments -> [Mini retirements: like a sabbatical, but much smaller](https://www.ssp.sh/brain/mini-retirements/)<!-- HN:49166749:end -->
+* [49166749](https://news.social-protocols.org/stats?id=49166749) #6 23 points 40 comments -> [Mini retirements: like a sabbatical, but much smaller](https://www.ssp.sh/brain/mini-retirements/)<!-- HN:49166749:end --><!-- HN:49166230:start -->
+* [49166230](https://news.social-protocols.org/stats?id=49166230) #12 29 points 42 comments -> [An Honest Review of AI Programming](https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/)<!-- HN:49166230:end -->
