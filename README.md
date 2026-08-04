@@ -154,5 +154,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 4, 2026**
 <!-- HN:49163158:start -->
 * [49163158](https://news.social-protocols.org/stats?id=49163158) #3 10 points 0 comments -> [Native Apps Should Be Avoided Whenever Possible](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)<!-- HN:49163158:end --><!-- HN:49097083:start -->
-* [49097083](https://news.social-protocols.org/stats?id=49097083) #13 8 points 3 comments -> [Nobody checked which state IBM's flagship quantum chemistry results compute](https://zenodo.org/records/21359923)<!-- HN:49097083:end --><!-- HN:49164649:start -->
-* [49164649](https://news.social-protocols.org/stats?id=49164649) #8 58 points 41 comments -> [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/)<!-- HN:49164649:end -->
+* [49097083](https://news.social-protocols.org/stats?id=49097083) #13 8 points 3 comments -> [Nobody checked which state IBM's flagship quantum chemistry results compute](https://zenodo.org/records/21359923)<!-- HN:49097083:end -->
