@@ -155,4 +155,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, August 5, 2026**
 <!-- HN:49123372:start -->
 * [49123372](https://news.social-protocols.org/stats?id=49123372) #25 16 points 2 comments -> [The physics of Docker build caching](https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching)<!-- HN:49123372:end --><!-- HN:49166860:start -->
-* [49166860](https://news.social-protocols.org/stats?id=49166860) #14 354 points 645 comments -> [U.S. used 'virtually all' of its long-range precision missiles during Iran war](https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html)<!-- HN:49166860:end -->
+* [49166860](https://news.social-protocols.org/stats?id=49166860) #14 354 points 645 comments -> [U.S. used 'virtually all' of its long-range precision missiles during Iran war](https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html)<!-- HN:49166860:end --><!-- HN:49177301:start -->
+* [49177301](https://news.social-protocols.org/stats?id=49177301) #30 33 points 8 comments -> [Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s](https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/)<!-- HN:49177301:end -->
