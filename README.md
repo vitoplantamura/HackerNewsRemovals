@@ -172,3 +172,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49172159](https://news.social-protocols.org/stats?id=49172159) #27 25 points 40 comments -> [What's Behind the Sharp Drop in Labor Force Participation?](https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation)<!-- HN:49172159:end --><!-- HN:49166860:start -->
 * [49166860](https://news.social-protocols.org/stats?id=49166860) #4 314 points 483 comments -> [U.S. used 'virtually all' of its long-range precision missiles during Iran war](https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html)<!-- HN:49166860:end --><!-- HN:49174369:start -->
 * [49174369](https://news.social-protocols.org/stats?id=49174369) #26 25 points 40 comments -> [Waymo Waymo CEO explains why Tesla's camera-only self-driving falls short](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)<!-- HN:49174369:end -->
+#### **Wednesday, August 5, 2026**
+<!-- HN:49145037:start -->
+* [49145037](https://news.social-protocols.org/stats?id=49145037) #17 19 points 2 comments -> [Video2NAND – Abusing video codecs for great computational power](https://sharedobject.blog/posts/vp8-combinatorial-logic/)<!-- HN:49145037:end -->
