@@ -168,4 +168,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 6, 2026**
 <!-- HN:49190753:start -->
 * [49190753](https://news.social-protocols.org/stats?id=49190753) #25 -> [DHS Wants Protesters' Signal Group Chats](https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/)<!-- HN:49190753:end --><!-- HN:49161799:start -->
-* [49161799](https://news.social-protocols.org/stats?id=49161799) #20 23 points 12 comments -> [Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)](https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml)<!-- HN:49161799:end -->
+* [49161799](https://news.social-protocols.org/stats?id=49161799) #20 23 points 12 comments -> [Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)](https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml)<!-- HN:49161799:end --><!-- HN:49146051:start -->
+* [49146051](https://news.social-protocols.org/stats?id=49146051) #13 15 points 5 comments -> [GE-97 Terminal: The Old Internet](https://ge97.com/)<!-- HN:49146051:end -->
