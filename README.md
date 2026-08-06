@@ -166,3 +166,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49187792](https://news.social-protocols.org/stats?id=49187792) #16 14 points 2 comments -> [The Job Board Is Lying to You](https://nanomicon.com/blog/260730-the-job-board-is-lying-to-you)<!-- HN:49187792:end --><!-- HN:49188980:start -->
 * [49188980](https://news.social-protocols.org/stats?id=49188980) #17 43 points 21 comments -> [OpenAI says my prepaid credits were consumed, refuses to show any record](https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233)<!-- HN:49188980:end --><!-- HN:49185370:start -->
 * [49185370](https://news.social-protocols.org/stats?id=49185370) #27 109 points 177 comments -> [Why I'm leaving OpenAI to build telepathy](https://naomibashkansky.com/blog/telepathy/)<!-- HN:49185370:end -->
+#### **Thursday, August 6, 2026**
+<!-- HN:49190753:start -->
+* [49190753](https://news.social-protocols.org/stats?id=49190753) #25 -> [DHS Wants Protesters' Signal Group Chats](https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/)<!-- HN:49190753:end -->
