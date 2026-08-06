@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, July 30, 2026**
-<!-- HN:49104611:start -->
-* [49104611](https://news.social-protocols.org/stats?id=49104611) #7 8 points 2 comments -> [Sell Your AI Skills?](https://capabase.ai/learn/sell-your-ai-skills)<!-- HN:49104611:end --><!-- HN:49104996:start -->
-* [49104996](https://news.social-protocols.org/stats?id=49104996) #12 16 points 6 comments -> [Starter Homes Are Piling Up While Luxury Homes Fly Off the Market](https://www.zillow.com/research/starter-homes-price-tiers-36571/)<!-- HN:49104996:end --><!-- HN:49106643:start -->
-* [49106643](https://news.social-protocols.org/stats?id=49106643) #1 42 points 20 comments -> [EU now fears US interference in European elections](https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/)<!-- HN:49106643:end --><!-- HN:49106568:start -->
-* [49106568](https://news.social-protocols.org/stats?id=49106568) #30 12 points 1 comments -> [Claude is down for 2nd consecutive day](https://status.claude.com/incidents/fsh2zzzl2c4l)<!-- HN:49106568:end --><!-- HN:49106529:start -->
-* [49106529](https://news.social-protocols.org/stats?id=49106529) #16 4 points 2 comments -> [Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub](https://github.com/Deepender25/Edge-Drop)<!-- HN:49106529:end --><!-- HN:49105924:start -->
-* [49105924](https://news.social-protocols.org/stats?id=49105924) #30 34 points 40 comments -> [Why the future is local app](https://getapps.cafe/blog/why-the-future-is-local-app)<!-- HN:49105924:end --><!-- HN:49109634:start -->
-* [49109634](https://news.social-protocols.org/stats?id=49109634) #24 7 points 1 comments -> [UK police to arrest people for showing support for Palestine Action](https://twitter.com/metpoliceuk/status/2082527338735005811)<!-- HN:49109634:end --><!-- HN:49110215:start -->
-* [49110215](https://news.social-protocols.org/stats?id=49110215) #22 4 points 1 comments -> [Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points](https://agiranker.com/)<!-- HN:49110215:end --><!-- HN:49109440:start -->
-* [49109440](https://news.social-protocols.org/stats?id=49109440) #2 403 points 144 comments -> ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)<!-- HN:49109440:end --><!-- HN:49111925:start -->
-* [49111925](https://news.social-protocols.org/stats?id=49111925) #10 4 points 0 comments -> [Postgres rewritten in Rust v0.2, now faster than Postgres and ClickHouse](https://github.com/malisper/pgrust/releases/tag/v0.2-release)<!-- HN:49111925:end --><!-- HN:49111312:start -->
-* [49111312](https://news.social-protocols.org/stats?id=49111312) #17 7 points 3 comments -> [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)<!-- HN:49111312:end --><!-- HN:49115620:start -->
-* [49115620](https://news.social-protocols.org/stats?id=49115620) #12 18 points 17 comments -> [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)<!-- HN:49115620:end -->
 #### **Friday, July 31, 2026**
 <!-- HN:49119322:start -->
 * [49119322](https://news.social-protocols.org/stats?id=49119322) #8 10 points 1 comments -> [Human Honeypot](https://human2llm.pages.dev/)<!-- HN:49119322:end --><!-- HN:49122462:start -->
