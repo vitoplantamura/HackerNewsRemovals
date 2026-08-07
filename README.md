@@ -170,3 +170,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49201065](https://news.social-protocols.org/stats?id=49201065) #16 56 points 26 comments -> [Japanese Govt Asks US Govt to Stop Using Mario, Pokemono, Naruto Meme Postings](https://mainichi.jp/articles/20260803/k00/00m/010/133000c)<!-- HN:49201065:end --><!-- HN:49203184:start -->
 * [49203184](https://news.social-protocols.org/stats?id=49203184) #2 40 points 7 comments -> [GitHub Actions suffers second-longest major outage in its history](https://www.githubstatus.com/uptime/br0l2tvcx85d)<!-- HN:49203184:end --><!-- HN:49202814:start -->
 * [49202814](https://news.social-protocols.org/stats?id=49202814) #16 6 points 0 comments -> [A Visual Guide to Quantization – Demystifying the Compression of LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)<!-- HN:49202814:end -->
+#### **Friday, August 7, 2026**
+<!-- HN:49204388:start -->
+* [49204388](https://news.social-protocols.org/stats?id=49204388) #23 14 points 8 comments -> [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)<!-- HN:49204388:end -->
