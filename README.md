@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, July 31, 2026**
-<!-- HN:49119322:start -->
-* [49119322](https://news.social-protocols.org/stats?id=49119322) #8 10 points 1 comments -> [Human Honeypot](https://human2llm.pages.dev/)<!-- HN:49119322:end --><!-- HN:49122462:start -->
-* [49122462](https://news.social-protocols.org/stats?id=49122462) #4 6 points 0 comments -> [About 60k migrants arrive in Ceuta in 24 hours, Spanish territory's leader says](https://www.bbc.com/news/articles/cx2kp639yx4o)<!-- HN:49122462:end --><!-- HN:49122785:start -->
-* [49122785](https://news.social-protocols.org/stats?id=49122785) #17 7 points 0 comments -> [Another Reason Not to Use "AI" for Your Writing](https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/)<!-- HN:49122785:end --><!-- HN:49124690:start -->
-* [49124690](https://news.social-protocols.org/stats?id=49124690) #13 4 points 1 comments -> [Next-Level Productivity Revealed to Be Smart Sticky Notes](https://www.taskloco.com/)<!-- HN:49124690:end --><!-- HN:49124367:start -->
-* [49124367](https://news.social-protocols.org/stats?id=49124367) #8 8 points 1 comments -> [Puberty blockers trial can start recruiting children](https://www.bbc.com/news/articles/c0jl4np49w1o)<!-- HN:49124367:end --><!-- HN:49124825:start -->
-* [49124825](https://news.social-protocols.org/stats?id=49124825) #14 47 points 21 comments -> [US Government lists fictional nation Wakanda as trade partner](https://www.bbc.com/news/world-us-canada-50849559)<!-- HN:49124825:end --><!-- HN:49124733:start -->
-* [49124733](https://news.social-protocols.org/stats?id=49124733) #30 16 points 12 comments -> [Show HN: Shared memory graph for Claude and ChatGPT, over MCP](https://uml.gpmai.workers.dev)<!-- HN:49124733:end --><!-- HN:49124214:start -->
-* [49124214](https://news.social-protocols.org/stats?id=49124214) #23 23 points 13 comments -> [I built a f.lux alternative because the M5 Max firmware broke existing solutions](https://driftformac.app/)<!-- HN:49124214:end --><!-- HN:49127284:start -->
-* [49127284](https://news.social-protocols.org/stats?id=49127284) #27 37 points 35 comments -> [AI companies destroy rare and non recoverable physical books](https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/)<!-- HN:49127284:end --><!-- HN:49126201:start -->
-* [49126201](https://news.social-protocols.org/stats?id=49126201) #6 45 points 6 comments -> [AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup](https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup)<!-- HN:49126201:end --><!-- HN:49128751:start -->
-* [49128751](https://news.social-protocols.org/stats?id=49128751) #29 9 points 1 comments -> [Thomson Reuters built its own AI model that now ranks among the best](https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/)<!-- HN:49128751:end --><!-- HN:49129699:start -->
-* [49129699](https://news.social-protocols.org/stats?id=49129699) #6 10 points 2 comments -> [That Viral Photo of San Francisco NIMBYs Shows Why Housing Is Winning](https://inpractice.yimbyaction.org/p/that-viral-photo-of-san-francisco)<!-- HN:49129699:end -->
 #### **Saturday, August 1, 2026**
 <!-- HN:49070810:start -->
 * [49070810](https://news.social-protocols.org/stats?id=49070810) #18 122 points 13 comments -> [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)<!-- HN:49070810:end --><!-- HN:49130723:start -->
