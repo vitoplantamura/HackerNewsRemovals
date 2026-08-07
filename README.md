@@ -172,4 +172,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 7, 2026**
 <!-- HN:49204388:start -->
 * [49204388](https://news.social-protocols.org/stats?id=49204388) #23 14 points 8 comments -> [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)<!-- HN:49204388:end --><!-- HN:49205595:start -->
-* [49205595](https://news.social-protocols.org/stats?id=49205595) #19 6 points 10 comments -> [Lines of code. 1,596 BTC gone](https://onekey.so/anzen/coldcard-entropy-failure/)<!-- HN:49205595:end -->
+* [49205595](https://news.social-protocols.org/stats?id=49205595) #19 6 points 10 comments -> [Lines of code. 1,596 BTC gone](https://onekey.so/anzen/coldcard-entropy-failure/)<!-- HN:49205595:end --><!-- HN:49123246:start -->
+* [49123246](https://news.social-protocols.org/stats?id=49123246) #25 4 points 0 comments -> [How to Generate a TLSA Record and Fix the 3 1 1 Mismatch](https://dmarcguard.io/blog/tlsa-record-setup/)<!-- HN:49123246:end -->
