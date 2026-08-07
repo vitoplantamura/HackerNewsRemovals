@@ -171,4 +171,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49202814](https://news.social-protocols.org/stats?id=49202814) #16 6 points 0 comments -> [A Visual Guide to Quantization – Demystifying the Compression of LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)<!-- HN:49202814:end -->
 #### **Friday, August 7, 2026**
 <!-- HN:49204388:start -->
-* [49204388](https://news.social-protocols.org/stats?id=49204388) #23 14 points 8 comments -> [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)<!-- HN:49204388:end -->
+* [49204388](https://news.social-protocols.org/stats?id=49204388) #23 14 points 8 comments -> [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)<!-- HN:49204388:end --><!-- HN:49205595:start -->
+* [49205595](https://news.social-protocols.org/stats?id=49205595) #19 6 points 10 comments -> [Lines of code. 1,596 BTC gone](https://onekey.so/anzen/coldcard-entropy-failure/)<!-- HN:49205595:end -->
