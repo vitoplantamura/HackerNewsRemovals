@@ -155,4 +155,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49215762](https://news.social-protocols.org/stats?id=49215762) #10 8 points 8 comments -> [Chasa](https://chasa.io/)<!-- HN:49215762:end --><!-- HN:49216389:start -->
 * [49216389](https://news.social-protocols.org/stats?id=49216389) #20 10 points 1 comments -> [Opus5/low can do CryptoNote base58 decoding toolless, in working memory alone](https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y)<!-- HN:49216389:end --><!-- HN:49217131:start -->
 * [49217131](https://news.social-protocols.org/stats?id=49217131) #9 4 points 0 comments -> [Right to Repair–For Your Body](https://fourthievesvinegar.org/)<!-- HN:49217131:end -->
-#### **Saturday, August 8, 2026**
+#### **Saturday, August 8, 2026**<!-- HN:49219418:start -->
+* [49219418](https://news.social-protocols.org/stats?id=49219418) #3 5 points 0 comments -> [Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)](https://www.harperflow.io/dead-internet)<!-- HN:49219418:end -->
