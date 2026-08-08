@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49217131](https://news.social-protocols.org/stats?id=49217131) #9 4 points 0 comments -> [Right to Repair–For Your Body](https://fourthievesvinegar.org/)<!-- HN:49217131:end -->
 #### **Saturday, August 8, 2026**<!-- HN:49219418:start -->
 * [49219418](https://news.social-protocols.org/stats?id=49219418) #3 5 points 0 comments -> [Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)](https://www.harperflow.io/dead-internet)<!-- HN:49219418:end --><!-- HN:49169566:start -->
-* [49169566](https://news.social-protocols.org/stats?id=49169566) #15 11 points 2 comments -> [How the 'fecal revolution' changed Earth's ecosystems](https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html)<!-- HN:49169566:end -->
+* [49169566](https://news.social-protocols.org/stats?id=49169566) #15 11 points 2 comments -> [How the 'fecal revolution' changed Earth's ecosystems](https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html)<!-- HN:49169566:end --><!-- HN:49219775:start -->
+* [49219775](https://news.social-protocols.org/stats?id=49219775) #9 5 points 8 comments -> [Grindr CEO Says AI Is Doing the Work of 200 Engineers](https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/)<!-- HN:49219775:end -->
