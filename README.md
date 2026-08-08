@@ -43,31 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 1, 2026**
-<!-- HN:49070810:start -->
-* [49070810](https://news.social-protocols.org/stats?id=49070810) #18 122 points 13 comments -> [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)<!-- HN:49070810:end --><!-- HN:49130723:start -->
-* [49130723](https://news.social-protocols.org/stats?id=49130723) #11 3 points 0 comments -> [What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model](https://minimaxh3.art/blog/what-is-minimax-h3)<!-- HN:49130723:end --><!-- HN:49095744:start -->
-* [49095744](https://news.social-protocols.org/stats?id=49095744) #7 7 points 0 comments -> [History remembers two Robert McNamaras](https://indevelopmentmag.com/numbers-man/)<!-- HN:49095744:end --><!-- HN:49131860:start -->
-* [49131860](https://news.social-protocols.org/stats?id=49131860) #1 20 points 10 comments -> [A migrant surge tests Spain's open policies](https://economist.com/europe/2026/07/31/a-migrant-surge-tests-spains-open-policies)<!-- HN:49131860:end --><!-- HN:49131034:start -->
-* [49131034](https://news.social-protocols.org/stats?id=49131034) #20 40 points 40 comments -> [What Liberal Arts Education Is for (2024)](https://innig.net/teaching/liberal-arts-manifesto)<!-- HN:49131034:end --><!-- HN:49131737:start -->
-* [49131737](https://news.social-protocols.org/stats?id=49131737) #15 9 points 1 comments -> [OpenAI's work on Git for large repositories](https://openai-git-upstream.openai.chatgpt.site/)<!-- HN:49131737:end --><!-- HN:49132468:start -->
-* [49132468](https://news.social-protocols.org/stats?id=49132468) #27 11 points 4 comments -> [Simon Willison on DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/)<!-- HN:49132468:end --><!-- HN:49133672:start -->
-* [49133672](https://news.social-protocols.org/stats?id=49133672) #2 10 points 2 comments -> [Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool](https://freeaipromptgen.com/)<!-- HN:49133672:end --><!-- HN:49133617:start -->
-* [49133617](https://news.social-protocols.org/stats?id=49133617) #7 5 points 4 comments -> [$0.09 and $290.12 are both the price of 1M output tokens](https://runinfra.ai/news/inference-cost-truth)<!-- HN:49133617:end --><!-- HN:49134310:start -->
-* [49134310](https://news.social-protocols.org/stats?id=49134310) #4 23 points 41 comments -> [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)<!-- HN:49134310:end --><!-- HN:49135401:start -->
-* [49135401](https://news.social-protocols.org/stats?id=49135401) #9 4 points 1 comments -> [Crystal Wars – turn-based strategy on a fresh Voronoi map every match](https://play.crystalwars.io)<!-- HN:49135401:end --><!-- HN:49135383:start -->
-* [49135383](https://news.social-protocols.org/stats?id=49135383) #11 13 points 0 comments -> [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)<!-- HN:49135383:end --><!-- HN:49136065:start -->
-* [49136065](https://news.social-protocols.org/stats?id=49136065) #10 3 points 3 comments -> [DNS propagation checker that shows the results as a box of 24 donuts](https://donutdns.com)<!-- HN:49136065:end --><!-- HN:49135914:start -->
-* [49135914](https://news.social-protocols.org/stats?id=49135914) #14 19 points 32 comments -> [I Fired My AI Assitant](https://chreke.com/posts/i-fired-my-ai-assistant)<!-- HN:49135914:end --><!-- HN:49136061:start -->
-* [49136061](https://news.social-protocols.org/stats?id=49136061) #11 7 points 2 comments -> [Twelve Years Without a VPN](https://khessin.de/twelve-years-without-a-vpn/)<!-- HN:49136061:end --><!-- HN:49136134:start -->
-* [49136134](https://news.social-protocols.org/stats?id=49136134) #16 16 points 1 comments -> [Tesla Spyware](https://ma.tt/2026/07/tesla-spyware/)<!-- HN:49136134:end --><!-- HN:49135184:start -->
-* [49135184](https://news.social-protocols.org/stats?id=49135184) #24 8 points 6 comments -> [Toast IDE Gets Markdown Spell Checking](https://github.com/paradise-runner/toast)<!-- HN:49135184:end --><!-- HN:49137303:start -->
-* [49137303](https://news.social-protocols.org/stats?id=49137303) #16 9 points 0 comments -> [Chess Engine Dev Community Openly Hostile to AI Assisted Development](https://github.com/adamtwiss/coda/issues/15)<!-- HN:49137303:end --><!-- HN:49135975:start -->
-* [49135975](https://news.social-protocols.org/stats?id=49135975) #12 28 points 41 comments -> [Franken.domains: Stitched-Together Domains, Because Every .com Is Taken](https://franken.domains/)<!-- HN:49135975:end --><!-- HN:49137808:start -->
-* [49137808](https://news.social-protocols.org/stats?id=49137808) #28 37 points 19 comments -> [Top amputation surgeon had own legs removed due to fetish. Were patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)<!-- HN:49137808:end --><!-- HN:49137413:start -->
-* [49137413](https://news.social-protocols.org/stats?id=49137413) #24 3 points 0 comments -> [I made Squirrel game with Flutter and Flame](https://danvilela.com/squirrel-up)<!-- HN:49137413:end --><!-- HN:49137410:start -->
-* [49137410](https://news.social-protocols.org/stats?id=49137410) #29 8 points 1 comments -> [Show HN: Cockpit for you Claude Code agents in Rust](https://episko.dev/)<!-- HN:49137410:end --><!-- HN:49138731:start -->
-* [49138731](https://news.social-protocols.org/stats?id=49138731) #5 11 points 4 comments -> [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)<!-- HN:49138731:end -->
 #### **Sunday, August 2, 2026**
 <!-- HN:49120000:start -->
 * [49120000](https://news.social-protocols.org/stats?id=49120000) #18 9 points 3 comments -> [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)<!-- HN:49120000:end --><!-- HN:49139562:start -->
