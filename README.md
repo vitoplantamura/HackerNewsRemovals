@@ -156,5 +156,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49216389](https://news.social-protocols.org/stats?id=49216389) #20 10 points 1 comments -> [Opus5/low can do CryptoNote base58 decoding toolless, in working memory alone](https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y)<!-- HN:49216389:end --><!-- HN:49217131:start -->
 * [49217131](https://news.social-protocols.org/stats?id=49217131) #9 4 points 0 comments -> [Right to Repair–For Your Body](https://fourthievesvinegar.org/)<!-- HN:49217131:end -->
 #### **Saturday, August 8, 2026**
-<!-- HN:49171223:start -->
-* [49171223](https://news.social-protocols.org/stats?id=49171223) #8 18 points 8 comments -> [Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years](https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/)<!-- HN:49171223:end -->
