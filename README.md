@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 9, 2026**
 <!-- HN:49226827:start -->
 * [49226827](https://news.social-protocols.org/stats?id=49226827) #21 26 points 23 comments -> [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal)<!-- HN:49226827:end --><!-- HN:49227686:start -->
-* [49227686](https://news.social-protocols.org/stats?id=49227686) #22 42 points 20 comments -> [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)<!-- HN:49227686:end -->
+* [49227686](https://news.social-protocols.org/stats?id=49227686) #22 42 points 20 comments -> [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)<!-- HN:49227686:end --><!-- HN:49228086:start -->
+* [49228086](https://news.social-protocols.org/stats?id=49228086) #27 12 points 2 comments -> [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)<!-- HN:49228086:end -->
