@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49180302](https://news.social-protocols.org/stats?id=49180302) #22 22 points 24 comments -> [Building a Rust Inference Engine That Matches Llama.cpp](https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/)<!-- HN:49180302:end --><!-- HN:49225922:start -->
 * [49225922](https://news.social-protocols.org/stats?id=49225922) #16 3 points 0 comments -> [The Idea of an Immutable Social Media](https://citizendot.github.io/articles/the-idea-of-immutable-social-media/)<!-- HN:49225922:end --><!-- HN:49226113:start -->
 * [49226113](https://news.social-protocols.org/stats?id=49226113) #17 -> [Wikipedia's founder on his life's work: "A propaganda tool"](https://nordictimes.com/world/wikipedias-founder-on-his-lifes-work-a-propaganda-tool/)<!-- HN:49226113:end -->
+#### **Sunday, August 9, 2026**
+<!-- HN:49226827:start -->
+* [49226827](https://news.social-protocols.org/stats?id=49226827) #21 26 points 23 comments -> [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal)<!-- HN:49226827:end -->
