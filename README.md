@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 9, 2026**
 <!-- HN:49226827:start -->
 * [49226827](https://news.social-protocols.org/stats?id=49226827) #21 26 points 23 comments -> [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal)<!-- HN:49226827:end --><!-- HN:49227686:start -->
-* [49227686](https://news.social-protocols.org/stats?id=49227686) #22 42 points 20 comments -> [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)<!-- HN:49227686:end -->
+* [49227686](https://news.social-protocols.org/stats?id=49227686) #22 42 points 20 comments -> [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)<!-- HN:49227686:end --><!-- HN:49226563:start -->
+* [49226563](https://news.social-protocols.org/stats?id=49226563) #28 39 points 40 comments -> [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)<!-- HN:49226563:end -->
