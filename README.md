@@ -155,4 +155,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 10, 2026**
 <!-- HN:49239095:start -->
 * [49239095](https://news.social-protocols.org/stats?id=49239095) #10 55 points 18 comments -> [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)<!-- HN:49239095:end --><!-- HN:49241578:start -->
-* [49241578](https://news.social-protocols.org/stats?id=49241578) #23 9 points 1 comments -> [One Email, Three Identities: SPF, DKIM and DMARC Explained](https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc)<!-- HN:49241578:end -->
+* [49241578](https://news.social-protocols.org/stats?id=49241578) #23 9 points 1 comments -> [One Email, Three Identities: SPF, DKIM and DMARC Explained](https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc)<!-- HN:49241578:end --><!-- HN:49241293:start -->
+* [49241293](https://news.social-protocols.org/stats?id=49241293) #25 8 points 0 comments -> [What I did in Gaza: an Israeli soldier's reckoning](https://www.economist.com/interactive/1843/2026/05/29/what-i-did-in-gaza-an-israeli-soldiers-reckoning)<!-- HN:49241293:end -->
