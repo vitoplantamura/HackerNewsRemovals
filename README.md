@@ -154,4 +154,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49236781](https://news.social-protocols.org/stats?id=49236781) #13 6 points 1 comments -> [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)<!-- HN:49236781:end -->
 #### **Monday, August 10, 2026**
 <!-- HN:49239095:start -->
-* [49239095](https://news.social-protocols.org/stats?id=49239095) #10 55 points 18 comments -> [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)<!-- HN:49239095:end -->
+* [49239095](https://news.social-protocols.org/stats?id=49239095) #10 55 points 18 comments -> [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)<!-- HN:49239095:end --><!-- HN:49241578:start -->
+* [49241578](https://news.social-protocols.org/stats?id=49241578) #23 9 points 1 comments -> [One Email, Three Identities: SPF, DKIM and DMARC Explained](https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc)<!-- HN:49241578:end -->
