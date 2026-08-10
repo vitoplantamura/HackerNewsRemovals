@@ -152,3 +152,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49235836](https://news.social-protocols.org/stats?id=49235836) #11 41 points 10 comments -> [I've yet to see any"My AI went rogue and caused us to recognise a workers union](https://mastodon.neilzone.co.uk/@neil/117061512483182546)<!-- HN:49235836:end --><!-- HN:49234379:start -->
 * [49234379](https://news.social-protocols.org/stats?id=49234379) #12 110 points 85 comments -> [Saying No](https://rozumem.xyz/posts/19)<!-- HN:49234379:end --><!-- HN:49236781:start -->
 * [49236781](https://news.social-protocols.org/stats?id=49236781) #13 6 points 1 comments -> [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)<!-- HN:49236781:end -->
+#### **Monday, August 10, 2026**
+<!-- HN:49239095:start -->
+* [49239095](https://news.social-protocols.org/stats?id=49239095) #10 55 points 18 comments -> [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)<!-- HN:49239095:end -->
