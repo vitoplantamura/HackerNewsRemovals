@@ -153,3 +153,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49179434](https://news.social-protocols.org/stats?id=49179434) #8 30 points 40 comments -> [Why Can't You Pack a Bag?](https://www.newyorker.com/culture/open-questions/why-cant-you-pack-a-bag)<!-- HN:49179434:end --><!-- HN:49249835:start -->
 * [49249835](https://news.social-protocols.org/stats?id=49249835) #27 9 points 2 comments -> [In Japan, 'calf hair harassment' exposes gender-based appearance conflicts](https://www.lemonde.fr/en/international/article/2026/08/10/in-japan-calf-hair-harassment-exposes-gender-based-appearance-conflicts-between-women-and-men_6756332_4.html)<!-- HN:49249835:end --><!-- HN:49249986:start -->
 * [49249986](https://news.social-protocols.org/stats?id=49249986) #14 7 points 3 comments -> [We cut a 40-day financial integration down to 5 days using Google Anti](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)<!-- HN:49249986:end -->
+#### **Tuesday, August 11, 2026**
+<!-- HN:49251826:start -->
+* [49251826](https://news.social-protocols.org/stats?id=49251826) #6 6 points 1 comments -> [Harry Potter fans force diverting UK-Ireland power link to avoid Dobby's grave](https://www.bbc.com/news/articles/cy8mgpl27dpo)<!-- HN:49251826:end -->
