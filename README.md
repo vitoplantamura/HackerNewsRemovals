@@ -43,26 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 4, 2026**
-<!-- HN:49163158:start -->
-* [49163158](https://news.social-protocols.org/stats?id=49163158) #3 10 points 0 comments -> [Native Apps Should Be Avoided Whenever Possible](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)<!-- HN:49163158:end --><!-- HN:49097083:start -->
-* [49097083](https://news.social-protocols.org/stats?id=49097083) #13 8 points 3 comments -> [Nobody checked which state IBM's flagship quantum chemistry results compute](https://zenodo.org/records/21359923)<!-- HN:49097083:end --><!-- HN:49166749:start -->
-* [49166749](https://news.social-protocols.org/stats?id=49166749) #6 23 points 40 comments -> [Mini retirements: like a sabbatical, but much smaller](https://www.ssp.sh/brain/mini-retirements/)<!-- HN:49166749:end --><!-- HN:49166230:start -->
-* [49166230](https://news.social-protocols.org/stats?id=49166230) #12 29 points 42 comments -> [An Honest Review of AI Programming](https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/)<!-- HN:49166230:end --><!-- HN:49169112:start -->
-* [49169112](https://news.social-protocols.org/stats?id=49169112) #5 7 points 1 comments -> [FFmpeg 9.0 Released](https://git.ffmpeg.org/gitweb/ffmpeg.git/blob/refs/heads/release/9.0:/Changelog)<!-- HN:49169112:end --><!-- HN:49169783:start -->
-* [49169783](https://news.social-protocols.org/stats?id=49169783) #3 45 points 9 comments -> [FFmpeg 9.0](https://jbkempf.com/blog/2026/ffmpeg-9.0/)<!-- HN:49169783:end --><!-- HN:49171140:start -->
-* [49171140](https://news.social-protocols.org/stats?id=49171140) #11 24 points 3 comments -> [Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)<!-- HN:49171140:end --><!-- HN:49169640:start -->
-* [49169640](https://news.social-protocols.org/stats?id=49169640) #17 71 points 35 comments -> [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)<!-- HN:49169640:end --><!-- HN:49171748:start -->
-* [49171748](https://news.social-protocols.org/stats?id=49171748) #25 17 points 2 comments -> [First Came the DOGE Cuts, Then Came the Wildfires](https://www.outdoorlife.com/conservation/doge-cuts-forest-service-wildfires/)<!-- HN:49171748:end --><!-- HN:49172034:start -->
-* [49172034](https://news.social-protocols.org/stats?id=49172034) #4 6 points 0 comments -> [Your open tabs are unfinished decisions, not bookmarks](https://gettably.tech/articles/open-tabs-are-unfinished-decisions/)<!-- HN:49172034:end --><!-- HN:49166491:start -->
-* [49166491](https://news.social-protocols.org/stats?id=49166491) #2 482 points 216 comments -> [Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)<!-- HN:49166491:end --><!-- HN:49171930:start -->
-* [49171930](https://news.social-protocols.org/stats?id=49171930) #12 4 points 1 comments -> [How to Get More Customers Without Paying for Ads – Playistry](https://playistry.com/blog/how-to-get-more-customers-without-paying-for-ads)<!-- HN:49171930:end --><!-- HN:49172567:start -->
-* [49172567](https://news.social-protocols.org/stats?id=49172567) #10 6 points 1 comments -> [Gaza's Deadly Soil](https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/)<!-- HN:49172567:end --><!-- HN:49172534:start -->
-* [49172534](https://news.social-protocols.org/stats?id=49172534) #13 14 points 9 comments -> [Haters](https://www.paulgraham.com/fh.html)<!-- HN:49172534:end --><!-- HN:49172545:start -->
-* [49172545](https://news.social-protocols.org/stats?id=49172545) #23 7 points 1 comments -> [Show HN: cMCP, deny an AI agent's tool call and get a signed receipt](https://github.com/agentrust-io/cmcp)<!-- HN:49172545:end --><!-- HN:49173576:start -->
-* [49173576](https://news.social-protocols.org/stats?id=49173576) #3 32 points 40 comments -> [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)<!-- HN:49173576:end --><!-- HN:49172159:start -->
-* [49172159](https://news.social-protocols.org/stats?id=49172159) #27 25 points 40 comments -> [What's Behind the Sharp Drop in Labor Force Participation?](https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation)<!-- HN:49172159:end --><!-- HN:49174369:start -->
-* [49174369](https://news.social-protocols.org/stats?id=49174369) #26 25 points 40 comments -> [Waymo Waymo CEO explains why Tesla's camera-only self-driving falls short](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)<!-- HN:49174369:end -->
 #### **Wednesday, August 5, 2026**
 <!-- HN:49123372:start -->
 * [49123372](https://news.social-protocols.org/stats?id=49123372) #25 16 points 2 comments -> [The physics of Docker build caching](https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching)<!-- HN:49123372:end --><!-- HN:49166860:start -->
