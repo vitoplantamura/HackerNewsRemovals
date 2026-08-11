@@ -155,4 +155,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49249986](https://news.social-protocols.org/stats?id=49249986) #14 7 points 3 comments -> [We cut a 40-day financial integration down to 5 days using Google Anti](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)<!-- HN:49249986:end -->
 #### **Tuesday, August 11, 2026**
 <!-- HN:49251826:start -->
-* [49251826](https://news.social-protocols.org/stats?id=49251826) #6 6 points 1 comments -> [Harry Potter fans force diverting UK-Ireland power link to avoid Dobby's grave](https://www.bbc.com/news/articles/cy8mgpl27dpo)<!-- HN:49251826:end -->
+* [49251826](https://news.social-protocols.org/stats?id=49251826) #6 6 points 1 comments -> [Harry Potter fans force diverting UK-Ireland power link to avoid Dobby's grave](https://www.bbc.com/news/articles/cy8mgpl27dpo)<!-- HN:49251826:end --><!-- HN:49251978:start -->
+* [49251978](https://news.social-protocols.org/stats?id=49251978) #8 47 points 19 comments -> [Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't](https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html)<!-- HN:49251978:end -->
