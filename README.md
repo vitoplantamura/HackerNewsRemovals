@@ -156,4 +156,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 11, 2026**
 <!-- HN:49251826:start -->
 * [49251826](https://news.social-protocols.org/stats?id=49251826) #6 6 points 1 comments -> [Harry Potter fans force diverting UK-Ireland power link to avoid Dobby's grave](https://www.bbc.com/news/articles/cy8mgpl27dpo)<!-- HN:49251826:end --><!-- HN:49251978:start -->
-* [49251978](https://news.social-protocols.org/stats?id=49251978) #8 47 points 19 comments -> [Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't](https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html)<!-- HN:49251978:end -->
+* [49251978](https://news.social-protocols.org/stats?id=49251978) #8 47 points 19 comments -> [Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't](https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html)<!-- HN:49251978:end --><!-- HN:49252748:start -->
+* [49252748](https://news.social-protocols.org/stats?id=49252748) #28 30 points 3 comments -> [Gulf States Accept a New Normal in Hormuz: Iran Is in Control](https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d)<!-- HN:49252748:end -->
