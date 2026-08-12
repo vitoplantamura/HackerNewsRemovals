@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49180424](https://news.social-protocols.org/stats?id=49180424) #23 7 points 0 comments -> [An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk](https://www.psupress.org/books/titles/978-0-271-06650-9.html?srsltid=AfmBOorGIOS9Y77k3J_CX6UWqfZlPbHXO-8zSjtD5coAKmnN47_e9kAW&utm_source=chatgpt.com)<!-- HN:49180424:end -->
 #### **Wednesday, August 12, 2026**
 <!-- HN:49199502:start -->
-* [49199502](https://news.social-protocols.org/stats?id=49199502) #25 5 points 0 comments -> [Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors](https://github.com/rimironenko/rag-staleness-check)<!-- HN:49199502:end -->
+* [49199502](https://news.social-protocols.org/stats?id=49199502) #25 5 points 0 comments -> [Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors](https://github.com/rimironenko/rag-staleness-check)<!-- HN:49199502:end --><!-- HN:49267550:start -->
+* [49267550](https://news.social-protocols.org/stats?id=49267550) #29 11 points 0 comments -> [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage)<!-- HN:49267550:end -->
