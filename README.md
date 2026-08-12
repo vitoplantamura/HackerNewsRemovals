@@ -142,3 +142,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49264578](https://news.social-protocols.org/stats?id=49264578) #12 15 points 5 comments -> [AI Is Solving CTF Challenges in Minutes](https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes)<!-- HN:49264578:end --><!-- HN:49189500:start -->
 * [49189500](https://news.social-protocols.org/stats?id=49189500) #29 38 points 25 comments -> [Your phone is the most intricate machine you've ever held. Let's take it apart.](https://everythingmachine.io/phone/)<!-- HN:49189500:end --><!-- HN:49180424:start -->
 * [49180424](https://news.social-protocols.org/stats?id=49180424) #23 7 points 0 comments -> [An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk](https://www.psupress.org/books/titles/978-0-271-06650-9.html?srsltid=AfmBOorGIOS9Y77k3J_CX6UWqfZlPbHXO-8zSjtD5coAKmnN47_e9kAW&utm_source=chatgpt.com)<!-- HN:49180424:end -->
+#### **Wednesday, August 12, 2026**
+<!-- HN:49199502:start -->
+* [49199502](https://news.social-protocols.org/stats?id=49199502) #25 5 points 0 comments -> [Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors](https://github.com/rimironenko/rag-staleness-check)<!-- HN:49199502:end -->
