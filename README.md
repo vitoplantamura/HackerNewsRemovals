@@ -145,4 +145,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, August 12, 2026**
 <!-- HN:49199502:start -->
 * [49199502](https://news.social-protocols.org/stats?id=49199502) #25 5 points 0 comments -> [Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors](https://github.com/rimironenko/rag-staleness-check)<!-- HN:49199502:end --><!-- HN:49267550:start -->
-* [49267550](https://news.social-protocols.org/stats?id=49267550) #29 11 points 0 comments -> [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage)<!-- HN:49267550:end -->
+* [49267550](https://news.social-protocols.org/stats?id=49267550) #29 11 points 0 comments -> [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage)<!-- HN:49267550:end --><!-- HN:49268824:start -->
+* [49268824](https://news.social-protocols.org/stats?id=49268824) #30 9 points 1 comments -> [Large-scale study finds no link between crime and unauthorized immigration](https://phys.org/news/2026-08-large-scale-link-crime-unauthorized.html)<!-- HN:49268824:end -->
