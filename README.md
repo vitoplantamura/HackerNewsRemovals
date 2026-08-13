@@ -155,3 +155,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49274950](https://news.social-protocols.org/stats?id=49274950) #5 77 points 8 comments -> [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8)<!-- HN:49274950:end --><!-- HN:49278641:start -->
 * [49278641](https://news.social-protocols.org/stats?id=49278641) #7 -> [ICE equipping agents with gloves that deliver electric shocks](https://www.bbc.com/news/articles/c20d292gdp4o)<!-- HN:49278641:end --><!-- HN:49279804:start -->
 * [49279804](https://news.social-protocols.org/stats?id=49279804) #12 6 points 5 comments -> [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)<!-- HN:49279804:end -->
+#### **Thursday, August 13, 2026**
+<!-- HN:49279986:start -->
+* [49279986](https://news.social-protocols.org/stats?id=49279986) #12 8 points 2 comments -> [Apple Leasing Program](https://www.apple.com/shop/apple-upgrade)<!-- HN:49279986:end -->
