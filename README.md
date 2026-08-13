@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49279804](https://news.social-protocols.org/stats?id=49279804) #12 6 points 5 comments -> [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)<!-- HN:49279804:end -->
 #### **Thursday, August 13, 2026**
 <!-- HN:49279986:start -->
-* [49279986](https://news.social-protocols.org/stats?id=49279986) #12 8 points 2 comments -> [Apple Leasing Program](https://www.apple.com/shop/apple-upgrade)<!-- HN:49279986:end -->
+* [49279986](https://news.social-protocols.org/stats?id=49279986) #12 8 points 2 comments -> [Apple Leasing Program](https://www.apple.com/shop/apple-upgrade)<!-- HN:49279986:end --><!-- HN:49280585:start -->
+* [49280585](https://news.social-protocols.org/stats?id=49280585) #25 4 points 2 comments -> [What Is AI Governance and How to Operationalize It?](https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/)<!-- HN:49280585:end -->
