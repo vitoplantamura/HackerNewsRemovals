@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49279986:start -->
 * [49279986](https://news.social-protocols.org/stats?id=49279986) #12 8 points 2 comments -> [Apple Leasing Program](https://www.apple.com/shop/apple-upgrade)<!-- HN:49279986:end --><!-- HN:49280585:start -->
 * [49280585](https://news.social-protocols.org/stats?id=49280585) #25 4 points 2 comments -> [What Is AI Governance and How to Operationalize It?](https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/)<!-- HN:49280585:end --><!-- HN:49281247:start -->
-* [49281247](https://news.social-protocols.org/stats?id=49281247) #19 7 points 2 comments -> [When Will AI Take My Job?](https://www.whenwillaitakemyjob.ai/)<!-- HN:49281247:end -->
+* [49281247](https://news.social-protocols.org/stats?id=49281247) #19 7 points 2 comments -> [When Will AI Take My Job?](https://www.whenwillaitakemyjob.ai/)<!-- HN:49281247:end --><!-- HN:49282103:start -->
+* [49282103](https://news.social-protocols.org/stats?id=49282103) #7 17 points 7 comments -> [America really might restore democracy to Venezuela](https://economist.com/leaders/2026/08/12/america-really-might-restore-democracy-to-venezuela)<!-- HN:49282103:end -->
