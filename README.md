@@ -159,4 +159,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49285718](https://news.social-protocols.org/stats?id=49285718) #30 138 points 73 comments -> [I Built a 500k-Domain Search Engine for Makers in a Weekend for $10](https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html)<!-- HN:49285718:end -->
 #### **Friday, August 14, 2026**
 <!-- HN:49248845:start -->
-* [49248845](https://news.social-protocols.org/stats?id=49248845) #24 12 points 9 comments -> [Show HN: My solar died for 6 months, so I built a watchdog](https://sunranker.com)<!-- HN:49248845:end -->
+* [49248845](https://news.social-protocols.org/stats?id=49248845) #24 12 points 9 comments -> [Show HN: My solar died for 6 months, so I built a watchdog](https://sunranker.com)<!-- HN:49248845:end --><!-- HN:49292843:start -->
+* [49292843](https://news.social-protocols.org/stats?id=49292843) #17 44 points 2 comments -> [PBS loses 70 years of TV history after cloud storage vendor goes defunct](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)<!-- HN:49292843:end -->
