@@ -166,4 +166,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49300411](https://news.social-protocols.org/stats?id=49300411) #21 37 points 40 comments -> ["Solving a largely imaginary user goal"](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)<!-- HN:49300411:end --><!-- HN:49301342:start -->
 * [49301342](https://news.social-protocols.org/stats?id=49301342) #26 15 points 1 comments -> [Discrete Fourier Transform by Hand](https://www.byhand.ai/p/28-discrete-fourier-transform)<!-- HN:49301342:end --><!-- HN:49303027:start -->
 * [49303027](https://news.social-protocols.org/stats?id=49303027) #10 11 points 7 comments -> [Show HN: Embed a real Linux terminal on your website](https://sandbox.bio/training/embed)<!-- HN:49303027:end --><!-- HN:49303433:start -->
-* [49303433](https://news.social-protocols.org/stats?id=49303433) #11 27 points 3 comments -> [Z.ai Security Disclosure](https://cvd.z.ai)<!-- HN:49303433:end -->
+* [49303433](https://news.social-protocols.org/stats?id=49303433) #11 27 points 3 comments -> [Z.ai Security Disclosure](https://cvd.z.ai)<!-- HN:49303433:end --><!-- HN:49303350:start -->
+* [49303350](https://news.social-protocols.org/stats?id=49303350) #7 34 points 42 comments -> [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)<!-- HN:49303350:end -->
