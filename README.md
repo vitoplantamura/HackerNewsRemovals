@@ -157,3 +157,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49289890](https://news.social-protocols.org/stats?id=49289890) #30 7 points 0 comments -> [Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin](https://github.com/itsmeadarsh2008/opencode-senses)<!-- HN:49289890:end --><!-- HN:49290062:start -->
 * [49290062](https://news.social-protocols.org/stats?id=49290062) #15 47 points 29 comments -> [AI Is Threatening Natural Resources for Billions](https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/)<!-- HN:49290062:end --><!-- HN:49285718:start -->
 * [49285718](https://news.social-protocols.org/stats?id=49285718) #30 138 points 73 comments -> [I Built a 500k-Domain Search Engine for Makers in a Weekend for $10](https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html)<!-- HN:49285718:end -->
+#### **Friday, August 14, 2026**
+<!-- HN:49248845:start -->
+* [49248845](https://news.social-protocols.org/stats?id=49248845) #24 12 points 9 comments -> [Show HN: My solar died for 6 months, so I built a watchdog](https://sunranker.com)<!-- HN:49248845:end -->
