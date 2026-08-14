@@ -123,3 +123,14 @@
 * [49201065](https://news.ycombinator.com/item?id=49201065) #16 56 points 26 comments -> [Japanese Govt Asks US Govt to Stop Using Mario, Pokemono, Naruto Meme Postings](https://mainichi.jp/articles/20260803/k00/00m/010/133000c)<!-- HN:49201065:end --><!-- HN:49203184:start -->
 * [49203184](https://news.ycombinator.com/item?id=49203184) #2 40 points 7 comments -> [GitHub Actions suffers second-longest major outage in its history](https://www.githubstatus.com/uptime/br0l2tvcx85d)<!-- HN:49203184:end --><!-- HN:49202814:start -->
 * [49202814](https://news.ycombinator.com/item?id=49202814) #16 6 points 0 comments -> [A Visual Guide to Quantization – Demystifying the Compression of LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)<!-- HN:49202814:end -->
+#### **Friday, August 7, 2026**
+<!-- HN:49204388:start -->
+* [49204388](https://news.ycombinator.com/item?id=49204388) #23 14 points 8 comments -> [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)<!-- HN:49204388:end --><!-- HN:49205595:start -->
+* [49205595](https://news.ycombinator.com/item?id=49205595) #19 6 points 10 comments -> [Lines of code. 1,596 BTC gone](https://onekey.so/anzen/coldcard-entropy-failure/)<!-- HN:49205595:end --><!-- HN:49123246:start -->
+* [49123246](https://news.ycombinator.com/item?id=49123246) #25 4 points 0 comments -> [How to Generate a TLSA Record and Fix the 3 1 1 Mismatch](https://dmarcguard.io/blog/tlsa-record-setup/)<!-- HN:49123246:end --><!-- HN:49210930:start -->
+* [49210930](https://news.ycombinator.com/item?id=49210930) #6 8 points 0 comments -> [Terafab](https://www.terafab.ai/)<!-- HN:49210930:end --><!-- HN:49210240:start -->
+* [49210240](https://news.ycombinator.com/item?id=49210240) #20 68 points 3 comments -> [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)<!-- HN:49210240:end --><!-- HN:49214065:start -->
+* [49214065](https://news.ycombinator.com/item?id=49214065) #5 -> [The End of No Code](https://blog.exe.dev/the-end-of-no-code)<!-- HN:49214065:end --><!-- HN:49215762:start -->
+* [49215762](https://news.ycombinator.com/item?id=49215762) #10 8 points 8 comments -> [Chasa](https://chasa.io/)<!-- HN:49215762:end --><!-- HN:49216389:start -->
+* [49216389](https://news.ycombinator.com/item?id=49216389) #20 10 points 1 comments -> [Opus5/low can do CryptoNote base58 decoding toolless, in working memory alone](https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y)<!-- HN:49216389:end --><!-- HN:49217131:start -->
+* [49217131](https://news.ycombinator.com/item?id=49217131) #9 4 points 0 comments -> [Right to Repair–For Your Body](https://fourthievesvinegar.org/)<!-- HN:49217131:end -->

@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 7, 2026**
-<!-- HN:49204388:start -->
-* [49204388](https://news.social-protocols.org/stats?id=49204388) #23 14 points 8 comments -> [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)<!-- HN:49204388:end --><!-- HN:49205595:start -->
-* [49205595](https://news.social-protocols.org/stats?id=49205595) #19 6 points 10 comments -> [Lines of code. 1,596 BTC gone](https://onekey.so/anzen/coldcard-entropy-failure/)<!-- HN:49205595:end --><!-- HN:49123246:start -->
-* [49123246](https://news.social-protocols.org/stats?id=49123246) #25 4 points 0 comments -> [How to Generate a TLSA Record and Fix the 3 1 1 Mismatch](https://dmarcguard.io/blog/tlsa-record-setup/)<!-- HN:49123246:end --><!-- HN:49210930:start -->
-* [49210930](https://news.social-protocols.org/stats?id=49210930) #6 8 points 0 comments -> [Terafab](https://www.terafab.ai/)<!-- HN:49210930:end --><!-- HN:49210240:start -->
-* [49210240](https://news.social-protocols.org/stats?id=49210240) #20 68 points 3 comments -> [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)<!-- HN:49210240:end --><!-- HN:49214065:start -->
-* [49214065](https://news.social-protocols.org/stats?id=49214065) #5 -> [The End of No Code](https://blog.exe.dev/the-end-of-no-code)<!-- HN:49214065:end --><!-- HN:49215762:start -->
-* [49215762](https://news.social-protocols.org/stats?id=49215762) #10 8 points 8 comments -> [Chasa](https://chasa.io/)<!-- HN:49215762:end --><!-- HN:49216389:start -->
-* [49216389](https://news.social-protocols.org/stats?id=49216389) #20 10 points 1 comments -> [Opus5/low can do CryptoNote base58 decoding toolless, in working memory alone](https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y)<!-- HN:49216389:end --><!-- HN:49217131:start -->
-* [49217131](https://news.social-protocols.org/stats?id=49217131) #9 4 points 0 comments -> [Right to Repair–For Your Body](https://fourthievesvinegar.org/)<!-- HN:49217131:end -->
 #### **Saturday, August 8, 2026**<!-- HN:49219418:start -->
 * [49219418](https://news.social-protocols.org/stats?id=49219418) #3 5 points 0 comments -> [Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)](https://www.harperflow.io/dead-internet)<!-- HN:49219418:end --><!-- HN:49169566:start -->
 * [49169566](https://news.social-protocols.org/stats?id=49169566) #15 11 points 2 comments -> [How the 'fecal revolution' changed Earth's ecosystems](https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html)<!-- HN:49169566:end --><!-- HN:49219775:start -->
