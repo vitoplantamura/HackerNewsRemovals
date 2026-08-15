@@ -160,4 +160,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49305642](https://news.social-protocols.org/stats?id=49305642) #6 6 points 2 comments -> [Claude Fable 5 Having Fun](https://github.com/robss2020/claude-fable-5-having-fun)<!-- HN:49305642:end -->
 #### **Saturday, August 15, 2026**
 <!-- HN:49306080:start -->
-* [49306080](https://news.social-protocols.org/stats?id=49306080) #9 29 points 21 comments -> [Corgi kills short-lived website that ranked its female employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)<!-- HN:49306080:end -->
+* [49306080](https://news.social-protocols.org/stats?id=49306080) #9 29 points 21 comments -> [Corgi kills short-lived website that ranked its female employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)<!-- HN:49306080:end --><!-- HN:49306432:start -->
+* [49306432](https://news.social-protocols.org/stats?id=49306432) #21 40 points 40 comments -> [NSA and IETF, Part 9](https://blog.cr.yp.to/20260814-update.html)<!-- HN:49306432:end -->
