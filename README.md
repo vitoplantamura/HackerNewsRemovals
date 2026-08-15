@@ -158,3 +158,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49303433](https://news.social-protocols.org/stats?id=49303433) #11 27 points 3 comments -> [Z.ai Security Disclosure](https://cvd.z.ai)<!-- HN:49303433:end --><!-- HN:49303350:start -->
 * [49303350](https://news.social-protocols.org/stats?id=49303350) #7 34 points 42 comments -> [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)<!-- HN:49303350:end --><!-- HN:49305642:start -->
 * [49305642](https://news.social-protocols.org/stats?id=49305642) #6 6 points 2 comments -> [Claude Fable 5 Having Fun](https://github.com/robss2020/claude-fable-5-having-fun)<!-- HN:49305642:end -->
+#### **Saturday, August 15, 2026**
+<!-- HN:49306080:start -->
+* [49306080](https://news.social-protocols.org/stats?id=49306080) #9 29 points 21 comments -> [Corgi kills short-lived website that ranked its female employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)<!-- HN:49306080:end -->
