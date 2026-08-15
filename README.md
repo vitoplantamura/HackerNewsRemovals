@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 8, 2026**<!-- HN:49219418:start -->
-* [49219418](https://news.social-protocols.org/stats?id=49219418) #3 5 points 0 comments -> [Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)](https://www.harperflow.io/dead-internet)<!-- HN:49219418:end --><!-- HN:49169566:start -->
-* [49169566](https://news.social-protocols.org/stats?id=49169566) #15 11 points 2 comments -> [How the 'fecal revolution' changed Earth's ecosystems](https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html)<!-- HN:49169566:end --><!-- HN:49219775:start -->
-* [49219775](https://news.social-protocols.org/stats?id=49219775) #9 5 points 8 comments -> [Grindr CEO Says AI Is Doing the Work of 200 Engineers](https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/)<!-- HN:49219775:end --><!-- HN:49221124:start -->
-* [49221124](https://news.social-protocols.org/stats?id=49221124) #12 14 points 12 comments -> [A Tome of Forbidden Technologies](https://ecosophia.net/a-tome-of-forbidden-technologies/)<!-- HN:49221124:end --><!-- HN:49221089:start -->
-* [49221089](https://news.social-protocols.org/stats?id=49221089) #2 38 points 4 comments -> [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)<!-- HN:49221089:end --><!-- HN:49193900:start -->
-* [49193900](https://news.social-protocols.org/stats?id=49193900) #15 9 points 0 comments -> [You can't have 24hour sunlight AND low altitude, low-latency orbits](https://mastodon.social/@sundogplanets/117043472890805956)<!-- HN:49193900:end --><!-- HN:49222993:start -->
-* [49222993](https://news.social-protocols.org/stats?id=49222993) #20 -> [Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by](https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/)<!-- HN:49222993:end --><!-- HN:49180302:start -->
-* [49180302](https://news.social-protocols.org/stats?id=49180302) #22 22 points 24 comments -> [Building a Rust Inference Engine That Matches Llama.cpp](https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/)<!-- HN:49180302:end --><!-- HN:49225922:start -->
-* [49225922](https://news.social-protocols.org/stats?id=49225922) #16 3 points 0 comments -> [The Idea of an Immutable Social Media](https://citizendot.github.io/articles/the-idea-of-immutable-social-media/)<!-- HN:49225922:end --><!-- HN:49226113:start -->
-* [49226113](https://news.social-protocols.org/stats?id=49226113) #17 -> [Wikipedia's founder on his life's work: "A propaganda tool"](https://nordictimes.com/world/wikipedias-founder-on-his-lifes-work-a-propaganda-tool/)<!-- HN:49226113:end -->
 #### **Sunday, August 9, 2026**
 <!-- HN:49226827:start -->
 * [49226827](https://news.social-protocols.org/stats?id=49226827) #21 26 points 23 comments -> [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal)<!-- HN:49226827:end --><!-- HN:49227686:start -->
