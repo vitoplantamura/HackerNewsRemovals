@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 16, 2026**<!-- HN:49315453:start -->
 * [49315453](https://news.social-protocols.org/stats?id=49315453) #28 13 points 1 comments -> [Banned Words List](https://pen.org/banned-words-list/)<!-- HN:49315453:end --><!-- HN:49315630:start -->
 * [49315630](https://news.social-protocols.org/stats?id=49315630) #11 17 points 28 comments -> [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)<!-- HN:49315630:end --><!-- HN:49316242:start -->
-* [49316242](https://news.social-protocols.org/stats?id=49316242) #11 14 points 1 comments -> [It's How You Ask: Gender-Associated Linguistic Bias in LLMs](https://arxiv.org/abs/2608.13328)<!-- HN:49316242:end -->
+* [49316242](https://news.social-protocols.org/stats?id=49316242) #11 14 points 1 comments -> [It's How You Ask: Gender-Associated Linguistic Bias in LLMs](https://arxiv.org/abs/2608.13328)<!-- HN:49316242:end --><!-- HN:49316791:start -->
+* [49316791](https://news.social-protocols.org/stats?id=49316791) #4 7 points 7 comments -> [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)<!-- HN:49316791:end -->
