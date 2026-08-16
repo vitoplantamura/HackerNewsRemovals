@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49314594](https://news.social-protocols.org/stats?id=49314594) #13 11 points 2 comments -> [Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD](https://github.com/christensen143/claude-trofeo-hud)<!-- HN:49314594:end -->
 #### **Sunday, August 16, 2026**<!-- HN:49315453:start -->
 * [49315453](https://news.social-protocols.org/stats?id=49315453) #28 13 points 1 comments -> [Banned Words List](https://pen.org/banned-words-list/)<!-- HN:49315453:end --><!-- HN:49315630:start -->
-* [49315630](https://news.social-protocols.org/stats?id=49315630) #11 17 points 28 comments -> [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)<!-- HN:49315630:end -->
+* [49315630](https://news.social-protocols.org/stats?id=49315630) #11 17 points 28 comments -> [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)<!-- HN:49315630:end --><!-- HN:49316242:start -->
+* [49316242](https://news.social-protocols.org/stats?id=49316242) #11 14 points 1 comments -> [It's How You Ask: Gender-Associated Linguistic Bias in LLMs](https://arxiv.org/abs/2608.13328)<!-- HN:49316242:end -->
