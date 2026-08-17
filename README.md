@@ -155,3 +155,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49321783](https://news.social-protocols.org/stats?id=49321783) #25 23 points 40 comments -> [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)<!-- HN:49321783:end --><!-- HN:49322206:start -->
 * [49322206](https://news.social-protocols.org/stats?id=49322206) #12 7 points 1 comments -> [I've built a free, open-source local and remote memory system for agentw and CL](https://www.lorekit.io/blog/give-your-agent-a-memory)<!-- HN:49322206:end --><!-- HN:49323256:start -->
 * [49323256](https://news.social-protocols.org/stats?id=49323256) #23 3 points 0 comments -> [An open-source, candle-only crypto pump detector–looking for ML contributors](https://github.com/aleks-ent/pump-dump-crypto-screener)<!-- HN:49323256:end -->
+#### **Monday, August 17, 2026**
+<!-- HN:49284093:start -->
+* [49284093](https://news.social-protocols.org/stats?id=49284093) #27 4 points 9 comments -> [2,085 Tests, and None of Them Opens the Front Door](https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover)<!-- HN:49284093:end -->
