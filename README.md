@@ -158,4 +158,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 17, 2026**
 <!-- HN:49284093:start -->
 * [49284093](https://news.social-protocols.org/stats?id=49284093) #27 4 points 9 comments -> [2,085 Tests, and None of Them Opens the Front Door](https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover)<!-- HN:49284093:end --><!-- HN:49326443:start -->
-* [49326443](https://news.social-protocols.org/stats?id=49326443) #29 12 points 7 comments -> [Hayden Panetierre Dies at 36](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)<!-- HN:49326443:end -->
+* [49326443](https://news.social-protocols.org/stats?id=49326443) #29 12 points 7 comments -> [Hayden Panetierre Dies at 36](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)<!-- HN:49326443:end --><!-- HN:49326229:start -->
+* [49326229](https://news.social-protocols.org/stats?id=49326229) #15 27 points 32 comments -> [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)<!-- HN:49326229:end -->
