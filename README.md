@@ -158,4 +158,8 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 17, 2026**
 <!-- HN:49284093:start -->
 * [49284093](https://news.social-protocols.org/stats?id=49284093) #27 4 points 9 comments -> [2,085 Tests, and None of Them Opens the Front Door](https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover)<!-- HN:49284093:end --><!-- HN:49326443:start -->
-* [49326443](https://news.social-protocols.org/stats?id=49326443) #29 12 points 7 comments -> [Hayden Panetierre Dies at 36](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)<!-- HN:49326443:end -->
+* [49326443](https://news.social-protocols.org/stats?id=49326443) #29 12 points 7 comments -> [Hayden Panetierre Dies at 36](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)<!-- HN:49326443:end --><!-- HN:49259980:start -->
+* [49259980](https://news.social-protocols.org/stats?id=49259980) #11 191 points 54 comments -> [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)<!-- HN:49259980:end --><!-- HN:49245021:start -->
+* [49245021](https://news.social-protocols.org/stats?id=49245021) #14 47 points 30 comments -> [Show HN: Vocal Slice – cut audio by selecting text, fully on-device](https://vocalslice.com/)<!-- HN:49245021:end --><!-- HN:49231418:start -->
+* [49231418](https://news.social-protocols.org/stats?id=49231418) #20 61 points 14 comments -> [Interview with Amit Patel, Creator of "Solar Realms Elite"](https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/)<!-- HN:49231418:end --><!-- HN:49257362:start -->
+* [49257362](https://news.social-protocols.org/stats?id=49257362) #21 43 points 5 comments -> [Dancing with friends and enemies: boids' swarm intelligence](https://community.wolfram.com/groups/-/m/t/122095)<!-- HN:49257362:end -->
