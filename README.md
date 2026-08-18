@@ -159,3 +159,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49336520](https://news.social-protocols.org/stats?id=49336520) #21 13 points 1 comments -> [Three Minutes of Sprinting Beats 90 Minutes of Moderate Exercise](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)<!-- HN:49336520:end --><!-- HN:49337392:start -->
 * [49337392](https://news.social-protocols.org/stats?id=49337392) #6 25 points 5 comments -> [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)<!-- HN:49337392:end --><!-- HN:49338139:start -->
 * [49338139](https://news.social-protocols.org/stats?id=49338139) #9 20 points 41 comments -> [My friends all hate AI; I just joined an AI startup](https://www.fast.ai/posts/2026-08-18-returning-to-AI/)<!-- HN:49338139:end -->
+#### **Tuesday, August 18, 2026**
+<!-- HN:49339349:start -->
+* [49339349](https://news.social-protocols.org/stats?id=49339349) #9 6 points 2 comments -> [Un-AI Your Internet](https://un-ai.digitalprophet.online/)<!-- HN:49339349:end -->
