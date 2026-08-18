@@ -160,4 +160,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 18, 2026**
 <!-- HN:49339349:start -->
 * [49339349](https://news.social-protocols.org/stats?id=49339349) #9 6 points 2 comments -> [Un-AI Your Internet](https://un-ai.digitalprophet.online/)<!-- HN:49339349:end --><!-- HN:49339359:start -->
-* [49339359](https://news.social-protocols.org/stats?id=49339359) #2 45 points 19 comments -> [Cursor Origin](https://cursor.com/docs/origin)<!-- HN:49339359:end -->
+* [49339359](https://news.social-protocols.org/stats?id=49339359) #2 45 points 19 comments -> [Cursor Origin](https://cursor.com/docs/origin)<!-- HN:49339359:end --><!-- HN:49341271:start -->
+* [49341271](https://news.social-protocols.org/stats?id=49341271) #9 5 points 1 comments -> [DeepSeek-V4-Pro outperforms Fable 5 after fixing runtime inference control](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)<!-- HN:49341271:end -->
