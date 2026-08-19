@@ -163,4 +163,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49353181](https://news.social-protocols.org/stats?id=49353181) #17 46 points 17 comments -> [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)<!-- HN:49353181:end -->
 #### **Wednesday, August 19, 2026**
 <!-- HN:49355368:start -->
-* [49355368](https://news.social-protocols.org/stats?id=49355368) #18 19 points 2 comments -> [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)<!-- HN:49355368:end -->
+* [49355368](https://news.social-protocols.org/stats?id=49355368) #18 19 points 2 comments -> [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)<!-- HN:49355368:end --><!-- HN:49354778:start -->
+* [49354778](https://news.social-protocols.org/stats?id=49354778) #30 27 points 6 comments -> [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)<!-- HN:49354778:end -->
