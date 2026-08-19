@@ -164,4 +164,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, August 19, 2026**
 <!-- HN:49355368:start -->
 * [49355368](https://news.social-protocols.org/stats?id=49355368) #18 19 points 2 comments -> [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)<!-- HN:49355368:end --><!-- HN:49354778:start -->
-* [49354778](https://news.social-protocols.org/stats?id=49354778) #30 27 points 6 comments -> [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)<!-- HN:49354778:end -->
+* [49354778](https://news.social-protocols.org/stats?id=49354778) #30 27 points 6 comments -> [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)<!-- HN:49354778:end --><!-- HN:49279352:start -->
+* [49279352](https://news.social-protocols.org/stats?id=49279352) #23 13 points 15 comments -> [I stopped caring about programming terms](https://teadriven.com/blog/why-i-stopped-caring-about-terminology/)<!-- HN:49279352:end -->
