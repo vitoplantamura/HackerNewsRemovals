@@ -161,3 +161,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49351020](https://news.social-protocols.org/stats?id=49351020) #19 7 points 3 comments -> [Show HN: Argus, agentic QA for teams whose coding agents move faster than QA](https://github.com/argus-testing/argus)<!-- HN:49351020:end --><!-- HN:49351232:start -->
 * [49351232](https://news.social-protocols.org/stats?id=49351232) #18 6 points 0 comments -> [llms.txt: a proposed standard no major AI platform has confirmed it uses](https://geojacker.com/llms-txt)<!-- HN:49351232:end --><!-- HN:49353181:start -->
 * [49353181](https://news.social-protocols.org/stats?id=49353181) #17 46 points 17 comments -> [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)<!-- HN:49353181:end -->
+#### **Wednesday, August 19, 2026**
+<!-- HN:49355368:start -->
+* [49355368](https://news.social-protocols.org/stats?id=49355368) #18 19 points 2 comments -> [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)<!-- HN:49355368:end -->
