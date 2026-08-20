@@ -158,5 +158,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 20, 2026**
 <!-- HN:49317965:start -->
 * [49317965](https://news.social-protocols.org/stats?id=49317965) #11 13 points 5 comments -> [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)<!-- HN:49317965:end --><!-- HN:49372792:start -->
-* [49372792](https://news.social-protocols.org/stats?id=49372792) #15 29 points 43 comments -> [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)<!-- HN:49372792:end --><!-- HN:49374031:start -->
-* [49374031](https://news.social-protocols.org/stats?id=49374031) #13 9 points 0 comments -> [Netherlands lists Israel as a threat to its national security for the first time](https://www.trtworld.com/article/911b7ff6c075)<!-- HN:49374031:end -->
+* [49372792](https://news.social-protocols.org/stats?id=49372792) #15 29 points 43 comments -> [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)<!-- HN:49372792:end -->
