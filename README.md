@@ -155,3 +155,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49366225](https://news.social-protocols.org/stats?id=49366225) #17 9 points 2 comments -> [You Probably Don't Get Why Stripe Bought OpenRouter](https://www.amppublic.com/research/openrouter)<!-- HN:49366225:end --><!-- HN:49365733:start -->
 * [49365733](https://news.social-protocols.org/stats?id=49365733) #7 146 points 31 comments -> [Police officer used Flock cameras to track estranged wife 717 times](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)<!-- HN:49365733:end --><!-- HN:49366704:start -->
 * [49366704](https://news.social-protocols.org/stats?id=49366704) #15 12 points 1 comments -> [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)<!-- HN:49366704:end -->
+#### **Thursday, August 20, 2026**
+<!-- HN:49317965:start -->
+* [49317965](https://news.social-protocols.org/stats?id=49317965) #11 13 points 5 comments -> [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)<!-- HN:49317965:end -->
