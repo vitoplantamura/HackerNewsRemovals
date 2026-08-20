@@ -157,4 +157,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49366704](https://news.social-protocols.org/stats?id=49366704) #15 12 points 1 comments -> [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)<!-- HN:49366704:end -->
 #### **Thursday, August 20, 2026**
 <!-- HN:49317965:start -->
-* [49317965](https://news.social-protocols.org/stats?id=49317965) #11 13 points 5 comments -> [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)<!-- HN:49317965:end -->
+* [49317965](https://news.social-protocols.org/stats?id=49317965) #11 13 points 5 comments -> [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)<!-- HN:49317965:end --><!-- HN:49372792:start -->
+* [49372792](https://news.social-protocols.org/stats?id=49372792) #15 29 points 43 comments -> [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)<!-- HN:49372792:end -->
