@@ -147,3 +147,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49378724](https://news.social-protocols.org/stats?id=49378724) #21 4 points 0 comments -> [Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)](http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html)<!-- HN:49378724:end --><!-- HN:49378305:start -->
 * [49378305](https://news.social-protocols.org/stats?id=49378305) #30 6 points 2 comments -> [Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser](https://kandelo.dev/20260819-demo/)<!-- HN:49378305:end --><!-- HN:49380555:start -->
 * [49380555](https://news.social-protocols.org/stats?id=49380555) #30 4 points 1 comments -> [Pursuit of AGI](https://cognitus.grrn.io)<!-- HN:49380555:end -->
+#### **Friday, August 21, 2026**
+<!-- HN:49328758:start -->
+* [49328758](https://news.social-protocols.org/stats?id=49328758) #21 8 points 5 comments -> [My Microscope Is a Dashcam](https://xecaz.com/reverse.engineering/tomlovdm9/)<!-- HN:49328758:end -->
