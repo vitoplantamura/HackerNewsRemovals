@@ -149,4 +149,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49380555](https://news.social-protocols.org/stats?id=49380555) #30 4 points 1 comments -> [Pursuit of AGI](https://cognitus.grrn.io)<!-- HN:49380555:end -->
 #### **Friday, August 21, 2026**
 <!-- HN:49328758:start -->
-* [49328758](https://news.social-protocols.org/stats?id=49328758) #21 8 points 5 comments -> [My Microscope Is a Dashcam](https://xecaz.com/reverse.engineering/tomlovdm9/)<!-- HN:49328758:end -->
+* [49328758](https://news.social-protocols.org/stats?id=49328758) #21 8 points 5 comments -> [My Microscope Is a Dashcam](https://xecaz.com/reverse.engineering/tomlovdm9/)<!-- HN:49328758:end --><!-- HN:49381896:start -->
+* [49381896](https://news.social-protocols.org/stats?id=49381896) #9 51 points 41 comments -> [Stealth Model](https://openrouter.ai/stealth/ox-alpha)<!-- HN:49381896:end -->
