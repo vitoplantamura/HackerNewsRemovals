@@ -150,4 +150,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 21, 2026**
 <!-- HN:49328758:start -->
 * [49328758](https://news.social-protocols.org/stats?id=49328758) #21 8 points 5 comments -> [My Microscope Is a Dashcam](https://xecaz.com/reverse.engineering/tomlovdm9/)<!-- HN:49328758:end --><!-- HN:49321581:start -->
-* [49321581](https://news.social-protocols.org/stats?id=49321581) #19 4 points 0 comments -> [The Quora Collapse](https://www.harperflow.io/dead-internet/quora-collapse)<!-- HN:49321581:end -->
+* [49321581](https://news.social-protocols.org/stats?id=49321581) #19 4 points 0 comments -> [The Quora Collapse](https://www.harperflow.io/dead-internet/quora-collapse)<!-- HN:49321581:end --><!-- HN:49386884:start -->
+* [49386884](https://news.social-protocols.org/stats?id=49386884) #28 7 points 1 comments -> [If Your New People Are on X, Maybe Your New People Suck](https://coyotetracks.org/blog/new-people-on-x/)<!-- HN:49386884:end -->
