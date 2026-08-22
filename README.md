@@ -147,4 +147,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49394759](https://news.social-protocols.org/stats?id=49394759) #16 -> [I own 28,000 books – here's what I've learned](https://www.shelvd.org/blog/28000-books)<!-- HN:49394759:end -->
 #### **Saturday, August 22, 2026**
 <!-- HN:49394985:start -->
-* [49394985](https://news.social-protocols.org/stats?id=49394985) #9 26 points 35 comments -> [Electric shock gloves in use by police departments in Bellevue, Omaha](https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/)<!-- HN:49394985:end -->
+* [49394985](https://news.social-protocols.org/stats?id=49394985) #9 26 points 35 comments -> [Electric shock gloves in use by police departments in Bellevue, Omaha](https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/)<!-- HN:49394985:end --><!-- HN:49392654:start -->
+* [49392654](https://news.social-protocols.org/stats?id=49392654) #22 28 points 6 comments -> [Rust Glancer](https://matklad.github.io/2026/08/21/rust-glancer.html)<!-- HN:49392654:end -->
