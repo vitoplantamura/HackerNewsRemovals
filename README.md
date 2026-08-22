@@ -145,3 +145,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49392179](https://news.social-protocols.org/stats?id=49392179) #24 4 points 0 comments -> [A look under our trunk: what's in our compute of Waymo taxis](https://waymo.com/blog/2026/08/look-under-our-trunk/)<!-- HN:49392179:end --><!-- HN:49392449:start -->
 * [49392449](https://news.social-protocols.org/stats?id=49392449) #30 6 points 7 comments -> [Death to the Self-Playing Game](https://www.jank.cool/death-to-the-self-playing-game/)<!-- HN:49392449:end --><!-- HN:49394759:start -->
 * [49394759](https://news.social-protocols.org/stats?id=49394759) #16 -> [I own 28,000 books – here's what I've learned](https://www.shelvd.org/blog/28000-books)<!-- HN:49394759:end -->
+#### **Saturday, August 22, 2026**
+<!-- HN:49394985:start -->
+* [49394985](https://news.social-protocols.org/stats?id=49394985) #9 26 points 35 comments -> [Electric shock gloves in use by police departments in Bellevue, Omaha](https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/)<!-- HN:49394985:end -->
