@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49398304](https://news.social-protocols.org/stats?id=49398304) #11 658 points 1 comments -> [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)<!-- HN:49398304:end --><!-- HN:49403484:start -->
 * [49403484](https://news.social-protocols.org/stats?id=49403484) #14 17 points 6 comments -> [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)<!-- HN:49403484:end --><!-- HN:49403228:start -->
 * [49403228](https://news.social-protocols.org/stats?id=49403228) #28 17 points 10 comments -> [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)<!-- HN:49403228:end -->
-#### **Sunday, August 23, 2026**
+#### **Sunday, August 23, 2026**<!-- HN:49406021:start -->
+* [49406021](https://news.social-protocols.org/stats?id=49406021) #19 8 points 0 comments -> [The Covid-19 scandal is still unfolding](https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding)<!-- HN:49406021:end -->
