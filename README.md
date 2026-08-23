@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49403228](https://news.social-protocols.org/stats?id=49403228) #28 17 points 10 comments -> [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)<!-- HN:49403228:end -->
 #### **Sunday, August 23, 2026**<!-- HN:49406021:start -->
 * [49406021](https://news.social-protocols.org/stats?id=49406021) #19 8 points 0 comments -> [The Covid-19 scandal is still unfolding](https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding)<!-- HN:49406021:end --><!-- HN:49409448:start -->
-* [49409448](https://news.social-protocols.org/stats?id=49409448) #8 8 points 4 comments -> [Hacker News in Uncompromised Detail](https://vale.rocks/posts/hacker-news)<!-- HN:49409448:end -->
+* [49409448](https://news.social-protocols.org/stats?id=49409448) #8 8 points 4 comments -> [Hacker News in Uncompromised Detail](https://vale.rocks/posts/hacker-news)<!-- HN:49409448:end --><!-- HN:49409450:start -->
+* [49409450](https://news.social-protocols.org/stats?id=49409450) #18 15 points 3 comments -> [Blueprint for how to be self sufficient in a 1/4 acre backyard](https://www.reddit.com/user/CandescentgenyVet/comments/1vw9dcj/blueprint_for_how_to_be_self_sufficient_in_a_14/)<!-- HN:49409450:end -->
