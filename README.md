@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, August 24, 2026**
 <!-- HN:49414676:start -->
 * [49414676](https://news.social-protocols.org/stats?id=49414676) #4 8 points 6 comments -> [Fastmail Pricing Changes](https://www.fastmail.com/pricing/us/)<!-- HN:49414676:end --><!-- HN:49415237:start -->
-* [49415237](https://news.social-protocols.org/stats?id=49415237) #20 11 points 4 comments -> [AI Is Quietly Draining the Public Internet of Thought](https://twitter.com/BrianRoemmele/status/2091127620431933780)<!-- HN:49415237:end -->
+* [49415237](https://news.social-protocols.org/stats?id=49415237) #20 11 points 4 comments -> [AI Is Quietly Draining the Public Internet of Thought](https://twitter.com/BrianRoemmele/status/2091127620431933780)<!-- HN:49415237:end --><!-- HN:49414651:start -->
+* [49414651](https://news.social-protocols.org/stats?id=49414651) #19 7 points 0 comments -> [This Fact About KPIs May Surprise You](https://www.satisfice.com/blog/archives/488189)<!-- HN:49414651:end -->
