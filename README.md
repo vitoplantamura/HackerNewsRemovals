@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49412548](https://news.social-protocols.org/stats?id=49412548) #14 5 points 1 comments -> [Cicada.os – Graphene.os for Your Laptop](https://kpres12.github.io/Cicada.OS/)<!-- HN:49412548:end --><!-- HN:49410480:start -->
 * [49410480](https://news.social-protocols.org/stats?id=49410480) #25 30 points 40 comments -> [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/)<!-- HN:49410480:end --><!-- HN:49407944:start -->
 * [49407944](https://news.social-protocols.org/stats?id=49407944) #26 23 points 1 comments -> [Andrew Ng: "AI Engineering Skills Map: Building and Deploying AI Applications"](https://twitter.com/AndrewYNg/status/2090840747738374568)<!-- HN:49407944:end -->
+#### **Monday, August 24, 2026**
+<!-- HN:49414676:start -->
+* [49414676](https://news.social-protocols.org/stats?id=49414676) #4 8 points 6 comments -> [Fastmail Pricing Changes](https://www.fastmail.com/pricing/us/)<!-- HN:49414676:end -->
