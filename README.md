@@ -43,25 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 18, 2026**
-<!-- HN:49339349:start -->
-* [49339349](https://news.social-protocols.org/stats?id=49339349) #9 6 points 2 comments -> [Un-AI Your Internet](https://un-ai.digitalprophet.online/)<!-- HN:49339349:end --><!-- HN:49339359:start -->
-* [49339359](https://news.social-protocols.org/stats?id=49339359) #2 45 points 19 comments -> [Cursor Origin](https://cursor.com/docs/origin)<!-- HN:49339359:end --><!-- HN:49341271:start -->
-* [49341271](https://news.social-protocols.org/stats?id=49341271) #9 5 points 1 comments -> [DeepSeek-V4-Pro outperforms Fable 5 after fixing runtime inference control](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)<!-- HN:49341271:end --><!-- HN:49342601:start -->
-* [49342601](https://news.social-protocols.org/stats?id=49342601) #1 38 points 11 comments -> [git git git git git](https://caiustheory.com/git-git-git-git-git/)<!-- HN:49342601:end --><!-- HN:49345448:start -->
-* [49345448](https://news.social-protocols.org/stats?id=49345448) #3 7 points 3 comments -> [AI to help planes avoid climate-warming 'sky graffiti'](https://www.bbc.com/news/articles/c62em5lpvnjo)<!-- HN:49345448:end --><!-- HN:49345438:start -->
-* [49345438](https://news.social-protocols.org/stats?id=49345438) #3 22 points 0 comments -> [A group of Gandalfs protest outside the home of Peter Thiel in Argentina](https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/)<!-- HN:49345438:end --><!-- HN:49345154:start -->
-* [49345154](https://news.social-protocols.org/stats?id=49345154) #12 21 points 15 comments -> [Show HN: I canceled my AI code reviewer and wrote a free local one](https://github.com/mukundzha/avouch)<!-- HN:49345154:end --><!-- HN:49346591:start -->
-* [49346591](https://news.social-protocols.org/stats?id=49346591) #12 9 points 1 comments -> [Finger: A Protocol from 1977 Is Still Delivering Malware in 2026](https://artemissecurity.com/attack-stories/finger-protocol-python-rat-delivery/)<!-- HN:49346591:end --><!-- HN:49345320:start -->
-* [49345320](https://news.social-protocols.org/stats?id=49345320) #19 28 points 23 comments -> [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)<!-- HN:49345320:end --><!-- HN:49346074:start -->
-* [49346074](https://news.social-protocols.org/stats?id=49346074) #17 8 points 2 comments -> [Muse Glimmer is a memory hierarchy disguised as a 30B Transformer](https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/)<!-- HN:49346074:end --><!-- HN:49348060:start -->
-* [49348060](https://news.social-protocols.org/stats?id=49348060) #20 3 points 0 comments -> [A local ePub eBook server for my xteink](https://solariz.de/posts/26/04-xteink-local-epub-server)<!-- HN:49348060:end --><!-- HN:49348114:start -->
-* [49348114](https://news.social-protocols.org/stats?id=49348114) #26 2 points 0 comments -> [Magnitude – Open-source AI coding agent that runs local models offline](https://digitalescapetools.com/tools/tool.html?id=magnitude)<!-- HN:49348114:end --><!-- HN:49349283:start -->
-* [49349283](https://news.social-protocols.org/stats?id=49349283) #27 5 points 0 comments -> [Columbia House, Mail-Order Media Company, Is Shuttering](https://consequence.net/2026/08/columbia-house-closing-down/)<!-- HN:49349283:end --><!-- HN:49350833:start -->
-* [49350833](https://news.social-protocols.org/stats?id=49350833) #13 6 points 2 comments -> [Could Four Billion People Die at 3°C?](https://safeclimate.org.au/article/could-four-billion-people-die-at-3c/)<!-- HN:49350833:end --><!-- HN:49351020:start -->
-* [49351020](https://news.social-protocols.org/stats?id=49351020) #19 7 points 3 comments -> [Show HN: Argus, agentic QA for teams whose coding agents move faster than QA](https://github.com/argus-testing/argus)<!-- HN:49351020:end --><!-- HN:49351232:start -->
-* [49351232](https://news.social-protocols.org/stats?id=49351232) #18 6 points 0 comments -> [llms.txt: a proposed standard no major AI platform has confirmed it uses](https://geojacker.com/llms-txt)<!-- HN:49351232:end --><!-- HN:49353181:start -->
-* [49353181](https://news.social-protocols.org/stats?id=49353181) #17 46 points 17 comments -> [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)<!-- HN:49353181:end -->
 #### **Wednesday, August 19, 2026**
 <!-- HN:49355368:start -->
 * [49355368](https://news.social-protocols.org/stats?id=49355368) #18 19 points 2 comments -> [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)<!-- HN:49355368:end --><!-- HN:49354778:start -->
