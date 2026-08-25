@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49420861](https://news.social-protocols.org/stats?id=49420861) #29 37 points 40 comments -> [Could We Dredge the Netherlands Without Fossil Fuels?](https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels)<!-- HN:49420861:end --><!-- HN:49425867:start -->
 * [49425867](https://news.social-protocols.org/stats?id=49425867) #14 3 points 0 comments -> [Assinafy – Assinatura eletrônica grátis and API liberada](https://www.assinafy.com.br)<!-- HN:49425867:end --><!-- HN:49426118:start -->
 * [49426118](https://news.social-protocols.org/stats?id=49426118) #8 5 points 1 comments -> [NIST is selling Peanut Butter for $415.33 per jar](https://shop.nist.gov/ccrz__ProductDetails?sku=2387)<!-- HN:49426118:end -->
+#### **Tuesday, August 25, 2026**
+<!-- HN:49427825:start -->
+* [49427825](https://news.social-protocols.org/stats?id=49427825) #30 11 points 2 comments -> [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)<!-- HN:49427825:end -->
