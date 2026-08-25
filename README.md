@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, August 25, 2026**
 <!-- HN:49427825:start -->
 * [49427825](https://news.social-protocols.org/stats?id=49427825) #30 11 points 2 comments -> [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)<!-- HN:49427825:end --><!-- HN:49429345:start -->
-* [49429345](https://news.social-protocols.org/stats?id=49429345) #12 -> [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)<!-- HN:49429345:end -->
+* [49429345](https://news.social-protocols.org/stats?id=49429345) #12 -> [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)<!-- HN:49429345:end --><!-- HN:49431119:start -->
+* [49431119](https://news.social-protocols.org/stats?id=49431119) #10 9 points 6 comments -> [Ox Alpha – A mysterious new AI model](https://oxalpha.com)<!-- HN:49431119:end -->
