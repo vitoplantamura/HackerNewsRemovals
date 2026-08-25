@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49426118](https://news.social-protocols.org/stats?id=49426118) #8 5 points 1 comments -> [NIST is selling Peanut Butter for $415.33 per jar](https://shop.nist.gov/ccrz__ProductDetails?sku=2387)<!-- HN:49426118:end -->
 #### **Tuesday, August 25, 2026**
 <!-- HN:49427825:start -->
-* [49427825](https://news.social-protocols.org/stats?id=49427825) #30 11 points 2 comments -> [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)<!-- HN:49427825:end -->
+* [49427825](https://news.social-protocols.org/stats?id=49427825) #30 11 points 2 comments -> [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)<!-- HN:49427825:end --><!-- HN:49429345:start -->
+* [49429345](https://news.social-protocols.org/stats?id=49429345) #12 -> [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)<!-- HN:49429345:end -->
