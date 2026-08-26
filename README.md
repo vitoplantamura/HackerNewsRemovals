@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, August 19, 2026**
-<!-- HN:49355368:start -->
-* [49355368](https://news.social-protocols.org/stats?id=49355368) #18 19 points 2 comments -> [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)<!-- HN:49355368:end --><!-- HN:49354778:start -->
-* [49354778](https://news.social-protocols.org/stats?id=49354778) #30 27 points 6 comments -> [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)<!-- HN:49354778:end --><!-- HN:49279352:start -->
-* [49279352](https://news.social-protocols.org/stats?id=49279352) #23 13 points 15 comments -> [I stopped caring about programming terms](https://teadriven.com/blog/why-i-stopped-caring-about-terminology/)<!-- HN:49279352:end --><!-- HN:49357881:start -->
-* [49357881](https://news.social-protocols.org/stats?id=49357881) #6 8 points 3 comments -> [Show HN: Privacy focused client side password generator](https://password-generator.aaqa.dev/)<!-- HN:49357881:end --><!-- HN:49362044:start -->
-* [49362044](https://news.social-protocols.org/stats?id=49362044) #6 11 points 15 comments -> [Proposal to prohibit vibe coded projects from being hosted on Sourcehut](https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CDKSTMKM0ZD9N.2FTBDFREZH699@ddevault.org%3E)<!-- HN:49362044:end --><!-- HN:49362396:start -->
-* [49362396](https://news.social-protocols.org/stats?id=49362396) #13 7 points 2 comments -> [X262: X264 with MPEG-2 Support](https://github.com/kierank/x262)<!-- HN:49362396:end --><!-- HN:49360384:start -->
-* [49360384](https://news.social-protocols.org/stats?id=49360384) #29 7 points 1 comments -> [Sea Turtle Sex Crisis: Why 99% Are Now Female](https://mazingamazingly.blogspot.com/2026/08/sea-turtle-sex-crisis-why-99-are-now.html)<!-- HN:49360384:end --><!-- HN:49364158:start -->
-* [49364158](https://news.social-protocols.org/stats?id=49364158) #19 5 points 1 comments -> [Blood Boy for All – Young blood is a human right](https://www.onethousandmeans.com/p/blood-boy-for-all)<!-- HN:49364158:end --><!-- HN:49366075:start -->
-* [49366075](https://news.social-protocols.org/stats?id=49366075) #13 7 points 0 comments -> [Daily Reminder to Not Listen to Google's AI Overview](https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/)<!-- HN:49366075:end --><!-- HN:49366225:start -->
-* [49366225](https://news.social-protocols.org/stats?id=49366225) #17 9 points 2 comments -> [You Probably Don't Get Why Stripe Bought OpenRouter](https://www.amppublic.com/research/openrouter)<!-- HN:49366225:end --><!-- HN:49365733:start -->
-* [49365733](https://news.social-protocols.org/stats?id=49365733) #7 146 points 31 comments -> [Police officer used Flock cameras to track estranged wife 717 times](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)<!-- HN:49365733:end --><!-- HN:49366704:start -->
-* [49366704](https://news.social-protocols.org/stats?id=49366704) #15 12 points 1 comments -> [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)<!-- HN:49366704:end -->
 #### **Thursday, August 20, 2026**
 <!-- HN:49317965:start -->
 * [49317965](https://news.social-protocols.org/stats?id=49317965) #11 13 points 5 comments -> [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)<!-- HN:49317965:end --><!-- HN:49372792:start -->
