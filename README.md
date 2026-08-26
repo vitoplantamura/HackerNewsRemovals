@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49438407](https://news.social-protocols.org/stats?id=49438407) #30 7 points 1 comments -> [A Message from the Family of Dolly Parton](https://www.instagram.com/reel/DceNXgPJyZ9/)<!-- HN:49438407:end --><!-- HN:49438492:start -->
 * [49438492](https://news.social-protocols.org/stats?id=49438492) #25 45 points 9 comments -> [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)<!-- HN:49438492:end --><!-- HN:49439535:start -->
 * [49439535](https://news.social-protocols.org/stats?id=49439535) #28 17 points 13 comments -> [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)<!-- HN:49439535:end -->
+#### **Wednesday, August 26, 2026**
+<!-- HN:49444661:start -->
+* [49444661](https://news.social-protocols.org/stats?id=49444661) #17 3 points 0 comments -> [Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth](https://www.apple.com/mac-studio/)<!-- HN:49444661:end -->
