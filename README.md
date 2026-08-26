@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, August 26, 2026**
 <!-- HN:49444661:start -->
 * [49444661](https://news.social-protocols.org/stats?id=49444661) #17 3 points 0 comments -> [Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth](https://www.apple.com/mac-studio/)<!-- HN:49444661:end --><!-- HN:49445787:start -->
-* [49445787](https://news.social-protocols.org/stats?id=49445787) #20 6 points 2 comments -> [My Anti-AI Manifesto](http://alessandrorosa.altervista.org/pages/my.anti.ai.manifesto.html)<!-- HN:49445787:end -->
+* [49445787](https://news.social-protocols.org/stats?id=49445787) #20 6 points 2 comments -> [My Anti-AI Manifesto](http://alessandrorosa.altervista.org/pages/my.anti.ai.manifesto.html)<!-- HN:49445787:end --><!-- HN:49446417:start -->
+* [49446417](https://news.social-protocols.org/stats?id=49446417) #6 15 points 13 comments -> [Nobody Wants Artisanal Code Anymore](https://gordonbeeming.com/blog/2026-04-29/nobody-wants-artisanal-code-anymore)<!-- HN:49446417:end -->
