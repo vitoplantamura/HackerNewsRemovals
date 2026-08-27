@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49456134](https://news.social-protocols.org/stats?id=49456134) #25 17 points 3 comments -> [Qwen 3.8 27B Uncensored – Testing the Uncensored Qwen Model](https://imageat.com/models/qwen-3-8-27b-uncensored)<!-- HN:49456134:end -->
 #### **Thursday, August 27, 2026**
 <!-- HN:49458875:start -->
-* [49458875](https://news.social-protocols.org/stats?id=49458875) #30 18 points 40 comments -> [Humanity has the debate about AI consciousness backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)<!-- HN:49458875:end -->
+* [49458875](https://news.social-protocols.org/stats?id=49458875) #30 18 points 40 comments -> [Humanity has the debate about AI consciousness backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)<!-- HN:49458875:end --><!-- HN:49461862:start -->
+* [49461862](https://news.social-protocols.org/stats?id=49461862) #8 9 points 1 comments -> [Qwen3.8-Flash-Next Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/qwen3-8-flash-next)<!-- HN:49461862:end -->
