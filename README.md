@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49454496](https://news.social-protocols.org/stats?id=49454496) #21 10 points 2 comments -> [Super Curry Combat II Turbo – Legend Edition](https://curry-combat-2.com)<!-- HN:49454496:end --><!-- HN:49455202:start -->
 * [49455202](https://news.social-protocols.org/stats?id=49455202) #18 10 points 0 comments -> [US Designates Palestine Action as Terrorist Group: What the Decision Means](https://moztako.me/us-designates-palestine-action-terrorist-group/)<!-- HN:49455202:end --><!-- HN:49456134:start -->
 * [49456134](https://news.social-protocols.org/stats?id=49456134) #25 17 points 3 comments -> [Qwen 3.8 27B Uncensored – Testing the Uncensored Qwen Model](https://imageat.com/models/qwen-3-8-27b-uncensored)<!-- HN:49456134:end -->
+#### **Thursday, August 27, 2026**
+<!-- HN:49458875:start -->
+* [49458875](https://news.social-protocols.org/stats?id=49458875) #30 18 points 40 comments -> [Humanity has the debate about AI consciousness backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)<!-- HN:49458875:end -->
