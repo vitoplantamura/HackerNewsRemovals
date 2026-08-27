@@ -128,8 +128,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49455202](https://news.social-protocols.org/stats?id=49455202) #18 10 points 0 comments -> [US Designates Palestine Action as Terrorist Group: What the Decision Means](https://moztako.me/us-designates-palestine-action-terrorist-group/)<!-- HN:49455202:end --><!-- HN:49456134:start -->
 * [49456134](https://news.social-protocols.org/stats?id=49456134) #25 17 points 3 comments -> [Qwen 3.8 27B Uncensored – Testing the Uncensored Qwen Model](https://imageat.com/models/qwen-3-8-27b-uncensored)<!-- HN:49456134:end -->
 #### **Thursday, August 27, 2026**
-<!-- HN:49458875:start -->
-* [49458875](https://news.social-protocols.org/stats?id=49458875) #30 18 points 40 comments -> [Humanity has the debate about AI consciousness backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)<!-- HN:49458875:end --><!-- HN:49461862:start -->
+<!-- HN:49461862:start -->
 * [49461862](https://news.social-protocols.org/stats?id=49461862) #8 9 points 1 comments -> [Qwen3.8-Flash-Next Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/qwen3-8-flash-next)<!-- HN:49461862:end --><!-- HN:49463680:start -->
 * [49463680](https://news.social-protocols.org/stats?id=49463680) #3 24 points 4 comments -> ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/)<!-- HN:49463680:end --><!-- HN:49464973:start -->
 * [49464973](https://news.social-protocols.org/stats?id=49464973) #3 15 points 0 comments -> [The Unwelcoming States of America](https://www.economist.com/leaders/2026/08/27/the-unwelcoming-states-of-america)<!-- HN:49464973:end --><!-- HN:49464847:start -->
