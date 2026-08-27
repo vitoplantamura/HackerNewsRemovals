@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, August 20, 2026**
-<!-- HN:49317965:start -->
-* [49317965](https://news.social-protocols.org/stats?id=49317965) #11 13 points 5 comments -> [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)<!-- HN:49317965:end --><!-- HN:49372792:start -->
-* [49372792](https://news.social-protocols.org/stats?id=49372792) #15 29 points 43 comments -> [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)<!-- HN:49372792:end --><!-- HN:49374177:start -->
-* [49374177](https://news.social-protocols.org/stats?id=49374177) #6 4 points 1 comments -> [Sokoban via Grok App Builder](https://sokoban.grok.me/)<!-- HN:49374177:end --><!-- HN:49374599:start -->
-* [49374599](https://news.social-protocols.org/stats?id=49374599) #7 5 points 1 comments -> [Index of the best vibe coding tools](https://www.vibeleaderboard.ai/tools)<!-- HN:49374599:end --><!-- HN:49374376:start -->
-* [49374376](https://news.social-protocols.org/stats?id=49374376) #18 6 points 2 comments -> [MH370 mystery deepens with new evidence](https://vt.co/news/world/mh370-aviation-mystery-new-evidence-wrong-place)<!-- HN:49374376:end --><!-- HN:49375164:start -->
-* [49375164](https://news.social-protocols.org/stats?id=49375164) #17 -> [Grok.bot – the epic domain lottery ticket](https://grok.bot/)<!-- HN:49375164:end --><!-- HN:49376287:start -->
-* [49376287](https://news.social-protocols.org/stats?id=49376287) #5 22 points 6 comments -> [I Am Morally Opposed to Updating My Claude.md](https://alex-jacobs.com/posts/claudemd/)<!-- HN:49376287:end --><!-- HN:49300438:start -->
-* [49300438](https://news.social-protocols.org/stats?id=49300438) #22 7 points 2 comments -> [I bought the most expensive cable I could find. It still died](https://medium.com/@pokhts/i-bought-the-most-expensive-cable-i-could-and-it-still-died-welcome-to-rs485-vs-1000v-dc-d9e73d31a607)<!-- HN:49300438:end --><!-- HN:49377249:start -->
-* [49377249](https://news.social-protocols.org/stats?id=49377249) #25 23 points 11 comments -> [The Defense-Tech Bubble Is Headed for Consolidation](https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation)<!-- HN:49377249:end --><!-- HN:49378036:start -->
-* [49378036](https://news.social-protocols.org/stats?id=49378036) #16 17 points 1 comments -> [Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX](https://bitflash.network/)<!-- HN:49378036:end --><!-- HN:49378724:start -->
-* [49378724](https://news.social-protocols.org/stats?id=49378724) #21 4 points 0 comments -> [Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)](http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html)<!-- HN:49378724:end --><!-- HN:49378305:start -->
-* [49378305](https://news.social-protocols.org/stats?id=49378305) #30 6 points 2 comments -> [Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser](https://kandelo.dev/20260819-demo/)<!-- HN:49378305:end --><!-- HN:49380555:start -->
-* [49380555](https://news.social-protocols.org/stats?id=49380555) #30 4 points 1 comments -> [Pursuit of AGI](https://cognitus.grrn.io)<!-- HN:49380555:end -->
 #### **Friday, August 21, 2026**
 <!-- HN:49328758:start -->
 * [49328758](https://news.social-protocols.org/stats?id=49328758) #21 8 points 5 comments -> [My Microscope Is a Dashcam](https://xecaz.com/reverse.engineering/tomlovdm9/)<!-- HN:49328758:end --><!-- HN:49321581:start -->
