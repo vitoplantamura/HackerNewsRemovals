@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, August 27, 2026**
 <!-- HN:49458875:start -->
 * [49458875](https://news.social-protocols.org/stats?id=49458875) #30 18 points 40 comments -> [Humanity has the debate about AI consciousness backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)<!-- HN:49458875:end --><!-- HN:49461862:start -->
-* [49461862](https://news.social-protocols.org/stats?id=49461862) #8 9 points 1 comments -> [Qwen3.8-Flash-Next Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/qwen3-8-flash-next)<!-- HN:49461862:end -->
+* [49461862](https://news.social-protocols.org/stats?id=49461862) #8 9 points 1 comments -> [Qwen3.8-Flash-Next Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/qwen3-8-flash-next)<!-- HN:49461862:end --><!-- HN:49462779:start -->
+* [49462779](https://news.social-protocols.org/stats?id=49462779) #17 -> [YC Partner H-1B Comments Spark Controversy](https://www.ababnews.com/news/a626cd7e-5749-414f-a159-d204f221e2be)<!-- HN:49462779:end -->
