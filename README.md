@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, August 28, 2026**
 <!-- HN:49470949:start -->
 * [49470949](https://news.social-protocols.org/stats?id=49470949) #20 127 points 26 comments -> [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/)<!-- HN:49470949:end --><!-- HN:49473982:start -->
-* [49473982](https://news.social-protocols.org/stats?id=49473982) #6 7 points 0 comments -> [CSV merger that lines up mismatched columns by header, browser-only](https://usefiletools.com/data/merge-csv/)<!-- HN:49473982:end -->
+* [49473982](https://news.social-protocols.org/stats?id=49473982) #6 7 points 0 comments -> [CSV merger that lines up mismatched columns by header, browser-only](https://usefiletools.com/data/merge-csv/)<!-- HN:49473982:end --><!-- HN:49474572:start -->
+* [49474572](https://news.social-protocols.org/stats?id=49474572) #30 6 points 0 comments -> [Lake America? Spare Us](https://www.nationalreview.com/corner/lake-america-spare-us/)<!-- HN:49474572:end -->
