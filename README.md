@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49467702](https://news.social-protocols.org/stats?id=49467702) #24 28 points 9 comments -> [Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)<!-- HN:49467702:end --><!-- HN:49468945:start -->
 * [49468945](https://news.social-protocols.org/stats?id=49468945) #13 8 points 1 comments -> [I measured what my Claude.md, skills and hooks are worth](https://github.com/jameskomo/config-drift-checker)<!-- HN:49468945:end --><!-- HN:49469134:start -->
 * [49469134](https://news.social-protocols.org/stats?id=49469134) #22 21 points 5 comments -> [Y Combinator's Ankit Gupta faces backlash over H-1B comments](https://americanbazaaronline.com/2026/08/27/y-combinators-ankit-gupta-faces-backlash-over-h-1b-comments-487099/)<!-- HN:49469134:end -->
+#### **Friday, August 28, 2026**
+<!-- HN:49470949:start -->
+* [49470949](https://news.social-protocols.org/stats?id=49470949) #20 127 points 26 comments -> [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/)<!-- HN:49470949:end -->
