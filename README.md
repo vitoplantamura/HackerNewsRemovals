@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 21, 2026**
-<!-- HN:49328758:start -->
-* [49328758](https://news.social-protocols.org/stats?id=49328758) #21 8 points 5 comments -> [My Microscope Is a Dashcam](https://xecaz.com/reverse.engineering/tomlovdm9/)<!-- HN:49328758:end --><!-- HN:49321581:start -->
-* [49321581](https://news.social-protocols.org/stats?id=49321581) #19 4 points 0 comments -> [The Quora Collapse](https://www.harperflow.io/dead-internet/quora-collapse)<!-- HN:49321581:end --><!-- HN:49386884:start -->
-* [49386884](https://news.social-protocols.org/stats?id=49386884) #28 7 points 1 comments -> [If Your New People Are on X, Maybe Your New People Suck](https://coyotetracks.org/blog/new-people-on-x/)<!-- HN:49386884:end --><!-- HN:49387059:start -->
-* [49387059](https://news.social-protocols.org/stats?id=49387059) #18 12 points 2 comments -> [AI;DR or Don't be a meat proxy](https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/)<!-- HN:49387059:end --><!-- HN:49388288:start -->
-* [49388288](https://news.social-protocols.org/stats?id=49388288) #11 14 points 2 comments -> [Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest](https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/)<!-- HN:49388288:end --><!-- HN:49389948:start -->
-* [49389948](https://news.social-protocols.org/stats?id=49389948) #28 5 points 1 comments -> [Flagwars.lol](https://www.flagwars.lol)<!-- HN:49389948:end --><!-- HN:49389912:start -->
-* [49389912](https://news.social-protocols.org/stats?id=49389912) #18 6 points 2 comments -> [My AI agents kept trying to cross red lines, so I wrote them a constitution](https://github.com/Chong169/a-constitution-for-one)<!-- HN:49389912:end --><!-- HN:49389861:start -->
-* [49389861](https://news.social-protocols.org/stats?id=49389861) #22 7 points 7 comments -> [Every shape can be cut exactly in half with one straight line](https://bisecto.com/every-shape-can-be-cut-in-half.html)<!-- HN:49389861:end --><!-- HN:49385994:start -->
-* [49385994](https://news.social-protocols.org/stats?id=49385994) #2 689 points 2 comments -> [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)<!-- HN:49385994:end --><!-- HN:49389565:start -->
-* [49389565](https://news.social-protocols.org/stats?id=49389565) #18 163 points 118 comments -> [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](https://canews24.online/?p=71)<!-- HN:49389565:end --><!-- HN:49386659:start -->
-* [49386659](https://news.social-protocols.org/stats?id=49386659) #22 122 points 39 comments -> [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)<!-- HN:49386659:end --><!-- HN:49392179:start -->
-* [49392179](https://news.social-protocols.org/stats?id=49392179) #24 4 points 0 comments -> [A look under our trunk: what's in our compute of Waymo taxis](https://waymo.com/blog/2026/08/look-under-our-trunk/)<!-- HN:49392179:end --><!-- HN:49392449:start -->
-* [49392449](https://news.social-protocols.org/stats?id=49392449) #30 6 points 7 comments -> [Death to the Self-Playing Game](https://www.jank.cool/death-to-the-self-playing-game/)<!-- HN:49392449:end -->
 #### **Saturday, August 22, 2026**
 <!-- HN:49394985:start -->
 * [49394985](https://news.social-protocols.org/stats?id=49394985) #9 26 points 35 comments -> [Electric shock gloves in use by police departments in Bellevue, Omaha](https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/)<!-- HN:49394985:end --><!-- HN:49392654:start -->
