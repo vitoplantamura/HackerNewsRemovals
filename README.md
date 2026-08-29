@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 22, 2026**
-<!-- HN:49394985:start -->
-* [49394985](https://news.social-protocols.org/stats?id=49394985) #9 26 points 35 comments -> [Electric shock gloves in use by police departments in Bellevue, Omaha](https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/)<!-- HN:49394985:end --><!-- HN:49392654:start -->
-* [49392654](https://news.social-protocols.org/stats?id=49392654) #22 28 points 6 comments -> [Rust Glancer](https://matklad.github.io/2026/08/21/rust-glancer.html)<!-- HN:49392654:end --><!-- HN:49395663:start -->
-* [49395663](https://news.social-protocols.org/stats?id=49395663) #12 12 points 2 comments -> [US Debt-to-GDP Ratio](https://www.us-debt-clock.com/debt-to-gdp)<!-- HN:49395663:end --><!-- HN:49401567:start -->
-* [49401567](https://news.social-protocols.org/stats?id=49401567) #3 8 points 2 comments -> [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)<!-- HN:49401567:end --><!-- HN:49398304:start -->
-* [49398304](https://news.social-protocols.org/stats?id=49398304) #11 658 points 1 comments -> [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)<!-- HN:49398304:end --><!-- HN:49403484:start -->
-* [49403484](https://news.social-protocols.org/stats?id=49403484) #14 17 points 6 comments -> [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)<!-- HN:49403484:end --><!-- HN:49403228:start -->
-* [49403228](https://news.social-protocols.org/stats?id=49403228) #28 17 points 10 comments -> [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)<!-- HN:49403228:end -->
 #### **Sunday, August 23, 2026**<!-- HN:49406021:start -->
 * [49406021](https://news.social-protocols.org/stats?id=49406021) #19 8 points 0 comments -> [The Covid-19 scandal is still unfolding](https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding)<!-- HN:49406021:end --><!-- HN:49410074:start -->
 * [49410074](https://news.social-protocols.org/stats?id=49410074) #10 21 points 8 comments -> [Being nude in public can make us feel better about our bodies](https://www.bbc.com/future/article/20260820-how-social-nudity-can-boost-your-body-image)<!-- HN:49410074:end --><!-- HN:49410097:start -->
