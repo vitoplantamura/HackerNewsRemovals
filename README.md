@@ -150,3 +150,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49491447](https://news.social-protocols.org/stats?id=49491447) #25 6 points 0 comments -> [I hate AI images and music](https://mat.leaflet.pub/3mu35coarbs2o)<!-- HN:49491447:end --><!-- HN:49493660:start -->
 * [49493660](https://news.social-protocols.org/stats?id=49493660) #30 18 points 2 comments -> [Palestinian woman and NBC News team attacked by masked Israeli settlers](https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024)<!-- HN:49493660:end --><!-- HN:49491544:start -->
 * [49491544](https://news.social-protocols.org/stats?id=49491544) #20 38 points 40 comments -> [A better SQL in 11 lines of code](https://prela-lang.org/tutorial/)<!-- HN:49491544:end -->
+#### **Sunday, August 30, 2026**
+<!-- HN:49494023:start -->
+* [49494023](https://news.social-protocols.org/stats?id=49494023) #26 12 points 5 comments -> [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)<!-- HN:49494023:end -->
