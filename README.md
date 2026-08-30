@@ -142,4 +142,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, August 30, 2026**
 <!-- HN:49494023:start -->
 * [49494023](https://news.social-protocols.org/stats?id=49494023) #26 12 points 5 comments -> [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)<!-- HN:49494023:end --><!-- HN:49494212:start -->
-* [49494212](https://news.social-protocols.org/stats?id=49494212) #28 18 points 2 comments -> [Police departments weren’t looking for Flock abuse. We did it for them.](https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/)<!-- HN:49494212:end -->
+* [49494212](https://news.social-protocols.org/stats?id=49494212) #28 18 points 2 comments -> [Police departments weren’t looking for Flock abuse. We did it for them.](https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/)<!-- HN:49494212:end --><!-- HN:49494049:start -->
+* [49494049](https://news.social-protocols.org/stats?id=49494049) #30 4 points 0 comments -> [PCSX2 2.8.0 is now out This release is PACKED](https://pcsx2.net/blog/2026/pcsx2-2.8/)<!-- HN:49494049:end -->
