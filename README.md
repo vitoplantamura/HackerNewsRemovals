@@ -152,4 +152,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49491544](https://news.social-protocols.org/stats?id=49491544) #20 38 points 40 comments -> [A better SQL in 11 lines of code](https://prela-lang.org/tutorial/)<!-- HN:49491544:end -->
 #### **Sunday, August 30, 2026**
 <!-- HN:49494023:start -->
-* [49494023](https://news.social-protocols.org/stats?id=49494023) #26 12 points 5 comments -> [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)<!-- HN:49494023:end -->
+* [49494023](https://news.social-protocols.org/stats?id=49494023) #26 12 points 5 comments -> [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)<!-- HN:49494023:end --><!-- HN:49494212:start -->
+* [49494212](https://news.social-protocols.org/stats?id=49494212) #28 18 points 2 comments -> [Police departments weren’t looking for Flock abuse. We did it for them.](https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/)<!-- HN:49494212:end -->
