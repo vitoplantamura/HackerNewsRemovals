@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49514454](https://news.social-protocols.org/stats?id=49514454) #5 -> [The river of Apple's interface guidelines](https://hig.josefrichter.design/)<!-- HN:49514454:end -->
 #### **Tuesday, September 1, 2026**
 <!-- HN:49517420:start -->
-* [49517420](https://news.social-protocols.org/stats?id=49517420) #3 61 points 4 comments -> [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)<!-- HN:49517420:end -->
+* [49517420](https://news.social-protocols.org/stats?id=49517420) #3 61 points 4 comments -> [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)<!-- HN:49517420:end --><!-- HN:49517483:start -->
+* [49517483](https://news.social-protocols.org/stats?id=49517483) #10 20 points 0 comments -> [Is MCP Good Yet?](https://ismcpgoodyet.com)<!-- HN:49517483:end -->
