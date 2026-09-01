@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 1, 2026**
 <!-- HN:49517420:start -->
 * [49517420](https://news.social-protocols.org/stats?id=49517420) #3 61 points 4 comments -> [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)<!-- HN:49517420:end --><!-- HN:49517483:start -->
-* [49517483](https://news.social-protocols.org/stats?id=49517483) #10 20 points 0 comments -> [Is MCP Good Yet?](https://ismcpgoodyet.com)<!-- HN:49517483:end -->
+* [49517483](https://news.social-protocols.org/stats?id=49517483) #10 20 points 0 comments -> [Is MCP Good Yet?](https://ismcpgoodyet.com)<!-- HN:49517483:end --><!-- HN:49518078:start -->
+* [49518078](https://news.social-protocols.org/stats?id=49518078) #26 3 points 0 comments -> [Google Ads vs. Facebook Ads: Which Is Better for Small Businesses?](https://www.hostiqen.com/2026/08/google-ads-vs-facebook-ads-which-is.html)<!-- HN:49518078:end -->
