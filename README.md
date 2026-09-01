@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, August 25, 2026**
-<!-- HN:49427825:start -->
-* [49427825](https://news.social-protocols.org/stats?id=49427825) #30 11 points 2 comments -> [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)<!-- HN:49427825:end --><!-- HN:49429345:start -->
-* [49429345](https://news.social-protocols.org/stats?id=49429345) #12 -> [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)<!-- HN:49429345:end --><!-- HN:49431119:start -->
-* [49431119](https://news.social-protocols.org/stats?id=49431119) #10 9 points 6 comments -> [Ox Alpha – A mysterious new AI model](https://oxalpha.com)<!-- HN:49431119:end --><!-- HN:49433372:start -->
-* [49433372](https://news.social-protocols.org/stats?id=49433372) #23 48 points 91 comments -> [US data centers tripled annual water consumption to 17B gallons](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)<!-- HN:49433372:end --><!-- HN:49433759:start -->
-* [49433759](https://news.social-protocols.org/stats?id=49433759) #23 25 points 40 comments -> [The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)<!-- HN:49433759:end --><!-- HN:49433064:start -->
-* [49433064](https://news.social-protocols.org/stats?id=49433064) #5 109 points 50 comments -> [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)<!-- HN:49433064:end --><!-- HN:49436556:start -->
-* [49436556](https://news.social-protocols.org/stats?id=49436556) #8 3 points 0 comments -> [Why iPhone App Blockers Are Harder to Build Than They Look](https://usefella.com/blog/how-iphone-app-blockers-work/)<!-- HN:49436556:end --><!-- HN:49436536:start -->
-* [49436536](https://news.social-protocols.org/stats?id=49436536) #11 20 points 43 comments -> [Anthropic Sees over $30T in Potential Revenue](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)<!-- HN:49436536:end --><!-- HN:49438178:start -->
-* [49438178](https://news.social-protocols.org/stats?id=49438178) #27 7 points 1 comments -> [Dolly Parton, queen of country music and humanitarian hero, dead at 80](https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death)<!-- HN:49438178:end --><!-- HN:49438407:start -->
-* [49438407](https://news.social-protocols.org/stats?id=49438407) #30 7 points 1 comments -> [A Message from the Family of Dolly Parton](https://www.instagram.com/reel/DceNXgPJyZ9/)<!-- HN:49438407:end --><!-- HN:49438492:start -->
-* [49438492](https://news.social-protocols.org/stats?id=49438492) #25 45 points 9 comments -> [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)<!-- HN:49438492:end --><!-- HN:49439535:start -->
-* [49439535](https://news.social-protocols.org/stats?id=49439535) #28 17 points 13 comments -> [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)<!-- HN:49439535:end -->
 #### **Wednesday, August 26, 2026**
 <!-- HN:49444661:start -->
 * [49444661](https://news.social-protocols.org/stats?id=49444661) #17 3 points 0 comments -> [Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth](https://www.apple.com/mac-studio/)<!-- HN:49444661:end --><!-- HN:49445787:start -->
