@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49510612](https://news.social-protocols.org/stats?id=49510612) #14 18 points 3 comments -> [Agentic Trust Controls](https://trustcontrols.ai/)<!-- HN:49510612:end --><!-- HN:49512789:start -->
 * [49512789](https://news.social-protocols.org/stats?id=49512789) #30 73 points 62 comments -> [Student Teacher Arrested for Private Snapchat Message](https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school)<!-- HN:49512789:end --><!-- HN:49514454:start -->
 * [49514454](https://news.social-protocols.org/stats?id=49514454) #5 -> [The river of Apple's interface guidelines](https://hig.josefrichter.design/)<!-- HN:49514454:end -->
+#### **Tuesday, September 1, 2026**
+<!-- HN:49517420:start -->
+* [49517420](https://news.social-protocols.org/stats?id=49517420) #3 61 points 4 comments -> [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)<!-- HN:49517420:end -->
