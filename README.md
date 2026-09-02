@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49523101](https://news.social-protocols.org/stats?id=49523101) #18 -> [Christian Employers Can Now Discriminate Against Trans People](https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/)<!-- HN:49523101:end --><!-- HN:49525576:start -->
 * [49525576](https://news.social-protocols.org/stats?id=49525576) #7 14 points 0 comments -> [Fable 5.1 System Card](https://www.anthropic.com/document/claude-fable-5-1-mythos-5-1-system-card)<!-- HN:49525576:end --><!-- HN:49525496:start -->
 * [49525496](https://news.social-protocols.org/stats?id=49525496) #7 65 points 11 comments -> [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)<!-- HN:49525496:end -->
+#### **Wednesday, September 2, 2026**
+<!-- HN:49448019:start -->
+* [49448019](https://news.social-protocols.org/stats?id=49448019) #29 52 points 11 comments -> [Specifications Don't Exist](https://www.galois.com/articles/specifications-dont-exist)<!-- HN:49448019:end -->
