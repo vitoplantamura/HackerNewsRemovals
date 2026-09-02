@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 2, 2026**
 <!-- HN:49448019:start -->
 * [49448019](https://news.social-protocols.org/stats?id=49448019) #29 52 points 11 comments -> [Specifications Don't Exist](https://www.galois.com/articles/specifications-dont-exist)<!-- HN:49448019:end --><!-- HN:49530472:start -->
-* [49530472](https://news.social-protocols.org/stats?id=49530472) #8 43 points 11 comments -> [Claude Fable 5.1 made me a nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)<!-- HN:49530472:end -->
+* [49530472](https://news.social-protocols.org/stats?id=49530472) #8 43 points 11 comments -> [Claude Fable 5.1 made me a nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)<!-- HN:49530472:end --><!-- HN:49533743:start -->
+* [49533743](https://news.social-protocols.org/stats?id=49533743) #23 5 points 8 comments -> [Draft Punk – The Campaign for Alive 2027 – Alive2027.com](https://alive2027.com/)<!-- HN:49533743:end -->
