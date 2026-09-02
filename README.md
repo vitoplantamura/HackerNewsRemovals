@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49525496](https://news.social-protocols.org/stats?id=49525496) #7 65 points 11 comments -> [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)<!-- HN:49525496:end -->
 #### **Wednesday, September 2, 2026**
 <!-- HN:49448019:start -->
-* [49448019](https://news.social-protocols.org/stats?id=49448019) #29 52 points 11 comments -> [Specifications Don't Exist](https://www.galois.com/articles/specifications-dont-exist)<!-- HN:49448019:end -->
+* [49448019](https://news.social-protocols.org/stats?id=49448019) #29 52 points 11 comments -> [Specifications Don't Exist](https://www.galois.com/articles/specifications-dont-exist)<!-- HN:49448019:end --><!-- HN:49530472:start -->
+* [49530472](https://news.social-protocols.org/stats?id=49530472) #8 43 points 11 comments -> [Claude Fable 5.1 made me a nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)<!-- HN:49530472:end -->
