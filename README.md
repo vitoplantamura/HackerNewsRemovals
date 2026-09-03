@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49543617](https://news.social-protocols.org/stats?id=49543617) #14 7 points 3 comments -> [Show HN: Every AI agrees with you. This writes your startup's obituary instead](https://theyfell.com/)<!-- HN:49543617:end -->
 #### **Thursday, September 3, 2026**<!-- HN:49545547:start -->
 * [49545547](https://news.social-protocols.org/stats?id=49545547) #9 12 points 25 comments -> [Wk. 6 of Vibecoding an MMO](https://eldermyr.com/)<!-- HN:49545547:end --><!-- HN:49491815:start -->
-* [49491815](https://news.social-protocols.org/stats?id=49491815) #13 8 points 5 comments -> [How I turned Granola action items into to-do list](https://runnrr.io)<!-- HN:49491815:end -->
+* [49491815](https://news.social-protocols.org/stats?id=49491815) #13 8 points 5 comments -> [How I turned Granola action items into to-do list](https://runnrr.io)<!-- HN:49491815:end --><!-- HN:49547073:start -->
+* [49547073](https://news.social-protocols.org/stats?id=49547073) #23 10 points 1 comments -> [No–AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware](https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret)<!-- HN:49547073:end -->
