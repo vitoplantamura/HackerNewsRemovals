@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49540297](https://news.social-protocols.org/stats?id=49540297) #12 15 points 42 comments -> [Why do so many tools have JSON config files?](https://textlog.cc/post/895)<!-- HN:49540297:end --><!-- HN:49541149:start -->
 * [49541149](https://news.social-protocols.org/stats?id=49541149) #24 62 points 2 comments -> [Introducing Muse Spark 1.3](https://research.meta.ai/blog/introducing-muse-spark-1-3)<!-- HN:49541149:end --><!-- HN:49543617:start -->
 * [49543617](https://news.social-protocols.org/stats?id=49543617) #14 7 points 3 comments -> [Show HN: Every AI agrees with you. This writes your startup's obituary instead](https://theyfell.com/)<!-- HN:49543617:end -->
-#### **Thursday, September 3, 2026**
+#### **Thursday, September 3, 2026**<!-- HN:49545547:start -->
+* [49545547](https://news.social-protocols.org/stats?id=49545547) #9 12 points 25 comments -> [Wk. 6 of Vibecoding an MMO](https://eldermyr.com/)<!-- HN:49545547:end -->
