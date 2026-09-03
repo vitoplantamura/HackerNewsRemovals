@@ -134,5 +134,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49541149](https://news.social-protocols.org/stats?id=49541149) #24 62 points 2 comments -> [Introducing Muse Spark 1.3](https://research.meta.ai/blog/introducing-muse-spark-1-3)<!-- HN:49541149:end --><!-- HN:49543617:start -->
 * [49543617](https://news.social-protocols.org/stats?id=49543617) #14 7 points 3 comments -> [Show HN: Every AI agrees with you. This writes your startup's obituary instead](https://theyfell.com/)<!-- HN:49543617:end -->
 #### **Thursday, September 3, 2026**
-<!-- HN:49544226:start -->
-* [49544226](https://news.social-protocols.org/stats?id=49544226) #13 22 points 15 comments -> [Reflections on Americans' Net Worth](https://www.betonit.ai/p/reflections-on-americans-net-worth)<!-- HN:49544226:end -->
