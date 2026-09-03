@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 3, 2026**<!-- HN:49545547:start -->
 * [49545547](https://news.social-protocols.org/stats?id=49545547) #9 12 points 25 comments -> [Wk. 6 of Vibecoding an MMO](https://eldermyr.com/)<!-- HN:49545547:end --><!-- HN:49491815:start -->
 * [49491815](https://news.social-protocols.org/stats?id=49491815) #13 8 points 5 comments -> [How I turned Granola action items into to-do list](https://runnrr.io)<!-- HN:49491815:end --><!-- HN:49547681:start -->
-* [49547681](https://news.social-protocols.org/stats?id=49547681) #17 26 points 2 comments -> [Your Racist Linux Distro Is Very Nice (Scott Jennings)](https://www.brokentoys.org/your-racist-linux-distro-is-very-nice/)<!-- HN:49547681:end -->
+* [49547681](https://news.social-protocols.org/stats?id=49547681) #17 26 points 2 comments -> [Your Racist Linux Distro Is Very Nice (Scott Jennings)](https://www.brokentoys.org/your-racist-linux-distro-is-very-nice/)<!-- HN:49547681:end --><!-- HN:49548285:start -->
+* [49548285](https://news.social-protocols.org/stats?id=49548285) #4 9 points 2 comments -> [WASM_OS, an operating-system experiment that runs inside a browser tab](https://wasmos-production.up.railway.app)<!-- HN:49548285:end -->
