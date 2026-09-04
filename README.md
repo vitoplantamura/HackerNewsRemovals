@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49548497](https://news.social-protocols.org/stats?id=49548497) #20 18 points 40 comments -> [Mark Cuban: Why US hospitals "don't know their costs"](https://www.beckershospitalreview.com/finance/mark-cuban-why-us-hospitals-dont-know-their-costs/)<!-- HN:49548497:end --><!-- HN:49554370:start -->
 * [49554370](https://news.social-protocols.org/stats?id=49554370) #12 -> [GPT-6-Astra](https://openai.com/index/gpt-6-astra/)<!-- HN:49554370:end --><!-- HN:49554316:start -->
 * [49554316](https://news.social-protocols.org/stats?id=49554316) #25 -> [Never Forget How Eagerly Apple and Google Coddled Fascism](https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/)<!-- HN:49554316:end -->
+#### **Friday, September 4, 2026**
+<!-- HN:49559182:start -->
+* [49559182](https://news.social-protocols.org/stats?id=49559182) #6 28 points 18 comments -> [1Password Replied to My Disappointment](https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/)<!-- HN:49559182:end -->
