@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 4, 2026**
 <!-- HN:49559182:start -->
 * [49559182](https://news.social-protocols.org/stats?id=49559182) #6 28 points 18 comments -> [1Password Replied to My Disappointment](https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/)<!-- HN:49559182:end --><!-- HN:49561670:start -->
-* [49561670](https://news.social-protocols.org/stats?id=49561670) #22 -> [The phrase that ruins every eCommerce project: "Just connect it to our ERP."](https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/)<!-- HN:49561670:end -->
+* [49561670](https://news.social-protocols.org/stats?id=49561670) #22 -> [The phrase that ruins every eCommerce project: "Just connect it to our ERP."](https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/)<!-- HN:49561670:end --><!-- HN:49564960:start -->
+* [49564960](https://news.social-protocols.org/stats?id=49564960) #16 55 points 45 comments -> [Burnt out on a three-day week](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)<!-- HN:49564960:end -->
