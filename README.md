@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49554316](https://news.social-protocols.org/stats?id=49554316) #25 -> [Never Forget How Eagerly Apple and Google Coddled Fascism](https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/)<!-- HN:49554316:end -->
 #### **Friday, September 4, 2026**
 <!-- HN:49559182:start -->
-* [49559182](https://news.social-protocols.org/stats?id=49559182) #6 28 points 18 comments -> [1Password Replied to My Disappointment](https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/)<!-- HN:49559182:end -->
+* [49559182](https://news.social-protocols.org/stats?id=49559182) #6 28 points 18 comments -> [1Password Replied to My Disappointment](https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/)<!-- HN:49559182:end --><!-- HN:49561670:start -->
+* [49561670](https://news.social-protocols.org/stats?id=49561670) #22 -> [The phrase that ruins every eCommerce project: "Just connect it to our ERP."](https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/)<!-- HN:49561670:end -->
