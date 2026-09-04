@@ -43,25 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, August 28, 2026**
-<!-- HN:49470949:start -->
-* [49470949](https://news.social-protocols.org/stats?id=49470949) #20 127 points 26 comments -> [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/)<!-- HN:49470949:end --><!-- HN:49473982:start -->
-* [49473982](https://news.social-protocols.org/stats?id=49473982) #6 7 points 0 comments -> [CSV merger that lines up mismatched columns by header, browser-only](https://usefiletools.com/data/merge-csv/)<!-- HN:49473982:end --><!-- HN:49474572:start -->
-* [49474572](https://news.social-protocols.org/stats?id=49474572) #30 6 points 0 comments -> [Lake America? Spare Us](https://www.nationalreview.com/corner/lake-america-spare-us/)<!-- HN:49474572:end --><!-- HN:49474703:start -->
-* [49474703](https://news.social-protocols.org/stats?id=49474703) #30 6 points 0 comments -> [The Unwelcoming States of America](https://www.economist.com/leaders/2026/08/27/the-unwelcoming-states-of-america)<!-- HN:49474703:end --><!-- HN:49474605:start -->
-* [49474605](https://news.social-protocols.org/stats?id=49474605) #18 7 points 6 comments -> [We will need more (not fewer) scientists](https://blog.valency.io/posts/we-need-more-scientists)<!-- HN:49474605:end --><!-- HN:49471714:start -->
-* [49471714](https://news.social-protocols.org/stats?id=49471714) #23 110 points 13 comments -> [AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab](https://github.com/calmrocks/ai-engineer-notebooks)<!-- HN:49471714:end --><!-- HN:49476278:start -->
-* [49476278](https://news.social-protocols.org/stats?id=49476278) #12 10 points 0 comments -> [I Cut 80%+ of Context Overhead in My Coding Agent](https://m-reschreiter.at/en/blog/how-i-cut-80-percent-context-overhead-dynamic-tools)<!-- HN:49476278:end --><!-- HN:49476929:start -->
-* [49476929](https://news.social-protocols.org/stats?id=49476929) #24 9 points 1 comments -> [South Korea's 'AI for All' Push Gives Free Access to Every Citizen](https://www.wsj.com/tech/ai/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-451f6b2c)<!-- HN:49476929:end --><!-- HN:49477683:start -->
-* [49477683](https://news.social-protocols.org/stats?id=49477683) #14 3 points 3 comments -> [Teleport: Pack an agent session, resume it anywhere on any harness](https://github.com/sisig-ai/teleport)<!-- HN:49477683:end --><!-- HN:49477428:start -->
-* [49477428](https://news.social-protocols.org/stats?id=49477428) #21 9 points 6 comments -> [What Running Kafka on VMs Taught Us About Systems Thinking](https://engineering.moniepoint.com/what-running-kafka-on-vms-taught-us-about-systems-thinking)<!-- HN:49477428:end --><!-- HN:49477530:start -->
-* [49477530](https://news.social-protocols.org/stats?id=49477530) #21 14 points 4 comments -> [Show HN: Talos – An AI agent with a permission kernel between model and shell](https://talos-agent.ch/)<!-- HN:49477530:end --><!-- HN:49478525:start -->
-* [49478525](https://news.social-protocols.org/stats?id=49478525) #10 9 points 0 comments -> [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-00/?p=112617)<!-- HN:49478525:end --><!-- HN:49477055:start -->
-* [49477055](https://news.social-protocols.org/stats?id=49477055) #24 312 points 3 comments -> [Pentagon's blacklisting of Anthropic was unlawful, US judge rules](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)<!-- HN:49477055:end --><!-- HN:49481679:start -->
-* [49481679](https://news.social-protocols.org/stats?id=49481679) #21 4 points 2 comments -> [Show HN: I'm auctioning 12 laser-etched logo spots on my next MacBook](https://lidbrand.com)<!-- HN:49481679:end --><!-- HN:49481689:start -->
-* [49481689](https://news.social-protocols.org/stats?id=49481689) #14 13 points 3 comments -> [I Design with AI](https://ref.tools/blog/how-i-design-with-ai)<!-- HN:49481689:end --><!-- HN:49483248:start -->
-* [49483248](https://news.social-protocols.org/stats?id=49483248) #11 27 points 29 comments -> [The OG Creator of Task Manager on Windows Built a New Task Manager](https://tmog.org)<!-- HN:49483248:end --><!-- HN:49483182:start -->
-* [49483182](https://news.social-protocols.org/stats?id=49483182) #7 186 points 148 comments -> [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)<!-- HN:49483182:end -->
 #### **Saturday, August 29, 2026**
 <!-- HN:49486805:start -->
 * [49486805](https://news.social-protocols.org/stats?id=49486805) #30 24 points 9 comments -> [Twitterwebviewer.com Service Discontinued](https://twitterwebviewer.com/?)<!-- HN:49486805:end --><!-- HN:49487506:start -->
