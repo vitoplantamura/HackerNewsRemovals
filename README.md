@@ -121,5 +121,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49569088](https://news.social-protocols.org/stats?id=49569088) #17 6 points 4 comments -> [UN approves resolution in support of map that shows Africa's true size](https://www.reuters.com/world/africa/un-approves-resolution-support-map-that-shows-africas-true-size-2026-09-04/)<!-- HN:49569088:end -->
 #### **Saturday, September 5, 2026**
 <!-- HN:49571038:start -->
-* [49571038](https://news.social-protocols.org/stats?id=49571038) #30 13 points 11 comments -> [Christmas Village shoppers no longer will be allowed to enter booths](https://www.phillyvoice.com/christmas-village-booths-ada-compliance/)<!-- HN:49571038:end --><!-- HN:49571634:start -->
-* [49571634](https://news.social-protocols.org/stats?id=49571634) #20 14 points 1 comments -> [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)<!-- HN:49571634:end -->
+* [49571038](https://news.social-protocols.org/stats?id=49571038) #30 13 points 11 comments -> [Christmas Village shoppers no longer will be allowed to enter booths](https://www.phillyvoice.com/christmas-village-booths-ada-compliance/)<!-- HN:49571038:end -->
