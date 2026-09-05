@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, August 29, 2026**
-<!-- HN:49486805:start -->
-* [49486805](https://news.social-protocols.org/stats?id=49486805) #30 24 points 9 comments -> [Twitterwebviewer.com Service Discontinued](https://twitterwebviewer.com/?)<!-- HN:49486805:end --><!-- HN:49487506:start -->
-* [49487506](https://news.social-protocols.org/stats?id=49487506) #12 24 points 13 comments -> [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)<!-- HN:49487506:end --><!-- HN:49489504:start -->
-* [49489504](https://news.social-protocols.org/stats?id=49489504) #2 5 points 2 comments -> [POWBlock is a universal bot/DDoS defense primitive for any server](https://github.com/8Protons/POWBlock)<!-- HN:49489504:end --><!-- HN:49489864:start -->
-* [49489864](https://news.social-protocols.org/stats?id=49489864) #12 15 points 3 comments -> [I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/)<!-- HN:49489864:end --><!-- HN:49491282:start -->
-* [49491282](https://news.social-protocols.org/stats?id=49491282) #24 21 points 5 comments -> [Claude permanently raising weekly limits by 25%](https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424)<!-- HN:49491282:end --><!-- HN:49491447:start -->
-* [49491447](https://news.social-protocols.org/stats?id=49491447) #25 6 points 0 comments -> [I hate AI images and music](https://mat.leaflet.pub/3mu35coarbs2o)<!-- HN:49491447:end --><!-- HN:49493660:start -->
-* [49493660](https://news.social-protocols.org/stats?id=49493660) #30 18 points 2 comments -> [Palestinian woman and NBC News team attacked by masked Israeli settlers](https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024)<!-- HN:49493660:end --><!-- HN:49491544:start -->
-* [49491544](https://news.social-protocols.org/stats?id=49491544) #20 38 points 40 comments -> [A better SQL in 11 lines of code](https://prela-lang.org/tutorial/)<!-- HN:49491544:end -->
 #### **Sunday, August 30, 2026**
 <!-- HN:49494023:start -->
 * [49494023](https://news.social-protocols.org/stats?id=49494023) #26 12 points 5 comments -> [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)<!-- HN:49494023:end --><!-- HN:49494212:start -->
