@@ -122,5 +122,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, September 5, 2026**
 <!-- HN:49571038:start -->
 * [49571038](https://news.social-protocols.org/stats?id=49571038) #30 13 points 11 comments -> [Christmas Village shoppers no longer will be allowed to enter booths](https://www.phillyvoice.com/christmas-village-booths-ada-compliance/)<!-- HN:49571038:end --><!-- HN:49513822:start -->
-* [49513822](https://news.social-protocols.org/stats?id=49513822) #6 14 points 0 comments -> [Things I Won't Work With: Straight Dimethyl Zinc](https://www.science.org/content/blog-post/things-i-won-t-work-straight-dimethyl-zinc)<!-- HN:49513822:end --><!-- HN:49577244:start -->
-* [49577244](https://news.social-protocols.org/stats?id=49577244) #2 15 points 6 comments -> [Poetry book that Anthropic tried to censor](https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor/)<!-- HN:49577244:end -->
+* [49513822](https://news.social-protocols.org/stats?id=49513822) #6 14 points 0 comments -> [Things I Won't Work With: Straight Dimethyl Zinc](https://www.science.org/content/blog-post/things-i-won-t-work-straight-dimethyl-zinc)<!-- HN:49513822:end -->
