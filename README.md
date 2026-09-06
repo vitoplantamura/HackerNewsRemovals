@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49577244](https://news.social-protocols.org/stats?id=49577244) #10 24 points 11 comments -> [Poetry book that Anthropic tried to censor](https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor/)<!-- HN:49577244:end --><!-- HN:49578136:start -->
 * [49578136](https://news.social-protocols.org/stats?id=49578136) #14 25 points 40 comments -> [Bob and Van](https://marco.org/2026/09/04/bob-and-van)<!-- HN:49578136:end --><!-- HN:49580702:start -->
 * [49580702](https://news.social-protocols.org/stats?id=49580702) #11 21 points 15 comments -> [Lazygit](https://lazygit.dev/)<!-- HN:49580702:end -->
+#### **Sunday, September 6, 2026**
+<!-- HN:49580687:start -->
+* [49580687](https://news.social-protocols.org/stats?id=49580687) #8 29 points 41 comments -> [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)<!-- HN:49580687:end -->
