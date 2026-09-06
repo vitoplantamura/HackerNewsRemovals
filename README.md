@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49580687:start -->
 * [49580687](https://news.social-protocols.org/stats?id=49580687) #8 29 points 41 comments -> [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)<!-- HN:49580687:end --><!-- HN:49554154:start -->
 * [49554154](https://news.social-protocols.org/stats?id=49554154) #18 20 points 9 comments -> [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)<!-- HN:49554154:end --><!-- HN:49582410:start -->
-* [49582410](https://news.social-protocols.org/stats?id=49582410) #28 23 points 41 comments -> [Gateside by TSA Precheck](https://www.tsa.gov/precheck/gateside-tsa-precheck)<!-- HN:49582410:end -->
+* [49582410](https://news.social-protocols.org/stats?id=49582410) #28 23 points 41 comments -> [Gateside by TSA Precheck](https://www.tsa.gov/precheck/gateside-tsa-precheck)<!-- HN:49582410:end --><!-- HN:49583144:start -->
+* [49583144](https://news.social-protocols.org/stats?id=49583144) #30 28 points 4 comments -> [Trump signs order to remove endangered species protection for grey wolves](https://www.bbc.com/news/articles/c62k677d4lzo)<!-- HN:49583144:end -->
