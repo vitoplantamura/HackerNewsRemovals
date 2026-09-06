@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49580702](https://news.social-protocols.org/stats?id=49580702) #11 21 points 15 comments -> [Lazygit](https://lazygit.dev/)<!-- HN:49580702:end -->
 #### **Sunday, September 6, 2026**
 <!-- HN:49580687:start -->
-* [49580687](https://news.social-protocols.org/stats?id=49580687) #8 29 points 41 comments -> [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)<!-- HN:49580687:end -->
+* [49580687](https://news.social-protocols.org/stats?id=49580687) #8 29 points 41 comments -> [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)<!-- HN:49580687:end --><!-- HN:49554154:start -->
+* [49554154](https://news.social-protocols.org/stats?id=49554154) #18 20 points 9 comments -> [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)<!-- HN:49554154:end -->
