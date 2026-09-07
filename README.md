@@ -129,3 +129,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49590351](https://news.social-protocols.org/stats?id=49590351) #9 6 points 3 comments -> [Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity](https://github.com/mmeyerlein/meclaw)<!-- HN:49590351:end --><!-- HN:49590129:start -->
 * [49590129](https://news.social-protocols.org/stats?id=49590129) #25 30 points 40 comments -> [There Gonna Be a Shortage of Everything](https://out-of-hell.xylon.me.uk/shortage.html)<!-- HN:49590129:end --><!-- HN:49590455:start -->
 * [49590455](https://news.social-protocols.org/stats?id=49590455) #20 11 points 4 comments -> [Human archive: They were only human](https://sayyss.github.io/human-archive/)<!-- HN:49590455:end -->
+#### **Monday, September 7, 2026**
+<!-- HN:49592094:start -->
+* [49592094](https://news.social-protocols.org/stats?id=49592094) #7 20 points 13 comments -> [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)<!-- HN:49592094:end -->
