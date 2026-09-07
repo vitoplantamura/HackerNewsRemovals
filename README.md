@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49590455](https://news.social-protocols.org/stats?id=49590455) #20 11 points 4 comments -> [Human archive: They were only human](https://sayyss.github.io/human-archive/)<!-- HN:49590455:end -->
 #### **Monday, September 7, 2026**
 <!-- HN:49592094:start -->
-* [49592094](https://news.social-protocols.org/stats?id=49592094) #7 20 points 13 comments -> [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)<!-- HN:49592094:end -->
+* [49592094](https://news.social-protocols.org/stats?id=49592094) #7 20 points 13 comments -> [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)<!-- HN:49592094:end --><!-- HN:49590524:start -->
+* [49590524](https://news.social-protocols.org/stats?id=49590524) #12 28 points 17 comments -> [Show HN: Sol, my macOS music player and jukebox app, is now free and open source](https://github.com/FulltimeFeline/Sol)<!-- HN:49590524:end -->
