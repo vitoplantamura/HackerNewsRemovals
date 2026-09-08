@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49601480](https://news.social-protocols.org/stats?id=49601480) #27 17 points 5 comments -> [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)<!-- HN:49601480:end --><!-- HN:49602728:start -->
 * [49602728](https://news.social-protocols.org/stats?id=49602728) #24 26 points 21 comments -> [Why the AfD Wins](https://firstthings.com/why-the-afd-wins/)<!-- HN:49602728:end --><!-- HN:49603434:start -->
 * [49603434](https://news.social-protocols.org/stats?id=49603434) #6 6 points 0 comments -> [How to Scale an Engineering Team in 90 Days: A Practical Latam Playbook](https://nearshorebusinesssolutions.com/news/scale-engineering-team-90-days/)<!-- HN:49603434:end -->
+#### **Tuesday, September 8, 2026**
+<!-- HN:49536195:start -->
+* [49536195](https://news.social-protocols.org/stats?id=49536195) #23 64 points 32 comments -> [My practical approach to surfing the web safely](https://molily.de/safe-websurfing/)<!-- HN:49536195:end -->
