@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 8, 2026**
 <!-- HN:49536195:start -->
 * [49536195](https://news.social-protocols.org/stats?id=49536195) #23 64 points 32 comments -> [My practical approach to surfing the web safely](https://molily.de/safe-websurfing/)<!-- HN:49536195:end --><!-- HN:49604257:start -->
-* [49604257](https://news.social-protocols.org/stats?id=49604257) #10 6 points 1 comments -> [WeatherNext 3: Our most advanced global weather AI model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/)<!-- HN:49604257:end -->
+* [49604257](https://news.social-protocols.org/stats?id=49604257) #10 6 points 1 comments -> [WeatherNext 3: Our most advanced global weather AI model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/)<!-- HN:49604257:end --><!-- HN:49604280:start -->
+* [49604280](https://news.social-protocols.org/stats?id=49604280) #10 12 points 2 comments -> [Secure temporary file sharing for AI agents and humans](https://github.com/aispace-sh/aispace-client)<!-- HN:49604280:end -->
