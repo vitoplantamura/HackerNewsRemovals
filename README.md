@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49603434](https://news.social-protocols.org/stats?id=49603434) #6 6 points 0 comments -> [How to Scale an Engineering Team in 90 Days: A Practical Latam Playbook](https://nearshorebusinesssolutions.com/news/scale-engineering-team-90-days/)<!-- HN:49603434:end -->
 #### **Tuesday, September 8, 2026**
 <!-- HN:49536195:start -->
-* [49536195](https://news.social-protocols.org/stats?id=49536195) #23 64 points 32 comments -> [My practical approach to surfing the web safely](https://molily.de/safe-websurfing/)<!-- HN:49536195:end -->
+* [49536195](https://news.social-protocols.org/stats?id=49536195) #23 64 points 32 comments -> [My practical approach to surfing the web safely](https://molily.de/safe-websurfing/)<!-- HN:49536195:end --><!-- HN:49604257:start -->
+* [49604257](https://news.social-protocols.org/stats?id=49604257) #10 6 points 1 comments -> [WeatherNext 3: Our most advanced global weather AI model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/)<!-- HN:49604257:end -->
