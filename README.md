@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49612618](https://news.social-protocols.org/stats?id=49612618) #22 9 points 3 comments -> [Hire Every Engineer Like You'd Hire a VP](https://businessasusual.io/p/executive-search-methods-for-engineering)<!-- HN:49612618:end --><!-- HN:49615926:start -->
 * [49615926](https://news.social-protocols.org/stats?id=49615926) #13 140 points 34 comments -> [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)<!-- HN:49615926:end -->
 #### **Wednesday, September 9, 2026**<!-- HN:49619639:start -->
-* [49619639](https://news.social-protocols.org/stats?id=49619639) #12 68 points 17 comments -> [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)<!-- HN:49619639:end -->
+* [49619639](https://news.social-protocols.org/stats?id=49619639) #12 68 points 17 comments -> [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)<!-- HN:49619639:end --><!-- HN:49589130:start -->
+* [49589130](https://news.social-protocols.org/stats?id=49589130) #27 3 points 0 comments -> [Science of the Gaps (2025)](https://lukesmith.xyz/articles/science-of-the-gaps/)<!-- HN:49589130:end -->
