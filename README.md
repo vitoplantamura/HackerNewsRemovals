@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49615926](https://news.social-protocols.org/stats?id=49615926) #13 140 points 34 comments -> [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)<!-- HN:49615926:end -->
 #### **Wednesday, September 9, 2026**<!-- HN:49619639:start -->
 * [49619639](https://news.social-protocols.org/stats?id=49619639) #12 68 points 17 comments -> [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)<!-- HN:49619639:end --><!-- HN:49589130:start -->
-* [49589130](https://news.social-protocols.org/stats?id=49589130) #27 3 points 0 comments -> [Science of the Gaps (2025)](https://lukesmith.xyz/articles/science-of-the-gaps/)<!-- HN:49589130:end -->
+* [49589130](https://news.social-protocols.org/stats?id=49589130) #27 3 points 0 comments -> [Science of the Gaps (2025)](https://lukesmith.xyz/articles/science-of-the-gaps/)<!-- HN:49589130:end --><!-- HN:49622377:start -->
+* [49622377](https://news.social-protocols.org/stats?id=49622377) #3 19 points 2 comments -> [Sam Altman's statement on the Navier-Stokes dispute](https://twitter.com/sama/status/2097385167002415140)<!-- HN:49622377:end -->
