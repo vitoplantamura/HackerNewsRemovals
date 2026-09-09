@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49612015](https://news.social-protocols.org/stats?id=49612015) #24 4 points 0 comments -> [Renovating a vibe-coded app: the code was readable, the reasoning was gone](https://www.habchy.dev/writing/renovating-a-vibe-coded-app)<!-- HN:49612015:end --><!-- HN:49612618:start -->
 * [49612618](https://news.social-protocols.org/stats?id=49612618) #22 9 points 3 comments -> [Hire Every Engineer Like You'd Hire a VP](https://businessasusual.io/p/executive-search-methods-for-engineering)<!-- HN:49612618:end --><!-- HN:49615926:start -->
 * [49615926](https://news.social-protocols.org/stats?id=49615926) #13 140 points 34 comments -> [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)<!-- HN:49615926:end -->
+#### **Wednesday, September 9, 2026**
+<!-- HN:49619235:start -->
+* [49619235](https://news.social-protocols.org/stats?id=49619235) #20 9 points 1 comments -> [Codex silently begs agents to make arbitrary web requests](https://spader.zone/wtf/)<!-- HN:49619235:end -->
