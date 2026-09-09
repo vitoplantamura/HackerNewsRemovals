@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49629032](https://news.social-protocols.org/stats?id=49629032) #26 6 points 0 comments -> ["Good" AI](https://thoughts.wyounas.com/p/what-does-good-ai-mean)<!-- HN:49629032:end --><!-- HN:49631047:start -->
 * [49631047](https://news.social-protocols.org/stats?id=49631047) #24 4 points 0 comments -> [AirPods 5](https://www.apple.com/airpods-5/)<!-- HN:49631047:end --><!-- HN:49630964:start -->
 * [49630964](https://news.social-protocols.org/stats?id=49630964) #3 310 points 309 comments -> [Apple Unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)<!-- HN:49630964:end --><!-- HN:49631121:start -->
-* [49631121](https://news.social-protocols.org/stats?id=49631121) #6 59 points 64 comments -> [Apple Watch Ultra 4](https://www.apple.com/apple-watch-ultra-4/)<!-- HN:49631121:end -->
+* [49631121](https://news.social-protocols.org/stats?id=49631121) #6 59 points 64 comments -> [Apple Watch Ultra 4](https://www.apple.com/apple-watch-ultra-4/)<!-- HN:49631121:end --><!-- HN:49582874:start -->
+* [49582874](https://news.social-protocols.org/stats?id=49582874) #27 6 points 0 comments -> [What Linux does when you malloc()?](https://medium.com/@ankitadhiman650/what-linux-actually-does-when-you-malloc-162caa460052)<!-- HN:49582874:end -->
