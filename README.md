@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, September 9, 2026**<!-- HN:49619639:start -->
 * [49619639](https://news.social-protocols.org/stats?id=49619639) #12 68 points 17 comments -> [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)<!-- HN:49619639:end --><!-- HN:49589130:start -->
 * [49589130](https://news.social-protocols.org/stats?id=49589130) #27 3 points 0 comments -> [Science of the Gaps (2025)](https://lukesmith.xyz/articles/science-of-the-gaps/)<!-- HN:49589130:end --><!-- HN:49622377:start -->
-* [49622377](https://news.social-protocols.org/stats?id=49622377) #3 19 points 2 comments -> [Sam Altman's statement on the Navier-Stokes dispute](https://twitter.com/sama/status/2097385167002415140)<!-- HN:49622377:end -->
+* [49622377](https://news.social-protocols.org/stats?id=49622377) #3 19 points 2 comments -> [Sam Altman's statement on the Navier-Stokes dispute](https://twitter.com/sama/status/2097385167002415140)<!-- HN:49622377:end --><!-- HN:49623976:start -->
+* [49623976](https://news.social-protocols.org/stats?id=49623976) #1 16 points 6 comments -> [Quoting Terence Tao: «incentives... of no longer sharing promising research»](https://simonwillison.net/2026/Sep/9/terence-tao/)<!-- HN:49623976:end -->
