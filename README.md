@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49629032](https://news.social-protocols.org/stats?id=49629032) #26 6 points 0 comments -> ["Good" AI](https://thoughts.wyounas.com/p/what-does-good-ai-mean)<!-- HN:49629032:end --><!-- HN:49631047:start -->
 * [49631047](https://news.social-protocols.org/stats?id=49631047) #24 4 points 0 comments -> [AirPods 5](https://www.apple.com/airpods-5/)<!-- HN:49631047:end --><!-- HN:49631476:start -->
 * [49631476](https://news.social-protocols.org/stats?id=49631476) #14 21 points 6 comments -> [I Don't Want to Interact with Stochastic Parrots](https://ploum.net/2026-09-09-ai_policy.html)<!-- HN:49631476:end --><!-- HN:49630964:start -->
-* [49630964](https://news.social-protocols.org/stats?id=49630964) #3 310 points 309 comments -> [Apple Unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)<!-- HN:49630964:end -->
+* [49630964](https://news.social-protocols.org/stats?id=49630964) #3 310 points 309 comments -> [Apple Unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)<!-- HN:49630964:end --><!-- HN:49631121:start -->
+* [49631121](https://news.social-protocols.org/stats?id=49631121) #6 59 points 64 comments -> [Apple Watch Ultra 4](https://www.apple.com/apple-watch-ultra-4/)<!-- HN:49631121:end -->
