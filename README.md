@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49630964](https://news.social-protocols.org/stats?id=49630964) #3 310 points 309 comments -> [Apple Unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)<!-- HN:49630964:end --><!-- HN:49631121:start -->
 * [49631121](https://news.social-protocols.org/stats?id=49631121) #6 59 points 64 comments -> [Apple Watch Ultra 4](https://www.apple.com/apple-watch-ultra-4/)<!-- HN:49631121:end --><!-- HN:49582874:start -->
 * [49582874](https://news.social-protocols.org/stats?id=49582874) #27 6 points 0 comments -> [What Linux does when you malloc()?](https://medium.com/@ankitadhiman650/what-linux-actually-does-when-you-malloc-162caa460052)<!-- HN:49582874:end -->
+#### **Thursday, September 10, 2026**
+<!-- HN:49634966:start -->
+* [49634966](https://news.social-protocols.org/stats?id=49634966) #18 108 points 23 comments -> [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)<!-- HN:49634966:end -->
