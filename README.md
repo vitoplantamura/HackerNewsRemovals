@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49634966:start -->
 * [49634966](https://news.social-protocols.org/stats?id=49634966) #18 108 points 23 comments -> [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)<!-- HN:49634966:end --><!-- HN:49636345:start -->
 * [49636345](https://news.social-protocols.org/stats?id=49636345) #1 164 points 2 comments -> [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)<!-- HN:49636345:end --><!-- HN:49643077:start -->
-* [49643077](https://news.social-protocols.org/stats?id=49643077) #16 23 points 26 comments -> [The Feminist Was a Spy](https://uscpublicdiplomacy.org/blog/feminist-was-spy)<!-- HN:49643077:end -->
+* [49643077](https://news.social-protocols.org/stats?id=49643077) #16 23 points 26 comments -> [The Feminist Was a Spy](https://uscpublicdiplomacy.org/blog/feminist-was-spy)<!-- HN:49643077:end --><!-- HN:49643299:start -->
+* [49643299](https://news.social-protocols.org/stats?id=49643299) #20 15 points 7 comments -> [AI Doomlord Jacob Coxon's Media Tour Has Begun](https://gizmodo.com/ai-doomlord-jacob-coxons-media-tour-has-begun-2000809720)<!-- HN:49643299:end -->
