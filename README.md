@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 10, 2026**
 <!-- HN:49634966:start -->
 * [49634966](https://news.social-protocols.org/stats?id=49634966) #18 108 points 23 comments -> [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)<!-- HN:49634966:end --><!-- HN:49636345:start -->
-* [49636345](https://news.social-protocols.org/stats?id=49636345) #1 164 points 2 comments -> [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)<!-- HN:49636345:end -->
+* [49636345](https://news.social-protocols.org/stats?id=49636345) #1 164 points 2 comments -> [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)<!-- HN:49636345:end --><!-- HN:49638353:start -->
+* [49638353](https://news.social-protocols.org/stats?id=49638353) #14 27 points 0 comments -> [OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)<!-- HN:49638353:end -->
