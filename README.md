@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 10, 2026**
 <!-- HN:49634966:start -->
 * [49634966](https://news.social-protocols.org/stats?id=49634966) #18 108 points 23 comments -> [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)<!-- HN:49634966:end --><!-- HN:49636345:start -->
-* [49636345](https://news.social-protocols.org/stats?id=49636345) #1 164 points 2 comments -> [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)<!-- HN:49636345:end -->
+* [49636345](https://news.social-protocols.org/stats?id=49636345) #1 164 points 2 comments -> [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)<!-- HN:49636345:end --><!-- HN:49643077:start -->
+* [49643077](https://news.social-protocols.org/stats?id=49643077) #16 23 points 26 comments -> [The Feminist Was a Spy](https://uscpublicdiplomacy.org/blog/feminist-was-spy)<!-- HN:49643077:end -->
