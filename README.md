@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49582874](https://news.social-protocols.org/stats?id=49582874) #27 6 points 0 comments -> [What Linux does when you malloc()?](https://medium.com/@ankitadhiman650/what-linux-actually-does-when-you-malloc-162caa460052)<!-- HN:49582874:end -->
 #### **Thursday, September 10, 2026**
 <!-- HN:49634966:start -->
-* [49634966](https://news.social-protocols.org/stats?id=49634966) #18 108 points 23 comments -> [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)<!-- HN:49634966:end -->
+* [49634966](https://news.social-protocols.org/stats?id=49634966) #18 108 points 23 comments -> [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)<!-- HN:49634966:end --><!-- HN:49636345:start -->
+* [49636345](https://news.social-protocols.org/stats?id=49636345) #1 164 points 2 comments -> [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)<!-- HN:49636345:end -->
