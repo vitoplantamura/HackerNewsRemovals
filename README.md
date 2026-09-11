@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49646988](https://news.social-protocols.org/stats?id=49646988) #25 64 points 92 comments -> [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)<!-- HN:49646988:end -->
 #### **Friday, September 11, 2026**
 <!-- HN:49652261:start -->
-* [49652261](https://news.social-protocols.org/stats?id=49652261) #21 5 points 12 comments -> [YouTuber, or someone, wants to send nice emails to active military personnel](https://mic.sandboxx.us/)<!-- HN:49652261:end -->
+* [49652261](https://news.social-protocols.org/stats?id=49652261) #21 5 points 12 comments -> [YouTuber, or someone, wants to send nice emails to active military personnel](https://mic.sandboxx.us/)<!-- HN:49652261:end --><!-- HN:49652389:start -->
+* [49652389](https://news.social-protocols.org/stats?id=49652389) #12 7 points 2 comments -> [Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)<!-- HN:49652389:end -->
