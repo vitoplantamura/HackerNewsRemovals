@@ -126,3 +126,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49648352](https://news.social-protocols.org/stats?id=49648352) #22 7 points 1 comments -> [Show HN: Two small Chrome extensions for Hebrew text and dates](https://chaimsapps.com/)<!-- HN:49648352:end --><!-- HN:49645763:start -->
 * [49645763](https://news.social-protocols.org/stats?id=49645763) #20 99 points 24 comments -> [Neki by PlanetScale](https://neki.dev/)<!-- HN:49645763:end --><!-- HN:49646988:start -->
 * [49646988](https://news.social-protocols.org/stats?id=49646988) #25 64 points 92 comments -> [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)<!-- HN:49646988:end -->
+#### **Friday, September 11, 2026**
+<!-- HN:49652261:start -->
+* [49652261](https://news.social-protocols.org/stats?id=49652261) #21 5 points 12 comments -> [YouTuber, or someone, wants to send nice emails to active military personnel](https://mic.sandboxx.us/)<!-- HN:49652261:end -->
