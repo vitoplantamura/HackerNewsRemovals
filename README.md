@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, September 4, 2026**
-<!-- HN:49559182:start -->
-* [49559182](https://news.social-protocols.org/stats?id=49559182) #6 28 points 18 comments -> [1Password Replied to My Disappointment](https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/)<!-- HN:49559182:end --><!-- HN:49561670:start -->
-* [49561670](https://news.social-protocols.org/stats?id=49561670) #22 -> [The phrase that ruins every eCommerce project: "Just connect it to our ERP."](https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/)<!-- HN:49561670:end --><!-- HN:49564960:start -->
-* [49564960](https://news.social-protocols.org/stats?id=49564960) #16 55 points 45 comments -> [Burnt out on a three-day week](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)<!-- HN:49564960:end --><!-- HN:49524872:start -->
-* [49524872](https://news.social-protocols.org/stats?id=49524872) #11 6 points 1 comments -> [E-Paper Panel Isn't Broken: How Retained State Makes Drivers Look Buggy](https://msj.prose.sh/epaper-retained-state)<!-- HN:49524872:end --><!-- HN:49569088:start -->
-* [49569088](https://news.social-protocols.org/stats?id=49569088) #17 6 points 4 comments -> [UN approves resolution in support of map that shows Africa's true size](https://www.reuters.com/world/africa/un-approves-resolution-support-map-that-shows-africas-true-size-2026-09-04/)<!-- HN:49569088:end -->
 #### **Saturday, September 5, 2026**
 <!-- HN:49571038:start -->
 * [49571038](https://news.social-protocols.org/stats?id=49571038) #30 13 points 11 comments -> [Christmas Village shoppers no longer will be allowed to enter booths](https://www.phillyvoice.com/christmas-village-booths-ada-compliance/)<!-- HN:49571038:end --><!-- HN:49513822:start -->
