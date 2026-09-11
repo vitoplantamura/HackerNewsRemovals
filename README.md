@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 11, 2026**
 <!-- HN:49652261:start -->
 * [49652261](https://news.social-protocols.org/stats?id=49652261) #21 5 points 12 comments -> [YouTuber, or someone, wants to send nice emails to active military personnel](https://mic.sandboxx.us/)<!-- HN:49652261:end --><!-- HN:49652389:start -->
-* [49652389](https://news.social-protocols.org/stats?id=49652389) #12 7 points 2 comments -> [Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)<!-- HN:49652389:end -->
+* [49652389](https://news.social-protocols.org/stats?id=49652389) #12 7 points 2 comments -> [Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph](https://benzi.fly.dev/benchmark)<!-- HN:49652389:end --><!-- HN:49652996:start -->
+* [49652996](https://news.social-protocols.org/stats?id=49652996) #18 11 points 4 comments -> [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)<!-- HN:49652996:end -->
