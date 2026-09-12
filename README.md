@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49661997](https://news.social-protocols.org/stats?id=49661997) #23 16 points 3 comments -> [Major Life Announcement](https://ma.tt/2026/09/mirene/)<!-- HN:49661997:end --><!-- HN:49663686:start -->
 * [49663686](https://news.social-protocols.org/stats?id=49663686) #5 15 points 8 comments -> [Hot coffee could cause oesophageal cancer](https://www.economist.com/science-and-technology/2026/09/11/hot-coffee-could-cause-oesophageal-cancer)<!-- HN:49663686:end --><!-- HN:49625108:start -->
 * [49625108](https://news.social-protocols.org/stats?id=49625108) #16 19 points 43 comments -> [Eating Fruit Skins](https://pgadey.ca/blog/eating-fruit-skins/)<!-- HN:49625108:end -->
-#### **Saturday, September 12, 2026**
+#### **Saturday, September 12, 2026**<!-- HN:49633824:start -->
+* [49633824](https://news.social-protocols.org/stats?id=49633824) #9 9 points 6 comments -> [Fileless ELF Execution via Kernel Keyring](https://matheuzsecurity.github.io/hacking/linux-kernel-keyring-fileless-exec/)<!-- HN:49633824:end -->
