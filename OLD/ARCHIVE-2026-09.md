@@ -45,3 +45,10 @@
 * [49564960](https://news.ycombinator.com/item?id=49564960) #16 55 points 45 comments -> [Burnt out on a three-day week](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)<!-- HN:49564960:end --><!-- HN:49524872:start -->
 * [49524872](https://news.ycombinator.com/item?id=49524872) #11 6 points 1 comments -> [E-Paper Panel Isn't Broken: How Retained State Makes Drivers Look Buggy](https://msj.prose.sh/epaper-retained-state)<!-- HN:49524872:end --><!-- HN:49569088:start -->
 * [49569088](https://news.ycombinator.com/item?id=49569088) #17 6 points 4 comments -> [UN approves resolution in support of map that shows Africa's true size](https://www.reuters.com/world/africa/un-approves-resolution-support-map-that-shows-africas-true-size-2026-09-04/)<!-- HN:49569088:end -->
+#### **Saturday, September 5, 2026**
+<!-- HN:49571038:start -->
+* [49571038](https://news.ycombinator.com/item?id=49571038) #30 13 points 11 comments -> [Christmas Village shoppers no longer will be allowed to enter booths](https://www.phillyvoice.com/christmas-village-booths-ada-compliance/)<!-- HN:49571038:end --><!-- HN:49513822:start -->
+* [49513822](https://news.ycombinator.com/item?id=49513822) #6 14 points 0 comments -> [Things I Won't Work With: Straight Dimethyl Zinc](https://www.science.org/content/blog-post/things-i-won-t-work-straight-dimethyl-zinc)<!-- HN:49513822:end --><!-- HN:49577244:start -->
+* [49577244](https://news.ycombinator.com/item?id=49577244) #10 24 points 11 comments -> [Poetry book that Anthropic tried to censor](https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor/)<!-- HN:49577244:end --><!-- HN:49578136:start -->
+* [49578136](https://news.ycombinator.com/item?id=49578136) #14 25 points 40 comments -> [Bob and Van](https://marco.org/2026/09/04/bob-and-van)<!-- HN:49578136:end --><!-- HN:49580702:start -->
+* [49580702](https://news.ycombinator.com/item?id=49580702) #11 21 points 15 comments -> [Lazygit](https://lazygit.dev/)<!-- HN:49580702:end -->
