@@ -142,5 +142,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49663686](https://news.social-protocols.org/stats?id=49663686) #5 15 points 8 comments -> [Hot coffee could cause oesophageal cancer](https://www.economist.com/science-and-technology/2026/09/11/hot-coffee-could-cause-oesophageal-cancer)<!-- HN:49663686:end --><!-- HN:49625108:start -->
 * [49625108](https://news.social-protocols.org/stats?id=49625108) #16 19 points 43 comments -> [Eating Fruit Skins](https://pgadey.ca/blog/eating-fruit-skins/)<!-- HN:49625108:end -->
 #### **Saturday, September 12, 2026**
-<!-- HN:49666960:start -->
-* [49666960](https://news.social-protocols.org/stats?id=49666960) #17 24 points 7 comments -> [How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://www.firecrawl.dev/blog/ai-software-factory)<!-- HN:49666960:end -->
