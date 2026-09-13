@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49626140](https://news.social-protocols.org/stats?id=49626140) #18 15 points 2 comments -> [Moby-Dick and the Indefinite Sublime: On facing the white page](https://yalereview.org/article/tom-mccarthy-indefinite-sublime)<!-- HN:49626140:end --><!-- HN:49673392:start -->
 * [49673392](https://news.social-protocols.org/stats?id=49673392) #17 96 points 1 comments -> [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)<!-- HN:49673392:end --><!-- HN:49674525:start -->
 * [49674525](https://news.social-protocols.org/stats?id=49674525) #12 7 points 1 comments -> [My favorite sci-fi books about how we build societies and keep justifying them](https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying)<!-- HN:49674525:end -->
-#### **Sunday, September 13, 2026**
+#### **Sunday, September 13, 2026**<!-- HN:49678510:start -->
+* [49678510](https://news.social-protocols.org/stats?id=49678510) #19 6 points 0 comments -> [Nobody wrote the Matrix and AI code-writing will be dead by 2036](https://lufzle.dev/write/nobody-wrote-the-matrix/)<!-- HN:49678510:end -->
