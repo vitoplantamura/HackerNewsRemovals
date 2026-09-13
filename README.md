@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, September 6, 2026**
-<!-- HN:49580687:start -->
-* [49580687](https://news.social-protocols.org/stats?id=49580687) #8 29 points 41 comments -> [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)<!-- HN:49580687:end --><!-- HN:49554154:start -->
-* [49554154](https://news.social-protocols.org/stats?id=49554154) #18 20 points 9 comments -> [The Double Matthew Walker Knot by Fable 5.1](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)<!-- HN:49554154:end --><!-- HN:49582410:start -->
-* [49582410](https://news.social-protocols.org/stats?id=49582410) #28 23 points 41 comments -> [Gateside by TSA Precheck](https://www.tsa.gov/precheck/gateside-tsa-precheck)<!-- HN:49582410:end --><!-- HN:49583232:start -->
-* [49583232](https://news.social-protocols.org/stats?id=49583232) #15 67 points 31 comments -> [Vancouver strip club's Instagram taken down over sign featuring lake joke](https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993)<!-- HN:49583232:end --><!-- HN:49585209:start -->
-* [49585209](https://news.social-protocols.org/stats?id=49585209) #8 7 points 4 comments -> [Pigeon, a signed Pass for what a sub-agent may do](https://github.com/pigeonlabsHQ/pigeon)<!-- HN:49585209:end --><!-- HN:49584880:start -->
-* [49584880](https://news.social-protocols.org/stats?id=49584880) #14 11 points 3 comments -> [Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk](https://keenbean.app/)<!-- HN:49584880:end --><!-- HN:49585300:start -->
-* [49585300](https://news.social-protocols.org/stats?id=49585300) #11 31 points 23 comments -> [I asked astra to make playable 4D chess](https://4d-chess.pages.dev/)<!-- HN:49585300:end --><!-- HN:49586970:start -->
-* [49586970](https://news.social-protocols.org/stats?id=49586970) #19 6 points 0 comments -> [Over 60k arrested for communication offences as trivial as viewing TikTok videos](https://www.gbnews.com/news/free-speech-row-more-than-60000-arrested-communications-offences)<!-- HN:49586970:end --><!-- HN:49587875:start -->
-* [49587875](https://news.social-protocols.org/stats?id=49587875) #24 7 points 0 comments -> [When did French fries become the standard side to serve with a hamburger?](https://www.reddit.com/r/AskHistorians/comments/39v00a/comment/cs72af6/)<!-- HN:49587875:end --><!-- HN:49588475:start -->
-* [49588475](https://news.social-protocols.org/stats?id=49588475) #11 26 points 7 comments -> [Any Nix package, live in the browser](https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser)<!-- HN:49588475:end --><!-- HN:49517567:start -->
-* [49517567](https://news.social-protocols.org/stats?id=49517567) #22 4 points 1 comments -> [Running a personal AI agent on an old Android phone instead of a server](https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8)<!-- HN:49517567:end --><!-- HN:49589003:start -->
-* [49589003](https://news.social-protocols.org/stats?id=49589003) #21 263 points 1 comments -> [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter)<!-- HN:49589003:end --><!-- HN:49590362:start -->
-* [49590362](https://news.social-protocols.org/stats?id=49590362) #1 15 points 4 comments -> [They're Made Out of Meat](https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml)<!-- HN:49590362:end --><!-- HN:49590351:start -->
-* [49590351](https://news.social-protocols.org/stats?id=49590351) #9 6 points 3 comments -> [Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity](https://github.com/mmeyerlein/meclaw)<!-- HN:49590351:end --><!-- HN:49590129:start -->
-* [49590129](https://news.social-protocols.org/stats?id=49590129) #25 30 points 40 comments -> [There Gonna Be a Shortage of Everything](https://out-of-hell.xylon.me.uk/shortage.html)<!-- HN:49590129:end --><!-- HN:49590455:start -->
-* [49590455](https://news.social-protocols.org/stats?id=49590455) #20 11 points 4 comments -> [Human archive: They were only human](https://sayyss.github.io/human-archive/)<!-- HN:49590455:end -->
 #### **Monday, September 7, 2026**
 <!-- HN:49592094:start -->
 * [49592094](https://news.social-protocols.org/stats?id=49592094) #7 20 points 13 comments -> [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)<!-- HN:49592094:end --><!-- HN:49590524:start -->
