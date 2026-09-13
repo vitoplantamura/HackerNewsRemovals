@@ -132,5 +132,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49673392](https://news.social-protocols.org/stats?id=49673392) #17 96 points 1 comments -> [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)<!-- HN:49673392:end --><!-- HN:49674525:start -->
 * [49674525](https://news.social-protocols.org/stats?id=49674525) #12 7 points 1 comments -> [My favorite sci-fi books about how we build societies and keep justifying them](https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying)<!-- HN:49674525:end -->
 #### **Sunday, September 13, 2026**
-<!-- HN:49678878:start -->
-* [49678878](https://news.social-protocols.org/stats?id=49678878) #6 4 points 4 comments -> [Apple wants to train AI on your private personal data](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models)<!-- HN:49678878:end -->
