@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49686293](https://news.social-protocols.org/stats?id=49686293) #19 -> [Google illegally retains customer data,and I am taking legal action against them](https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c)<!-- HN:49686293:end --><!-- HN:49687083:start -->
 * [49687083](https://news.social-protocols.org/stats?id=49687083) #9 6 points 0 comments -> [You delete a file on Linux while a program has it open. What happens? (quiz)](https://textlog.cc/post/3662?hn)<!-- HN:49687083:end --><!-- HN:49688115:start -->
 * [49688115](https://news.social-protocols.org/stats?id=49688115) #29 3 points 1 comments -> [A computational constitution to stop LLM agents from bricking servers](https://github.com/misqe/zero-trust-llm)<!-- HN:49688115:end -->
+#### **Monday, September 14, 2026**
+<!-- HN:49688766:start -->
+* [49688766](https://news.social-protocols.org/stats?id=49688766) #27 33 points 40 comments -> [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)<!-- HN:49688766:end -->
