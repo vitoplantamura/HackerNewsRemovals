@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49688115](https://news.social-protocols.org/stats?id=49688115) #29 3 points 1 comments -> [A computational constitution to stop LLM agents from bricking servers](https://github.com/misqe/zero-trust-llm)<!-- HN:49688115:end -->
 #### **Monday, September 14, 2026**
 <!-- HN:49688766:start -->
-* [49688766](https://news.social-protocols.org/stats?id=49688766) #27 33 points 40 comments -> [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)<!-- HN:49688766:end -->
+* [49688766](https://news.social-protocols.org/stats?id=49688766) #27 33 points 40 comments -> [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)<!-- HN:49688766:end --><!-- HN:49690529:start -->
+* [49690529](https://news.social-protocols.org/stats?id=49690529) #18 20 points 31 comments -> [AI is not a normal technology](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology)<!-- HN:49690529:end -->
