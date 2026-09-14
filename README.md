@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, September 14, 2026**
 <!-- HN:49690529:start -->
 * [49690529](https://news.social-protocols.org/stats?id=49690529) #18 20 points 31 comments -> [AI is not a normal technology](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology)<!-- HN:49690529:end --><!-- HN:49691447:start -->
-* [49691447](https://news.social-protocols.org/stats?id=49691447) #6 9 points 0 comments -> [Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists](https://www.bbc.com/news/articles/cpve191wy47o)<!-- HN:49691447:end -->
+* [49691447](https://news.social-protocols.org/stats?id=49691447) #6 9 points 0 comments -> [Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists](https://www.bbc.com/news/articles/cpve191wy47o)<!-- HN:49691447:end --><!-- HN:49690943:start -->
+* [49690943](https://news.social-protocols.org/stats?id=49690943) #27 54 points 19 comments -> [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)<!-- HN:49690943:end -->
