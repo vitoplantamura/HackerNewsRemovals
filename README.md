@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49631365](https://news.social-protocols.org/stats?id=49631365) #21 40 points 2 comments -> [Show HN: Apollo Lunar Module landing simulation](https://gosandeep.com/eagles-descent/)<!-- HN:49631365:end -->
 #### **Tuesday, September 15, 2026**
 <!-- HN:49712337:start -->
-* [49712337](https://news.social-protocols.org/stats?id=49712337) #7 9 points 1 comments -> [How the New York Times Framed the War Between Israel and Hamas](https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract)<!-- HN:49712337:end -->
+* [49712337](https://news.social-protocols.org/stats?id=49712337) #7 9 points 1 comments -> [How the New York Times Framed the War Between Israel and Hamas](https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract)<!-- HN:49712337:end --><!-- HN:49712720:start -->
+* [49712720](https://news.social-protocols.org/stats?id=49712720) #24 6 points 13 comments -> [Show HN: Jexxa: High Speed on Device Dictation](https://jexxa.org)<!-- HN:49712720:end -->
