@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, September 9, 2026**<!-- HN:49619639:start -->
-* [49619639](https://news.social-protocols.org/stats?id=49619639) #12 68 points 17 comments -> [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)<!-- HN:49619639:end --><!-- HN:49589130:start -->
-* [49589130](https://news.social-protocols.org/stats?id=49589130) #27 3 points 0 comments -> [Science of the Gaps (2025)](https://lukesmith.xyz/articles/science-of-the-gaps/)<!-- HN:49589130:end --><!-- HN:49622377:start -->
-* [49622377](https://news.social-protocols.org/stats?id=49622377) #3 19 points 2 comments -> [Sam Altman's statement on the Navier-Stokes dispute](https://twitter.com/sama/status/2097385167002415140)<!-- HN:49622377:end --><!-- HN:49623976:start -->
-* [49623976](https://news.social-protocols.org/stats?id=49623976) #1 16 points 6 comments -> [Quoting Terence Tao: «incentives... of no longer sharing promising research»](https://simonwillison.net/2026/Sep/9/terence-tao/)<!-- HN:49623976:end --><!-- HN:49623996:start -->
-* [49623996](https://news.social-protocols.org/stats?id=49623996) #20 15 points 40 comments -> [Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine](https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34)<!-- HN:49623996:end --><!-- HN:49627555:start -->
-* [49627555](https://news.social-protocols.org/stats?id=49627555) #10 5 points 0 comments -> [Show HN: PhotoToPattern – Turn photos into printable cross-stitch patterns](https://phototopattern.com/)<!-- HN:49627555:end --><!-- HN:49628188:start -->
-* [49628188](https://news.social-protocols.org/stats?id=49628188) #28 12 points 1 comments -> [Go fuck yourself Sam Altman](https://twitter.com/bettercallmedhi/status/2097472336257863722)<!-- HN:49628188:end --><!-- HN:49628409:start -->
-* [49628409](https://news.social-protocols.org/stats?id=49628409) #12 23 points 5 comments -> [Rails 8 Guide: Features, Requirements and Upgrade Path (2026)](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)<!-- HN:49628409:end --><!-- HN:49629432:start -->
-* [49629432](https://news.social-protocols.org/stats?id=49629432) #10 8 points 2 comments -> [I rank the open-source AI agents that launched in the last 30 days](https://www.theagenticleaderboard.com/)<!-- HN:49629432:end --><!-- HN:49629032:start -->
-* [49629032](https://news.social-protocols.org/stats?id=49629032) #26 6 points 0 comments -> ["Good" AI](https://thoughts.wyounas.com/p/what-does-good-ai-mean)<!-- HN:49629032:end --><!-- HN:49631047:start -->
-* [49631047](https://news.social-protocols.org/stats?id=49631047) #24 4 points 0 comments -> [AirPods 5](https://www.apple.com/airpods-5/)<!-- HN:49631047:end --><!-- HN:49630964:start -->
-* [49630964](https://news.social-protocols.org/stats?id=49630964) #3 310 points 309 comments -> [Apple Unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)<!-- HN:49630964:end --><!-- HN:49631121:start -->
-* [49631121](https://news.social-protocols.org/stats?id=49631121) #6 59 points 64 comments -> [Apple Watch Ultra 4](https://www.apple.com/apple-watch-ultra-4/)<!-- HN:49631121:end --><!-- HN:49582874:start -->
-* [49582874](https://news.social-protocols.org/stats?id=49582874) #27 6 points 0 comments -> [What Linux does when you malloc()?](https://medium.com/@ankitadhiman650/what-linux-actually-does-when-you-malloc-162caa460052)<!-- HN:49582874:end -->
 #### **Thursday, September 10, 2026**
 <!-- HN:49634966:start -->
 * [49634966](https://news.social-protocols.org/stats?id=49634966) #18 108 points 23 comments -> [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)<!-- HN:49634966:end --><!-- HN:49636345:start -->
