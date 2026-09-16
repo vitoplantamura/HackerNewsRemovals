@@ -139,3 +139,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49715463](https://news.social-protocols.org/stats?id=49715463) #8 11 points 16 comments -> [Leaving Linux](https://jackevans.bearblog.dev/leaving-linux/)<!-- HN:49715463:end --><!-- HN:49715802:start -->
 * [49715802](https://news.social-protocols.org/stats?id=49715802) #9 5 points 3 comments -> [Why Personal Websites Are Coming Back](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)<!-- HN:49715802:end --><!-- HN:49716702:start -->
 * [49716702](https://news.social-protocols.org/stats?id=49716702) #8 10 points 3 comments -> [How AI tool calling works (40 lines of vanilla JavaScript)](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)<!-- HN:49716702:end -->
+#### **Wednesday, September 16, 2026**
+<!-- HN:49724194:start -->
+* [49724194](https://news.social-protocols.org/stats?id=49724194) #6 51 points 15 comments -> [Tech Fascism Has Come for American Democracy](https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran)<!-- HN:49724194:end -->
