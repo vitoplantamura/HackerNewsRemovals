@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 17, 2026**<!-- HN:49736077:start -->
 * [49736077](https://news.social-protocols.org/stats?id=49736077) #7 13 points 1 comments -> [ASCII City](https://asciicity.live/)<!-- HN:49736077:end --><!-- HN:49740093:start -->
 * [49740093](https://news.social-protocols.org/stats?id=49740093) #3 8 points 3 comments -> [My AI agent gets his own calendar](https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/)<!-- HN:49740093:end --><!-- HN:49699611:start -->
-* [49699611](https://news.social-protocols.org/stats?id=49699611) #19 13 points 3 comments -> [Sixteen Locks Ought to Be Enough for Anybody](https://thebuild.com/blog/sixteen-locks-ought-to-be-enough-for-anybody/)<!-- HN:49699611:end -->
+* [49699611](https://news.social-protocols.org/stats?id=49699611) #19 13 points 3 comments -> [Sixteen Locks Ought to Be Enough for Anybody](https://thebuild.com/blog/sixteen-locks-ought-to-be-enough-for-anybody/)<!-- HN:49699611:end --><!-- HN:49739018:start -->
+* [49739018](https://news.social-protocols.org/stats?id=49739018) #25 200 points 124 comments -> [Iran school bombing: grounds to believe US was behind atrocity, UN finds](https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack)<!-- HN:49739018:end -->
