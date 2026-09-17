@@ -135,5 +135,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49731515](https://news.social-protocols.org/stats?id=49731515) #19 23 points 2 comments -> [Fed Raises Rates for First Time in Three Years](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)<!-- HN:49731515:end --><!-- HN:49733836:start -->
 * [49733836](https://news.social-protocols.org/stats?id=49733836) #1 31 points 2 comments -> [Flock cameras are riddled with security vulnerabilities and hardcoded creds](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)<!-- HN:49733836:end -->
 #### **Thursday, September 17, 2026**
-<!-- HN:49734392:start -->
-* [49734392](https://news.social-protocols.org/stats?id=49734392) #9 7 points 1 comments -> [My website charged AI agents a penny per page. I watched Claude pay it](https://suganthan.com/blog/x402-pay-per-crawl/)<!-- HN:49734392:end -->
