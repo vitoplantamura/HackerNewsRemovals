@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49733836](https://news.social-protocols.org/stats?id=49733836) #1 31 points 2 comments -> [Flock cameras are riddled with security vulnerabilities and hardcoded creds](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)<!-- HN:49733836:end -->
 #### **Thursday, September 17, 2026**<!-- HN:49736077:start -->
 * [49736077](https://news.social-protocols.org/stats?id=49736077) #7 13 points 1 comments -> [ASCII City](https://asciicity.live/)<!-- HN:49736077:end --><!-- HN:49740093:start -->
-* [49740093](https://news.social-protocols.org/stats?id=49740093) #3 8 points 3 comments -> [My AI agent gets his own calendar](https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/)<!-- HN:49740093:end -->
+* [49740093](https://news.social-protocols.org/stats?id=49740093) #3 8 points 3 comments -> [My AI agent gets his own calendar](https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/)<!-- HN:49740093:end --><!-- HN:49699611:start -->
+* [49699611](https://news.social-protocols.org/stats?id=49699611) #19 13 points 3 comments -> [Sixteen Locks Ought to Be Enough for Anybody](https://thebuild.com/blog/sixteen-locks-ought-to-be-enough-for-anybody/)<!-- HN:49699611:end -->
