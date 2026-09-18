@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 18, 2026**
 <!-- HN:49749457:start -->
 * [49749457](https://news.social-protocols.org/stats?id=49749457) #30 5 points 0 comments -> [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)<!-- HN:49749457:end --><!-- HN:49746654:start -->
-* [49746654](https://news.social-protocols.org/stats?id=49746654) #16 195 points 193 comments -> [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)<!-- HN:49746654:end -->
+* [49746654](https://news.social-protocols.org/stats?id=49746654) #16 195 points 193 comments -> [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)<!-- HN:49746654:end --><!-- HN:49749369:start -->
+* [49749369](https://news.social-protocols.org/stats?id=49749369) #20 48 points 41 comments -> [Minimal Phone 2](https://minimalcompany.com/)<!-- HN:49749369:end -->
