@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49740330](https://news.social-protocols.org/stats?id=49740330) #19 81 points 34 comments -> [I had Gemini train its own replacement for $9](https://www.petervijeh.com/projects/reddit-ner)<!-- HN:49740330:end --><!-- HN:49743095:start -->
 * [49743095](https://news.social-protocols.org/stats?id=49743095) #10 11 points 10 comments -> [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join)<!-- HN:49743095:end --><!-- HN:49746986:start -->
 * [49746986](https://news.social-protocols.org/stats?id=49746986) #4 105 points 43 comments -> [I Hate You Microsoft](https://henriquenunez.eu/posts/you_did_it_again_ms/)<!-- HN:49746986:end -->
+#### **Friday, September 18, 2026**
+<!-- HN:49749457:start -->
+* [49749457](https://news.social-protocols.org/stats?id=49749457) #30 5 points 0 comments -> [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)<!-- HN:49749457:end -->
