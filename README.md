@@ -122,8 +122,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 18, 2026**
 <!-- HN:49749457:start -->
 * [49749457](https://news.social-protocols.org/stats?id=49749457) #30 5 points 0 comments -> [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)<!-- HN:49749457:end --><!-- HN:49746654:start -->
-* [49746654](https://news.social-protocols.org/stats?id=49746654) #16 195 points 193 comments -> [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)<!-- HN:49746654:end --><!-- HN:49749369:start -->
-* [49749369](https://news.social-protocols.org/stats?id=49749369) #20 48 points 41 comments -> [Minimal Phone 2](https://minimalcompany.com/)<!-- HN:49749369:end --><!-- HN:49753417:start -->
+* [49746654](https://news.social-protocols.org/stats?id=49746654) #16 195 points 193 comments -> [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)<!-- HN:49746654:end --><!-- HN:49753417:start -->
 * [49753417](https://news.social-protocols.org/stats?id=49753417) #16 24 points 41 comments -> [If materialism is true, the United States is probably conscious](https://www.jstor.org/stable/24704177)<!-- HN:49753417:end --><!-- HN:49755062:start -->
 * [49755062](https://news.social-protocols.org/stats?id=49755062) #15 4 points 3 comments -> [Friend at Jane Street said they will solve Riemann Hypothesis](https://www.millenniumresearch.ai/)<!-- HN:49755062:end --><!-- HN:49754516:start -->
 * [49754516](https://news.social-protocols.org/stats?id=49754516) #24 9 points 2 comments -> [Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong](https://jev-pong.ably.dev/)<!-- HN:49754516:end --><!-- HN:49755312:start -->
