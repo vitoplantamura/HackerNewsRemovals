@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49757859](https://news.social-protocols.org/stats?id=49757859) #10 16 points 5 comments -> [Grok Voice Transcribe 2.0](https://x.ai/news/grok-voice-transcribe-2)<!-- HN:49757859:end --><!-- HN:49760746:start -->
 * [49760746](https://news.social-protocols.org/stats?id=49760746) #3 37 points 9 comments -> [Y Combinator's PAC is throwing money at Republicans across the country](https://sf.gazetteer.co/y-combinators-pac-is-throwing-money-at-a-bunch-of-republicans-across-the-country)<!-- HN:49760746:end --><!-- HN:49760737:start -->
 * [49760737](https://news.social-protocols.org/stats?id=49760737) #9 34 points 42 comments -> [War may be coming. Are we psychologically ready?](https://www.bbc.com/news/articles/cmn0jke547r5o)<!-- HN:49760737:end -->
+#### **Saturday, September 19, 2026**
+<!-- HN:49762573:start -->
+* [49762573](https://news.social-protocols.org/stats?id=49762573) #2 15 points 6 comments -> [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html)<!-- HN:49762573:end -->
