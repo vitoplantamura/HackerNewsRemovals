@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 12, 2026**<!-- HN:49633824:start -->
-* [49633824](https://news.social-protocols.org/stats?id=49633824) #9 9 points 6 comments -> [Fileless ELF Execution via Kernel Keyring](https://matheuzsecurity.github.io/hacking/linux-kernel-keyring-fileless-exec/)<!-- HN:49633824:end --><!-- HN:49671135:start -->
-* [49671135](https://news.social-protocols.org/stats?id=49671135) #29 43 points 6 comments -> [Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist](https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist)<!-- HN:49671135:end --><!-- HN:49671542:start -->
-* [49671542](https://news.social-protocols.org/stats?id=49671542) #11 8 points 8 comments -> [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com)<!-- HN:49671542:end --><!-- HN:49672045:start -->
-* [49672045](https://news.social-protocols.org/stats?id=49672045) #7 9 points 2 comments -> [Coding Is Over. Get over It](https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./)<!-- HN:49672045:end --><!-- HN:49672541:start -->
-* [49672541](https://news.social-protocols.org/stats?id=49672541) #8 11 points 2 comments -> [You Don't Need Matrix Calculus](https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html)<!-- HN:49672541:end --><!-- HN:49626140:start -->
-* [49626140](https://news.social-protocols.org/stats?id=49626140) #18 15 points 2 comments -> [Moby-Dick and the Indefinite Sublime: On facing the white page](https://yalereview.org/article/tom-mccarthy-indefinite-sublime)<!-- HN:49626140:end --><!-- HN:49673392:start -->
-* [49673392](https://news.social-protocols.org/stats?id=49673392) #17 96 points 1 comments -> [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)<!-- HN:49673392:end --><!-- HN:49674525:start -->
-* [49674525](https://news.social-protocols.org/stats?id=49674525) #12 7 points 1 comments -> [My favorite sci-fi books about how we build societies and keep justifying them](https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying)<!-- HN:49674525:end -->
 #### **Sunday, September 13, 2026**<!-- HN:49678510:start -->
 * [49678510](https://news.social-protocols.org/stats?id=49678510) #19 6 points 0 comments -> [Nobody wrote the Matrix and AI code-writing will be dead by 2036](https://lufzle.dev/write/nobody-wrote-the-matrix/)<!-- HN:49678510:end --><!-- HN:49678878:start -->
 * [49678878](https://news.social-protocols.org/stats?id=49678878) #5 22 points 13 comments -> [Apple wants to train AI on your private personal data](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models)<!-- HN:49678878:end --><!-- HN:49678606:start -->
