@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, September 19, 2026**
 <!-- HN:49762573:start -->
 * [49762573](https://news.social-protocols.org/stats?id=49762573) #2 15 points 6 comments -> [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html)<!-- HN:49762573:end --><!-- HN:49763311:start -->
-* [49763311](https://news.social-protocols.org/stats?id=49763311) #6 8 points 1 comments -> [Show HN: Seal – Letters and passwords that open for your family after you die](https://github.com/jasonepage/Seal)<!-- HN:49763311:end -->
+* [49763311](https://news.social-protocols.org/stats?id=49763311) #6 8 points 1 comments -> [Show HN: Seal – Letters and passwords that open for your family after you die](https://github.com/jasonepage/Seal)<!-- HN:49763311:end --><!-- HN:49763234:start -->
+* [49763234](https://news.social-protocols.org/stats?id=49763234) #13 5 points 0 comments -> [Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than](https://arxiv.org/abs/2609.20779)<!-- HN:49763234:end -->
