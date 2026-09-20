@@ -122,4 +122,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49771873](https://news.social-protocols.org/stats?id=49771873) #9 9 points 2 comments -> [Comparing reflection capabilities of C++, Zig and C3](https://nyr24.github.io/blog/reflection-comparison/)<!-- HN:49771873:end --><!-- HN:49773871:start -->
 * [49773871](https://news.social-protocols.org/stats?id=49773871) #23 8 points 0 comments -> [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/)<!-- HN:49773871:end --><!-- HN:49773951:start -->
 * [49773951](https://news.social-protocols.org/stats?id=49773951) #12 28 points 17 comments -> [Don't Be Nice](https://roe.dev/blog/dont-be-nice)<!-- HN:49773951:end --><!-- HN:49775669:start -->
-* [49775669](https://news.social-protocols.org/stats?id=49775669) #3 6 points 3 comments -> [PearOS](https://pearos.xyz/)<!-- HN:49775669:end -->
+* [49775669](https://news.social-protocols.org/stats?id=49775669) #3 6 points 3 comments -> [PearOS](https://pearos.xyz/)<!-- HN:49775669:end --><!-- HN:49775979:start -->
+* [49775979](https://news.social-protocols.org/stats?id=49775979) #3 14 points 6 comments -> [system design in depth – 200 topics, 118 diagrams, interactive demos](https://system-design-in-depth.pages.dev)<!-- HN:49775979:end -->
