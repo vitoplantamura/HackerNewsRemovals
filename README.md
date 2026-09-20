@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49769694](https://news.social-protocols.org/stats?id=49769694) #9 36 points 17 comments -> [I captured 72 hours of idle Android packets behind pfSense](https://www.praveentechworld.com/research/degoogle-telemetry-2026)<!-- HN:49769694:end -->
 #### **Sunday, September 20, 2026**
 <!-- HN:49770860:start -->
-* [49770860](https://news.social-protocols.org/stats?id=49770860) #24 6 points 1 comments -> [Claudecookie – convert, check, and mint Claude Code credentials from a cookie](https://claudecookie.com/)<!-- HN:49770860:end -->
+* [49770860](https://news.social-protocols.org/stats?id=49770860) #24 6 points 1 comments -> [Claudecookie – convert, check, and mint Claude Code credentials from a cookie](https://claudecookie.com/)<!-- HN:49770860:end --><!-- HN:49771118:start -->
+* [49771118](https://news.social-protocols.org/stats?id=49771118) #6 14 points 9 comments -> [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)<!-- HN:49771118:end -->
