@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49770860:start -->
 * [49770860](https://news.social-protocols.org/stats?id=49770860) #24 6 points 1 comments -> [Claudecookie – convert, check, and mint Claude Code credentials from a cookie](https://claudecookie.com/)<!-- HN:49770860:end --><!-- HN:49771118:start -->
 * [49771118](https://news.social-protocols.org/stats?id=49771118) #6 14 points 9 comments -> [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)<!-- HN:49771118:end --><!-- HN:49771873:start -->
-* [49771873](https://news.social-protocols.org/stats?id=49771873) #9 9 points 2 comments -> [Comparing reflection capabilities of C++, Zig and C3](https://nyr24.github.io/blog/reflection-comparison/)<!-- HN:49771873:end -->
+* [49771873](https://news.social-protocols.org/stats?id=49771873) #9 9 points 2 comments -> [Comparing reflection capabilities of C++, Zig and C3](https://nyr24.github.io/blog/reflection-comparison/)<!-- HN:49771873:end --><!-- HN:49773871:start -->
+* [49773871](https://news.social-protocols.org/stats?id=49773871) #23 8 points 0 comments -> [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/)<!-- HN:49773871:end -->
