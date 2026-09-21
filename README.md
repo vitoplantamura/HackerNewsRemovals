@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49778078](https://news.social-protocols.org/stats?id=49778078) #14 11 points 2 comments -> [Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM](https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/)<!-- HN:49778078:end --><!-- HN:49778008:start -->
 * [49778008](https://news.social-protocols.org/stats?id=49778008) #22 11 points 6 comments -> [Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)](https://www.papydeck.eu/)<!-- HN:49778008:end --><!-- HN:49780466:start -->
 * [49780466](https://news.social-protocols.org/stats?id=49780466) #10 17 points 18 comments -> [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)<!-- HN:49780466:end -->
+#### **Monday, September 21, 2026**
+<!-- HN:49782242:start -->
+* [49782242](https://news.social-protocols.org/stats?id=49782242) #5 16 points 1 comments -> [Can I Let My AI Agent Run on Shabbat?](https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm)<!-- HN:49782242:end -->
