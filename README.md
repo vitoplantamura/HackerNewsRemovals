@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, September 21, 2026**
 <!-- HN:49782242:start -->
 * [49782242](https://news.social-protocols.org/stats?id=49782242) #5 16 points 1 comments -> [Can I Let My AI Agent Run on Shabbat?](https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm)<!-- HN:49782242:end --><!-- HN:49776699:start -->
-* [49776699](https://news.social-protocols.org/stats?id=49776699) #8 528 points 143 comments -> [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)<!-- HN:49776699:end -->
+* [49776699](https://news.social-protocols.org/stats?id=49776699) #8 528 points 143 comments -> [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)<!-- HN:49776699:end --><!-- HN:49784873:start -->
+* [49784873](https://news.social-protocols.org/stats?id=49784873) #10 8 points 3 comments -> [Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust](https://github.com/gosuda/bitcoin-rs)<!-- HN:49784873:end -->
