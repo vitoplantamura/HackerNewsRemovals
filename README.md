@@ -100,3 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49786401](https://news.social-protocols.org/stats?id=49786401) #19 8 points 3 comments -> [Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL](https://github.com/Clickin/SQLBraid)<!-- HN:49786401:end --><!-- HN:49787767:start -->
 * [49787767](https://news.social-protocols.org/stats?id=49787767) #26 120 points 107 comments -> [Meta bans ads for Virginia Woolf play in Spain](https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval)<!-- HN:49787767:end --><!-- HN:49791380:start -->
 * [49791380](https://news.social-protocols.org/stats?id=49791380) #24 -> [Help 404 Media Find Out How Your Local Police Are Surveiling You](https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/)<!-- HN:49791380:end -->
+#### **Tuesday, September 22, 2026**
+<!-- HN:49797226:start -->
+* [49797226](https://news.social-protocols.org/stats?id=49797226) #9 12 points 4 comments -> [Firmware Freedom](https://playtaurus.com/blog/firmware-freedom)<!-- HN:49797226:end -->
