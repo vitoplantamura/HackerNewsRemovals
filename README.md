@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, September 15, 2026**
-<!-- HN:49712337:start -->
-* [49712337](https://news.social-protocols.org/stats?id=49712337) #7 9 points 1 comments -> [How the New York Times Framed the War Between Israel and Hamas](https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract)<!-- HN:49712337:end --><!-- HN:49712720:start -->
-* [49712720](https://news.social-protocols.org/stats?id=49712720) #24 6 points 13 comments -> [Show HN: Jexxa: High Speed on Device Dictation](https://jexxa.org)<!-- HN:49712720:end --><!-- HN:49712596:start -->
-* [49712596](https://news.social-protocols.org/stats?id=49712596) #18 5 points 0 comments -> [Sovereign: A Unified GPU Inference Substrate (Fractal Memory, Manifold Routing)](https://github.com/CuppaTea1983/Sovereign/tree/V1)<!-- HN:49712596:end --><!-- HN:49711225:start -->
-* [49711225](https://news.social-protocols.org/stats?id=49711225) #30 11 points 1 comments -> [Suchir Balaji's Homepage](https://suchir.net/)<!-- HN:49711225:end --><!-- HN:49714457:start -->
-* [49714457](https://news.social-protocols.org/stats?id=49714457) #8 10 points 7 comments -> [V1.1 state of open source- OS 4.4 months behind frontier [pdf]](https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf)<!-- HN:49714457:end --><!-- HN:49713637:start -->
-* [49713637](https://news.social-protocols.org/stats?id=49713637) #19 8 points 2 comments -> [The bitter lesson of browser agents](https://browser-use.com/posts/bitter-lesson-browser-agents)<!-- HN:49713637:end --><!-- HN:49715463:start -->
-* [49715463](https://news.social-protocols.org/stats?id=49715463) #8 11 points 16 comments -> [Leaving Linux](https://jackevans.bearblog.dev/leaving-linux/)<!-- HN:49715463:end --><!-- HN:49715802:start -->
-* [49715802](https://news.social-protocols.org/stats?id=49715802) #9 5 points 3 comments -> [Why Personal Websites Are Coming Back](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)<!-- HN:49715802:end --><!-- HN:49716702:start -->
-* [49716702](https://news.social-protocols.org/stats?id=49716702) #8 10 points 3 comments -> [How AI tool calling works (40 lines of vanilla JavaScript)](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)<!-- HN:49716702:end -->
 #### **Wednesday, September 16, 2026**
 <!-- HN:49724194:start -->
 * [49724194](https://news.social-protocols.org/stats?id=49724194) #6 51 points 15 comments -> [Tech Fascism Has Come for American Democracy](https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran)<!-- HN:49724194:end --><!-- HN:49726800:start -->
