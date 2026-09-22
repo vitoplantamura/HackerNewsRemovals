@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 22, 2026**
 <!-- HN:49797226:start -->
 * [49797226](https://news.social-protocols.org/stats?id=49797226) #9 12 points 4 comments -> [Firmware Freedom](https://playtaurus.com/blog/firmware-freedom)<!-- HN:49797226:end --><!-- HN:49799187:start -->
-* [49799187](https://news.social-protocols.org/stats?id=49799187) #5 10 points 2 comments -> [A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023](https://jivx.com/fujimi)<!-- HN:49799187:end -->
+* [49799187](https://news.social-protocols.org/stats?id=49799187) #5 10 points 2 comments -> [A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023](https://jivx.com/fujimi)<!-- HN:49799187:end --><!-- HN:49777121:start -->
+* [49777121](https://news.social-protocols.org/stats?id=49777121) #5 -> [Video games inspire great UX (2019)](https://jenson.org/games/)<!-- HN:49777121:end -->
