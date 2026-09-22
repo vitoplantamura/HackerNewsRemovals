@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49803863](https://news.social-protocols.org/stats?id=49803863) #1 255 points 180 comments -> [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)<!-- HN:49803863:end --><!-- HN:49806050:start -->
 * [49806050](https://news.social-protocols.org/stats?id=49806050) #11 7 points 1 comments -> [Zero-downtime Linux kernel zero-day mitigation via eBPF and SECCOMP](https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-)<!-- HN:49806050:end --><!-- HN:49806905:start -->
 * [49806905](https://news.social-protocols.org/stats?id=49806905) #11 8 points 0 comments -> [The human brain is two separate organs, study finds](https://news.stanford.edu/stories/2026/09/human-brain-two-separate-organs)<!-- HN:49806905:end --><!-- HN:49808096:start -->
-* [49808096](https://news.social-protocols.org/stats?id=49808096) #8 34 points 15 comments -> [No Sloptober](https://no-sloptober.com/)<!-- HN:49808096:end -->
+* [49808096](https://news.social-protocols.org/stats?id=49808096) #8 34 points 15 comments -> [No Sloptober](https://no-sloptober.com/)<!-- HN:49808096:end --><!-- HN:49807688:start -->
+* [49807688](https://news.social-protocols.org/stats?id=49807688) #4 114 points 35 comments -> [LLM Ass Bench](https://www.assbench.com/)<!-- HN:49807688:end -->
