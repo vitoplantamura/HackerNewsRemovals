@@ -103,8 +103,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, September 22, 2026**
 <!-- HN:49797226:start -->
 * [49797226](https://news.social-protocols.org/stats?id=49797226) #9 12 points 4 comments -> [Firmware Freedom](https://playtaurus.com/blog/firmware-freedom)<!-- HN:49797226:end --><!-- HN:49799187:start -->
-* [49799187](https://news.social-protocols.org/stats?id=49799187) #5 10 points 2 comments -> [A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023](https://jivx.com/fujimi)<!-- HN:49799187:end --><!-- HN:49777121:start -->
-* [49777121](https://news.social-protocols.org/stats?id=49777121) #5 -> [Video games inspire great UX (2019)](https://jenson.org/games/)<!-- HN:49777121:end --><!-- HN:49799577:start -->
+* [49799187](https://news.social-protocols.org/stats?id=49799187) #5 10 points 2 comments -> [A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023](https://jivx.com/fujimi)<!-- HN:49799187:end --><!-- HN:49799577:start -->
 * [49799577](https://news.social-protocols.org/stats?id=49799577) #9 34 points 18 comments -> [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)<!-- HN:49799577:end --><!-- HN:49800917:start -->
 * [49800917](https://news.social-protocols.org/stats?id=49800917) #29 15 points 1 comments -> [AI Is Antithetical to Learning](https://jola.dev/posts/ai-antithetical-learning)<!-- HN:49800917:end --><!-- HN:49801782:start -->
 * [49801782](https://news.social-protocols.org/stats?id=49801782) #11 10 points 0 comments -> [Quantum information spreading via higher-order operator correlators](https://arxiv.org/abs/2609.05472)<!-- HN:49801782:end --><!-- HN:49800259:start -->
