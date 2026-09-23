@@ -109,5 +109,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49808096](https://news.social-protocols.org/stats?id=49808096) #8 34 points 15 comments -> [No Sloptober](https://no-sloptober.com/)<!-- HN:49808096:end --><!-- HN:49807688:start -->
 * [49807688](https://news.social-protocols.org/stats?id=49807688) #4 114 points 35 comments -> [LLM Ass Bench](https://www.assbench.com/)<!-- HN:49807688:end -->
 #### **Wednesday, September 23, 2026**
-<!-- HN:49813286:start -->
-* [49813286](https://news.social-protocols.org/stats?id=49813286) #6 64 points 31 comments -> [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)<!-- HN:49813286:end -->
