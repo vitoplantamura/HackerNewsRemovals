@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49808096](https://news.social-protocols.org/stats?id=49808096) #8 34 points 15 comments -> [No Sloptober](https://no-sloptober.com/)<!-- HN:49808096:end --><!-- HN:49807688:start -->
 * [49807688](https://news.social-protocols.org/stats?id=49807688) #4 114 points 35 comments -> [LLM Ass Bench](https://www.assbench.com/)<!-- HN:49807688:end -->
 #### **Wednesday, September 23, 2026**<!-- HN:49813704:start -->
-* [49813704](https://news.social-protocols.org/stats?id=49813704) #4 8 points 0 comments -> [What Is an AI Software Factory? Lessons from 3 Client Deployments](https://camplight.net/ai/ai-software-factory/)<!-- HN:49813704:end -->
+* [49813704](https://news.social-protocols.org/stats?id=49813704) #4 8 points 0 comments -> [What Is an AI Software Factory? Lessons from 3 Client Deployments](https://camplight.net/ai/ai-software-factory/)<!-- HN:49813704:end --><!-- HN:49814211:start -->
+* [49814211](https://news.social-protocols.org/stats?id=49814211) #10 33 points 41 comments -> [The Download: why AI's latest breakthroughs and fears may be more hype than rea](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)<!-- HN:49814211:end -->
