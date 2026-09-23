@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49806905](https://news.social-protocols.org/stats?id=49806905) #11 8 points 0 comments -> [The human brain is two separate organs, study finds](https://news.stanford.edu/stories/2026/09/human-brain-two-separate-organs)<!-- HN:49806905:end --><!-- HN:49808096:start -->
 * [49808096](https://news.social-protocols.org/stats?id=49808096) #8 34 points 15 comments -> [No Sloptober](https://no-sloptober.com/)<!-- HN:49808096:end --><!-- HN:49807688:start -->
 * [49807688](https://news.social-protocols.org/stats?id=49807688) #4 114 points 35 comments -> [LLM Ass Bench](https://www.assbench.com/)<!-- HN:49807688:end -->
-#### **Wednesday, September 23, 2026**
+#### **Wednesday, September 23, 2026**<!-- HN:49813704:start -->
+* [49813704](https://news.social-protocols.org/stats?id=49813704) #4 8 points 0 comments -> [What Is an AI Software Factory? Lessons from 3 Client Deployments](https://camplight.net/ai/ai-software-factory/)<!-- HN:49813704:end -->
