@@ -43,13 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, September 16, 2026**
-<!-- HN:49724194:start -->
-* [49724194](https://news.social-protocols.org/stats?id=49724194) #6 51 points 15 comments -> [Tech Fascism Has Come for American Democracy](https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran)<!-- HN:49724194:end --><!-- HN:49726800:start -->
-* [49726800](https://news.social-protocols.org/stats?id=49726800) #29 5 points 1 comments -> [The American Age Is Over](https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/)<!-- HN:49726800:end --><!-- HN:49688007:start -->
-* [49688007](https://news.social-protocols.org/stats?id=49688007) #12 6 points 1 comments -> [145 Days of Uptime, 56 TiB of Traffic, One Debian Upgrade](https://sarah-robin.com/blog/debian-12-13)<!-- HN:49688007:end --><!-- HN:49731515:start -->
-* [49731515](https://news.social-protocols.org/stats?id=49731515) #19 23 points 2 comments -> [Fed Raises Rates for First Time in Three Years](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)<!-- HN:49731515:end --><!-- HN:49733836:start -->
-* [49733836](https://news.social-protocols.org/stats?id=49733836) #1 31 points 2 comments -> [Flock cameras are riddled with security vulnerabilities and hardcoded creds](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)<!-- HN:49733836:end -->
 #### **Thursday, September 17, 2026**<!-- HN:49736077:start -->
 * [49736077](https://news.social-protocols.org/stats?id=49736077) #7 13 points 1 comments -> [ASCII City](https://asciicity.live/)<!-- HN:49736077:end --><!-- HN:49740093:start -->
 * [49740093](https://news.social-protocols.org/stats?id=49740093) #3 8 points 3 comments -> [My AI agent gets his own calendar](https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/)<!-- HN:49740093:end --><!-- HN:49699611:start -->

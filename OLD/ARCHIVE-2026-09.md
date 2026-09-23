@@ -211,3 +211,10 @@
 * [49715463](https://news.ycombinator.com/item?id=49715463) #8 11 points 16 comments -> [Leaving Linux](https://jackevans.bearblog.dev/leaving-linux/)<!-- HN:49715463:end --><!-- HN:49715802:start -->
 * [49715802](https://news.ycombinator.com/item?id=49715802) #9 5 points 3 comments -> [Why Personal Websites Are Coming Back](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)<!-- HN:49715802:end --><!-- HN:49716702:start -->
 * [49716702](https://news.ycombinator.com/item?id=49716702) #8 10 points 3 comments -> [How AI tool calling works (40 lines of vanilla JavaScript)](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)<!-- HN:49716702:end -->
+#### **Wednesday, September 16, 2026**
+<!-- HN:49724194:start -->
+* [49724194](https://news.ycombinator.com/item?id=49724194) #6 51 points 15 comments -> [Tech Fascism Has Come for American Democracy](https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran)<!-- HN:49724194:end --><!-- HN:49726800:start -->
+* [49726800](https://news.ycombinator.com/item?id=49726800) #29 5 points 1 comments -> [The American Age Is Over](https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/)<!-- HN:49726800:end --><!-- HN:49688007:start -->
+* [49688007](https://news.ycombinator.com/item?id=49688007) #12 6 points 1 comments -> [145 Days of Uptime, 56 TiB of Traffic, One Debian Upgrade](https://sarah-robin.com/blog/debian-12-13)<!-- HN:49688007:end --><!-- HN:49731515:start -->
+* [49731515](https://news.ycombinator.com/item?id=49731515) #19 23 points 2 comments -> [Fed Raises Rates for First Time in Three Years](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)<!-- HN:49731515:end --><!-- HN:49733836:start -->
+* [49733836](https://news.ycombinator.com/item?id=49733836) #1 31 points 2 comments -> [Flock cameras are riddled with security vulnerabilities and hardcoded creds](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)<!-- HN:49733836:end -->
