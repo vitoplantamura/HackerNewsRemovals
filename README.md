@@ -119,4 +119,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, September 24, 2026**
 <!-- HN:49823922:start -->
 * [49823922](https://news.social-protocols.org/stats?id=49823922) #12 9 points 2 comments -> [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)<!-- HN:49823922:end --><!-- HN:49824957:start -->
-* [49824957](https://news.social-protocols.org/stats?id=49824957) #7 10 points 2 comments -> [We used an AI agent to fix an open-source bug. Someone asked to ban us](https://github.com/saulpw/visidata/pull/3229)<!-- HN:49824957:end -->
+* [49824957](https://news.social-protocols.org/stats?id=49824957) #7 10 points 2 comments -> [We used an AI agent to fix an open-source bug. Someone asked to ban us](https://github.com/saulpw/visidata/pull/3229)<!-- HN:49824957:end --><!-- HN:49790937:start -->
+* [49790937](https://news.social-protocols.org/stats?id=49790937) #19 9 points 0 comments -> [Show HN: Combinators in Array Languages](https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/)<!-- HN:49790937:end -->
