@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49822186](https://news.social-protocols.org/stats?id=49822186) #9 24 points 0 comments -> [LensVLM-9B by Apple](https://huggingface.co/papers/2605.07019)<!-- HN:49822186:end --><!-- HN:49822921:start -->
 * [49822921](https://news.social-protocols.org/stats?id=49822921) #2 16 points 5 comments -> [Bulk Orders Surge at Used Bookstores in Japan; 50 Tons Sent to U.S.](https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6)<!-- HN:49822921:end --><!-- HN:49822864:start -->
 * [49822864](https://news.social-protocols.org/stats?id=49822864) #9 93 points 34 comments -> [Claude's Load-Bearing Seams](https://madradavid.com/claudes-load-bearing-seams/)<!-- HN:49822864:end -->
+#### **Thursday, September 24, 2026**
+<!-- HN:49823922:start -->
+* [49823922](https://news.social-protocols.org/stats?id=49823922) #12 9 points 2 comments -> [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)<!-- HN:49823922:end -->
