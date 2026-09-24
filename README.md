@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49822864](https://news.social-protocols.org/stats?id=49822864) #9 93 points 34 comments -> [Claude's Load-Bearing Seams](https://madradavid.com/claudes-load-bearing-seams/)<!-- HN:49822864:end -->
 #### **Thursday, September 24, 2026**
 <!-- HN:49823922:start -->
-* [49823922](https://news.social-protocols.org/stats?id=49823922) #12 9 points 2 comments -> [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)<!-- HN:49823922:end -->
+* [49823922](https://news.social-protocols.org/stats?id=49823922) #12 9 points 2 comments -> [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)<!-- HN:49823922:end --><!-- HN:49824957:start -->
+* [49824957](https://news.social-protocols.org/stats?id=49824957) #7 10 points 2 comments -> [We used an AI agent to fix an open-source bug. Someone asked to ban us](https://github.com/saulpw/visidata/pull/3229)<!-- HN:49824957:end -->
