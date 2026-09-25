@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49832564](https://news.social-protocols.org/stats?id=49832564) #21 27 points 1 comments -> [Oracle invokes force majeure on New Mexico AI data center](https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426)<!-- HN:49832564:end --><!-- HN:49827713:start -->
 * [49827713](https://news.social-protocols.org/stats?id=49827713) #22 9 points 3 comments -> [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)<!-- HN:49827713:end --><!-- HN:49836678:start -->
 * [49836678](https://news.social-protocols.org/stats?id=49836678) #9 7 points 1 comments -> [Vibe Coding Production Kit – a production workflow for AI coding agents](https://github.com/Moeeryani/Vibe-Coding-Production-Kit)<!-- HN:49836678:end -->
+#### **Friday, September 25, 2026**
+<!-- HN:49839510:start -->
+* [49839510](https://news.social-protocols.org/stats?id=49839510) #5 10 points 4 comments -> [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions)<!-- HN:49839510:end -->
