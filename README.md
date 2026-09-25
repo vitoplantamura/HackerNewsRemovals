@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, September 25, 2026**
 <!-- HN:49839510:start -->
 * [49839510](https://news.social-protocols.org/stats?id=49839510) #5 10 points 4 comments -> [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions)<!-- HN:49839510:end --><!-- HN:49841103:start -->
-* [49841103](https://news.social-protocols.org/stats?id=49841103) #6 6 points 6 comments -> [The Efficiency-Throughput Gap with GitHub Copilot](https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/)<!-- HN:49841103:end -->
+* [49841103](https://news.social-protocols.org/stats?id=49841103) #6 6 points 6 comments -> [The Efficiency-Throughput Gap with GitHub Copilot](https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/)<!-- HN:49841103:end --><!-- HN:49841912:start -->
+* [49841912](https://news.social-protocols.org/stats?id=49841912) #3 11 points 9 comments -> [The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs)<!-- HN:49841912:end -->
