@@ -225,3 +225,15 @@
 * [49740330](https://news.ycombinator.com/item?id=49740330) #19 81 points 34 comments -> [I had Gemini train its own replacement for $9](https://www.petervijeh.com/projects/reddit-ner)<!-- HN:49740330:end --><!-- HN:49743095:start -->
 * [49743095](https://news.ycombinator.com/item?id=49743095) #10 11 points 10 comments -> [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join)<!-- HN:49743095:end --><!-- HN:49746986:start -->
 * [49746986](https://news.ycombinator.com/item?id=49746986) #4 105 points 43 comments -> [I Hate You Microsoft](https://henriquenunez.eu/posts/you_did_it_again_ms/)<!-- HN:49746986:end -->
+#### **Friday, September 18, 2026**
+<!-- HN:49749457:start -->
+* [49749457](https://news.ycombinator.com/item?id=49749457) #30 5 points 0 comments -> [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)<!-- HN:49749457:end --><!-- HN:49746654:start -->
+* [49746654](https://news.ycombinator.com/item?id=49746654) #16 195 points 193 comments -> [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)<!-- HN:49746654:end --><!-- HN:49753417:start -->
+* [49753417](https://news.ycombinator.com/item?id=49753417) #16 24 points 41 comments -> [If materialism is true, the United States is probably conscious](https://www.jstor.org/stable/24704177)<!-- HN:49753417:end --><!-- HN:49755062:start -->
+* [49755062](https://news.ycombinator.com/item?id=49755062) #15 4 points 3 comments -> [Friend at Jane Street said they will solve Riemann Hypothesis](https://www.millenniumresearch.ai/)<!-- HN:49755062:end --><!-- HN:49754516:start -->
+* [49754516](https://news.ycombinator.com/item?id=49754516) #24 9 points 2 comments -> [Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong](https://jev-pong.ably.dev/)<!-- HN:49754516:end --><!-- HN:49755312:start -->
+* [49755312](https://news.ycombinator.com/item?id=49755312) #27 22 points 14 comments -> [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/)<!-- HN:49755312:end --><!-- HN:49757973:start -->
+* [49757973](https://news.ycombinator.com/item?id=49757973) #28 6 points 2 comments -> [iPhone Duo is design nerd catnip](https://www.gq-magazine.co.uk/article/iphone-duo-design)<!-- HN:49757973:end --><!-- HN:49757859:start -->
+* [49757859](https://news.ycombinator.com/item?id=49757859) #10 16 points 5 comments -> [Grok Voice Transcribe 2.0](https://x.ai/news/grok-voice-transcribe-2)<!-- HN:49757859:end --><!-- HN:49760746:start -->
+* [49760746](https://news.ycombinator.com/item?id=49760746) #3 37 points 9 comments -> [Y Combinator's PAC is throwing money at Republicans across the country](https://sf.gazetteer.co/y-combinators-pac-is-throwing-money-at-a-bunch-of-republicans-across-the-country)<!-- HN:49760746:end --><!-- HN:49760737:start -->
+* [49760737](https://news.ycombinator.com/item?id=49760737) #9 34 points 42 comments -> [War may be coming. Are we psychologically ready?](https://www.bbc.com/news/articles/cmn0jke547r5o)<!-- HN:49760737:end -->
