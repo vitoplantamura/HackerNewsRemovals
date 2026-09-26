@@ -133,3 +133,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49846391](https://news.social-protocols.org/stats?id=49846391) #28 55 points 38 comments -> [Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem)<!-- HN:49846391:end --><!-- HN:49846864:start -->
 * [49846864](https://news.social-protocols.org/stats?id=49846864) #7 -> [A Skill.md for Commenting on Hacker News](https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker)<!-- HN:49846864:end --><!-- HN:49847359:start -->
 * [49847359](https://news.social-protocols.org/stats?id=49847359) #20 12 points 11 comments -> [The Post-AGI Era](https://www.avidfayaz.com/writings/post-agi/the-post-agi-era)<!-- HN:49847359:end -->
+#### **Saturday, September 26, 2026**
+<!-- HN:49851169:start -->
+* [49851169](https://news.social-protocols.org/stats?id=49851169) #21 27 points 1 comments -> [Issues with Codex – Identified – Full Outage](https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39)<!-- HN:49851169:end -->
