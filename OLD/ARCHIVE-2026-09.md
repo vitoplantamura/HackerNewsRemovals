@@ -237,3 +237,11 @@
 * [49757859](https://news.ycombinator.com/item?id=49757859) #10 16 points 5 comments -> [Grok Voice Transcribe 2.0](https://x.ai/news/grok-voice-transcribe-2)<!-- HN:49757859:end --><!-- HN:49760746:start -->
 * [49760746](https://news.ycombinator.com/item?id=49760746) #3 37 points 9 comments -> [Y Combinator's PAC is throwing money at Republicans across the country](https://sf.gazetteer.co/y-combinators-pac-is-throwing-money-at-a-bunch-of-republicans-across-the-country)<!-- HN:49760746:end --><!-- HN:49760737:start -->
 * [49760737](https://news.ycombinator.com/item?id=49760737) #9 34 points 42 comments -> [War may be coming. Are we psychologically ready?](https://www.bbc.com/news/articles/cmn0jke547r5o)<!-- HN:49760737:end -->
+#### **Saturday, September 19, 2026**
+<!-- HN:49762573:start -->
+* [49762573](https://news.ycombinator.com/item?id=49762573) #2 15 points 6 comments -> [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html)<!-- HN:49762573:end --><!-- HN:49763234:start -->
+* [49763234](https://news.ycombinator.com/item?id=49763234) #13 5 points 0 comments -> [Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than](https://arxiv.org/abs/2609.20779)<!-- HN:49763234:end --><!-- HN:49766911:start -->
+* [49766911](https://news.ycombinator.com/item?id=49766911) #30 39 points 7 comments -> [AI Safety Is Mostly a Sex Cult](https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q)<!-- HN:49766911:end --><!-- HN:49767743:start -->
+* [49767743](https://news.ycombinator.com/item?id=49767743) #4 16 points 2 comments -> [Leaving DigitalOcean, one site at a time](https://keith.is/post/leaving-digitalocean/)<!-- HN:49767743:end --><!-- HN:49768606:start -->
+* [49768606](https://news.ycombinator.com/item?id=49768606) #17 30 points 10 comments -> [People who know the most often sound the least certain](https://vrash.substack.com/p/the-people-who-know-the-most-often)<!-- HN:49768606:end --><!-- HN:49769694:start -->
+* [49769694](https://news.ycombinator.com/item?id=49769694) #9 36 points 17 comments -> [I captured 72 hours of idle Android packets behind pfSense](https://www.praveentechworld.com/research/degoogle-telemetry-2026)<!-- HN:49769694:end -->

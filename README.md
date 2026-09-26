@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 19, 2026**
-<!-- HN:49762573:start -->
-* [49762573](https://news.social-protocols.org/stats?id=49762573) #2 15 points 6 comments -> [The Contract on America](https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html)<!-- HN:49762573:end --><!-- HN:49763234:start -->
-* [49763234](https://news.social-protocols.org/stats?id=49763234) #13 5 points 0 comments -> [Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than](https://arxiv.org/abs/2609.20779)<!-- HN:49763234:end --><!-- HN:49766911:start -->
-* [49766911](https://news.social-protocols.org/stats?id=49766911) #30 39 points 7 comments -> [AI Safety Is Mostly a Sex Cult](https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q)<!-- HN:49766911:end --><!-- HN:49767743:start -->
-* [49767743](https://news.social-protocols.org/stats?id=49767743) #4 16 points 2 comments -> [Leaving DigitalOcean, one site at a time](https://keith.is/post/leaving-digitalocean/)<!-- HN:49767743:end --><!-- HN:49768606:start -->
-* [49768606](https://news.social-protocols.org/stats?id=49768606) #17 30 points 10 comments -> [People who know the most often sound the least certain](https://vrash.substack.com/p/the-people-who-know-the-most-often)<!-- HN:49768606:end --><!-- HN:49769694:start -->
-* [49769694](https://news.social-protocols.org/stats?id=49769694) #9 36 points 17 comments -> [I captured 72 hours of idle Android packets behind pfSense](https://www.praveentechworld.com/research/degoogle-telemetry-2026)<!-- HN:49769694:end -->
 #### **Sunday, September 20, 2026**
 <!-- HN:49770860:start -->
 * [49770860](https://news.social-protocols.org/stats?id=49770860) #24 6 points 1 comments -> [Claudecookie – convert, check, and mint Claude Code credentials from a cookie](https://claudecookie.com/)<!-- HN:49770860:end --><!-- HN:49771118:start -->
