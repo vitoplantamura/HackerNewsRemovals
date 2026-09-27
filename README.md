@@ -137,3 +137,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49823628](https://news.social-protocols.org/stats?id=49823628) #15 123 points 164 comments -> [ASML currently sells no chipmaking machines in Europe, executive says](https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says)<!-- HN:49823628:end --><!-- HN:49860438:start -->
 * [49860438](https://news.social-protocols.org/stats?id=49860438) #7 7 points 6 comments -> [Stop Sending Pictures of Your Palm](https://www.bbc.com/news/technology-30623611)<!-- HN:49860438:end --><!-- HN:49861272:start -->
 * [49861272](https://news.social-protocols.org/stats?id=49861272) #4 10 points 0 comments -> [God's Eye UAP – documented UFO cases on a 3D globe, with the evidence](https://domw99.github.io/Gods-Eye-UAPs/)<!-- HN:49861272:end -->
+#### **Sunday, September 27, 2026**
+<!-- HN:49861717:start -->
+* [49861717](https://news.social-protocols.org/stats?id=49861717) #21 8 points 1 comments -> [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)<!-- HN:49861717:end -->
