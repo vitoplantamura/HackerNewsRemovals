@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, September 27, 2026**
 <!-- HN:49861717:start -->
 * [49861717](https://news.social-protocols.org/stats?id=49861717) #21 8 points 1 comments -> [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)<!-- HN:49861717:end --><!-- HN:49836905:start -->
-* [49836905](https://news.social-protocols.org/stats?id=49836905) #14 9 points 0 comments -> [Why Buran Had Four Computers, Not Three](https://zatona.dev/blog/why-buran-had-four-computers)<!-- HN:49836905:end -->
+* [49836905](https://news.social-protocols.org/stats?id=49836905) #14 9 points 0 comments -> [Why Buran Had Four Computers, Not Three](https://zatona.dev/blog/why-buran-had-four-computers)<!-- HN:49836905:end --><!-- HN:49861659:start -->
+* [49861659](https://news.social-protocols.org/stats?id=49861659) #23 3 points 1 comments -> [Things You Notice Rewatching Ed, Edd N Eddy as an Adult](https://noxluneworld.com/darkest-cartoon-network-episodes/)<!-- HN:49861659:end -->
