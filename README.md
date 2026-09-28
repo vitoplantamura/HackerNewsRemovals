@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49870084](https://news.social-protocols.org/stats?id=49870084) #8 3 points 2 comments -> [DSPy – Program, don't prompt, your LLMs](https://dspy.ai/current/)<!-- HN:49870084:end -->
 #### **Monday, September 28, 2026**
 <!-- HN:49872550:start -->
-* [49872550](https://news.social-protocols.org/stats?id=49872550) #12 8 points 22 comments -> [Show HN: Panda, the world's first personal AI computer](https://pandax1.com)<!-- HN:49872550:end -->
+* [49872550](https://news.social-protocols.org/stats?id=49872550) #12 8 points 22 comments -> [Show HN: Panda, the world's first personal AI computer](https://pandax1.com)<!-- HN:49872550:end --><!-- HN:49872633:start -->
+* [49872633](https://news.social-protocols.org/stats?id=49872633) #28 23 points 12 comments -> [Goodbye to the Hard Parts That Never Mattered](https://jakegoldsborough.com/blog/2026/goodbye-to-the-hard-parts-that-never-mattered/)<!-- HN:49872633:end -->
