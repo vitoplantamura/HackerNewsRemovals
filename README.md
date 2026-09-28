@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49869360](https://news.social-protocols.org/stats?id=49869360) #3 7 points 5 comments -> [Read My Damn Paper](https://wilsoniumite.com/2026/09/27/read-my-damn-paper/)<!-- HN:49869360:end --><!-- HN:49869999:start -->
 * [49869999](https://news.social-protocols.org/stats?id=49869999) #3 4 points 0 comments -> [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)<!-- HN:49869999:end --><!-- HN:49870084:start -->
 * [49870084](https://news.social-protocols.org/stats?id=49870084) #8 3 points 2 comments -> [DSPy – Program, don't prompt, your LLMs](https://dspy.ai/current/)<!-- HN:49870084:end -->
+#### **Monday, September 28, 2026**
+<!-- HN:49872550:start -->
+* [49872550](https://news.social-protocols.org/stats?id=49872550) #12 8 points 22 comments -> [Show HN: Panda, the world's first personal AI computer](https://pandax1.com)<!-- HN:49872550:end -->
