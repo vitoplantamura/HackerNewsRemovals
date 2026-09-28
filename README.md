@@ -131,4 +131,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, September 28, 2026**
 <!-- HN:49872550:start -->
 * [49872550](https://news.social-protocols.org/stats?id=49872550) #12 8 points 22 comments -> [Show HN: Panda, the world's first personal AI computer](https://pandax1.com)<!-- HN:49872550:end --><!-- HN:49872633:start -->
-* [49872633](https://news.social-protocols.org/stats?id=49872633) #28 23 points 12 comments -> [Goodbye to the Hard Parts That Never Mattered](https://jakegoldsborough.com/blog/2026/goodbye-to-the-hard-parts-that-never-mattered/)<!-- HN:49872633:end -->
+* [49872633](https://news.social-protocols.org/stats?id=49872633) #28 23 points 12 comments -> [Goodbye to the Hard Parts That Never Mattered](https://jakegoldsborough.com/blog/2026/goodbye-to-the-hard-parts-that-never-mattered/)<!-- HN:49872633:end --><!-- HN:49872980:start -->
+* [49872980](https://news.social-protocols.org/stats?id=49872980) #14 50 points 2 comments -> [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)<!-- HN:49872980:end -->
