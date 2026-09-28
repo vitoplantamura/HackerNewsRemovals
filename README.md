@@ -43,15 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, September 21, 2026**
-<!-- HN:49782242:start -->
-* [49782242](https://news.social-protocols.org/stats?id=49782242) #5 16 points 1 comments -> [Can I Let My AI Agent Run on Shabbat?](https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm)<!-- HN:49782242:end --><!-- HN:49776699:start -->
-* [49776699](https://news.social-protocols.org/stats?id=49776699) #8 528 points 143 comments -> [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)<!-- HN:49776699:end --><!-- HN:49784873:start -->
-* [49784873](https://news.social-protocols.org/stats?id=49784873) #10 8 points 3 comments -> [Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust](https://github.com/gosuda/bitcoin-rs)<!-- HN:49784873:end --><!-- HN:49785783:start -->
-* [49785783](https://news.social-protocols.org/stats?id=49785783) #8 9 points 6 comments -> [NEC V20 CPU: A bit of pep for an XT](https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/)<!-- HN:49785783:end --><!-- HN:49786401:start -->
-* [49786401](https://news.social-protocols.org/stats?id=49786401) #19 8 points 3 comments -> [Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL](https://github.com/Clickin/SQLBraid)<!-- HN:49786401:end --><!-- HN:49787767:start -->
-* [49787767](https://news.social-protocols.org/stats?id=49787767) #26 120 points 107 comments -> [Meta bans ads for Virginia Woolf play in Spain](https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval)<!-- HN:49787767:end --><!-- HN:49791380:start -->
-* [49791380](https://news.social-protocols.org/stats?id=49791380) #24 -> [Help 404 Media Find Out How Your Local Police Are Surveiling You](https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/)<!-- HN:49791380:end -->
 #### **Tuesday, September 22, 2026**
 <!-- HN:49797226:start -->
 * [49797226](https://news.social-protocols.org/stats?id=49797226) #9 12 points 4 comments -> [Firmware Freedom](https://playtaurus.com/blog/firmware-freedom)<!-- HN:49797226:end --><!-- HN:49799187:start -->
