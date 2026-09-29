@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49881889](https://news.social-protocols.org/stats?id=49881889) #21 20 points 6 comments -> [Claude Sonnet 5.5](https://www.anthropic.com/news/claude-sonnet-5-5)<!-- HN:49881889:end -->
 #### **Tuesday, September 29, 2026**
 <!-- HN:49886247:start -->
-* [49886247](https://news.social-protocols.org/stats?id=49886247) #17 4 points 3 comments -> [Humanos – Help Building the Human Operating System](https://tryhumanos.com)<!-- HN:49886247:end -->
+* [49886247](https://news.social-protocols.org/stats?id=49886247) #17 4 points 3 comments -> [Humanos – Help Building the Human Operating System](https://tryhumanos.com)<!-- HN:49886247:end --><!-- HN:49886277:start -->
+* [49886277](https://news.social-protocols.org/stats?id=49886277) #18 3 points 0 comments -> [AI and the Revenge of the Non-Techies](https://maroun-baydoun.com/blog/ai-revenge-non-techies/)<!-- HN:49886277:end -->
