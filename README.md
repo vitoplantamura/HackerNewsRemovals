@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, September 22, 2026**
-<!-- HN:49797226:start -->
-* [49797226](https://news.social-protocols.org/stats?id=49797226) #9 12 points 4 comments -> [Firmware Freedom](https://playtaurus.com/blog/firmware-freedom)<!-- HN:49797226:end --><!-- HN:49799187:start -->
-* [49799187](https://news.social-protocols.org/stats?id=49799187) #5 10 points 2 comments -> [A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023](https://jivx.com/fujimi)<!-- HN:49799187:end --><!-- HN:49799577:start -->
-* [49799577](https://news.social-protocols.org/stats?id=49799577) #9 34 points 18 comments -> [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)<!-- HN:49799577:end --><!-- HN:49800917:start -->
-* [49800917](https://news.social-protocols.org/stats?id=49800917) #29 15 points 1 comments -> [AI Is Antithetical to Learning](https://jola.dev/posts/ai-antithetical-learning)<!-- HN:49800917:end --><!-- HN:49801782:start -->
-* [49801782](https://news.social-protocols.org/stats?id=49801782) #11 10 points 0 comments -> [Quantum information spreading via higher-order operator correlators](https://arxiv.org/abs/2609.05472)<!-- HN:49801782:end --><!-- HN:49800259:start -->
-* [49800259](https://news.social-protocols.org/stats?id=49800259) #23 39 points 31 comments -> [What Capital Never Told You About Rent](https://www.humansontheloop.com/p/rent)<!-- HN:49800259:end --><!-- HN:49802619:start -->
-* [49802619](https://news.social-protocols.org/stats?id=49802619) #9 12 points 12 comments -> [If you start writing today, there's no way to know if you can write without AI](https://www.ssp.sh/brain/ai-writing/)<!-- HN:49802619:end --><!-- HN:49802160:start -->
-* [49802160](https://news.social-protocols.org/stats?id=49802160) #19 78 points 24 comments -> [Jev – A curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)<!-- HN:49802160:end --><!-- HN:49803863:start -->
-* [49803863](https://news.social-protocols.org/stats?id=49803863) #1 255 points 180 comments -> [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)<!-- HN:49803863:end --><!-- HN:49806050:start -->
-* [49806050](https://news.social-protocols.org/stats?id=49806050) #11 7 points 1 comments -> [Zero-downtime Linux kernel zero-day mitigation via eBPF and SECCOMP](https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-)<!-- HN:49806050:end --><!-- HN:49806905:start -->
-* [49806905](https://news.social-protocols.org/stats?id=49806905) #11 8 points 0 comments -> [The human brain is two separate organs, study finds](https://news.stanford.edu/stories/2026/09/human-brain-two-separate-organs)<!-- HN:49806905:end --><!-- HN:49808096:start -->
-* [49808096](https://news.social-protocols.org/stats?id=49808096) #8 34 points 15 comments -> [No Sloptober](https://no-sloptober.com/)<!-- HN:49808096:end --><!-- HN:49807688:start -->
-* [49807688](https://news.social-protocols.org/stats?id=49807688) #4 114 points 35 comments -> [LLM Ass Bench](https://www.assbench.com/)<!-- HN:49807688:end -->
 #### **Wednesday, September 23, 2026**<!-- HN:49813704:start -->
 * [49813704](https://news.social-protocols.org/stats?id=49813704) #4 8 points 0 comments -> [What Is an AI Software Factory? Lessons from 3 Client Deployments](https://camplight.net/ai/ai-software-factory/)<!-- HN:49813704:end --><!-- HN:49814211:start -->
 * [49814211](https://news.social-protocols.org/stats?id=49814211) #10 33 points 41 comments -> [The Download: why AI's latest breakthroughs and fears may be more hype than rea](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)<!-- HN:49814211:end --><!-- HN:49816221:start -->
