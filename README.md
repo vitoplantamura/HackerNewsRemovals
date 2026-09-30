@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49886277](https://news.social-protocols.org/stats?id=49886277) #18 3 points 0 comments -> [AI and the Revenge of the Non-Techies](https://maroun-baydoun.com/blog/ai-revenge-non-techies/)<!-- HN:49886277:end --><!-- HN:49886609:start -->
 * [49886609](https://news.social-protocols.org/stats?id=49886609) #15 8 points 2 comments -> [We found 24 Android vulnerabilities using our open source AI security agent](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)<!-- HN:49886609:end --><!-- HN:49895047:start -->
 * [49895047](https://news.social-protocols.org/stats?id=49895047) #30 15 points 3 comments -> [Netanyahu claims ability to hack any iPhone and plant false evidence](https://twitter.com/dlLambo/status/2104852335272878530)<!-- HN:49895047:end -->
+#### **Wednesday, September 30, 2026**
+<!-- HN:49904314:start -->
+* [49904314](https://news.social-protocols.org/stats?id=49904314) #25 40 points 40 comments -> [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)<!-- HN:49904314:end -->
