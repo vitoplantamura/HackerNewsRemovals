@@ -116,4 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49895047](https://news.social-protocols.org/stats?id=49895047) #30 15 points 3 comments -> [Netanyahu claims ability to hack any iPhone and plant false evidence](https://twitter.com/dlLambo/status/2104852335272878530)<!-- HN:49895047:end -->
 #### **Wednesday, September 30, 2026**
 <!-- HN:49904314:start -->
-* [49904314](https://news.social-protocols.org/stats?id=49904314) #25 40 points 40 comments -> [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)<!-- HN:49904314:end -->
+* [49904314](https://news.social-protocols.org/stats?id=49904314) #25 40 points 40 comments -> [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)<!-- HN:49904314:end --><!-- HN:49905264:start -->
+* [49905264](https://news.social-protocols.org/stats?id=49905264) #29 19 points 4 comments -> [Postgres with QUIC](https://blogs.lupyd.com/blog/postgres-with-quic/)<!-- HN:49905264:end -->
