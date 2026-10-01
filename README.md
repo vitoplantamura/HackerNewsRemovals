@@ -43,24 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, September 24, 2026**
-<!-- HN:49823922:start -->
-* [49823922](https://news.social-protocols.org/stats?id=49823922) #12 9 points 2 comments -> [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)<!-- HN:49823922:end --><!-- HN:49824957:start -->
-* [49824957](https://news.social-protocols.org/stats?id=49824957) #7 10 points 2 comments -> [We used an AI agent to fix an open-source bug. Someone asked to ban us](https://github.com/saulpw/visidata/pull/3229)<!-- HN:49824957:end --><!-- HN:49790937:start -->
-* [49790937](https://news.social-protocols.org/stats?id=49790937) #19 9 points 0 comments -> [Show HN: Combinators in Array Languages](https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/)<!-- HN:49790937:end --><!-- HN:49825024:start -->
-* [49825024](https://news.social-protocols.org/stats?id=49825024) #22 113 points 77 comments -> [Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)<!-- HN:49825024:end --><!-- HN:49827002:start -->
-* [49827002](https://news.social-protocols.org/stats?id=49827002) #4 10 points 2 comments -> [AI Passport Photo](https://www.aipassportphoto.org/)<!-- HN:49827002:end --><!-- HN:49827019:start -->
-* [49827019](https://news.social-protocols.org/stats?id=49827019) #12 6 points 2 comments -> [Can open-source prompt-injection detectors catch realistic AI agent attacks?](https://github.com/rudratoshs/buried-injections)<!-- HN:49827019:end --><!-- HN:49799702:start -->
-* [49799702](https://news.social-protocols.org/stats?id=49799702) #17 9 points 2 comments -> [The backend that ran every game we made, ten years and counting](https://www.m2h.nl/writing/the-toolkit-behind-ten-years-of-games/)<!-- HN:49799702:end --><!-- HN:49828177:start -->
-* [49828177](https://news.social-protocols.org/stats?id=49828177) #21 10 points 1 comments -> [Looks promising for document editing with your agent](https://www.paperinstruments.com/blog/introducing-paper-office)<!-- HN:49828177:end --><!-- HN:49787482:start -->
-* [49787482](https://news.social-protocols.org/stats?id=49787482) #17 6 points 3 comments -> [Do Food Trucks Need a Commissary Kitchen? Yes – Here's Why That's a Good Thing](https://www.thefoodcorridor.com/blog/do-food-trucks-need-a-commissary-kitchen/)<!-- HN:49787482:end --><!-- HN:49825580:start -->
-* [49825580](https://news.social-protocols.org/stats?id=49825580) #17 239 points 169 comments -> [OpenAI agent hacked Australian government website, PM says](https://www.bbc.com/news/live/cvgl73pxgndwt)<!-- HN:49825580:end --><!-- HN:49833269:start -->
-* [49833269](https://news.social-protocols.org/stats?id=49833269) #21 9 points 0 comments -> [NAZA, a documentary on Israeli war crimes will be free to stream in November](https://twitter.com/yuval_abraham/status/2103061893913162054)<!-- HN:49833269:end --><!-- HN:49833611:start -->
-* [49833611](https://news.social-protocols.org/stats?id=49833611) #11 20 points 12 comments -> [S.F. Democratic Party stands behind Flock surveillance cameras in vote](https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/)<!-- HN:49833611:end --><!-- HN:49832317:start -->
-* [49832317](https://news.social-protocols.org/stats?id=49832317) #20 -> [Why is the human body so crap except for the liver?](https://dynomight.net/liver/)<!-- HN:49832317:end --><!-- HN:49832564:start -->
-* [49832564](https://news.social-protocols.org/stats?id=49832564) #21 27 points 1 comments -> [Oracle invokes force majeure on New Mexico AI data center](https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426)<!-- HN:49832564:end --><!-- HN:49827713:start -->
-* [49827713](https://news.social-protocols.org/stats?id=49827713) #22 9 points 3 comments -> [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)<!-- HN:49827713:end --><!-- HN:49836678:start -->
-* [49836678](https://news.social-protocols.org/stats?id=49836678) #9 7 points 1 comments -> [Vibe Coding Production Kit – a production workflow for AI coding agents](https://github.com/Moeeryani/Vibe-Coding-Production-Kit)<!-- HN:49836678:end -->
 #### **Friday, September 25, 2026**
 <!-- HN:49839510:start -->
 * [49839510](https://news.social-protocols.org/stats?id=49839510) #5 10 points 4 comments -> [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions)<!-- HN:49839510:end --><!-- HN:49841103:start -->
