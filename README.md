@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 1, 2026**
 <!-- HN:49915484:start -->
 * [49915484](https://news.social-protocols.org/stats?id=49915484) #4 25 points 1 comments -> [EDG C++ Compiler is open source](https://github.com/edgcpp/compiler)<!-- HN:49915484:end --><!-- HN:49916015:start -->
-* [49916015](https://news.social-protocols.org/stats?id=49916015) #12 7 points 0 comments -> [The Great Cholesterol Scam and the Dangers of Statins](https://www.midwesterndoctor.com/p/the-great-cholesterol-scam-and-the)<!-- HN:49916015:end -->
+* [49916015](https://news.social-protocols.org/stats?id=49916015) #12 7 points 0 comments -> [The Great Cholesterol Scam and the Dangers of Statins](https://www.midwesterndoctor.com/p/the-great-cholesterol-scam-and-the)<!-- HN:49916015:end --><!-- HN:49888178:start -->
+* [49888178](https://news.social-protocols.org/stats?id=49888178) #20 9 points 10 comments -> [Clipboard Normalizer](https://www.jefftk.com/p/clipboard-normalizer-in-mac-app-store)<!-- HN:49888178:end -->
