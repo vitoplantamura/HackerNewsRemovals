@@ -106,3 +106,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49914539](https://news.social-protocols.org/stats?id=49914539) #10 8 points 5 comments -> [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing/)<!-- HN:49914539:end --><!-- HN:49903129:start -->
 * [49903129](https://news.social-protocols.org/stats?id=49903129) #12 9 points 1 comments -> [Why the Bronze Age collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)<!-- HN:49903129:end --><!-- HN:49915221:start -->
 * [49915221](https://news.social-protocols.org/stats?id=49915221) #7 8 points 2 comments -> [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)<!-- HN:49915221:end -->
+#### **Thursday, October 1, 2026**
+<!-- HN:49915484:start -->
+* [49915484](https://news.social-protocols.org/stats?id=49915484) #4 25 points 1 comments -> [EDG C++ Compiler is open source](https://github.com/edgcpp/compiler)<!-- HN:49915484:end -->
