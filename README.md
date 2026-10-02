@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, September 25, 2026**
-<!-- HN:49839510:start -->
-* [49839510](https://news.social-protocols.org/stats?id=49839510) #5 10 points 4 comments -> [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions)<!-- HN:49839510:end --><!-- HN:49841103:start -->
-* [49841103](https://news.social-protocols.org/stats?id=49841103) #6 6 points 6 comments -> [The Efficiency-Throughput Gap with GitHub Copilot](https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/)<!-- HN:49841103:end --><!-- HN:49841912:start -->
-* [49841912](https://news.social-protocols.org/stats?id=49841912) #3 11 points 9 comments -> [The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs)<!-- HN:49841912:end --><!-- HN:49842707:start -->
-* [49842707](https://news.social-protocols.org/stats?id=49842707) #10 25 points 41 comments -> [Uproar in France over award-winning author accused of using AI](https://www.bbc.com/news/articles/ck7v4y45893go)<!-- HN:49842707:end --><!-- HN:49842788:start -->
-* [49842788](https://news.social-protocols.org/stats?id=49842788) #9 18 points 3 comments -> [Anthropic: The Situation Report](https://www.anthropic.com/features/ebola-response)<!-- HN:49842788:end --><!-- HN:49848201:start -->
-* [49848201](https://news.social-protocols.org/stats?id=49848201) #23 8 points 0 comments -> [How to Cure a Feminist](https://twitter.com/hannahspierMD/status/2102660372939374628)<!-- HN:49848201:end --><!-- HN:49846391:start -->
-* [49846391](https://news.social-protocols.org/stats?id=49846391) #28 55 points 38 comments -> [Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem)<!-- HN:49846391:end --><!-- HN:49846864:start -->
-* [49846864](https://news.social-protocols.org/stats?id=49846864) #7 -> [A Skill.md for Commenting on Hacker News](https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker)<!-- HN:49846864:end --><!-- HN:49847359:start -->
-* [49847359](https://news.social-protocols.org/stats?id=49847359) #20 12 points 11 comments -> [The Post-AGI Era](https://www.avidfayaz.com/writings/post-agi/the-post-agi-era)<!-- HN:49847359:end -->
 #### **Saturday, September 26, 2026**
 <!-- HN:49851169:start -->
 * [49851169](https://news.social-protocols.org/stats?id=49851169) #21 27 points 1 comments -> [Issues with Codex – Identified – Full Outage](https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39)<!-- HN:49851169:end --><!-- HN:49842487:start -->

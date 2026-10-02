@@ -316,3 +316,14 @@
 * [49832564](https://news.ycombinator.com/item?id=49832564) #21 27 points 1 comments -> [Oracle invokes force majeure on New Mexico AI data center](https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426)<!-- HN:49832564:end --><!-- HN:49827713:start -->
 * [49827713](https://news.ycombinator.com/item?id=49827713) #22 9 points 3 comments -> [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)<!-- HN:49827713:end --><!-- HN:49836678:start -->
 * [49836678](https://news.ycombinator.com/item?id=49836678) #9 7 points 1 comments -> [Vibe Coding Production Kit – a production workflow for AI coding agents](https://github.com/Moeeryani/Vibe-Coding-Production-Kit)<!-- HN:49836678:end -->
+#### **Friday, September 25, 2026**
+<!-- HN:49839510:start -->
+* [49839510](https://news.ycombinator.com/item?id=49839510) #5 10 points 4 comments -> [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions)<!-- HN:49839510:end --><!-- HN:49841103:start -->
+* [49841103](https://news.ycombinator.com/item?id=49841103) #6 6 points 6 comments -> [The Efficiency-Throughput Gap with GitHub Copilot](https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/)<!-- HN:49841103:end --><!-- HN:49841912:start -->
+* [49841912](https://news.ycombinator.com/item?id=49841912) #3 11 points 9 comments -> [The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs)<!-- HN:49841912:end --><!-- HN:49842707:start -->
+* [49842707](https://news.ycombinator.com/item?id=49842707) #10 25 points 41 comments -> [Uproar in France over award-winning author accused of using AI](https://www.bbc.com/news/articles/ck7v4y45893go)<!-- HN:49842707:end --><!-- HN:49842788:start -->
+* [49842788](https://news.ycombinator.com/item?id=49842788) #9 18 points 3 comments -> [Anthropic: The Situation Report](https://www.anthropic.com/features/ebola-response)<!-- HN:49842788:end --><!-- HN:49848201:start -->
+* [49848201](https://news.ycombinator.com/item?id=49848201) #23 8 points 0 comments -> [How to Cure a Feminist](https://twitter.com/hannahspierMD/status/2102660372939374628)<!-- HN:49848201:end --><!-- HN:49846391:start -->
+* [49846391](https://news.ycombinator.com/item?id=49846391) #28 55 points 38 comments -> [Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem)<!-- HN:49846391:end --><!-- HN:49846864:start -->
+* [49846864](https://news.ycombinator.com/item?id=49846864) #7 -> [A Skill.md for Commenting on Hacker News](https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker)<!-- HN:49846864:end --><!-- HN:49847359:start -->
+* [49847359](https://news.ycombinator.com/item?id=49847359) #20 12 points 11 comments -> [The Post-AGI Era](https://www.avidfayaz.com/writings/post-agi/the-post-agi-era)<!-- HN:49847359:end -->
