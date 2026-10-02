@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49927392](https://news.social-protocols.org/stats?id=49927392) #14 11 points 11 comments -> [OpenRadioss is not open anymore](https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/)<!-- HN:49927392:end -->
 #### **Friday, October 2, 2026**
 <!-- HN:49933386:start -->
-* [49933386](https://news.social-protocols.org/stats?id=49933386) #3 16 points 4 comments -> [Claude-Shaped Science](https://www.anthropic.com/research/claude-shaped-science)<!-- HN:49933386:end -->
+* [49933386](https://news.social-protocols.org/stats?id=49933386) #3 16 points 4 comments -> [Claude-Shaped Science](https://www.anthropic.com/research/claude-shaped-science)<!-- HN:49933386:end --><!-- HN:49933819:start -->
+* [49933819](https://news.social-protocols.org/stats?id=49933819) #20 11 points 16 comments -> [We're Missing a Key Reason Why Americans Hate AI](https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans)<!-- HN:49933819:end -->
