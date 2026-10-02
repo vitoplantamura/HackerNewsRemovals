@@ -112,5 +112,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 2, 2026**
 <!-- HN:49933386:start -->
 * [49933386](https://news.social-protocols.org/stats?id=49933386) #3 16 points 4 comments -> [Claude-Shaped Science](https://www.anthropic.com/research/claude-shaped-science)<!-- HN:49933386:end --><!-- HN:49933819:start -->
-* [49933819](https://news.social-protocols.org/stats?id=49933819) #20 11 points 16 comments -> [We're Missing a Key Reason Why Americans Hate AI](https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans)<!-- HN:49933819:end --><!-- HN:49934537:start -->
-* [49934537](https://news.social-protocols.org/stats?id=49934537) #21 12 points 3 comments -> [America's Largest Producer of Coal Is Operating Under an Expired Permit](https://insideclimatenews.org/news/01102026/abc-coke-operating-under-expired-permit-in-alabama/)<!-- HN:49934537:end -->
+* [49933819](https://news.social-protocols.org/stats?id=49933819) #20 11 points 16 comments -> [We're Missing a Key Reason Why Americans Hate AI](https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans)<!-- HN:49933819:end -->
