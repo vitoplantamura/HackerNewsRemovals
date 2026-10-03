@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:49940653:start -->
 * [49940653](https://news.social-protocols.org/stats?id=49940653) #4 9 points 3 comments -> [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp)<!-- HN:49940653:end --><!-- HN:49921543:start -->
 * [49921543](https://news.social-protocols.org/stats?id=49921543) #15 6 points 2 comments -> [Eight Bytes Are a Number](https://blog.sebastiansastre.co/posts/eight-bytes-are-already-a-number/)<!-- HN:49921543:end --><!-- HN:49912369:start -->
-* [49912369](https://news.social-protocols.org/stats?id=49912369) #21 3 points 0 comments -> [Museum of Time-Based Art](https://motba.art)<!-- HN:49912369:end -->
+* [49912369](https://news.social-protocols.org/stats?id=49912369) #21 3 points 0 comments -> [Museum of Time-Based Art](https://motba.art)<!-- HN:49912369:end --><!-- HN:49941327:start -->
+* [49941327](https://news.social-protocols.org/stats?id=49941327) #24 5 points 5 comments -> [What if AI worked at 1.000.000 tokens per seconds?](https://www.echohive.ai/one-million-tokens-per-second)<!-- HN:49941327:end -->
