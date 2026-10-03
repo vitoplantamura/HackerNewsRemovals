@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, September 26, 2026**
-<!-- HN:49851169:start -->
-* [49851169](https://news.social-protocols.org/stats?id=49851169) #21 27 points 1 comments -> [Issues with Codex – Identified – Full Outage](https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39)<!-- HN:49851169:end --><!-- HN:49842487:start -->
-* [49842487](https://news.social-protocols.org/stats?id=49842487) #16 193 points 249 comments -> [The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)<!-- HN:49842487:end --><!-- HN:49852131:start -->
-* [49852131](https://news.social-protocols.org/stats?id=49852131) #21 8 points 2 comments -> [The Failed "Hostage Theory" of Nikole Hannah-Jones](https://www.educationprogress.org/p/the-failed-hostage-theory-of-nikole)<!-- HN:49852131:end --><!-- HN:49853522:start -->
-* [49853522](https://news.social-protocols.org/stats?id=49853522) #3 13 points 20 comments -> [Can AI Shopping Agents Be Trusted?](https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out)<!-- HN:49853522:end --><!-- HN:49855670:start -->
-* [49855670](https://news.social-protocols.org/stats?id=49855670) #30 5 points 0 comments -> [Claude Opus 5.5 Should Raise Your Ambitions](https://thezvi.substack.com/p/claude-opus-55-should-raise-your)<!-- HN:49855670:end --><!-- HN:49857173:start -->
-* [49857173](https://news.social-protocols.org/stats?id=49857173) #3 6 points 1 comments -> [A Roman Name for Software](https://marcosmagueta.com/blog/a-roman-name-for-software/)<!-- HN:49857173:end --><!-- HN:49856149:start -->
-* [49856149](https://news.social-protocols.org/stats?id=49856149) #8 56 points 65 comments -> [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)<!-- HN:49856149:end --><!-- HN:49823628:start -->
-* [49823628](https://news.social-protocols.org/stats?id=49823628) #15 123 points 164 comments -> [ASML currently sells no chipmaking machines in Europe, executive says](https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says)<!-- HN:49823628:end --><!-- HN:49860438:start -->
-* [49860438](https://news.social-protocols.org/stats?id=49860438) #7 7 points 6 comments -> [Stop Sending Pictures of Your Palm](https://www.bbc.com/news/technology-30623611)<!-- HN:49860438:end --><!-- HN:49861272:start -->
-* [49861272](https://news.social-protocols.org/stats?id=49861272) #4 10 points 0 comments -> [God's Eye UAP – documented UFO cases on a 3D globe, with the evidence](https://domw99.github.io/Gods-Eye-UAPs/)<!-- HN:49861272:end -->
 #### **Sunday, September 27, 2026**
 <!-- HN:49861717:start -->
 * [49861717](https://news.social-protocols.org/stats?id=49861717) #21 8 points 1 comments -> [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)<!-- HN:49861717:end --><!-- HN:49836905:start -->
