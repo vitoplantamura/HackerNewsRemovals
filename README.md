@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, October 4, 2026**
 <!-- HN:49950283:start -->
 * [49950283](https://news.social-protocols.org/stats?id=49950283) #8 9 points 2 comments -> [Iran says it seized US underwater vehicle conducting 'espionage'](https://thearabweekly.com/iran-says-it-seized-us-underwater-vehicle-conducting-espionage)<!-- HN:49950283:end --><!-- HN:49922074:start -->
-* [49922074](https://news.social-protocols.org/stats?id=49922074) #15 28 points 40 comments -> [Amazon introduces a redesigned Kindle family](https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026)<!-- HN:49922074:end -->
+* [49922074](https://news.social-protocols.org/stats?id=49922074) #15 28 points 40 comments -> [Amazon introduces a redesigned Kindle family](https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026)<!-- HN:49922074:end --><!-- HN:49951081:start -->
+* [49951081](https://news.social-protocols.org/stats?id=49951081) #17 6 points 1 comments -> [I stopped reviewing my agents' code. Here's what I do instead](https://alexeyindeev.substack.com/p/i-stopped-reviewing-my-agents-code)<!-- HN:49951081:end -->
