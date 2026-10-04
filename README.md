@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49947109](https://news.social-protocols.org/stats?id=49947109) #21 38 points 6 comments -> [Elon Musk Emails](https://elonmuskmails.com/)<!-- HN:49947109:end --><!-- HN:49947050:start -->
 * [49947050](https://news.social-protocols.org/stats?id=49947050) #17 36 points 40 comments -> [Anthropic tried to persuade Pope that AI could be conscious being](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)<!-- HN:49947050:end --><!-- HN:49948364:start -->
 * [49948364](https://news.social-protocols.org/stats?id=49948364) #3 16 points 14 comments -> [Writing code by hand is over, forever](https://eliocapella.com/blog/writing-code-by-hand-is-over/)<!-- HN:49948364:end -->
+#### **Sunday, October 4, 2026**
+<!-- HN:49950283:start -->
+* [49950283](https://news.social-protocols.org/stats?id=49950283) #8 9 points 2 comments -> [Iran says it seized US underwater vehicle conducting 'espionage'](https://thearabweekly.com/iran-says-it-seized-us-underwater-vehicle-conducting-espionage)<!-- HN:49950283:end -->
