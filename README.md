@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49948364](https://news.social-protocols.org/stats?id=49948364) #3 16 points 14 comments -> [Writing code by hand is over, forever](https://eliocapella.com/blog/writing-code-by-hand-is-over/)<!-- HN:49948364:end -->
 #### **Sunday, October 4, 2026**
 <!-- HN:49950283:start -->
-* [49950283](https://news.social-protocols.org/stats?id=49950283) #8 9 points 2 comments -> [Iran says it seized US underwater vehicle conducting 'espionage'](https://thearabweekly.com/iran-says-it-seized-us-underwater-vehicle-conducting-espionage)<!-- HN:49950283:end -->
+* [49950283](https://news.social-protocols.org/stats?id=49950283) #8 9 points 2 comments -> [Iran says it seized US underwater vehicle conducting 'espionage'](https://thearabweekly.com/iran-says-it-seized-us-underwater-vehicle-conducting-espionage)<!-- HN:49950283:end --><!-- HN:49922074:start -->
+* [49922074](https://news.social-protocols.org/stats?id=49922074) #15 28 points 40 comments -> [Amazon introduces a redesigned Kindle family](https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026)<!-- HN:49922074:end -->
