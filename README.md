@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, September 27, 2026**
-<!-- HN:49861717:start -->
-* [49861717](https://news.social-protocols.org/stats?id=49861717) #21 8 points 1 comments -> [Claude Deleted 48k Files](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)<!-- HN:49861717:end --><!-- HN:49836905:start -->
-* [49836905](https://news.social-protocols.org/stats?id=49836905) #14 9 points 0 comments -> [Why Buran Had Four Computers, Not Three](https://zatona.dev/blog/why-buran-had-four-computers)<!-- HN:49836905:end --><!-- HN:49861659:start -->
-* [49861659](https://news.social-protocols.org/stats?id=49861659) #23 3 points 1 comments -> [Things You Notice Rewatching Ed, Edd N Eddy as an Adult](https://noxluneworld.com/darkest-cartoon-network-episodes/)<!-- HN:49861659:end --><!-- HN:49862120:start -->
-* [49862120](https://news.social-protocols.org/stats?id=49862120) #1 25 points 12 comments -> [OpenAI (2015)](https://openai.com/index/introducing-openai/)<!-- HN:49862120:end --><!-- HN:49864064:start -->
-* [49864064](https://news.social-protocols.org/stats?id=49864064) #9 6 points 0 comments -> [Kidnapping kids remains legal in USA, this site has you experience it first-hand](https://elan.school/)<!-- HN:49864064:end --><!-- HN:49865452:start -->
-* [49865452](https://news.social-protocols.org/stats?id=49865452) #22 11 points 5 comments -> [DeepSeek has 64% market share](https://twitter.com/gherget/status/2104155774910083275)<!-- HN:49865452:end --><!-- HN:49865067:start -->
-* [49865067](https://news.social-protocols.org/stats?id=49865067) #24 8 points 2 comments -> [Show HN: LightCloud – A cloud console organised like file system](https://www.light-cloud.com/)<!-- HN:49865067:end --><!-- HN:49858285:start -->
-* [49858285](https://news.social-protocols.org/stats?id=49858285) #11 25 points 12 comments -> [Font where each token is equal-width](https://twitter.com/amplifiedamp/status/2103535129503383700)<!-- HN:49858285:end --><!-- HN:49869107:start -->
-* [49869107](https://news.social-protocols.org/stats?id=49869107) #5 7 points 4 comments -> [I don't read code anymore](https://blog.duyet.net/2026/09/i-dont-read-code-anymore/)<!-- HN:49869107:end --><!-- HN:49869360:start -->
-* [49869360](https://news.social-protocols.org/stats?id=49869360) #3 7 points 5 comments -> [Read My Damn Paper](https://wilsoniumite.com/2026/09/27/read-my-damn-paper/)<!-- HN:49869360:end --><!-- HN:49869999:start -->
-* [49869999](https://news.social-protocols.org/stats?id=49869999) #3 4 points 0 comments -> [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)<!-- HN:49869999:end --><!-- HN:49870084:start -->
-* [49870084](https://news.social-protocols.org/stats?id=49870084) #8 3 points 2 comments -> [DSPy – Program, don't prompt, your LLMs](https://dspy.ai/current/)<!-- HN:49870084:end -->
 #### **Monday, September 28, 2026**
 <!-- HN:49872550:start -->
 * [49872550](https://news.social-protocols.org/stats?id=49872550) #12 8 points 22 comments -> [Show HN: Panda, the world's first personal AI computer](https://pandax1.com)<!-- HN:49872550:end --><!-- HN:49872633:start -->
