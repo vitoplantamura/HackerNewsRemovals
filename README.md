@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, September 28, 2026**
-<!-- HN:49872550:start -->
-* [49872550](https://news.social-protocols.org/stats?id=49872550) #12 8 points 22 comments -> [Show HN: Panda, the world's first personal AI computer](https://pandax1.com)<!-- HN:49872550:end --><!-- HN:49872633:start -->
-* [49872633](https://news.social-protocols.org/stats?id=49872633) #28 23 points 12 comments -> [Goodbye to the Hard Parts That Never Mattered](https://jakegoldsborough.com/blog/2026/goodbye-to-the-hard-parts-that-never-mattered/)<!-- HN:49872633:end --><!-- HN:49872980:start -->
-* [49872980](https://news.social-protocols.org/stats?id=49872980) #14 50 points 2 comments -> [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)<!-- HN:49872980:end --><!-- HN:49872864:start -->
-* [49872864](https://news.social-protocols.org/stats?id=49872864) #26 21 points 10 comments -> [TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)<!-- HN:49872864:end --><!-- HN:49875802:start -->
-* [49875802](https://news.social-protocols.org/stats?id=49875802) #13 37 points 18 comments -> [Intellectuals Are Fucking Idiots](https://markmanson.substack.com/p/intellectuals-are-fcking-idiots)<!-- HN:49875802:end --><!-- HN:49878331:start -->
-* [49878331](https://news.social-protocols.org/stats?id=49878331) #6 70 points 7 comments -> [Israel Keeps Expanding into Gaza Despite Cease-Fire, Satellite Images Show](https://www.nytimes.com/interactive/2026/09/28/world/middleeast/israel-gaza-cease-fire-palestinian-territory.html)<!-- HN:49878331:end --><!-- HN:49880992:start -->
-* [49880992](https://news.social-protocols.org/stats?id=49880992) #12 57 points 19 comments -> [Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't](https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/)<!-- HN:49880992:end --><!-- HN:49881889:start -->
-* [49881889](https://news.social-protocols.org/stats?id=49881889) #21 20 points 6 comments -> [Claude Sonnet 5.5](https://www.anthropic.com/news/claude-sonnet-5-5)<!-- HN:49881889:end -->
 #### **Tuesday, September 29, 2026**
 <!-- HN:49886247:start -->
 * [49886247](https://news.social-protocols.org/stats?id=49886247) #17 4 points 3 comments -> [Humanos – Help Building the Human Operating System](https://tryhumanos.com)<!-- HN:49886247:end --><!-- HN:49886277:start -->
