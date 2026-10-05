@@ -108,4 +108,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Monday, October 5, 2026**
 <!-- HN:49959260:start -->
 * [49959260](https://news.social-protocols.org/stats?id=49959260) #6 18 points 4 comments -> [1 in 8 cancer cases are caused by infections](https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say)<!-- HN:49959260:end --><!-- HN:49930690:start -->
-* [49930690](https://news.social-protocols.org/stats?id=49930690) #21 51 points 10 comments -> [Quantitative Finance with OCaml](https://qcaml.com/index.html)<!-- HN:49930690:end -->
+* [49930690](https://news.social-protocols.org/stats?id=49930690) #21 51 points 10 comments -> [Quantitative Finance with OCaml](https://qcaml.com/index.html)<!-- HN:49930690:end --><!-- HN:49962726:start -->
+* [49962726](https://news.social-protocols.org/stats?id=49962726) #15 5 points 1 comments -> [Girl, 12, fatally shot in US during 'dispute over parking space'](https://www.bbc.com/news/articles/cwr5y48p89vvo)<!-- HN:49962726:end -->
