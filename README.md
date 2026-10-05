@@ -105,3 +105,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49956416](https://news.social-protocols.org/stats?id=49956416) #3 5 points 3 comments -> [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)<!-- HN:49956416:end --><!-- HN:49958482:start -->
 * [49958482](https://news.social-protocols.org/stats?id=49958482) #8 5 points 3 comments -> [Erm, does anyone still bother hiring in US/UK?](https://www.hotsourced.io/talent-marketplace)<!-- HN:49958482:end --><!-- HN:49958761:start -->
 * [49958761](https://news.social-protocols.org/stats?id=49958761) #8 14 points 5 comments -> ["No Vendor Lock-In" Is Code for "No Product"](https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product)<!-- HN:49958761:end -->
+#### **Monday, October 5, 2026**
+<!-- HN:49959260:start -->
+* [49959260](https://news.social-protocols.org/stats?id=49959260) #6 18 points 4 comments -> [1 in 8 cancer cases are caused by infections](https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say)<!-- HN:49959260:end -->
