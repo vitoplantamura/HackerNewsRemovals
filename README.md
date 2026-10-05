@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49958761](https://news.social-protocols.org/stats?id=49958761) #8 14 points 5 comments -> ["No Vendor Lock-In" Is Code for "No Product"](https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product)<!-- HN:49958761:end -->
 #### **Monday, October 5, 2026**
 <!-- HN:49959260:start -->
-* [49959260](https://news.social-protocols.org/stats?id=49959260) #6 18 points 4 comments -> [1 in 8 cancer cases are caused by infections](https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say)<!-- HN:49959260:end -->
+* [49959260](https://news.social-protocols.org/stats?id=49959260) #6 18 points 4 comments -> [1 in 8 cancer cases are caused by infections](https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say)<!-- HN:49959260:end --><!-- HN:49930690:start -->
+* [49930690](https://news.social-protocols.org/stats?id=49930690) #21 51 points 10 comments -> [Quantitative Finance with OCaml](https://qcaml.com/index.html)<!-- HN:49930690:end -->
