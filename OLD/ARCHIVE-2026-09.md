@@ -363,3 +363,9 @@
 * [49878331](https://news.ycombinator.com/item?id=49878331) #6 70 points 7 comments -> [Israel Keeps Expanding into Gaza Despite Cease-Fire, Satellite Images Show](https://www.nytimes.com/interactive/2026/09/28/world/middleeast/israel-gaza-cease-fire-palestinian-territory.html)<!-- HN:49878331:end --><!-- HN:49880992:start -->
 * [49880992](https://news.ycombinator.com/item?id=49880992) #12 57 points 19 comments -> [Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't](https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/)<!-- HN:49880992:end --><!-- HN:49881889:start -->
 * [49881889](https://news.ycombinator.com/item?id=49881889) #21 20 points 6 comments -> [Claude Sonnet 5.5](https://www.anthropic.com/news/claude-sonnet-5-5)<!-- HN:49881889:end -->
+#### **Tuesday, September 29, 2026**
+<!-- HN:49886247:start -->
+* [49886247](https://news.ycombinator.com/item?id=49886247) #17 4 points 3 comments -> [Humanos – Help Building the Human Operating System](https://tryhumanos.com)<!-- HN:49886247:end --><!-- HN:49886277:start -->
+* [49886277](https://news.ycombinator.com/item?id=49886277) #18 3 points 0 comments -> [AI and the Revenge of the Non-Techies](https://maroun-baydoun.com/blog/ai-revenge-non-techies/)<!-- HN:49886277:end --><!-- HN:49886609:start -->
+* [49886609](https://news.ycombinator.com/item?id=49886609) #15 8 points 2 comments -> [We found 24 Android vulnerabilities using our open source AI security agent](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)<!-- HN:49886609:end --><!-- HN:49895047:start -->
+* [49895047](https://news.ycombinator.com/item?id=49895047) #30 15 points 3 comments -> [Netanyahu claims ability to hack any iPhone and plant false evidence](https://twitter.com/dlLambo/status/2104852335272878530)<!-- HN:49895047:end -->

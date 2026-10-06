@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, September 29, 2026**
-<!-- HN:49886247:start -->
-* [49886247](https://news.social-protocols.org/stats?id=49886247) #17 4 points 3 comments -> [Humanos – Help Building the Human Operating System](https://tryhumanos.com)<!-- HN:49886247:end --><!-- HN:49886277:start -->
-* [49886277](https://news.social-protocols.org/stats?id=49886277) #18 3 points 0 comments -> [AI and the Revenge of the Non-Techies](https://maroun-baydoun.com/blog/ai-revenge-non-techies/)<!-- HN:49886277:end --><!-- HN:49886609:start -->
-* [49886609](https://news.social-protocols.org/stats?id=49886609) #15 8 points 2 comments -> [We found 24 Android vulnerabilities using our open source AI security agent](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)<!-- HN:49886609:end --><!-- HN:49895047:start -->
-* [49895047](https://news.social-protocols.org/stats?id=49895047) #30 15 points 3 comments -> [Netanyahu claims ability to hack any iPhone and plant false evidence](https://twitter.com/dlLambo/status/2104852335272878530)<!-- HN:49895047:end -->
 #### **Wednesday, September 30, 2026**
 <!-- HN:49905264:start -->
 * [49905264](https://news.social-protocols.org/stats?id=49905264) #29 19 points 4 comments -> [Postgres with QUIC](https://blogs.lupyd.com/blog/postgres-with-quic/)<!-- HN:49905264:end --><!-- HN:49908851:start -->
