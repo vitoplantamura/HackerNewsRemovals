@@ -121,3 +121,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49964018](https://news.social-protocols.org/stats?id=49964018) #16 66 points 1 comments -> [The era of software quality, or the era of ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)<!-- HN:49964018:end --><!-- HN:49971895:start -->
 * [49971895](https://news.social-protocols.org/stats?id=49971895) #9 4 points 1 comments -> [Food Atlas: Connections behind the dishes we love](https://knowledgeartist.org/pages/food-atlas)<!-- HN:49971895:end --><!-- HN:49970073:start -->
 * [49970073](https://news.social-protocols.org/stats?id=49970073) #17 25 points 40 comments -> [The Third Way of Using Linux](https://hisvirusness.com/third-is-the-way)<!-- HN:49970073:end -->
+#### **Tuesday, October 6, 2026**
+<!-- HN:49973811:start -->
+* [49973811](https://news.social-protocols.org/stats?id=49973811) #2 14 points 1 comments -> [A single license fee of £100k.00](https://dbushell.com/copyright/)<!-- HN:49973811:end -->
