@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, October 6, 2026**
 <!-- HN:49973811:start -->
 * [49973811](https://news.social-protocols.org/stats?id=49973811) #2 14 points 1 comments -> [A single license fee of £100k.00](https://dbushell.com/copyright/)<!-- HN:49973811:end --><!-- HN:49974173:start -->
-* [49974173](https://news.social-protocols.org/stats?id=49974173) #8 3 points 1 comments -> [Wood Tape (2004)](http://gamesbyemail.com/WoodTape/Default.htm)<!-- HN:49974173:end -->
+* [49974173](https://news.social-protocols.org/stats?id=49974173) #8 3 points 1 comments -> [Wood Tape (2004)](http://gamesbyemail.com/WoodTape/Default.htm)<!-- HN:49974173:end --><!-- HN:49975484:start -->
+* [49975484](https://news.social-protocols.org/stats?id=49975484) #4 22 points 29 comments -> [German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism](https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/)<!-- HN:49975484:end -->
