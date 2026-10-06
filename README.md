@@ -123,4 +123,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49970073](https://news.social-protocols.org/stats?id=49970073) #17 25 points 40 comments -> [The Third Way of Using Linux](https://hisvirusness.com/third-is-the-way)<!-- HN:49970073:end -->
 #### **Tuesday, October 6, 2026**
 <!-- HN:49973811:start -->
-* [49973811](https://news.social-protocols.org/stats?id=49973811) #2 14 points 1 comments -> [A single license fee of £100k.00](https://dbushell.com/copyright/)<!-- HN:49973811:end -->
+* [49973811](https://news.social-protocols.org/stats?id=49973811) #2 14 points 1 comments -> [A single license fee of £100k.00](https://dbushell.com/copyright/)<!-- HN:49973811:end --><!-- HN:49974173:start -->
+* [49974173](https://news.social-protocols.org/stats?id=49974173) #8 3 points 1 comments -> [Wood Tape (2004)](http://gamesbyemail.com/WoodTape/Default.htm)<!-- HN:49974173:end -->
