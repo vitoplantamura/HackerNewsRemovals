@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 7, 2026**
 <!-- HN:49985740:start -->
 * [49985740](https://news.social-protocols.org/stats?id=49985740) #2 35 points 2 comments -> [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](https://github.com/openai/math/tree/main/preprints)<!-- HN:49985740:end --><!-- HN:49985787:start -->
-* [49985787](https://news.social-protocols.org/stats?id=49985787) #7 9 points 1 comments -> [OpenAI releases 722 math manuscripts](https://github.com/openai/math/blob/main/CONTENTS.md)<!-- HN:49985787:end -->
+* [49985787](https://news.social-protocols.org/stats?id=49985787) #7 9 points 1 comments -> [OpenAI releases 722 math manuscripts](https://github.com/openai/math/blob/main/CONTENTS.md)<!-- HN:49985787:end --><!-- HN:49987125:start -->
+* [49987125](https://news.social-protocols.org/stats?id=49987125) #9 3 points 0 comments -> [Contamos – a shared multi-currency ledger your AI assistant can read and write](https://contamos.xyz/en)<!-- HN:49987125:end -->
