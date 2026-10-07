@@ -369,3 +369,13 @@
 * [49886277](https://news.ycombinator.com/item?id=49886277) #18 3 points 0 comments -> [AI and the Revenge of the Non-Techies](https://maroun-baydoun.com/blog/ai-revenge-non-techies/)<!-- HN:49886277:end --><!-- HN:49886609:start -->
 * [49886609](https://news.ycombinator.com/item?id=49886609) #15 8 points 2 comments -> [We found 24 Android vulnerabilities using our open source AI security agent](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)<!-- HN:49886609:end --><!-- HN:49895047:start -->
 * [49895047](https://news.ycombinator.com/item?id=49895047) #30 15 points 3 comments -> [Netanyahu claims ability to hack any iPhone and plant false evidence](https://twitter.com/dlLambo/status/2104852335272878530)<!-- HN:49895047:end -->
+#### **Wednesday, September 30, 2026**
+<!-- HN:49905264:start -->
+* [49905264](https://news.ycombinator.com/item?id=49905264) #29 19 points 4 comments -> [Postgres with QUIC](https://blogs.lupyd.com/blog/postgres-with-quic/)<!-- HN:49905264:end --><!-- HN:49908851:start -->
+* [49908851](https://news.ycombinator.com/item?id=49908851) #12 6 points 0 comments -> [Scientists Have Found a Weird Physical Sign That Someone Is Interested in You](https://www.iflscience.com/scientists-have-found-a-weird-physical-sign-that-someone-is-interested-in-you-romantically-84795)<!-- HN:49908851:end --><!-- HN:49909629:start -->
+* [49909629](https://news.ycombinator.com/item?id=49909629) #15 25 points 14 comments -> [I can't tell who's teaching who anymore](https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/)<!-- HN:49909629:end --><!-- HN:49886422:start -->
+* [49886422](https://news.ycombinator.com/item?id=49886422) #21 19 points 4 comments -> [Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral)<!-- HN:49886422:end --><!-- HN:49911928:start -->
+* [49911928](https://news.ycombinator.com/item?id=49911928) #16 61 points 23 comments -> [Claude Says](https://ohhfishal.net/Posts/claude)<!-- HN:49911928:end --><!-- HN:49914539:start -->
+* [49914539](https://news.ycombinator.com/item?id=49914539) #10 8 points 5 comments -> [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing/)<!-- HN:49914539:end --><!-- HN:49903129:start -->
+* [49903129](https://news.ycombinator.com/item?id=49903129) #12 9 points 1 comments -> [Why the Bronze Age collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)<!-- HN:49903129:end --><!-- HN:49915221:start -->
+* [49915221](https://news.ycombinator.com/item?id=49915221) #7 8 points 2 comments -> [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)<!-- HN:49915221:end -->

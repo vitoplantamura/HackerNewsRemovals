@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, September 30, 2026**
-<!-- HN:49905264:start -->
-* [49905264](https://news.social-protocols.org/stats?id=49905264) #29 19 points 4 comments -> [Postgres with QUIC](https://blogs.lupyd.com/blog/postgres-with-quic/)<!-- HN:49905264:end --><!-- HN:49908851:start -->
-* [49908851](https://news.social-protocols.org/stats?id=49908851) #12 6 points 0 comments -> [Scientists Have Found a Weird Physical Sign That Someone Is Interested in You](https://www.iflscience.com/scientists-have-found-a-weird-physical-sign-that-someone-is-interested-in-you-romantically-84795)<!-- HN:49908851:end --><!-- HN:49909629:start -->
-* [49909629](https://news.social-protocols.org/stats?id=49909629) #15 25 points 14 comments -> [I can't tell who's teaching who anymore](https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/)<!-- HN:49909629:end --><!-- HN:49886422:start -->
-* [49886422](https://news.social-protocols.org/stats?id=49886422) #21 19 points 4 comments -> [Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral)<!-- HN:49886422:end --><!-- HN:49911928:start -->
-* [49911928](https://news.social-protocols.org/stats?id=49911928) #16 61 points 23 comments -> [Claude Says](https://ohhfishal.net/Posts/claude)<!-- HN:49911928:end --><!-- HN:49914539:start -->
-* [49914539](https://news.social-protocols.org/stats?id=49914539) #10 8 points 5 comments -> [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing/)<!-- HN:49914539:end --><!-- HN:49903129:start -->
-* [49903129](https://news.social-protocols.org/stats?id=49903129) #12 9 points 1 comments -> [Why the Bronze Age collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)<!-- HN:49903129:end --><!-- HN:49915221:start -->
-* [49915221](https://news.social-protocols.org/stats?id=49915221) #7 8 points 2 comments -> [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)<!-- HN:49915221:end -->
 #### **Thursday, October 1, 2026**
 <!-- HN:49915484:start -->
 * [49915484](https://news.social-protocols.org/stats?id=49915484) #4 25 points 1 comments -> [EDG C++ Compiler is open source](https://github.com/edgcpp/compiler)<!-- HN:49915484:end --><!-- HN:49916015:start -->
@@ -143,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49984976](https://news.social-protocols.org/stats?id=49984976) #3 36 points 0 comments -> [Mathematical manuscripts and supporting proof artifacts produced by OpenAI](https://github.com/openai/math)<!-- HN:49984976:end -->
 #### **Wednesday, October 7, 2026**
 <!-- HN:49985740:start -->
-* [49985740](https://news.social-protocols.org/stats?id=49985740) #2 35 points 2 comments -> [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](https://github.com/openai/math/tree/main/preprints)<!-- HN:49985740:end -->
+* [49985740](https://news.social-protocols.org/stats?id=49985740) #2 35 points 2 comments -> [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](https://github.com/openai/math/tree/main/preprints)<!-- HN:49985740:end --><!-- HN:49985787:start -->
+* [49985787](https://news.social-protocols.org/stats?id=49985787) #7 9 points 1 comments -> [OpenAI releases 722 math manuscripts](https://github.com/openai/math/blob/main/CONTENTS.md)<!-- HN:49985787:end -->
