@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49983191](https://news.social-protocols.org/stats?id=49983191) #4 12 points 3 comments -> [Brazil is a right-wing country now](https://www.economist.com/leaders/2026/10/06/brazil-is-a-right-wing-country-now)<!-- HN:49983191:end --><!-- HN:49984322:start -->
 * [49984322](https://news.social-protocols.org/stats?id=49984322) #25 8 points 1 comments -> [Google EmbeddingGemma 2](https://twitter.com/googlegemma/status/2107502533992464482)<!-- HN:49984322:end --><!-- HN:49984976:start -->
 * [49984976](https://news.social-protocols.org/stats?id=49984976) #3 36 points 0 comments -> [Mathematical manuscripts and supporting proof artifacts produced by OpenAI](https://github.com/openai/math)<!-- HN:49984976:end -->
+#### **Wednesday, October 7, 2026**
+<!-- HN:49985740:start -->
+* [49985740](https://news.social-protocols.org/stats?id=49985740) #2 35 points 2 comments -> [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](https://github.com/openai/math/tree/main/preprints)<!-- HN:49985740:end -->
