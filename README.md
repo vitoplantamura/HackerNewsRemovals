@@ -147,4 +147,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49994679](https://news.social-protocols.org/stats?id=49994679) #10 9 points 12 comments -> [A Cop's Case for Flock](https://worksinprogress.co/issue/a-cops-case-for-flock/)<!-- HN:49994679:end --><!-- HN:49996358:start -->
 * [49996358](https://news.social-protocols.org/stats?id=49996358) #9 13 points 1 comments -> [Claude Haiku 5.5](https://platform.claude.com/docs/en/models/haiku-5-5/overview)<!-- HN:49996358:end --><!-- HN:49996383:start -->
 * [49996383](https://news.social-protocols.org/stats?id=49996383) #27 5 points 0 comments -> [Fabrice Bellard: The Ghost in the Code](https://zbruceli.org/blog/the-ghost-in-the-code/)<!-- HN:49996383:end --><!-- HN:49996286:start -->
-* [49996286](https://news.social-protocols.org/stats?id=49996286) #15 15 points 10 comments -> [No new Ghostty updates since March](https://github.com/ghostty-org/ghostty/tags)<!-- HN:49996286:end -->
+* [49996286](https://news.social-protocols.org/stats?id=49996286) #15 15 points 10 comments -> [No new Ghostty updates since March](https://github.com/ghostty-org/ghostty/tags)<!-- HN:49996286:end --><!-- HN:49997831:start -->
+* [49997831](https://news.social-protocols.org/stats?id=49997831) #20 15 points 1 comments -> [The Mathocalypse](https://scottaaronson.blog/)<!-- HN:49997831:end -->
