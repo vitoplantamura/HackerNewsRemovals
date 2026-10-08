@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49998006](https://news.social-protocols.org/stats?id=49998006) #3 84 points 20 comments -> [Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)<!-- HN:49998006:end -->
 #### **Thursday, October 8, 2026**
 <!-- HN:50004284:start -->
-* [50004284](https://news.social-protocols.org/stats?id=50004284) #2 27 points 9 comments -> [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)<!-- HN:50004284:end -->
+* [50004284](https://news.social-protocols.org/stats?id=50004284) #2 27 points 9 comments -> [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)<!-- HN:50004284:end --><!-- HN:50006366:start -->
+* [50006366](https://news.social-protocols.org/stats?id=50006366) #1 193 points 40 comments -> [Show HN: I've been paying for a rural Tanzanian's education for 10 years](https://tanzaniaeducationproject.org/)<!-- HN:50006366:end -->
