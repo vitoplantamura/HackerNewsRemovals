@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 8, 2026**
 <!-- HN:50004284:start -->
 * [50004284](https://news.social-protocols.org/stats?id=50004284) #2 27 points 9 comments -> [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)<!-- HN:50004284:end --><!-- HN:50003107:start -->
-* [50003107](https://news.social-protocols.org/stats?id=50003107) #22 335 points 12 comments -> [OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md)<!-- HN:50003107:end -->
+* [50003107](https://news.social-protocols.org/stats?id=50003107) #22 335 points 12 comments -> [OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md)<!-- HN:50003107:end --><!-- HN:50006948:start -->
+* [50006948](https://news.social-protocols.org/stats?id=50006948) #5 113 points 53 comments -> [US suspends Microsoft, major IT firms from key green card program](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)<!-- HN:50006948:end -->
