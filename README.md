@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49998006](https://news.social-protocols.org/stats?id=49998006) #3 84 points 20 comments -> [Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)<!-- HN:49998006:end -->
 #### **Thursday, October 8, 2026**
 <!-- HN:50004284:start -->
-* [50004284](https://news.social-protocols.org/stats?id=50004284) #2 27 points 9 comments -> [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)<!-- HN:50004284:end -->
+* [50004284](https://news.social-protocols.org/stats?id=50004284) #2 27 points 9 comments -> [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)<!-- HN:50004284:end --><!-- HN:50003107:start -->
+* [50003107](https://news.social-protocols.org/stats?id=50003107) #22 335 points 12 comments -> [OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md)<!-- HN:50003107:end -->
