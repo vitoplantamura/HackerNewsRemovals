@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 9, 2026**
 <!-- HN:50016067:start -->
 * [50016067](https://news.social-protocols.org/stats?id=50016067) #11 3 points 0 comments -> [Cybernetics of AI Companies](https://ai-cybernetics.grok.me)<!-- HN:50016067:end --><!-- HN:50017593:start -->
-* [50017593](https://news.social-protocols.org/stats?id=50017593) #3 10 points 0 comments -> [Run Windows games (up to D3D9) in the browser](https://bottleship.pages.dev/)<!-- HN:50017593:end -->
+* [50017593](https://news.social-protocols.org/stats?id=50017593) #3 10 points 0 comments -> [Run Windows games (up to D3D9) in the browser](https://bottleship.pages.dev/)<!-- HN:50017593:end --><!-- HN:50019858:start -->
+* [50019858](https://news.social-protocols.org/stats?id=50019858) #4 12 points 0 comments -> [Deno Is Joining Cloudflare](https://blog.cloudflare.com/deno-joins-cloudflare/)<!-- HN:50019858:end -->
