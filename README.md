@@ -43,10 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, October 2, 2026**
-<!-- HN:49933386:start -->
-* [49933386](https://news.social-protocols.org/stats?id=49933386) #3 16 points 4 comments -> [Claude-Shaped Science](https://www.anthropic.com/research/claude-shaped-science)<!-- HN:49933386:end --><!-- HN:49933819:start -->
-* [49933819](https://news.social-protocols.org/stats?id=49933819) #20 11 points 16 comments -> [We're Missing a Key Reason Why Americans Hate AI](https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans)<!-- HN:49933819:end -->
 #### **Saturday, October 3, 2026**
 <!-- HN:49940653:start -->
 * [49940653](https://news.social-protocols.org/stats?id=49940653) #4 9 points 3 comments -> [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp)<!-- HN:49940653:end --><!-- HN:49921543:start -->

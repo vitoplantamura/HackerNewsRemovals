@@ -12,3 +12,7 @@
 * [49925421](https://news.ycombinator.com/item?id=49925421) #28 12 points 1 comments -> [Terminal Email: terminal email clients for every system](https://terminalemail.com/)<!-- HN:49925421:end --><!-- HN:49926630:start -->
 * [49926630](https://news.ycombinator.com/item?id=49926630) #6 -> [Manyfold's Agents.md Is Based](https://github.com/manyfold3d/manyfold/blob/main/AGENTS.md)<!-- HN:49926630:end --><!-- HN:49927392:start -->
 * [49927392](https://news.ycombinator.com/item?id=49927392) #14 11 points 11 comments -> [OpenRadioss is not open anymore](https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/)<!-- HN:49927392:end -->
+#### **Friday, October 2, 2026**
+<!-- HN:49933386:start -->
+* [49933386](https://news.ycombinator.com/item?id=49933386) #3 16 points 4 comments -> [Claude-Shaped Science](https://www.anthropic.com/research/claude-shaped-science)<!-- HN:49933386:end --><!-- HN:49933819:start -->
+* [49933819](https://news.ycombinator.com/item?id=49933819) #20 11 points 16 comments -> [We're Missing a Key Reason Why Americans Hate AI](https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans)<!-- HN:49933819:end -->
