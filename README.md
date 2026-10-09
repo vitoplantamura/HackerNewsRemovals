@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50009580](https://news.social-protocols.org/stats?id=50009580) #28 7 points 1 comments -> [Show HN: Artvinto – Vintage posters and fine art prints](https://www.artvinto.com)<!-- HN:50009580:end --><!-- HN:50011028:start -->
 * [50011028](https://news.social-protocols.org/stats?id=50011028) #24 31 points 13 comments -> [License update: AI derivation prohibited on all my art, lore, stories, comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)<!-- HN:50011028:end --><!-- HN:50012199:start -->
 * [50012199](https://news.social-protocols.org/stats?id=50012199) #12 37 points 40 comments -> [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)<!-- HN:50012199:end -->
+#### **Friday, October 9, 2026**
+<!-- HN:50016067:start -->
+* [50016067](https://news.social-protocols.org/stats?id=50016067) #11 3 points 0 comments -> [Cybernetics of AI Companies](https://ai-cybernetics.grok.me)<!-- HN:50016067:end -->
