@@ -16,3 +16,17 @@
 <!-- HN:49933386:start -->
 * [49933386](https://news.ycombinator.com/item?id=49933386) #3 16 points 4 comments -> [Claude-Shaped Science](https://www.anthropic.com/research/claude-shaped-science)<!-- HN:49933386:end --><!-- HN:49933819:start -->
 * [49933819](https://news.ycombinator.com/item?id=49933819) #20 11 points 16 comments -> [We're Missing a Key Reason Why Americans Hate AI](https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans)<!-- HN:49933819:end -->
+#### **Saturday, October 3, 2026**
+<!-- HN:49940653:start -->
+* [49940653](https://news.ycombinator.com/item?id=49940653) #4 9 points 3 comments -> [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp)<!-- HN:49940653:end --><!-- HN:49921543:start -->
+* [49921543](https://news.ycombinator.com/item?id=49921543) #15 6 points 2 comments -> [Eight Bytes Are a Number](https://blog.sebastiansastre.co/posts/eight-bytes-are-already-a-number/)<!-- HN:49921543:end --><!-- HN:49912369:start -->
+* [49912369](https://news.ycombinator.com/item?id=49912369) #21 3 points 0 comments -> [Museum of Time-Based Art](https://motba.art)<!-- HN:49912369:end --><!-- HN:49941327:start -->
+* [49941327](https://news.ycombinator.com/item?id=49941327) #24 5 points 5 comments -> [What if AI worked at 1.000.000 tokens per seconds?](https://www.echohive.ai/one-million-tokens-per-second)<!-- HN:49941327:end --><!-- HN:49942437:start -->
+* [49942437](https://news.ycombinator.com/item?id=49942437) #28 30 points 5 comments -> [U.S. may have overthrown Venezuela due to chat with Grok](https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/)<!-- HN:49942437:end --><!-- HN:49942865:start -->
+* [49942865](https://news.ycombinator.com/item?id=49942865) #1 35 points 40 comments -> [An AI agent emailed researchers for help. It told us why](https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why)<!-- HN:49942865:end --><!-- HN:49945866:start -->
+* [49945866](https://news.ycombinator.com/item?id=49945866) #6 6 points 9 comments -> [EventMaxxer – Automatically apply to events to get you in the right room](https://github.com/giga-james/eventmaxxer)<!-- HN:49945866:end --><!-- HN:49943034:start -->
+* [49943034](https://news.ycombinator.com/item?id=49943034) #20 405 points 13 comments -> [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri)<!-- HN:49943034:end --><!-- HN:49946482:start -->
+* [49946482](https://news.ycombinator.com/item?id=49946482) #7 11 points 10 comments -> [Delta WiFi Survival Guide](https://dialta.adorellc.pro/)<!-- HN:49946482:end --><!-- HN:49947109:start -->
+* [49947109](https://news.ycombinator.com/item?id=49947109) #21 38 points 6 comments -> [Elon Musk Emails](https://elonmuskmails.com/)<!-- HN:49947109:end --><!-- HN:49947050:start -->
+* [49947050](https://news.ycombinator.com/item?id=49947050) #17 36 points 40 comments -> [Anthropic tried to persuade Pope that AI could be conscious being](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)<!-- HN:49947050:end --><!-- HN:49948364:start -->
+* [49948364](https://news.ycombinator.com/item?id=49948364) #3 16 points 14 comments -> [Writing code by hand is over, forever](https://eliocapella.com/blog/writing-code-by-hand-is-over/)<!-- HN:49948364:end -->
