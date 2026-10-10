@@ -143,4 +143,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [49961538](https://news.social-protocols.org/stats?id=49961538) #23 16 points 15 comments -> [The reciprocal sum of the prime-prefix-free numbers converges [pdf]](https://jdb19937.github.io/prime-prefix-free/ppf.pdf)<!-- HN:49961538:end -->
 #### **Saturday, October 10, 2026**
 <!-- HN:50027856:start -->
-* [50027856](https://news.social-protocols.org/stats?id=50027856) #19 4 points 3 comments -> [HostMath – Airbnb profit calculator with break-even occupancy and payback](https://hosttmath.ctonew.app/?src=hn)<!-- HN:50027856:end -->
+* [50027856](https://news.social-protocols.org/stats?id=50027856) #19 4 points 3 comments -> [HostMath – Airbnb profit calculator with break-even occupancy and payback](https://hosttmath.ctonew.app/?src=hn)<!-- HN:50027856:end --><!-- HN:50028176:start -->
+* [50028176](https://news.social-protocols.org/stats?id=50028176) #12 6 points 0 comments -> [Brockovich AI Datacenter Reporting: AI Data Centers Across the United States](https://www.brockovichdatacenter.com/)<!-- HN:50028176:end -->
