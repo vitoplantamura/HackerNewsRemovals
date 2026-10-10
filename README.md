@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50024757](https://news.social-protocols.org/stats?id=50024757) #24 39 points 40 comments -> [Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)<!-- HN:50024757:end --><!-- HN:49990353:start -->
 * [49990353](https://news.social-protocols.org/stats?id=49990353) #20 8 points 0 comments -> [Wi-Fi to Blame?](https://www.lifemote.com/post/the-state-of-1-gbps-what-home-wi-fi-can-actually-carry)<!-- HN:49990353:end --><!-- HN:49961538:start -->
 * [49961538](https://news.social-protocols.org/stats?id=49961538) #23 16 points 15 comments -> [The reciprocal sum of the prime-prefix-free numbers converges [pdf]](https://jdb19937.github.io/prime-prefix-free/ppf.pdf)<!-- HN:49961538:end -->
+#### **Saturday, October 10, 2026**
+<!-- HN:50027856:start -->
+* [50027856](https://news.social-protocols.org/stats?id=50027856) #19 4 points 3 comments -> [HostMath – Airbnb profit calculator with break-even occupancy and payback](https://hosttmath.ctonew.app/?src=hn)<!-- HN:50027856:end -->
