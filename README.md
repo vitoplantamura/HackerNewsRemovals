@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, October 10, 2026**
 <!-- HN:50027856:start -->
 * [50027856](https://news.social-protocols.org/stats?id=50027856) #19 4 points 3 comments -> [HostMath – Airbnb profit calculator with break-even occupancy and payback](https://hosttmath.ctonew.app/?src=hn)<!-- HN:50027856:end --><!-- HN:50028176:start -->
-* [50028176](https://news.social-protocols.org/stats?id=50028176) #12 6 points 0 comments -> [Brockovich AI Datacenter Reporting: AI Data Centers Across the United States](https://www.brockovichdatacenter.com/)<!-- HN:50028176:end -->
+* [50028176](https://news.social-protocols.org/stats?id=50028176) #12 6 points 0 comments -> [Brockovich AI Datacenter Reporting: AI Data Centers Across the United States](https://www.brockovichdatacenter.com/)<!-- HN:50028176:end --><!-- HN:50028283:start -->
+* [50028283](https://news.social-protocols.org/stats?id=50028283) #6 8 points 0 comments -> [Show HN: Yeah Nah – a BS score for Australian job ads](https://yeahnah.lol/)<!-- HN:50028283:end -->
