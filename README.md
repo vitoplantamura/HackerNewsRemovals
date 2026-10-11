@@ -144,3 +144,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50036023](https://news.social-protocols.org/stats?id=50036023) #19 12 points 4 comments -> [Cbirds: A flock of birds in your terminal](https://github.com/clainstone/cbirds)<!-- HN:50036023:end --><!-- HN:50036390:start -->
 * [50036390](https://news.social-protocols.org/stats?id=50036390) #29 18 points 1 comments -> [Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'](https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/)<!-- HN:50036390:end --><!-- HN:50037183:start -->
 * [50037183](https://news.social-protocols.org/stats?id=50037183) #8 5 points 3 comments -> [Why We Still Cannot Read Etruscan](https://veiledantiquity.com/posts/etruscan-language-lost/)<!-- HN:50037183:end -->
+#### **Sunday, October 11, 2026**
+<!-- HN:50038440:start -->
+* [50038440](https://news.social-protocols.org/stats?id=50038440) #7 4 points 1 comments -> [A minimal Rust TUI for managing GitHub repos and branches](https://github.com/jorgeandrecastro/github-workflow)<!-- HN:50038440:end -->
