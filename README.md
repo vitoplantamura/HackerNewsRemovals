@@ -147,4 +147,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, October 11, 2026**
 <!-- HN:50038440:start -->
 * [50038440](https://news.social-protocols.org/stats?id=50038440) #7 4 points 1 comments -> [A minimal Rust TUI for managing GitHub repos and branches](https://github.com/jorgeandrecastro/github-workflow)<!-- HN:50038440:end --><!-- HN:50038640:start -->
-* [50038640](https://news.social-protocols.org/stats?id=50038640) #5 30 points 40 comments -> [Generative AI scandal has come to one of Nikon's competitions](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)<!-- HN:50038640:end -->
+* [50038640](https://news.social-protocols.org/stats?id=50038640) #5 30 points 40 comments -> [Generative AI scandal has come to one of Nikon's competitions](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)<!-- HN:50038640:end --><!-- HN:50038865:start -->
+* [50038865](https://news.social-protocols.org/stats?id=50038865) #17 42 points 40 comments -> [Anthropic asks users to stop being mean to Claude](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)<!-- HN:50038865:end -->
