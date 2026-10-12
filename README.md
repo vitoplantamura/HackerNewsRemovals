@@ -136,5 +136,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50048136](https://news.social-protocols.org/stats?id=50048136) #11 5 points 3 comments -> [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)<!-- HN:50048136:end -->
 #### **Monday, October 12, 2026**
 <!-- HN:50048937:start -->
-* [50048937](https://news.social-protocols.org/stats?id=50048937) #21 9 points 4 comments -> [Rubber Duck: An AI interviewer for the knowledge in your head](https://rubberduck.talk/sign-in)<!-- HN:50048937:end --><!-- HN:50048402:start -->
-* [50048402](https://news.social-protocols.org/stats?id=50048402) #26 9 points 1 comments -> [A college told Flock to remove its cameras. The company refused](https://www.opencampus.org/2026/10/09/to-protect-immigrant-students-a-chicago-area-college-told-flock-to-remove-its-cameras-the-company-refused/)<!-- HN:50048402:end -->
+* [50048937](https://news.social-protocols.org/stats?id=50048937) #21 9 points 4 comments -> [Rubber Duck: An AI interviewer for the knowledge in your head](https://rubberduck.talk/sign-in)<!-- HN:50048937:end -->
