@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50045529](https://news.social-protocols.org/stats?id=50045529) #28 4 points 1 comments -> [Roko's Basilisk](https://en.wikipedia.org/wiki/Roko%27s_basilisk)<!-- HN:50045529:end --><!-- HN:50046117:start -->
 * [50046117](https://news.social-protocols.org/stats?id=50046117) #11 13 points 10 comments -> [Anthropic is out with new nonsense about Claude](https://dair-community.social/@emilymbender/117412868905734653)<!-- HN:50046117:end --><!-- HN:50048136:start -->
 * [50048136](https://news.social-protocols.org/stats?id=50048136) #11 5 points 3 comments -> [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)<!-- HN:50048136:end -->
+#### **Monday, October 12, 2026**
+<!-- HN:50048937:start -->
+* [50048937](https://news.social-protocols.org/stats?id=50048937) #21 9 points 4 comments -> [Rubber Duck: An AI interviewer for the knowledge in your head](https://rubberduck.talk/sign-in)<!-- HN:50048937:end -->
