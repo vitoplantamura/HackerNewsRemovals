@@ -134,3 +134,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50063349](https://news.social-protocols.org/stats?id=50063349) #10 9 points 2 comments -> [AI Is Making Us Dumber – Unless We Fight Back](https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html)<!-- HN:50063349:end --><!-- HN:50062922:start -->
 * [50062922](https://news.social-protocols.org/stats?id=50062922) #22 4 points 1 comments -> [In Praise of John Cale, the Superior Velvet](https://thequietus.com/subscriber-area/low-culture-essay/john-cale-low-culture/)<!-- HN:50062922:end --><!-- HN:50064546:start -->
 * [50064546](https://news.social-protocols.org/stats?id=50064546) #9 4 points 0 comments -> [SQL Injection found on ibm.com subdomain](https://hackerone.com/reports/3662090)<!-- HN:50064546:end -->
+#### **Tuesday, October 13, 2026**
+<!-- HN:50064827:start -->
+* [50064827](https://news.social-protocols.org/stats?id=50064827) #6 8 points 3 comments -> [Instant Software Factories](https://github.com/mikolalysenko/instant-factory)<!-- HN:50064827:end -->
