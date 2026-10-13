@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, October 13, 2026**
 <!-- HN:50064827:start -->
 * [50064827](https://news.social-protocols.org/stats?id=50064827) #6 8 points 3 comments -> [Instant Software Factories](https://github.com/mikolalysenko/instant-factory)<!-- HN:50064827:end --><!-- HN:50064444:start -->
-* [50064444](https://news.social-protocols.org/stats?id=50064444) #24 9 points 0 comments -> [A shared, verifiable fix database that AI agents read and write themselves](https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt)<!-- HN:50064444:end -->
+* [50064444](https://news.social-protocols.org/stats?id=50064444) #24 9 points 0 comments -> [A shared, verifiable fix database that AI agents read and write themselves](https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt)<!-- HN:50064444:end --><!-- HN:50065553:start -->
+* [50065553](https://news.social-protocols.org/stats?id=50065553) #4 23 points 40 comments -> [Strengthening our defenses against distillation attacks](https://www.anthropic.com/research/distillation-defenses)<!-- HN:50065553:end -->
