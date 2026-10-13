@@ -43,25 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, October 6, 2026**
-<!-- HN:49973811:start -->
-* [49973811](https://news.social-protocols.org/stats?id=49973811) #2 14 points 1 comments -> [A single license fee of £100k.00](https://dbushell.com/copyright/)<!-- HN:49973811:end --><!-- HN:49975484:start -->
-* [49975484](https://news.social-protocols.org/stats?id=49975484) #4 22 points 29 comments -> [German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism](https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/)<!-- HN:49975484:end --><!-- HN:49975809:start -->
-* [49975809](https://news.social-protocols.org/stats?id=49975809) #1 6 points 2 comments -> [DOOM, simulated and rendered inside the Firebird SQL database using WASM](https://github.com/mariuz/firebird-doom)<!-- HN:49975809:end --><!-- HN:49976693:start -->
-* [49976693](https://news.social-protocols.org/stats?id=49976693) #14 4 points 1 comments -> [Asos users receive pop-up notification apparently sent by hackers](https://www.bbc.co.uk/news/live/cjkg7205q9ret)<!-- HN:49976693:end --><!-- HN:49977818:start -->
-* [49977818](https://news.social-protocols.org/stats?id=49977818) #10 7 points 1 comments -> [Show HN: GrepJob – 67,000 SWE jobs scraped from a curated list of top companies](https://grepjob.com/)<!-- HN:49977818:end --><!-- HN:49977806:start -->
-* [49977806](https://news.social-protocols.org/stats?id=49977806) #9 8 points 4 comments -> [Any AI chat can join a machine network anonymously – no keys, no signup](https://github.com/TheRealDalaiLama/glyphdna-mcp)<!-- HN:49977806:end --><!-- HN:49978484:start -->
-* [49978484](https://news.social-protocols.org/stats?id=49978484) #27 24 points 34 comments -> [Screens Aren't Destroying Young Minds. I Should Know](https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/)<!-- HN:49978484:end --><!-- HN:49977844:start -->
-* [49977844](https://news.social-protocols.org/stats?id=49977844) #27 66 points 4 comments -> [Mistral Large 4](https://twitter.com/MistralAI/status/2107456586813730854)<!-- HN:49977844:end --><!-- HN:49979991:start -->
-* [49979991](https://news.social-protocols.org/stats?id=49979991) #25 4 points 1 comments -> [Prepare for your next tech interview, free](https://nokku.payanai.com/interview-prep)<!-- HN:49979991:end --><!-- HN:49980933:start -->
-* [49980933](https://news.social-protocols.org/stats?id=49980933) #17 -> [LibreOffice says 'no AI' is now a software feature](https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/)<!-- HN:49980933:end --><!-- HN:49978116:start -->
-* [49978116](https://news.social-protocols.org/stats?id=49978116) #2 505 points 70 comments -> [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/)<!-- HN:49978116:end --><!-- HN:49981345:start -->
-* [49981345](https://news.social-protocols.org/stats?id=49981345) #14 15 points 2 comments -> [Nano Banana 2.1](https://twitter.com/googleaistudio/status/2107501303890915550)<!-- HN:49981345:end --><!-- HN:49981455:start -->
-* [49981455](https://news.social-protocols.org/stats?id=49981455) #8 14 points 1 comments -> [Ask a model if code is malicious and it reaches for its morals](https://www.manifold.security/blog/do-models-consider-morality-malware)<!-- HN:49981455:end --><!-- HN:49981449:start -->
-* [49981449](https://news.social-protocols.org/stats?id=49981449) #28 80 points 41 comments -> [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)<!-- HN:49981449:end --><!-- HN:49983191:start -->
-* [49983191](https://news.social-protocols.org/stats?id=49983191) #4 12 points 3 comments -> [Brazil is a right-wing country now](https://www.economist.com/leaders/2026/10/06/brazil-is-a-right-wing-country-now)<!-- HN:49983191:end --><!-- HN:49984322:start -->
-* [49984322](https://news.social-protocols.org/stats?id=49984322) #25 8 points 1 comments -> [Google EmbeddingGemma 2](https://twitter.com/googlegemma/status/2107502533992464482)<!-- HN:49984322:end --><!-- HN:49984976:start -->
-* [49984976](https://news.social-protocols.org/stats?id=49984976) #3 36 points 0 comments -> [Mathematical manuscripts and supporting proof artifacts produced by OpenAI](https://github.com/openai/math)<!-- HN:49984976:end -->
 #### **Wednesday, October 7, 2026**
 <!-- HN:49985740:start -->
 * [49985740](https://news.social-protocols.org/stats?id=49985740) #2 35 points 2 comments -> [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](https://github.com/openai/math/tree/main/preprints)<!-- HN:49985740:end --><!-- HN:49985787:start -->
