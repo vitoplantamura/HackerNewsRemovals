@@ -43,26 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, October 7, 2026**
-<!-- HN:49985740:start -->
-* [49985740](https://news.social-protocols.org/stats?id=49985740) #2 35 points 2 comments -> [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](https://github.com/openai/math/tree/main/preprints)<!-- HN:49985740:end --><!-- HN:49985787:start -->
-* [49985787](https://news.social-protocols.org/stats?id=49985787) #7 9 points 1 comments -> [OpenAI releases 722 math manuscripts](https://github.com/openai/math/blob/main/CONTENTS.md)<!-- HN:49985787:end --><!-- HN:49987125:start -->
-* [49987125](https://news.social-protocols.org/stats?id=49987125) #9 3 points 0 comments -> [Contamos – a shared multi-currency ledger your AI assistant can read and write](https://contamos.xyz/en)<!-- HN:49987125:end --><!-- HN:49988881:start -->
-* [49988881](https://news.social-protocols.org/stats?id=49988881) #11 16 points 8 comments -> [Clean room implementation of Adobe products](https://github.com/storytold)<!-- HN:49988881:end --><!-- HN:49990737:start -->
-* [49990737](https://news.social-protocols.org/stats?id=49990737) #5 13 points 2 comments -> [YouTube-dl repository restored at GitHub](https://lwn.net/Articles/837343/rss)<!-- HN:49990737:end --><!-- HN:49991092:start -->
-* [49991092](https://news.social-protocols.org/stats?id=49991092) #4 7 points 1 comments -> [Immich Sequence Diagrams](https://app.ilograph.com/demo.ilograph.Immich/Upload%2520Asset)<!-- HN:49991092:end --><!-- HN:49992038:start -->
-* [49992038](https://news.social-protocols.org/stats?id=49992038) #12 7 points 1 comments -> [The keys to the Internet change on October 11. Are you ready?](https://blog.cloudflare.com/root-ksk-2024-rollover/)<!-- HN:49992038:end --><!-- HN:49992046:start -->
-* [49992046](https://news.social-protocols.org/stats?id=49992046) #8 9 points 3 comments -> [Plastic Straw Ban Isn't Environmentalism–It's Virtue Signaling – Oregon Catalyst](https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html)<!-- HN:49992046:end --><!-- HN:49993722:start -->
-* [49993722](https://news.social-protocols.org/stats?id=49993722) #13 22 points 15 comments -> [Someone has decompiled the Adobe suite, rebuilt in Rust and released it as OSS](https://bsky.app/profile/jamesomalley.co.uk/post/3mxbl36nkms2q)<!-- HN:49993722:end --><!-- HN:49993231:start -->
-* [49993231](https://news.social-protocols.org/stats?id=49993231) #9 14 points 40 comments -> [Device detection and occupancy monitoring for Airbnb hosts](https://www.minut.com/features/occupancy-monitoring)<!-- HN:49993231:end --><!-- HN:49993820:start -->
-* [49993820](https://news.social-protocols.org/stats?id=49993820) #13 4 points 6 comments -> [We Built an Alternative to Vector RAG for AI Agent Memory](https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval)<!-- HN:49993820:end --><!-- HN:49994376:start -->
-* [49994376](https://news.social-protocols.org/stats?id=49994376) #22 15 points 1 comments -> [Thank You Indonesia for the Clean Air](https://thankyouindoforthecleanair.web.app/)<!-- HN:49994376:end --><!-- HN:49994679:start -->
-* [49994679](https://news.social-protocols.org/stats?id=49994679) #10 9 points 12 comments -> [A Cop's Case for Flock](https://worksinprogress.co/issue/a-cops-case-for-flock/)<!-- HN:49994679:end --><!-- HN:49996358:start -->
-* [49996358](https://news.social-protocols.org/stats?id=49996358) #9 13 points 1 comments -> [Claude Haiku 5.5](https://platform.claude.com/docs/en/models/haiku-5-5/overview)<!-- HN:49996358:end --><!-- HN:49996383:start -->
-* [49996383](https://news.social-protocols.org/stats?id=49996383) #27 5 points 0 comments -> [Fabrice Bellard: The Ghost in the Code](https://zbruceli.org/blog/the-ghost-in-the-code/)<!-- HN:49996383:end --><!-- HN:49996286:start -->
-* [49996286](https://news.social-protocols.org/stats?id=49996286) #15 15 points 10 comments -> [No new Ghostty updates since March](https://github.com/ghostty-org/ghostty/tags)<!-- HN:49996286:end --><!-- HN:49997971:start -->
-* [49997971](https://news.social-protocols.org/stats?id=49997971) #12 35 points 40 comments -> [Show HN: gtlds.fyi – All the proposed new gTLDs](https://gtlds.fyi/)<!-- HN:49997971:end --><!-- HN:49998006:start -->
-* [49998006](https://news.social-protocols.org/stats?id=49998006) #3 84 points 20 comments -> [Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)<!-- HN:49998006:end -->
 #### **Thursday, October 8, 2026**
 <!-- HN:50004284:start -->
 * [50004284](https://news.social-protocols.org/stats?id=50004284) #2 27 points 9 comments -> [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)<!-- HN:50004284:end --><!-- HN:50003107:start -->
