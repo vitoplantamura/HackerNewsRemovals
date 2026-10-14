@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50074739](https://news.social-protocols.org/stats?id=50074739) #29 28 points 17 comments -> [Americans Trust in Federal Government Sinks to New Depths](https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx)<!-- HN:50074739:end --><!-- HN:50068508:start -->
 * [50068508](https://news.social-protocols.org/stats?id=50068508) #17 110 points 2 comments -> [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)<!-- HN:50068508:end --><!-- HN:50079842:start -->
 * [50079842](https://news.social-protocols.org/stats?id=50079842) #8 8 points 0 comments -> [Running Qwen3.8 at 255 tok/s on a single 5090](https://meshapplied.com)<!-- HN:50079842:end -->
-#### **Wednesday, October 14, 2026**
+#### **Wednesday, October 14, 2026**<!-- HN:50085259:start -->
+* [50085259](https://news.social-protocols.org/stats?id=50085259) #29 42 points 40 comments -> [Agent erased full season of "The Challenge Swe": "Hundreds of days of work gone"](https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren)<!-- HN:50085259:end -->
