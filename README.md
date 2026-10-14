@@ -128,5 +128,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50068508](https://news.social-protocols.org/stats?id=50068508) #17 110 points 2 comments -> [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)<!-- HN:50068508:end --><!-- HN:50079842:start -->
 * [50079842](https://news.social-protocols.org/stats?id=50079842) #8 8 points 0 comments -> [Running Qwen3.8 at 255 tok/s on a single 5090](https://meshapplied.com)<!-- HN:50079842:end -->
 #### **Wednesday, October 14, 2026**
-<!-- HN:50085296:start -->
-* [50085296](https://news.social-protocols.org/stats?id=50085296) #5 33 points 20 comments -> [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)<!-- HN:50085296:end -->
