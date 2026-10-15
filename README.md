@@ -131,5 +131,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50097811:start -->
 * [50097811](https://news.social-protocols.org/stats?id=50097811) #23 5 points 2 comments -> [Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs](https://capsem.org/)<!-- HN:50097811:end --><!-- HN:50098702:start -->
 * [50098702](https://news.social-protocols.org/stats?id=50098702) #2 44 points 1 comments -> [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)<!-- HN:50098702:end --><!-- HN:50101149:start -->
-* [50101149](https://news.social-protocols.org/stats?id=50101149) #3 34 points 40 comments -> [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)<!-- HN:50101149:end --><!-- HN:50102689:start -->
-* [50102689](https://news.social-protocols.org/stats?id=50102689) #3 18 points 1 comments -> [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)<!-- HN:50102689:end -->
+* [50101149](https://news.social-protocols.org/stats?id=50101149) #3 34 points 40 comments -> [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)<!-- HN:50101149:end -->
