@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50096485](https://news.social-protocols.org/stats?id=50096485) #22 11 points 2 comments -> [Problems with the Rust Language](https://oxetene.net/problems-with-the-rust-language/)<!-- HN:50096485:end -->
 #### **Thursday, October 15, 2026**
 <!-- HN:50097811:start -->
-* [50097811](https://news.social-protocols.org/stats?id=50097811) #23 5 points 2 comments -> [Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs](https://capsem.org/)<!-- HN:50097811:end -->
+* [50097811](https://news.social-protocols.org/stats?id=50097811) #23 5 points 2 comments -> [Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs](https://capsem.org/)<!-- HN:50097811:end --><!-- HN:50098702:start -->
+* [50098702](https://news.social-protocols.org/stats?id=50098702) #2 44 points 1 comments -> [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)<!-- HN:50098702:end -->
