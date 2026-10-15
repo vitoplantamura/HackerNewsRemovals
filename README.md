@@ -127,3 +127,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50092847](https://news.social-protocols.org/stats?id=50092847) #18 141 points 63 comments -> [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)<!-- HN:50092847:end --><!-- HN:50096334:start -->
 * [50096334](https://news.social-protocols.org/stats?id=50096334) #5 11 points 0 comments -> [Anthropic revenue jumps to $16.8B in third quarter, claims profitable](https://www.reuters.com/technology/anthropic-revenue-jumps-168-billion-third-quarter-ft-reports-2026-10-14/)<!-- HN:50096334:end --><!-- HN:50096485:start -->
 * [50096485](https://news.social-protocols.org/stats?id=50096485) #22 11 points 2 comments -> [Problems with the Rust Language](https://oxetene.net/problems-with-the-rust-language/)<!-- HN:50096485:end -->
+#### **Thursday, October 15, 2026**
+<!-- HN:50097811:start -->
+* [50097811](https://news.social-protocols.org/stats?id=50097811) #23 5 points 2 comments -> [Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs](https://capsem.org/)<!-- HN:50097811:end -->
