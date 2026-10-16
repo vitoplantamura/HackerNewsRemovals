@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50106620](https://news.social-protocols.org/stats?id=50106620) #17 67 points 5 comments -> [Muse Spark Open, the Most Capable US Open‑Weight Model to Date](https://research.meta.ai/blog/muse-spark-open)<!-- HN:50106620:end --><!-- HN:50106676:start -->
 * [50106676](https://news.social-protocols.org/stats?id=50106676) #26 221 points 10 comments -> [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)<!-- HN:50106676:end --><!-- HN:50103000:start -->
 * [50103000](https://news.social-protocols.org/stats?id=50103000) #7 488 points 1 comments -> [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)<!-- HN:50103000:end -->
+#### **Friday, October 16, 2026**
+<!-- HN:50113528:start -->
+* [50113528](https://news.social-protocols.org/stats?id=50113528) #24 21 points 40 comments -> [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)<!-- HN:50113528:end -->
