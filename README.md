@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, October 9, 2026**
-<!-- HN:50016067:start -->
-* [50016067](https://news.social-protocols.org/stats?id=50016067) #11 3 points 0 comments -> [Cybernetics of AI Companies](https://ai-cybernetics.grok.me)<!-- HN:50016067:end --><!-- HN:50017593:start -->
-* [50017593](https://news.social-protocols.org/stats?id=50017593) #3 10 points 0 comments -> [Run Windows games (up to D3D9) in the browser](https://bottleship.pages.dev/)<!-- HN:50017593:end --><!-- HN:50019858:start -->
-* [50019858](https://news.social-protocols.org/stats?id=50019858) #4 12 points 0 comments -> [Deno Is Joining Cloudflare](https://blog.cloudflare.com/deno-joins-cloudflare/)<!-- HN:50019858:end --><!-- HN:50019535:start -->
-* [50019535](https://news.social-protocols.org/stats?id=50019535) #19 27 points 3 comments -> [Meadows – a small language for stock-and-flow diagrams that run](https://lorezzed.github.io/meadows/)<!-- HN:50019535:end --><!-- HN:50021253:start -->
-* [50021253](https://news.social-protocols.org/stats?id=50021253) #18 9 points 5 comments -> [Agentic coding is a financial trap](https://frugaast.dev/blog/agentic-costs-unsustainable)<!-- HN:50021253:end --><!-- HN:50022654:start -->
-* [50022654](https://news.social-protocols.org/stats?id=50022654) #6 42 points 11 comments -> [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)<!-- HN:50022654:end --><!-- HN:50022590:start -->
-* [50022590](https://news.social-protocols.org/stats?id=50022590) #29 12 points 3 comments -> [City Regrets New Religious Liberty Law Allowing Prayer at City Council Meeting](https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/)<!-- HN:50022590:end --><!-- HN:50023350:start -->
-* [50023350](https://news.social-protocols.org/stats?id=50023350) #25 10 points 1 comments -> [Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code](https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html)<!-- HN:50023350:end --><!-- HN:50023293:start -->
-* [50023293](https://news.social-protocols.org/stats?id=50023293) #28 41 points 2 comments -> [Tomek Korbak: OpenAI's head of safety told they no longer trust me](https://twitter.com/tomekkorbak/status/2108266859397283953)<!-- HN:50023293:end --><!-- HN:50024757:start -->
-* [50024757](https://news.social-protocols.org/stats?id=50024757) #24 39 points 40 comments -> [Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)<!-- HN:50024757:end --><!-- HN:49990353:start -->
-* [49990353](https://news.social-protocols.org/stats?id=49990353) #20 8 points 0 comments -> [Wi-Fi to Blame?](https://www.lifemote.com/post/the-state-of-1-gbps-what-home-wi-fi-can-actually-carry)<!-- HN:49990353:end --><!-- HN:49961538:start -->
-* [49961538](https://news.social-protocols.org/stats?id=49961538) #23 16 points 15 comments -> [The reciprocal sum of the prime-prefix-free numbers converges [pdf]](https://jdb19937.github.io/prime-prefix-free/ppf.pdf)<!-- HN:49961538:end -->
 #### **Saturday, October 10, 2026**
 <!-- HN:50027856:start -->
 * [50027856](https://news.social-protocols.org/stats?id=50027856) #19 4 points 3 comments -> [HostMath – Airbnb profit calculator with break-even occupancy and payback](https://hosttmath.ctonew.app/?src=hn)<!-- HN:50027856:end --><!-- HN:50028176:start -->
