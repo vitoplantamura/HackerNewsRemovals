@@ -128,5 +128,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50113528:start -->
 * [50113528](https://news.social-protocols.org/stats?id=50113528) #24 21 points 40 comments -> [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)<!-- HN:50113528:end --><!-- HN:50116367:start -->
 * [50116367](https://news.social-protocols.org/stats?id=50116367) #26 29 points 40 comments -> [Japanese people still aren't having sex. And nobody knows why](https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience)<!-- HN:50116367:end --><!-- HN:50118863:start -->
-* [50118863](https://news.social-protocols.org/stats?id=50118863) #16 27 points 31 comments -> [Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)<!-- HN:50118863:end --><!-- HN:50118950:start -->
-* [50118950](https://news.social-protocols.org/stats?id=50118950) #30 8 points 2 comments -> [Show HN: Grimoire for Biology](https://grimoire.bio)<!-- HN:50118950:end -->
+* [50118863](https://news.social-protocols.org/stats?id=50118863) #16 27 points 31 comments -> [Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)<!-- HN:50118863:end -->
