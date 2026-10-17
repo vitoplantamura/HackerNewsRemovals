@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50118863](https://news.social-protocols.org/stats?id=50118863) #16 27 points 31 comments -> [Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)<!-- HN:50118863:end --><!-- HN:50118950:start -->
 * [50118950](https://news.social-protocols.org/stats?id=50118950) #28 9 points 2 comments -> [Show HN: Grimoire for Biology](https://grimoire.bio)<!-- HN:50118950:end --><!-- HN:50118624:start -->
 * [50118624](https://news.social-protocols.org/stats?id=50118624) #18 63 points 89 comments -> [Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]](https://www.youtube.com/watch?v=eqOfmtTJD1A)<!-- HN:50118624:end -->
+#### **Saturday, October 17, 2026**
+<!-- HN:50092655:start -->
+* [50092655](https://news.social-protocols.org/stats?id=50092655) #2 21 points 1 comments -> [Ultramarine 1 Flash: Frontier Model 100X Cheaper](https://www.paperinstruments.com/ultramarine)<!-- HN:50092655:end -->
