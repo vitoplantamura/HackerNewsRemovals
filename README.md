@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50118624](https://news.social-protocols.org/stats?id=50118624) #18 63 points 89 comments -> [Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]](https://www.youtube.com/watch?v=eqOfmtTJD1A)<!-- HN:50118624:end -->
 #### **Saturday, October 17, 2026**
 <!-- HN:50092655:start -->
-* [50092655](https://news.social-protocols.org/stats?id=50092655) #2 21 points 1 comments -> [Ultramarine 1 Flash: Frontier Model 100X Cheaper](https://www.paperinstruments.com/ultramarine)<!-- HN:50092655:end -->
+* [50092655](https://news.social-protocols.org/stats?id=50092655) #2 21 points 1 comments -> [Ultramarine 1 Flash: Frontier Model 100X Cheaper](https://www.paperinstruments.com/ultramarine)<!-- HN:50092655:end --><!-- HN:50127732:start -->
+* [50127732](https://news.social-protocols.org/stats?id=50127732) #10 7 points 0 comments -> [DeepSeek v4.1 flash on OpenCode pretty good](https://github.com/aditauqir/shev)<!-- HN:50127732:end -->
