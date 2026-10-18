@@ -118,3 +118,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50133738](https://news.social-protocols.org/stats?id=50133738) #25 6 points 2 comments -> [Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA](https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da)<!-- HN:50133738:end --><!-- HN:50133713:start -->
 * [50133713](https://news.social-protocols.org/stats?id=50133713) #9 24 points 40 comments -> [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)<!-- HN:50133713:end --><!-- HN:50089727:start -->
 * [50089727](https://news.social-protocols.org/stats?id=50089727) #17 7 points 6 comments -> [Almost every dumbphone worth knowing about](https://slowerliving.club/phones/)<!-- HN:50089727:end -->
+#### **Sunday, October 18, 2026**
+<!-- HN:50136881:start -->
+* [50136881](https://news.social-protocols.org/stats?id=50136881) #1 417 points 211 comments -> [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)<!-- HN:50136881:end -->
