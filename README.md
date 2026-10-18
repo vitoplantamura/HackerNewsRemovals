@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, October 11, 2026**
-<!-- HN:50038440:start -->
-* [50038440](https://news.social-protocols.org/stats?id=50038440) #7 4 points 1 comments -> [A minimal Rust TUI for managing GitHub repos and branches](https://github.com/jorgeandrecastro/github-workflow)<!-- HN:50038440:end --><!-- HN:50038640:start -->
-* [50038640](https://news.social-protocols.org/stats?id=50038640) #5 30 points 40 comments -> [Generative AI scandal has come to one of Nikon's competitions](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)<!-- HN:50038640:end --><!-- HN:50038865:start -->
-* [50038865](https://news.social-protocols.org/stats?id=50038865) #17 42 points 40 comments -> [Anthropic asks users to stop being mean to Claude](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)<!-- HN:50038865:end --><!-- HN:50039331:start -->
-* [50039331](https://news.social-protocols.org/stats?id=50039331) #18 19 points 7 comments -> [Terrence Tao does not understand cancer medicine](https://www.drvinayprasad.com/p/terrence-tao-does-not-understand)<!-- HN:50039331:end --><!-- HN:50039633:start -->
-* [50039633](https://news.social-protocols.org/stats?id=50039633) #9 6 points 3 comments -> [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager)<!-- HN:50039633:end --><!-- HN:50042896:start -->
-* [50042896](https://news.social-protocols.org/stats?id=50042896) #15 33 points 4 comments -> [Bot traffic plunged to near 0 following the strike on its Vladimir data center](https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26)<!-- HN:50042896:end --><!-- HN:50042942:start -->
-* [50042942](https://news.social-protocols.org/stats?id=50042942) #13 12 points 5 comments -> [How HN: Go-dev-auth zero-dependency authentication library for Go](https://github.com/go-dev-auth/go-dev-auth)<!-- HN:50042942:end --><!-- HN:50045529:start -->
-* [50045529](https://news.social-protocols.org/stats?id=50045529) #28 4 points 1 comments -> [Roko's Basilisk](https://en.wikipedia.org/wiki/Roko%27s_basilisk)<!-- HN:50045529:end --><!-- HN:50046117:start -->
-* [50046117](https://news.social-protocols.org/stats?id=50046117) #11 13 points 10 comments -> [Anthropic is out with new nonsense about Claude](https://dair-community.social/@emilymbender/117412868905734653)<!-- HN:50046117:end --><!-- HN:50048136:start -->
-* [50048136](https://news.social-protocols.org/stats?id=50048136) #11 5 points 3 comments -> [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)<!-- HN:50048136:end -->
 #### **Monday, October 12, 2026**
 <!-- HN:50048937:start -->
 * [50048937](https://news.social-protocols.org/stats?id=50048937) #21 9 points 4 comments -> [Rubber Duck: An AI interviewer for the knowledge in your head](https://rubberduck.talk/sign-in)<!-- HN:50048937:end --><!-- HN:50049596:start -->
