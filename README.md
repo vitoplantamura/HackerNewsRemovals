@@ -110,3 +110,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50141206](https://news.social-protocols.org/stats?id=50141206) #11 79 points 25 comments -> [Theranos-Style Fraud Has Become the Norm](https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/)<!-- HN:50141206:end --><!-- HN:50142034:start -->
 * [50142034](https://news.social-protocols.org/stats?id=50142034) #5 16 points 4 comments -> [Campus deplatformings hit record high](https://expression.fire.org/p/campus-deplatformings-hit-record)<!-- HN:50142034:end --><!-- HN:50103988:start -->
 * [50103988](https://news.social-protocols.org/stats?id=50103988) #28 16 points 23 comments -> [They war-gamed dimming the Sun. It went worse than you think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)<!-- HN:50103988:end -->
+#### **Monday, October 19, 2026**
+<!-- HN:50148396:start -->
+* [50148396](https://news.social-protocols.org/stats?id=50148396) #18 22 points 6 comments -> [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)<!-- HN:50148396:end -->
