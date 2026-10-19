@@ -43,25 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, October 12, 2026**
-<!-- HN:50048937:start -->
-* [50048937](https://news.social-protocols.org/stats?id=50048937) #21 9 points 4 comments -> [Rubber Duck: An AI interviewer for the knowledge in your head](https://rubberduck.talk/sign-in)<!-- HN:50048937:end --><!-- HN:50049596:start -->
-* [50049596](https://news.social-protocols.org/stats?id=50049596) #24 7 points 0 comments -> [Yes I Understand How LLMs Work](https://kemendo.com/yes-i-understand-how-llms-work.html)<!-- HN:50049596:end --><!-- HN:50049425:start -->
-* [50049425](https://news.social-protocols.org/stats?id=50049425) #19 12 points 2 comments -> [Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM](https://github.com/moral666/QT)<!-- HN:50049425:end --><!-- HN:50051172:start -->
-* [50051172](https://news.social-protocols.org/stats?id=50051172) #15 46 points 24 comments -> [X Is Bad, Though](https://lexontech.org/x-is-bad-though)<!-- HN:50051172:end --><!-- HN:50051532:start -->
-* [50051532](https://news.social-protocols.org/stats?id=50051532) #1 189 points 69 comments -> [Yandex bot traffic down 99% after data center attack](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)<!-- HN:50051532:end --><!-- HN:50055176:start -->
-* [50055176](https://news.social-protocols.org/stats?id=50055176) #7 3 points 0 comments -> [The Genocide Economy, Mapped](https://bl00d.money/)<!-- HN:50055176:end --><!-- HN:50051583:start -->
-* [50051583](https://news.social-protocols.org/stats?id=50051583) #25 224 points 175 comments -> [Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)<!-- HN:50051583:end --><!-- HN:50058127:start -->
-* [50058127](https://news.social-protocols.org/stats?id=50058127) #1 18 points 23 comments -> [Discover vibe-coded alternatives to popular software](https://vibealternatives.com/)<!-- HN:50058127:end --><!-- HN:50058569:start -->
-* [50058569](https://news.social-protocols.org/stats?id=50058569) #4 14 points 6 comments -> [French supermarkets suffer refrigerator shutdown after unprecedented cyberattack](https://www.afp.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack)<!-- HN:50058569:end --><!-- HN:50057384:start -->
-* [50057384](https://news.social-protocols.org/stats?id=50057384) #24 45 points 4 comments -> [Hackers heat French supermarket fridges, sparking fires and food losses](https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/)<!-- HN:50057384:end --><!-- HN:50060268:start -->
-* [50060268](https://news.social-protocols.org/stats?id=50060268) #14 14 points 0 comments -> [Show HN: I rewrote my website in Swift](https://sindresorhus.com/blog/swift-website)<!-- HN:50060268:end --><!-- HN:50060311:start -->
-* [50060311](https://news.social-protocols.org/stats?id=50060311) #24 34 points 30 comments -> [Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts](https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch)<!-- HN:50060311:end --><!-- HN:50057551:start -->
-* [50057551](https://news.social-protocols.org/stats?id=50057551) #23 142 points 87 comments -> [Fridges in French supermarkets hit by cyber attack](https://www.bbc.com/news/articles/crq5nzxv9q4yo)<!-- HN:50057551:end --><!-- HN:50062205:start -->
-* [50062205](https://news.social-protocols.org/stats?id=50062205) #24 12 points 3 comments -> [Muse DAU dropped and Meta insiders decided to sell](https://theinference.org/article/meta-s-muse-daily-user-growth-fell-62-in-three-weeks-and-insiders-made-172-trades-without-a-buy)<!-- HN:50062205:end --><!-- HN:50063349:start -->
-* [50063349](https://news.social-protocols.org/stats?id=50063349) #10 9 points 2 comments -> [AI Is Making Us Dumber – Unless We Fight Back](https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html)<!-- HN:50063349:end --><!-- HN:50062922:start -->
-* [50062922](https://news.social-protocols.org/stats?id=50062922) #22 4 points 1 comments -> [In Praise of John Cale, the Superior Velvet](https://thequietus.com/subscriber-area/low-culture-essay/john-cale-low-culture/)<!-- HN:50062922:end --><!-- HN:50064546:start -->
-* [50064546](https://news.social-protocols.org/stats?id=50064546) #9 4 points 0 comments -> [SQL Injection found on ibm.com subdomain](https://hackerone.com/reports/3662090)<!-- HN:50064546:end -->
 #### **Tuesday, October 13, 2026**
 <!-- HN:50064827:start -->
 * [50064827](https://news.social-protocols.org/stats?id=50064827) #6 8 points 3 comments -> [Instant Software Factories](https://github.com/mikolalysenko/instant-factory)<!-- HN:50064827:end --><!-- HN:50064444:start -->
