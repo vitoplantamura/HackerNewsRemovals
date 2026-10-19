@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50148396:start -->
 * [50148396](https://news.social-protocols.org/stats?id=50148396) #18 22 points 6 comments -> [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)<!-- HN:50148396:end --><!-- HN:50148882:start -->
 * [50148882](https://news.social-protocols.org/stats?id=50148882) #3 15 points 6 comments -> [Agent-Skills.market](https://agent-skills.market/)<!-- HN:50148882:end --><!-- HN:50150908:start -->
-* [50150908](https://news.social-protocols.org/stats?id=50150908) #4 10 points 4 comments -> [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)<!-- HN:50150908:end -->
+* [50150908](https://news.social-protocols.org/stats?id=50150908) #4 10 points 4 comments -> [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)<!-- HN:50150908:end --><!-- HN:50152207:start -->
+* [50152207](https://news.social-protocols.org/stats?id=50152207) #17 -> [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)<!-- HN:50152207:end -->
