@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50103988](https://news.social-protocols.org/stats?id=50103988) #28 16 points 23 comments -> [They war-gamed dimming the Sun. It went worse than you think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)<!-- HN:50103988:end -->
 #### **Monday, October 19, 2026**
 <!-- HN:50148396:start -->
-* [50148396](https://news.social-protocols.org/stats?id=50148396) #18 22 points 6 comments -> [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)<!-- HN:50148396:end -->
+* [50148396](https://news.social-protocols.org/stats?id=50148396) #18 22 points 6 comments -> [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)<!-- HN:50148396:end --><!-- HN:50148882:start -->
+* [50148882](https://news.social-protocols.org/stats?id=50148882) #3 15 points 6 comments -> [Agent-Skills.market](https://agent-skills.market/)<!-- HN:50148882:end -->
