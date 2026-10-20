@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, October 20, 2026**
 <!-- HN:50159464:start -->
 * [50159464](https://news.social-protocols.org/stats?id=50159464) #21 35 points 37 comments -> [Token-maxxing is dead, OpenRouter's token usage plateaus](https://openrouter.ai/rankings)<!-- HN:50159464:end --><!-- HN:50159993:start -->
-* [50159993](https://news.social-protocols.org/stats?id=50159993) #1 243 points 131 comments -> [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)<!-- HN:50159993:end -->
+* [50159993](https://news.social-protocols.org/stats?id=50159993) #1 243 points 131 comments -> [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)<!-- HN:50159993:end --><!-- HN:50160289:start -->
+* [50160289](https://news.social-protocols.org/stats?id=50160289) #1 60 points 32 comments -> [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd)<!-- HN:50160289:end -->
