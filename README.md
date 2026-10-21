@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50180943](https://news.social-protocols.org/stats?id=50180943) #2 261 points 103 comments -> [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)<!-- HN:50180943:end --><!-- HN:50181265:start -->
 * [50181265](https://news.social-protocols.org/stats?id=50181265) #7 29 points 4 comments -> [Patch the Planet](https://patchtheplanet.org/)<!-- HN:50181265:end --><!-- HN:50181058:start -->
 * [50181058](https://news.social-protocols.org/stats?id=50181058) #13 30 points 2 comments -> [PHP2Shell](https://www.php2shell.com)<!-- HN:50181058:end --><!-- HN:50179706:start -->
-* [50179706](https://news.social-protocols.org/stats?id=50179706) #19 227 points 112 comments -> [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)<!-- HN:50179706:end -->
+* [50179706](https://news.social-protocols.org/stats?id=50179706) #19 227 points 112 comments -> [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)<!-- HN:50179706:end --><!-- HN:50185455:start -->
+* [50185455](https://news.social-protocols.org/stats?id=50185455) #13 12 points 5 comments -> [Open Source Games](https://opensourcegames.dev/)<!-- HN:50185455:end -->
