@@ -118,4 +118,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, October 21, 2026**
 <!-- HN:50174448:start -->
 * [50174448](https://news.social-protocols.org/stats?id=50174448) #17 8 points 7 comments -> [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)<!-- HN:50174448:end --><!-- HN:50175075:start -->
-* [50175075](https://news.social-protocols.org/stats?id=50175075) #25 6 points 16 comments -> [T3 Code starting move to GitCafe](https://git.cafe/pingdotgg/t3code)<!-- HN:50175075:end -->
+* [50175075](https://news.social-protocols.org/stats?id=50175075) #25 6 points 16 comments -> [T3 Code starting move to GitCafe](https://git.cafe/pingdotgg/t3code)<!-- HN:50175075:end --><!-- HN:50175063:start -->
+* [50175063](https://news.social-protocols.org/stats?id=50175063) #18 7 points 0 comments -> [GitHub package firewall](https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/)<!-- HN:50175063:end -->
