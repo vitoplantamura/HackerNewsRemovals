@@ -115,3 +115,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50167560](https://news.social-protocols.org/stats?id=50167560) #30 6 points 1 comments -> [How to Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)<!-- HN:50167560:end --><!-- HN:50153229:start -->
 * [50153229](https://news.social-protocols.org/stats?id=50153229) #16 43 points 7 comments -> [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)<!-- HN:50153229:end --><!-- HN:50172809:start -->
 * [50172809](https://news.social-protocols.org/stats?id=50172809) #15 10 points 1 comments -> [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)<!-- HN:50172809:end -->
+#### **Wednesday, October 21, 2026**
+<!-- HN:50174448:start -->
+* [50174448](https://news.social-protocols.org/stats?id=50174448) #17 8 points 7 comments -> [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)<!-- HN:50174448:end -->
