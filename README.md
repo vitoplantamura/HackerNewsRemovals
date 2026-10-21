@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50172809](https://news.social-protocols.org/stats?id=50172809) #15 10 points 1 comments -> [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)<!-- HN:50172809:end -->
 #### **Wednesday, October 21, 2026**
 <!-- HN:50174448:start -->
-* [50174448](https://news.social-protocols.org/stats?id=50174448) #17 8 points 7 comments -> [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)<!-- HN:50174448:end -->
+* [50174448](https://news.social-protocols.org/stats?id=50174448) #17 8 points 7 comments -> [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)<!-- HN:50174448:end --><!-- HN:50175075:start -->
+* [50175075](https://news.social-protocols.org/stats?id=50175075) #25 6 points 16 comments -> [T3 Code starting move to GitCafe](https://git.cafe/pingdotgg/t3code)<!-- HN:50175075:end -->
