@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, October 15, 2026**
-<!-- HN:50097811:start -->
-* [50097811](https://news.social-protocols.org/stats?id=50097811) #23 5 points 2 comments -> [Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs](https://capsem.org/)<!-- HN:50097811:end --><!-- HN:50098702:start -->
-* [50098702](https://news.social-protocols.org/stats?id=50098702) #2 44 points 1 comments -> [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)<!-- HN:50098702:end --><!-- HN:50101149:start -->
-* [50101149](https://news.social-protocols.org/stats?id=50101149) #3 34 points 40 comments -> [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)<!-- HN:50101149:end --><!-- HN:50102689:start -->
-* [50102689](https://news.social-protocols.org/stats?id=50102689) #3 -> [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)<!-- HN:50102689:end --><!-- HN:50102854:start -->
-* [50102854](https://news.social-protocols.org/stats?id=50102854) #25 44 points 41 comments -> [X purges 13,000 accounts linked to suspected meddling ahead of US midterms](https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234)<!-- HN:50102854:end --><!-- HN:50103090:start -->
-* [50103090](https://news.social-protocols.org/stats?id=50103090) #18 10 points 1 comments -> [Hiring in tech is mostly bullshit](https://tej.as/blog/companies-are-full-of-it)<!-- HN:50103090:end --><!-- HN:50106620:start -->
-* [50106620](https://news.social-protocols.org/stats?id=50106620) #17 67 points 5 comments -> [Muse Spark Open, the Most Capable US Open‑Weight Model to Date](https://research.meta.ai/blog/muse-spark-open)<!-- HN:50106620:end --><!-- HN:50106676:start -->
-* [50106676](https://news.social-protocols.org/stats?id=50106676) #26 221 points 10 comments -> [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)<!-- HN:50106676:end --><!-- HN:50103000:start -->
-* [50103000](https://news.social-protocols.org/stats?id=50103000) #7 488 points 1 comments -> [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)<!-- HN:50103000:end -->
 #### **Friday, October 16, 2026**
 <!-- HN:50113528:start -->
 * [50113528](https://news.social-protocols.org/stats?id=50113528) #24 21 points 40 comments -> [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)<!-- HN:50113528:end --><!-- HN:50116367:start -->
