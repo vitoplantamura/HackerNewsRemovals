@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50185438](https://news.social-protocols.org/stats?id=50185438) #14 45 points 41 comments -> [Anthropic's Public Benefit Charter](https://www.anthropic.com/public-benefit-charter)<!-- HN:50185438:end --><!-- HN:50186215:start -->
 * [50186215](https://news.social-protocols.org/stats?id=50186215) #2 200 points 2 comments -> [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)<!-- HN:50186215:end --><!-- HN:50186129:start -->
 * [50186129](https://news.social-protocols.org/stats?id=50186129) #19 312 points 90 comments -> [Mistral Large 4](https://mistral.ai/news/mistral-large-4/)<!-- HN:50186129:end -->
+#### **Thursday, October 22, 2026**
+<!-- HN:50189666:start -->
+* [50189666](https://news.social-protocols.org/stats?id=50189666) #26 27 points 11 comments -> [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)<!-- HN:50189666:end -->
