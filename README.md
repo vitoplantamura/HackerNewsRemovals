@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50189666:start -->
 * [50189666](https://news.social-protocols.org/stats?id=50189666) #26 27 points 11 comments -> [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)<!-- HN:50189666:end --><!-- HN:50151971:start -->
 * [50151971](https://news.social-protocols.org/stats?id=50151971) #30 11 points 20 comments -> [Honey, I shrunk the TV](https://cakehonolulu.github.io/honey-i-shrunk-the-tv/)<!-- HN:50151971:end --><!-- HN:50152912:start -->
-* [50152912](https://news.social-protocols.org/stats?id=50152912) #23 8 points 1 comments -> [Show HN: Can you tell an AI's real 30-day memory from a fabricated one?](https://kairos-experiment.com/distinguish.html)<!-- HN:50152912:end -->
+* [50152912](https://news.social-protocols.org/stats?id=50152912) #23 8 points 1 comments -> [Show HN: Can you tell an AI's real 30-day memory from a fabricated one?](https://kairos-experiment.com/distinguish.html)<!-- HN:50152912:end --><!-- HN:50158960:start -->
+* [50158960](https://news.social-protocols.org/stats?id=50158960) #12 6 points 0 comments -> [PyTorch-native TPU back end for vLLM](https://github.com/vllm-project/vllm-torchtpu)<!-- HN:50158960:end -->
