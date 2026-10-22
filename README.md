@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50186129](https://news.social-protocols.org/stats?id=50186129) #19 312 points 90 comments -> [Mistral Large 4](https://mistral.ai/news/mistral-large-4/)<!-- HN:50186129:end -->
 #### **Thursday, October 22, 2026**
 <!-- HN:50189666:start -->
-* [50189666](https://news.social-protocols.org/stats?id=50189666) #26 27 points 11 comments -> [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)<!-- HN:50189666:end -->
+* [50189666](https://news.social-protocols.org/stats?id=50189666) #26 27 points 11 comments -> [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)<!-- HN:50189666:end --><!-- HN:50151971:start -->
+* [50151971](https://news.social-protocols.org/stats?id=50151971) #30 11 points 20 comments -> [Honey, I shrunk the TV](https://cakehonolulu.github.io/honey-i-shrunk-the-tv/)<!-- HN:50151971:end -->
