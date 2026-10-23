@@ -209,3 +209,10 @@
 * [50106620](https://news.ycombinator.com/item?id=50106620) #17 67 points 5 comments -> [Muse Spark Open, the Most Capable US Open‑Weight Model to Date](https://research.meta.ai/blog/muse-spark-open)<!-- HN:50106620:end --><!-- HN:50106676:start -->
 * [50106676](https://news.ycombinator.com/item?id=50106676) #26 221 points 10 comments -> [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)<!-- HN:50106676:end --><!-- HN:50103000:start -->
 * [50103000](https://news.ycombinator.com/item?id=50103000) #7 488 points 1 comments -> [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)<!-- HN:50103000:end -->
+#### **Friday, October 16, 2026**
+<!-- HN:50113528:start -->
+* [50113528](https://news.ycombinator.com/item?id=50113528) #24 21 points 40 comments -> [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)<!-- HN:50113528:end --><!-- HN:50116367:start -->
+* [50116367](https://news.ycombinator.com/item?id=50116367) #26 29 points 40 comments -> [Japanese people still aren't having sex. And nobody knows why](https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience)<!-- HN:50116367:end --><!-- HN:50118863:start -->
+* [50118863](https://news.ycombinator.com/item?id=50118863) #16 27 points 31 comments -> [Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)<!-- HN:50118863:end --><!-- HN:50118950:start -->
+* [50118950](https://news.ycombinator.com/item?id=50118950) #28 9 points 2 comments -> [Show HN: Grimoire for Biology](https://grimoire.bio)<!-- HN:50118950:end --><!-- HN:50118624:start -->
+* [50118624](https://news.ycombinator.com/item?id=50118624) #18 63 points 89 comments -> [Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]](https://www.youtube.com/watch?v=eqOfmtTJD1A)<!-- HN:50118624:end -->
