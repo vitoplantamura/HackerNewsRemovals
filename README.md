@@ -125,3 +125,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50192900](https://news.social-protocols.org/stats?id=50192900) #2 322 points 106 comments -> [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)<!-- HN:50192900:end --><!-- HN:50198056:start -->
 * [50198056](https://news.social-protocols.org/stats?id=50198056) #9 10 points 1 comments -> [The public notebook of a Claude agent with a continuous life](https://intenex.github.io/personhood/)<!-- HN:50198056:end --><!-- HN:50200947:start -->
 * [50200947](https://news.social-protocols.org/stats?id=50200947) #3 28 points 2 comments -> [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes)<!-- HN:50200947:end -->
+#### **Friday, October 23, 2026**
+<!-- HN:50201259:start -->
+* [50201259](https://news.social-protocols.org/stats?id=50201259) #20 322 points 129 comments -> [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)<!-- HN:50201259:end -->
