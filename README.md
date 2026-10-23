@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50206914](https://news.social-protocols.org/stats?id=50206914) #8 253 points 160 comments -> [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)<!-- HN:50206914:end --><!-- HN:50210850:start -->
 * [50210850](https://news.social-protocols.org/stats?id=50210850) #3 -> [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)<!-- HN:50210850:end --><!-- HN:50211601:start -->
 * [50211601](https://news.social-protocols.org/stats?id=50211601) #3 33 points 1 comments -> [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)<!-- HN:50211601:end --><!-- HN:50211206:start -->
-* [50211206](https://news.social-protocols.org/stats?id=50211206) #6 8 points 0 comments -> [Dagger 1.0 Beta](https://dagger.io/blog/dagger-10-beta/)<!-- HN:50211206:end -->
+* [50211206](https://news.social-protocols.org/stats?id=50211206) #6 8 points 0 comments -> [Dagger 1.0 Beta](https://dagger.io/blog/dagger-10-beta/)<!-- HN:50211206:end --><!-- HN:50212246:start -->
+* [50212246](https://news.social-protocols.org/stats?id=50212246) #3 57 points 5 comments -> [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)<!-- HN:50212246:end -->
