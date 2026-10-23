@@ -128,4 +128,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, October 23, 2026**
 <!-- HN:50201259:start -->
 * [50201259](https://news.social-protocols.org/stats?id=50201259) #20 322 points 129 comments -> [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)<!-- HN:50201259:end --><!-- HN:50204926:start -->
-* [50204926](https://news.social-protocols.org/stats?id=50204926) #29 43 points 23 comments -> [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)<!-- HN:50204926:end -->
+* [50204926](https://news.social-protocols.org/stats?id=50204926) #29 43 points 23 comments -> [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)<!-- HN:50204926:end --><!-- HN:50207791:start -->
+* [50207791](https://news.social-protocols.org/stats?id=50207791) #5 -> [Being sickened by genocide is not being antisemitic](https://shojiwax.com/2026/10/22/being-appalled-by-genocide-is-not-being-antisemitic/)<!-- HN:50207791:end -->
