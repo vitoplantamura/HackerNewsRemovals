@@ -127,5 +127,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50200947](https://news.social-protocols.org/stats?id=50200947) #3 28 points 2 comments -> [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes)<!-- HN:50200947:end -->
 #### **Friday, October 23, 2026**
 <!-- HN:50201259:start -->
-* [50201259](https://news.social-protocols.org/stats?id=50201259) #20 322 points 129 comments -> [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)<!-- HN:50201259:end --><!-- HN:50206361:start -->
-* [50206361](https://news.social-protocols.org/stats?id=50206361) #12 2 points 0 comments -> [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm)<!-- HN:50206361:end -->
+* [50201259](https://news.social-protocols.org/stats?id=50201259) #20 322 points 129 comments -> [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)<!-- HN:50201259:end -->
