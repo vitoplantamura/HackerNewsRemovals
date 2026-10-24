@@ -130,5 +130,3 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50213337](https://news.social-protocols.org/stats?id=50213337) #3 112 points 29 comments -> [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)<!-- HN:50213337:end --><!-- HN:50214701:start -->
 * [50214701](https://news.social-protocols.org/stats?id=50214701) #8 6 points 0 comments -> [Kimi K3.1 Pro puts open-source AI a month behind the best](https://www.modelcompare.ai/blog/china-open-source-ai)<!-- HN:50214701:end -->
 #### **Saturday, October 24, 2026**
-<!-- HN:50213717:start -->
-* [50213717](https://news.social-protocols.org/stats?id=50213717) #30 10 points 15 comments -> [Caffeine-like utility to keep you MacBook awake with its lid closed](https://github.com/clashman/caffeinate-plus)<!-- HN:50213717:end -->
