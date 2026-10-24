@@ -129,4 +129,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50214568](https://news.social-protocols.org/stats?id=50214568) #24 -> [Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?](https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks)<!-- HN:50214568:end --><!-- HN:50213337:start -->
 * [50213337](https://news.social-protocols.org/stats?id=50213337) #3 112 points 29 comments -> [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)<!-- HN:50213337:end --><!-- HN:50214701:start -->
 * [50214701](https://news.social-protocols.org/stats?id=50214701) #8 6 points 0 comments -> [Kimi K3.1 Pro puts open-source AI a month behind the best](https://www.modelcompare.ai/blog/china-open-source-ai)<!-- HN:50214701:end -->
-#### **Saturday, October 24, 2026**
+#### **Saturday, October 24, 2026**<!-- HN:50217587:start -->
+* [50217587](https://news.social-protocols.org/stats?id=50217587) #28 48 points 57 comments -> [Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)<!-- HN:50217587:end -->
