@@ -43,21 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 17, 2026**
-<!-- HN:50092655:start -->
-* [50092655](https://news.social-protocols.org/stats?id=50092655) #2 21 points 1 comments -> [Ultramarine 1 Flash: Frontier Model 100X Cheaper](https://www.paperinstruments.com/ultramarine)<!-- HN:50092655:end --><!-- HN:50127732:start -->
-* [50127732](https://news.social-protocols.org/stats?id=50127732) #10 7 points 0 comments -> [DeepSeek v4.1 flash on OpenCode pretty good](https://github.com/aditauqir/shev)<!-- HN:50127732:end --><!-- HN:50128297:start -->
-* [50128297](https://news.social-protocols.org/stats?id=50128297) #28 44 points 9 comments -> [Israeli settlers attack olive framers & Washington Post journalist in West Bank](https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine)<!-- HN:50128297:end --><!-- HN:50129235:start -->
-* [50129235](https://news.social-protocols.org/stats?id=50129235) #13 15 points 10 comments -> [Is MCP becoming the common foundation of smart, decentralised search?](https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search)<!-- HN:50129235:end --><!-- HN:50130442:start -->
-* [50130442](https://news.social-protocols.org/stats?id=50130442) #15 10 points 3 comments -> [Show HN: Which Mac runs which LLM, and how fast](https://macyou.co/mac-llm-calculator)<!-- HN:50130442:end --><!-- HN:50129121:start -->
-* [50129121](https://news.social-protocols.org/stats?id=50129121) #1 507 points 4 comments -> [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)<!-- HN:50129121:end --><!-- HN:50131881:start -->
-* [50131881](https://news.social-protocols.org/stats?id=50131881) #6 49 points 10 comments -> [Ad-tech company was a delivery system for "mercenary spyware"](https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech)<!-- HN:50131881:end --><!-- HN:50130570:start -->
-* [50130570](https://news.social-protocols.org/stats?id=50130570) #5 86 points 146 comments -> [Super Intelligence](https://www.si.gov/)<!-- HN:50130570:end --><!-- HN:50132972:start -->
-* [50132972](https://news.social-protocols.org/stats?id=50132972) #28 19 points 4 comments -> [Elon Musk's foundation is opaque, miserly and self-serving](https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving)<!-- HN:50132972:end --><!-- HN:50133500:start -->
-* [50133500](https://news.social-protocols.org/stats?id=50133500) #17 28 points 7 comments -> [Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)](https://twitter.com/anemll/status/2111517143087067309)<!-- HN:50133500:end --><!-- HN:50133738:start -->
-* [50133738](https://news.social-protocols.org/stats?id=50133738) #25 6 points 2 comments -> [Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA](https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da)<!-- HN:50133738:end --><!-- HN:50133713:start -->
-* [50133713](https://news.social-protocols.org/stats?id=50133713) #9 24 points 40 comments -> [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)<!-- HN:50133713:end --><!-- HN:50089727:start -->
-* [50089727](https://news.social-protocols.org/stats?id=50089727) #17 7 points 6 comments -> [Almost every dumbphone worth knowing about](https://slowerliving.club/phones/)<!-- HN:50089727:end -->
 #### **Sunday, October 18, 2026**
 <!-- HN:50136881:start -->
 * [50136881](https://news.social-protocols.org/stats?id=50136881) #1 417 points 211 comments -> [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)<!-- HN:50136881:end --><!-- HN:50137826:start -->
