@@ -134,4 +134,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, October 25, 2026**
 <!-- HN:50225748:start -->
 * [50225748](https://news.social-protocols.org/stats?id=50225748) #18 27 points 8 comments -> [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)<!-- HN:50225748:end --><!-- HN:50227138:start -->
-* [50227138](https://news.social-protocols.org/stats?id=50227138) #4 13 points 3 comments -> [Tailworm – Tailscale Vulnerabilities](https://tailworm.com/)<!-- HN:50227138:end -->
+* [50227138](https://news.social-protocols.org/stats?id=50227138) #4 13 points 3 comments -> [Tailworm – Tailscale Vulnerabilities](https://tailworm.com/)<!-- HN:50227138:end --><!-- HN:50227403:start -->
+* [50227403](https://news.social-protocols.org/stats?id=50227403) #14 -> ["Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week](https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films)<!-- HN:50227403:end -->
