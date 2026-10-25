@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, October 18, 2026**
-<!-- HN:50136881:start -->
-* [50136881](https://news.social-protocols.org/stats?id=50136881) #1 417 points 211 comments -> [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)<!-- HN:50136881:end --><!-- HN:50137826:start -->
-* [50137826](https://news.social-protocols.org/stats?id=50137826) #11 4 points 1 comments -> [My AI agent caught most of our sites saying sent while no email left the server](https://iampneuma.com/the-function-returned-true/)<!-- HN:50137826:end --><!-- HN:50138156:start -->
-* [50138156](https://news.social-protocols.org/stats?id=50138156) #7 27 points 40 comments -> [The game industry is broken – can we fix it?](https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash)<!-- HN:50138156:end --><!-- HN:50139658:start -->
-* [50139658](https://news.social-protocols.org/stats?id=50139658) #10 13 points 2 comments -> [It's time to talk about TEEs](https://alinush.github.io//tee)<!-- HN:50139658:end --><!-- HN:50139935:start -->
-* [50139935](https://news.social-protocols.org/stats?id=50139935) #14 25 points 40 comments -> [Kids are outsmarting social media bans. That's not a problem we need to solve](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/)<!-- HN:50139935:end --><!-- HN:50140638:start -->
-* [50140638](https://news.social-protocols.org/stats?id=50140638) #25 6 points 11 comments -> [Germany's 17M Immigrants: Where They Come From](https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/)<!-- HN:50140638:end --><!-- HN:50141206:start -->
-* [50141206](https://news.social-protocols.org/stats?id=50141206) #11 79 points 25 comments -> [Theranos-Style Fraud Has Become the Norm](https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/)<!-- HN:50141206:end --><!-- HN:50142034:start -->
-* [50142034](https://news.social-protocols.org/stats?id=50142034) #5 16 points 4 comments -> [Campus deplatformings hit record high](https://expression.fire.org/p/campus-deplatformings-hit-record)<!-- HN:50142034:end --><!-- HN:50103988:start -->
-* [50103988](https://news.social-protocols.org/stats?id=50103988) #28 16 points 23 comments -> [They war-gamed dimming the Sun. It went worse than you think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)<!-- HN:50103988:end -->
 #### **Monday, October 19, 2026**
 <!-- HN:50148396:start -->
 * [50148396](https://news.social-protocols.org/stats?id=50148396) #18 22 points 6 comments -> [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)<!-- HN:50148396:end --><!-- HN:50148882:start -->
