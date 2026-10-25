@@ -133,4 +133,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50226261](https://news.social-protocols.org/stats?id=50226261) #8 8 points 6 comments -> [Free Software Is a Failure](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)<!-- HN:50226261:end -->
 #### **Sunday, October 25, 2026**
 <!-- HN:50225748:start -->
-* [50225748](https://news.social-protocols.org/stats?id=50225748) #18 27 points 8 comments -> [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)<!-- HN:50225748:end -->
+* [50225748](https://news.social-protocols.org/stats?id=50225748) #18 27 points 8 comments -> [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)<!-- HN:50225748:end --><!-- HN:50227138:start -->
+* [50227138](https://news.social-protocols.org/stats?id=50227138) #4 13 points 3 comments -> [Tailworm – Tailscale Vulnerabilities](https://tailworm.com/)<!-- HN:50227138:end -->
