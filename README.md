@@ -131,3 +131,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50193216](https://news.social-protocols.org/stats?id=50193216) #15 10 points 5 comments -> [Rails Is a JIT Compiler](https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/)<!-- HN:50193216:end --><!-- HN:50224300:start -->
 * [50224300](https://news.social-protocols.org/stats?id=50224300) #2 160 points 1 comments -> [The Goose Programming Language](https://aardappel.github.io/goose/)<!-- HN:50224300:end --><!-- HN:50226261:start -->
 * [50226261](https://news.social-protocols.org/stats?id=50226261) #8 8 points 6 comments -> [Free Software Is a Failure](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)<!-- HN:50226261:end -->
+#### **Sunday, October 25, 2026**
+<!-- HN:50225748:start -->
+* [50225748](https://news.social-protocols.org/stats?id=50225748) #18 27 points 8 comments -> [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)<!-- HN:50225748:end -->
