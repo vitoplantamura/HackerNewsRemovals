@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, October 19, 2026**
-<!-- HN:50148396:start -->
-* [50148396](https://news.social-protocols.org/stats?id=50148396) #18 22 points 6 comments -> [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)<!-- HN:50148396:end --><!-- HN:50148882:start -->
-* [50148882](https://news.social-protocols.org/stats?id=50148882) #3 15 points 6 comments -> [Agent-Skills.market](https://agent-skills.market/)<!-- HN:50148882:end --><!-- HN:50150908:start -->
-* [50150908](https://news.social-protocols.org/stats?id=50150908) #4 10 points 4 comments -> [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)<!-- HN:50150908:end --><!-- HN:50152207:start -->
-* [50152207](https://news.social-protocols.org/stats?id=50152207) #17 -> [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)<!-- HN:50152207:end --><!-- HN:50151390:start -->
-* [50151390](https://news.social-protocols.org/stats?id=50151390) #5 120 points 52 comments -> [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)<!-- HN:50151390:end --><!-- HN:50153384:start -->
-* [50153384](https://news.social-protocols.org/stats?id=50153384) #30 6 points 0 comments -> [WFP stops provision to half a million people in Gaza over lack of funding](https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding)<!-- HN:50153384:end --><!-- HN:50153598:start -->
-* [50153598](https://news.social-protocols.org/stats?id=50153598) #20 7 points 4 comments -> [Kevin Bacon's missing clothes finally delivered in Ireland](https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/)<!-- HN:50153598:end --><!-- HN:50154060:start -->
-* [50154060](https://news.social-protocols.org/stats?id=50154060) #21 25 points 42 comments -> [AI companies are coming for the plumbers](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)<!-- HN:50154060:end --><!-- HN:50155237:start -->
-* [50155237](https://news.social-protocols.org/stats?id=50155237) #27 116 points 2 comments -> [Ukraine carries out first ever aerial drone evacuation of a wounded soldier](https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html)<!-- HN:50155237:end -->
 #### **Tuesday, October 20, 2026**
 <!-- HN:50159464:start -->
 * [50159464](https://news.social-protocols.org/stats?id=50159464) #21 35 points 37 comments -> [Token-maxxing is dead, OpenRouter's token usage plateaus](https://openrouter.ai/rankings)<!-- HN:50159464:end --><!-- HN:50159993:start -->
@@ -148,3 +137,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50234480](https://news.social-protocols.org/stats?id=50234480) #23 4 points 2 comments -> [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)<!-- HN:50234480:end --><!-- HN:50235096:start -->
 * [50235096](https://news.social-protocols.org/stats?id=50235096) #30 5 points 1 comments -> [Settler attacks, demolitions and roadblocks: A week in the West Bank [video]](https://www.youtube.com/watch?v=lhRXrmg4_6M)<!-- HN:50235096:end --><!-- HN:50235433:start -->
 * [50235433](https://news.social-protocols.org/stats?id=50235433) #2 13 points 0 comments -> [Why the Rich Are Getting Richer and the Poor Are Further Removed from Prosperity](https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html)<!-- HN:50235433:end -->
+#### **Monday, October 26, 2026**
+<!-- HN:50237426:start -->
+* [50237426](https://news.social-protocols.org/stats?id=50237426) #7 -> [Lula Wins Brazilian Election](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)<!-- HN:50237426:end --><!-- HN:50237256:start -->
+* [50237256](https://news.social-protocols.org/stats?id=50237256) #22 -> [Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback](https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback)<!-- HN:50237256:end -->
