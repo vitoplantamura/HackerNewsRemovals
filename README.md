@@ -138,7 +138,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50235096](https://news.social-protocols.org/stats?id=50235096) #30 5 points 1 comments -> [Settler attacks, demolitions and roadblocks: A week in the West Bank [video]](https://www.youtube.com/watch?v=lhRXrmg4_6M)<!-- HN:50235096:end --><!-- HN:50235433:start -->
 * [50235433](https://news.social-protocols.org/stats?id=50235433) #2 13 points 0 comments -> [Why the Rich Are Getting Richer and the Poor Are Further Removed from Prosperity](https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html)<!-- HN:50235433:end -->
 #### **Monday, October 26, 2026**
-<!-- HN:50237426:start -->
-* [50237426](https://news.social-protocols.org/stats?id=50237426) #7 -> [Lula Wins Brazilian Election](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)<!-- HN:50237426:end --><!-- HN:50237256:start -->
+<!-- HN:50237256:start -->
 * [50237256](https://news.social-protocols.org/stats?id=50237256) #22 -> [Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback](https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback)<!-- HN:50237256:end --><!-- HN:50236356:start -->
 * [50236356](https://news.social-protocols.org/stats?id=50236356) #26 7 points 1 comments -> [What Security Teams Need to Know About Agents Using Abliterated Models](https://eve.security/blog/what-security-teams-need-to-know-about-agents-using-abliterated-models)<!-- HN:50236356:end -->
