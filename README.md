@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50249947](https://news.social-protocols.org/stats?id=50249947) #28 7 points 2 comments -> [Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/)<!-- HN:50249947:end -->
 #### **Tuesday, October 27, 2026**
 <!-- HN:50243646:start -->
-* [50243646](https://news.social-protocols.org/stats?id=50243646) #25 157 points 234 comments -> [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)<!-- HN:50243646:end -->
+* [50243646](https://news.social-protocols.org/stats?id=50243646) #25 157 points 234 comments -> [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)<!-- HN:50243646:end --><!-- HN:50254300:start -->
+* [50254300](https://news.social-protocols.org/stats?id=50254300) #9 29 points 7 comments -> [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)<!-- HN:50254300:end -->
