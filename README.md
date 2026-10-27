@@ -153,3 +153,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50242843](https://news.social-protocols.org/stats?id=50242843) #30 164 points 147 comments -> [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)<!-- HN:50242843:end --><!-- HN:50250557:start -->
 * [50250557](https://news.social-protocols.org/stats?id=50250557) #8 16 points 0 comments -> [US fired over 600 missile interceptors defending Israel in three years](https://www.stephensemler.com/p/us-fired-over-600-missile-interceptors)<!-- HN:50250557:end --><!-- HN:50249947:start -->
 * [50249947](https://news.social-protocols.org/stats?id=50249947) #28 7 points 2 comments -> [Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/)<!-- HN:50249947:end -->
+#### **Tuesday, October 27, 2026**
+<!-- HN:50243646:start -->
+* [50243646](https://news.social-protocols.org/stats?id=50243646) #25 157 points 234 comments -> [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)<!-- HN:50243646:end -->
