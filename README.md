@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, October 27, 2026**
 <!-- HN:50243646:start -->
 * [50243646](https://news.social-protocols.org/stats?id=50243646) #25 157 points 234 comments -> [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)<!-- HN:50243646:end --><!-- HN:50254300:start -->
-* [50254300](https://news.social-protocols.org/stats?id=50254300) #9 29 points 7 comments -> [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)<!-- HN:50254300:end -->
+* [50254300](https://news.social-protocols.org/stats?id=50254300) #9 29 points 7 comments -> [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)<!-- HN:50254300:end --><!-- HN:50255406:start -->
+* [50255406](https://news.social-protocols.org/stats?id=50255406) #13 25 points 5 comments -> [A simplified proof of ETH is False [pdf]](https://shivakintali.github.io/papers/ETH.pdf)<!-- HN:50255406:end -->
