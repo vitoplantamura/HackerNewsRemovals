@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50243646:start -->
 * [50243646](https://news.social-protocols.org/stats?id=50243646) #25 157 points 234 comments -> [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)<!-- HN:50243646:end --><!-- HN:50254300:start -->
 * [50254300](https://news.social-protocols.org/stats?id=50254300) #9 29 points 7 comments -> [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)<!-- HN:50254300:end --><!-- HN:50255406:start -->
-* [50255406](https://news.social-protocols.org/stats?id=50255406) #13 25 points 5 comments -> [A simplified proof of ETH is False [pdf]](https://shivakintali.github.io/papers/ETH.pdf)<!-- HN:50255406:end -->
+* [50255406](https://news.social-protocols.org/stats?id=50255406) #13 25 points 5 comments -> [A simplified proof of ETH is False [pdf]](https://shivakintali.github.io/papers/ETH.pdf)<!-- HN:50255406:end --><!-- HN:50214961:start -->
+* [50214961](https://news.social-protocols.org/stats?id=50214961) #18 4 points 1 comments -> [Turning VS Code into a control panel with custom extensions](https://medium.com/@davidmonterocrespo24/turning-vs-code-into-the-control-panel-for-my-work-fcc674b28d6e)<!-- HN:50214961:end -->
