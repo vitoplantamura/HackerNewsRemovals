@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, October 21, 2026**
-<!-- HN:50174448:start -->
-* [50174448](https://news.social-protocols.org/stats?id=50174448) #17 8 points 7 comments -> [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)<!-- HN:50174448:end --><!-- HN:50175075:start -->
-* [50175075](https://news.social-protocols.org/stats?id=50175075) #25 6 points 16 comments -> [T3 Code starting move to GitCafe](https://git.cafe/pingdotgg/t3code)<!-- HN:50175075:end --><!-- HN:50175063:start -->
-* [50175063](https://news.social-protocols.org/stats?id=50175063) #18 7 points 0 comments -> [GitHub package firewall](https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/)<!-- HN:50175063:end --><!-- HN:50176508:start -->
-* [50176508](https://news.social-protocols.org/stats?id=50176508) #25 8 points 3 comments -> [SaaS Is Dead](https://saasisdead.si/)<!-- HN:50176508:end --><!-- HN:50176351:start -->
-* [50176351](https://news.social-protocols.org/stats?id=50176351) #14 21 points 17 comments -> [Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%](https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead)<!-- HN:50176351:end --><!-- HN:50178218:start -->
-* [50178218](https://news.social-protocols.org/stats?id=50178218) #25 10 points 4 comments -> [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit)<!-- HN:50178218:end --><!-- HN:50179719:start -->
-* [50179719](https://news.social-protocols.org/stats?id=50179719) #16 16 points 8 comments -> [Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels](https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels)<!-- HN:50179719:end --><!-- HN:50180518:start -->
-* [50180518](https://news.social-protocols.org/stats?id=50180518) #23 10 points 2 comments -> [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/en/story/2026/10/1168634)<!-- HN:50180518:end --><!-- HN:50180943:start -->
-* [50180943](https://news.social-protocols.org/stats?id=50180943) #2 261 points 103 comments -> [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)<!-- HN:50180943:end --><!-- HN:50181265:start -->
-* [50181265](https://news.social-protocols.org/stats?id=50181265) #7 29 points 4 comments -> [Patch the Planet](https://patchtheplanet.org/)<!-- HN:50181265:end --><!-- HN:50181058:start -->
-* [50181058](https://news.social-protocols.org/stats?id=50181058) #13 30 points 2 comments -> [PHP2Shell](https://www.php2shell.com)<!-- HN:50181058:end --><!-- HN:50179706:start -->
-* [50179706](https://news.social-protocols.org/stats?id=50179706) #19 227 points 112 comments -> [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)<!-- HN:50179706:end --><!-- HN:50185455:start -->
-* [50185455](https://news.social-protocols.org/stats?id=50185455) #13 12 points 5 comments -> [Open Source Games](https://opensourcegames.dev/)<!-- HN:50185455:end --><!-- HN:50186215:start -->
-* [50186215](https://news.social-protocols.org/stats?id=50186215) #2 200 points 2 comments -> [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)<!-- HN:50186215:end --><!-- HN:50186129:start -->
-* [50186129](https://news.social-protocols.org/stats?id=50186129) #19 312 points 90 comments -> [Mistral Large 4](https://mistral.ai/news/mistral-large-4/)<!-- HN:50186129:end -->
 #### **Thursday, October 22, 2026**
 <!-- HN:50189666:start -->
 * [50189666](https://news.social-protocols.org/stats?id=50189666) #26 27 points 11 comments -> [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)<!-- HN:50189666:end --><!-- HN:50151971:start -->
