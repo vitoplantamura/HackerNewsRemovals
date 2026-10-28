@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50267494:start -->
 * [50267494](https://news.social-protocols.org/stats?id=50267494) #22 14 points 0 comments -> [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)<!-- HN:50267494:end --><!-- HN:50268929:start -->
 * [50268929](https://news.social-protocols.org/stats?id=50268929) #29 3 points 0 comments -> [I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer](https://github.com/Aissamohammedi88/toolkit)<!-- HN:50268929:end --><!-- HN:50269651:start -->
-* [50269651](https://news.social-protocols.org/stats?id=50269651) #2 36 points 20 comments -> [Artificial Analysis Intelligence Index v5.0](https://artificialanalysis.ai/methodology/intelligence-benchmarking)<!-- HN:50269651:end -->
+* [50269651](https://news.social-protocols.org/stats?id=50269651) #2 36 points 20 comments -> [Artificial Analysis Intelligence Index v5.0](https://artificialanalysis.ai/methodology/intelligence-benchmarking)<!-- HN:50269651:end --><!-- HN:50269492:start -->
+* [50269492](https://news.social-protocols.org/stats?id=50269492) #26 9 points 1 comments -> [碁の国: Play Chess as Town Building](https://gonokuni.plpl.town/)<!-- HN:50269492:end -->
