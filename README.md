@@ -130,4 +130,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50264228](https://news.social-protocols.org/stats?id=50264228) #28 47 points 42 comments -> [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)<!-- HN:50264228:end -->
 #### **Wednesday, October 28, 2026**
 <!-- HN:50267494:start -->
-* [50267494](https://news.social-protocols.org/stats?id=50267494) #22 14 points 0 comments -> [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)<!-- HN:50267494:end -->
+* [50267494](https://news.social-protocols.org/stats?id=50267494) #22 14 points 0 comments -> [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)<!-- HN:50267494:end --><!-- HN:50268929:start -->
+* [50268929](https://news.social-protocols.org/stats?id=50268929) #29 3 points 0 comments -> [I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer](https://github.com/Aissamohammedi88/toolkit)<!-- HN:50268929:end -->
