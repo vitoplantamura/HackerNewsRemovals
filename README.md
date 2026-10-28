@@ -128,3 +128,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50197133](https://news.social-protocols.org/stats?id=50197133) #20 4 points 2 comments -> [Half of R/sales cold email posts in 2026 were written by people selling it](https://sales.co/research/cold-email-gold-rush)<!-- HN:50197133:end --><!-- HN:50262668:start -->
 * [50262668](https://news.social-protocols.org/stats?id=50262668) #4 37 points 23 comments -> [Mossad Has Devices Like the Exploding Pagers in "Every Country You Can Imagine"](https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html)<!-- HN:50262668:end --><!-- HN:50264228:start -->
 * [50264228](https://news.social-protocols.org/stats?id=50264228) #28 47 points 42 comments -> [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)<!-- HN:50264228:end -->
+#### **Wednesday, October 28, 2026**
+<!-- HN:50267494:start -->
+* [50267494](https://news.social-protocols.org/stats?id=50267494) #22 14 points 0 comments -> [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)<!-- HN:50267494:end -->
