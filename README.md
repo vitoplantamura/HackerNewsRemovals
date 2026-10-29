@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, October 22, 2026**
-<!-- HN:50189666:start -->
-* [50189666](https://news.social-protocols.org/stats?id=50189666) #26 27 points 11 comments -> [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)<!-- HN:50189666:end --><!-- HN:50151971:start -->
-* [50151971](https://news.social-protocols.org/stats?id=50151971) #30 11 points 20 comments -> [Honey, I shrunk the TV](https://cakehonolulu.github.io/honey-i-shrunk-the-tv/)<!-- HN:50151971:end --><!-- HN:50152912:start -->
-* [50152912](https://news.social-protocols.org/stats?id=50152912) #23 8 points 1 comments -> [Show HN: Can you tell an AI's real 30-day memory from a fabricated one?](https://kairos-experiment.com/distinguish.html)<!-- HN:50152912:end --><!-- HN:50158960:start -->
-* [50158960](https://news.social-protocols.org/stats?id=50158960) #12 6 points 0 comments -> [PyTorch-native TPU back end for vLLM](https://github.com/vllm-project/vllm-torchtpu)<!-- HN:50158960:end --><!-- HN:50192254:start -->
-* [50192254](https://news.social-protocols.org/stats?id=50192254) #1 49 points 41 comments -> [A Markdown File Should Just Open](https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/)<!-- HN:50192254:end --><!-- HN:50192585:start -->
-* [50192585](https://news.social-protocols.org/stats?id=50192585) #5 8 points 0 comments -> [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)<!-- HN:50192585:end --><!-- HN:50192900:start -->
-* [50192900](https://news.social-protocols.org/stats?id=50192900) #2 322 points 106 comments -> [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)<!-- HN:50192900:end --><!-- HN:50198056:start -->
-* [50198056](https://news.social-protocols.org/stats?id=50198056) #9 10 points 1 comments -> [The public notebook of a Claude agent with a continuous life](https://intenex.github.io/personhood/)<!-- HN:50198056:end --><!-- HN:50200947:start -->
-* [50200947](https://news.social-protocols.org/stats?id=50200947) #3 28 points 2 comments -> [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes)<!-- HN:50200947:end -->
 #### **Friday, October 23, 2026**
 <!-- HN:50201259:start -->
 * [50201259](https://news.social-protocols.org/stats?id=50201259) #20 322 points 129 comments -> [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)<!-- HN:50201259:end --><!-- HN:50204926:start -->
