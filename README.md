@@ -138,3 +138,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50282188](https://news.social-protocols.org/stats?id=50282188) #13 6 points 0 comments -> [Open U.S. Department of Homeland Security Directory](https://icepi.cx/)<!-- HN:50282188:end --><!-- HN:50275887:start -->
 * [50275887](https://news.social-protocols.org/stats?id=50275887) #23 245 points 59 comments -> [Meta censored the No Kings Instagram account during a nationwide campaign](https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram)<!-- HN:50275887:end --><!-- HN:50282094:start -->
 * [50282094](https://news.social-protocols.org/stats?id=50282094) #23 10 points 0 comments -> [Outrage after airport self-service checkout asks for 18% tip](https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html)<!-- HN:50282094:end -->
+#### **Thursday, October 29, 2026**
+<!-- HN:50208960:start -->
+* [50208960](https://news.social-protocols.org/stats?id=50208960) #10 592 points 129 comments -> [Start Doing Graph Theory](https://vertex.degree/)<!-- HN:50208960:end --><!-- HN:50209269:start -->
+* [50209269](https://news.social-protocols.org/stats?id=50209269) #23 104 points 22 comments -> [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)<!-- HN:50209269:end -->
