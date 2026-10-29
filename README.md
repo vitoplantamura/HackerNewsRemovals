@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, October 29, 2026**
 <!-- HN:50208960:start -->
 * [50208960](https://news.social-protocols.org/stats?id=50208960) #10 592 points 129 comments -> [Start Doing Graph Theory](https://vertex.degree/)<!-- HN:50208960:end --><!-- HN:50209269:start -->
-* [50209269](https://news.social-protocols.org/stats?id=50209269) #23 104 points 22 comments -> [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)<!-- HN:50209269:end -->
+* [50209269](https://news.social-protocols.org/stats?id=50209269) #23 104 points 22 comments -> [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)<!-- HN:50209269:end --><!-- HN:50285177:start -->
+* [50285177](https://news.social-protocols.org/stats?id=50285177) #22 15 points 2 comments -> [Bernstein – open-source governance layer for AI agents](https://bernstein.run)<!-- HN:50285177:end -->
