@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50296272](https://news.social-protocols.org/stats?id=50296272) #2 35 points 2 comments -> [Over $5B drained from Binance in apparent hack](http://twitter.com/emmettgallic/status/2115916025774723210)<!-- HN:50296272:end -->
 #### **Friday, October 30, 2026**
 <!-- HN:50300644:start -->
-* [50300644](https://news.social-protocols.org/stats?id=50300644) #3 13 points 1 comments -> [North Korea Steals USD 6.36B from Binance in the Largest Hack in History](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history)<!-- HN:50300644:end -->
+* [50300644](https://news.social-protocols.org/stats?id=50300644) #3 13 points 1 comments -> [North Korea Steals USD 6.36B from Binance in the Largest Hack in History](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history)<!-- HN:50300644:end --><!-- HN:50302187:start -->
+* [50302187](https://news.social-protocols.org/stats?id=50302187) #12 33 points 8 comments -> [Anthropic hacked to deliver remote access trojan to Claude developer laptops](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)<!-- HN:50302187:end -->
