@@ -134,8 +134,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50295503](https://news.social-protocols.org/stats?id=50295503) #11 12 points 8 comments -> [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)<!-- HN:50295503:end --><!-- HN:50296272:start -->
 * [50296272](https://news.social-protocols.org/stats?id=50296272) #2 35 points 2 comments -> [Over $5B drained from Binance in apparent hack](http://twitter.com/emmettgallic/status/2115916025774723210)<!-- HN:50296272:end -->
 #### **Friday, October 30, 2026**
-<!-- HN:50300644:start -->
-* [50300644](https://news.social-protocols.org/stats?id=50300644) #3 13 points 1 comments -> [North Korea Steals USD 6.36B from Binance in the Largest Hack in History](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history)<!-- HN:50300644:end --><!-- HN:50302187:start -->
+<!-- HN:50302187:start -->
 * [50302187](https://news.social-protocols.org/stats?id=50302187) #12 33 points 8 comments -> [Anthropic hacked to deliver remote access trojan to Claude developer laptops](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)<!-- HN:50302187:end --><!-- HN:50302334:start -->
 * [50302334](https://news.social-protocols.org/stats?id=50302334) #2 629 points 189 comments -> [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)<!-- HN:50302334:end --><!-- HN:50301983:start -->
 * [50301983](https://news.social-protocols.org/stats?id=50301983) #9 386 points 1 comments -> [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)<!-- HN:50301983:end --><!-- HN:50304175:start -->
