@@ -144,4 +144,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, October 31, 2026**
 <!-- HN:50311537:start -->
 * [50311537](https://news.social-protocols.org/stats?id=50311537) #2 19 points 40 comments -> [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)<!-- HN:50311537:end --><!-- HN:50311670:start -->
-* [50311670](https://news.social-protocols.org/stats?id=50311670) #15 5 points 0 comments -> [Be a Loser](https://makemeacto.cc/be-a-loser/)<!-- HN:50311670:end -->
+* [50311670](https://news.social-protocols.org/stats?id=50311670) #15 5 points 0 comments -> [Be a Loser](https://makemeacto.cc/be-a-loser/)<!-- HN:50311670:end --><!-- HN:50312221:start -->
+* [50312221](https://news.social-protocols.org/stats?id=50312221) #15 4 points 2 comments -> [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)<!-- HN:50312221:end -->
