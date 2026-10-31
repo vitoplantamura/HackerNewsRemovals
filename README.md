@@ -141,3 +141,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50309479](https://news.social-protocols.org/stats?id=50309479) #30 22 points 1 comments -> [Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)<!-- HN:50309479:end --><!-- HN:50311339:start -->
 * [50311339](https://news.social-protocols.org/stats?id=50311339) #5 8 points 1 comments -> [Federal Bureau of Prisons employees serve as election monitors at polling sites](https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says)<!-- HN:50311339:end --><!-- HN:50311373:start -->
 * [50311373](https://news.social-protocols.org/stats?id=50311373) #16 5 points 3 comments -> [The United Kingdom is committing an act of strategic self harm](https://blog.rodmena.com/entry/event_horizon_machine_standards)<!-- HN:50311373:end -->
+#### **Saturday, October 31, 2026**
+<!-- HN:50311537:start -->
+* [50311537](https://news.social-protocols.org/stats?id=50311537) #2 19 points 40 comments -> [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)<!-- HN:50311537:end -->
