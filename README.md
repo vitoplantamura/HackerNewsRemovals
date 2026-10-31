@@ -43,19 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 24, 2026**<!-- HN:50217587:start -->
-* [50217587](https://news.social-protocols.org/stats?id=50217587) #28 48 points 57 comments -> [Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)<!-- HN:50217587:end --><!-- HN:50218126:start -->
-* [50218126](https://news.social-protocols.org/stats?id=50218126) #13 5 points 1 comments -> [The Anger Machine (Joan Kirner Social Justice Oration 2026)](https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026)<!-- HN:50218126:end --><!-- HN:50173520:start -->
-* [50173520](https://news.social-protocols.org/stats?id=50173520) #22 8 points 1 comments -> [U-2 spy plane makes rare appearance in Bay Area flyover](https://www.sfgate.com/bayarea/article/government-spy-plane-49ers-22485781.php)<!-- HN:50173520:end --><!-- HN:50220540:start -->
-* [50220540](https://news.social-protocols.org/stats?id=50220540) #8 -> [I can't believe we're still arguing over whether X is for jerks](https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks)<!-- HN:50220540:end --><!-- HN:50221179:start -->
-* [50221179](https://news.social-protocols.org/stats?id=50221179) #5 39 points 22 comments -> [One Must Fall 2097 Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered/)<!-- HN:50221179:end --><!-- HN:50187309:start -->
-* [50187309](https://news.social-protocols.org/stats?id=50187309) #26 4 points 1 comments -> [I built a neural network using DOOM games](https://github.com/mottopanikeiku/doomformer)<!-- HN:50187309:end --><!-- HN:50223201:start -->
-* [50223201](https://news.social-protocols.org/stats?id=50223201) #5 16 points 2 comments -> [Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)<!-- HN:50223201:end --><!-- HN:50223295:start -->
-* [50223295](https://news.social-protocols.org/stats?id=50223295) #27 9 points 1 comments -> [Israeli soldiers raze neighbourhood in Hebron, driving families from homes](https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes)<!-- HN:50223295:end --><!-- HN:50189693:start -->
-* [50189693](https://news.social-protocols.org/stats?id=50189693) #20 3 points 0 comments -> [Building a multiplayer FPS that runs in the browser, and you can play it now](https://semperplay.com/news/operation-raven-origins-and-plan/)<!-- HN:50189693:end --><!-- HN:50193216:start -->
-* [50193216](https://news.social-protocols.org/stats?id=50193216) #15 10 points 5 comments -> [Rails Is a JIT Compiler](https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/)<!-- HN:50193216:end --><!-- HN:50224300:start -->
-* [50224300](https://news.social-protocols.org/stats?id=50224300) #2 160 points 1 comments -> [The Goose Programming Language](https://aardappel.github.io/goose/)<!-- HN:50224300:end --><!-- HN:50226261:start -->
-* [50226261](https://news.social-protocols.org/stats?id=50226261) #8 8 points 6 comments -> [Free Software Is a Failure](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)<!-- HN:50226261:end -->
 #### **Sunday, October 25, 2026**
 <!-- HN:50225748:start -->
 * [50225748](https://news.social-protocols.org/stats?id=50225748) #18 27 points 8 comments -> [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)<!-- HN:50225748:end --><!-- HN:50227138:start -->
