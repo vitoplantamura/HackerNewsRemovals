@@ -146,4 +146,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50311537](https://news.social-protocols.org/stats?id=50311537) #2 19 points 40 comments -> [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)<!-- HN:50311537:end --><!-- HN:50311670:start -->
 * [50311670](https://news.social-protocols.org/stats?id=50311670) #15 5 points 0 comments -> [Be a Loser](https://makemeacto.cc/be-a-loser/)<!-- HN:50311670:end --><!-- HN:50312221:start -->
 * [50312221](https://news.social-protocols.org/stats?id=50312221) #15 4 points 2 comments -> [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)<!-- HN:50312221:end --><!-- HN:50313508:start -->
-* [50313508](https://news.social-protocols.org/stats?id=50313508) #1 -> [Tools Hacker News keeps asking for](https://stillunbuilt.shiptiffin.app/)<!-- HN:50313508:end -->
+* [50313508](https://news.social-protocols.org/stats?id=50313508) #1 -> [Tools Hacker News keeps asking for](https://stillunbuilt.shiptiffin.app/)<!-- HN:50313508:end --><!-- HN:50289991:start -->
+* [50289991](https://news.social-protocols.org/stats?id=50289991) #28 17 points 0 comments -> [Configure a UPS on Linux with NUT](https://linuxjunkies.org/guides/configure-a-ups-with-nut)<!-- HN:50289991:end -->
