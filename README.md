@@ -137,3 +137,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50319873](https://news.social-protocols.org/stats?id=50319873) #5 7 points 1 comments -> [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)<!-- HN:50319873:end --><!-- HN:50320003:start -->
 * [50320003](https://news.social-protocols.org/stats?id=50320003) #7 18 points 9 comments -> [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)<!-- HN:50320003:end --><!-- HN:50321351:start -->
 * [50321351](https://news.social-protocols.org/stats?id=50321351) #6 9 points 0 comments -> [Inverse Zitron: An Investment Strategy](https://chalmovsky.com/posts/inverse-zitron)<!-- HN:50321351:end -->
+#### **Sunday, November 1, 2026**
+<!-- HN:50321373:start -->
+* [50321373](https://news.social-protocols.org/stats?id=50321373) #26 8 points 0 comments -> [Work Requirements for Trick-or-Treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)<!-- HN:50321373:end -->
