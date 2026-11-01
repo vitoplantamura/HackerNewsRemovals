@@ -140,4 +140,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, November 1, 2026**
 <!-- HN:50321373:start -->
 * [50321373](https://news.social-protocols.org/stats?id=50321373) #26 8 points 0 comments -> [Work Requirements for Trick-or-Treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)<!-- HN:50321373:end --><!-- HN:50325069:start -->
-* [50325069](https://news.social-protocols.org/stats?id=50325069) #3 10 points 2 comments -> [Everyone Has Email. Nobody Uses It Right](https://kaplich.me/essays/email)<!-- HN:50325069:end -->
+* [50325069](https://news.social-protocols.org/stats?id=50325069) #3 10 points 2 comments -> [Everyone Has Email. Nobody Uses It Right](https://kaplich.me/essays/email)<!-- HN:50325069:end --><!-- HN:50325072:start -->
+* [50325072](https://news.social-protocols.org/stats?id=50325072) #14 6 points 2 comments -> [Is It EDT or EST?](https://www.edtorest.com)<!-- HN:50325072:end -->
