@@ -43,23 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, October 25, 2026**
-<!-- HN:50225748:start -->
-* [50225748](https://news.social-protocols.org/stats?id=50225748) #18 27 points 8 comments -> [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)<!-- HN:50225748:end --><!-- HN:50227138:start -->
-* [50227138](https://news.social-protocols.org/stats?id=50227138) #4 13 points 3 comments -> [Tailworm – Tailscale Vulnerabilities](https://tailworm.com/)<!-- HN:50227138:end --><!-- HN:50227403:start -->
-* [50227403](https://news.social-protocols.org/stats?id=50227403) #14 -> ["Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week](https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films)<!-- HN:50227403:end --><!-- HN:50227814:start -->
-* [50227814](https://news.social-protocols.org/stats?id=50227814) #24 11 points 9 comments -> [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)<!-- HN:50227814:end --><!-- HN:50229059:start -->
-* [50229059](https://news.social-protocols.org/stats?id=50229059) #27 17 points 6 comments -> [New Open-Source Cybersecurity Platform Uses AI Agents to Hunt Threats](https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c)<!-- HN:50229059:end --><!-- HN:50228988:start -->
-* [50228988](https://news.social-protocols.org/stats?id=50228988) #30 -> [Not Palantir](https://notpalantir.eu/)<!-- HN:50228988:end --><!-- HN:50169939:start -->
-* [50169939](https://news.social-protocols.org/stats?id=50169939) #10 17 points 40 comments -> [XPS 16 Creator Edition Laptop](https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263)<!-- HN:50169939:end --><!-- HN:50194029:start -->
-* [50194029](https://news.social-protocols.org/stats?id=50194029) #17 16 points 18 comments -> [Did it just build.. a clock?](https://theclock.online/)<!-- HN:50194029:end --><!-- HN:50230181:start -->
-* [50230181](https://news.social-protocols.org/stats?id=50230181) #11 279 points 1 comments -> [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)<!-- HN:50230181:end --><!-- HN:50233238:start -->
-* [50233238](https://news.social-protocols.org/stats?id=50233238) #20 7 points 2 comments -> [Bentley's Kyiv deadlership among the strongest, despite the war](https://www.autonext.co/news/bentley-kyiv-among-the-world-s-best-dealerships-despite-the-war)<!-- HN:50233238:end --><!-- HN:50233325:start -->
-* [50233325](https://news.social-protocols.org/stats?id=50233325) #5 9 points 0 comments -> [Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents](https://github.com/socrates6969/jukebox-os)<!-- HN:50233325:end --><!-- HN:50190686:start -->
-* [50190686](https://news.social-protocols.org/stats?id=50190686) #25 14 points 16 comments -> [Flapping Airplanes](https://flappingairplanes.com/)<!-- HN:50190686:end --><!-- HN:50234480:start -->
-* [50234480](https://news.social-protocols.org/stats?id=50234480) #23 4 points 2 comments -> [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)<!-- HN:50234480:end --><!-- HN:50235096:start -->
-* [50235096](https://news.social-protocols.org/stats?id=50235096) #30 5 points 1 comments -> [Settler attacks, demolitions and roadblocks: A week in the West Bank [video]](https://www.youtube.com/watch?v=lhRXrmg4_6M)<!-- HN:50235096:end --><!-- HN:50235433:start -->
-* [50235433](https://news.social-protocols.org/stats?id=50235433) #2 13 points 0 comments -> [Why the Rich Are Getting Richer and the Poor Are Further Removed from Prosperity](https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html)<!-- HN:50235433:end -->
 #### **Monday, October 26, 2026**
 <!-- HN:50237256:start -->
 * [50237256](https://news.social-protocols.org/stats?id=50237256) #22 -> [Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback](https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback)<!-- HN:50237256:end --><!-- HN:50236356:start -->
