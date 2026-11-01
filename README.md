@@ -139,4 +139,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50321351](https://news.social-protocols.org/stats?id=50321351) #6 9 points 0 comments -> [Inverse Zitron: An Investment Strategy](https://chalmovsky.com/posts/inverse-zitron)<!-- HN:50321351:end -->
 #### **Sunday, November 1, 2026**
 <!-- HN:50321373:start -->
-* [50321373](https://news.social-protocols.org/stats?id=50321373) #26 8 points 0 comments -> [Work Requirements for Trick-or-Treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)<!-- HN:50321373:end -->
+* [50321373](https://news.social-protocols.org/stats?id=50321373) #26 8 points 0 comments -> [Work Requirements for Trick-or-Treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)<!-- HN:50321373:end --><!-- HN:50325069:start -->
+* [50325069](https://news.social-protocols.org/stats?id=50325069) #3 10 points 2 comments -> [Everyone Has Email. Nobody Uses It Right](https://kaplich.me/essays/email)<!-- HN:50325069:end -->
