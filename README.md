@@ -132,4 +132,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50330005](https://news.social-protocols.org/stats?id=50330005) #4 65 points 39 comments -> [Apple captures 50% of consumer revenue of the top half of the S&P 500](https://asymco.com/2026/11/01/the-last-consumer-company/)<!-- HN:50330005:end -->
 #### **Monday, November 2, 2026**
 <!-- HN:50335914:start -->
-* [50335914](https://news.social-protocols.org/stats?id=50335914) #14 27 points 41 comments -> [Private Jet plane crashes in Florida](https://www.cbc.ca/news/world/florida-plane-crash-9.7404996)<!-- HN:50335914:end -->
+* [50335914](https://news.social-protocols.org/stats?id=50335914) #14 27 points 41 comments -> [Private Jet plane crashes in Florida](https://www.cbc.ca/news/world/florida-plane-crash-9.7404996)<!-- HN:50335914:end --><!-- HN:50336221:start -->
+* [50336221](https://news.social-protocols.org/stats?id=50336221) #7 5 points 2 comments -> [Claude is providing incorrect or misleading responses](https://support.claude.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on)<!-- HN:50336221:end -->
