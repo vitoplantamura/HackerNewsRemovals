@@ -130,3 +130,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50326699](https://news.social-protocols.org/stats?id=50326699) #8 13 points 2 comments -> [We Took over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)<!-- HN:50326699:end --><!-- HN:50326721:start -->
 * [50326721](https://news.social-protocols.org/stats?id=50326721) #13 4 points 1 comments -> [I vibecoded a 2d pixel game in 6h yesterday](https://www.sabih.dev/game/)<!-- HN:50326721:end --><!-- HN:50330005:start -->
 * [50330005](https://news.social-protocols.org/stats?id=50330005) #4 65 points 39 comments -> [Apple captures 50% of consumer revenue of the top half of the S&P 500](https://asymco.com/2026/11/01/the-last-consumer-company/)<!-- HN:50330005:end -->
+#### **Monday, November 2, 2026**
+<!-- HN:50335914:start -->
+* [50335914](https://news.social-protocols.org/stats?id=50335914) #14 27 points 41 comments -> [Private Jet plane crashes in Florida](https://www.cbc.ca/news/world/florida-plane-crash-9.7404996)<!-- HN:50335914:end -->
