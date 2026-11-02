@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, October 26, 2026**
-<!-- HN:50237256:start -->
-* [50237256](https://news.social-protocols.org/stats?id=50237256) #22 -> [Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback](https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback)<!-- HN:50237256:end --><!-- HN:50236356:start -->
-* [50236356](https://news.social-protocols.org/stats?id=50236356) #26 7 points 1 comments -> [What Security Teams Need to Know About Agents Using Abliterated Models](https://eve.security/blog/what-security-teams-need-to-know-about-agents-using-abliterated-models)<!-- HN:50236356:end --><!-- HN:50237426:start -->
-* [50237426](https://news.social-protocols.org/stats?id=50237426) #23 53 points 13 comments -> [Lula Wins Brazilian Election](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)<!-- HN:50237426:end --><!-- HN:50238557:start -->
-* [50238557](https://news.social-protocols.org/stats?id=50238557) #8 69 points 3 comments -> [Brazil elections: Lula secures fourth term after dramatic comeback](https://www.bbc.com/news/articles/cmvg7p001qj9o)<!-- HN:50238557:end --><!-- HN:50238351:start -->
-* [50238351](https://news.social-protocols.org/stats?id=50238351) #11 27 points 40 comments -> [If AI displaces human workers, they will lose more than just pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)<!-- HN:50238351:end --><!-- HN:50210696:start -->
-* [50210696](https://news.social-protocols.org/stats?id=50210696) #11 18 points 40 comments -> [Who Cares Whether Academics Use AI to Write?](https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write)<!-- HN:50210696:end --><!-- HN:50208763:start -->
-* [50208763](https://news.social-protocols.org/stats?id=50208763) #24 5 points 0 comments -> [Vazhaipoo Vadai – Banana Flower Recipe](https://www.vegrecipesofindia.com/banana-flower-vada-recipe/)<!-- HN:50208763:end --><!-- HN:50243225:start -->
-* [50243225](https://news.social-protocols.org/stats?id=50243225) #28 2 points 0 comments -> [Anthropic files for listing on US stock market: valuation of more than $1.5T](https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market)<!-- HN:50243225:end --><!-- HN:50242993:start -->
-* [50242993](https://news.social-protocols.org/stats?id=50242993) #25 16 points 1 comments -> [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm#ica694c859b8e458dbf6a73f56dde9d42_2972)<!-- HN:50242993:end --><!-- HN:50246541:start -->
-* [50246541](https://news.social-protocols.org/stats?id=50246541) #5 7 points 1 comments -> [eMudhra Certificates Are Compromised](https://blog.cloudflare.com/emudhra-certificate-compromise/)<!-- HN:50246541:end --><!-- HN:50247635:start -->
-* [50247635](https://news.social-protocols.org/stats?id=50247635) #11 -> [Don't Be a Tech Bro](https://louwrentius.com/dont-be-a-tech-bro.html)<!-- HN:50247635:end --><!-- HN:50242843:start -->
-* [50242843](https://news.social-protocols.org/stats?id=50242843) #30 164 points 147 comments -> [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)<!-- HN:50242843:end --><!-- HN:50250557:start -->
-* [50250557](https://news.social-protocols.org/stats?id=50250557) #8 16 points 0 comments -> [US fired over 600 missile interceptors defending Israel in three years](https://www.stephensemler.com/p/us-fired-over-600-missile-interceptors)<!-- HN:50250557:end --><!-- HN:50249947:start -->
-* [50249947](https://news.social-protocols.org/stats?id=50249947) #28 7 points 2 comments -> [Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/)<!-- HN:50249947:end -->
 #### **Tuesday, October 27, 2026**
 <!-- HN:50243646:start -->
 * [50243646](https://news.social-protocols.org/stats?id=50243646) #25 157 points 234 comments -> [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)<!-- HN:50243646:end --><!-- HN:50254300:start -->
