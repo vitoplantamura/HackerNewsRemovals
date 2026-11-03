@@ -138,4 +138,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50340362](https://news.social-protocols.org/stats?id=50340362) #26 28 points 10 comments -> [I Read the Clankers' Code](https://fev.al/posts/i-read-the-code/)<!-- HN:50340362:end --><!-- HN:50344536:start -->
 * [50344536](https://news.social-protocols.org/stats?id=50344536) #26 16 points 3 comments -> [Stop Hogging RAM You Monster](https://ramhogger.monster/)<!-- HN:50344536:end -->
 #### **Tuesday, November 3, 2026**<!-- HN:50347574:start -->
-* [50347574](https://news.social-protocols.org/stats?id=50347574) #11 11 points 1 comments -> [Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube](https://ownhackertube.cc/)<!-- HN:50347574:end -->
+* [50347574](https://news.social-protocols.org/stats?id=50347574) #11 11 points 1 comments -> [Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube](https://ownhackertube.cc/)<!-- HN:50347574:end --><!-- HN:50350693:start -->
+* [50350693](https://news.social-protocols.org/stats?id=50350693) #19 22 points 42 comments -> [Sam Altman's Case Against Your RAM Is Efficient. That's the Problem](https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/)<!-- HN:50350693:end -->
