@@ -137,4 +137,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50338871](https://news.social-protocols.org/stats?id=50338871) #14 15 points 10 comments -> [Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal](https://fotojockovic.com/vhs)<!-- HN:50338871:end --><!-- HN:50340362:start -->
 * [50340362](https://news.social-protocols.org/stats?id=50340362) #26 28 points 10 comments -> [I Read the Clankers' Code](https://fev.al/posts/i-read-the-code/)<!-- HN:50340362:end --><!-- HN:50344536:start -->
 * [50344536](https://news.social-protocols.org/stats?id=50344536) #26 16 points 3 comments -> [Stop Hogging RAM You Monster](https://ramhogger.monster/)<!-- HN:50344536:end -->
-#### **Tuesday, November 3, 2026**
+#### **Tuesday, November 3, 2026**<!-- HN:50347574:start -->
+* [50347574](https://news.social-protocols.org/stats?id=50347574) #11 11 points 1 comments -> [Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube](https://ownhackertube.cc/)<!-- HN:50347574:end -->
