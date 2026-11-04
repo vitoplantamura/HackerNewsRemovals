@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50353905](https://news.social-protocols.org/stats?id=50353905) #9 36 points 10 comments -> [Google Will Turn Off Search for Schools That Reject A.I](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)<!-- HN:50353905:end --><!-- HN:50355782:start -->
 * [50355782](https://news.social-protocols.org/stats?id=50355782) #10 7 points 0 comments -> [People Against Genocide Smash Military Satellites on Balfour Anniversary](https://aftershock.media/military-satellites-balfour/)<!-- HN:50355782:end --><!-- HN:50357862:start -->
 * [50357862](https://news.social-protocols.org/stats?id=50357862) #8 -> [Subvocal raised $1.3M. A developer recreated it with AirPods in 9 minutes](https://github.com/joeblau/subvox)<!-- HN:50357862:end -->
+#### **Wednesday, November 4, 2026**
+<!-- HN:50359839:start -->
+* [50359839](https://news.social-protocols.org/stats?id=50359839) #13 12 points 6 comments -> [Prompting Is Programming](https://www.brethorsting.com/blog/2026/11/prompting-is-programming/)<!-- HN:50359839:end -->
