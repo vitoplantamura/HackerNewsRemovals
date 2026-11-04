@@ -43,27 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, October 28, 2026**
-<!-- HN:50267494:start -->
-* [50267494](https://news.social-protocols.org/stats?id=50267494) #22 14 points 0 comments -> [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)<!-- HN:50267494:end --><!-- HN:50268929:start -->
-* [50268929](https://news.social-protocols.org/stats?id=50268929) #29 3 points 0 comments -> [I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer](https://github.com/Aissamohammedi88/toolkit)<!-- HN:50268929:end --><!-- HN:50269651:start -->
-* [50269651](https://news.social-protocols.org/stats?id=50269651) #2 36 points 20 comments -> [Artificial Analysis Intelligence Index v5.0](https://artificialanalysis.ai/methodology/intelligence-benchmarking)<!-- HN:50269651:end --><!-- HN:50269492:start -->
-* [50269492](https://news.social-protocols.org/stats?id=50269492) #26 9 points 1 comments -> [碁の国: Play Chess as Town Building](https://gonokuni.plpl.town/)<!-- HN:50269492:end --><!-- HN:50272702:start -->
-* [50272702](https://news.social-protocols.org/stats?id=50272702) #4 6 points 2 comments -> [One dead LED killed a working TV](https://train-it.eu/blog/one-dead-led-killed-a-working-tv/)<!-- HN:50272702:end --><!-- HN:50225880:start -->
-* [50225880](https://news.social-protocols.org/stats?id=50225880) #15 7 points 4 comments -> [WikiCity – Explore 100k Wikipedia Articles as a 3D City](https://wikicity.app)<!-- HN:50225880:end --><!-- HN:50273623:start -->
-* [50273623](https://news.social-protocols.org/stats?id=50273623) #9 67 points 19 comments -> [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite)<!-- HN:50273623:end --><!-- HN:50275890:start -->
-* [50275890](https://news.social-protocols.org/stats?id=50275890) #28 -> [Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax](https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/)<!-- HN:50275890:end --><!-- HN:50259406:start -->
-* [50259406](https://news.social-protocols.org/stats?id=50259406) #17 223 points 115 comments -> [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)<!-- HN:50259406:end --><!-- HN:50276928:start -->
-* [50276928](https://news.social-protocols.org/stats?id=50276928) #10 13 points 1 comments -> [Apple Introduces MacBook Pro PRLED XDR with Touchscreen](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/)<!-- HN:50276928:end --><!-- HN:50234183:start -->
-* [50234183](https://news.social-protocols.org/stats?id=50234183) #18 29 points 16 comments -> [Fine-tuned Qwen on my 16gb GPU to respond without the letter e](https://kevin-wu.ca/blog/qwn/)<!-- HN:50234183:end --><!-- HN:50278970:start -->
-* [50278970](https://news.social-protocols.org/stats?id=50278970) #9 30 points 3 comments -> [At least 68 killed in Spanish high-speed train crash](https://www.bbc.com/news/live/cv1j309d4g98t)<!-- HN:50278970:end --><!-- HN:50280178:start -->
-* [50280178](https://news.social-protocols.org/stats?id=50280178) #15 98 points 50 comments -> [Google AI gets cagey when asked who won the 2020 elections](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)<!-- HN:50280178:end --><!-- HN:50242358:start -->
-* [50242358](https://news.social-protocols.org/stats?id=50242358) #17 14 points 6 comments -> [Rubber Duck I've Ever Had](https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had)<!-- HN:50242358:end --><!-- HN:50281902:start -->
-* [50281902](https://news.social-protocols.org/stats?id=50281902) #26 -> [Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache](https://twitter.com/coolerwave/status/2114088769112477849)<!-- HN:50281902:end --><!-- HN:50224482:start -->
-* [50224482](https://news.social-protocols.org/stats?id=50224482) #24 12 points 5 comments -> [The Style Is Father of the Man](https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/)<!-- HN:50224482:end --><!-- HN:50282188:start -->
-* [50282188](https://news.social-protocols.org/stats?id=50282188) #13 6 points 0 comments -> [Open U.S. Department of Homeland Security Directory](https://icepi.cx/)<!-- HN:50282188:end --><!-- HN:50275887:start -->
-* [50275887](https://news.social-protocols.org/stats?id=50275887) #23 245 points 59 comments -> [Meta censored the No Kings Instagram account during a nationwide campaign](https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram)<!-- HN:50275887:end --><!-- HN:50282094:start -->
-* [50282094](https://news.social-protocols.org/stats?id=50282094) #23 10 points 0 comments -> [Outrage after airport self-service checkout asks for 18% tip](https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html)<!-- HN:50282094:end -->
 #### **Thursday, October 29, 2026**
 <!-- HN:50208960:start -->
 * [50208960](https://news.social-protocols.org/stats?id=50208960) #10 592 points 129 comments -> [Start Doing Graph Theory](https://vertex.degree/)<!-- HN:50208960:end --><!-- HN:50209269:start -->
