@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, November 4, 2026**
 <!-- HN:50359839:start -->
 * [50359839](https://news.social-protocols.org/stats?id=50359839) #13 12 points 6 comments -> [Prompting Is Programming](https://www.brethorsting.com/blog/2026/11/prompting-is-programming/)<!-- HN:50359839:end --><!-- HN:50360720:start -->
-* [50360720](https://news.social-protocols.org/stats?id=50360720) #6 9 points 1 comments -> [Running 17 Claude Code bots in a real company for $100/month](https://botsinproduction.com/blog/what-10-claude-code-bots-cost-per-month/)<!-- HN:50360720:end -->
+* [50360720](https://news.social-protocols.org/stats?id=50360720) #6 9 points 1 comments -> [Running 17 Claude Code bots in a real company for $100/month](https://botsinproduction.com/blog/what-10-claude-code-bots-cost-per-month/)<!-- HN:50360720:end --><!-- HN:50363193:start -->
+* [50363193](https://news.social-protocols.org/stats?id=50363193) #5 21 points 11 comments -> [Osewa – An open-source alternative to SSH and Mosh](https://osewa.dev/)<!-- HN:50363193:end -->
