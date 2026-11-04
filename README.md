@@ -126,4 +126,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50357862](https://news.social-protocols.org/stats?id=50357862) #8 -> [Subvocal raised $1.3M. A developer recreated it with AirPods in 9 minutes](https://github.com/joeblau/subvox)<!-- HN:50357862:end -->
 #### **Wednesday, November 4, 2026**
 <!-- HN:50359839:start -->
-* [50359839](https://news.social-protocols.org/stats?id=50359839) #13 12 points 6 comments -> [Prompting Is Programming](https://www.brethorsting.com/blog/2026/11/prompting-is-programming/)<!-- HN:50359839:end -->
+* [50359839](https://news.social-protocols.org/stats?id=50359839) #13 12 points 6 comments -> [Prompting Is Programming](https://www.brethorsting.com/blog/2026/11/prompting-is-programming/)<!-- HN:50359839:end --><!-- HN:50360115:start -->
+* [50360115](https://news.social-protocols.org/stats?id=50360115) #13 7 points 0 comments -> [People Against Genocide Smash Military Satellites on Balfour Anniversary](https://aftershock.media/military-satellites-balfour/)<!-- HN:50360115:end -->
