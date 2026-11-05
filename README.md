@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, October 29, 2026**
-<!-- HN:50208960:start -->
-* [50208960](https://news.social-protocols.org/stats?id=50208960) #10 592 points 129 comments -> [Start Doing Graph Theory](https://vertex.degree/)<!-- HN:50208960:end --><!-- HN:50209269:start -->
-* [50209269](https://news.social-protocols.org/stats?id=50209269) #23 104 points 22 comments -> [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)<!-- HN:50209269:end --><!-- HN:50285177:start -->
-* [50285177](https://news.social-protocols.org/stats?id=50285177) #22 15 points 2 comments -> [Bernstein – open-source governance layer for AI agents](https://bernstein.run)<!-- HN:50285177:end --><!-- HN:50287638:start -->
-* [50287638](https://news.social-protocols.org/stats?id=50287638) #30 10 points 1 comments -> [DoorDash to Buy Instacart for $17B, Uniting 2 Delivery Giants](https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html)<!-- HN:50287638:end --><!-- HN:50247465:start -->
-* [50247465](https://news.social-protocols.org/stats?id=50247465) #15 14 points 7 comments -> [Open Sound Connect – Control Sony Headphones from Your Mac](https://opensoundconnect.app)<!-- HN:50247465:end --><!-- HN:50290042:start -->
-* [50290042](https://news.social-protocols.org/stats?id=50290042) #12 16 points 6 comments -> [React.lazy, Suspense and the Hidden 300 ms Delay](https://tabwidgets.com/blog/react-lazy-suspense-delay)<!-- HN:50290042:end --><!-- HN:50289859:start -->
-* [50289859](https://news.social-protocols.org/stats?id=50289859) #5 119 points 2 comments -> [DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)<!-- HN:50289859:end --><!-- HN:50290170:start -->
-* [50290170](https://news.social-protocols.org/stats?id=50290170) #3 102 points 56 comments -> [Finland investigate Google over destruction of 250k trees](https://yle.fi/a/74-20254086)<!-- HN:50290170:end --><!-- HN:50291830:start -->
-* [50291830](https://news.social-protocols.org/stats?id=50291830) #7 17 points 16 comments -> [Are Stochastic Parrots Alive?](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)<!-- HN:50291830:end --><!-- HN:50293308:start -->
-* [50293308](https://news.social-protocols.org/stats?id=50293308) #30 22 points 10 comments -> [I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform](https://github.com/Ka1-S/LYNX-SHARE)<!-- HN:50293308:end --><!-- HN:50295503:start -->
-* [50295503](https://news.social-protocols.org/stats?id=50295503) #11 12 points 8 comments -> [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)<!-- HN:50295503:end --><!-- HN:50296272:start -->
-* [50296272](https://news.social-protocols.org/stats?id=50296272) #2 35 points 2 comments -> [Over $5B drained from Binance in apparent hack](http://twitter.com/emmettgallic/status/2115916025774723210)<!-- HN:50296272:end -->
 #### **Friday, October 30, 2026**
 <!-- HN:50302187:start -->
 * [50302187](https://news.social-protocols.org/stats?id=50302187) #12 33 points 8 comments -> [Anthropic hacked to deliver remote access trojan to Claude developer laptops](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)<!-- HN:50302187:end --><!-- HN:50302334:start -->
