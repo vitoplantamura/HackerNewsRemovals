@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50369840](https://news.social-protocols.org/stats?id=50369840) #16 49 points 1 comments -> [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)<!-- HN:50369840:end -->
 #### **Thursday, November 5, 2026**
 <!-- HN:50375728:start -->
-* [50375728](https://news.social-protocols.org/stats?id=50375728) #3 60 points 11 comments -> [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)<!-- HN:50375728:end -->
+* [50375728](https://news.social-protocols.org/stats?id=50375728) #3 60 points 11 comments -> [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)<!-- HN:50375728:end --><!-- HN:50377680:start -->
+* [50377680](https://news.social-protocols.org/stats?id=50377680) #23 8 points 2 comments -> [Italian chef fired after refusing to put pineapple on pizza](https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo)<!-- HN:50377680:end -->
