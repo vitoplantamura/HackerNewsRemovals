@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50364561](https://news.social-protocols.org/stats?id=50364561) #22 51 points 20 comments -> [A map of 5000+ midterm ads](https://admap.org/)<!-- HN:50364561:end --><!-- HN:50369544:start -->
 * [50369544](https://news.social-protocols.org/stats?id=50369544) #18 14 points 3 comments -> [A farmer destroys 10 hectares of crops after following AI advice](https://miguelstudy.pages.dev/a-farmer-destroys-10-hectares-of-crops/)<!-- HN:50369544:end --><!-- HN:50369840:start -->
 * [50369840](https://news.social-protocols.org/stats?id=50369840) #16 49 points 1 comments -> [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)<!-- HN:50369840:end -->
+#### **Thursday, November 5, 2026**
+<!-- HN:50375728:start -->
+* [50375728](https://news.social-protocols.org/stats?id=50375728) #3 60 points 11 comments -> [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)<!-- HN:50375728:end -->
