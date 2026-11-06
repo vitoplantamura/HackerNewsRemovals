@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50337586](https://news.social-protocols.org/stats?id=50337586) #13 14 points 4 comments -> [An intuition for how neural nets can understand text](https://info.zairai.ai/neurons-understanding-text)<!-- HN:50337586:end --><!-- HN:50385091:start -->
 * [50385091](https://news.social-protocols.org/stats?id=50385091) #17 6 points 0 comments -> [How "Safety" Rhetoric Is Weaponized to Protect Israel and Smear Its Critics](https://www.columnblog.com/p/how-safety-rhetoric-is-weaponized)<!-- HN:50385091:end --><!-- HN:50385764:start -->
 * [50385764](https://news.social-protocols.org/stats?id=50385764) #24 -> [Thursday's $3T tech sell-off, and what it means if you build AI products](https://vithushansylvester.com/writing/the-3-trillion-thursday)<!-- HN:50385764:end -->
+#### **Friday, November 6, 2026**
+<!-- HN:50383963:start -->
+* [50383963](https://news.social-protocols.org/stats?id=50383963) #9 94 points 3 comments -> [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)<!-- HN:50383963:end -->
