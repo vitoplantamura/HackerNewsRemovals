@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50399400](https://news.social-protocols.org/stats?id=50399400) #12 15 points 1 comments -> [*sshole, or when are we going to get rid of C?](https://sunshowers.io/posts/sshole/)<!-- HN:50399400:end -->
 #### **Saturday, November 7, 2026**
 <!-- HN:50399859:start -->
-* [50399859](https://news.social-protocols.org/stats?id=50399859) #17 19 points 8 comments -> [No CVE Today, Please](https://nocveday.com/)<!-- HN:50399859:end -->
+* [50399859](https://news.social-protocols.org/stats?id=50399859) #17 19 points 8 comments -> [No CVE Today, Please](https://nocveday.com/)<!-- HN:50399859:end --><!-- HN:50401255:start -->
+* [50401255](https://news.social-protocols.org/stats?id=50401255) #24 -> [The Military Triumphal Arch](https://triumphalarch.com/)<!-- HN:50401255:end -->
