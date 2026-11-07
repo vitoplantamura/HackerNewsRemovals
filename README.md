@@ -43,20 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Saturday, October 31, 2026**
-<!-- HN:50311537:start -->
-* [50311537](https://news.social-protocols.org/stats?id=50311537) #2 19 points 40 comments -> [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)<!-- HN:50311537:end --><!-- HN:50311670:start -->
-* [50311670](https://news.social-protocols.org/stats?id=50311670) #15 5 points 0 comments -> [Be a Loser](https://makemeacto.cc/be-a-loser/)<!-- HN:50311670:end --><!-- HN:50312221:start -->
-* [50312221](https://news.social-protocols.org/stats?id=50312221) #15 4 points 2 comments -> [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)<!-- HN:50312221:end --><!-- HN:50313508:start -->
-* [50313508](https://news.social-protocols.org/stats?id=50313508) #1 -> [Tools Hacker News keeps asking for](https://stillunbuilt.shiptiffin.app/)<!-- HN:50313508:end --><!-- HN:50289991:start -->
-* [50289991](https://news.social-protocols.org/stats?id=50289991) #28 17 points 0 comments -> [Configure a UPS on Linux with NUT](https://linuxjunkies.org/guides/configure-a-ups-with-nut)<!-- HN:50289991:end --><!-- HN:50316275:start -->
-* [50316275](https://news.social-protocols.org/stats?id=50316275) #4 8 points 3 comments -> [MoneyPouch – self hosted expense tracker](https://demo.moneypouch.app/session/new)<!-- HN:50316275:end --><!-- HN:50316526:start -->
-* [50316526](https://news.social-protocols.org/stats?id=50316526) #10 3 points 6 comments -> [Gemini Code vs. Claude Code – A cautionary post-mortem ($800 in 12h)](https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j)<!-- HN:50316526:end --><!-- HN:50317332:start -->
-* [50317332](https://news.social-protocols.org/stats?id=50317332) #29 3 points 0 comments -> [How this AI Agent ended +$517.61 in profits during a 10% market sell-off](https://twitter.com/DeployFinance/status/2116556597082116490)<!-- HN:50317332:end --><!-- HN:50318812:start -->
-* [50318812](https://news.social-protocols.org/stats?id=50318812) #13 3 points 0 comments -> [Shaun Thomas: Burnt Toast](https://www.pgedge.com/blog/burnt-toast)<!-- HN:50318812:end --><!-- HN:50319873:start -->
-* [50319873](https://news.social-protocols.org/stats?id=50319873) #5 7 points 1 comments -> [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)<!-- HN:50319873:end --><!-- HN:50320003:start -->
-* [50320003](https://news.social-protocols.org/stats?id=50320003) #7 18 points 9 comments -> [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)<!-- HN:50320003:end --><!-- HN:50321351:start -->
-* [50321351](https://news.social-protocols.org/stats?id=50321351) #6 9 points 0 comments -> [Inverse Zitron: An Investment Strategy](https://chalmovsky.com/posts/inverse-zitron)<!-- HN:50321351:end -->
 #### **Sunday, November 1, 2026**
 <!-- HN:50321373:start -->
 * [50321373](https://news.social-protocols.org/stats?id=50321373) #26 8 points 0 comments -> [Work Requirements for Trick-or-Treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)<!-- HN:50321373:end --><!-- HN:50325072:start -->
