@@ -110,3 +110,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50393154](https://news.social-protocols.org/stats?id=50393154) #2 296 points 413 comments -> [RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/)<!-- HN:50393154:end --><!-- HN:50395318:start -->
 * [50395318](https://news.social-protocols.org/stats?id=50395318) #25 90 points 1 comments -> [Anthropic IPO Valuation Talks Drop to $1.3T as Major Investors Balk](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)<!-- HN:50395318:end --><!-- HN:50399400:start -->
 * [50399400](https://news.social-protocols.org/stats?id=50399400) #12 15 points 1 comments -> [*sshole, or when are we going to get rid of C?](https://sunshowers.io/posts/sshole/)<!-- HN:50399400:end -->
+#### **Saturday, November 7, 2026**
+<!-- HN:50399859:start -->
+* [50399859](https://news.social-protocols.org/stats?id=50399859) #17 19 points 8 comments -> [No CVE Today, Please](https://nocveday.com/)<!-- HN:50399859:end -->
