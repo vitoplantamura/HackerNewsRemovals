@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, November 7, 2026**
 <!-- HN:50399859:start -->
 * [50399859](https://news.social-protocols.org/stats?id=50399859) #17 19 points 8 comments -> [No CVE Today, Please](https://nocveday.com/)<!-- HN:50399859:end --><!-- HN:50401255:start -->
-* [50401255](https://news.social-protocols.org/stats?id=50401255) #24 -> [The Military Triumphal Arch](https://triumphalarch.com/)<!-- HN:50401255:end -->
+* [50401255](https://news.social-protocols.org/stats?id=50401255) #24 -> [The Military Triumphal Arch](https://triumphalarch.com/)<!-- HN:50401255:end --><!-- HN:50401409:start -->
+* [50401409](https://news.social-protocols.org/stats?id=50401409) #9 9 points 2 comments -> [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/)<!-- HN:50401409:end -->
