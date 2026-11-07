@@ -115,5 +115,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50399859](https://news.social-protocols.org/stats?id=50399859) #17 19 points 8 comments -> [No CVE Today, Please](https://nocveday.com/)<!-- HN:50399859:end --><!-- HN:50401255:start -->
 * [50401255](https://news.social-protocols.org/stats?id=50401255) #24 -> [The Military Triumphal Arch](https://triumphalarch.com/)<!-- HN:50401255:end --><!-- HN:50401409:start -->
 * [50401409](https://news.social-protocols.org/stats?id=50401409) #9 9 points 2 comments -> [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/)<!-- HN:50401409:end --><!-- HN:50402369:start -->
-* [50402369](https://news.social-protocols.org/stats?id=50402369) #9 4 points 4 comments -> [Arete-27B: Qwen3.8-27B, post-trained to reinforce Western values](https://nousresearch.com/arete)<!-- HN:50402369:end --><!-- HN:50357767:start -->
-* [50357767](https://news.social-protocols.org/stats?id=50357767) #17 16 points 0 comments -> [Enterprise Brain – Memory that learns from work](https://www.ampup.ai/companybrain)<!-- HN:50357767:end -->
+* [50402369](https://news.social-protocols.org/stats?id=50402369) #9 4 points 4 comments -> [Arete-27B: Qwen3.8-27B, post-trained to reinforce Western values](https://nousresearch.com/arete)<!-- HN:50402369:end -->
