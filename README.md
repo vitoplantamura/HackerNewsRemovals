@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50406589](https://news.social-protocols.org/stats?id=50406589) #2 80 points 1 comments -> [The End of AI Frontiers](https://hunch.net/?p=13764006)<!-- HN:50406589:end -->
 #### **Sunday, November 8, 2026**
 <!-- HN:50411767:start -->
-* [50411767](https://news.social-protocols.org/stats?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end -->
+* [50411767](https://news.social-protocols.org/stats?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end --><!-- HN:50408729:start -->
+* [50408729](https://news.social-protocols.org/stats?id=50408729) #8 5 points 1 comments -> [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)<!-- HN:50408729:end -->
