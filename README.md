@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50406589](https://news.social-protocols.org/stats?id=50406589) #2 80 points 1 comments -> [The End of AI Frontiers](https://hunch.net/?p=13764006)<!-- HN:50406589:end -->
 #### **Sunday, November 8, 2026**
 <!-- HN:50411767:start -->
-* [50411767](https://news.social-protocols.org/stats?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end -->
+* [50411767](https://news.social-protocols.org/stats?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end --><!-- HN:50412766:start -->
+* [50412766](https://news.social-protocols.org/stats?id=50412766) #6 10 points 0 comments -> [RAM-Altman: a bash script that emails Sam Altman about your unused RAM](https://ram-altman.lol/)<!-- HN:50412766:end -->
