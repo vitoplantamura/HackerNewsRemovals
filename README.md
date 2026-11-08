@@ -114,4 +114,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Sunday, November 8, 2026**
 <!-- HN:50411767:start -->
 * [50411767](https://news.social-protocols.org/stats?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end --><!-- HN:50408729:start -->
-* [50408729](https://news.social-protocols.org/stats?id=50408729) #8 5 points 1 comments -> [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)<!-- HN:50408729:end -->
+* [50408729](https://news.social-protocols.org/stats?id=50408729) #8 5 points 1 comments -> [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)<!-- HN:50408729:end --><!-- HN:50414234:start -->
+* [50414234](https://news.social-protocols.org/stats?id=50414234) #3 22 points 8 comments -> [I Have Never Seen a Game Fail Because the Artists Were Too Slow](https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow)<!-- HN:50414234:end -->
