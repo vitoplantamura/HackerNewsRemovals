@@ -113,4 +113,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50406589](https://news.social-protocols.org/stats?id=50406589) #2 80 points 1 comments -> [The End of AI Frontiers](https://hunch.net/?p=13764006)<!-- HN:50406589:end -->
 #### **Sunday, November 8, 2026**
 <!-- HN:50411767:start -->
-* [50411767](https://news.social-protocols.org/stats?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end -->
+* [50411767](https://news.social-protocols.org/stats?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end --><!-- HN:50412954:start -->
+* [50412954](https://news.social-protocols.org/stats?id=50412954) #16 19 points 24 comments -> [A lack of male protagonists is making it harder to get young boys into books](https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/)<!-- HN:50412954:end -->
