@@ -103,3 +103,7 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50414839](https://news.social-protocols.org/stats?id=50414839) #1 -> ["RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)<!-- HN:50414839:end --><!-- HN:50372396:start -->
 * [50372396](https://news.social-protocols.org/stats?id=50372396) #18 3 points 1 comments -> [Everything should be a random number generator](https://en.cppreference.com/cpp/numeric/random)<!-- HN:50372396:end --><!-- HN:50415078:start -->
 * [50415078](https://news.social-protocols.org/stats?id=50415078) #28 43 points 12 comments -> [Show HN: FuckCaptcha – a field guide to 39 CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)<!-- HN:50415078:end -->
+#### **Monday, November 9, 2026**
+<!-- HN:50360369:start -->
+* [50360369](https://news.social-protocols.org/stats?id=50360369) #22 15 points 2 comments -> [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)<!-- HN:50360369:end --><!-- HN:50353814:start -->
+* [50353814](https://news.social-protocols.org/stats?id=50353814) #24 59 points 23 comments -> [The History of Djgpp](https://www.delorie.com/djgpp/history.html)<!-- HN:50353814:end -->
