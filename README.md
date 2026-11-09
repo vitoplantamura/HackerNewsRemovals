@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50360369:start -->
 * [50360369](https://news.social-protocols.org/stats?id=50360369) #22 15 points 2 comments -> [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)<!-- HN:50360369:end --><!-- HN:50353814:start -->
 * [50353814](https://news.social-protocols.org/stats?id=50353814) #24 59 points 23 comments -> [The History of Djgpp](https://www.delorie.com/djgpp/history.html)<!-- HN:50353814:end --><!-- HN:50420983:start -->
-* [50420983](https://news.social-protocols.org/stats?id=50420983) #20 4 points 1 comments -> [I Resist Generative "AI"](https://estherweidauer.com/articles/why-resist-generative-ai.html)<!-- HN:50420983:end -->
+* [50420983](https://news.social-protocols.org/stats?id=50420983) #20 4 points 1 comments -> [I Resist Generative "AI"](https://estherweidauer.com/articles/why-resist-generative-ai.html)<!-- HN:50420983:end --><!-- HN:50422001:start -->
+* [50422001](https://news.social-protocols.org/stats?id=50422001) #1 28 points 8 comments -> [Being a meat proxy for AI should be grounds for getting people fired](https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired)<!-- HN:50422001:end -->
