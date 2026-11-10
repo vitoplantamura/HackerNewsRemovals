@@ -43,14 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, November 3, 2026**<!-- HN:50347574:start -->
-* [50347574](https://news.social-protocols.org/stats?id=50347574) #11 11 points 1 comments -> [Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube](https://ownhackertube.cc/)<!-- HN:50347574:end --><!-- HN:50350693:start -->
-* [50350693](https://news.social-protocols.org/stats?id=50350693) #19 22 points 42 comments -> [Sam Altman's Case Against Your RAM Is Efficient. That's the Problem](https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/)<!-- HN:50350693:end --><!-- HN:50350673:start -->
-* [50350673](https://news.social-protocols.org/stats?id=50350673) #22 9 points 0 comments -> [Ten harness patterns that you can apply to a real repo](https://deepsense.ai/blog/harness-engineering-for-coding-agents-9-patterns-for-more-reliable-ai-assisted-development/)<!-- HN:50350673:end --><!-- HN:50353465:start -->
-* [50353465](https://news.social-protocols.org/stats?id=50353465) #6 5 points 2 comments -> [The State of Longevity: The healthmaxxing economy is here](https://www.a16z.news/p/the-state-of-longevity)<!-- HN:50353465:end --><!-- HN:50353905:start -->
-* [50353905](https://news.social-protocols.org/stats?id=50353905) #9 36 points 10 comments -> [Google Will Turn Off Search for Schools That Reject A.I](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)<!-- HN:50353905:end --><!-- HN:50355782:start -->
-* [50355782](https://news.social-protocols.org/stats?id=50355782) #10 7 points 0 comments -> [People Against Genocide Smash Military Satellites on Balfour Anniversary](https://aftershock.media/military-satellites-balfour/)<!-- HN:50355782:end --><!-- HN:50357862:start -->
-* [50357862](https://news.social-protocols.org/stats?id=50357862) #8 -> [Subvocal raised $1.3M. A developer recreated it with AirPods in 9 minutes](https://github.com/joeblau/subvox)<!-- HN:50357862:end -->
 #### **Wednesday, November 4, 2026**
 <!-- HN:50359839:start -->
 * [50359839](https://news.social-protocols.org/stats?id=50359839) #13 12 points 6 comments -> [Prompting Is Programming](https://www.brethorsting.com/blog/2026/11/prompting-is-programming/)<!-- HN:50359839:end --><!-- HN:50360720:start -->
