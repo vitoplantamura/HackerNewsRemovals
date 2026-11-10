@@ -109,4 +109,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 10, 2026**
 <!-- HN:50431811:start -->
 * [50431811](https://news.social-protocols.org/stats?id=50431811) #30 -> [Show HN: Rat Race (After Dark, 1994), ported from 68k assembly to TypeScript](https://rat-race.heyitsjam.es/)<!-- HN:50431811:end --><!-- HN:50433669:start -->
-* [50433669](https://news.social-protocols.org/stats?id=50433669) #29 6 points 1 comments -> [AI Bubble Tracker](https://endtime-instruments.org/ai-bubble-tracker/)<!-- HN:50433669:end -->
+* [50433669](https://news.social-protocols.org/stats?id=50433669) #29 6 points 1 comments -> [AI Bubble Tracker](https://endtime-instruments.org/ai-bubble-tracker/)<!-- HN:50433669:end --><!-- HN:50433079:start -->
+* [50433079](https://news.social-protocols.org/stats?id=50433079) #24 106 points 126 comments -> [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)<!-- HN:50433079:end -->
