@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Wednesday, November 4, 2026**
-<!-- HN:50359839:start -->
-* [50359839](https://news.social-protocols.org/stats?id=50359839) #13 12 points 6 comments -> [Prompting Is Programming](https://www.brethorsting.com/blog/2026/11/prompting-is-programming/)<!-- HN:50359839:end --><!-- HN:50360720:start -->
-* [50360720](https://news.social-protocols.org/stats?id=50360720) #6 9 points 1 comments -> [Running 17 Claude Code bots in a real company for $100/month](https://botsinproduction.com/blog/what-10-claude-code-bots-cost-per-month/)<!-- HN:50360720:end --><!-- HN:50363193:start -->
-* [50363193](https://news.social-protocols.org/stats?id=50363193) #5 21 points 11 comments -> [Osewa – An open-source alternative to SSH and Mosh](https://osewa.dev/)<!-- HN:50363193:end --><!-- HN:50363717:start -->
-* [50363717](https://news.social-protocols.org/stats?id=50363717) #13 31 points 23 comments -> [Told to reboot a server, it destroyed systemd, destroyed containers, ran random](https://github.com/openai/codex/issues/59060)<!-- HN:50363717:end --><!-- HN:50364430:start -->
-* [50364430](https://news.social-protocols.org/stats?id=50364430) #17 3 points 1 comments -> [The engineering around post-quantum cryptography is as important](https://github.com/lecodev-26/nexus-q)<!-- HN:50364430:end --><!-- HN:50365159:start -->
-* [50365159](https://news.social-protocols.org/stats?id=50365159) #24 13 points 3 comments -> [I got banned from Lobsters for writing like an LLM](https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/)<!-- HN:50365159:end --><!-- HN:50365009:start -->
-* [50365009](https://news.social-protocols.org/stats?id=50365009) #29 10 points 5 comments -> [Disaster is still better than AI](https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai)<!-- HN:50365009:end --><!-- HN:50364561:start -->
-* [50364561](https://news.social-protocols.org/stats?id=50364561) #22 51 points 20 comments -> [A map of 5000+ midterm ads](https://admap.org/)<!-- HN:50364561:end --><!-- HN:50369544:start -->
-* [50369544](https://news.social-protocols.org/stats?id=50369544) #18 14 points 3 comments -> [A farmer destroys 10 hectares of crops after following AI advice](https://miguelstudy.pages.dev/a-farmer-destroys-10-hectares-of-crops/)<!-- HN:50369544:end --><!-- HN:50369840:start -->
-* [50369840](https://news.social-protocols.org/stats?id=50369840) #16 49 points 1 comments -> [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)<!-- HN:50369840:end -->
 #### **Thursday, November 5, 2026**
 <!-- HN:50375728:start -->
 * [50375728](https://news.social-protocols.org/stats?id=50375728) #3 60 points 11 comments -> [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)<!-- HN:50375728:end --><!-- HN:50337586:start -->
