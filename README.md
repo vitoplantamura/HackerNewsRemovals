@@ -106,4 +106,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50443313](https://news.social-protocols.org/stats?id=50443313) #16 4 points 1 comments -> [U.S. highways have 878 stretches of 50+ miles with no fast EV charger (map)](https://chargingnear.me/nevi-charging-gaps)<!-- HN:50443313:end -->
 #### **Wednesday, November 11, 2026**
 <!-- HN:50427407:start -->
-* [50427407](https://news.social-protocols.org/stats?id=50427407) #14 4 points 2 comments -> [Good Enough for a Tuesday Night](https://www.newyorker.com/culture/the-weekend-essay/good-enough-for-a-tuesday-night)<!-- HN:50427407:end -->
+* [50427407](https://news.social-protocols.org/stats?id=50427407) #14 4 points 2 comments -> [Good Enough for a Tuesday Night](https://www.newyorker.com/culture/the-weekend-essay/good-enough-for-a-tuesday-night)<!-- HN:50427407:end --><!-- HN:50452074:start -->
+* [50452074](https://news.social-protocols.org/stats?id=50452074) #7 36 points 31 comments -> [The Zig project is going nowhere](https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere)<!-- HN:50452074:end -->
