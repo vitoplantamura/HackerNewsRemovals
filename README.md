@@ -107,5 +107,4 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Thursday, November 12, 2026**
 <!-- HN:50459776:start -->
 * [50459776](https://news.social-protocols.org/stats?id=50459776) #11 221 points 187 comments -> [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)<!-- HN:50459776:end --><!-- HN:50463813:start -->
-* [50463813](https://news.social-protocols.org/stats?id=50463813) #12 13 points 3 comments -> [Europe has been living beyond its means. Now the bills are due](https://economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due)<!-- HN:50463813:end --><!-- HN:50465395:start -->
-* [50465395](https://news.social-protocols.org/stats?id=50465395) #11 8 points 2 comments -> [Code Smells of Desperation (2023)](https://www.os2museum.com/wp/this-code-smells-of-desperation/)<!-- HN:50465395:end -->
+* [50463813](https://news.social-protocols.org/stats?id=50463813) #12 13 points 3 comments -> [Europe has been living beyond its means. Now the bills are due](https://economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due)<!-- HN:50463813:end -->
