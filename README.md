@@ -104,3 +104,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50452074](https://news.social-protocols.org/stats?id=50452074) #7 36 points 31 comments -> [The Zig project is going nowhere](https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere)<!-- HN:50452074:end --><!-- HN:50451985:start -->
 * [50451985](https://news.social-protocols.org/stats?id=50451985) #9 36 points 41 comments -> [The Housing Market Is Nuts](https://nuts.logical.li/)<!-- HN:50451985:end --><!-- HN:50428860:start -->
 * [50428860](https://news.social-protocols.org/stats?id=50428860) #25 6 points 0 comments -> [Beans at altitude: stovetop vs. pressure cooker](https://highaltitudelife.com/beans-at-altitude-stovetop-vs-pressure-cooker/)<!-- HN:50428860:end -->
+#### **Thursday, November 12, 2026**
+<!-- HN:50459776:start -->
+* [50459776](https://news.social-protocols.org/stats?id=50459776) #11 221 points 187 comments -> [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)<!-- HN:50459776:end -->
