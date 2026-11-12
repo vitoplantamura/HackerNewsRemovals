@@ -43,3 +43,9 @@
 * [50364561](https://news.ycombinator.com/item?id=50364561) #22 51 points 20 comments -> [A map of 5000+ midterm ads](https://admap.org/)<!-- HN:50364561:end --><!-- HN:50369544:start -->
 * [50369544](https://news.ycombinator.com/item?id=50369544) #18 14 points 3 comments -> [A farmer destroys 10 hectares of crops after following AI advice](https://miguelstudy.pages.dev/a-farmer-destroys-10-hectares-of-crops/)<!-- HN:50369544:end --><!-- HN:50369840:start -->
 * [50369840](https://news.ycombinator.com/item?id=50369840) #16 49 points 1 comments -> [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)<!-- HN:50369840:end -->
+#### **Thursday, November 5, 2026**
+<!-- HN:50375728:start -->
+* [50375728](https://news.ycombinator.com/item?id=50375728) #3 60 points 11 comments -> [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)<!-- HN:50375728:end --><!-- HN:50337586:start -->
+* [50337586](https://news.ycombinator.com/item?id=50337586) #13 14 points 4 comments -> [An intuition for how neural nets can understand text](https://info.zairai.ai/neurons-understanding-text)<!-- HN:50337586:end --><!-- HN:50385091:start -->
+* [50385091](https://news.ycombinator.com/item?id=50385091) #17 6 points 0 comments -> [How "Safety" Rhetoric Is Weaponized to Protect Israel and Smear Its Critics](https://www.columnblog.com/p/how-safety-rhetoric-is-weaponized)<!-- HN:50385091:end --><!-- HN:50385764:start -->
+* [50385764](https://news.ycombinator.com/item?id=50385764) #24 -> [Thursday's $3T tech sell-off, and what it means if you build AI products](https://vithushansylvester.com/writing/the-3-trillion-thursday)<!-- HN:50385764:end -->
