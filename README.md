@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50473606](https://news.social-protocols.org/stats?id=50473606) #23 21 points 14 comments -> [Microsoft Status: "We are re-routing the protocols"](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)<!-- HN:50473606:end -->
 #### **Friday, November 13, 2026**
 <!-- HN:50475735:start -->
-* [50475735](https://news.social-protocols.org/stats?id=50475735) #2 76 points 44 comments -> [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)<!-- HN:50475735:end -->
+* [50475735](https://news.social-protocols.org/stats?id=50475735) #2 76 points 44 comments -> [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)<!-- HN:50475735:end --><!-- HN:50475505:start -->
+* [50475505](https://news.social-protocols.org/stats?id=50475505) #27 14 points 2 comments -> [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)<!-- HN:50475505:end -->
