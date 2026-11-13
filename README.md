@@ -116,3 +116,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50471428](https://news.social-protocols.org/stats?id=50471428) #12 14 points 3 comments -> [Gemini 4 Hydrogen](https://deepmind.google/models/model-cards/gemini-4-hydrogen/)<!-- HN:50471428:end --><!-- HN:50471793:start -->
 * [50471793](https://news.social-protocols.org/stats?id=50471793) #2 300 points 7 comments -> [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)<!-- HN:50471793:end --><!-- HN:50473606:start -->
 * [50473606](https://news.social-protocols.org/stats?id=50473606) #23 21 points 14 comments -> [Microsoft Status: "We are re-routing the protocols"](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)<!-- HN:50473606:end -->
+#### **Friday, November 13, 2026**
+<!-- HN:50475735:start -->
+* [50475735](https://news.social-protocols.org/stats?id=50475735) #2 76 points 44 comments -> [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)<!-- HN:50475735:end -->
