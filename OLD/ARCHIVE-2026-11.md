@@ -65,3 +65,13 @@
 * [50393154](https://news.ycombinator.com/item?id=50393154) #2 296 points 413 comments -> [RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/)<!-- HN:50393154:end --><!-- HN:50395318:start -->
 * [50395318](https://news.ycombinator.com/item?id=50395318) #25 90 points 1 comments -> [Anthropic IPO Valuation Talks Drop to $1.3T as Major Investors Balk](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)<!-- HN:50395318:end --><!-- HN:50399400:start -->
 * [50399400](https://news.ycombinator.com/item?id=50399400) #12 15 points 1 comments -> [*sshole, or when are we going to get rid of C?](https://sunshowers.io/posts/sshole/)<!-- HN:50399400:end -->
+#### **Saturday, November 7, 2026**
+<!-- HN:50399859:start -->
+* [50399859](https://news.ycombinator.com/item?id=50399859) #17 19 points 8 comments -> [No CVE Today, Please](https://nocveday.com/)<!-- HN:50399859:end --><!-- HN:50401255:start -->
+* [50401255](https://news.ycombinator.com/item?id=50401255) #24 -> [The Military Triumphal Arch](https://triumphalarch.com/)<!-- HN:50401255:end --><!-- HN:50401409:start -->
+* [50401409](https://news.ycombinator.com/item?id=50401409) #9 9 points 2 comments -> [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/)<!-- HN:50401409:end --><!-- HN:50402369:start -->
+* [50402369](https://news.ycombinator.com/item?id=50402369) #9 4 points 4 comments -> [Arete-27B: Qwen3.8-27B, post-trained to reinforce Western values](https://nousresearch.com/arete)<!-- HN:50402369:end --><!-- HN:50404622:start -->
+* [50404622](https://news.ycombinator.com/item?id=50404622) #2 8 points 1 comments -> [I don't care if web content is AI-generated](https://kevinboone.me/ai.html)<!-- HN:50404622:end --><!-- HN:50405484:start -->
+* [50405484](https://news.ycombinator.com/item?id=50405484) #6 5 points 4 comments -> [Let's Encrypt AI: protect AI chats with on AI GPUs by the end of 2027](https://letsencrypt.ai/)<!-- HN:50405484:end --><!-- HN:50405649:start -->
+* [50405649](https://news.ycombinator.com/item?id=50405649) #3 8 points 0 comments -> [Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It](https://antonau.tech/posts/2026/11/agents-microvm-firecracker/)<!-- HN:50405649:end --><!-- HN:50406589:start -->
+* [50406589](https://news.ycombinator.com/item?id=50406589) #2 80 points 1 comments -> [The End of AI Frontiers](https://hunch.net/?p=13764006)<!-- HN:50406589:end -->
