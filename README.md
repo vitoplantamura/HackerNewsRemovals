@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50486480](https://news.social-protocols.org/stats?id=50486480) #23 21 points 11 comments -> [Gnomon. Git for Postgres data, built for agents](https://github.com/bitsinfra/gnomon)<!-- HN:50486480:end --><!-- HN:50490383:start -->
 * [50490383](https://news.social-protocols.org/stats?id=50490383) #6 -> [US Radar Service Outage](https://www.weather.gov/afc/radaroutage)<!-- HN:50490383:end --><!-- HN:50490967:start -->
 * [50490967](https://news.social-protocols.org/stats?id=50490967) #14 6 points 1 comments -> [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)<!-- HN:50490967:end -->
+#### **Saturday, November 14, 2026**
+<!-- HN:50491753:start -->
+* [50491753](https://news.social-protocols.org/stats?id=50491753) #18 7 points 0 comments -> [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)<!-- HN:50491753:end -->
