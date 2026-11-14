@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50490967](https://news.social-protocols.org/stats?id=50490967) #14 6 points 1 comments -> [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)<!-- HN:50490967:end -->
 #### **Saturday, November 14, 2026**
 <!-- HN:50491753:start -->
-* [50491753](https://news.social-protocols.org/stats?id=50491753) #18 7 points 0 comments -> [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)<!-- HN:50491753:end -->
+* [50491753](https://news.social-protocols.org/stats?id=50491753) #18 7 points 0 comments -> [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)<!-- HN:50491753:end --><!-- HN:50492450:start -->
+* [50492450](https://news.social-protocols.org/stats?id=50492450) #14 -> [Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop](https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/)<!-- HN:50492450:end -->
