@@ -116,6 +116,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50501515](https://news.social-protocols.org/stats?id=50501515) #8 18 points 3 comments -> [Mullvad VPN – Privacy is for the people](https://mullvad.net/en)<!-- HN:50501515:end -->
 #### **Sunday, November 15, 2026**
 <!-- HN:50503034:start -->
-* [50503034](https://news.social-protocols.org/stats?id=50503034) #4 7 points 4 comments -> [Can the AI boom make enough money to sustain itself?](https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself)<!-- HN:50503034:end --><!-- HN:50504077:start -->
-* [50504077](https://news.social-protocols.org/stats?id=50504077) #4 12 points 6 comments -> [Kiri – The Modern Container Runtime](https://runkiri.com/)<!-- HN:50504077:end --><!-- HN:50502768:start -->
+* [50503034](https://news.social-protocols.org/stats?id=50503034) #4 7 points 4 comments -> [Can the AI boom make enough money to sustain itself?](https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself)<!-- HN:50503034:end --><!-- HN:50502768:start -->
 * [50502768](https://news.social-protocols.org/stats?id=50502768) #17 60 points 1 comments -> [US loses measles-free status: Pan American Health Organization](https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status)<!-- HN:50502768:end -->
