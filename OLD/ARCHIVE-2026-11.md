@@ -75,3 +75,11 @@
 * [50405484](https://news.ycombinator.com/item?id=50405484) #6 5 points 4 comments -> [Let's Encrypt AI: protect AI chats with on AI GPUs by the end of 2027](https://letsencrypt.ai/)<!-- HN:50405484:end --><!-- HN:50405649:start -->
 * [50405649](https://news.ycombinator.com/item?id=50405649) #3 8 points 0 comments -> [Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It](https://antonau.tech/posts/2026/11/agents-microvm-firecracker/)<!-- HN:50405649:end --><!-- HN:50406589:start -->
 * [50406589](https://news.ycombinator.com/item?id=50406589) #2 80 points 1 comments -> [The End of AI Frontiers](https://hunch.net/?p=13764006)<!-- HN:50406589:end -->
+#### **Sunday, November 8, 2026**
+<!-- HN:50411767:start -->
+* [50411767](https://news.ycombinator.com/item?id=50411767) #8 13 points 1 comments -> [a](http://a.com)<!-- HN:50411767:end --><!-- HN:50408729:start -->
+* [50408729](https://news.ycombinator.com/item?id=50408729) #8 5 points 1 comments -> [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)<!-- HN:50408729:end --><!-- HN:50414155:start -->
+* [50414155](https://news.ycombinator.com/item?id=50414155) #9 5 points 3 comments -> [Scrine – Joyscroll books. Read any book one sentence at a time](https://scrine.io/)<!-- HN:50414155:end --><!-- HN:50414839:start -->
+* [50414839](https://news.ycombinator.com/item?id=50414839) #1 -> ["RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)<!-- HN:50414839:end --><!-- HN:50372396:start -->
+* [50372396](https://news.ycombinator.com/item?id=50372396) #18 3 points 1 comments -> [Everything should be a random number generator](https://en.cppreference.com/cpp/numeric/random)<!-- HN:50372396:end --><!-- HN:50415078:start -->
+* [50415078](https://news.ycombinator.com/item?id=50415078) #28 43 points 12 comments -> [Show HN: FuckCaptcha – a field guide to 39 CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)<!-- HN:50415078:end -->
