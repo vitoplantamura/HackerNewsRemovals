@@ -114,3 +114,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50499712](https://news.social-protocols.org/stats?id=50499712) #14 7 points 5 comments -> [A reimagined OS with no folders and no apps](https://www.mercuryos.com/)<!-- HN:50499712:end --><!-- HN:50500792:start -->
 * [50500792](https://news.social-protocols.org/stats?id=50500792) #11 5 points 1 comments -> [Yeah, LLM's haven't solved much of anything else, but hey, here you go](https://apps.apple.com/us/app/intellikey/id1667188645)<!-- HN:50500792:end --><!-- HN:50501515:start -->
 * [50501515](https://news.social-protocols.org/stats?id=50501515) #8 18 points 3 comments -> [Mullvad VPN – Privacy is for the people](https://mullvad.net/en)<!-- HN:50501515:end -->
+#### **Sunday, November 15, 2026**
+<!-- HN:50503034:start -->
+* [50503034](https://news.social-protocols.org/stats?id=50503034) #4 7 points 4 comments -> [Can the AI boom make enough money to sustain itself?](https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself)<!-- HN:50503034:end -->
