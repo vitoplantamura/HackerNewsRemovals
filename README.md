@@ -124,3 +124,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50507722](https://news.social-protocols.org/stats?id=50507722) #16 5 points 10 comments -> [Show HN: A tiny macOS app that turns off the MacBook display [free license]](https://blackoutapp.io/)<!-- HN:50507722:end --><!-- HN:50508076:start -->
 * [50508076](https://news.social-protocols.org/stats?id=50508076) #9 8 points 5 comments -> [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)<!-- HN:50508076:end --><!-- HN:50507989:start -->
 * [50507989](https://news.social-protocols.org/stats?id=50507989) #23 19 points 20 comments -> [The Atheist Bible](https://suchanek.name/texts/atheism/)<!-- HN:50507989:end -->
+#### **Monday, November 16, 2026**
+<!-- HN:50511899:start -->
+* [50511899](https://news.social-protocols.org/stats?id=50511899) #9 30 points 8 comments -> [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/)<!-- HN:50511899:end -->
