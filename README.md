@@ -115,4 +115,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50507989](https://news.social-protocols.org/stats?id=50507989) #23 19 points 20 comments -> [The Atheist Bible](https://suchanek.name/texts/atheism/)<!-- HN:50507989:end -->
 #### **Monday, November 16, 2026**
 <!-- HN:50511899:start -->
-* [50511899](https://news.social-protocols.org/stats?id=50511899) #9 30 points 8 comments -> [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/)<!-- HN:50511899:end -->
+* [50511899](https://news.social-protocols.org/stats?id=50511899) #9 30 points 8 comments -> [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/)<!-- HN:50511899:end --><!-- HN:50511505:start -->
+* [50511505](https://news.social-protocols.org/stats?id=50511505) #16 11 points 2 comments -> [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)<!-- HN:50511505:end -->
