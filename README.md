@@ -117,4 +117,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50511505:start -->
 * [50511505](https://news.social-protocols.org/stats?id=50511505) #16 11 points 2 comments -> [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)<!-- HN:50511505:end --><!-- HN:50513077:start -->
 * [50513077](https://news.social-protocols.org/stats?id=50513077) #7 8 points 1 comments -> [Dffy: A fast terminal-native Git diff viewer, written in Rust](https://github.com/amalucelli/dffy)<!-- HN:50513077:end --><!-- HN:50511362:start -->
-* [50511362](https://news.social-protocols.org/stats?id=50511362) #16 9 points 2 comments -> [DefCon: Breaking into Amazon Lockers by Any Means Necessary](https://www.youtube.com/watch?v=ZVmRe8OVZtE)<!-- HN:50511362:end -->
+* [50511362](https://news.social-protocols.org/stats?id=50511362) #16 9 points 2 comments -> [DefCon: Breaking into Amazon Lockers by Any Means Necessary](https://www.youtube.com/watch?v=ZVmRe8OVZtE)<!-- HN:50511362:end --><!-- HN:50516301:start -->
+* [50516301](https://news.social-protocols.org/stats?id=50516301) #6 -> [I posted in "Who wants to be hired?" and a recruiter sent me a RAT and a stealer](https://getjump.me/posts/03-huntrole-fake-take-home/)<!-- HN:50516301:end -->
