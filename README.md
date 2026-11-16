@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Monday, November 9, 2026**
-<!-- HN:50360369:start -->
-* [50360369](https://news.social-protocols.org/stats?id=50360369) #22 15 points 2 comments -> [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)<!-- HN:50360369:end --><!-- HN:50353814:start -->
-* [50353814](https://news.social-protocols.org/stats?id=50353814) #24 59 points 23 comments -> [The History of Djgpp](https://www.delorie.com/djgpp/history.html)<!-- HN:50353814:end --><!-- HN:50420983:start -->
-* [50420983](https://news.social-protocols.org/stats?id=50420983) #20 4 points 1 comments -> [I Resist Generative "AI"](https://estherweidauer.com/articles/why-resist-generative-ai.html)<!-- HN:50420983:end --><!-- HN:50422001:start -->
-* [50422001](https://news.social-protocols.org/stats?id=50422001) #1 28 points 8 comments -> [Being a meat proxy for AI should be grounds for getting people fired](https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired)<!-- HN:50422001:end --><!-- HN:50402428:start -->
-* [50402428](https://news.social-protocols.org/stats?id=50402428) #23 13 points 1 comments -> [SultanC – an Arabic-first systems programming language](https://github.com/sultan-language/sultanc)<!-- HN:50402428:end --><!-- HN:50421899:start -->
-* [50421899](https://news.social-protocols.org/stats?id=50421899) #21 9 points 2 comments -> [WindyMaps – Free offline maps, 1h/1km weather and route trip planner](https://windymapy.com)<!-- HN:50421899:end --><!-- HN:50422181:start -->
-* [50422181](https://news.social-protocols.org/stats?id=50422181) #13 32 points 40 comments -> [370 Books in 20 months: South African author defends her use of AI](https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai)<!-- HN:50422181:end --><!-- HN:50429477:start -->
-* [50429477](https://news.social-protocols.org/stats?id=50429477) #21 -> [Nuance Labs](https://app.nuancelabs.ai/try)<!-- HN:50429477:end --><!-- HN:50429652:start -->
-* [50429652](https://news.social-protocols.org/stats?id=50429652) #16 9 points 0 comments -> [I Am Done Using Your UI](https://killianc.com/i-am-done-using-your-ui/)<!-- HN:50429652:end -->
 #### **Tuesday, November 10, 2026**
 <!-- HN:50431811:start -->
 * [50431811](https://news.social-protocols.org/stats?id=50431811) #30 -> [Show HN: Rat Race (After Dark, 1994), ported from 68k assembly to TypeScript](https://rat-race.heyitsjam.es/)<!-- HN:50431811:end --><!-- HN:50433669:start -->

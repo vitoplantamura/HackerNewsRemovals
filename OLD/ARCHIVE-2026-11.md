@@ -83,3 +83,14 @@
 * [50414839](https://news.ycombinator.com/item?id=50414839) #1 -> ["RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)<!-- HN:50414839:end --><!-- HN:50372396:start -->
 * [50372396](https://news.ycombinator.com/item?id=50372396) #18 3 points 1 comments -> [Everything should be a random number generator](https://en.cppreference.com/cpp/numeric/random)<!-- HN:50372396:end --><!-- HN:50415078:start -->
 * [50415078](https://news.ycombinator.com/item?id=50415078) #28 43 points 12 comments -> [Show HN: FuckCaptcha – a field guide to 39 CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)<!-- HN:50415078:end -->
+#### **Monday, November 9, 2026**
+<!-- HN:50360369:start -->
+* [50360369](https://news.ycombinator.com/item?id=50360369) #22 15 points 2 comments -> [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)<!-- HN:50360369:end --><!-- HN:50353814:start -->
+* [50353814](https://news.ycombinator.com/item?id=50353814) #24 59 points 23 comments -> [The History of Djgpp](https://www.delorie.com/djgpp/history.html)<!-- HN:50353814:end --><!-- HN:50420983:start -->
+* [50420983](https://news.ycombinator.com/item?id=50420983) #20 4 points 1 comments -> [I Resist Generative "AI"](https://estherweidauer.com/articles/why-resist-generative-ai.html)<!-- HN:50420983:end --><!-- HN:50422001:start -->
+* [50422001](https://news.ycombinator.com/item?id=50422001) #1 28 points 8 comments -> [Being a meat proxy for AI should be grounds for getting people fired](https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired)<!-- HN:50422001:end --><!-- HN:50402428:start -->
+* [50402428](https://news.ycombinator.com/item?id=50402428) #23 13 points 1 comments -> [SultanC – an Arabic-first systems programming language](https://github.com/sultan-language/sultanc)<!-- HN:50402428:end --><!-- HN:50421899:start -->
+* [50421899](https://news.ycombinator.com/item?id=50421899) #21 9 points 2 comments -> [WindyMaps – Free offline maps, 1h/1km weather and route trip planner](https://windymapy.com)<!-- HN:50421899:end --><!-- HN:50422181:start -->
+* [50422181](https://news.ycombinator.com/item?id=50422181) #13 32 points 40 comments -> [370 Books in 20 months: South African author defends her use of AI](https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai)<!-- HN:50422181:end --><!-- HN:50429477:start -->
+* [50429477](https://news.ycombinator.com/item?id=50429477) #21 -> [Nuance Labs](https://app.nuancelabs.ai/try)<!-- HN:50429477:end --><!-- HN:50429652:start -->
+* [50429652](https://news.ycombinator.com/item?id=50429652) #16 9 points 0 comments -> [I Am Done Using Your UI](https://killianc.com/i-am-done-using-your-ui/)<!-- HN:50429652:end -->
