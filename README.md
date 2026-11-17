@@ -124,4 +124,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50524260](https://news.social-protocols.org/stats?id=50524260) #15 43 points 9 comments -> [United Airlines has a widespread system outage](https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff)<!-- HN:50524260:end -->
 #### **Tuesday, November 17, 2026**
 <!-- HN:50523300:start -->
-* [50523300](https://news.social-protocols.org/stats?id=50523300) #4 184 points 2 comments -> [Optimizely Compromised](https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/)<!-- HN:50523300:end -->
+* [50523300](https://news.social-protocols.org/stats?id=50523300) #4 184 points 2 comments -> [Optimizely Compromised](https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/)<!-- HN:50523300:end --><!-- HN:50525646:start -->
+* [50525646](https://news.social-protocols.org/stats?id=50525646) #21 8 points 0 comments -> [Doom on the Nikon Z 6II camera](https://arnebaeyens.com/blog/2026/doom-on-nikon-z6ii/)<!-- HN:50525646:end -->
