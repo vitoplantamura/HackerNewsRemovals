@@ -122,3 +122,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50522920](https://news.social-protocols.org/stats?id=50522920) #7 8 points 2 comments -> [Nations Must Die](https://marvindanig.com/blog/nations-must-die/)<!-- HN:50522920:end --><!-- HN:50523147:start -->
 * [50523147](https://news.social-protocols.org/stats?id=50523147) #13 7 points 2 comments -> [Amtrak service stopped around Washington, D.C](https://www.fox5dc.com/news/amtrak-service-stopped-washington-dc-track-hold)<!-- HN:50523147:end --><!-- HN:50524260:start -->
 * [50524260](https://news.social-protocols.org/stats?id=50524260) #15 43 points 9 comments -> [United Airlines has a widespread system outage](https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff)<!-- HN:50524260:end -->
+#### **Tuesday, November 17, 2026**
+<!-- HN:50523300:start -->
+* [50523300](https://news.social-protocols.org/stats?id=50523300) #4 184 points 2 comments -> [Optimizely Compromised](https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/)<!-- HN:50523300:end -->
