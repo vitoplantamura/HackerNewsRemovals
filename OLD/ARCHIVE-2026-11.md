@@ -94,3 +94,13 @@
 * [50422181](https://news.ycombinator.com/item?id=50422181) #13 32 points 40 comments -> [370 Books in 20 months: South African author defends her use of AI](https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai)<!-- HN:50422181:end --><!-- HN:50429477:start -->
 * [50429477](https://news.ycombinator.com/item?id=50429477) #21 -> [Nuance Labs](https://app.nuancelabs.ai/try)<!-- HN:50429477:end --><!-- HN:50429652:start -->
 * [50429652](https://news.ycombinator.com/item?id=50429652) #16 9 points 0 comments -> [I Am Done Using Your UI](https://killianc.com/i-am-done-using-your-ui/)<!-- HN:50429652:end -->
+#### **Tuesday, November 10, 2026**
+<!-- HN:50431811:start -->
+* [50431811](https://news.ycombinator.com/item?id=50431811) #30 -> [Show HN: Rat Race (After Dark, 1994), ported from 68k assembly to TypeScript](https://rat-race.heyitsjam.es/)<!-- HN:50431811:end --><!-- HN:50433669:start -->
+* [50433669](https://news.ycombinator.com/item?id=50433669) #29 6 points 1 comments -> [AI Bubble Tracker](https://endtime-instruments.org/ai-bubble-tracker/)<!-- HN:50433669:end --><!-- HN:50433079:start -->
+* [50433079](https://news.ycombinator.com/item?id=50433079) #24 106 points 126 comments -> [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)<!-- HN:50433079:end --><!-- HN:50429906:start -->
+* [50429906](https://news.ycombinator.com/item?id=50429906) #1 960 points 586 comments -> [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)<!-- HN:50429906:end --><!-- HN:50436587:start -->
+* [50436587](https://news.ycombinator.com/item?id=50436587) #5 13 points 1 comments -> [Mathematicians Are Like Luddites](https://alok.blog/luddite/)<!-- HN:50436587:end --><!-- HN:50440359:start -->
+* [50440359](https://news.ycombinator.com/item?id=50440359) #9 30 points 23 comments -> [Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)<!-- HN:50440359:end --><!-- HN:50440657:start -->
+* [50440657](https://news.ycombinator.com/item?id=50440657) #16 12 points 1 comments -> [Wake me up when AI can...](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)<!-- HN:50440657:end --><!-- HN:50443313:start -->
+* [50443313](https://news.ycombinator.com/item?id=50443313) #16 4 points 1 comments -> [U.S. highways have 878 stretches of 50+ miles with no fast EV charger (map)](https://chargingnear.me/nevi-charging-gaps)<!-- HN:50443313:end -->
