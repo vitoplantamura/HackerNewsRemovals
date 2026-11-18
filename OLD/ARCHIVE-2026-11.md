@@ -104,3 +104,9 @@
 * [50440359](https://news.ycombinator.com/item?id=50440359) #9 30 points 23 comments -> [Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)<!-- HN:50440359:end --><!-- HN:50440657:start -->
 * [50440657](https://news.ycombinator.com/item?id=50440657) #16 12 points 1 comments -> [Wake me up when AI can...](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)<!-- HN:50440657:end --><!-- HN:50443313:start -->
 * [50443313](https://news.ycombinator.com/item?id=50443313) #16 4 points 1 comments -> [U.S. highways have 878 stretches of 50+ miles with no fast EV charger (map)](https://chargingnear.me/nevi-charging-gaps)<!-- HN:50443313:end -->
+#### **Wednesday, November 11, 2026**
+<!-- HN:50427407:start -->
+* [50427407](https://news.ycombinator.com/item?id=50427407) #14 4 points 2 comments -> [Good Enough for a Tuesday Night](https://www.newyorker.com/culture/the-weekend-essay/good-enough-for-a-tuesday-night)<!-- HN:50427407:end --><!-- HN:50452074:start -->
+* [50452074](https://news.ycombinator.com/item?id=50452074) #7 36 points 31 comments -> [The Zig project is going nowhere](https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere)<!-- HN:50452074:end --><!-- HN:50451985:start -->
+* [50451985](https://news.ycombinator.com/item?id=50451985) #9 36 points 41 comments -> [The Housing Market Is Nuts](https://nuts.logical.li/)<!-- HN:50451985:end --><!-- HN:50428860:start -->
+* [50428860](https://news.ycombinator.com/item?id=50428860) #25 6 points 0 comments -> [Beans at altitude: stovetop vs. pressure cooker](https://highaltitudelife.com/beans-at-altitude-stovetop-vs-pressure-cooker/)<!-- HN:50428860:end -->
