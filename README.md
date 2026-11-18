@@ -136,4 +136,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, November 18, 2026**
 <!-- HN:50541542:start -->
 * [50541542](https://news.social-protocols.org/stats?id=50541542) #17 9 points 1 comments -> [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)<!-- HN:50541542:end --><!-- HN:50497903:start -->
-* [50497903](https://news.social-protocols.org/stats?id=50497903) #27 10 points 3 comments -> [Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help](https://namegarage.com/blog/python-3-15-lazy-imports)<!-- HN:50497903:end -->
+* [50497903](https://news.social-protocols.org/stats?id=50497903) #27 10 points 3 comments -> [Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help](https://namegarage.com/blog/python-3-15-lazy-imports)<!-- HN:50497903:end --><!-- HN:50542217:start -->
+* [50542217](https://news.social-protocols.org/stats?id=50542217) #12 8 points 3 comments -> [I had AI read my field](https://science.caseyhandmer.com/physics/)<!-- HN:50542217:end -->
