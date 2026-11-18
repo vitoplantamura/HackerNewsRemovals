@@ -133,3 +133,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50537470](https://news.social-protocols.org/stats?id=50537470) #18 19 points 1 comments -> [Israel Is Attacking Wikipedia](https://techforpalestine.org/wikipedia-report-2026)<!-- HN:50537470:end --><!-- HN:50533089:start -->
 * [50533089](https://news.social-protocols.org/stats?id=50533089) #19 328 points 4 comments -> [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)<!-- HN:50533089:end --><!-- HN:50538026:start -->
 * [50538026](https://news.social-protocols.org/stats?id=50538026) #11 10 points 2 comments -> [CVE-2026-114938 – Java4Shell](https://www.cve.org/CVERecord?id=CVE-2026-114938)<!-- HN:50538026:end -->
+#### **Wednesday, November 18, 2026**
+<!-- HN:50541542:start -->
+* [50541542](https://news.social-protocols.org/stats?id=50541542) #17 9 points 1 comments -> [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)<!-- HN:50541542:end -->
