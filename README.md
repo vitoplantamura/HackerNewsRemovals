@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50538026](https://news.social-protocols.org/stats?id=50538026) #11 10 points 2 comments -> [CVE-2026-114938 – Java4Shell](https://www.cve.org/CVERecord?id=CVE-2026-114938)<!-- HN:50538026:end -->
 #### **Wednesday, November 18, 2026**
 <!-- HN:50541542:start -->
-* [50541542](https://news.social-protocols.org/stats?id=50541542) #17 9 points 1 comments -> [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)<!-- HN:50541542:end -->
+* [50541542](https://news.social-protocols.org/stats?id=50541542) #17 9 points 1 comments -> [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)<!-- HN:50541542:end --><!-- HN:50497903:start -->
+* [50497903](https://news.social-protocols.org/stats?id=50497903) #27 10 points 3 comments -> [Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help](https://namegarage.com/blog/python-3-15-lazy-imports)<!-- HN:50497903:end -->
