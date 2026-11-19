@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, November 12, 2026**
-<!-- HN:50459776:start -->
-* [50459776](https://news.social-protocols.org/stats?id=50459776) #11 221 points 187 comments -> [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)<!-- HN:50459776:end --><!-- HN:50463813:start -->
-* [50463813](https://news.social-protocols.org/stats?id=50463813) #12 13 points 3 comments -> [Europe has been living beyond its means. Now the bills are due](https://economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due)<!-- HN:50463813:end --><!-- HN:50467139:start -->
-* [50467139](https://news.social-protocols.org/stats?id=50467139) #8 162 points 87 comments -> [Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal](https://www.bbc.co.uk/news/live/c6zjry11v8w1t)<!-- HN:50467139:end --><!-- HN:50467132:start -->
-* [50467132](https://news.social-protocols.org/stats?id=50467132) #3 364 points 197 comments -> [Jensen Huang resigns as Nvidia CEO immediately](https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/)<!-- HN:50467132:end --><!-- HN:50467191:start -->
-* [50467191](https://news.social-protocols.org/stats?id=50467191) #17 70 points 18 comments -> [Nvidia CEO Jensen Huang resigns after reports of extramarital relationships](https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402)<!-- HN:50467191:end --><!-- HN:50469123:start -->
-* [50469123](https://news.social-protocols.org/stats?id=50469123) #26 8 points 3 comments -> [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)<!-- HN:50469123:end --><!-- HN:50470975:start -->
-* [50470975](https://news.social-protocols.org/stats?id=50470975) #23 17 points 8 comments -> [AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)<!-- HN:50470975:end --><!-- HN:50471428:start -->
-* [50471428](https://news.social-protocols.org/stats?id=50471428) #12 14 points 3 comments -> [Gemini 4 Hydrogen](https://deepmind.google/models/model-cards/gemini-4-hydrogen/)<!-- HN:50471428:end --><!-- HN:50471793:start -->
-* [50471793](https://news.social-protocols.org/stats?id=50471793) #2 300 points 7 comments -> [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)<!-- HN:50471793:end --><!-- HN:50473606:start -->
-* [50473606](https://news.social-protocols.org/stats?id=50473606) #23 21 points 14 comments -> [Microsoft Status: "We are re-routing the protocols"](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)<!-- HN:50473606:end -->
 #### **Friday, November 13, 2026**
 <!-- HN:50475735:start -->
 * [50475735](https://news.social-protocols.org/stats?id=50475735) #2 76 points 44 comments -> [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)<!-- HN:50475735:end --><!-- HN:50475505:start -->
