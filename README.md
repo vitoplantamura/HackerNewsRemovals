@@ -141,4 +141,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50547423](https://news.social-protocols.org/stats?id=50547423) #19 87 points 13 comments -> [NGINX2Root by Xint – From Nginx visitor to root of the server host](https://nginx2root.com/)<!-- HN:50547423:end -->
 #### **Thursday, November 19, 2026**
 <!-- HN:50553402:start -->
-* [50553402](https://news.social-protocols.org/stats?id=50553402) #29 11 points 12 comments -> [Why educational system is broken](https://keycybermonk.com/edu)<!-- HN:50553402:end -->
+* [50553402](https://news.social-protocols.org/stats?id=50553402) #29 11 points 12 comments -> [Why educational system is broken](https://keycybermonk.com/edu)<!-- HN:50553402:end --><!-- HN:50553192:start -->
+* [50553192](https://news.social-protocols.org/stats?id=50553192) #28 44 points 40 comments -> [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)<!-- HN:50553192:end -->
