@@ -135,4 +135,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Friday, November 20, 2026**
 <!-- HN:50568643:start -->
 * [50568643](https://news.social-protocols.org/stats?id=50568643) #22 62 points 20 comments -> [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)<!-- HN:50568643:end --><!-- HN:50530426:start -->
-* [50530426](https://news.social-protocols.org/stats?id=50530426) #21 4 points 1 comments -> [Making Art with QR Codes, and the Fine Line Between Inspiration and Idea Theft](https://www.gorillasun.de/blog/making-art-with-qr-codes-and-the-fine-line-between-inspiration-and-idea-theft/)<!-- HN:50530426:end -->
+* [50530426](https://news.social-protocols.org/stats?id=50530426) #21 4 points 1 comments -> [Making Art with QR Codes, and the Fine Line Between Inspiration and Idea Theft](https://www.gorillasun.de/blog/making-art-with-qr-codes-and-the-fine-line-between-inspiration-and-idea-theft/)<!-- HN:50530426:end --><!-- HN:50565788:start -->
+* [50565788](https://news.social-protocols.org/stats?id=50565788) #25 3 points 1 comments -> [Tubemap Mark Two: A geographically-accurate diagram of the London Underground](https://www.marknoaddesign.co.uk/london-tube-map)<!-- HN:50565788:end -->
