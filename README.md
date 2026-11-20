@@ -43,18 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, November 13, 2026**
-<!-- HN:50475735:start -->
-* [50475735](https://news.social-protocols.org/stats?id=50475735) #2 76 points 44 comments -> [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)<!-- HN:50475735:end --><!-- HN:50475505:start -->
-* [50475505](https://news.social-protocols.org/stats?id=50475505) #27 14 points 2 comments -> [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)<!-- HN:50475505:end --><!-- HN:50477331:start -->
-* [50477331](https://news.social-protocols.org/stats?id=50477331) #1 112 points 43 comments -> [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy)<!-- HN:50477331:end --><!-- HN:50480194:start -->
-* [50480194](https://news.social-protocols.org/stats?id=50480194) #3 9 points 1 comments -> [People Vote for Anti-Immigration Parties Because They Don't Like Immigration](https://www.popularbydesign.org/p/people-vote-for-anti-immigration)<!-- HN:50480194:end --><!-- HN:50481354:start -->
-* [50481354](https://news.social-protocols.org/stats?id=50481354) #14 7 points 1 comments -> [Llama.cpp: 6.5x faster prompt processing on Arm with a NEON kernel](https://github.com/hardwiredagent/silicon-forge-arm-neon-study)<!-- HN:50481354:end --><!-- HN:50485166:start -->
-* [50485166](https://news.social-protocols.org/stats?id=50485166) #4 10 points 7 comments -> [Comparing Jensen to Steve Jobs Is Stupid](https://jonaserthal.com/blog/jobs-and-jensen/)<!-- HN:50485166:end --><!-- HN:50487861:start -->
-* [50487861](https://news.social-protocols.org/stats?id=50487861) #6 15 points 4 comments -> [6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)<!-- HN:50487861:end --><!-- HN:50486480:start -->
-* [50486480](https://news.social-protocols.org/stats?id=50486480) #23 21 points 11 comments -> [Gnomon. Git for Postgres data, built for agents](https://github.com/bitsinfra/gnomon)<!-- HN:50486480:end --><!-- HN:50490383:start -->
-* [50490383](https://news.social-protocols.org/stats?id=50490383) #6 -> [US Radar Service Outage](https://www.weather.gov/afc/radaroutage)<!-- HN:50490383:end --><!-- HN:50490967:start -->
-* [50490967](https://news.social-protocols.org/stats?id=50490967) #14 6 points 1 comments -> [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)<!-- HN:50490967:end -->
 #### **Saturday, November 14, 2026**
 <!-- HN:50491753:start -->
 * [50491753](https://news.social-protocols.org/stats?id=50491753) #18 7 points 0 comments -> [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)<!-- HN:50491753:end --><!-- HN:50492450:start -->
