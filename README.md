@@ -125,4 +125,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50582746](https://news.social-protocols.org/stats?id=50582746) #21 22 points 3 comments -> [Supreme Court sentences 29-year-old activist to prison over FB post](https://prachataienglish.com/node/12123)<!-- HN:50582746:end -->
 #### **Saturday, November 21, 2026**
 <!-- HN:50582629:start -->
-* [50582629](https://news.social-protocols.org/stats?id=50582629) #9 43 points 27 comments -> [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)<!-- HN:50582629:end -->
+* [50582629](https://news.social-protocols.org/stats?id=50582629) #9 43 points 27 comments -> [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)<!-- HN:50582629:end --><!-- HN:50588168:start -->
+* [50588168](https://news.social-protocols.org/stats?id=50588168) #1 -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)<!-- HN:50588168:end -->
