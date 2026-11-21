@@ -143,3 +143,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50580176](https://news.social-protocols.org/stats?id=50580176) #10 7 points 3 comments -> [ChurchTerminal – Christian News Dashboard Inspired by Hacker News](https://churchterminal.com/)<!-- HN:50580176:end --><!-- HN:50580385:start -->
 * [50580385](https://news.social-protocols.org/stats?id=50580385) #15 48 points 15 comments -> [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)<!-- HN:50580385:end --><!-- HN:50582746:start -->
 * [50582746](https://news.social-protocols.org/stats?id=50582746) #21 22 points 3 comments -> [Supreme Court sentences 29-year-old activist to prison over FB post](https://prachataienglish.com/node/12123)<!-- HN:50582746:end -->
+#### **Saturday, November 21, 2026**
+<!-- HN:50582629:start -->
+* [50582629](https://news.social-protocols.org/stats?id=50582629) #9 43 points 27 comments -> [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)<!-- HN:50582629:end -->
