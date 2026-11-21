@@ -127,4 +127,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 <!-- HN:50582629:start -->
 * [50582629](https://news.social-protocols.org/stats?id=50582629) #9 43 points 27 comments -> [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)<!-- HN:50582629:end --><!-- HN:50588168:start -->
 * [50588168](https://news.social-protocols.org/stats?id=50588168) #1 -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)<!-- HN:50588168:end --><!-- HN:50588918:start -->
-* [50588918](https://news.social-protocols.org/stats?id=50588918) #3 9 points 4 comments -> [Invalidity of Masullo's Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOM)<!-- HN:50588918:end -->
+* [50588918](https://news.social-protocols.org/stats?id=50588918) #3 9 points 4 comments -> [Invalidity of Masullo's Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOM)<!-- HN:50588918:end --><!-- HN:50591820:start -->
+* [50591820](https://news.social-protocols.org/stats?id=50591820) #8 5 points 2 comments -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)<!-- HN:50591820:end -->
