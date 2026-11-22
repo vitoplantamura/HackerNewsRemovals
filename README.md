@@ -43,16 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Sunday, November 15, 2026**
-<!-- HN:50503034:start -->
-* [50503034](https://news.social-protocols.org/stats?id=50503034) #4 7 points 4 comments -> [Can the AI boom make enough money to sustain itself?](https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself)<!-- HN:50503034:end --><!-- HN:50502768:start -->
-* [50502768](https://news.social-protocols.org/stats?id=50502768) #17 60 points 1 comments -> [US loses measles-free status: Pan American Health Organization](https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status)<!-- HN:50502768:end --><!-- HN:50503731:start -->
-* [50503731](https://news.social-protocols.org/stats?id=50503731) #20 15 points 6 comments -> [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies)<!-- HN:50503731:end --><!-- HN:50501631:start -->
-* [50501631](https://news.social-protocols.org/stats?id=50501631) #14 413 points 205 comments -> [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)<!-- HN:50501631:end --><!-- HN:50507231:start -->
-* [50507231](https://news.social-protocols.org/stats?id=50507231) #13 5 points 0 comments -> [GPU says 35% busy. Busy doing what?](https://tensward.com/blog/gpu-busy-doing-what)<!-- HN:50507231:end --><!-- HN:50507722:start -->
-* [50507722](https://news.social-protocols.org/stats?id=50507722) #16 5 points 10 comments -> [Show HN: A tiny macOS app that turns off the MacBook display [free license]](https://blackoutapp.io/)<!-- HN:50507722:end --><!-- HN:50508076:start -->
-* [50508076](https://news.social-protocols.org/stats?id=50508076) #9 8 points 5 comments -> [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)<!-- HN:50508076:end --><!-- HN:50507989:start -->
-* [50507989](https://news.social-protocols.org/stats?id=50507989) #23 19 points 20 comments -> [The Atheist Bible](https://suchanek.name/texts/atheism/)<!-- HN:50507989:end -->
 #### **Monday, November 16, 2026**
 <!-- HN:50511505:start -->
 * [50511505](https://news.social-protocols.org/stats?id=50511505) #16 11 points 2 comments -> [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)<!-- HN:50511505:end --><!-- HN:50513077:start -->
