@@ -119,3 +119,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50588168](https://news.social-protocols.org/stats?id=50588168) #1 -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)<!-- HN:50588168:end --><!-- HN:50588918:start -->
 * [50588918](https://news.social-protocols.org/stats?id=50588918) #3 9 points 4 comments -> [Invalidity of Masullo's Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOM)<!-- HN:50588918:end --><!-- HN:50591820:start -->
 * [50591820](https://news.social-protocols.org/stats?id=50591820) #8 5 points 2 comments -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)<!-- HN:50591820:end -->
+#### **Sunday, November 22, 2026**
+<!-- HN:50595122:start -->
+* [50595122](https://news.social-protocols.org/stats?id=50595122) #4 9 points 1 comments -> [(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it](https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/)<!-- HN:50595122:end -->
