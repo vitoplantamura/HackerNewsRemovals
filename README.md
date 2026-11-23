@@ -110,3 +110,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50602660](https://news.social-protocols.org/stats?id=50602660) #14 12 points 2 comments -> [Dirac's Theorem at a Dinner Party](https://prideout.net/blog/dirac-dinner-party/)<!-- HN:50602660:end --><!-- HN:50604742:start -->
 * [50604742](https://news.social-protocols.org/stats?id=50604742) #16 25 points 4 comments -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philpapers.org/rec/NIEIOT-2)<!-- HN:50604742:end --><!-- HN:50604959:start -->
 * [50604959](https://news.social-protocols.org/stats?id=50604959) #19 35 points 35 comments -> [Do Not Accept](https://donotaccept.ai/)<!-- HN:50604959:end -->
+#### **Monday, November 23, 2026**
+<!-- HN:50607591:start -->
+* [50607591](https://news.social-protocols.org/stats?id=50607591) #10 8 points 3 comments -> [Mass destruction of weapons](https://computer.rip/2026-11-22-mass-destruction-of-weapons.html)<!-- HN:50607591:end -->
