@@ -112,4 +112,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50604959](https://news.social-protocols.org/stats?id=50604959) #19 35 points 35 comments -> [Do Not Accept](https://donotaccept.ai/)<!-- HN:50604959:end -->
 #### **Monday, November 23, 2026**
 <!-- HN:50607591:start -->
-* [50607591](https://news.social-protocols.org/stats?id=50607591) #10 8 points 3 comments -> [Mass destruction of weapons](https://computer.rip/2026-11-22-mass-destruction-of-weapons.html)<!-- HN:50607591:end -->
+* [50607591](https://news.social-protocols.org/stats?id=50607591) #10 8 points 3 comments -> [Mass destruction of weapons](https://computer.rip/2026-11-22-mass-destruction-of-weapons.html)<!-- HN:50607591:end --><!-- HN:50609079:start -->
+* [50609079](https://news.social-protocols.org/stats?id=50609079) #11 71 points 36 comments -> [GTA 6 building personal behavioral profile for every player](https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve)<!-- HN:50609079:end -->
