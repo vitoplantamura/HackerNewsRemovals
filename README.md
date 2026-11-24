@@ -102,3 +102,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50616947](https://news.social-protocols.org/stats?id=50616947) #30 33 points 15 comments -> [Iranian authorities flog singer who performed without hijab, lawyers say](https://www.bbc.com/news/articles/cq1j6585l5g6o)<!-- HN:50616947:end --><!-- HN:50618490:start -->
 * [50618490](https://news.social-protocols.org/stats?id=50618490) #12 48 points 29 comments -> [Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)<!-- HN:50618490:end --><!-- HN:50620252:start -->
 * [50620252](https://news.social-protocols.org/stats?id=50620252) #4 23 points 2 comments -> [VP != VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf)<!-- HN:50620252:end -->
+#### **Tuesday, November 24, 2026**
+<!-- HN:50623166:start -->
+* [50623166](https://news.social-protocols.org/stats?id=50623166) #24 6 points 2 comments -> [Zero data retention with Enterprise Frontier Safeguards is now in beta](https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards)<!-- HN:50623166:end -->
