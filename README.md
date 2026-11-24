@@ -43,22 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Tuesday, November 17, 2026**
-<!-- HN:50523300:start -->
-* [50523300](https://news.social-protocols.org/stats?id=50523300) #4 184 points 2 comments -> [Optimizely Compromised](https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/)<!-- HN:50523300:end --><!-- HN:50525646:start -->
-* [50525646](https://news.social-protocols.org/stats?id=50525646) #21 8 points 0 comments -> [Doom on the Nikon Z 6II camera](https://arnebaeyens.com/blog/2026/doom-on-nikon-z6ii/)<!-- HN:50525646:end --><!-- HN:50526380:start -->
-* [50526380](https://news.social-protocols.org/stats?id=50526380) #9 8 points 1 comments -> [Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones](https://wine-assembly.berrry.app/)<!-- HN:50526380:end --><!-- HN:50526527:start -->
-* [50526527](https://news.social-protocols.org/stats?id=50526527) #30 12 points 5 comments -> [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)<!-- HN:50526527:end --><!-- HN:50527311:start -->
-* [50527311](https://news.social-protocols.org/stats?id=50527311) #24 11 points 5 comments -> [Unkernel: Linux kernel in WASM](https://unkernel.dev)<!-- HN:50527311:end --><!-- HN:50506648:start -->
-* [50506648](https://news.social-protocols.org/stats?id=50506648) #9 6 points 2 comments -> [The Token Supercycle](https://solana.com/news/the-token-supercycle-oped)<!-- HN:50506648:end --><!-- HN:50528364:start -->
-* [50528364](https://news.social-protocols.org/stats?id=50528364) #11 7 points 0 comments -> [40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md](https://verisource.dev/benchmarks/ai-search-readiness-2026)<!-- HN:50528364:end --><!-- HN:50530450:start -->
-* [50530450](https://news.social-protocols.org/stats?id=50530450) #14 120 points 55 comments -> [Regulatory Capture by Anthropic Through METR](https://nitter.cf/kevinnbass/status/2099621874279817638)<!-- HN:50530450:end --><!-- HN:50532822:start -->
-* [50532822](https://news.social-protocols.org/stats?id=50532822) #8 8 points 3 comments -> [GPT-6.2 Astra](https://openai.com/index/introducing-gpt-6-2-astra/)<!-- HN:50532822:end --><!-- HN:50532315:start -->
-* [50532315](https://news.social-protocols.org/stats?id=50532315) #7 93 points 44 comments -> [Pentagon fails 9th financial audit in a row](https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/)<!-- HN:50532315:end --><!-- HN:50534664:start -->
-* [50534664](https://news.social-protocols.org/stats?id=50534664) #8 70 points 11 comments -> [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)<!-- HN:50534664:end --><!-- HN:50537470:start -->
-* [50537470](https://news.social-protocols.org/stats?id=50537470) #18 19 points 1 comments -> [Israel Is Attacking Wikipedia](https://techforpalestine.org/wikipedia-report-2026)<!-- HN:50537470:end --><!-- HN:50533089:start -->
-* [50533089](https://news.social-protocols.org/stats?id=50533089) #19 328 points 4 comments -> [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)<!-- HN:50533089:end --><!-- HN:50538026:start -->
-* [50538026](https://news.social-protocols.org/stats?id=50538026) #11 10 points 2 comments -> [CVE-2026-114938 – Java4Shell](https://www.cve.org/CVERecord?id=CVE-2026-114938)<!-- HN:50538026:end -->
 #### **Wednesday, November 18, 2026**
 <!-- HN:50541542:start -->
 * [50541542](https://news.social-protocols.org/stats?id=50541542) #17 9 points 1 comments -> [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)<!-- HN:50541542:end --><!-- HN:50497903:start -->
