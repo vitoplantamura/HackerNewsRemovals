@@ -105,4 +105,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Tuesday, November 24, 2026**
 <!-- HN:50623166:start -->
 * [50623166](https://news.social-protocols.org/stats?id=50623166) #24 6 points 2 comments -> [Zero data retention with Enterprise Frontier Safeguards is now in beta](https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards)<!-- HN:50623166:end --><!-- HN:50622769:start -->
-* [50622769](https://news.social-protocols.org/stats?id=50622769) #1 129 points 36 comments -> [New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)<!-- HN:50622769:end -->
+* [50622769](https://news.social-protocols.org/stats?id=50622769) #1 129 points 36 comments -> [New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)<!-- HN:50622769:end --><!-- HN:50623175:start -->
+* [50623175](https://news.social-protocols.org/stats?id=50623175) #30 9 points 0 comments -> [Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)<!-- HN:50623175:end -->
