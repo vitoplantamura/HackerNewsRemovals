@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50620252](https://news.social-protocols.org/stats?id=50620252) #4 23 points 2 comments -> [VP != VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf)<!-- HN:50620252:end -->
 #### **Tuesday, November 24, 2026**
 <!-- HN:50623166:start -->
-* [50623166](https://news.social-protocols.org/stats?id=50623166) #24 6 points 2 comments -> [Zero data retention with Enterprise Frontier Safeguards is now in beta](https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards)<!-- HN:50623166:end -->
+* [50623166](https://news.social-protocols.org/stats?id=50623166) #24 6 points 2 comments -> [Zero data retention with Enterprise Frontier Safeguards is now in beta](https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards)<!-- HN:50623166:end --><!-- HN:50622769:start -->
+* [50622769](https://news.social-protocols.org/stats?id=50622769) #1 129 points 36 comments -> [New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)<!-- HN:50622769:end -->
