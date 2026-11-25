@@ -103,4 +103,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50635941](https://news.social-protocols.org/stats?id=50635941) #16 26 points 18 comments -> [Jensen Huang Spy Story Is a Hoax](https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax)<!-- HN:50635941:end -->
 #### **Wednesday, November 25, 2026**
 <!-- HN:50638811:start -->
-* [50638811](https://news.social-protocols.org/stats?id=50638811) #16 8 points 2 comments -> [Invisible Wave Hits California, Oregon and Canada as Towns Evacuate](https://www.abovethenormnews.com/2026/11/24/king-tides-california/)<!-- HN:50638811:end -->
+* [50638811](https://news.social-protocols.org/stats?id=50638811) #16 8 points 2 comments -> [Invisible Wave Hits California, Oregon and Canada as Towns Evacuate](https://www.abovethenormnews.com/2026/11/24/king-tides-california/)<!-- HN:50638811:end --><!-- HN:50638523:start -->
+* [50638523](https://news.social-protocols.org/stats?id=50638523) #29 21 points 4 comments -> [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)<!-- HN:50638523:end -->
