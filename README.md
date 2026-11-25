@@ -104,4 +104,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Wednesday, November 25, 2026**
 <!-- HN:50638811:start -->
 * [50638811](https://news.social-protocols.org/stats?id=50638811) #16 8 points 2 comments -> [Invisible Wave Hits California, Oregon and Canada as Towns Evacuate](https://www.abovethenormnews.com/2026/11/24/king-tides-california/)<!-- HN:50638811:end --><!-- HN:50638523:start -->
-* [50638523](https://news.social-protocols.org/stats?id=50638523) #29 21 points 4 comments -> [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)<!-- HN:50638523:end -->
+* [50638523](https://news.social-protocols.org/stats?id=50638523) #29 21 points 4 comments -> [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)<!-- HN:50638523:end --><!-- HN:50608973:start -->
+* [50608973](https://news.social-protocols.org/stats?id=50608973) #11 9 points 6 comments -> [Why Airlines Accept A321XLR's Heavier Takeoff Weight on Flights Shorter &lt; 1 Hour](https://simpleflying.com/airlines-accept-airbus-a321xlr-heavier-101-tonne-maximum-takeoff-weight-flights-shorter-hour/)<!-- HN:50608973:end -->
