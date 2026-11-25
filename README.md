@@ -101,3 +101,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50631900](https://news.social-protocols.org/stats?id=50631900) #16 12 points 15 comments -> [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)<!-- HN:50631900:end --><!-- HN:50632804:start -->
 * [50632804](https://news.social-protocols.org/stats?id=50632804) #22 6 points 0 comments -> [Iran's quest for its own Monroe Doctrine](https://engelsbergideas.com/notebook/irans-quest-for-its-own-monroe-doctrine/)<!-- HN:50632804:end --><!-- HN:50635941:start -->
 * [50635941](https://news.social-protocols.org/stats?id=50635941) #16 26 points 18 comments -> [Jensen Huang Spy Story Is a Hoax](https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax)<!-- HN:50635941:end -->
+#### **Wednesday, November 25, 2026**
+<!-- HN:50638811:start -->
+* [50638811](https://news.social-protocols.org/stats?id=50638811) #16 8 points 2 comments -> [Invisible Wave Hits California, Oregon and Canada as Towns Evacuate](https://www.abovethenormnews.com/2026/11/24/king-tides-california/)<!-- HN:50638811:end -->
