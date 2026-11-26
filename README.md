@@ -105,3 +105,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50644162](https://news.social-protocols.org/stats?id=50644162) #9 30 points 8 comments -> [Anthropic migrated Messages API to Rust with no Rust developers](https://www.anthropic.com/research/migrating-api-to-rust)<!-- HN:50644162:end --><!-- HN:50646781:start -->
 * [50646781](https://news.social-protocols.org/stats?id=50646781) #11 9 points 2 comments -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philpapers.org/rec/NIEIOT-2)<!-- HN:50646781:end --><!-- HN:50647895:start -->
 * [50647895](https://news.social-protocols.org/stats?id=50647895) #9 9 points 1 comments -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philpapers.org/rec/NIEIOT-2)<!-- HN:50647895:end -->
+#### **Thursday, November 26, 2026**
+<!-- HN:50615059:start -->
+* [50615059](https://news.social-protocols.org/stats?id=50615059) #18 20 points 5 comments -> [Who is in charge of Britain's web addresses?](https://medium.com/@jharbourne/who-is-in-charge-of-britains-web-addresses-6efc797bc133)<!-- HN:50615059:end -->
