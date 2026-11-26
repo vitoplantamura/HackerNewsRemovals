@@ -43,12 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Thursday, November 19, 2026**
-<!-- HN:50553402:start -->
-* [50553402](https://news.social-protocols.org/stats?id=50553402) #29 11 points 12 comments -> [Why educational system is broken](https://keycybermonk.com/edu)<!-- HN:50553402:end --><!-- HN:50553192:start -->
-* [50553192](https://news.social-protocols.org/stats?id=50553192) #28 44 points 40 comments -> [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)<!-- HN:50553192:end --><!-- HN:50564004:start -->
-* [50564004](https://news.social-protocols.org/stats?id=50564004) #10 12 points 5 comments -> [Chile: UFO Sightings by 18th Century Jesuits](https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html)<!-- HN:50564004:end --><!-- HN:50526244:start -->
-* [50526244](https://news.social-protocols.org/stats?id=50526244) #29 -> [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)<!-- HN:50526244:end -->
 #### **Friday, November 20, 2026**
 <!-- HN:50568643:start -->
 * [50568643](https://news.social-protocols.org/stats?id=50568643) #22 62 points 20 comments -> [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)<!-- HN:50568643:end --><!-- HN:50530426:start -->
