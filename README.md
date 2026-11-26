@@ -107,4 +107,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50647895](https://news.social-protocols.org/stats?id=50647895) #9 9 points 1 comments -> [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philpapers.org/rec/NIEIOT-2)<!-- HN:50647895:end -->
 #### **Thursday, November 26, 2026**
 <!-- HN:50615059:start -->
-* [50615059](https://news.social-protocols.org/stats?id=50615059) #18 20 points 5 comments -> [Who is in charge of Britain's web addresses?](https://medium.com/@jharbourne/who-is-in-charge-of-britains-web-addresses-6efc797bc133)<!-- HN:50615059:end -->
+* [50615059](https://news.social-protocols.org/stats?id=50615059) #18 20 points 5 comments -> [Who is in charge of Britain's web addresses?](https://medium.com/@jharbourne/who-is-in-charge-of-britains-web-addresses-6efc797bc133)<!-- HN:50615059:end --><!-- HN:50654354:start -->
+* [50654354](https://news.social-protocols.org/stats?id=50654354) #4 7 points 3 comments -> [Samsung TV has 650 free channels behind one button most owners never press](https://www.makeuseof.com/samsung-tv-plus/)<!-- HN:50654354:end -->
