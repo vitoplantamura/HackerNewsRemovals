@@ -102,4 +102,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50654669](https://news.social-protocols.org/stats?id=50654669) #30 3 points 0 comments -> [What if everyone had a wealth manager?](https://christian-tonny.dev/money)<!-- HN:50654669:end -->
 #### **Friday, November 27, 2026**
 <!-- HN:50662217:start -->
-* [50662217](https://news.social-protocols.org/stats?id=50662217) #8 9 points 1 comments -> [Show HN: Sqrin – A better screen share for Mac](https://sqrin.app)<!-- HN:50662217:end -->
+* [50662217](https://news.social-protocols.org/stats?id=50662217) #8 9 points 1 comments -> [Show HN: Sqrin – A better screen share for Mac](https://sqrin.app)<!-- HN:50662217:end --><!-- HN:50662153:start -->
+* [50662153](https://news.social-protocols.org/stats?id=50662153) #8 24 points 9 comments -> [New AI research suggests AI bubble bursting and to expect major market collapse](https://www.london.edu/think/ai-bubble-about-to-burst)<!-- HN:50662153:end -->
