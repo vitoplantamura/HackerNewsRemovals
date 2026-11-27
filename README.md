@@ -100,3 +100,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50654354](https://news.social-protocols.org/stats?id=50654354) #4 7 points 3 comments -> [Samsung TV has 650 free channels behind one button most owners never press](https://www.makeuseof.com/samsung-tv-plus/)<!-- HN:50654354:end --><!-- HN:50654863:start -->
 * [50654863](https://news.social-protocols.org/stats?id=50654863) #7 3 points 1 comments -> [What broke in 27 days of running a team of AI agents on real work](https://ethanflow.com/writing/what-broke-ai-agent-team/)<!-- HN:50654863:end --><!-- HN:50654669:start -->
 * [50654669](https://news.social-protocols.org/stats?id=50654669) #30 3 points 0 comments -> [What if everyone had a wealth manager?](https://christian-tonny.dev/money)<!-- HN:50654669:end -->
+#### **Friday, November 27, 2026**
+<!-- HN:50662217:start -->
+* [50662217](https://news.social-protocols.org/stats?id=50662217) #8 9 points 1 comments -> [Show HN: Sqrin – A better screen share for Mac](https://sqrin.app)<!-- HN:50662217:end -->
