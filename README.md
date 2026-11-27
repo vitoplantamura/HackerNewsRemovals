@@ -43,17 +43,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 
 **NOTE**: always check whether a Story is a duplicate or not: this is a very reasonable reason for removal and unfortunately I have no way of automatically determining it in the service!
 
-#### **Friday, November 20, 2026**
-<!-- HN:50568643:start -->
-* [50568643](https://news.social-protocols.org/stats?id=50568643) #22 62 points 20 comments -> [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)<!-- HN:50568643:end --><!-- HN:50530426:start -->
-* [50530426](https://news.social-protocols.org/stats?id=50530426) #21 4 points 1 comments -> [Making Art with QR Codes, and the Fine Line Between Inspiration and Idea Theft](https://www.gorillasun.de/blog/making-art-with-qr-codes-and-the-fine-line-between-inspiration-and-idea-theft/)<!-- HN:50530426:end --><!-- HN:50565788:start -->
-* [50565788](https://news.social-protocols.org/stats?id=50565788) #25 3 points 1 comments -> [Tubemap Mark Two: A geographically-accurate diagram of the London Underground](https://www.marknoaddesign.co.uk/london-tube-map)<!-- HN:50565788:end --><!-- HN:50574772:start -->
-* [50574772](https://news.social-protocols.org/stats?id=50574772) #9 23 points 15 comments -> [Llms.txt and MCP didn't move the needle](https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did)<!-- HN:50574772:end --><!-- HN:50520420:start -->
-* [50520420](https://news.social-protocols.org/stats?id=50520420) #24 17 points 8 comments -> [Creativity in Negative Space](https://spf13.com/p/creativity-in-negative-space/)<!-- HN:50520420:end --><!-- HN:50578289:start -->
-* [50578289](https://news.social-protocols.org/stats?id=50578289) #10 7 points 1 comments -> [Anthropic's Plunge Deepens AI Selloff](https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html)<!-- HN:50578289:end --><!-- HN:50580176:start -->
-* [50580176](https://news.social-protocols.org/stats?id=50580176) #10 7 points 3 comments -> [ChurchTerminal – Christian News Dashboard Inspired by Hacker News](https://churchterminal.com/)<!-- HN:50580176:end --><!-- HN:50580385:start -->
-* [50580385](https://news.social-protocols.org/stats?id=50580385) #15 48 points 15 comments -> [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)<!-- HN:50580385:end --><!-- HN:50582746:start -->
-* [50582746](https://news.social-protocols.org/stats?id=50582746) #21 22 points 3 comments -> [Supreme Court sentences 29-year-old activist to prison over FB post](https://prachataienglish.com/node/12123)<!-- HN:50582746:end -->
 #### **Saturday, November 21, 2026**
 <!-- HN:50582629:start -->
 * [50582629](https://news.social-protocols.org/stats?id=50582629) #9 43 points 27 comments -> [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)<!-- HN:50582629:end --><!-- HN:50588168:start -->
