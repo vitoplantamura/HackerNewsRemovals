@@ -108,3 +108,6 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50667744](https://news.social-protocols.org/stats?id=50667744) #5 163 points 66 comments -> [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)<!-- HN:50667744:end --><!-- HN:50670517:start -->
 * [50670517](https://news.social-protocols.org/stats?id=50670517) #11 7 points 4 comments -> [I'm a watchmaker and I accidentally made a software factory](https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/)<!-- HN:50670517:end --><!-- HN:50672734:start -->
 * [50672734](https://news.social-protocols.org/stats?id=50672734) #25 9 points 0 comments -> [Documents expose Israel's state-funded propaganda network](https://www.972mag.com/voices-of-israel-documents-propaganda-network/)<!-- HN:50672734:end -->
+#### **Saturday, November 28, 2026**
+<!-- HN:50672829:start -->
+* [50672829](https://news.social-protocols.org/stats?id=50672829) #22 14 points 5 comments -> [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)<!-- HN:50672829:end -->
