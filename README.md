@@ -110,4 +110,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 * [50672734](https://news.social-protocols.org/stats?id=50672734) #25 9 points 0 comments -> [Documents expose Israel's state-funded propaganda network](https://www.972mag.com/voices-of-israel-documents-propaganda-network/)<!-- HN:50672734:end -->
 #### **Saturday, November 28, 2026**
 <!-- HN:50672829:start -->
-* [50672829](https://news.social-protocols.org/stats?id=50672829) #22 14 points 5 comments -> [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)<!-- HN:50672829:end -->
+* [50672829](https://news.social-protocols.org/stats?id=50672829) #22 14 points 5 comments -> [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)<!-- HN:50672829:end --><!-- HN:50676532:start -->
+* [50676532](https://news.social-protocols.org/stats?id=50676532) #5 5 points 0 comments -> [No perfect way to find the love of your life](https://yappings.mikeluu.xyz/blogs/the-perfect-partner)<!-- HN:50676532:end -->
