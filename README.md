@@ -111,4 +111,5 @@ Using the [official HN API](https://github.com/HackerNews/API), the service fetc
 #### **Saturday, November 28, 2026**
 <!-- HN:50672829:start -->
 * [50672829](https://news.social-protocols.org/stats?id=50672829) #22 14 points 5 comments -> [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)<!-- HN:50672829:end --><!-- HN:50676532:start -->
-* [50676532](https://news.social-protocols.org/stats?id=50676532) #5 5 points 0 comments -> [No perfect way to find the love of your life](https://yappings.mikeluu.xyz/blogs/the-perfect-partner)<!-- HN:50676532:end -->
+* [50676532](https://news.social-protocols.org/stats?id=50676532) #5 5 points 0 comments -> [No perfect way to find the love of your life](https://yappings.mikeluu.xyz/blogs/the-perfect-partner)<!-- HN:50676532:end --><!-- HN:50677014:start -->
+* [50677014](https://news.social-protocols.org/stats?id=50677014) #18 13 points 4 comments -> [AnthropicAI posted a fraudulent proof of RH](https://twitter.com/QualiaQuanta/status/2126158001035768256)<!-- HN:50677014:end -->
